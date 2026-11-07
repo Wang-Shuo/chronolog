@@ -4,20 +4,20 @@ date: '2025-06-10'
 description: 'Windsurf · 2025-06-10 · Interface Experience: New menu to open previous
   conversations to quickly switch conversations'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 883
+  lag_days: 2249
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 562bff805625f5471bb71decf54f5edcff0d820bfaca918094e9df48b531b383
+machine_hash: 498eaed19fa69f06198b2544c2bd0cd9b069546a9434d4398e36b80b1f4dfb67
 product: windsurf
 product_name: Windsurf
 record:
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

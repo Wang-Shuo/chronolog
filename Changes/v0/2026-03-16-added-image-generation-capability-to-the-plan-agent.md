@@ -4,20 +4,20 @@ date: '2026-03-16'
 description: 'v0 · 2026-03-16 · Image Generation: Added image generation capability
   to the Plan agent'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 736
+  lag_days: 994
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9b7f9186f8cf43c1ee4863c025ff1c515247d1ec2d17f3aac2210c2eccebe561
+machine_hash: 4be5af0d4149d9e0d4adb6d3dcfe73f063db17f19895fb75aa264c9d0ea87546
 product: v0
 product_name: v0
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-image-generation-updates|Image generation updates]]
-- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-rag-query-generation-robustness-the-rag-query-generation-web-search-and-image-ge|🔍 RAG query generation robustness. The RAG query generation, web search…]]
+- Later: 2026-03-17 · Descript · [[Changes/Descript/2026-03-17-generated-avatar-images-are-now-saved-in-your-project-files|Generated avatar images are now saved in your project files]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

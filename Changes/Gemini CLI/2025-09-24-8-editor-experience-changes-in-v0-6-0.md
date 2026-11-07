@@ -5,20 +5,19 @@ description: 'Gemini CLI · 2025-09-24 · Editor Experience: 8 changes in Releas
   — feat(ui): make accept edits & yolo mode match shell mode styles by @miguelsolorio
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 925
+  lag_days: 2509
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d34f51fcf76e426efc9710a909380f142d02edfbe61135f2e01f0f0dfe5dcf02
+machine_hash: 7ca97cc129275ea2683ca128b87f5f60b5121605d9ddb0912c392e2ed07e7c37
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -123,7 +122,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.6.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

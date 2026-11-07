@@ -4,20 +4,20 @@ date: '2025-09-04'
 description: 'Gemini CLI · 2025-09-04 · Apps and Integrations: 17 changes in Release
   v0.3.0 — Changes to add MCP tool count, and MCP tool name as dimension by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 896
+  lag_days: 2456
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09b90abebae82e1b2f6cf921283110b46ba81742b9f43af1b9184f7daab5965a
+machine_hash: 9b9aadd128dbadf1a3996d474c865379e3b7af65bf32fc00db442d53ee387333
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -164,7 +164,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

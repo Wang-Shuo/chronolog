@@ -4,20 +4,20 @@ date: '2025-08-13'
 description: 'Gemini CLI · 2025-08-13 · Safety and Privacy: ensure sandbox build script
   is cross-platform by @wldoooon in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 850
+  lag_days: 1842
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 047fbdfe041476685c3ac0905e703342affd718d95553294f9cab9a201291eea
+machine_hash: c857d305f1d257c5bec3a3a17fb70bc19572c9cbc4b82a4b1e0a19d08fc95d29
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

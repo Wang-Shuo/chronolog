@@ -4,20 +4,20 @@ date: '2026-08-20'
 description: 'Google Antigravity · 2026-08-20 · Voice and Audio: Large binary attachments
   returned by connected MCP tools — images, PDFs, and audio — are now saved to a file…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1137
+  lag_days: 2964
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6941e65186f8fff1faadf11cfacbc2b185e79dd06e9430a97170fe252233ba69
+machine_hash: c29bb88c8b8314d552efe419f1ae7303ed3e3790780f0905f0e2c3db52a6421c
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

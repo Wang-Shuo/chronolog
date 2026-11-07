@@ -4,19 +4,20 @@ date: '2026-06-19'
 description: 'v0 · 2026-06-19 · Collaboration: 4 changes in Annotations mode, in-form
   questions, and wallet checkout — Teams with a custom deployment suffix now see their…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1122
+  lag_days: 2716
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 877f5a79fc64373749b2668bc47342f3f9213633aea191cf9992267864ff7f8d
+machine_hash: 88fd479b1bb5fb01ed3c0aac279f5086a2e6e5a959719dbfcab02ca1697bf242
 product: v0
 product_name: v0
 record:
@@ -49,8 +50,9 @@ record:
   title: 4 Collaboration changes in Annotations mode, in-form questions…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-15-clearer-inbox-notifications|Clearer inbox notifications]]'
 - '[[Changes/Lovable/2026-06-16-cleaner-preview-links|Cleaner preview links]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-connect-15five-data-to-surface-team-priorities-and-recognition-web-microsoft-365|Connect
+  15Five data to surface team priorities and recognition…]]'
 - '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
   Cup updates]]'
 source_release: '[[Releases/v0/v0-2026-06-19-2026-06-19-ff036602|v0-2026-06-19-2026-06-19-ff036602]]'
@@ -103,7 +105,7 @@ Source: https://v0.app/changelog#2026-06-19
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

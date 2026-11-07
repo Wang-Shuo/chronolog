@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-05-04 · Safety and Privacy: SDK hosts now rec
   a persistent `localSettings` suggestion for Bash permission prompts, so "Always
   allow"…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1114
+  lag_days: 2106
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0b7b91fc55d6be4120b46f2db0bb280a514f4c6af0eb423a1a9ca24b73abcf6
+machine_hash: c7ae377b6538deaa050642ec0e62ae94fe13ce59cb32c180d5a89d3359a8323a
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

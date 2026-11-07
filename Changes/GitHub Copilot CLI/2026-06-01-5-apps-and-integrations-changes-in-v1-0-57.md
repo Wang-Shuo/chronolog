@@ -4,20 +4,20 @@ date: '2026-06-01'
 description: 'GitHub Copilot CLI · 2026-06-01 · Apps and Integrations: 5 changes in
   1.0.57 — MCP server timeout configuration is preserved after tools list changes'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1166
+  lag_days: 2726
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18575bf10970b122b0bf5dd30189a122279e97dea3edbe6c21cbdbc96864cdf4
+machine_hash: f7c9bf3cc9e96ae34da71c9e06235aed065daf96a4fed3b44e544c9a15c75110
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.57
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

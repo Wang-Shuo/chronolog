@@ -4,20 +4,20 @@ date: '2026-04-23'
 description: 'Gemini CLI · 2026-04-23 · Interface Experience: Stop showing scrollbar
   unless we are in terminalBuffer mode by @jacob314 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1200
+  lag_days: 2566
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84024a466c70253570d39220a0562a9da78ee902910adaf31bc0969f15f42275
+machine_hash: 12e416b4b038f0f8507505d2be5f7ce972c30cf9656816c4faf03dc0250d9cb6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

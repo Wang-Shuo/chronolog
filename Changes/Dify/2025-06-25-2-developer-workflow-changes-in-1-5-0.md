@@ -4,19 +4,20 @@ date: '2025-06-25'
 description: 'Dify · 2025-06-25 · Developer Workflow: 2 changes in v1.5.0 — feat:
   Persist Variables for Enhanced Debugging Workflow by @QuantumGhost in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 830
+  lag_days: 2479
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aef7b0688ac2303e05382048f4952d88e10e268ff0186a1c3bf500e77b03b061
+machine_hash: 0c98807439b6eb33ab0604ae6e157fa0644bd185b5e67f95681eff6fe34784e6
 product: dify
 product_name: Dify
 record:
@@ -95,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.5.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2025-10-08'
 description: 'GitHub Copilot CLI · 2025-10-08 · Editor Experience: 2 changes in 0.0.337
   — Added support for Ctrl+B and Ctrl+F for moving cursor back and forward (fixes…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 939
+  lag_days: 2523
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4c87f8a987a3bf6abc98aaa11e321dcde734d2a546df33a288dfd12b33fb810
+machine_hash: 9dbc9716cd722f218a11a15417e528b943662a2fd3b54a575bfe168637d807ed
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,13 +83,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.337
 ## Nearby in Editor Experience
 
 - Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-tab-characters-are-now-preserved-when-pasting-code-or-formatted-text-into-the-ch|⌨️ Tab characters are now preserved when pasting code or formatted text…]]
-- Later: 2025-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-09-2-editor-experience-changes-in-v0-0-338|2 Editor Experience changes in v0.0.338]]
+- Later: 2025-10-09 · Descript · [[Changes/Descript/2025-10-09-cancel-and-restart-buttons-added-to-editor-and-screen-recorder|Cancel and restart buttons added to Editor and Screen recorder]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

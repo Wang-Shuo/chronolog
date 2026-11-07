@@ -5,20 +5,19 @@ description: 'Google Antigravity · 2026-05-22 · Editor Experience: 2 changes i
   v2.0.6 — Antigravity IDE integration — Add an install IDE button if Antigravity
   IDE is…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1165
+  lag_days: 2749
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b951b006635784d7fbcf965359d7bf55f3ca613a92c00982d8a7f62d958d93c
+machine_hash: 8e3e36e95b2ffb6651d89ab026e44420acdb23efd29d6fa561ee52459b3a1d0a
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -90,7 +89,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.0.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

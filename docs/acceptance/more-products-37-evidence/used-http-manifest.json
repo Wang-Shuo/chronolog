@@ -1,0 +1,2110 @@
+[
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 1,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:43:54Z",
+    "sha256": "c4cf49326b97fe051ab0b235286cedae75e8a49690e2cb23379c1047b166d75c",
+    "file": "c3be4664772bd928cdef3b41eb1eb4999d5e71eb19d148ab406d4e885977ab71.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 2,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:43:56Z",
+    "sha256": "8dfe84922165d918854720239cef52e59bb4527146055fb0c38e4f612f7d7fa6",
+    "file": "53cc910535af65a18c0d6a119dc1bf044b5226dc90130f2620a39e075fa05a5d.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 3,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:43:58Z",
+    "sha256": "eafffd530475bc5b4bcb73b9402c9f4abc14b46d6607860fa63cd18fd692df54",
+    "file": "decdb9664ac1d4c6d7ac8f11b74ac06f61030d45c6f446da6557ca3ace0f5e76.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 4,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:00Z",
+    "sha256": "79bdf8896fafd84cb580e633d02bd2fd39f8b6f67f703ae20fe30fa496bb9fee",
+    "file": "944ae5da1fc914c89a84d689aa23e55d93c863f579a092a646ef68d8c6929df9.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 5,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:02Z",
+    "sha256": "6377a0294741043fc801e9e567c637b431eeb3135b1415e9cf633acb65d4c0f1",
+    "file": "b67c65f5235e577d0995ecde5b0dbe368c4024d93a71b908ec2284141e6dc279.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 6,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:04Z",
+    "sha256": "e81d89c209fcd0fd6178838b92861fb987753f1399625c681ecf95e62494cf7e",
+    "file": "56afd742c16757fd4e7ed2dd5aab351932e3eed2b49b00b070935e12c0673857.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 7,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:07Z",
+    "sha256": "379e6a54f8d69623d908219168f0dd3c5b6d32cf74d7fc2694c2b168d4f02855",
+    "file": "b9c9e2c273f78182e9c4ef9a5f8cb23e4cbfff8d790c7404fe41ac9b66c0b872.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 8,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:09Z",
+    "sha256": "e61054908e099900a795c1dea01c7624c8c62c613afcd14ff29c47923131bfc3",
+    "file": "9c725a1a30e26225a11a8f65bddecabff068514130cd9127bc120a90aae3d7f5.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 9,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:11Z",
+    "sha256": "67962408263b21d64c4f826fb38ad1a8cc5b92c8416d755e61378daa7d134232",
+    "file": "4838aeb250ef8f170a3d9be986dfea04dac3cfc0c9d41cb3f12844ca63ac5bc5.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 10,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:13Z",
+    "sha256": "65bcf7a4b3732ff9799c545abb8f886630a4f291d718d6600b387a2a727271a6",
+    "file": "332088e7677e92880eb5f0f6803fb18d7c578cd43cb3bc37de2c87e184b2168c.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 11,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:15Z",
+    "sha256": "8466ce0999f81024f3d4b628a8892b16f1679b557cf9edb6608c400be963351a",
+    "file": "fea3f0df6a5ea3da2b5e2479ad28629979b6883e5c57648080d276d1343ae289.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 12,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:17Z",
+    "sha256": "8ac2ef2bb651457b184fdac777e08816fceb96ab9214e21efd6c455c44961786",
+    "file": "1a0196e007f764111f546c6b8fc7c814fc72b7b0f6a2a67c9151f47c9080e884.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 13,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:20Z",
+    "sha256": "5427def1497f41a8da5e8498935617a742535c6929a2734df652de00b91dce5e",
+    "file": "4805784b0df10d2523f0bf31cde41cfd17b2ca4d303db1f70fd204a81c1951ab.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 14,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:22Z",
+    "sha256": "ae8a7472ddb4718e45de4a4603d4c6d8a995da3cd55a32e2d0ba7f335c160042",
+    "file": "39d450183b10796b5aab24d2cfe611f8f4da04ee5c2ab6a5218f7784a15f0a07.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 15,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:25Z",
+    "sha256": "e4a34bbb6e4703685bd1a7c9d48d6d7403e569541a365a925e4187b93f627ad9",
+    "file": "b4f336e788a1a4fcae0a6670c27a557410c9ebadd7c89c207051057f3ef7fe61.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 16,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:27Z",
+    "sha256": "27746fbea427ac57108ce4827029c571a63b4eca662b708614aa2f082985112f",
+    "file": "69173ccba763ffc22d9706dc1f39d87c1712d76b743ee220e65820a26e827f3e.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 17,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:29Z",
+    "sha256": "c643f88d7c921be4d987d831a83d3b1c1c426b0b3157746acbc5b64a04a189ad",
+    "file": "eb6c1fe0e6a34849c33a8dcabe228920279ba5eab34a44e1f68c9a70bfa53bf5.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 18,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:31Z",
+    "sha256": "1270779a824269bb7114489385dc2a3c4c7da2d4b60c6c5a16ec5945f54b8be2",
+    "file": "18e845416ffa2da042a759a0243936c3c81f9489fac344f9ddc58382002f926e.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 19,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:33Z",
+    "sha256": "75cd5c65fc979d3c60e1ae688b51a76495670f95f46c95e3b4556994a6436070",
+    "file": "c0b8284fb36030e1c3a1f89f41a7b5f6663e5ddd6002706b1c626f80cddfaa7f.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 20,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:36Z",
+    "sha256": "cdd67e545e7bd37d4209cdb77b0ebe8f720717091774b76af0cf330a2dc97baf",
+    "file": "293ecd61dd73faa866e923362692dca1d91a7e159c0b556b79c983151ab963d7.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 21,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:38Z",
+    "sha256": "394e05a96315eae3f2a0d1e0b8ef5ea2c8b6098b1d64628cb9252b4f4928fc0b",
+    "file": "8d189d2e2948f0b270818360ab3ed6ed1112ef547fd47392902c21349b1d0c70.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 22,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:40Z",
+    "sha256": "11f02830ff39c2c36f89c6d9faf313555856652494a9939c32876f49fc73dd59",
+    "file": "5a106cbb4134253e72fe04e2b1c230d3b11da664bba3afde9125710bb2040163.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 23,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:43Z",
+    "sha256": "80c7e1c35c689dc64911f6ddb11bb9e37c0b9f66f9d65b0401efb553162612af",
+    "file": "d1a581418ec729966c644589748f914f4aaf3a02810cb7351ead00322be38822.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 24,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:45Z",
+    "sha256": "77843d0481b082e2587de211c4a2588e93dc3a25e58a7cf89d4f59312deb65d2",
+    "file": "ca0ef15a98382720df91a3db10101a60fb7722e83d2c830df16474e4f7642d46.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 25,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:48Z",
+    "sha256": "c35a3b8d257853851fa537a56c7c78f63d69101a57c1e842c6786f3b5f2475b1",
+    "file": "69900ad99c4c618bbe08b43a69b2472c7fb827d4e9b0e3ee1f29b4799030a3ff.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 26,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:51Z",
+    "sha256": "2571943309848d31240c99d7a059ca3df15cc769686669d4e073ea14796f2b17",
+    "file": "b38883f9b9fe3faeed651002341565e3b223625e7d3ca6e26151809359c89950.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 27,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:53Z",
+    "sha256": "2eb5e9c1816bee453e5e28da1d2a06e0feafd691fc1d9de35636c290baeb1b98",
+    "file": "c0fc95ad79f32335990cd84117a9c0b25f814c92178fed7add10956fdb717111.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 28,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:56Z",
+    "sha256": "c7ffc5e7ff249accb474cc84d3b493a4dcc2621bea6adcae5d6f4ab0b8758fba",
+    "file": "b66283dffaa5796ab410d177515c2bc80d5f0e8439bb1deb5892a23f614b3a1a.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 29,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:44:59Z",
+    "sha256": "408b858b1e7e2eb471b50279fc6dace31b687641566e0373ce394e61ee11abec",
+    "file": "a64f2f80cce8386fdd3e56160f1b21d0be0240c7240508194bbf86073af32f3f.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 30,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:01Z",
+    "sha256": "66a575d28469262202a2632b2765c1918473b6bb625c4daa2fa2b3a6af761ffe",
+    "file": "5ed6751a7f31f4a542714c203cae277dc77a1f351167952cc0948209d40fdb30.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 31,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:04Z",
+    "sha256": "a0da24dd05700a40e0413e97cd3a5fe5ba3cf5e71be0fc13572acb286a157cea",
+    "file": "7c7523c6bce057d70d7d396d097117db7ff28cf955bacbba2927dde3c48fa7bb.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 32,
+      "status": [
+        "published"
+      ],
+      "type": "new"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:06Z",
+    "sha256": "c25a716eb471a889e2adbf799e3638fb7f526ec68f1145d27f1f95c618d93e58",
+    "file": "e6ccd2ff824a75af00b0983e3c3ca59a467b5a99e40d8128a163591cee42b014.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 1,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:08Z",
+    "sha256": "c4cf49326b97fe051ab0b235286cedae75e8a49690e2cb23379c1047b166d75c",
+    "file": "c3be4664772bd928cdef3b41eb1eb4999d5e71eb19d148ab406d4e885977ab71.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 2,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:09Z",
+    "sha256": "3a3041c142f9e65fb9cdda9a7bf11b70b58cea3348c0ec341c227ee005777b20",
+    "file": "2e92aaafd1a7f0880bbae3c22d89e842ace0ef11b1520cecabc4e3cd9abd9ca9.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 3,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:11Z",
+    "sha256": "78a2c6798babafd39c99062ca2090d9ea56c97302d589d035a085f519ffc4e23",
+    "file": "0845b2336273ad94622584d2b533423f1649d64acd1e02b8647882d4dab7014a.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 4,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:12Z",
+    "sha256": "f9dc45f7ed3906a64e324d57bf59ae3b8bc63ecadfcec464883ee99dafa0e8b7",
+    "file": "a893430aa5402c767def74673b3c5f1b07451bfe0244ca51881a4ddc1beef63d.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 5,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:15Z",
+    "sha256": "659f89dc5e9cdf12428df264b1d7c153b72069bb7534b92001985d906de1010f",
+    "file": "9d9435ed9265047e1a2f3a6e162e8c74226619132323f2b031a9c84d0dafe90d.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 6,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:17Z",
+    "sha256": "5ce724c09c2fc527d3b8a4657964dde21203f53deace18035bb57039b33bf641",
+    "file": "e4853f0f752e8ad95f7ed7be2b5d77dd8143f5716974410dfde1c6521e495560.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 7,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:19Z",
+    "sha256": "e5d8fb62ad359b30ff86fa2467bd8d750873aa87efe460d720babf62f5f68792",
+    "file": "0b323a551a0fa89a6e048861ed87769cca1ef37531fe17245eb794429d418fed.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 8,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:21Z",
+    "sha256": "94764c583e17d816d185d48657e8bd8e1f6ec516f62b1904acaa2c8ee5092b83",
+    "file": "d33fb1f790d5ef987999e3c3d48256017de7a48e5b04dd8cc4779e6631348812.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 9,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:23Z",
+    "sha256": "10bd0509243e343de5a8e7c1d6dd4cd2ecaa9d1a6a9c67c3d2e645b9970e799f",
+    "file": "f289bb0c9ffaefbf9b3d41242796cc0e0bdd864351dbf279311c40eec09d575e.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 10,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:25Z",
+    "sha256": "8a0bd8555aaa36ca2e7c928e308e2ad8ac5a590d598302875cc8f1095cc24f23",
+    "file": "91f01dab81716e7d9779a4bfa6d284f7daf3450d17c6023d7fcbdf4a19429c11.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 11,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:27Z",
+    "sha256": "661e6b1c1adc96e6ab3331b1c5e46f35dea553af7c08286ba0c2c69a2da491a2",
+    "file": "f26c0db68e08e920e73903e916369504da03b508622ae49cee12ba6a63ade716.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 12,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:30Z",
+    "sha256": "1d7e81969ae3be291b843ea77b9022404a6747e4bcd678820795096429fe9feb",
+    "file": "6c08b64a86b3c1214ffb52990e4cab05f2c8b0db498957f01fb6c0b4ce5f4876.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 13,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:32Z",
+    "sha256": "de5555ac8a14471daeb5244c825314d8cf4d7e5dc55610428018e8a66ad29eec",
+    "file": "970cce3873af9c6de334e07c45f8f991d0ba55d0a37ac1f066142356a6baefad.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 14,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:34Z",
+    "sha256": "95271f19e49c71c3eb7772f0f4dc6a7e872d92168bc4d4968ab74d804f064e0a",
+    "file": "b57da6d31bbfd9356b1204c42bb25f6252ed6924f999eb2bf3a1ad5af41475e5.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 15,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:36Z",
+    "sha256": "41aaa250880e8043551159f09a1c5fb0b57d40c66aa1e3828e4fcaed2c351a7f",
+    "file": "ac690d16237770d3a1c9b8385535c7f5acacfa38ceccd68a0a3449a607d383f3.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 16,
+      "status": [
+        "published"
+      ],
+      "type": "improved"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:38Z",
+    "sha256": "2bc5a413534e3987e9e75ee40fa6832d74c58b740534f4acec11f3b65cde1d00",
+    "file": "fef9892cfd7a0ddb56d91c8372cb3bd492a850c0217b2f5c70066f0c6be6441e.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 1,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:40Z",
+    "sha256": "c4cf49326b97fe051ab0b235286cedae75e8a49690e2cb23379c1047b166d75c",
+    "file": "c3be4664772bd928cdef3b41eb1eb4999d5e71eb19d148ab406d4e885977ab71.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 2,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:41Z",
+    "sha256": "275734f1778fcf16b829446740a8c117b137d0b8946360824b945128394851a8",
+    "file": "f570949d3afb851f8fc86d8af96a7d34dcbb0ab057d1ffcb571b06f10c1d0f05.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 3,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:43Z",
+    "sha256": "5e93a1958b8577d00648b8aad87dcf2246b9a15b924493a9d6285215eae30d7e",
+    "file": "565610ab84a55cb2b1f9443e2be9cb124a24183cd30c375a34899f58e63213d1.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 4,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:45Z",
+    "sha256": "e1c42740d2ef37c0e74090b80cfec45e082f838c094a2f9b6f4a95e91591fe9f",
+    "file": "91cc68a01a539282da1186a2ee23616f51deaad2714972d93569479c07a912bf.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 5,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:47Z",
+    "sha256": "82e420844d2d7a4dc8130bc447cc235f36016df9c8e0ab81a7de779af4b4eacd",
+    "file": "143f67ebb6a630ddac119f26fe37abf4cf4eceaea0c01e31615e8d8605371ae2.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 6,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:49Z",
+    "sha256": "dd86a6043b2dc51cc62f547a64d7a195b6fa0a1ea369448a1ec66d654ebe51bb",
+    "file": "2248772d875cf33f74c983111473e515986f762bc46e19e0bfdad36764018c82.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 7,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:51Z",
+    "sha256": "69ae4f2f396421577e004cbcd75adff7a7ac80e321df3b34f34b4adeedca14d7",
+    "file": "e0ac154f2477874737473db591d6e356448f06c2dab21afae8ffb95734c06c3e.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 8,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:54Z",
+    "sha256": "c77efff4aa6364361124385eb0878b3444a326b3b8a75c474e43d9f188abb7cb",
+    "file": "4e61e2c1c8e260c48ddffa63359da560e6479b1130ead79005decb432c81b161.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 9,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:56Z",
+    "sha256": "5b06f22b8bdaa57e18f435c77682dc506a5f75296923ed08fb4e6a6d7f9b8faf",
+    "file": "d96c36b631dfe97d47c39eeba610253c136de23df6b7d983979876b881d61e16.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 10,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:45:58Z",
+    "sha256": "4ee7834e0389ba4debae25b54677afaa0ec4f0124d601374eae0e0f1f8fd97ac",
+    "file": "a1c05be4be656480cbf9d46e6a2424f676724084592174fd759b5ee1384f8745.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 11,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:00Z",
+    "sha256": "744b37f0e132c281f77b561da6b1f2a1899ee5c0907cfdbbaa35203b143603ab",
+    "file": "caaca5b56da1eba071b4dd9cc382d3fe4dd1f5f2095d0a06e4b48878ed4f294a.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 12,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:02Z",
+    "sha256": "9df2350152a8a640bbad28027cc9ef842e7debaf39e67ed40a97cacb65b41dd5",
+    "file": "ad3354cd27bcbdf4267dee8f50cce9bec9386a0187f64af1cc275cfc61ae1b28.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 13,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:04Z",
+    "sha256": "620440701c84065050e111dc87f0fe0db02c770d5293decbfff463767a540949",
+    "file": "1349b1cc5872c986df17d94f80863f125c90e0ac5690134b3bb0edb23d24bb05.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 14,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:06Z",
+    "sha256": "7abeb3ab50b82f084e71cd5d056de28c3de7734dc730b0726b0e79b3f29f1fd6",
+    "file": "5a536afe8e04ff4e3ed5d392e8167699c13822d5a1b4b5b501b9810e1a160d32.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 15,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:08Z",
+    "sha256": "343c7e521078c0ba2441006dcc23e59556113e6e954bde8ec740450c383ddba6",
+    "file": "9d77a4f645d5e7f960d77f3c748306906bc67db9e252ceafab226e150379fd62.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 16,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:10Z",
+    "sha256": "07a4a174fd97e68978aa2ecf5be82ef60f2e2ca959e51a56c054a4c5f3683da8",
+    "file": "6805a612374491ca8c620b423db47e87a0dc4d9e8c718d5c8d76fc675c26c159.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 17,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:12Z",
+    "sha256": "796fda760dcae43aa53d3e19cbbc2205899d8589d96ad24baa29288f38723f43",
+    "file": "11e50042cab12418f5edb874fbe6956685894730b334e180527c6486308c17b2.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 18,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:14Z",
+    "sha256": "204be7adf67e9e2dbd811d78cfaa1fbf0ad328e57f91b057670df5762f0f567c",
+    "file": "0ccd6433a5fdc6f2c2ea805e042076b772f4c9e7fee919c9fa63fae3f05d0962.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 19,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:16Z",
+    "sha256": "933ebac31410bbb8778310c3336eff58a8e128a12c05a0423fee34fc6c6e5bf7",
+    "file": "e6059e63786ffc65ab13030df1761b6e23f8fb3ec63a3cddc0711d884db4bb88.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 20,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:18Z",
+    "sha256": "d11d92aa39983d9b28e217e6ec68c577f638112456547fa73fab50596170f2f1",
+    "file": "c19accd9e1b14dcdcfb735d624a4852d979371e1e65be7377670cce7d51a9913.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 21,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:20Z",
+    "sha256": "bc0e270750b2e6f52dc2700b55ed0a36093a8c80cc36d67a364dc47728d874c8",
+    "file": "089a9feed382fe8086ab086ef1e3671fc5a8c512a8b5aaedb37b697bb64a9835.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 22,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:23Z",
+    "sha256": "ef0a99181ca4ece3285a489f1f57126804940b4af2a00327d9522155520880e7",
+    "file": "28bfb6f62c8a96381f0d2773f9f61eeac5ceb4fe5c0c0248e37a5adeb3603e99.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 23,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:25Z",
+    "sha256": "1c1ecbea7fe04af20e1514b39830ee8b57907ceff1eb639712a8b56124647b9d",
+    "file": "b8e5c9ed09ef9d380e485913c2beed5e1cabb7d99191dc17c8d2bec0e1663edc.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 24,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:27Z",
+    "sha256": "6ea171665abe5e1a41c653c9569124211ed9ab06507c5d176640f904d544aaf8",
+    "file": "0d03f0d91b3e390e6b7eaec8868da692c386233ffa52cad51e62a7ed3b00b65d.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 25,
+      "status": [
+        "published"
+      ],
+      "type": "fixed"
+    },
+    "url": "https://feedback.descript.com/api/changelog/getEntries",
+    "response_url": "https://feedback.descript.com/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:46:29Z",
+    "sha256": "63c7f9994b3b550ac1075afff7b7215ef1d84a64f07ce7d87621e7a766d52d97",
+    "file": "00b6525d877e7e92b67d5e4f90ab3b7364f534d84f80692de0babddbc0376e14.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/",
+    "response_url": "https://heygen.noticeable.news/",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:31Z",
+    "sha256": "70f4642e8d12a0b0bd36f16986ce8f58680f519b02407829c4f02f17b74b67b8",
+    "file": "b6e33af85da5f05c5dc5579fae4d5c3ebe836cc61996d401bdff46e0105dbb7e.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news?after=AAAABAAAAA0AAAAGcGlubmVkAv8AAAAAIQAAAA9wdWJsaWNhdGlvblRpbWUD_wAAAABqdlPTD9rWgAAAABwAAAAKdXBkYXRlVGltZQP_AAAAAGp2U9kvJbPAAAAAIQAAAANfaWQB_wAAABRIYWxRQjdDdXpuWEt5NUFEOWFLSg",
+    "response_url": "https://heygen.noticeable.news?after=AAAABAAAAA0AAAAGcGlubmVkAv8AAAAAIQAAAA9wdWJsaWNhdGlvblRpbWUD_wAAAABqdlPTD9rWgAAAABwAAAAKdXBkYXRlVGltZQP_AAAAAGp2U9kvJbPAAAAAIQAAAANfaWQB_wAAABRIYWxRQjdDdXpuWEt5NUFEOWFLSg",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:32Z",
+    "sha256": "d2434f09307cb25db2227b893fa7e7241334113225ed84f1804d71842edc86a6",
+    "file": "469cc04460ce69c8464ee5dd49c249ac9909531235f85e03125635fc521dd5c4.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news?after=AAAABAAAAA0AAAAGcGlubmVkAv8AAAAAIQAAAA9wdWJsaWNhdGlvblRpbWUD_wAAAABqBLUHEZVXwAAAABwAAAAKdXBkYXRlVGltZQP_AAAAAGoEtv8wsm5AAAAAIQAAAANfaWQB_wAAABRzUWJkdlpiV2lLUEtiMldiYXhtZw",
+    "response_url": "https://heygen.noticeable.news?after=AAAABAAAAA0AAAAGcGlubmVkAv8AAAAAIQAAAA9wdWJsaWNhdGlvblRpbWUD_wAAAABqBLUHEZVXwAAAABwAAAAKdXBkYXRlVGltZQP_AAAAAGoEtv8wsm5AAAAAIQAAAANfaWQB_wAAABRzUWJkdlpiV2lLUEtiMldiYXhtZw",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:33Z",
+    "sha256": "a17fa93f94adf1f2e7458e91f81b4082c196977339b1a6216e7ea5c6c43f4f28",
+    "file": "b53036515744d566aa31ce506c75bdf0de8b4fce524d563e0f94beca903c99fb.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news?after=AAAABAAAAA0AAAAGcGlubmVkAv8AAAAAIQAAAA9wdWJsaWNhdGlvblRpbWUD_wAAAABputWwHZBcAAAAABwAAAAKdXBkYXRlVGltZQP_AAAAAGm61bY25VhAAAAAIQAAAANfaWQB_wAAABQxQkprUUhDc3phVjh5aUxjNG5DZQ",
+    "response_url": "https://heygen.noticeable.news?after=AAAABAAAAA0AAAAGcGlubmVkAv8AAAAAIQAAAA9wdWJsaWNhdGlvblRpbWUD_wAAAABputWwHZBcAAAAABwAAAAKdXBkYXRlVGltZQP_AAAAAGm61bY25VhAAAAAIQAAAANfaWQB_wAAABQxQkprUUhDc3phVjh5aUxjNG5DZQ",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:33Z",
+    "sha256": "b03fbc77fbb0ded2cbf566e7b7d0535973cdc75a9b17b86f64983379b0704c82",
+    "file": "b48f8ee9d410957e1271e0b2ce7642d7fb608a241889a339ab3b09f438cdc685.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news?after=AAAABAAAAA0AAAAGcGlubmVkAv8AAAAAIQAAAA9wdWJsaWNhdGlvblRpbWUD_wAAAABpd-tnI7QDwAAAABwAAAAKdXBkYXRlVGltZQP_AAAAAGl4ASQH3ikAAAAAIQAAAANfaWQB_wAAABRoUzNhTzdGS2RieVVTeGt0YXV4OA",
+    "response_url": "https://heygen.noticeable.news?after=AAAABAAAAA0AAAAGcGlubmVkAv8AAAAAIQAAAA9wdWJsaWNhdGlvblRpbWUD_wAAAABpd-tnI7QDwAAAABwAAAAKdXBkYXRlVGltZQP_AAAAAGl4ASQH3ikAAAAAIQAAAANfaWQB_wAAABRoUzNhTzdGS2RieVVTeGt0YXV4OA",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:34Z",
+    "sha256": "68c42ca7700dee56b3a600b14757b9271914a9bcf13d6564788b855c1eddcd27",
+    "file": "21782bb8310fbdde6d0c1075529a4888f5ab33eba70cbdb224bb7597e716e4c2.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news?after=AAAABAAAAA0AAAAGcGlubmVkAv8AAAAAIQAAAA9wdWJsaWNhdGlvblRpbWUD_wAAAABpK4qkAAAAAAAAABwAAAAKdXBkYXRlVGltZQP_AAAAAGlEl9861GzAAAAAIQAAAANfaWQB_wAAABQwUXpmb1ZLRlVhZUk5cW9wTVlHSg",
+    "response_url": "https://heygen.noticeable.news?after=AAAABAAAAA0AAAAGcGlubmVkAv8AAAAAIQAAAA9wdWJsaWNhdGlvblRpbWUD_wAAAABpK4qkAAAAAAAAABwAAAAKdXBkYXRlVGltZQP_AAAAAGlEl9861GzAAAAAIQAAAANfaWQB_wAAABQwUXpmb1ZLRlVhZUk5cW9wTVlHSg",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:35Z",
+    "sha256": "ed3a9c2e4c745fdf1eba09644b7c48ee135c2ee9a8d3f469652c061445b61609",
+    "file": "1d1224fe103fd0eff9413e63461b944f6bbaa191bf752c991339a32499561288.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-heygen-voice-speech-to-speech",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-heygen-voice-speech-to-speech",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:35Z",
+    "sha256": "c923437afb40810904dca28c1aa3069c5ec87a30a0bcdcf2e4035489dea5dd99",
+    "file": "f24e4dc4d7620d045181f77a7efc93ba4f8fe7f3a4d8c47ac00b3b7f91e63af1.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-heygen-voice",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-heygen-voice",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:35Z",
+    "sha256": "960513bfb7862a65152eece78d1f7401e2374840d8ac0545a03e16adf51f833f",
+    "file": "78e74fb95f4a0827489284fedd296ee154864e908292b393a8eac9ff9bdcd1a4.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/october-2026-enterprise-web-releases",
+    "response_url": "https://heygen.noticeable.news/publications/october-2026-enterprise-web-releases",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:35Z",
+    "sha256": "c6d6893ec874a1648185a6a1e235fd1c68565cba88f9f662c9d169f5e6178b73",
+    "file": "de72c449858455cf253d730ca36d50ee2fa0da516375a1ff7495d0399ef7860b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/october-2026-enterprise-api-releases",
+    "response_url": "https://heygen.noticeable.news/publications/october-2026-enterprise-api-releases",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:35Z",
+    "sha256": "edf5214d430f7b02daee37b033a7221e615319ac75042897ef25db8dd2422826",
+    "file": "2d9d3293c3d46ab8a2a030653abb802ee17bd32a6c1386537ea52674d16daced.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/heygen-voices-now-supports-elevenlabs-v4",
+    "response_url": "https://heygen.noticeable.news/publications/heygen-voices-now-supports-elevenlabs-v4",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:36Z",
+    "sha256": "280743eade3062a0b7bd8e0e60ab373387d4a0c730f3274a462ad34181d0c0f4",
+    "file": "b7253e04dc00411cd4a97a4f1555c1e2cbfe414063a8e4d19ccf78ba8c261f54.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/september-2026-enterprise-releases",
+    "response_url": "https://heygen.noticeable.news/publications/september-2026-enterprise-releases",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:36Z",
+    "sha256": "ba8c5b0782ff8f5e30d5a359d8d642345101def34704db7d01ebce4d8bde4182",
+    "file": "b320014f7d36de53d5c5c6d3cf62b7301660e97399f685c472a9b24d370f7b33.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-edit-look",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-edit-look",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:36Z",
+    "sha256": "c1ccfeb7e8604640ccb01cf6cc43e55117599bc379b4f13cd2268d06bef94b9e",
+    "file": "496a5fa25c2904800008c4c9ce7c2df53a853c44c6d721d8adcab26ca9563a51.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-video-podcast-in-heygen-apps",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-video-podcast-in-heygen-apps",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:36Z",
+    "sha256": "0f1b73bf1bdc22e2274cedcd3a39def9558b90b5b825bcf96eb8018a304b513e",
+    "file": "dbe146007b0fae968e9fac66e526d3cc7609be9892c691d61ed227030c487fca.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-heygen-for-real-estate",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-heygen-for-real-estate",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:36Z",
+    "sha256": "88f02b1762b3700f0efb09c732699a86cac04aa4a9af38e6255b57b99a4c11ca",
+    "file": "be2ce767e204ebcbee1498c55fa49e9b270571b4548e8f0016b9e1a6dbc94015.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/august-2026-enterprise-releases",
+    "response_url": "https://heygen.noticeable.news/publications/august-2026-enterprise-releases",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:36Z",
+    "sha256": "0773530059692043bb71a0588810301d633c865ce62ed94ca0afa717629398d5",
+    "file": "d4697af097e7d6873373cd4a1dd0b8f02e4bd93f79abf307e67d92482227edda.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/hyperframes-is-now-inside-video-agent",
+    "response_url": "https://heygen.noticeable.news/publications/hyperframes-is-now-inside-video-agent",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:37Z",
+    "sha256": "ccafebe08336375b3a9eea0cafae8737764036c29bc3a768d48d52f5f4689c9c",
+    "file": "5894f604b334b633931a5231ab5d2034d2ee897da6e7967a0bb8a962f3f6685d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/july-2026-enterprise-releases",
+    "response_url": "https://heygen.noticeable.news/publications/july-2026-enterprise-releases",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:37Z",
+    "sha256": "4a19818b187985973a7d2e9f9a623998ae0fe3159e96512d98566cd589d24b85",
+    "file": "21904d4e7027c4e37a51d0e82f476e180ee72e6cde069f16b4b7bda17ab60d18.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-speech-cleanup",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-speech-cleanup",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:37Z",
+    "sha256": "74244fe8b85352739f26c96b698b57f0bbf2092713ac59ab7afef6f882200586",
+    "file": "83e38bb84ac2fd01570473a8507070e042dab36637ef824f3ea99f10fa9a3b0f.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-look-packs",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-look-packs",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:37Z",
+    "sha256": "d7fa578535cd1167e865a8eb04f880c41c898b20ee386446c8d4c5127b352944",
+    "file": "f0cc52187b8769be82ea435b74bf1ba7f994a163bd36c93a7a18fad14f77fdf6.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/june-2026-enterprise-releases",
+    "response_url": "https://heygen.noticeable.news/publications/june-2026-enterprise-releases",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:37Z",
+    "sha256": "d49df8ec5d42525aae801fc29e4ab7f162b29e61830ae8da54f449239f63461f",
+    "file": "86053b05a53076069835bec505e57464747049cc1b986958866db19df76b1100.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/avatar-v-is-now-available-via-api",
+    "response_url": "https://heygen.noticeable.news/publications/avatar-v-is-now-available-via-api",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:37Z",
+    "sha256": "3a6b0f8f7703c43645c9b1bdd738b94106b4b738871617569cddd9ce1f5fa12b",
+    "file": "ddfd9439c0b9d666c2d773769ac7b8ddb177e97311b1197001dc1d73062b8b11.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-custom-motion-for-avatar-v",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-custom-motion-for-avatar-v",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:37Z",
+    "sha256": "f658ed3f274d69d639f49fd4944ddc759fe8b209cd38bc9826598af92ffbc9b6",
+    "file": "1e6f5175d3ae7d5e9838132fbfdaca27b1dcfe43712c1a59f00f58542ab091ab.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/heygen-is-now-built-into-codex",
+    "response_url": "https://heygen.noticeable.news/publications/heygen-is-now-built-into-codex",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:37Z",
+    "sha256": "a10b2d10e6150d30b8c38256154d7431c68c2328632439e7656899e0da99eda2",
+    "file": "d4875a724e02002d27b435b79288443c240857d08aaa542cabf52cfaeae1483c.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-instant-highlights-v2",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-instant-highlights-v2",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:37Z",
+    "sha256": "aa9f8c7d1618ce15281145beb285a81b97906a9cda931add5bc8233f48275bab",
+    "file": "e8cfafa124157d605c56ef3cbb45b43e0d269bba095df1f9b25422531ea9af8b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-avatar-v",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-avatar-v",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:37Z",
+    "sha256": "e7b05254ba4d5622bd2ce56756fc72b510cbfd9341e9514cdc5e643cc1a4b218",
+    "file": "f6c1a2a134e5e892e517ad18e09e446e6b56a3bca7a0a5393a01cfcb5f0678d6.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/new-heygen-x-gamma-integration",
+    "response_url": "https://heygen.noticeable.news/publications/new-heygen-x-gamma-integration",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:37Z",
+    "sha256": "8eed2fdb1c0b857299ee2531ff0845033830a157350199d7280dcd07a419b995",
+    "file": "87edb0a02c50a31f80a14e9fc7665a7b087fa9c6d3d9723cf608dbcabccb612d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/seedance-2-0-inside-video-agent",
+    "response_url": "https://heygen.noticeable.news/publications/seedance-2-0-inside-video-agent",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:37Z",
+    "sha256": "d89d3e8512fa7a0b1972d6b62817c21690447f541683acbdae3eec452243f61e",
+    "file": "22f6e261aa065613057e0dec23668d3484ad5bb59b810a7261cc76b4639a3ef4.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/heygen-x-seedance-2-0-is-here",
+    "response_url": "https://heygen.noticeable.news/publications/heygen-x-seedance-2-0-is-here",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:38Z",
+    "sha256": "b360ec7a6065246609e45819c14ef1fd0bf735a815d457445fb60242b509076d",
+    "file": "a62f3348b7c3947d33635c1d24f03d7706196cd19479ccb5f4247b539799cca8.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/enhance-any-video-to-4k-quality",
+    "response_url": "https://heygen.noticeable.news/publications/enhance-any-video-to-4k-quality",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:38Z",
+    "sha256": "6cc0b43bab8e2a62fac98a7812f88ad1e1e0155cb7ff2654735050f2d4648b18",
+    "file": "2860945bf9655ae9c6f17b3c598a9be476dae5c4df8c872e4a1936fd721d6771.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/new-admin-controls-for-enterprise",
+    "response_url": "https://heygen.noticeable.news/publications/new-admin-controls-for-enterprise",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:38Z",
+    "sha256": "8532a210d64f39c019a4e64e91171ed21d4f610abf22600b4cc3eb47425b63be",
+    "file": "86422dd58c6a83ddbb558f76778faa97977a196ae9dffc1b88b3d8c04eb55016.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-interactive-video-experiences",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-interactive-video-experiences",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:38Z",
+    "sha256": "d20066566850f24aec89fafe17d1539001079b3f3c50a31fafd0172e873a32c6",
+    "file": "0913130ce009918d4256ee955616601f2ea92fe1af0243c3090adbd975cbf515.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-brand-systems",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-brand-systems",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:38Z",
+    "sha256": "ec3c9804e60175ae7185de7c1ef333e0e7b84cae9c6c1e8f0f363ed348706613",
+    "file": "31905d0107afee437b8f76e7b267591fb4a0127dc69331a536178421008ea594.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-styles-for-video-agent",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-styles-for-video-agent",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:39Z",
+    "sha256": "0afbf454494d7be5f91efb4e4e4833c1de6135435994a9c4613d71f437a42f7c",
+    "file": "7e5190b1d4ced35e038631ea2d7b25079a202ffc5ec1c5c714d832da125daaec.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/heygen-is-now-live-on-fal",
+    "response_url": "https://heygen.noticeable.news/publications/heygen-is-now-live-on-fal",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:38Z",
+    "sha256": "a31c905f3bb130f2ff8b5552d78028aa731fbf7f993ae56b00b811cba34e561e",
+    "file": "3d8eceb2682f1e267a2a36e277598ddd784e63b3679c2207ac3071f6d81d8986.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-the-redesigned-homepage",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-the-redesigned-homepage",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:38Z",
+    "sha256": "f706efe4da80f112d335e82d34aa4265d3e6dd8aba78d332be11c0eb6bc90dfd",
+    "file": "9d92ca67674b041a62cb3953e842f5ece02a909bbafec2482aaf54ec4102dcbe.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/heygen-is-now-a-native-app-in-chatgpt",
+    "response_url": "https://heygen.noticeable.news/publications/heygen-is-now-a-native-app-in-chatgpt",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:39Z",
+    "sha256": "4a75049ddb84fc2ac29eb0156fd5c094135cb6b48655e936caf0f3474688aad7",
+    "file": "53ed9705e597969de1c11496f50bc50dcd5a317be04948e40e1526ab75090adf.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/heygen-is-now-in-slack",
+    "response_url": "https://heygen.noticeable.news/publications/heygen-is-now-in-slack",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:39Z",
+    "sha256": "ba8a1906fdf26b1b036808f07841d7674d41ed2ebbc7de25e54f4060f96e8d7a",
+    "file": "69cea75f3083bf96769998061931335f2a3a92ff3d50637c2c776395b6f34f1b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/heygen-for-business-integrations",
+    "response_url": "https://heygen.noticeable.news/publications/heygen-for-business-integrations",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:39Z",
+    "sha256": "25d5dc6b1257db76a8c6bf9eb8d223f60c0ef8cef42f2635ae470b69d0312295",
+    "file": "1d97625cf0c40897bb9648263330a260c9fdcbc9994361543fc15cb967cc3301.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-edit-styles-for-heygen-mobile",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-edit-styles-for-heygen-mobile",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:39Z",
+    "sha256": "c54d5b7069329b9dbeceda8229e3e0ae8279e3fb57242a9cb9e8bd2bd0fe1195",
+    "file": "c84d1f2c41b7b08aa1e2f240fdcc99b564365e025d13103043f79c72b0c54d43.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/updates-to-premium-features-and-credits",
+    "response_url": "https://heygen.noticeable.news/publications/updates-to-premium-features-and-credits",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:40Z",
+    "sha256": "b44a74f83c909795393a546bd8b88d81b56cba88a0bf491eb7cda0c87d5d2c2b",
+    "file": "79eb98f492cef041310be6dc1f508e279a8c25ca140c861b97bedf5c447e276d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-our-new-video-agent",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-our-new-video-agent",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:40Z",
+    "sha256": "718c44c65ae2e1cf0b3fa268bababc2798a1b62cca0179ed59701e08da2775cf",
+    "file": "c60f221cdd506c4968494f922e7eb195e8810c2cb7923f4b4ad0bff76a730871.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/updated-script-panel",
+    "response_url": "https://heygen.noticeable.news/publications/updated-script-panel",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:40Z",
+    "sha256": "5357ef99d00d263611e1e1dc7820f89770705e7f7de2ba5c28d504acb0048754",
+    "file": "f0e0b475fde65e634a5a0a20649b17bda9011244897cba59965eca353e56d823.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/create-your-avatar-in-15-seconds",
+    "response_url": "https://heygen.noticeable.news/publications/create-your-avatar-in-15-seconds",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:40Z",
+    "sha256": "a1099efdc983e3bfa546a8be6e70b95e060ee3bb096cb4086834462dfdb7f05e",
+    "file": "dc7346fbc2bea55d5fa62aec6cb4e19ec700f6f817c2123108a80c8962614800.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/expressive-avatars-update",
+    "response_url": "https://heygen.noticeable.news/publications/expressive-avatars-update",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:40Z",
+    "sha256": "e800d1171abd0f206723fc733069695c25e655df0382860f2042143372f554d8",
+    "file": "104d9075a38397282f354930845ea544cbe68ac18d0f9abf64ce206887d64c1b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/introducing-product-updates",
+    "response_url": "https://heygen.noticeable.news/publications/introducing-product-updates",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:40Z",
+    "sha256": "0e58a2e8edaa57f7cd2d6ab40105975592c8c379bc969635f10061ff6188825e",
+    "file": "caec8a1e38b78c5125ac667b607cbe5cd1163491d0a37967be3370c60428fcf5.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/weekly-avatar-drops",
+    "response_url": "https://heygen.noticeable.news/publications/weekly-avatar-drops",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:40Z",
+    "sha256": "0a109513db6bc63fdf27ea1cb83a40a97ecfabda10f054f84210706cb69f71a4",
+    "file": "59e96c0011aafc2d14600685a5aabdb30d0e5a5b1feeab7fedf3c13a6b4a87a8.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/voice-doctor-1",
+    "response_url": "https://heygen.noticeable.news/publications/voice-doctor-1",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:40Z",
+    "sha256": "7ddf92f02f0f79a7e7d639c43779a34aa4fe0831528bc01e9f6b33018418ffcc",
+    "file": "6fe422012faf6203ca3426565c24f0387e914b18be6036f5c643e4b95a33a61d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/heygen-now-on-android",
+    "response_url": "https://heygen.noticeable.news/publications/heygen-now-on-android",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:41Z",
+    "sha256": "b461e07d4077b21e5ea49d5b94541bfdc058b46bd582963eaa975dc6685d6f3b",
+    "file": "4d1891be2c91eca98352f399e77e2e4437e0ac49f74b5dd4267199ff6652b472.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/ai-studio-updates",
+    "response_url": "https://heygen.noticeable.news/publications/ai-studio-updates",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:41Z",
+    "sha256": "932c8fefe30e09c5ec1d5c40c1713bf3f872d339f604a7e21fe046f0d5898b28",
+    "file": "6fb9bcf19f1e784b48728e5d2d4903242802f1a71406b27a288db273019284e4.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/avatar-iv-upgrades",
+    "response_url": "https://heygen.noticeable.news/publications/avatar-iv-upgrades",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:41Z",
+    "sha256": "f6c33efbe540db77fd9d80e919d27a4f34a17843f5c858fe7208141b2e57b87f",
+    "file": "b8d6c772b427ed0331ee6a04addacc34f6937806e5e1633080eae47aea76271b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/new-translation-engines",
+    "response_url": "https://heygen.noticeable.news/publications/new-translation-engines",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:41Z",
+    "sha256": "130e91c5866e4abc14f8bdc6822fb9c5ee18d35511efbb3ca33099f2016edd9a",
+    "file": "0575ae9d0bda894b74fa0a35ba73f33fd4c62efaa792c87f1e044f82982f6ece.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://heygen.noticeable.news/publications/whats-leaving",
+    "response_url": "https://heygen.noticeable.news/publications/whats-leaving",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:41Z",
+    "sha256": "ae5de54b8398e26134132c2465564a17df3918be079fb24222b3b2a9b630194e",
+    "file": "329baddccb387c77d3333a5b8f3537ad761ac0de6907aabcd629e68552f35c0b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates",
+    "response_url": "https://www.synthesia.io/updates",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:41Z",
+    "sha256": "1f2545b52720257d18210989e712f281db7cedbafe6e7bf832e242169547b95c",
+    "file": "3fc6dfbec05dd7945ad4e4d5ffd92a7f9b02d05995aa13cd59bea980ef513fd7.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=2",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=2",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:42Z",
+    "sha256": "d58cdc227aed02fd753ba3c4af5c2a56ce8b075de7be64c8228ccad6ec1555f6",
+    "file": "642d5a4c2f91a1274ce94d0869af51161d470334647232375c2f32e05b6a5c19.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=3",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=3",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:42Z",
+    "sha256": "8f5b5681d2803f885a2dc50058061dea0e396c41fbe4322454c20c3ec82597e9",
+    "file": "e8dbaf12e7d87affc500a90af3d9eea6417fe6433479f00917e8148f810f84ab.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=4",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=4",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:42Z",
+    "sha256": "2409368952ea41e305fd25b2e27b2e2f6cffd521a4fc81366c2f4ec50c6214ec",
+    "file": "b00e647e4596f76bb925af7605d3af706f676567e00e36f05df0e947dd9d9185.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=5",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=5",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:42Z",
+    "sha256": "1a8eb4f197afede306e0bd6c8536d0b649ed0ff5a17b252202decb94565d22aa",
+    "file": "52d8f1b53ff4c725a5eee434899f125e81a425654dbc72d2ba05a99c528c1597.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=6",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=6",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:43Z",
+    "sha256": "6f3bf3182eb95848361c7ebc4c807feefeb5dfe367fda4cc2d98b7bd239d0e25",
+    "file": "005abd13942e51bbce2a86b51655f306417e7ccef58c7fda8a8f02402de2ace4.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=7",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=7",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:43Z",
+    "sha256": "2f7bc4b360cc437f89cc464a1634e83ab00c1ab7342f73bb5a6f68b1c2f7fcff",
+    "file": "fab592c8a8de1f495ae2e9eafdc838466a1eaa6a2da2846dd2c101380b930dc6.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=8",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=8",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:43Z",
+    "sha256": "0ac6251b09976ba5016899b08d31ce78e89908053013cc98bed4f47fde939be4",
+    "file": "6eb7477d12ad5d2c929a0481d6a32419b3f8c42eab1a875c15076569d4486e22.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=9",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=9",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:44Z",
+    "sha256": "968de547e81c7e13b6f2da81b7d620294a30530e78a3b177538d15aeb2042130",
+    "file": "16f62a7a912252a67a22db0ae165a8712489dae5f6b01cf2c8f14248f4beebed.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=10",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=10",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:44Z",
+    "sha256": "2d4e4282cced0933a7d0bcab32e8296fecfbb6bc92913df5089040f7a8278a7e",
+    "file": "5831263b77a17ad8294145a1924a3ad26b33b7713af94f3a0bafd6c169c224a8.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=11",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=11",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:44Z",
+    "sha256": "050d223706340c03eea76e2aca996ff027b46ef78620bdf5da9dec364ca4e15d",
+    "file": "f956a223371749c29c9e90d8f57a6cc07cb2543dc353925b2e1185fac93edc57.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=12",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=12",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:45Z",
+    "sha256": "6c2a17bdcba1b0af44c7b3742c2b211a6a6114b3799890d87b6d51761fb6cebb",
+    "file": "c1b7e5d6b45552b79c6d38b9453b6ab857e5c971d301a3df7eee7f5b10c4d620.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=13",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=13",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:45Z",
+    "sha256": "d8b7b328c6c0afa6f0713e4114a260ca117ef791ed77c1669037eb23185d6c7c",
+    "file": "65cb96370b824c5af16eb7eb8f6a1045ff9d50ffffdd719a13599a2f47c673aa.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=14",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=14",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:45Z",
+    "sha256": "636555b818e1d2bf5e772db7c1cc38a94c3af9234d61d00284aba4e25f039a03",
+    "file": "cf34995b597c462580e8e480db7e7dab9ce4adb4146d93c5356d322f95c93b65.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=15",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=15",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:46Z",
+    "sha256": "33158a620e96d6051b132cdb9eb323125db037c75d117343bee0ed59817f887d",
+    "file": "d5082a1562e3b4b21a9574069ec6fa12ec564f7d7a01cfe01f02195aa938c0b2.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=16",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=16",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:46Z",
+    "sha256": "cf8a0efc155eada0a1cb5a7c9eddb2673caa2b5d115cc8c682754e4f4440c7c5",
+    "file": "a8a569d542f70e30fb2c3ae1509f9f83d0a942486819004f3f8d63f769889ead.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=17",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=17",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:46Z",
+    "sha256": "e9308bb586e88239d7a018c71ee6e79593df8273afb84a934507073b2502ae45",
+    "file": "2e1891fba5a430566fa1dfad41b7cf507cf1eb47a809262ae0b9967d51f176f9.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=18",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=18",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:47Z",
+    "sha256": "db3939639414aa171f1c531ffc8d8950f8a9e6308eb23cba1a9de70c0aa735c4",
+    "file": "4bb1c8ca0988a3c555c05ba394663ef31fa9c348a1d4c2e91c65e44cfb02f660.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=19",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=19",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:47Z",
+    "sha256": "3497846c38dd173d43bc715b98b4c195d1bb615b15d54858174846404216b7c7",
+    "file": "c7f6ae34d30587176fed5a3d05e78c7b5d512cd23cb311a35db67d4ec9eb7991.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=20",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=20",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:48Z",
+    "sha256": "868c80beb779dee519adbcfc9e339a752d65ac243444acb4eec63d5cdf714fd0",
+    "file": "abd344443dde920bf421db60b81d5d04aa4f41394bd223e46c844f27243a4a34.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.synthesia.io/updates?b5ee831f_page=21",
+    "response_url": "https://www.synthesia.io/updates?b5ee831f_page=21",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:48Z",
+    "sha256": "11b8a4e55ab1669e5c46d58918a5eb20ebe43b11a41bd996d0a61cc1ca4e1910",
+    "file": "1fd16becb1d5816d5a71577123a362e0dc871b45ad69d0f67260da5cdec1e6a0.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://changelog.qoder.com/app.md",
+    "response_url": "https://changelog.qoder.com/app.md",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:49Z",
+    "sha256": "a7e00894c4424cb6a6c9674fa0ad6505ef09b018ce469aef9f73bdf5f6adc913",
+    "file": "6f35ebe842c11d2d825ca7c3b4716a7ec3a6ee0785bcb3e4d1df48db730e0e22.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://raw.githubusercontent.com/MoonshotAI/kimi-code/main/docs/en/release-notes/changelog.md",
+    "response_url": "https://raw.githubusercontent.com/MoonshotAI/kimi-code/main/docs/en/release-notes/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:49Z",
+    "sha256": "20a8181827af23e6ae8460fdab14673c8f8b3289266287e7e887b20367a4e05b",
+    "file": "7f651eefb2ac114ff842fe7c17075907c2a06c9e2caa4a42e5305af4c3b7b684.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+    "response_url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:50Z",
+    "sha256": "fb5dae1a1e7fe2bd96cea6288b6390dbec0567ba2ada7d3efbc7c7632f70fc02",
+    "file": "5bd5b62472d702bcf6c6a2d5da506f247b938f970964fbf2aee675fd34bac1a4.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases",
+    "response_url": "https://www.notion.com/releases",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:51Z",
+    "sha256": "ac6c9d25f3115e1ee58dbbaa80e1d82db6d78f9b31c70879522e1f138a19da8b",
+    "file": "ecb42f04f00e8eab71e00acc28b3d0b5370504e3d4bb898956cce70dafc70d65.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/2",
+    "response_url": "https://www.notion.com/releases/page/2",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:52Z",
+    "sha256": "11acad8c00b6f1abf0e6db99a4acc96c5140d774632cfd35c95296838a9199af",
+    "file": "50a87659fde6fcf05ba57ca64487a24ffbfdd35bc366cffe5ef1ae6dbe191f8e.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/3",
+    "response_url": "https://www.notion.com/releases/page/3",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:53Z",
+    "sha256": "f7c67e78911b8645001b162e9e29b6de4181f05f616e6ff56c7d9fd8ac3ba643",
+    "file": "3d012561a7251a4fd809bec7714bedee67aac90712e7c40b0bf799ccfad629da.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/4",
+    "response_url": "https://www.notion.com/releases/page/4",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:53Z",
+    "sha256": "2af18cad01705ff12326d7c334c19cbc3d2c2803f93142fde6dcf4152353e8d1",
+    "file": "91b5d8931cbcdb8879bd89890cce529a3a8e97a1b4846c353da97f7025aac440.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/5",
+    "response_url": "https://www.notion.com/releases/page/5",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:54Z",
+    "sha256": "a0931a495d2c2c4c4de29d4f22eebbe4f1d60e5c3e32b121851cb4a8275eb267",
+    "file": "ae41cd0a1c7b7ec97246094df59312f691c7a3de9daacd72fbf887423adbd561.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/6",
+    "response_url": "https://www.notion.com/releases/page/6",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:55Z",
+    "sha256": "573debb8b5daea2d0470e97385233a30b7b5bb8f888578b25cc99d6728e2d295",
+    "file": "d5ec430d858fc9ee419c8e6feb744a88ea083b62a65002a616ea4ce30de155aa.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/7",
+    "response_url": "https://www.notion.com/releases/page/7",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:56Z",
+    "sha256": "450d15d9449f52e2526496253561c66e8f072223635ffc2992ed783c3a02f96f",
+    "file": "4484eac4a80193b2784b9d871567068d7967b45a8f07a6a688250f08f69e5349.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/8",
+    "response_url": "https://www.notion.com/releases/page/8",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:57Z",
+    "sha256": "e831f137bdf51a6e0949d1d50806dbc3104c7b622d809bb01aa34c2574acb000",
+    "file": "4710fcea767e27bfdfecc04c75b8e6ae8ba35d6106c37472d0f855df7b613647.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/9",
+    "response_url": "https://www.notion.com/releases/page/9",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:58Z",
+    "sha256": "89ce2c93503020e9f5d83143873590b7ee505d2a53d7f5553af796763c598057",
+    "file": "d76cabf77e478ec9473d657b0d5db3087263851b9a19d7087a53c3a9281f0c74.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/10",
+    "response_url": "https://www.notion.com/releases/page/10",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:37:59Z",
+    "sha256": "16d33699b8537dffd53978cde2b035a4aca8d059ad461282ee5e3206faa48386",
+    "file": "c8b4b6868d97082a07f4a8ae6f7e7dd027c52b4ec0d7bff9b505fad02a9038ab.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/11",
+    "response_url": "https://www.notion.com/releases/page/11",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:38:00Z",
+    "sha256": "efaa726985af6752a4050274237bfb587de235528df65853c6475981e17c8e0c",
+    "file": "fab8e259032907f0f48f3fa85e4fcef7338f12fae0fad0dc2e287a2f9f979ebd.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/12",
+    "response_url": "https://www.notion.com/releases/page/12",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:38:01Z",
+    "sha256": "f6593a69a277eb3bafd15340e65969258cc362c6ceb42166a6e2cbbe355ca518",
+    "file": "1ae7f3aa32066237532029453ccb662fc892a3c99b67cc316f7799d457ca9df0.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/13",
+    "response_url": "https://www.notion.com/releases/page/13",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:38:02Z",
+    "sha256": "4f603244c97fa0023a9dbb088a54cc58ceab669a4fb67397540daaae6ef97c99",
+    "file": "12915e0e0f5f9e9021b127c286123f224156aecae7bd2168f7f3b17c5188ec90.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/14",
+    "response_url": "https://www.notion.com/releases/page/14",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:38:03Z",
+    "sha256": "dac385365a73d0aa66baa4a8d658156ecb8c56348e2ab0415c179f776169044b",
+    "file": "6df25d563ff74f53b3e2485b1388e07f8801dbdd90af86bd7028a36aaeb82658.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/15",
+    "response_url": "https://www.notion.com/releases/page/15",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:38:04Z",
+    "sha256": "167363eec787c55608fd5d6b1791a4184501b365e76e839973e64a61438e4492",
+    "file": "6b42e5affa78a31ad4376aab8e811bf79a3400a004bc78ee734adbbdd8f3e96e.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.notion.com/releases/page/16",
+    "response_url": "https://www.notion.com/releases/page/16",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:38:04Z",
+    "sha256": "e30ffccf39ba2321153bf276976681a63e2aa4f6a80e319c3a68770021c60d4c",
+    "file": "a3077e1de7b1b87d440296419121743f5a9b364eeefe1471c090e3114da4ca56.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.z.ai/release-notes/new-released.md",
+    "response_url": "https://docs.z.ai/release-notes/new-released.md",
+    "status": 200,
+    "acquired_at": "2026-11-07T03:38:05Z",
+    "sha256": "b8c6fd0aca992008fe4fae82f4c20f96164e6abdd8af78ced9bc360e06434b1b",
+    "file": "10d6b464c3790529c5e9ae107307003d4a5c4c0a041339c5cde8fb047a5cb4ee.gz"
+  }
+]

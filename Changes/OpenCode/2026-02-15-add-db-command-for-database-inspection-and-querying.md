@@ -4,19 +4,20 @@ date: '2026-02-15'
 description: 'OpenCode · 2026-02-15 · Developer Workflow: Add db command for database
   inspection and querying'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1065
+  lag_days: 2714
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c8a8d34c17a19d734b733c02caa3b3daee979eff4489007af04a4c93ed722639
+machine_hash: f30945e96eee4809903a99b707c7f80f9d0ff0e9e07e09ee698b2b57c6b93a07
 product: opencode
 product_name: OpenCode
 record:
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

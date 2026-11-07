@@ -4,20 +4,20 @@ date: '2024-05-09'
 description: 'Dify · 2024-05-09 · Interface Experience: improve: menu collapse readability
   by @JunIce in https://github.com/langgenius/dify/pull/4099'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 486
+  lag_days: 1852
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 872c8ca8466ae796d0500f8d6c1d2a7fbece6acfe2d8691e9ff6b436ae34b0a2
+machine_hash: 8cab1b4bf51e3377165b99320cb040c457a309eda287f140e747774707d18084
 product: dify
 product_name: Dify
 record:
@@ -40,10 +40,10 @@ record:
   title: 'improve: menu collapse readability'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-02-scroll-gesture-bug-adjusted-gesture-sensitivity-to-prevent-accidental-activation|\U0001F50D
-  Scroll Gesture Bug]]"
 - '[[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K
   Autoselect: We''ve also added automatic selection for Command-K!]]'
+- '[[Changes/Descript/2024-05-07-speaker-labeling-update-coming-soon|Speaker Labeling
+  Update Coming Soon]]'
 - "[[Changes/Open WebUI/2024-05-08-improved-chat-sidebar-now-conveniently-displays-time-ranges-and-organizes-chats|\U0001F5BC️
   Improved Chat Sidebar]]"
 source_release: '[[Releases/Dify/dify-2024-05-09-0-6-7-github-154885497-ccce31f0|dify-2024-05-09-0-6-7-github-154885497-ccce31f0]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

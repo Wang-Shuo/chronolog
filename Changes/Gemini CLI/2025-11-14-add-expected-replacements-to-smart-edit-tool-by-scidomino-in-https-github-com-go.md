@@ -4,20 +4,19 @@ date: '2025-11-14'
 description: 'Gemini CLI · 2025-11-14 · Editor Experience: Add expected_replacements
   to smart-edit tool by @scidomino in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 976
+  lag_days: 2560
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6096fc44a85d3d2273dd73b801c3f3a44fb48f3e29d5bade9a4a40290c4e7acb
+machine_hash: 9a49b4f49e2f2f5c9d4ebbdf946d454de676f30d7670208b00b286c428e007d9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,7 +42,7 @@ record:
   title: Add expected_replacements to smart-edit tool
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-11-12-autocomplete|Autocomplete]]'
+- '[[Changes/Descript/2025-11-13-editor|Editor]]'
 - '[[Changes/Dify/2025-11-13-refactor-web-reuse-the-same-edit-custom-collection-modal-component-and-fix-the-p|refactor(web):
   reuse the same edit-custom-collection-modal component, and fix…]]'
 - '[[Changes/Windsurf/2025-11-13-shortcuts|Shortcuts]]'
@@ -80,13 +79,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-11-13 · Windsurf · [[Changes/Windsurf/2025-11-13-shortcuts|Shortcuts]]
-- Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-use-shared-network-gating-helper-in-chat-completion-tests-6461-aibrahim|Use shared network gating helper in chat completion tests (♯6461) — @aibrahim]]
+- Later: 2025-11-17 · Notion · [[Changes/Notion/2025-11-17-create-a-two-way-sync-with-notion-calendar-and-your-databases-now-you-can-edit-t|Create a two-way sync with Notion Calendar and your databases!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

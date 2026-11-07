@@ -4,20 +4,20 @@ date: '2023-07-07'
 description: 'Cursor · 2023-07-07 · Apps and Integrations: Makes it clearer which
   docs are being looked at by the AI'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 106
+  lag_days: 1666
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 146d3ffd4a44522adf891c9b495b1615bf2c1d16ae58a28e3854177d24485fd8
+machine_hash: 17a9809c2465ec7375aa38eedc4f23031183b46d17edf0b88c9557124e13a8ec
 product: cursor
 product_name: Cursor
 record:
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

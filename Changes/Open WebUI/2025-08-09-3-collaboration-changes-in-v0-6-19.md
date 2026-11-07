@@ -4,19 +4,20 @@ date: '2025-08-09'
 description: "Open WebUI · 2025-08-09 · Collaboration: 3 changes in v0.6.19 — \U0001F91D
   **Reliable Collaborative Session Cleanup**: Fixed an asynchronous bug in the real-time…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 808
+  lag_days: 2402
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b1bdb2f605a089dfb14e9ad0faa376e5ef957866a45e897a06e88ac5e7e33f8
+machine_hash: 793370727f73e10d4e330eff22c5aaf6175f1d27a909571070f2b175a1de266f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -115,7 +116,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.19
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

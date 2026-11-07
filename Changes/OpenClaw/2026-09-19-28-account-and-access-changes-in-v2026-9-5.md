@@ -5,20 +5,21 @@ description: 'OpenClaw · 2026-09-19 · Account and Access: 28 changes in v2026.
   — A browser using only its device token can now reconnect after an administrator
   approves…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1269
+  lag_days: 2244
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 303ca3384da0d5e655af6edadba31ae2e5e05748f09bda2cf876ee2a89103911
+machine_hash: 328c2e4879f6ef57045f49041b237e9db956b32676de80726632683a909c2bdb
 product: openclaw
 product_name: OpenClaw
 record:
@@ -335,7 +336,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

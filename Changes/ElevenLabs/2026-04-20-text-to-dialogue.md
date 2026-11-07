@@ -4,20 +4,20 @@ date: '2026-04-20'
 description: 'ElevenLabs · 2026-04-20 · Files and Data: **Input character limit guidance**:
   The [text to…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1061
+  lag_days: 2406
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 654f46a45e3acbbf2a3797b937644edf4da17bdea171df0a9e223d6b908df27e
+machine_hash: a8feacdbae79af1f2091ba42c525036a9177ef607e854028490c8dbefdef52f5
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,12 +49,11 @@ record:
   title: Text to Dialogue
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-generate-files-and-analyze-data|Generate files and
-  analyze data]]'
 - '[[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan
   tabs now get the same document behaviors as files]]'
 - '[[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor
   can now respond by creating interactive canvases]]'
+- '[[Changes/Descript/2026-04-16-locked-layers-https-help-descript-com-hc-en-us-articles-17461277756941-lock-laye|Locked…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-20-2026-04-20-9278926e|elevenlabs-2026-04-20-2026-04-20-9278926e]]'
 source_type: elevenlabs_changelog
 theme: file-data
@@ -89,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-04-15 · Cursor · [[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor can now respond by creating interactive canvases]]
+- Earlier: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-locked-layers-https-help-descript-com-hc-en-us-articles-17461277756941-lock-laye|Locked…]]
 - Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-3-files-and-data-changes-in-v0-9-0|3 Files and Data changes in v0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-06-29 · Mobile and Desktop: 4 changes in v0.10
   \U0001F5BC️ **iPhone images work with OpenAI image editing.** Uploaded images are
   now normalized…"
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1203
+  lag_days: 2787
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19a94573fc0d9c7f8cd66835495d7de8e67acbaa688bd2f9e15574b8ad93e3f4
+machine_hash: f58b1ae2e790c8b77be1e27751cd870930cd3c94a162483778beea9d39e677c3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,8 +61,9 @@ record:
   title: 4 Mobile and Desktop changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-29-ios-sdk|iOS SDK]]'
 - '[[Changes/ElevenLabs/2026-06-29-android-sdk|Android SDK]]'
+- '[[Changes/Kimi Code/2026-06-29-in-the-bundled-web-ui-new-and-clear-are-now-aliases-that-open-the-session-onboar|In
+  the bundled web UI, /new and /clear are now aliases that open the session…]]'
 - '[[Changes/Lovable/2026-06-29-fewer-taps-to-attach-images-on-mobile|Fewer taps to
   attach images on mobile]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
@@ -128,7 +129,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

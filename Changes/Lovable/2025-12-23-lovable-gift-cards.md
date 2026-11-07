@@ -5,20 +5,20 @@ description: 'Lovable · 2025-12-23 · Pricing Model: Give the gift of building.
   gift cards are now available, making it easy to gift Lovable to friends, teammates,
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1104
+  lag_days: 2722
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1aaf977258da4f46196100a7813cfa7e38a3efc61cf07176282c19abab0532f2
+machine_hash: 9bc66d93f774b848bf6bf5e3730591d5619d7f0d9ff7350b8cf2715f1bf93f90
 product: lovable
 product_name: Lovable
 record:
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

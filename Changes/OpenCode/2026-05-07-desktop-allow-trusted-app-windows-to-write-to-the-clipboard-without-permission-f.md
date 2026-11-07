@@ -4,20 +4,20 @@ date: '2026-05-07'
 description: 'OpenCode · 2026-05-07 · Safety and Privacy: Desktop Allow trusted app
   windows to write to the clipboard without permission failures.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1117
+  lag_days: 2109
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c273b14a86a07cafc63e2a60dc120a70dcac8f3df793b0e7fd0be34241af5b1c
+machine_hash: bf08cab4b5a751b6d96ee8d7ac8036bd0eaec3ab2544b3f321b1ccd2bea4b3d6
 product: opencode
 product_name: OpenCode
 record:
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-01-21'
 description: 'OpenCode · 2026-01-21 · Developer Workflow: 2 changes in v1.1.30 — Desktop
   Fix terminal issues and regressions'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1040
+  lag_days: 2689
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a56a5fdb6aece662183502d926e4194cff6a19b4ed8c443223d7422841a41efc
+machine_hash: 7ba90cd2f6a00a87cc71f69677dd11c45a03f2c548858edf14af5acdcd6c63c2
 product: opencode
 product_name: OpenCode
 record:
@@ -92,7 +93,7 @@ Source: https://opencode.ai/changelog/v1.1.30
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

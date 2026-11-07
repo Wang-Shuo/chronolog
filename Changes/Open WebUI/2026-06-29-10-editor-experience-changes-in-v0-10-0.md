@@ -4,20 +4,19 @@ date: '2026-06-29'
 description: 'Open WebUI · 2026-06-29 · Editor Experience: 10 changes in v0.10.0 —
   ✍️ **Customizable autocomplete prompt.** Administrators can now set a custom prompt…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1203
+  lag_days: 2787
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f592d8d126e39e2ceac968bb16557b48b2ebbba04faa3b249bf6cc03777ffcb7
+machine_hash: f46497eac798bd33636215cbee41683da9034b4edd2f38cc23a99272f46398b2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -78,12 +77,12 @@ record:
   title: 10 Editor Experience changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-25-2-editor-experience-changes-in-v1-17-11|2 Editor
-  Experience changes in v1.17.11]]'
-- '[[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add
-  edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]'
+- '[[Changes/Kimi Code/2026-06-26-make-the-web-chat-input-grow-with-its-content-and-add-an-expandable-editor-for-l|Make
+  the web chat input grow with its content and add an expandable editor…]]'
 - '[[Changes/v0/2026-06-26-the-editor-no-longer-shows-a-false-start-error-when-a-preview-dev-server-or-inst|The
   editor no longer shows a false start error when a preview, dev server…]]'
+- '[[Changes/Kimi Code/2026-06-29-add-a-completion-sound-and-question-notifications-to-the-web-ui-with-separate-se|Add
+  a completion sound and question notifications to the web UI, with separate…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
 source_type: github_releases
 theme: editor-experience
@@ -152,14 +151,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-the-editor-no-longer-shows-a-false-start-error-when-a-preview-dev-server-or-inst|The editor no longer shows a false start error when a preview, dev server…]]
+- Earlier: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-add-a-completion-sound-and-question-notifications-to-the-web-ui-with-separate-se|Add a completion sound and question notifications to the web UI, with separate…]]
 - Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-editor-experience-changes-in-v1-0-66|2 Editor Experience changes in v1.0.66]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

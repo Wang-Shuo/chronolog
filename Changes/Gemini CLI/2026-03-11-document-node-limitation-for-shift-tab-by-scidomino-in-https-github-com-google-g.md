@@ -4,20 +4,19 @@ date: '2026-03-11'
 description: 'Gemini CLI · 2026-03-11 · Editor Experience: document node limitation
   for shift+tab by @scidomino in https://github.com/google-gemini/gemini-cli/pull/20877'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1093
+  lag_days: 2677
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd8aa0785aeb3d408ca9f409e8fcde477d6e86fe56481b0802814445b38b739b
+machine_hash: 5aa17f36bc72a26d69cd76301a1ca8092f979104d7051ccbeb90f6d746bb0de7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,11 +40,12 @@ record:
   title: document node limitation for shift+tab
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-09-elevencreative-studio-cd704d|ElevenCreative Studio]]'
-- '[[Changes/v0/2026-03-09-improved-the-custom-design-system-editor-interface|Improved
-  the Custom Design System editor interface]]'
-- '[[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode:
-  Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-ask-copilot-directly-from-the-microsoft-edge-address-bar-web-microsoft-365-copil|Ask
+  Copilot directly from the Microsoft Edge address bar…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-expanded-ai-skill-inferencing-for-e3-and-e5-users-windows-web-microsoft-365-copi|Expanded
+  AI skill inferencing for E3 and E5 users Windows…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-edit-images-in-powerpoint-with-designer-editor-windows-web-mac-powerpoint|Edit
+  images in PowerPoint with Designer Editor Windows, Web, Mac (PowerPoint)]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937|gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode: Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]
+- Earlier: 2026-03-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-10-edit-images-in-powerpoint-with-designer-editor-windows-web-mac-powerpoint|Edit images in PowerPoint with Designer Editor Windows, Web, Mac (PowerPoint)]]
 - Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-desktop-skip-editor-reconcile-during-ime-composition|Desktop Skip editor reconcile during IME composition]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

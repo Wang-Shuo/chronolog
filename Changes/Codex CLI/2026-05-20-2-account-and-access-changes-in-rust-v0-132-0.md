@@ -5,20 +5,21 @@ description: 'Codex CLI · 2026-05-20 · Account and Access: 2 changes in 0.132.
   The Python SDK now supports first-class authentication, including API key login,
   ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1147
+  lag_days: 2122
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71e427f66e8dd8c87d199d2e517c6feab450c6be5c624e5c795267798c249566
+machine_hash: 9a56047641c6fa8f5809f74a7da0ef2db66d7422927aeca11caa2d8f3eaeaf22
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.132.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

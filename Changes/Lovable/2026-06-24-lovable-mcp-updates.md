@@ -4,20 +4,20 @@ date: '2026-06-24'
 description: 'Lovable · 2026-06-24 · Apps and Integrations: The [Lovable MCP server](https://docs.lovable.dev/integrations/lovable-mcp-server.md)
   is now listed in the Azure…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1189
+  lag_days: 2749
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 483956f74f9ab3af6cc7263a4e01834cfcb5f7dd3e597df2484b3c5bc1beca64
+machine_hash: 74636fbde9ac5d5035b9c3b554a0e72a5190b6a7c8cf2722059e5304f0fd4053
 product: lovable
 product_name: Lovable
 record:
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

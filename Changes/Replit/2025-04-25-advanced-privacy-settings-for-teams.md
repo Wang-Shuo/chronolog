@@ -5,20 +5,20 @@ description: 'Replit · 2025-04-25 · Safety and Privacy: Enterprise teams now h
   enhanced control over their organization''s data with new Advanced Privacy settings.
   Prevent…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 740
+  lag_days: 1732
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ee6a6125fab47eb685f8ff52cb272adae422f3aaabc56ee86e63917f51dad8dc
+machine_hash: 52a595e634cb4b57d7df82d1ee01f2360fca4e7321fa6425f4e5d29e6dc74a59
 product: replit
 product_name: Replit
 record:
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

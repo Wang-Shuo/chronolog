@@ -4,20 +4,20 @@ date: '2026-03-24'
 description: 'OpenCode · 2026-03-24 · Reliability and Performance: 2 changes in v1.3.2
   + 1 — Improved desktop app stability with more robust sidecar process cleanup'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1195
+  lag_days: 2682
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1be1fa3fc95abf0af062d24853ec7cdfae2b922aa3eda8c7ad04ed0ef4c66df4
+machine_hash: ddccb7e67a3c5a693c6d91b4225569a4daca471d7afea04f09d1552c08136731
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Reliability and Performance changes in v1.3.2 + 1
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-03-21-two-versions-of-sref-moodboards-now-available|Two
-  Versions of SREF / Moodboards now available]]'
 - '[[Changes/OpenCode/2026-03-22-providers-models-xai-responses-api-improved-xai-reasoning-models-performance-in|Providers
   & Models xAI Responses API]]'
 - '[[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0
   Release Candidate]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-summarize-and-explain-actions-in-pdf-reader-web-microsoft-365-copilot-chat|Summarize
+  and Explain actions in PDF reader Web (Microsoft 365 Copilot Chat)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-24-v1-3-2-70706e91|opencode-2026-03-24-v1-3-2-70706e91]]'
 source_type: opencode_changelog
 theme: reliability-performance
@@ -85,14 +85,14 @@ Source: https://opencode.ai/changelog/v1.3.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0 Release Candidate]]
+- Earlier: 2026-03-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-24-summarize-and-explain-actions-in-pdf-reader-web-microsoft-365-copilot-chat|Summarize and Explain actions in PDF reader Web (Microsoft 365 Copilot Chat)]]
 - Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3 Reliability and Performance changes in v2.1.83]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

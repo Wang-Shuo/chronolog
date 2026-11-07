@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-01-31 · Apps and Integrations: 14 changes in 0.
   — MCP tool image outputs render reliably even when image blocks aren’t first or
   are…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1045
+  lag_days: 2605
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 254cf11d54691c50479948925be21b89aebb24bc78c0ad47742b48046b305a39
+machine_hash: 5242554382b8d909c73193bb730c960317130088f1268b4b3a6acfce36f15847
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -154,7 +154,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.93.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

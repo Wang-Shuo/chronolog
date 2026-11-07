@@ -4,20 +4,20 @@ date: '2026-08-26'
 description: 'Codex CLI · 2026-08-26 · Mobile and Desktop: #39811 Restrict macOS preference
   reads to full-disk policies @copyberry'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1261
+  lag_days: 2845
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d548c759424f262ac411abb71395b1956360be46b7c1de39cd715127d510275
+machine_hash: 0670e2513f85e45b5547ea26d356c189ae1212803b6f1de97e784fa28b0a906a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,9 +41,10 @@ record:
   title: '#39811 Restrict macOS preference reads to full-disk policies @copyberry'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
-  Fixed headless sessions not cleaning up stale entries…]]'
-- '[[Changes/Lovable/2026-08-25-filter-audit-logs-by-client|Filter audit logs by client]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-generate-and-edit-images-in-copilot-cowork-android-windows-ios-mac-web-microsoft|Generate
+  and edit images in Copilot Cowork Android, Windows, iOS, Mac…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-teams-meetings-in-copilot-notebooks-android-windows-ios-web-onenote|Teams
+  Meetings in Copilot Notebooks Android, Windows, iOS, Web (OneNote)]]'
 - "[[Changes/Open WebUI/2026-08-25-starting-up-on-windows-the-windows-start-script-now-creates-the-secret-key-it-ne|\U0001FA9F
   Starting up on Windows. The Windows start script now creates the secret key…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

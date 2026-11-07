@@ -4,20 +4,20 @@ date: '2026-05-18'
 description: 'Lovable · 2026-05-18 · Safety and Privacy: [Wiz security scanning](https://docs.lovable.dev/integrations/wiz.md)
   is now available in Lovable. Wiz adds software…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1128
+  lag_days: 2120
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5acb7fcf2b6f2a40b75b34159c997bb581e0f66a51ffc2ce018cd8cb6b38233f
+machine_hash: b0649406437fe299d90fc6f00c8d76485e4bd4cba57723ce768160b8ececa3e4
 product: lovable
 product_name: Lovable
 record:
@@ -112,7 +112,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

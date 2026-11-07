@@ -5,20 +5,19 @@ description: 'Cursor · 2024-03-20 · Editor Experience: Team invites: We made i
   bit easier for you to invite your colleagues to your Cursor team. You can send these
   from…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 372
+  lag_days: 1956
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59458e97b1809cfa1d57ecaa4f6c18aa0bb2d8c9613a2e224c07cd5fe354eabe
+machine_hash: 0a19defe429a621eb970e172e68af2dce09042dd21f4a364eec79da5079070af
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +43,11 @@ record:
   title: 'Team invites: We made it a bit easier for you to invite your colleagues…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS
-  Code 1.86.2]]'
-- '[[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show
-  the user a FAQ link if edits fail to apply]]'
+- '[[Changes/Descript/2024-03-04-ai-edit-actions-now-with-deletion|AI Edit Actions:
+  Now with Deletion]]'
 - "[[Changes/Open WebUI/2024-03-10-misalignment-issue-corrected-misalignment-of-edit-and-delete-icons-when-chat-tit|\U0001F527
   Misalignment Issue]]"
+- '[[Changes/Descript/2024-03-18-editor-updates|Editor Updates]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -81,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-misalignment-issue-corrected-misalignment-of-edit-and-delete-icons-when-chat-tit|🔧 Misalignment Issue]]
+- Earlier: 2024-03-18 · Descript · [[Changes/Descript/2024-03-18-editor-updates|Editor Updates]]
 - Later: 2024-03-31 · Open WebUI · [[Changes/Open WebUI/2024-03-31-tag-autocomplete-dropdown-feature-added-for-effortless-chat-tagging|🏷️ Tag Autocomplete: Dropdown feature added for effortless chat tagging]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

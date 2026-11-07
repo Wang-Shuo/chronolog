@@ -4,20 +4,19 @@ date: '2026-09-22'
 description: 'Codex CLI · 2026-09-22 · Editor Experience: 6 changes in 0.156.0 — #44742
   Preserve editor yanks across new sessions and thread switches @bc-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1288
+  lag_days: 2872
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e595761519cf21159e7aa1e88a49508fa82ececdfd84e23fe134ba3dfc2437c
+machine_hash: b3fe74d4a8ef2dbfbb5e5bf81481cca03d78d369fdb060d417f32c830896e0b1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -123,7 +122,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.156.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

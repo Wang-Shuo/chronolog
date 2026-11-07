@@ -4,20 +4,20 @@ date: '2026-04-20'
 description: 'Codex CLI · 2026-04-20 · Context Window: 10 changes in 0.122.0 — Plan
   Mode can start implementation in a fresh context, with context-usage shown before…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1082
+  lag_days: 2406
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bfe8d3b0d45c2b648ef26beefd19e67eb5c3357a59c9774ac1323eba79c1d432
+machine_hash: 90660bb983ef2eabac99447be004d7ce7c2cfee4fe310d36ffb6f93aae93dfd3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,8 +62,8 @@ record:
   title: 10 Context Window changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-15-kept-github-copilot-compaction-requests-valid|Kept
-  GitHub Copilot compaction requests valid]]'
+- '[[Changes/Descript/2026-04-16-click-here-https-web-descript-com-view-settings-account-active-api-to-get-your-a|Click
+  here((source link) to get…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-add-statusline-command-with-footer-alias-to-customize-which-items-appear-in-the|Add
   /statusline command (with /footer alias) to customize which items appear…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-17-3-context-window-changes-in-v1-0-32|3 Context
@@ -135,7 +135,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-08-07'
 description: 'Codex CLI · 2026-08-07 · Files and Data: #36043 Document the Responses
   API proxy reqwest exception @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1170
+  lag_days: 2515
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af374c4438598541e1dca88c8cc82e5287357a29b59c91480f29bbaa350a4af6
+machine_hash: a68d96bc9a16f9899a97a468e32317e67a0a25a7323334b46657fe04b14e346e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#36043 Document the Responses API proxy reqwest exception @copyberry'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-29-chore-replay-agent-canvas-history-by-neubig-in-https-github-com-openhands-openha|chore:
-  replay Agent Canvas history]]'
+- '[[Changes/Descript/2026-08-05-edit-an-image-by-drawing-on-it|Edit an image by drawing
+  on it]]'
 - '[[Changes/OpenHands/2026-08-05-feat-set-canvas-default-model-to-glm-5-2-by-juanmichelini-in-https-github-com-op|feat:
   set Canvas default model to GLM 5.2]]'
 - '[[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|ChatGPT
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

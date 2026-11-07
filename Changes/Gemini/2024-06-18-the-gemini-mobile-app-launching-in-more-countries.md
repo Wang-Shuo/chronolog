@@ -4,20 +4,20 @@ date: '2024-06-18'
 description: 'Gemini · 2024-06-18 · Mobile and Desktop: What: The Gemini app is now
   available in India, Türkiye, Bangladesh, Pakistan, and Sri Lanka. You can now interact…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 462
+  lag_days: 2046
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: f149db9fe88012b71f536b488951b40633124e8d8ed6513ca3572beb1590470e
+machine_hash: e1216d54d24a0e36ca4f655bd8a709135e85f03fa534a30dcb34e5f89aa7e503
 product: gemini
 product_name: Gemini
 record:
@@ -52,10 +52,9 @@ record:
   title: The Gemini mobile app launching in more countries
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-06-05-the-gemini-mobile-app-is-available-in-europe|The Gemini
-  mobile app is available in Europe]]'
 - "[[Changes/Open WebUI/2024-06-05-mobile-view-improvements-the-ui-now-uses-dvh-dynamic-viewport-height-instead-of|\U0001F4F1
   Mobile View Improvements]]"
+- '[[Changes/Notion/2024-06-11-see-your-day-at-a-glance|See your day at a glance]]'
 - '[[Changes/Ollama/2024-06-15-model-loading-on-windows-with-cuda-gpus-is-now-faster|Model
   loading on Windows with CUDA GPUs is now faster]]'
 source_release: '[[Releases/Gemini/gemini-2024-06-18-2024-06-18-33742b91|gemini-2024-06-18-2024-06-18-33742b91]]'
@@ -89,13 +88,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-06-15 · Ollama · [[Changes/Ollama/2024-06-15-model-loading-on-windows-with-cuda-gpus-is-now-faster|Model loading on Windows with CUDA GPUs is now faster]]
-- Later: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-docs-add-notes-for-running-postgres-docker-on-windows-wsl2-ubuntu-by-hikariming|docs: Add notes for running Postgres Docker on Windows WSL2 Ubuntu …]]
+- Later: 2024-06-19 · Descript · [[Changes/Descript/2024-06-19-quick-recorder-upgrades-now-on-windows|Quick Recorder upgrades now on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

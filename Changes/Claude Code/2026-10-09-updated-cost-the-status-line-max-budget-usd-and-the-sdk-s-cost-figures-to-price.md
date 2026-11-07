@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-09 · Pricing Model: Updated `/cost`, the s
   line, `--max-budget-usd` and the SDK''s cost figures to price Sonnet 5.5 cache reads
   at…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1394
+  lag_days: 3012
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4c6a2695e83a8d65bfe7a57cd43ee257d5ac971b23aaf7ad1a71a3a049467b60
+machine_hash: d5d1c5f6032dff6045e61f3b1bc17c69f1bf873aca58eacf2590309f9aee1b6b
 product: claude-code
 product_name: Claude Code
 record:
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

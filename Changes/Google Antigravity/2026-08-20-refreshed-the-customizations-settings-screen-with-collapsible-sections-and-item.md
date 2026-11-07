@@ -4,20 +4,20 @@ date: '2026-08-20'
 description: 'Google Antigravity · 2026-08-20 · Apps and Integrations: Refreshed the
   Customizations settings screen with collapsible sections and item counts for skills…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1246
+  lag_days: 2806
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99a801ef51f2622fbae28f045ecf870a0813215499a10f8e395b5e1bf73ab648
+machine_hash: 30a6088f78703acfa9736d9c5d41283357a98a8e95fa73462b6d0167f4c0edfe
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -104,13 +104,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33 Apps and Integrations changes in rust-v0.149.0]]
-- Later: 2026-08-20 · Lovable · [[Changes/Lovable/2026-08-20-sort-connectors-and-add-an-mcp-server-from-the-catalog-header|Sort connectors and add an MCP server from the catalog header]]
+- Later: 2026-08-20 · Kimi Code · [[Changes/Kimi Code/2026-08-20-add-13-data-sources-to-the-official-kimi-datasource-plugin-chinese-government-da|Add 13 data sources to the official Kimi Datasource plugin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

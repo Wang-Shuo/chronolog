@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-04-28 · Enterprise and Administration: **\U000
   Improved Admin Panel**: Admins can now conveniently check users' chat lists and
   last active…"
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 359
+  lag_days: 1566
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c3730c257747b6537fcd3e722741e5e922b70b8030fbfe3ea60172ede382603
+machine_hash: b4dd6c00201b679d3f3ab6563eeed7bb11e920cabd72a723b081e616d891e6fa
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

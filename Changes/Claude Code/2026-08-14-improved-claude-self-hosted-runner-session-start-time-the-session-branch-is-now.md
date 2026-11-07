@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 28a887b23ecd3f54678a8f8281bea7f054bffbec5b55a43847a6e655c426d2c6
+machine_hash: feab66b1e32a7908103a423a136e30da8283499e3c2ae36d9f14e395d906d2d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Improved `claude self-hosted-runner` session start time
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-13-agents-do-their-best-work-when-they-start-in-a-ready-environment-repos-cloned-de-6161c7|Agents
-  do their best work when they start in a ready environment]]'
 - '[[Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using|More
   resilient agent runs]]'
+- '[[Changes/Kimi Code/2026-08-13-3-agent-mode-changes-in-kimi-code-0-36-0|3 Agent
+  Mode changes in Kimi Code 0.36.0]]'
 - '[[Changes/OpenHands/2026-08-13-chore-enforce-typed-openhands-typescript-client-for-agent-server-api-calls-no-ad|chore:
   enforce typed @openhands/typescript-client for agent-server API calls…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'

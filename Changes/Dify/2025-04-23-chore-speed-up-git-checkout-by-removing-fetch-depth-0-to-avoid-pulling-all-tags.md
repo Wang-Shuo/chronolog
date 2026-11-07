@@ -4,20 +4,20 @@ date: '2025-04-23'
 description: 'Dify · 2025-04-23 · Reliability and Performance: chore: speed up git
   checkout by removing fetch-depth 0 to avoid pulling all tags and branches by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 860
+  lag_days: 2347
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7b2a0cc0954f1b1ad46cabe35f76d9b727a154f610a159b619f659a03f844b67
+machine_hash: b13cd19bb8c64fbb313d47d5d2aaf9cc843a17dd5938900e49bedcc47472c853
 product: dify
 product_name: Dify
 record:
@@ -43,11 +43,11 @@ record:
     all tags…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-04-14-2-reliability-and-performance-changes-in-v0-6-5|2
-  Reliability and Performance changes in v0.6.5]]'
 - '[[Changes/Ollama/2025-04-17-2-reliability-and-performance-changes-in-v0-6-6|2 Reliability
   and Performance changes in v0.6.6]]'
 - '[[Changes/Replit/2025-04-18-faster-ai-responses|Faster AI responses]]'
+- '[[Changes/Descript/2025-04-22-the-new-screen-recorder-in-beta-this-week|The new
+  Screen recorder—in Beta this week]]'
 source_release: '[[Releases/Dify/dify-2025-04-23-1-3-0-github-214141766-8d4f18a3|dify-2025-04-23-1-3-0-github-214141766-8d4f18a3]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-faster-ai-responses|Faster AI responses]]
+- Earlier: 2025-04-22 · Descript · [[Changes/Descript/2025-04-22-the-new-screen-recorder-in-beta-this-week|The new Screen recorder—in Beta this week]]
 - Later: 2025-04-27 · Windsurf · [[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

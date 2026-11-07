@@ -4,19 +4,20 @@ date: '2026-07-09'
 description: 'ChatGPT · 2026-07-09 · Collaboration: Existing group chats will remain
   available and can continue to be used for now. When an existing group chat becomes…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1142
+  lag_days: 2736
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab8fc4db5090e0342328a59caf54f41ca0e8c49e6a28b2b0e14f24331d9924d3
+machine_hash: 2bdde68a77cd87cd53e6f99c0e2c1c1c47f384c22875d0b68e53e10e24445656
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +49,12 @@ record:
     now
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last
-  owner cannot leave a shared folder]]'
 - '[[Changes/v0/2026-07-07-3-collaboration-changes-in-grouped-tool-approvals-richer-mcp|3
   Collaboration changes in Grouped tool approvals, richer MCP…]]'
 - '[[Changes/Codex CLI/2026-07-08-5-collaboration-changes-in-rust-v0-143-0|5 Collaboration
   changes in rust-v0.143.0]]'
+- '[[Changes/HeyGen/2026-07-08-2-collaboration-changes-in-july-2026-enterprise-releases|2
+  Collaboration changes in July 2026 Enterprise Releases]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40|chatgpt-2026-07-09-retiring-group-chats-in-chatgpt-b45b9e40]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -83,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-5-collaboration-changes-in-rust-v0-143-0|5 Collaboration changes in rust-v0.143.0]]
+- Earlier: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-2-collaboration-changes-in-july-2026-enterprise-releases|2 Collaboration changes in July 2026 Enterprise Releases]]
 - Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31587-stabilize-shared-rollout-budget-test-jif-oai|♯31587 Stabilize shared rollout budget test @jif-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

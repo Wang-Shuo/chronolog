@@ -4,20 +4,20 @@ date: '2025-10-06'
 description: 'Codex CLI · 2025-10-06 · Context Window: #4706 Fix command output truncation
   that sometimes used too much of the context window'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 886
+  lag_days: 2210
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 126c2020f94ae48c0da3c5a62c38d453dc31beab51479c0fbf5325d6b61cdc2a
+machine_hash: 6b398fb7d86d99933c14f74466d242e7e92ca873c2c27a1da73331f137dd6fe3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
     context window'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-29-synced-fileuploader-context-with-props-to-fix-inconsistent-file-parameters-in-ca|Synced
-  FileUploader context with props to fix inconsistent file parameters in cached…]]'
+- '[[Changes/Z.ai API/2025-09-30-the-update-also-expands-the-context-window-to-200k-improving-its-ability-to-hand|The
+  update also expands the context window to 200K, improving its ability to handle…]]'
 - '[[Changes/Codex CLI/2025-10-03-2-context-window-changes-in-rust-v0-44-0|2 Context
   Window changes in rust-v0.44.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-03-added-a-warning-when-conversation-context-approaches-20-remaining-of-the-model-s|Added
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

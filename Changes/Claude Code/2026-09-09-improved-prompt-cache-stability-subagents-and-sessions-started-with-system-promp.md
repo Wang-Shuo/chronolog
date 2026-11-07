@@ -4,20 +4,20 @@ date: '2026-09-09'
 description: 'Claude Code · 2026-09-09 · Context Window: Improved prompt-cache stability:
   subagents and sessions started with `--system-prompt` or `--append-system-prompt`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1224
+  lag_days: 2548
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b9615470f3009495bed4ab3c0f19b72a11f7849173a40cb981336397cc8fca99
+machine_hash: e938cc23690a8c87be14cd64d52462ce0bf6c16b9f4db3b1ca597d0885c2ba32
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,8 @@ record:
   title: Improved prompt-cache stability
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added
-  /skill-doctor to show which loaded skills go unused and what they cost…]]'
+- '[[Changes/Kimi Code/2026-09-04-remind-the-model-of-its-context-budget-before-automatic-compaction-and-after-com|Remind
+  the model of its context budget before automatic compaction, and after…]]'
 - '[[Changes/OpenClaw/2026-09-05-15-context-window-changes-in-v2026-9-2|15 Context
   Window changes in v2026.9.2]]'
 - '[[Changes/OpenClaw/2026-09-08-12-context-window-changes-in-v2026-9-3|12 Context
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0dd528aa02d4735e30f82b07ec0e0f068b8f927f399b02fdb51a87898f7a26c8
+machine_hash: 3f6f7a9c7cbadde907905da9f08b1cfe414c3f9811244cf113262bf0b8c1dafc
 product: dify
 product_name: Dify
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Accessibility and Localization changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-2-accessibility-and-localization-changes-in-1-16-1|2
-  Accessibility and Localization changes in 1.16.1]]'
 - '[[Changes/Google Antigravity/2026-07-28-improved-accessibility-in-the-settings-modal-with-better-heading-hierarchy-and-k|Improved
   accessibility in the Settings modal with better heading hierarchy…]]'
+- '[[Changes/Notion/2026-07-30-accessibility-win-high-contrast-mode-is-a-new-display-option-that-makes-text-ico|Accessibility
+  win!]]'
 - '[[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved
   screen reader mode]]'
 source_release: '[[Releases/Dify/dify-2026-08-25-1-17-0-github-376348099-66c16161|dify-2026-08-25-1-17-0-github-376348099-66c16161]]'

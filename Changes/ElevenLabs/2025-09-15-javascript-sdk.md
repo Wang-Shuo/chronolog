@@ -4,20 +4,20 @@ date: '2025-09-15'
 description: 'ElevenLabs · 2025-09-15 · Voice and Audio: **v2.15.0** - Added new Text
   to Voice Remix endpoint'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 798
+  lag_days: 2625
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8614001c4188341770e98ac6fbe06543315f1afa5a9cdf2124ce0ad044a34c3d
+machine_hash: 7682cabb81c77f67cab2ceb35f1e89ca75500f8d9fc2e6bcdec82dcf01fad3e1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

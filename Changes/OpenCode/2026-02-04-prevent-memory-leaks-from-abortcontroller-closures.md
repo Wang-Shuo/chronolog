@@ -4,20 +4,20 @@ date: '2026-02-04'
 description: 'OpenCode · 2026-02-04 · Reliability and Performance: Prevent memory
   leaks from AbortController closures'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1147
+  lag_days: 2634
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1c0b5bf4a2ddc94f33df1088eb434d08702cd168a3c6bac68344cd45453f80b6
+machine_hash: 628361a885be92c129c9d187c006b9cc8359da8f928164487e87740acd3cfa51
 product: opencode
 product_name: OpenCode
 record:
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

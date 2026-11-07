@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: dd8ff500a1ea49fbcf8e288d98a3b23ef5c324e9008eb90e392940e9d0e14732
+machine_hash: 9cb5cd8b84a78f62d260ddeb92475dd3cbff51bef7a27ddc1c5926d93500c5db
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -84,8 +84,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-07-11-2-agent-mode-changes-in-v0-32-0|2 Agent Mode changes
-  in v0.32.0]]'
+- '[[Changes/Kimi Code/2026-07-12-2-agent-mode-changes-in-kimi-code-0-23-6|2 Agent
+  Mode changes in Kimi Code 0.23.6]]'
 - '[[Changes/Codex CLI/2026-07-13-2-agent-mode-changes-in-rust-v0-144-2|2 Agent Mode
   changes in rust-v0.144.2]]'
 - '[[Changes/ElevenLabs/2026-07-13-python-sdk|Python SDK]]'

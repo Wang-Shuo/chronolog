@@ -4,20 +4,20 @@ date: '2026-05-28'
 description: 'OpenCode · 2026-05-28 · Interface Experience: Terminal Kept session
   navigation working while prompt modes are open'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1235
+  lag_days: 2601
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05c2ad780be80b1ede92aa6323fee9d320a9e1e56eef2d3026d6e9b681fa30b4
+machine_hash: bff17080bfca08d9980e20d5ddf314302e5167df11a0509f3a7c6c2f32ad072c
 product: opencode
 product_name: OpenCode
 record:
@@ -51,12 +51,12 @@ record:
   title: Terminal Kept session navigation working while prompt modes are open
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-vscode-auto-mode-no-longer-requires-the-bypass-permissions-setting-to-appear-in|VSCode
-  Auto mode no longer requires the bypass-permissions setting to appear…]]'
 - '[[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface
   Experience changes in v2.1.153]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-7-interface-experience-changes-in-v1-0-55|7
   Interface Experience changes in v1.0.55]]'
+- '[[Changes/Kimi Code/2026-05-28-show-file-content-and-diff-in-write-and-edit-approval-prompts-and-open-them-in-a|Show
+  file content and diff in Write and Edit approval prompts, and open them…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-28-v1-15-12-2957a170|opencode-2026-05-28-v1-15-12-2957a170]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-7-interface-experience-changes-in-v1-0-55|7 Interface Experience changes in v1.0.55]]
+- Earlier: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-show-file-content-and-diff-in-write-and-edit-approval-prompts-and-open-them-in-a|Show file content and diff in Write and Edit approval prompts, and open them…]]
 - Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude agents: slash-command autocomplete in the dispatch input now matches substrings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

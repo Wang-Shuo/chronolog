@@ -4,20 +4,20 @@ date: '2025-07-19'
 description: 'Codex CLI · 2025-07-19 · Reliability and Performance: As a heads up,
   https://github.com/openai/codex/pull/1596 changes the organization of the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 947
+  lag_days: 2434
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19ad8d85602eaa8167a8e085fbf06de07c30e8202e9f63b1becfd2e4596cfe41
+machine_hash: 4439fe1fd875c75796ddaabe73bcfa1aa8e7b37f8a411329928c06315fc4de5e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

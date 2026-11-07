@@ -4,19 +4,20 @@ date: '2026-08-07'
 description: 'Claude Code · 2026-08-07 · Developer Workflow: Added a cancel-and-confirm
   step when removing an unavailable paste changes a command''s text'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1238
+  lag_days: 2887
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05da1e27baadd1221ea1eeac128c7d10d3db92ade4f04bd0a2cb2f0afa72add8
+machine_hash: ba16f059ad391579e8695b0f0992366873b3a308ea6817875baab50c21cc2d33
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +44,8 @@ record:
   title: Added a cancel-and-confirm step when removing an unavailable paste changes…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-05-2-developer-workflow-changes-in-v4-1-4|2 Developer Workflow
-  changes in v4.1.4]]'
+- '[[Changes/Kimi Code/2026-08-05-add-bug-as-an-alias-for-the-feedback-slash-command-type-bug-to-submit-feedback|Add
+  /bug as an alias for the /feedback slash command]]'
 - '[[Changes/OpenCode/2026-08-05-core-logged-remote-workspace-5xx-response-bodies-in-the-host-logs-to-make-proxy|Core
   Logged remote workspace 5xx response bodies in the host logs to make proxy…]]'
 - '[[Changes/Claude Code/2026-08-06-2-developer-workflow-changes-in-v2-1-223|2 Developer
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

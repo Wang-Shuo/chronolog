@@ -4,20 +4,20 @@ date: '2026-01-20'
 description: 'OpenCode · 2026-01-20 · Interface Experience: 3 changes in v1.1.28 —
   Terminal Prevent sidebar height from overflowing in terminal UI'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1107
+  lag_days: 2473
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a4659aaabe69f13c1acb1831280db6d11cfdc0a25fe324df695152bae2928cf
+machine_hash: e635ea36085cb163a63e705fb4e4ce3b148652bf62ff4bbff2d6b4493ad7270c
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Interface Experience changes in v1.1.28
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added
-  searchable version selector for easier navigation]]'
 - '[[Changes/OpenCode/2026-01-19-2-interface-experience-changes-in-v1-1-26|2 Interface
   Experience changes in v1.1.26]]'
 - '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
   backspace to delete pasted text as a single token instead of one character…]]'
+- '[[Changes/HeyGen/2026-01-20-pronunciation-redesign-add-and-manage-glossaries-directly-in-the-panel-preview-p|Pronunciation
+  redesign: Add and manage glossaries directly in the panel]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-20-v1-1-28-e6ef553d|opencode-2026-01-20-v1-1-28-e6ef553d]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -90,14 +90,14 @@ Source: https://opencode.ai/changelog/v1.1.28
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved backspace to delete pasted text as a single token instead of one character…]]
+- Earlier: 2026-01-20 · HeyGen · [[Changes/HeyGen/2026-01-20-pronunciation-redesign-add-and-manage-glossaries-directly-in-the-panel-preview-p|Pronunciation redesign: Add and manage glossaries directly in the panel]]
 - Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3 Interface Experience changes in rust-v0.88.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

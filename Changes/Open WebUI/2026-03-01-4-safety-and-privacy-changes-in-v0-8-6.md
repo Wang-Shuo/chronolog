@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-03-01 · Safety and Privacy: 4 changes in v0.8.
   \U0001F6E1️ **Docker image SBOM attestation.** Docker images now include a Software
   Bill of…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1050
+  lag_days: 2042
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f576d283edf3c5c7a826d00dc909dd2486236d5a780b81b2357cf8188eba22cc
+machine_hash: c9246b5fa4c80750a27b9d28505df3023f951eedfbbe6a9e10ffe9c3c1839d21
 product: open-webui
 product_name: Open WebUI
 record:
@@ -118,7 +118,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

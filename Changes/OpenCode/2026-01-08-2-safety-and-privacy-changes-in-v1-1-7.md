@@ -4,20 +4,20 @@ date: '2026-01-08'
 description: 'OpenCode · 2026-01-08 · Safety and Privacy: 2 changes in v1.1.7 — Terminal
   Restore showDetails check removed in Permission rework'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 998
+  lag_days: 1990
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4e873eb27405db029c32dd16b2c56cbc9327c17e281b9dc32e05fb7e23ecbda
+machine_hash: 9141fcf8f6386cbc922266e52339e0144394b79cacad6dd5d16f4999c3ae965a
 product: opencode
 product_name: OpenCode
 record:
@@ -93,7 +93,7 @@ Source: https://opencode.ai/changelog/v1.1.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

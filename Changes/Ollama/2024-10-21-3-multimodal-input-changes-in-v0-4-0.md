@@ -4,20 +4,20 @@ date: '2024-10-21'
 description: 'Ollama · 2024-10-21 · Multimodal Input: 3 changes in v0.4.0 — ![Ollama
   trying to look cool with its own reality vision…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 398
+  lag_days: 2166
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5aac549b4e2427eefaf143fa27b6f0d2d231b4cb36a1398bcb9c9366b2d9bd6
+machine_hash: a71432096a649eb65efe07b00f02b610ccf5c221b562c677afcee3af235ebdf7
 product: ollama
 product_name: Ollama
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.4.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

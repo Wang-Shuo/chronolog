@@ -5,20 +5,20 @@ description: 'Gamma · 2025-03-28 · Presentation Creation: You can now hide car
   your Gamma presentations and sites! Need to tuck something away for later? Want
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 289
+  lag_days: 1358
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: adf16fbf5c5cc49b150cb83ee848f08ba60dc0fd90885c5a4344797fd8a5ca9a
+machine_hash: a83b62dda4189da93d53f7c21ec02ff7a23e0dd281f59dced2e791eba60f6ba2
 product: gamma
 product_name: Gamma
 record:
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

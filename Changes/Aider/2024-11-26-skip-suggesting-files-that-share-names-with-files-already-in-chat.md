@@ -4,19 +4,20 @@ date: '2024-11-26'
 description: 'Aider · 2024-11-26 · Collaboration: Skip suggesting files that share
   names with files already in chat.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 552
+  lag_days: 2146
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5ac2b0b24a13d45fc5e204ac15f9cf78447c69846e721935591f7f1c98d26d9
+machine_hash: 1f2584e261cf65226ae09bab51b191c55ed17b690dda9a5552fa444f642e1014
 product: aider
 product_name: Aider
 record:
@@ -80,13 +81,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration changes in v0.4.0]]
-- Later: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-tips|Tips]]
+- Later: 2024-12-05 · Notion · [[Changes/Notion/2024-12-05-easy-scheduling-with-notion-calendar|Easy scheduling with Notion Calendar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

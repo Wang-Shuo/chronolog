@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-08-27 · Mobile and Desktop: **\U0001F517 Call 
   Activation via URL**: Added a 'call=true' URL search parameter enabling direct shortcuts
   to…"
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 532
+  lag_days: 2116
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04e871194cd87d7963f8335456f469c7bfd5d9435d4e64390796fa3ca011a5d3
+machine_hash: 94cb6a7fe6052ae3fa578ecc062366360d79ef50e8a3dd4aabd921b0c921bce9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: "**\U0001F517 Call Mode Activation via URL**"
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-30-ollama-on-windows-will-now-show-better-error-messages-if-required-files-are-miss|Ollama
-  on Windows will now show better error messages if required files are missing]]'
+- '[[Changes/Descript/2024-08-14-flatten-tracks-on-web-and-desktop-preview|Flatten
+  Tracks on Web and Desktop preview]]'
 - "[[Changes/Open WebUI/2024-08-14-haptic-feedback-on-support-devices-android-devices-now-support-haptic-feedback-f|\U0001F933
   Haptic Feedback on Support Devices]]"
 - '[[Changes/Gemini/2024-08-26-contextual-and-convenient-help-from-gemini|Contextual
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

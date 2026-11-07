@@ -5,19 +5,20 @@ description: 'Gemini · 2025-03-13 · Collaboration: What: Gems are a simple way
   customize Gemini towards your specific goals, so you can do more with less effort.
   It''s…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 659
+  lag_days: 2253
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 65a2778e241999d3c1c69137d432136f823683aeb1f8cb4a1a2418678618e329
+machine_hash: 42ef09f9f9a817ae88d22327b21212669ab92dfeca7e8345fdf3f3836310af84
 product: gemini
 product_name: Gemini
 record:
@@ -103,7 +104,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

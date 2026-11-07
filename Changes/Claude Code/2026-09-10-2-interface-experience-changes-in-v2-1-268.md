@@ -4,20 +4,20 @@ date: '2026-09-10'
 description: 'Claude Code · 2026-09-10 · Interface Experience: 2 changes in v2.1.268
   — Improved fullscreen mode: adding or removing a prompt line (Shift+Enter) now repaints…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1340
+  lag_days: 2706
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2677022257ffa7c54700741fe2c172897822bf011cabcf792bed0731be262f52
+machine_hash: 67787afd5e56955303233d5ceb8a3b596948573bc5157504a2786bef3b46f9e7
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

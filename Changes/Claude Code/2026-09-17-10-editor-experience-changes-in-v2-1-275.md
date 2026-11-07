@@ -5,20 +5,19 @@ description: 'Claude Code · 2026-09-17 · Editor Experience: 10 changes in v2.1
   — Improved artifact publish results: they name the tab icon sent, warn when the
   page…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1283
+  lag_days: 2867
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0a6676bcf93a835d7ec61995f0ab6174e42526cb034b9a573e7be13390e92dd
+machine_hash: abbb3f5c11a1e969a6ef151227f67895e488b4017744a0848e7c79fb36d40b36
 product: claude-code
 product_name: Claude Code
 record:
@@ -149,7 +148,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

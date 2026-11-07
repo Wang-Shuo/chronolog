@@ -5,20 +5,20 @@ description: 'Dify · 2024-05-27 · Interface Experience: Improved Variable Assi
   supports more flexible variable selection. Additionally, the user experience is
   enhanced…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 504
+  lag_days: 1870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b29581e8880153e13d8d2feebbeff25388f178d4a93f8102bb1fd08d2109717
+machine_hash: 16848efe9e2b8159ad1e78d5de722935a7a5a07442c3dba1dfd0261eb5beaba9
 product: dify
 product_name: Dify
 record:
@@ -46,12 +46,11 @@ record:
   title: Improved Variable Assigner supports more flexible variable selection
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-13-added-restore-chat-history-to-restore-prior-chat-history-on-launch-so-you-can-co|Added
-  --restore-chat-history to restore prior chat history on launch, so you can…]]'
 - '[[Changes/Ollama/2024-05-15-to-clear-the-chat-history-for-a-session-when-running-ollama-run-use-clear|To
   clear the chat history for a session when running ollama run, use /clear]]'
 - "[[Changes/Open WebUI/2024-05-19-enhanced-sidebar-ui-model-files-documents-prompts-and-playground-merged-into-wor|\U0001F4C2
   Enhanced Sidebar UI]]"
+- '[[Changes/Descript/2024-05-22-automatic-speaker-detection|Automatic Speaker Detection]]'
 source_release: '[[Releases/Dify/dify-2024-05-27-0-6-9-github-157655872-c2725bb5|dify-2024-05-27-0-6-9-github-157655872-c2725bb5]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-05-19 · Open WebUI · [[Changes/Open WebUI/2024-05-19-enhanced-sidebar-ui-model-files-documents-prompts-and-playground-merged-into-wor|📂 Enhanced Sidebar UI]]
+- Earlier: 2024-05-22 · Descript · [[Changes/Descript/2024-05-22-automatic-speaker-detection|Automatic Speaker Detection]]
 - Later: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-ui-enhancement-fixed-the-scrollbar-overlapping-issue-with-the-message-box-in-the|🖥️ UI Enhancement]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

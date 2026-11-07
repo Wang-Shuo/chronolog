@@ -4,20 +4,21 @@ date: '2026-02-23'
 description: 'ElevenLabs · 2026-02-23 · Account and Access: **OAuth and advanced authentication
   for MCP servers**: MCP servers now support workspace auth connections…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1061
+  lag_days: 2036
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6eaa4168e5580c49e231e36d9799f91ae74d3bc4e8a0d9c07e57b471409b78ea
+machine_hash: f4fba4f936e6628fc7a24755338745bae222463dad1a34084a4413a125ce320a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -184,7 +185,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

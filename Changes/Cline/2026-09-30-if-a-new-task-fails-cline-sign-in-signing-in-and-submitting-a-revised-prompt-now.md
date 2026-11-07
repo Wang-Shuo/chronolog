@@ -4,20 +4,21 @@ date: '2026-09-30'
 description: 'Cline · 2026-09-30 · Account and Access: If a new task fails Cline sign-in,
   signing in and submitting a revised prompt now starts the task with that prompt…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1280
+  lag_days: 2255
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7d8cb50f563658c366581998023c35025e31a8c89063c2c596fddf0aa10900b6
+machine_hash: 76931b75e3db3829d28060392301f6e007a88a94109673410de6a7fc04bc023f
 product: cline
 product_name: Cline
 record:
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-03-15'
 description: 'Cline · 2025-03-15 · Context Window: Prevent Cline from reading extremely
   large files into context that would overload context window'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 681
+  lag_days: 2005
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: edac1fc2d5c3868ef1748b171adc801eebdf85e3ef3d543188edb236345acd34
+machine_hash: 80102c5b00e0e342ec8e64b9b45e0df4852cbb977d00af3ffdaa6be0de13efff
 product: cline
 product_name: Cline
 record:
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

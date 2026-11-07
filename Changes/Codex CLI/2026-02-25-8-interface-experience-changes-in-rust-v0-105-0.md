@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-02-25 · Interface Experience: 8 changes in 0.10
   — The TUI now syntax-highlights fenced code blocks and diffs, adds a `/theme` picker
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1143
+  lag_days: 2509
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c58f6bb76c3b2ec60fe873d0a6946787fd562133875815593a7046007fb7e8d
+machine_hash: 3eaab9c14f0924bcaff4d06577c05c09cc79f73f928b5968e0263d96193632e4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -130,7 +130,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

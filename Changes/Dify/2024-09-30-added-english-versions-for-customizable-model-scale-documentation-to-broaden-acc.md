@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 43bbae005dc498b2d84090e5c519e24b404d7363f049511e7d1bdb3ae08a9b45
+machine_hash: 832390a744dfff281776001c38b9fb3f3d836c0e6599b44b33eb1174b0e20ed8
 product: dify
 product_name: Dify
 record:
@@ -54,10 +54,10 @@ record:
   title: Added English versions for customizable model scale documentation to broaden…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-04-accessibility-enhancements-added-missing-aria-labels-for-buttons-improving-acces|\U0001F3AD
-  Accessibility Enhancements]]"
 - '[[Changes/Dify/2024-09-12-2-accessibility-and-localization-changes-in-0-8-1|2 Accessibility
   and Localization changes in 0.8.1]]'
+- '[[Changes/Synthesia/2024-09-12-give-every-viewer-the-right-language-version-with-easy-switching-localized-capti|Watch
+  videos in any language with Multilingual Player]]'
 - "[[Changes/Open WebUI/2024-09-19-i18n-updates-enhanced-translations-for-chinese-ukrainian-russian-and-french-fost|\U0001F30D
   i18n Updates]]"
 source_release: '[[Releases/Dify/dify-2024-09-30-0-9-0-github-177564351-208577ea|dify-2024-09-30-0-9-0-github-177564351-208577ea]]'

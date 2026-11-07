@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-01-09 · Context Window: 3 changes in v0.7.0 �
   Users can now ask the model to find relevant context from their notes, past chats,
   and…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 981
+  lag_days: 2305
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f40f1f8d94e3516c96f614dd2c89f985d63fefe982d718fc6191a00f883f3927
+machine_hash: 34d3ca736669697f0d0fbe1516f7bf8d9fadacc15fbd1c00628b9f81ac3858e0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -119,7 +119,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

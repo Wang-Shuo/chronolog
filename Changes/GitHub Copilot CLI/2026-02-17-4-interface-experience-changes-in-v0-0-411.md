@@ -4,20 +4,20 @@ date: '2026-02-17'
 description: 'GitHub Copilot CLI · 2026-02-17 · Interface Experience: 4 changes in
   0.0.411 — Text selection now works in footer area in alt-screen mode'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1135
+  lag_days: 2501
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 13f771472bbeff1833f4003df3a7c1c273ae32c4f8da2c63a7fee54627c7b428
+machine_hash: bfe30c52cded06190c6f1912a2daf7180079adbd1e5a5234bd8b68d84e79748d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.411
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

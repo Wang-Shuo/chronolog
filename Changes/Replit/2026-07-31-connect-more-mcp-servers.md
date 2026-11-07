@@ -5,20 +5,20 @@ description: 'Replit · 2026-07-31 · Apps and Integrations: Eligible workspaces
   connect to Supabase, Statsig, and Calendly from the pre-listed MCP server catalog.
   Replit…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1226
+  lag_days: 2786
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4b1185a8eb8c569f23fd841834f1b94b796f8bfa3aee05deab76828958505e75
+machine_hash: f9f13ee3884337cd56abb96753daf163e5e70f110929891f01f0f253fa70926c
 product: replit
 product_name: Replit
 record:
@@ -46,11 +46,11 @@ record:
   title: Connect more MCP servers
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-30-feat-enable-disable-an-installed-mcp-server-from-its-card-by-hieptl-in-https-git|feat:
-  enable/disable an installed MCP server from its card]]'
 - '[[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and
   Integrations changes in v4.1.0]]'
 - '[[Changes/Lovable/2026-07-31-lovable-mcp-updates|Lovable MCP updates]]'
+- '[[Changes/Notion/2026-07-31-post-a-recap-to-slack-or-email-with-decisions-and-next-steps|Post
+  a recap to Slack or email with decisions and next steps]]'
 source_release: '[[Releases/Replit/replit-2026-07-31-2026-07-31-9665255c|replit-2026-07-31-2026-07-31-9665255c]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-31 · Lovable · [[Changes/Lovable/2026-07-31-lovable-mcp-updates|Lovable MCP updates]]
+- Earlier: 2026-07-31 · Notion · [[Changes/Notion/2026-07-31-post-a-recap-to-slack-or-email-with-decisions-and-next-steps|Post a recap to Slack or email with decisions and next steps]]
 - Later: 2026-08-01 · OpenCode · [[Changes/OpenCode/2026-08-01-stopped-mcp-sse-connections-from-getting-stuck-in-reconnect-loops-after-server-e|Stopped MCP SSE connections from getting stuck in reconnect loops after server error…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

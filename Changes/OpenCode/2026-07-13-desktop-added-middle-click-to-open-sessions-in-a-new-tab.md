@@ -4,20 +4,19 @@ date: '2026-07-13'
 description: 'OpenCode · 2026-07-13 · Editor Experience: Desktop Added middle-click
   to open sessions in a new tab.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1217
+  lag_days: 2801
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0a46dfd250b086c781ba08b70df8c718f3ddf2111c647888a83304367fe3ee80
+machine_hash: 0e93173d3ca59529307aec85712375b4485a4faa108a70dcfb8bc821d4f51d1d
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +42,10 @@ record:
   title: Desktop Added middle-click to open sessions in a new tab
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2
-  Editor Experience changes in v1.0.70]]'
 - '[[Changes/Lovable/2026-07-10-see-project-status-in-your-browser-tab|See project
   status in your browser tab]]'
+- '[[Changes/Kimi Code/2026-07-12-web-keep-the-server-access-token-for-up-to-7-days-across-tab-close-and-browser-r|web:
+  Keep the server access token for up to 7 days across tab close and browser…]]'
 - '[[Changes/OpenClaw/2026-07-13-21-editor-experience-changes-in-v2026-7-1|21 Editor
   Experience changes in v2026.7.1]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-13-v1-17-20-71b89dbf|opencode-2026-07-13-v1-17-20-71b89dbf]]'
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

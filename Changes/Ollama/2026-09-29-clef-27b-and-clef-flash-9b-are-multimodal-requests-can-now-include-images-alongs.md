@@ -5,20 +5,20 @@ description: 'Ollama · 2026-09-29 · Multimodal Input: Clef (27B) and Clef Flas
   are multimodal: requests can now include images alongside the text state, shared
   by all…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1106
+  lag_days: 2874
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 109b87ce60cbd7e6761ebaee8055ec0625de506d8598ac9672eed9d2c4131c4c
+machine_hash: 65ac6c6f5c3f7c60bae03dc1b0dfe7a40c9dde50e8f943cd9ca59191d005f4b2
 product: ollama
 product_name: Ollama
 record:
@@ -45,11 +45,12 @@ record:
   title: Clef (27B) and Clef Flash (9B) are multimodal
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-music|Music]]'
-- '[[Changes/Runway/2026-09-17-convert-any-video-runway-made-or-not-to-25-30-48-60-120-or-59-94-fps-up-to-4k-an|Enhance
-  Frame Rate]]'
 - '[[Changes/OpenClaw/2026-09-19-the-browser-sidebar-gains-a-download-file-button-for-the-image-video-or-document|The
   Browser sidebar gains a Download file button for the image, video, or document…]]'
+- '[[Changes/Synthesia/2026-09-21-preview-an-avatar-s-animations-for-a-single-scene-from-the-editor-so-you-can-rev|Preview
+  individual scenes with fully animated avatars]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-vision-in-microsoft-365-copilot-can-analyze-content-shared-on-desktop-screen-and|Vision
+  in Microsoft 365 Copilot can analyze content shared on desktop screen…]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-29-v0-35-1-github-399431834-a0bca098|ollama-2026-09-29-v0-35-1-github-399431834-a0bca098]]'
 source_type: github_releases
 theme: multimodal
@@ -80,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-the-browser-sidebar-gains-a-download-file-button-for-the-image-video-or-document|The Browser sidebar gains a Download file button for the image, video, or document…]]
+- Earlier: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-vision-in-microsoft-365-copilot-can-analyze-content-shared-on-desktop-screen-and|Vision in Microsoft 365 Copilot can analyze content shared on desktop screen…]]
 - Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-4-multimodal-input-changes-in-v2026-9-7|4 Multimodal Input changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

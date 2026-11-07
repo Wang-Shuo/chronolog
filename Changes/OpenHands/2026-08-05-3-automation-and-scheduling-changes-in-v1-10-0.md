@@ -4,20 +4,20 @@ date: '2026-08-05'
 description: 'OpenHands · 2026-08-05 · Automation and Scheduling: 3 changes in v1.10.0
   — feat: ship the featured automations landing dashboard by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 946
+  lag_days: 2513
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1941c87e3b3be77d2273c6fa33c1badae2a5e94512bbf1d31f626c9189e0af0f
+machine_hash: b1c523c8a8b988efa26743405fa8b05489c4be7a631a0469de99256f08e4b591
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,11 @@ record:
   title: 3 Automation and Scheduling changes in v1.10.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-29-chore-bump-software-agent-sdk-to-1-38-0-and-automation-to-1-4-1-by-hieptl-in-htt|chore:
-  bump software-agent-sdk to 1.38.0 and automation to 1.4.1]]'
-- '[[Changes/OpenHands/2026-07-30-chore-bump-agent-server-1-39-1-automation-1-5-0-typescript-client-1-36-1-by-hiep|chore:
-  bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1]]'
 - '[[Changes/OpenHands/2026-08-03-feat-drive-the-automation-ui-from-the-interface-manifest-by-hieptl-in-https-gith|feat:
   drive the automation UI from the interface manifest]]'
+- '[[Changes/Kimi Code/2026-08-04-rename-two-loop-control-keys-max-retries-per-step-max-attempts-per-step-and-max|Rename
+  two loop_control keys]]'
+- '[[Changes/Descript/2026-08-05-schedule-a-room|Schedule a Room]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834|openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -89,14 +88,14 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-03 · OpenHands · [[Changes/OpenHands/2026-08-03-feat-drive-the-automation-ui-from-the-interface-manifest-by-hieptl-in-https-gith|feat: drive the automation UI from the interface manifest]]
+- Earlier: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-schedule-a-room|Schedule a Room]]
 - Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-36228-support-enterprise-automation-account-plans-copyberry|♯36228 Support Enterprise automation account plans @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

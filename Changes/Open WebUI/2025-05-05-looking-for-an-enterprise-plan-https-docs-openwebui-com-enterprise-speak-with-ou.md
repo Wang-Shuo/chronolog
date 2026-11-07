@@ -5,20 +5,20 @@ description: 'Open WebUI · 2025-05-05 · Enterprise and Administration: > **Loo
   for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?** – **[Speak with
   Our…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 731
+  lag_days: 1938
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb162e8cf0206f898e89a83ed53e6c64dd06a94874da50d0457e57a46cb24a33
+machine_hash: fc8ee661933ef3fdb7976f08423f1b36f1da8674a49d368ab9d77c009857c425
 product: open-webui
 product_name: Open WebUI
 record:
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

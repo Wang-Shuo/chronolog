@@ -4,20 +4,20 @@ date: '2026-10-01'
 description: 'Codex CLI · 2026-10-01 · Pricing Model: #49079 Update and centralize
   TUI subscription labels @etraut-openai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1386
+  lag_days: 3004
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: fc6a83bbd009886e393e80b6851dc9bfafef2e84b49c328f702d5f8c6df2be62
+machine_hash: 4e876cf906fd55d7b78579b4eb37b491b9e7ac02342448207f2611511ffa4efb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

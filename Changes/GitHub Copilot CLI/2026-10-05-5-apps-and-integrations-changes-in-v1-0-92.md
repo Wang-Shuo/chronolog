@@ -4,20 +4,20 @@ date: '2026-10-05'
 description: 'GitHub Copilot CLI · 2026-10-05 · Apps and Integrations: 5 changes in
   1.0.92 — Entra-protected MCP servers can silently renew access-token-only credentials.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1292
+  lag_days: 2852
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2237b8586296ef1a7ac955549fd6f11e9f2dfe589d53bf73d9c1ead0ae7273fc
+machine_hash: b6c69241f019af5872ef3e0d990b7f61581805294cb413f8fdbd3e5bfa138787
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.92
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

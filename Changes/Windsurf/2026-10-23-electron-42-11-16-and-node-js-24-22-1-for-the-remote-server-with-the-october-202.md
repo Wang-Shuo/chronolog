@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Windsurf · 2026-10-23 · Safety and Privacy: Electron 42.11.16 and Node.js
   24.22.1 for the remote server, with the October 2026 security fixes.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1286
+  lag_days: 2278
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: efc0f1477c0bd7d542b0a8f5b759ad03da78cc216bfe6a67a2b77f888016fc2b
+machine_hash: c39c2b370bcd953cf877d4866a4a02fd95c141b8d751a5e13c196a71520311fc
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,12 +43,12 @@ record:
     2026…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety
-  and Privacy changes in v2.1.310]]'
 - '[[Changes/Codex CLI/2026-10-23-15-safety-and-privacy-changes-in-rust-v0-164-0|15
   Safety and Privacy changes in rust-v0.164.0]]'
 - '[[Changes/Dify/2026-10-23-11-safety-and-privacy-changes-in-1-18-0|11 Safety and
   Privacy changes in 1.18.0]]'
+- '[[Changes/Kimi Code/2026-10-23-fix-workspace-trust-failures-when-git-bash-is-unavailable-on-windows|Fix
+  workspace trust failures when Git Bash is unavailable on Windows]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-23-v3-11-212-ce285b20|windsurf-2026-10-23-v3-11-212-ce285b20]]'
 source_type: windsurf_changelog
 theme: safety-privacy
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-11-safety-and-privacy-changes-in-1-18-0|11 Safety and Privacy changes in 1.18.0]]
+- Earlier: 2026-10-23 · Kimi Code · [[Changes/Kimi Code/2026-10-23-fix-workspace-trust-failures-when-git-bash-is-unavailable-on-windows|Fix workspace trust failures when Git Bash is unavailable on Windows]]
 - Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-10-safety-and-privacy-changes-in-v0-12-4|10 Safety and Privacy changes in v0.12.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

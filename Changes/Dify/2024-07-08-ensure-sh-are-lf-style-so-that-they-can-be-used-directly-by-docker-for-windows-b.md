@@ -4,20 +4,20 @@ date: '2024-07-08'
 description: 'Dify · 2024-07-08 · Mobile and Desktop: Ensure *.sh are LF-style, so
   that they can be used directly by Docker for Windows by @chjfth in…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 482
+  lag_days: 2066
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eec06bc5e1d9a2fc68938b6a18232ed02337ae9966eb30bae8e55fc44e0f42c3
+machine_hash: 4d3bb548f0354ef8044f287d57a8cdab975372e2cdc2d7fd8dc7d0578c74da16
 product: dify
 product_name: Dify
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-07-01 · Suno · [[Changes/Suno/2024-07-01-we-re-excited-to-present-suno-on-ios|We’re excited to present Suno on iOS]]
-- Later: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|🔄 Font Change for Windows]]
+- Later: 2024-07-09 · Descript · [[Changes/Descript/2024-07-09-desktop-preview|Desktop Preview]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

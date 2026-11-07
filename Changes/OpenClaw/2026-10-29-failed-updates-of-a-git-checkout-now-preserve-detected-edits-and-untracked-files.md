@@ -4,20 +4,19 @@ date: '2026-10-29'
 description: 'OpenClaw · 2026-10-29 · Editor Experience: Failed updates of a Git checkout
   now preserve detected edits and untracked files instead of deleting them during…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1325
+  lag_days: 2909
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c195cd22d25f88336cf1a76d6262ba0770c3a140101bece1b8f3d1910f2392e2
+machine_hash: 4d917b1289302b6cefb558b9eac0ce29fdf6e2bc68f6df50a3adc4b94c021eac
 product: openclaw
 product_name: OpenClaw
 record:
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

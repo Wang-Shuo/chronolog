@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 643dd19775d1d9be11669e072c02c584b24977e4d130213e3e17f9a54c9c14f1
+machine_hash: 689bf4b54c52dd1a54405d548dbf5afb23b14a7f906ba4fd5678f58543b2a6ae
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,8 +40,8 @@ record:
   title: Auto mode no longer requires `--enable-auto-mode`
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-7-agent-mode-changes-in-rust-v0-121-0|7 Agent Mode
-  changes in rust-v0.121.0]]'
+- '[[Changes/Notion/2026-04-15-notion-agent-now-shows-your-calendar-to-help-you-find-available-time-with-teamma|Schedule
+  meetings with Notion Agent]]'
 - '[[Changes/Windsurf/2026-04-15-devin-in-windsurf|Devin in Windsurf]]'
 - '[[Changes/Windsurf/2026-04-15-agent-command-center|Agent Command Center]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'

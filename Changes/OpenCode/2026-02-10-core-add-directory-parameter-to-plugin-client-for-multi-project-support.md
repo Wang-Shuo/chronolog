@@ -4,20 +4,20 @@ date: '2026-02-10'
 description: 'OpenCode · 2026-02-10 · Apps and Integrations: Core Add directory parameter
   to plugin client for multi-project support'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1055
+  lag_days: 2615
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e0d9c8a8778ba9bb7507dfbaca2c682a5f9deb9c62833e708fa60cc60097b1e8
+machine_hash: 2be61edc3f5563fb420adf2557ed9bda0d2f751eb3a588eb25c07e84aee9dca2
 product: opencode
 product_name: OpenCode
 record:
@@ -43,11 +43,12 @@ record:
   title: Core Add directory parameter to plugin client for multi-project support
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-07-4-apps-and-integrations-changes-in-v0-0-406|4
-  Apps and Integrations changes in v0.0.406]]'
-- '[[Changes/ElevenLabs/2026-02-09-sdk-releases|SDK Releases]]'
-- '[[Changes/Gemini CLI/2026-02-10-7-apps-and-integrations-changes-in-v0-28-0|7 Apps
-  and Integrations changes in v0.28.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-field-teams-can-accelerate-copilot-adoption-using-champion-connectors-web-micros|Field
+  teams can accelerate Copilot adoption using champion connectors…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-connect-copilot-to-github-server-with-copilot-connector-web-microsoft-365-copilo|Connect
+  Copilot to GitHub Server with Copilot Connector…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-query-miro-boards-and-diagrams-with-copilot-connectors-web-microsoft-365-copilot|Query
+  Miro boards and diagrams with Copilot connectors…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-10-v1-1-54-df764791|opencode-2026-02-10-v1-1-54-df764791]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -89,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-7-apps-and-integrations-changes-in-v0-28-0|7 Apps and Integrations changes in v0.28.0]]
+- Earlier: 2026-02-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-02-10-query-miro-boards-and-diagrams-with-copilot-connectors-web-microsoft-365-copilot|Query Miro boards and diagrams with Copilot connectors…]]
 - Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-13-apps-and-integrations-changes-in-rust-v0-99-0|13 Apps and Integrations changes in rust-v0.99.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

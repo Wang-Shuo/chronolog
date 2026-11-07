@@ -4,20 +4,20 @@ date: '2024-04-16'
 description: 'Runway · 2024-04-16 · Voice and Audio: Use Lip Sync audio to video directly
   from within the Gen-2 tool.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 281
+  lag_days: 2108
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6afe4309b54da9e5245f498aa18064441c5e6ede7e02e0fcf86b4faf4b96e46e
+machine_hash: 888f3f221b82ee4ac4e7aab4411b31763ca9d5000f9efc0d9be7f916efd2f263
 product: runway
 product_name: Runway
 record:
@@ -41,12 +41,10 @@ record:
   title: Lip Sync in Gen-2
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-19-5-voice-and-audio-changes-in-0-5-6|5 Voice and Audio
-  changes in 0.5.6]]'
-- '[[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3
-  Alpha has better audio quality and increased expressiveness among other heavily…]]'
 - '[[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice
   audition]]'
+- '[[Changes/Descript/2024-03-04-housekeeping-updates|Housekeeping updates]]'
+- '[[Changes/Descript/2024-03-04-white-glove-sunset-update|White Glove Sunset Update]]'
 source_release: '[[Releases/Runway/runway-2024-04-16-2024-04-16-lip-sync-in-gen-2-14ebe026|runway-2024-04-16-2024-04-16-lip-sync-in-gen-2-14ebe026]]'
 source_type: runway_changelog
 theme: voice
@@ -73,14 +71,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-02-28 · Dify · [[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice audition]]
+- Earlier: 2024-03-04 · Descript · [[Changes/Descript/2024-03-04-white-glove-sunset-update|White Glove Sunset Update]]
 - Later: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio changes in 0.6.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

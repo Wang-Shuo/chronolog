@@ -5,20 +5,20 @@ description: 'Manus · 2025-06-09 · Voice and Audio: Manus isn''t just where yo
   videos — it''s where you craft cinematic experiences. Characters speak naturally
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 700
+  lag_days: 2527
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f9685025d81e45a148e668e157fc9b614a04b622cc93040db9ea64489354492
+machine_hash: 37800c3604e5d3a7bec74e0be6e801dba4ed7b3ae246863f7ef67bfe34194625
 product: manus
 product_name: Manus
 record:
@@ -58,7 +58,7 @@ record:
     experiences
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-01-speech-to-text|Speech to Text]]'
+- '[[Changes/Descript/2025-06-05-regenerate-video-beta|Regenerate video (beta)]]'
 - '[[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|We''re
   upgrading Advanced Voice in ChatGPT for paid users with significant…]]'
 - '[[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

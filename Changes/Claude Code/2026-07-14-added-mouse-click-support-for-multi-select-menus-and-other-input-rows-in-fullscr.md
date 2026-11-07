@@ -4,20 +4,20 @@ date: '2026-07-14'
 description: 'Claude Code · 2026-07-14 · Interface Experience: Added mouse-click support
   for multi-select menus and "Other" input rows in fullscreen mode'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1282
+  lag_days: 2648
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 01db8951ca99b0a1506e943912ba1d94dab551bf9c65a3fa97c94acce76f7295
+machine_hash: a6ffd54a2f0203537c294aefb1c554dbf33c68a360ff4eb741802870901666da
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     fullscreen mode
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved
-  agent view]]'
+- '[[Changes/Kimi Code/2026-07-12-web-add-workspaces-by-typing-an-absolute-path-directly-in-the-workspace-picker-s|web:
+  Add workspaces by typing an absolute path directly in the workspace picker''s…]]'
 - '[[Changes/Google Antigravity/2026-07-13-added-support-for-attaching-and-rendering-plain-text-txt-files-in-conversations|Added
   support for attaching and rendering plain text (.txt) files in conversations…]]'
 - '[[Changes/OpenClaw/2026-07-13-64-interface-experience-changes-in-v2026-7-1|64 Interface
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-07-07'
 description: 'v0 · 2026-07-07 · Safety and Privacy: 5 changes in Grouped tool approvals,
   richer MCP tools, and team deployment policies — Tool permission approvals for MCP…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1178
+  lag_days: 2170
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb29af9de4b14018d7eea143a6017a3aba91fe96bd75c58d6b497dc1e9cc8529
+machine_hash: 652f102f72bfdcef04edbd897055b1038cac332be120600ced1245bd71d4a7dd
 product: v0
 product_name: v0
 record:
@@ -58,12 +58,12 @@ record:
   title: 5 Safety and Privacy changes in Grouped tool approvals, richer MCP…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-4-safety-and-privacy-changes-in-1-9-0|4 Safety and
-  Privacy changes in 1.9.0]]'
 - '[[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|Added
   a grey ⏸ badge to the footer when in manual permission mode, making the active…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-8-safety-and-privacy-changes-in-v1-0-69|8
   Safety and Privacy changes in v1.0.69]]'
+- '[[Changes/Kimi Code/2026-07-07-2-safety-and-privacy-changes-in-kimi-code-0-23-1|2
+  Safety and Privacy changes in Kimi Code 0.23.1]]'
 source_release: '[[Releases/v0/v0-2026-07-07-2026-07-07-3495f67b|v0-2026-07-07-2026-07-07-3495f67b]]'
 source_type: v0_changelog
 theme: safety-privacy
@@ -108,14 +108,14 @@ Source: https://v0.app/changelog#2026-07-07
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-8-safety-and-privacy-changes-in-v1-0-69|8 Safety and Privacy changes in v1.0.69]]
+- Earlier: 2026-07-07 · Kimi Code · [[Changes/Kimi Code/2026-07-07-2-safety-and-privacy-changes-in-kimi-code-0-23-1|2 Safety and Privacy changes in Kimi Code 0.23.1]]
 - Later: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background task notifications now explicitly state that no human input has occurred…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

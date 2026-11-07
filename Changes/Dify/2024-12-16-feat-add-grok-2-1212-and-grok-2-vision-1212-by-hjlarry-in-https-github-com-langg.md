@@ -4,20 +4,20 @@ date: '2024-12-16'
 description: 'Dify · 2024-12-16 · Multimodal Input: feat: add grok-2-1212 and grok-2-vision-1212
   by @hjlarry in https://github.com/langgenius/dify/pull/11672'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 454
+  lag_days: 2222
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fcd062f2f1827402ec402cd87c9a0dbaf271ea48329d3b374843f5e849fc5b1
+machine_hash: 92db8db927d72fa660dc6127ef749a2a285bec52fc146fbbe7b1ae955e76e89b
 product: dify
 product_name: Dify
 record:
@@ -82,13 +82,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2024-12-12 · ChatGPT · [[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use the controls at the bottom of the screen, like the camera button below, to get started]]
-- Later: 2025-02-20 · Midjourney · [[Changes/Midjourney/2025-02-20-we-ve-added-a-new-folder-and-organization-system-to-the-website-check-out-the-vi|Midjourney adds a new folder and organization system to the website]]
+- Later: 2025-02-11 · Descript · [[Changes/Descript/2025-02-11-eye-contact|Eye contact]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

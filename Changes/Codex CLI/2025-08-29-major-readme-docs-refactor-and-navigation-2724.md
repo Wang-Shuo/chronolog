@@ -4,20 +4,20 @@ date: '2025-08-29'
 description: 'Codex CLI · 2025-08-29 · Interface Experience: Major README/docs refactor
   and navigation (#2724)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 963
+  lag_days: 2329
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 2e782f0a13bee4c0a532a3ae4167650984964118265b7cea2686bca338874495
+machine_hash: c1ef93aba295e4a48d851862a354f734b7dbaf2317b60fb166a10360e168c499
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -81,13 +81,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-interface-experience-changes-in-v0-6-26|2 Interface Experience changes in v0.6.26]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface Experience changes in v0.3.0]]
+- Later: 2025-08-29 · Descript · [[Changes/Descript/2025-08-29-everyone-can-manually-control-this-setting-in-the-labs-section-the-settings-menu|Everyone can manually control this setting in the Labs section the Settings menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

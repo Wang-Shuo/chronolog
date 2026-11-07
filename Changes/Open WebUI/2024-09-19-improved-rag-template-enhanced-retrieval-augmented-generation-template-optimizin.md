@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-09-19 · Context Window: **\U0001F4DD Improved 
   Template**: Enhanced Retrieval-Augmented Generation template, optimizing context
   handling and error…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 504
+  lag_days: 1828
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3880c91a1cfef6fbcec47bdffc215d017f82bd47205c575080d730266317c400
+machine_hash: f8a47c0faa76c399b3b4486346730f55213312747b09561519736909c134ba1c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

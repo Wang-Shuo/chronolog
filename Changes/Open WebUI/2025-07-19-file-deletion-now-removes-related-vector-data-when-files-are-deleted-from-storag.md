@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-07-19 · Search and Browsing: \U0001F9D1\U0001F
   **File Deletion Now Removes Related Vector Data**: When files are deleted from storage,
   they are now purged…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 849
+  lag_days: 1878
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e41df06a8ec74a70f5f3a70df9d17496e7a1a044ebfcd4b3cc5dc88f348446b
+machine_hash: 3aef5529a8286c3f40010f6f887ecc233eadf2cb014d42c01a9ab9e3616441a7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,10 @@ record:
   title: "\U0001F9D1\U0001F4BB **File Deletion Now Removes Related Vector Data**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-06-16-bypass-webloader-now-works-as-expected-resolved-an-issue-where-the-bypass-webloa|\U0001F310
-  Bypass Webloader Now Works as Expected]]"
 - '[[Changes/Replit/2025-07-04-gallery|Gallery]]'
 - '[[Changes/Replit/2025-07-04-web-search-for-agent|Web Search for Agent]]'
+- '[[Changes/Descript/2025-07-17-viewers-can-browse-brand-studio-but-cannot-make-changes|Viewers
+  can browse Brand Studio but cannot make changes]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-19-v0-6-17-github-233695159-4b5cb15b|open-webui-2025-07-19-v0-6-17-github-233695159-4b5cb15b]]'
 source_type: github_releases
 theme: search-browsing
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-web-search-for-agent|Web Search for Agent]]
+- Earlier: 2025-07-17 · Descript · [[Changes/Descript/2025-07-17-viewers-can-browse-brand-studio-but-cannot-make-changes|Viewers can browse Brand Studio but cannot make changes]]
 - Later: 2025-07-24 · ChatGPT · [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva and Notion connectors (Pro)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3f852094f59d9fe943a7033d1cf945161eeedfe134582b4e6347ea746d8b6b17
+machine_hash: de1a2717a6c5b8c72f94b20620ccb56f07d514bc65a128b63e829275241ebd4a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support changes in v2.1.198]]
-- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-5-model-support-changes-in-v0-10-2|5 Model Support changes in v0.10.2]]
+- Later: 2026-07-01 · Kimi Code · [[Changes/Kimi Code/2026-07-01-merge-consecutive-user-turns-for-strict-providers-gemini-vertex-fixing-an-http-4|Merge consecutive user turns for strict providers (Gemini/Vertex), fixing an HTTP…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2024-03-19'
 description: 'Dify · 2024-03-19 · Files and Data: add tenant id index for document
   and document_segment table by @JohnJyong in https://github.com/langgenius/dify/pull/2873'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 299
+  lag_days: 1644
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 450fe5cc218578246dd3dc4148a95f852a56f7138d7cc16abce2173277ad1b90
+machine_hash: e99363799c770a1b8dd3153550f4b1c706ed120e8adf3c5b7ee961f607e8d550
 product: dify
 product_name: Dify
 record:
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

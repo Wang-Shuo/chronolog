@@ -4,20 +4,20 @@ date: '2025-11-12'
 description: 'ElevenLabs · 2025-11-12 · Mobile and Desktop: [v0.5.0](https://github.com/elevenlabs/elevenlabs-android/releases/tag/v0.5.0)
   - Added `setVolume` and…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 974
+  lag_days: 2558
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: be9f1eefbe9b45f059af1c122dfea37cb2976599799307003bca839d78351857
+machine_hash: 7cdaf9337512c5f5b65aff06e2eafd914bf2ff266889c057ff9306072a6195a0
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

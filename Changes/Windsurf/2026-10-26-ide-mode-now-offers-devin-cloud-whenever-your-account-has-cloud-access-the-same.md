@@ -5,19 +5,20 @@ description: 'Windsurf · 2026-10-26 · Collaboration: IDE mode now offers Devin
   whenever your account has Cloud access, the same as the Agent Window. The "Devin
   for…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1251
+  lag_days: 2845
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c49a666ba9f10a5f10bde73f6d3442e05c97274c9a54361124de1ca7f3339d16
+machine_hash: 48841b3045abd842aa7d5aac09a3c285fbb7bff59909d231abecdb9236c2600a
 product: windsurf
 product_name: Windsurf
 record:
@@ -95,13 +96,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-23 · Replit · [[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]
-- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-malformed-microsoft-teams-message-html-no-longer-causes-the-parsing-stalls-that|Malformed Microsoft Teams message HTML no longer causes the parsing stalls…]]
+- Later: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-use-copilot-chat-after-a-call-in-queues-app-windows-mac-teams|Use Copilot Chat after a call in Queues app Windows, Mac (Teams)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

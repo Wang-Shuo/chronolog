@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'Cursor · 2026-06-04 · Mobile and Desktop: Bundled ripgrep: Local shell
   runs use the bundled platform rg binary without modifying your global PATH. On Windows…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1178
+  lag_days: 2762
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 020aad8c66cbca145f14ffe9642a139d70f4de31b7df63a5518d86c67be52b1e
+machine_hash: 50fdfa5b3c0848c5fec5683f3c5ed5e0ece9f48cd5ec2891a3a3d42851ad0f91
 product: cursor
 product_name: Cursor
 record:
@@ -93,13 +93,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-2-mobile-and-desktop-changes-in-rust-v0-137-0|2 Mobile and Desktop changes in rust-v0.137.0]]
-- Later: 2026-06-04 · Ollama · [[Changes/Ollama/2026-06-04-ollama-launch-hermes-desktop-now-launches-hermes-desktop-and-can-skip-rebuilding|ollama launch hermes-desktop now launches Hermes Desktop and can skip rebuilding…]]
+- Later: 2026-06-04 · Kimi Code · [[Changes/Kimi Code/2026-06-04-2-mobile-and-desktop-changes-in-kimi-code-0-10-0|2 Mobile and Desktop changes in Kimi Code 0.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

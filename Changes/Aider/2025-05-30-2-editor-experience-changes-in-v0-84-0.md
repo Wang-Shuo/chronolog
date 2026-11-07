@@ -4,20 +4,19 @@ date: '2025-05-30'
 description: 'Aider · 2025-05-30 · Editor Experience: 2 changes in Aider v0.84.0 —
   Added shell tab completion for file path arguments (by saviour) and for…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 808
+  lag_days: 2392
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 383ed2c6ceaa9480d12c35d717b40d332b536c6b96e6d969dc4ae8d9ae7894df
+machine_hash: 0ec8e030aabcc85f09cf2c77986132c4af5db296de1b6b300455b5543064310c
 product: aider
 product_name: Aider
 record:
@@ -44,9 +43,9 @@ record:
   title: 2 Editor Experience changes in v0.84.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-05-19-2-editor-experience-changes-in-v0-6-10|2 Editor
-  Experience changes in v0.6.10]]'
 - '[[Changes/Replit/2025-05-23-visual-editor-rollout|Visual Editor rollout]]'
+- '[[Changes/Descript/2025-05-28-starting-today-you-can-try-out-the-new-underlord-available-in-labs-it-s-no-longe|New
+  in Labs—the new Underlord]]'
 - '[[Changes/Midjourney/2025-05-29-we-ve-upgraded-the-ai-moderation-in-the-editor|We’ve
   upgraded the AI moderation in the editor]]'
 source_release: '[[Releases/Aider/aider-2025-05-30-v0-84-0-github-222180237-d0574ad6|aider-2025-05-30-v0-84-0-github-222180237-d0574ad6]]'
@@ -91,7 +90,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.84.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

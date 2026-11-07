@@ -5,20 +5,21 @@ description: 'Replit · 2026-07-17 · Account and Access: When you ask Agent to 
   a service and more than one provider works, Agent now shows a short list so you
   can…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1205
+  lag_days: 2180
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8af45cd6b7d25123e00a58f10e120c85f8009b29fcaf2c0700e9525094f67b62
+machine_hash: 461b39c2c58beb66702afe729f7de77e3b1f082c705fea925b7a77eba2440984
 product: replit
 product_name: Replit
 record:
@@ -63,12 +64,12 @@ record:
   title: Agent suggests connectors when several fit
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-07-16-agent-web-search-and-fetch-now-tell-users-to-run-ollama-signin-when-authenticati|Agent
-  web search and fetch now tell users to run ollama signin when authentication…]]'
 - '[[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated
   the auth status panel title from "Cloud authentication" to "Authentication"]]'
 - '[[Changes/Dify/2026-07-17-8-account-and-access-changes-in-1-16-0|8 Account and
   Access changes in 1.16.0]]'
+- '[[Changes/Kimi Code/2026-07-17-oauth-connection-errors-now-include-the-underlying-network-cause-dns-refused-con|OAuth
+  connection errors now include the underlying network cause…]]'
 source_release: '[[Releases/Replit/replit-2026-07-17-2026-07-17-97de1494|replit-2026-07-17-2026-07-17-97de1494]]'
 source_type: replit_changelog
 theme: account-access
@@ -98,14 +99,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-8-account-and-access-changes-in-1-16-0|8 Account and Access changes in 1.16.0]]
-- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed the login-expiry warning to appear 3 days before expiry instead of 5]]
+- Earlier: 2026-07-17 · Kimi Code · [[Changes/Kimi Code/2026-07-17-oauth-connection-errors-now-include-the-underlying-network-cause-dns-refused-con|OAuth connection errors now include the underlying network cause…]]
+- Later: 2026-07-20 · Kimi Code · [[Changes/Kimi Code/2026-07-20-allow-acp-sessions-to-start-with-configured-non-oauth-model-credentials-instead|Allow ACP sessions to start with configured non-OAuth model credentials instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

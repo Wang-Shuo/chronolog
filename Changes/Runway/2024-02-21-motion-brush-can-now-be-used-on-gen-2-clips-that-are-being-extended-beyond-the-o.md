@@ -4,20 +4,20 @@ date: '2024-02-21'
 description: 'Runway · 2024-02-21 · Video Generation: Motion Brush can now be used
   on Gen-2 clips that are being extended beyond the original 4s.'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 34
+  lag_days: 1218
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df7e1068275f0afc3fb5a17fa2b2ed6f209fa14d240f3f983d693d859d22b7f7
+machine_hash: b7ddc3278cab85915d9c493c9cc16b1b36a2589459bac83e1c838ebdb9f41176
 product: runway
 product_name: Runway
 record:
@@ -42,8 +42,12 @@ record:
   title: Use Motion Brush on extended clips in Gen-2
   type: change
 related_changes:
+- '[[Changes/Synthesia/2023-08-21-you-can-now-create-stunning-synthesia-videos-for-an-array-of-platforms-and-devic|Video
+  Aspect Ratios are live!]]'
 - '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
   Brush]]'
+- '[[Changes/Synthesia/2024-02-15-we-are-happy-to-introduce-7-new-ai-avatars-in-synthesia-each-with-unique-outfits|Seven
+  New Avatars: Fresh Faces & Updated Classics]]'
 source_release: '[[Releases/Runway/runway-2024-02-21-2024-02-21-use-motion-brush-on-extended-clips-in-gen-2-ecdb5d78|runway-2024-02-21-2024-02-21-use-motion-brush-on-extended-clips-in-gen-2-ecdb5d78]]'
 source_type: runway_changelog
 theme: video-generation
@@ -70,14 +74,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
-- Later: 2024-07-15 · Runway · [[Changes/Runway/2024-07-15-view-a-feed-of-gen-3-alpha-video-generations-in-the-runway-mobile-app|Mobile App Generation Feed]]
+- Earlier: 2024-02-15 · Synthesia · [[Changes/Synthesia/2024-02-15-we-are-happy-to-introduce-7-new-ai-avatars-in-synthesia-each-with-unique-outfits|Seven New Avatars: Fresh Faces & Updated Classics]]
+- Later: 2024-03-06 · Synthesia · [[Changes/Synthesia/2024-03-06-we-are-happy-to-introduce-live-collaboration-to-our-corporate-plan-users-this-fe|Live Collaboration: co-edit, comment, share]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

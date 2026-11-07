@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd4c3a8e3d75fa48e771a2609228fa5a04b4bf63e5e4750e6e1529c4370ae2ec
+machine_hash: 838b9fa42545d4a3b44a7b85d2d36fa7118ff17e2aeed5888ba3d5e7239f224f
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,12 @@ record:
   title: Core Stopped subagents from launching nested subagents by default…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-14-see-images-videos-and-files-the-agent-works-with-in-chat|See
-  images, videos, and files the agent works with in chat]]'
-- '[[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode
-  changes in v2.1.211]]'
+- '[[Changes/Kimi Code/2026-07-15-3-agent-mode-changes-in-kimi-code-0-24-2|3 Agent
+  Mode changes in Kimi Code 0.24.2]]'
 - '[[Changes/Lovable/2026-07-15-let-ai-assistants-use-your-published-app|Let AI assistants
   use your published app]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-submit-agent-to-agent-store-from-agent-builder-windows-web-microsoft-365-admin-c|Submit
+  agent to Agent Store from Agent Builder Windows, Web (Microsoft 365 admin center)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-15-v1-18-2-1cf399ef|opencode-2026-07-15-v1-18-2-1cf399ef]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-let-ai-assistants-use-your-published-app|Let AI assistants use your published app]]
+- Earlier: 2026-07-15 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-15-submit-agent-to-agent-store-from-agent-builder-windows-web-microsoft-365-admin-c|Submit agent to Agent Store from Agent Builder Windows, Web (Microsoft 365 admin center)]]
 - Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent Mode changes in v1.0.71]]
 <!-- chronolog:end -->
 

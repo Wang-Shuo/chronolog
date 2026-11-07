@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'Cursor · 2026-06-04 · Context Window: This release introduces Design
   Mode for faster canvas editing, new ways to understand context usage, and other…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1127
+  lag_days: 2451
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: aaa84f94a236a6727040b4701ecbd82b4c0bca4a20c5cbb288ba02beafdc6481
+machine_hash: dddff4af2044794da45baa64bb5067d1f1e3236daa9a0a7aad69e1b2638563ca
 product: cursor
 product_name: Cursor
 record:
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

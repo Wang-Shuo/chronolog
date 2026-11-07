@@ -5,20 +5,19 @@ description: "Open WebUI · 2025-07-14 · Editor Experience: 3 changes in v0.6.1
   \U0001F91D **Collaborative Notes with Multi-User Editing**: Share notes with others
   and collaborate…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 853
+  lag_days: 2437
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6423e516a96cf27846aca60304f5bbf11ee466dfa120ceb57a2ea6476352db94
+machine_hash: b63c20426d5e1f968449eb8de35ccd03e88048156d82bf4e93703774bafaaed6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -107,13 +106,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.16
 ## Nearby in Editor Experience
 
 - Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-help-add-shift-tab-tip-by-abhipatel12-in-https-github-com-google-gemini-gemini-c|help: add shift+tab tip]]
-- Later: 2025-07-16 · Cline · [[Changes/Cline/2025-07-16-2-editor-experience-changes-in-v3-19-5|2 Editor Experience changes in v3.19.5]]
+- Later: 2025-07-15 · Descript · [[Changes/Descript/2025-07-15-editor-updates|Editor updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

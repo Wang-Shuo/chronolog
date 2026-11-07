@@ -4,20 +4,20 @@ date: '2025-07-16'
 description: 'ChatGPT · 2025-07-16 · Voice and Audio: Record live conversations like
   team meetings or voice notes, and turn those into an editable summary in canvas.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 737
+  lag_days: 2564
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38f2fae86454f7bf36135da9a26c74087fef9a8cafff3dc122ac9b4c5ed06532
+machine_hash: c915e110c12d335b5b92e3172dac1b9038ef62743ec1c2a65257a2ff433a7e26
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,10 +52,11 @@ record:
   title: Record live conversations like team meetings or voice notes, and turn those…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-07-14-voices|Voices]]'
 - '[[Changes/ElevenLabs/2025-07-14-text-to-voice-f4167d|Text to Voice]]'
 - "[[Changes/Open WebUI/2025-07-14-audio-mime-type-registration-issues-with-audio-file-content-types-have-been-reso|\U0001F504
   Audio MIME Type Registration]]"
+- '[[Changes/Descript/2025-07-15-ducking-is-now-lower-audio-of-other-layers|Ducking
+  is now “Lower audio of other layers”]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -84,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-audio-mime-type-registration-issues-with-audio-file-content-types-have-been-reso|🔄 Audio MIME Type Registration]]
+- Earlier: 2025-07-15 · Descript · [[Changes/Descript/2025-07-15-ducking-is-now-lower-audio-of-other-layers|Ducking is now “Lower audio of other layers”]]
 - Later: 2025-07-17 · ChatGPT · [[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates to Advanced Voice Mode for Free tier users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

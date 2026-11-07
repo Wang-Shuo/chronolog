@@ -4,19 +4,20 @@ date: '2026-10-30'
 description: 'Lovable · 2026-10-30 · Collaboration: The [Publish dialog](https://docs.lovable.dev/features/publish.md#the-publish-dialog-step-by-step)
   now shows a progress…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1255
+  lag_days: 2849
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f76f9956ff883bd983d81662c993a63c3f17f4ae3e3a589316737d2346628558
+machine_hash: 05a263b9df60f6c158252d1b2365b077b7858afc36d37199036186fe3bc82e13
 product: lovable
 product_name: Lovable
 record:
@@ -83,13 +84,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-2-collaboration-changes-in-v2026-10-9|2 Collaboration changes in v2026.10.9]]
-- Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-new-chats-stay-in-sync-a-chat-started-from-the-home-page-keeps-syncing-with-the|🔃 New chats stay in sync. A chat started from the home page keeps syncing…]]
+- Later: 2026-10-30 · Qoder · [[Changes/Qoder/2026-10-30-2-collaboration-changes-in-qoder-0-5-1|2 Collaboration changes in Qoder 0.5.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

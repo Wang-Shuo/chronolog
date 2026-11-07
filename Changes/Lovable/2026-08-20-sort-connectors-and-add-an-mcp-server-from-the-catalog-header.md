@@ -4,20 +4,20 @@ date: '2026-08-20'
 description: 'Lovable · 2026-08-20 · Apps and Integrations: In **Connectors**, the
   sort control and the button for [adding your own MCP…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1246
+  lag_days: 2806
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ea165face8af588d4983308843257cababbf4d592e195f913e17c8b33fe740d4
+machine_hash: ed0ba30cd76fd80ea3ba4b841ba5743d078a714b06b253440940d6386c8e9f05
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,12 @@ record:
   title: Sort connectors and add an MCP server from the catalog header
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6
-  Apps and Integrations changes in v2.1.238]]'
 - '[[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33
   Apps and Integrations changes in rust-v0.149.0]]'
 - '[[Changes/Google Antigravity/2026-08-20-refreshed-the-customizations-settings-screen-with-collapsible-sections-and-item|Refreshed
   the Customizations settings screen with collapsible sections and item…]]'
+- '[[Changes/Kimi Code/2026-08-20-add-13-data-sources-to-the-official-kimi-datasource-plugin-chinese-government-da|Add
+  13 data sources to the official Kimi Datasource plugin]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-20-2026-08-20-3912560f|lovable-2026-08-20-2026-08-20-3912560f]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-refreshed-the-customizations-settings-screen-with-collapsible-sections-and-item|Refreshed the Customizations settings screen with collapsible sections and item…]]
+- Earlier: 2026-08-20 · Kimi Code · [[Changes/Kimi Code/2026-08-20-add-13-data-sources-to-the-official-kimi-datasource-plugin-chinese-government-da|Add 13 data sources to the official Kimi Datasource plugin]]
 - Later: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated plugin recommendations make it easier to find tools people continue to use]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

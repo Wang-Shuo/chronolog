@@ -4,20 +4,20 @@ date: '2025-06-04'
 description: 'Cursor · 2025-06-04 · Search and Browsing: @Link and web search can
   now parse PDFs and include in context'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 804
+  lag_days: 1833
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93c6683e283fbeeebe412e75f42366faa0041b9619961b1f5a6f04ca8efaf024
+machine_hash: 2bbecf73dd80c1fbd932d0b023b4a360b6efbc054c614d80436426ec554e1b85
 product: cursor
 product_name: Cursor
 record:
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2024-07-29'
 description: 'Aider · 2024-07-29 · Developer Workflow: 4 changes in Aider v0.46.0
   — New `/chat-mode <mode>` command to switch chat modes:'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 499
+  lag_days: 2148
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c851503edbb3fc80ffae9070c6e3aa9217590d49e11336d169044d0efcf80e0b
+machine_hash: 897e420e7719b695d5980a8154e56b448affd0b272cfb484734d9a6381aac370
 product: aider
 product_name: Aider
 record:
@@ -97,7 +98,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.46.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

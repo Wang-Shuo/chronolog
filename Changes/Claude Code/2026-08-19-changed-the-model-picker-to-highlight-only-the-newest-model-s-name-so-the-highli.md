@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-19 · Interface Experience: Changed the `/m
   picker to highlight only the newest model''s name, so the highlight marks the new
   release…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1318
+  lag_days: 2684
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8f1a3db0903c20273c5b1b2a6d5b84f38b111b980874d86ec4945e99d019f4f7
+machine_hash: a929f8131c190bc61d5715a4cbd7318be78b7069d785ae6b12c998434bbf1b7a
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: Changed the `/model` picker to highlight only the newest model's name…
   type: change
 related_changes:
-- '[[Changes/v0/2026-08-14-4-interface-experience-changes-in-a-redesigned-sidebar-a-richer|4
-  Interface Experience changes in A redesigned sidebar, a richer…]]'
 - '[[Changes/Claude Code/2026-08-17-3-interface-experience-changes-in-v2-1-234|3 Interface
   Experience changes in v2.1.234]]'
 - '[[Changes/Codex CLI/2026-08-18-13-interface-experience-changes-in-rust-v0-148-0|13
   Interface Experience changes in rust-v0.148.0]]'
+- '[[Changes/Kimi Code/2026-08-18-2-interface-experience-changes-in-kimi-code-0-37-0|2
+  Interface Experience changes in Kimi Code 0.37.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: interface-experience
@@ -99,14 +99,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-13-interface-experience-changes-in-rust-v0-148-0|13 Interface Experience changes in rust-v0.148.0]]
-- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed Ctrl+L and Cmd+K in fullscreen to always just repaint]]
+- Earlier: 2026-08-18 · Kimi Code · [[Changes/Kimi Code/2026-08-18-2-interface-experience-changes-in-kimi-code-0-37-0|2 Interface Experience changes in Kimi Code 0.37.0]]
+- Later: 2026-08-19 · Kimi Code · [[Changes/Kimi Code/2026-08-19-web-settings-gains-a-lab-tab-with-a-new-multi-tab-sidebar-toggle-when-enabled-th|web: Settings gains a Lab tab with a new multi-tab sidebar toggle]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

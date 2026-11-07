@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'Midjourney · 2026-08-27 · Interface Experience: Drag images into the
   prompt bar under "attach to prompt”'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1326
+  lag_days: 2692
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cc0a8706bd74e9bcd662ccfa068117d425b668d6768ec06053e23dbc84e055c
+machine_hash: 69fc060283f6e8644984550c5ac9313bdaf65b0ca4b14634621c3f8e5b38b5db
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,12 +43,12 @@ record:
   title: Drag images into the prompt bar under "attach to prompt”
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-26-resources-removed-from-the-dashboard-sidebar|Resources
-  removed from the dashboard sidebar]]'
 - '[[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface
   Experience changes in v2.1.248]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-3-interface-experience-changes-in-v1-0-81|3
   Interface Experience changes in v1.0.81]]'
+- '[[Changes/Kimi Code/2026-08-27-web-revamp-the-right-sidebar-as-a-multi-tab-panel|web:
+  Revamp the right sidebar as a multi-tab panel]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-08-27-https-updates-midjourney-com-edit-model-for-v8-d8d62f6e|midjourney-2026-08-27-https-updates-midjourney-com-edit-model-for-v8-d8d62f6e]]'
 source_type: midjourney_changelog
 theme: interface-experience
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-3-interface-experience-changes-in-v1-0-81|3 Interface Experience changes in v1.0.81]]
+- Earlier: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-web-revamp-the-right-sidebar-as-a-multi-tab-panel|web: Revamp the right sidebar as a multi-tab panel]]
 - Later: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-feat-pin-a-favorite-sidebar-page-as-the-home-route-by-hieptl-in-https-github-com|feat: pin a favorite sidebar page as the home route]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

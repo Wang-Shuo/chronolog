@@ -4,20 +4,20 @@ date: '2026-05-07'
 description: 'Codex CLI · 2026-05-07 · Safety and Privacy: 11 changes in 0.129.0 —
   Linux sandbox startup is more reliable across older `bwrap`, slow mount probes…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1117
+  lag_days: 2109
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8ae26b9d70925c70b02d44750803053271d683e94b00eba260604eb6cfcaaec
+machine_hash: ffc88aaf4cda28831791487953dd049781f41df43f15192e050d26ac04289fa4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -144,7 +144,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.129.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

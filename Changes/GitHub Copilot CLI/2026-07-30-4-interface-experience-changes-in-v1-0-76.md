@@ -4,20 +4,20 @@ date: '2026-07-30'
 description: 'GitHub Copilot CLI · 2026-07-30 · Interface Experience: 4 changes in
   1.0.76 — Split-view sidebar: hover-to-focus is now off by default (opt in with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1298
+  lag_days: 2664
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d1c14a0f1297762d8c987fee81e087a4dfea844286d82da4d1e5e0bc55d3152
+machine_hash: 430d9621a4f1cb71656366e4c1f177037237f5fa62c7a0a509a9b48fb8724b56
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Interface Experience changes in v1.0.76
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-07-28-added-a-keyboard-shortcut-cmd-l-ctrl-l-to-quickly-quote-selected-text-into-the-c|Added
-  a keyboard shortcut (Cmd+L / Ctrl+L) to quickly quote selected text…]]'
 - '[[Changes/OpenCode/2026-07-28-desktop-fixed-a-solid-cleanup-crash-that-could-break-navigation-in-the-desktop-a|Desktop
   Fixed a Solid cleanup crash that could break navigation in the desktop app]]'
 - '[[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8
   Interface Experience changes in rust-v0.146.0]]'
+- '[[Changes/Kimi Code/2026-07-29-add-a-customizable-footer-status-line-configured-via-status-line-in-tui-toml|Add
+  a customizable footer status line, configured via status_line in tui.toml]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'
 source_type: github_releases
 theme: interface-experience
@@ -103,14 +103,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.76
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8 Interface Experience changes in rust-v0.146.0]]
+- Earlier: 2026-07-29 · Kimi Code · [[Changes/Kimi Code/2026-07-29-add-a-customizable-footer-status-line-configured-via-status-line-in-tui-toml|Add a customizable footer status line, configured via status_line in tui.toml]]
 - Later: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-2-interface-experience-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2 Interface Experience changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

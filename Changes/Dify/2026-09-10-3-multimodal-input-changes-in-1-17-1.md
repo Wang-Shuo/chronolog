@@ -5,20 +5,20 @@ description: 'Dify · 2026-09-10 · Multimodal Input: 3 changes in v1.17.1 - Bug
   and Improvements — **Partial segment updates wiped attachments.** A segment update
   that…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1087
+  lag_days: 2855
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a7d3eacffb5fb88e2509826e966d458079e2a56479452219cfe554ea6dc337fb
+machine_hash: ccc874b0742f650894d9687758a212dd52e44720de63f14a393d2d0a8474c1be
 product: dify
 product_name: Dify
 record:
@@ -57,8 +57,7 @@ record:
   title: 3 Multimodal Input changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-several-less-visible-repairs-keep-the-apps-from-failing-around-dependencies-and|Several
-  less visible repairs keep the apps from failing around dependencies…]]'
+- '[[Changes/HeyGen/2026-09-04-in-ai-studio|In AI Studio]]'
 - '[[Changes/OpenClaw/2026-09-08-provider-adapters-preserve-initial-anthropic-text-and-thinking-keep-images-with|Provider
   adapters preserve initial Anthropic text and thinking, keep images…]]'
 - '[[Changes/DeepSeek API/2026-09-10-deepseek-v4-1-flash-release|DeepSeek-V4.1-Flash
@@ -121,7 +120,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

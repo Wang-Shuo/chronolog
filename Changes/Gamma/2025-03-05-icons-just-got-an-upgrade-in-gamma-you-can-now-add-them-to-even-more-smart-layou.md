@@ -4,20 +4,20 @@ date: '2025-03-05'
 description: 'Gamma · 2025-03-05 · Presentation Creation: Icons just got an upgrade
   in Gamma! You can now add them to even more smart layouts, including:'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 266
+  lag_days: 1335
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5f8fbf351d1fcbc30e9903418ecf9ed944717b897907549c645894c639434df
+machine_hash: ce0505567a6ac1f88bef8f70649f1b61d0f70112943156f607c015b4371acf29
 product: gamma
 product_name: Gamma
 record:
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

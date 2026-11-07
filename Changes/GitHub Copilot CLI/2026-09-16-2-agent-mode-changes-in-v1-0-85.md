@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ddb22bce9412005b6ca6d2e7e6ea6fcbca559791c64f63dea84d5639afd1616c
+machine_hash: 30cf3598638a1a258cd95f6f34e0f820366fbe44fdf5c6041fcd6ecdbded0ec6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,10 @@ record:
   title: 2 Agent Mode changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-elevenagents-d9e798|ElevenAgents]]'
-- '[[Changes/Claude Code/2026-09-15-changed-auto-mode-on-bedrock-vertex-and-foundry-to-use-the-local-classifier-by-d|Changed
-  auto mode on Bedrock, Vertex and Foundry to use the local classifier…]]'
-- '[[Changes/Google Antigravity/2026-09-15-the-agent-s-temporary-scratch-files-are-no-longer-watched-synced-or-shown-in-the|The
-  agent''s temporary scratch files are no longer watched, synced, or shown…]]'
+- '[[Changes/Notion/2026-09-15-and-a-few-more|And a few more…]]'
+- '[[Changes/Notion/2026-09-15-custom-agents-can-do-the-post-meeting-work-for-you|Custom
+  Agents can do the post-meeting work for you]]'
+- '[[Changes/Notion/2026-09-15-on-the-go-use-the-notion-agents-ios-app|On the go?]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: agent-mode
@@ -96,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-the-agent-s-temporary-scratch-files-are-no-longer-watched-synced-or-shown-in-the|The agent's temporary scratch files are no longer watched, synced, or shown…]]
+- Earlier: 2026-09-15 · Notion · [[Changes/Notion/2026-09-15-on-the-go-use-the-notion-agents-ios-app|On the go?]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-2-agent-mode-changes-in-v1-19-0|2 Agent Mode changes in v1.19.0]]
 <!-- chronolog:end -->
 

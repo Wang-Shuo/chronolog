@@ -4,20 +4,20 @@ date: '2026-10-28'
 description: 'ChatGPT · 2026-10-28 · Pricing Model: Eligible ChatGPT Pro and Business
   subscribers can activate promotional API credits to build apps and agents with the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1413
+  lag_days: 3031
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: ca8f0272a6bd6cf6c43b0788a5ce7b418fe3f48f0b6acc7e58486d3bb6f6bdca
+machine_hash: 0127752ca8441df983bc305b53542edfacf33f893a67707b964f7ac269870363
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,9 +51,9 @@ record:
   title: API credits for eligible ChatGPT Pro and Business plans
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2
-  Pricing Model changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/Gamma/2026-10-26-clearer-credit-balances|Clearer credit balances]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-usage-based-billing-windows-linux-mac-web-microsoft-365-copilot-ext|Work
+  IQ APIs: Usage-based billing Windows, Linux, Mac…]]'
 - '[[Changes/OpenCode/2026-10-27-core-preserve-literal-0-and-arguments-text-in-custom-command-input|Core
   Preserve literal $0 and $ARGUMENTS text in custom command input]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64|chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64]]'
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

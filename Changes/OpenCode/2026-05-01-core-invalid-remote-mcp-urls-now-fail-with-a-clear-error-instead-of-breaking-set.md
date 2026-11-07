@@ -4,20 +4,20 @@ date: '2026-05-01'
 description: 'OpenCode · 2026-05-01 · Apps and Integrations: Core Invalid remote MCP
   URLs now fail with a clear error instead of breaking setup.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1135
+  lag_days: 2695
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 726a31a15a28a0839455cda19709b6b57d7fe47028cff76003746d4e6acac3c6
+machine_hash: 2545542033549de0e8c0bc683879bbf6dc65d9d9823baae8fac40c3abc4399af
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
     setup
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and
-  Integrations changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37
   Apps and Integrations changes in rust-v0.128.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6
   Apps and Integrations changes in v1.0.40]]'
+- '[[Changes/Notion/2026-05-01-custom-agents-can-now-read-and-reply-in-private-slack-channels-get-started-from|Add
+  Custom Agents to private Slack channels]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-01-v1-14-31-1997f248|opencode-2026-05-01-v1-14-31-1997f248]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6 Apps and Integrations changes in v1.0.40]]
+- Earlier: 2026-05-01 · Notion · [[Changes/Notion/2026-05-01-custom-agents-can-now-read-and-reply-in-private-slack-channels-get-started-from|Add Custom Agents to private Slack channels]]
 - Later: 2026-05-01 · OpenHands · [[Changes/OpenHands/2026-05-01-2-apps-and-integrations-changes-in-1-7-0|2 Apps and Integrations changes in 1.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

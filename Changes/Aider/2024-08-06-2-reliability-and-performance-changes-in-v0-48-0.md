@@ -4,20 +4,20 @@ date: '2024-08-06'
 description: 'Aider · 2024-08-06 · Reliability and Performance: 2 changes in Aider
   v0.48.0 — Performance improvements for large/mono repos.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 600
+  lag_days: 2087
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed25090eefd6e6271018b5018e2db71c37ed6931a0c68d1f021f74eadeeb8a5c
+machine_hash: 4587974367181db5b3a2d3427b504f677fbf7b14cab2a4c79d6be496d2927876
 product: aider
 product_name: Aider
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.48.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

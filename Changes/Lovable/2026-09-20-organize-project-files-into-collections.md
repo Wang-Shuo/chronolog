@@ -4,20 +4,19 @@ date: '2026-09-20'
 description: 'Lovable · 2026-09-20 · Editor Experience: The project [**Files** tab](https://docs.lovable.dev/features/generate-files.md)
   has a new layout. You can now group…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1286
+  lag_days: 2870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e03cf467ebf9dd2a97b6a114d2b7306d1cc2964d8bc732e7f390927a01c71754
+machine_hash: cf56c2ed86eebd2d3f72b819eefec6b76d3cb3e56204ccba450c62fb323607f8
 product: lovable
 product_name: Lovable
 record:
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

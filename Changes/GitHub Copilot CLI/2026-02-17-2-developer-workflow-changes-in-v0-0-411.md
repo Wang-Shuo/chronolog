@@ -4,19 +4,20 @@ date: '2026-02-17'
 description: 'GitHub Copilot CLI · 2026-02-17 · Developer Workflow: 2 changes in 0.0.411
   — Add `include_coauthor` config option to disable Co-authored-by trailer in git…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1067
+  lag_days: 2716
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 202771aac7ff7673f8b5bb4b6e28f9b1e227ae9592a4ca4a5d3c6883519decbd
+machine_hash: f4bc60fd78d4cce7e917b2855d924da73f72ed442baa790b3330a8d0b8713d70
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.411
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

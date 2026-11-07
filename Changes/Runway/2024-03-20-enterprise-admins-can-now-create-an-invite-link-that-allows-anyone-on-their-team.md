@@ -4,20 +4,20 @@ date: '2024-03-20'
 description: 'Runway · 2024-03-20 · Enterprise and Administration: Enterprise admins
   can now create an invite link that allows anyone on their team to request access.'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 320
+  lag_days: 1527
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8521978c2920e12f7c0af754f97104ad2bfe44ac5662a685facb69ba65132a0a
+machine_hash: 0e49be2513378b96dada3c7252dfc52347c617c3f5365d5029d514f0a46dfb5c
 product: runway
 product_name: Runway
 record:
@@ -42,10 +42,9 @@ record:
   title: Invite via link
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-02-21-enterprise-grade-data-protections-for-workspace-customers-is-now-available-in-ge|Enterprise-grade
-  data protections for Workspace customers is now available in Gemini]]'
 - '[[Changes/Runway/2024-02-26-editors-within-an-enterprise-workspace-can-now-create-new-teamspaces-for-collabo|Editors
   can create teamspaces]]'
+- '[[Changes/Descript/2024-03-18-drive-admin-updates|Drive Admin Updates]]'
 - '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
   improvements: Team admins can now mark themselves as unpaid users and can see…]]'
 source_release: '[[Releases/Runway/runway-2024-03-20-2024-03-20-invite-via-link-f1f056a5|runway-2024-03-20-2024-03-20-invite-via-link-f1f056a5]]'
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

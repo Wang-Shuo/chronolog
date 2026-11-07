@@ -4,19 +4,20 @@ date: '2026-02-12'
 description: 'GitHub Copilot CLI · 2026-02-12 · Developer Workflow: Change run command
   shortcut from ctrl+p to ctrl+s'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1062
+  lag_days: 2711
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8e59c2a8e8026abb2d736580bdad862a3abadc0a6b27d01bc615579347ad266
+machine_hash: 1d20e7a4c7fad17301b7eb875544236d13254af203c255cc3444bc282b4f42e7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-04-20'
 description: 'Codex CLI · 2026-04-20 · Interface Experience: 2 changes in 0.122.0
   — #18188 Add tabbed lists, single line rendering, col width changes @canvrno-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1197
+  lag_days: 2563
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f02d2cbfe3bd21f9caa4eba0e4c73efece1bae6c4713e418076a349956453e81
+machine_hash: 88a58000aa72f5a695d95daad6644888fc8560de399578a982ca0808049493d5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

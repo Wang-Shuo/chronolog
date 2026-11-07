@@ -5,20 +5,20 @@ description: 'Gemini · 2024-10-21 · Pricing Model: What: Users accessing the G
   app via their Google Workspace subscription or a Gemini for Workspace add-on can
   now…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 676
+  lag_days: 2294
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: f994e22219838134449b74eabbc669731f7d66b9c92d56ce3a55212bc582eb6c
+machine_hash: 46f24296161f5ce73b7e124b0b345179285ae6d6fffd24c62301037ccde793ea
 product: gemini
 product_name: Gemini
 record:
@@ -65,12 +65,12 @@ record:
   title: Access to Imagen 3 now available for Google Workspace customers
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-10-2-pricing-model-changes-in-0-8-0|2 Pricing Model changes
-  in 0.8.0]]'
 - '[[Changes/Cline/2024-09-12-openrouter-now-supports-prompt-caching-they-re-still-working-on-reporting-cache|OpenRouter
   now supports prompt caching!]]'
 - '[[Changes/Runway/2024-09-20-workspace-analytics-now-contains-graphs-that-provide-an-overview-of-credit-usage|Credit
   Analytics]]'
+- '[[Changes/Descript/2024-10-08-subscription-management-and-checkout-improvements|Subscription
+  management and checkout improvements]]'
 source_release: '[[Releases/Gemini/gemini-2024-10-21-2024-10-21-3e5cd197|gemini-2024-10-21-2024-10-21-3e5cd197]]'
 source_type: gemini_changelog
 theme: pricing-model
@@ -101,14 +101,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-09-20 · Runway · [[Changes/Runway/2024-09-20-workspace-analytics-now-contains-graphs-that-provide-an-overview-of-credit-usage|Credit Analytics]]
-- Later: 2024-11-14 · Runway · [[Changes/Runway/2024-11-14-we-have-released-a-number-of-updates-to-the-runway-api-that-gives-users-more-fea|Runway API updates]]
+- Earlier: 2024-10-08 · Descript · [[Changes/Descript/2024-10-08-subscription-management-and-checkout-improvements|Subscription management and checkout improvements]]
+- Later: 2024-11-05 · Descript · [[Changes/Descript/2024-11-05-subscription-management-and-checkout-update|Subscription management and checkout update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

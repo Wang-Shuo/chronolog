@@ -4,19 +4,20 @@ date: '2023-07-18'
 description: 'Dify · 2023-07-18 · Developer Workflow: feat: add bash before entrypoint.sh
   in Dockerfile by @takatost in https://github.com/langgenius/dify/pull/592'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 122
+  lag_days: 1771
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 509742073f79a24a54665df15347deb2e359c196cd43747b7d8a0068cfd65b87
+machine_hash: fdfdb4b8c21fd72400f98f51876c2920f82f09c10302f092be8cb0263f2ff7e2
 product: dify
 product_name: Dify
 record:
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

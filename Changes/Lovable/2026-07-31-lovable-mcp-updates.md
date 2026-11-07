@@ -4,20 +4,20 @@ date: '2026-07-31'
 description: 'Lovable · 2026-07-31 · Apps and Integrations: The [Lovable MCP server](https://docs.lovable.dev/integrations/lovable-mcp-server.md)
   is now listed as a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1226
+  lag_days: 2786
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c6e807c0939aab58aba7a707c5bf4e77f9315a911a2d5868f78b065cd001a8cd
+machine_hash: 97c050d38dc86338b1f7e356c0e3ebb1cfd8e30730e586f4c63a4ceca45dc975
 product: lovable
 product_name: Lovable
 record:
@@ -44,8 +44,8 @@ record:
   title: Lovable MCP updates
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-apps-and-integrations-changes-in-v1-0-76|2
-  Apps and Integrations changes in v1.0.76]]'
+- '[[Changes/Kimi Code/2026-07-30-plugins-can-contribute-system-prompt-instructions-through-systemprompt-or-system|Plugins
+  can contribute system prompt instructions through systemPrompt…]]'
 - '[[Changes/OpenHands/2026-07-30-feat-enable-disable-an-installed-mcp-server-from-its-card-by-hieptl-in-https-git|feat:
   enable/disable an installed MCP server from its card]]'
 - '[[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-31 · Cline · [[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and Integrations changes in v4.1.0]]
-- Later: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-connect-more-mcp-servers|Connect more MCP servers]]
+- Later: 2026-07-31 · Notion · [[Changes/Notion/2026-07-31-post-a-recap-to-slack-or-email-with-decisions-and-next-steps|Post a recap to Slack or email with decisions and next steps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

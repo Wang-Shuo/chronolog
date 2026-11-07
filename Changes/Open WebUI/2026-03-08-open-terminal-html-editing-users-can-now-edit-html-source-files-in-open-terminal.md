@@ -5,20 +5,19 @@ description: 'Open WebUI · 2026-03-08 · Editor Experience: ✏️ **Open Termi
   editing.** Users can now edit HTML source files in Open Terminal with CodeMirror
   editor…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1090
+  lag_days: 2674
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59375256683070ab216747ce236ef75014ea561dc3f51946b91a07f13e1c016b
+machine_hash: eb1769c37df4a181a0465fb1949d60dfbd74ff1a211f2cde069fb74775f8206b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -110,7 +109,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

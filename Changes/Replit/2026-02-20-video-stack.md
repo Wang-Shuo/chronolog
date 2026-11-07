@@ -5,20 +5,20 @@ description: 'Replit · 2026-02-20 · Image Generation: Video Stack lets you cre
   animated videos with code by leveraging generated images and videos for creative
   motion…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 712
+  lag_days: 970
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1133b872782d86ba2900bcf32e1507567944903c3b32a35eb7e7c170b1590048
+machine_hash: 35f4f430798539bfa49be6bcb08d088fc2b1261f0554e2080e14f7f3c6690764
 product: replit
 product_name: Replit
 record:
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

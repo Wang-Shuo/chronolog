@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-03-25 · Apps and Integrations: Google’s file co
   in ChatGPT are now unified under Google Drive, providing a single app experience
   for…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1098
+  lag_days: 2658
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 57e20976fee9c1dc881417e453ee3af6ae2d1b93248b3cfcb930c91e5d0c265a
+machine_hash: 9fccf24226dbb252dead388147c5414113c9e71beb9d9f9abc47783f43a2a08e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,11 +59,12 @@ record:
   title: Google Drive app unification
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-23-sdk-releases|SDK Releases]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-23-6-apps-and-integrations-changes-in-v1-0-11|6
-  Apps and Integrations changes in v1.0.11]]'
-- '[[Changes/Gemini CLI/2026-03-24-5-apps-and-integrations-changes-in-v0-35-0|5 Apps
-  and Integrations changes in v0.35.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-track-gitlab-issues-in-copilot-with-a-connector-web-microsoft-365-copilot-extens|Track
+  GitLab issues in Copilot with a connector…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-search-aha-features-and-ideas-in-copilot-with-a-connector-web-microsoft-365-copi|Search
+  Aha! features and ideas in Copilot with a connector…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-connect-copilot-to-smartsheet-for-project-and-task-management-web-microsoft-365|Connect
+  Copilot to Smartsheet for project and task management…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-25-google-drive-app-unification-4e5cfa13|chatgpt-2026-03-25-google-drive-app-unification-4e5cfa13]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -90,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-5-apps-and-integrations-changes-in-v0-35-0|5 Apps and Integrations changes in v0.35.0]]
+- Earlier: 2026-03-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-24-connect-copilot-to-smartsheet-for-project-and-task-management-web-microsoft-365|Connect Copilot to Smartsheet for project and task management…]]
 - Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps and Integrations changes in v2.1.83]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

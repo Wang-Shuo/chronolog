@@ -5,20 +5,20 @@ description: 'Gamma · 2025-04-16 · Search and Browsing: Not sure your current 
   layout is the one? Let AI jump in with fresh ideas! Browse suggested layouts in
   real time…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 755
+  lag_days: 1784
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 15dd1deda72c2a1fca217ba58e89300618417eee3442fb9f6a48cfb7266a337f
+machine_hash: abe9438163ea2d4786f0b0c09fd82561e4f4eefff344fcdd699b800eab2e4cb1
 product: gamma
 product_name: Gamma
 record:
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

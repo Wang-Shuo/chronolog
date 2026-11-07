@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9783d204bc4d428bbef965b72e35afe8b4ff6d436f242558b0a60abc6de51860
+machine_hash: 785ac86eb7e6e9989c1ce561fc10c2d3daa3f3d1601dbf86358f2f9a8b427977
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,12 @@ record:
   title: Improved the subagent panel
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-11-agent-mode-changes-in-rust-v0-140-0|11 Agent
-  Mode changes in rust-v0.140.0]]'
-- '[[Changes/ElevenLabs/2026-06-15-elevenagents|ElevenAgents]]'
+- '[[Changes/Kimi Code/2026-06-15-3-agent-mode-changes-in-kimi-code-0-15-0|3 Agent
+  Mode changes in Kimi Code 0.15.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent
   mode is tracked per session, so it no longer carries over when you create…]]'
+- '[[Changes/Kimi Code/2026-06-16-prevent-session-shutdown-from-resuming-the-agent-when-stopping-background-tasks|Prevent
+  session shutdown from resuming the agent when stopping background tasks]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent mode is tracked per session, so it no longer carries over when you create…]]
+- Earlier: 2026-06-16 · Kimi Code · [[Changes/Kimi Code/2026-06-16-prevent-session-shutdown-from-resuming-the-agent-when-stopping-background-tasks|Prevent session shutdown from resuming the agent when stopping background tasks]]
 - Later: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local and cloud]]
 <!-- chronolog:end -->
 

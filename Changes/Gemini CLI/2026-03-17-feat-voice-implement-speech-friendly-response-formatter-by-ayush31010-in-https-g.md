@@ -4,20 +4,20 @@ date: '2026-03-17'
 description: 'Gemini CLI · 2026-03-17 · Voice and Audio: feat(voice): implement speech-friendly
   response formatter by @ayush31010 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 981
+  lag_days: 2808
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dfbbe998f849cfe68df7084618daebfe620a5ab771a5c08db0b8009b6501be5a
+machine_hash: 548a88b07413ade77d91e2e6d43856022ba960918dffaf8cf2b5ecec455aba53
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,11 +42,12 @@ record:
   title: 'feat(voice): implement speech-friendly response formatter'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-improved-voice-to-show-your-dictation-language-on-enable-and-warn-when-your-lang|Improved
-  /voice to show your dictation language on enable and warn…]]'
-- '[[Changes/Codex CLI/2026-03-16-4-voice-and-audio-changes-in-rust-v0-115-0|4 Voice
-  and Audio changes in rust-v0.115.0]]'
-- '[[Changes/ElevenLabs/2026-03-16-packages|Packages]]'
+- '[[Changes/Descript/2026-03-17-media-library-files-now-transcribe-automatically|Media
+  Library files now transcribe automatically]]'
+- '[[Changes/Descript/2026-03-17-improved-lip-sync-quality-for-translated-videos|Improved
+  lip sync quality for translated videos]]'
+- '[[Changes/Descript/2026-03-17-pacing-and-intonation-are-better-preserved-so-regenerated-audio-blends-more-smoo|Pacing
+  and intonation are better preserved, so regenerated audio blends more…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
 source_type: github_releases
 theme: voice
@@ -88,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-packages|Packages]]
+- Earlier: 2026-03-17 · Descript · [[Changes/Descript/2026-03-17-pacing-and-intonation-are-better-preserved-so-regenerated-audio-blends-more-smoo|Pacing and intonation are better preserved, so regenerated audio blends more…]]
 - Later: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-2-voice-and-audio-changes-in-rust-v0-116-0|2 Voice and Audio changes in rust-v0.116.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-02-12 · Voice and Audio: We’re making an update
   Voice that improves its ability to follow user instructions, and usage of tools
   like…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 948
+  lag_days: 2775
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cc8a4eef039b810eb8957ab3f3a958793612686cf90c778001e6080003bba113
+machine_hash: 79712c7052e91be341c91609ea6b6081ae316bee746751c1ba9b22b4ebc94e2b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,9 +63,11 @@ record:
   title: ChatGPT Voice Update
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-02-new-schemas|New Schemas]]'
-- '[[Changes/ElevenLabs/2026-02-02-widget-packages|Widget Packages]]'
-- '[[Changes/ElevenLabs/2026-02-02-react-and-client-sdks|React and Client SDKs]]'
+- '[[Changes/HeyGen/2026-02-06-5-audio-translation-is-now-unlimited|Audio translation
+  is now unlimited]]'
+- '[[Changes/Descript/2026-02-10-transcribe-into-uk-english|Transcribe into UK English]]'
+- '[[Changes/Descript/2026-02-10-better-lip-sync-and-timing-for-translations|Better
+  lip sync and timing for translations]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f|chatgpt-2026-02-12-chatgpt-voice-update-c17a6a9f]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -92,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-react-and-client-sdks|React and Client SDKs]]
+- Earlier: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-better-lip-sync-and-timing-for-translations|Better lip sync and timing for translations]]
 - Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-audio-service-timeout-handling-audio-transcription-and-text-to-speech-requests-n|🔌 Audio service timeout handling. Audio transcription and text-to-speech…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

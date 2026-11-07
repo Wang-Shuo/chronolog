@@ -4,20 +4,20 @@ date: '2026-05-01'
 description: 'OpenHands · 2026-05-01 · Apps and Integrations: 2 changes in 1.7.0 -
   2026-05-01 — Exposed SDK settings schema to OpenHands by @neubig in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1135
+  lag_days: 2695
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 041719eb4df1d25c29aaba56c10204e9fac807d6a26279846ef82f2d9336b858
+machine_hash: 5e1e03d58a8641d6006285db4e442634876c2ec69fa376b3f0c29e2e2d0e27fb
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Apps and Integrations changes in 1.7.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37
-  Apps and Integrations changes in rust-v0.128.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6
   Apps and Integrations changes in v1.0.40]]'
+- '[[Changes/Notion/2026-05-01-custom-agents-can-now-read-and-reply-in-private-slack-channels-get-started-from|Add
+  Custom Agents to private Slack channels]]'
 - '[[Changes/OpenCode/2026-05-01-core-invalid-remote-mcp-urls-now-fail-with-a-clear-error-instead-of-breaking-set|Core
   Invalid remote MCP URLs now fail with a clear error instead of breaking setup]]'
 source_release: '[[Releases/OpenHands/openhands-2026-05-01-1-7-0-github-316415064-290087ee|openhands-2026-05-01-1-7-0-github-316415064-290087ee]]'
@@ -88,7 +88,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.7.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

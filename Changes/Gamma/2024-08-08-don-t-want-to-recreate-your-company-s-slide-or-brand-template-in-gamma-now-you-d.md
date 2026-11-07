@@ -4,20 +4,20 @@ date: '2024-08-08'
 description: 'Gamma · 2024-08-08 · Presentation Creation: Upload a PPT or Google Slides
   file, and we''ll automatically extract the colors, fonts, logo, and other styling…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 57
+  lag_days: 1126
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 24507b0ed7aee2e58b7bef6cc75916d5afe22cfc00eec4c8e9ed5dc425d4a8be
+machine_hash: 5d342609e2ba8c7d53b55780408775f29b0f0f646659e47f3a854789798a9bf9
 product: gamma
 product_name: Gamma
 record:
@@ -49,6 +49,9 @@ record:
   title: Don’t want to recreate your company’s slide or brand template in Gamma?
   type: change
 related_changes:
+- '[[Changes/Descript/2022-11-15-new-properties-panel-https-help-descript-com-hc-en-us-articles-10327905838349-pr|New
+  properties…]]'
+- '[[Changes/Descript/2023-08-10-scene-stepping|Scene stepping]]'
 - '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
   images from Google Slides and Google Docs]]'
 source_release: '[[Releases/Gamma/gamma-2024-08-08-66b51258a7c34428de7b00b2-0a702dfd|gamma-2024-08-08-66b51258a7c34428de7b00b2-0a702dfd]]'
@@ -82,13 +85,13 @@ type: change
 ## Nearby in Presentation Creation
 
 - Earlier: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
-- Later: 2024-09-17 · Gamma · [[Changes/Gamma/2024-09-17-this-makes-it-easy-to-instantly-transform-your-entire-gamma-for-example-translat|This makes it easy to instantly transform your entire gamma - for example, translate…]]
+- Later: 2024-09-10 · Descript · [[Changes/Descript/2024-09-10-ken-burns-animation|Ken Burns animation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

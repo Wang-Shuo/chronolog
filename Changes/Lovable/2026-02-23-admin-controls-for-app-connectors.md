@@ -4,20 +4,20 @@ date: '2026-02-23'
 description: 'Lovable · 2026-02-23 · Enterprise and Administration: Workspace admins
   and owners on Business and Enterprise plans can now enable or disable specific [app…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1025
+  lag_days: 2232
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5232f78e55e47e64472208864031629a8f87f7ef51bfe2aab7fdcb45abf1e3cb
+machine_hash: 7c9f92170184e1ebee5f2452aaa41ca61cdc9f15f85c64a57b1abfc8af6e8aa4
 product: lovable
 product_name: Lovable
 record:
@@ -112,7 +112,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

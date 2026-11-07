@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a961c411a2b82cb0e225ca1a8128ead7dc838a819bdc58aa0ac5497e9cfd0b67
+machine_hash: 5dbd343b4273aafd56d0d39ccc8c3729eb8802f989ef9a67875e642fdb7d631f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.70
 ## Nearby in Model Support
 
 - Earlier: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-improved-code-review-findings-quality-on-claude-opus-4-8-across-all-effort-level|Improved /code-review findings quality on claude-opus-4-8 across all effort levels]]
-- Later: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-changed-bedrock-vertex-and-claude-platform-on-aws-to-default-to-claude-opus-4-8|Changed Bedrock, Vertex, and Claude Platform on AWS to default to Claude Opus 4.8]]
+- Later: 2026-07-10 · Kimi Code · [[Changes/Kimi Code/2026-07-10-keep-image-heavy-sessions-within-provider-request-size-limits-oversized-images-m|Keep image-heavy sessions within provider request-size limits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

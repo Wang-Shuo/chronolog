@@ -5,20 +5,19 @@ description: 'Claude Code · 2026-04-01 · Editor Experience: Changed `Edit` to 
   on files viewed via `Bash` with `sed -n` or `cat`, without requiring a separate
   `Read`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1114
+  lag_days: 2698
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f530567a39fd83710f528632b0b408d9b6ff8d556180e03ff52c5c5c2ddda77
+machine_hash: c3adde5d11dad1af262b88e3dea7b747f5880d56a1d074e7716f07926f6b78b6
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +45,12 @@ record:
     without…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-added-jj-and-sl-to-vcs-directory-exclusion-lists-so-grep-and-file-autocomplete-d|Added
-  .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…]]'
 - '[[Changes/Dify/2026-03-27-2-editor-experience-changes-in-1-13-3|2 Editor Experience
   changes in 1.13.3]]'
 - '[[Changes/Codex CLI/2026-03-31-16021-fix-copy-regression-in-tui-app-server-turn-completion-etraut-openai|♯16021
   Fix /copy regression in tui_app_server turn completion @etraut-openai]]'
+- '[[Changes/HeyGen/2026-03-31-where-to-find-it-apps-tab-upscale-video|Where to find
+  it: Apps tab → Upscale Video]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16021-fix-copy-regression-in-tui-app-server-turn-completion-etraut-openai|♯16021 Fix /copy regression in tui_app_server turn completion @etraut-openai]]
+- Earlier: 2026-03-31 · HeyGen · [[Changes/HeyGen/2026-03-31-where-to-find-it-apps-tab-upscale-video|Where to find it: Apps tab → Upscale Video]]
 - Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-refactor-ide-replace-dynamic-undici-import-with-static-fetch-import-by-cocosheng|refactor(ide): replace dynamic undici import with static fetch import]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

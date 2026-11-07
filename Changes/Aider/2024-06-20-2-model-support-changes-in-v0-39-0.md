@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a453556bf610b69ff1ebc400b3b5a30cad6748baf2402296cbc172a6bcdb2afd
+machine_hash: 93e4100b1d1f7838f01ef9c16477515712c20c251563e88a437f6e964bc35324
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Model Support changes in v0.39.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-06-15-2-model-support-changes-in-v0-1-45|2 Model Support
-  changes in v0.1.45]]'
 - '[[Changes/Midjourney/2024-06-17-we-re-starting-a-new-research-project-to-explore-the-origins-of-beauty-basically|We''re
   starting a new research project to explore the origins of beauty.]]'
 - "[[Changes/Open WebUI/2024-06-17-markdown-support-in-model-descriptions-you-can-now-format-model-descriptions-wit|\U0001F4DD
   Markdown Support in Model Descriptions]]"
+- '[[Changes/Notion/2024-06-18-now-with-gpt-4|Now with GPT-4]]'
 source_release: '[[Releases/Aider/aider-2024-06-20-v0-39-0-github-161564157-bb86ead6|aider-2024-06-20-v0-39-0-github-161564157-bb86ead6]]'
 source_type: github_releases
 theme: model-support
@@ -82,7 +81,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.39.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-06-17 · Open WebUI · [[Changes/Open WebUI/2024-06-17-markdown-support-in-model-descriptions-you-can-now-format-model-descriptions-wit|📝 Markdown Support in Model Descriptions]]
+- Earlier: 2024-06-18 · Notion · [[Changes/Notion/2024-06-18-now-with-gpt-4|Now with GPT-4]]
 - Later: 2024-06-24 · Aider · [[Changes/Aider/2024-06-24-2-model-support-changes-in-v0-40-0|2 Model Support changes in v0.40.0]]
 <!-- chronolog:end -->
 

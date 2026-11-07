@@ -4,19 +4,20 @@ date: '2026-05-20'
 description: 'Cursor · 2026-05-20 · Collaboration: You can now share canvases from
   Cursor with your teammates.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1092
+  lag_days: 2686
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fd434b55dec42d8658b6f88f6cb8e1cbe5a587d9452ccf4423fa534c1e2398ef
+machine_hash: 5632d9e14dade9779da6d57bc1f7213dcfd2a4704641c444ace8795aa9c5ef53
 product: cursor
 product_name: Cursor
 record:
@@ -90,13 +91,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration changes in rust-v0.131.0]]
-- Later: 2026-05-29 · Lovable · [[Changes/Lovable/2026-05-29-more-consistent-project-action-buttons|More consistent project action buttons]]
+- Later: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-relocate-shared-tool-service-typing-to-the-tool-support-layer|Relocate shared tool service typing to the tool support layer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

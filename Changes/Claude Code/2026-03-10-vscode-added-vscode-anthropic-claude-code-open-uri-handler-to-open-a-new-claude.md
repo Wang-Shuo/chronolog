@@ -4,20 +4,19 @@ date: '2026-03-10'
 description: 'Claude Code · 2026-03-10 · Editor Experience: VSCode: Added `vscode://anthropic.claude-code/open`
   URI handler to open a new Claude Code tab programmatically…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1092
+  lag_days: 2676
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9f30639dcfe66366626e5c3a8f6e72516c61c545c5c8c2b9d46e3917f7cdfe6c
+machine_hash: 180b691ce63a29de48831280c744c88552f1ae5943a7dc2cf56ab969d28315f1
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,9 +46,9 @@ record:
     a new Claude…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-08-open-terminal-html-editing-users-can-now-edit-html-source-files-in-open-terminal|✏️
-  Open Terminal HTML editing. Users can now edit HTML source files in Open…]]'
 - '[[Changes/ElevenLabs/2026-03-09-elevencreative-studio-cd704d|ElevenCreative Studio]]'
+- '[[Changes/Notion/2026-03-09-notion-ai-can-now-generate-and-edit-images-right-on-your-page-create-cover-image|Generate
+  images with Notion AI]]'
 - '[[Changes/v0/2026-03-09-improved-the-custom-design-system-editor-interface|Improved
   the Custom Design System editor interface]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
@@ -90,13 +89,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-09 · v0 · [[Changes/v0/2026-03-09-improved-the-custom-design-system-editor-interface|Improved the Custom Design System editor interface]]
-- Later: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document node limitation for shift+tab]]
+- Later: 2026-03-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-10-ask-copilot-directly-from-the-microsoft-edge-address-bar-web-microsoft-365-copil|Ask Copilot directly from the Microsoft Edge address bar…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

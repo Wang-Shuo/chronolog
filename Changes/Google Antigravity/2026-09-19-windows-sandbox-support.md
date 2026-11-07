@@ -4,20 +4,20 @@ date: '2026-09-19'
 description: 'Google Antigravity · 2026-09-19 · Safety and Privacy: This release introduces
   file and network sandboxing on Windows.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1252
+  lag_days: 2244
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0f6ed5ca82c955a965f7e8f19bfc6bba5c3cfdd0a0e2c4dd4c7d8596131f996d
+machine_hash: 3c3ae73ec68d8d4ab04d93d8b3407547f6290c64789ee4111dfce4afc2860369
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,10 +45,10 @@ record:
   title: Windows sandbox support
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety
-  and Privacy changes in v2.1.277]]'
 - '[[Changes/Google Antigravity/2026-09-18-fixed-an-issue-where-permission-settings-accumulated-duplicate-entries-which-mad|Fixed
   an issue where permission settings accumulated duplicate entries, which made…]]'
+- '[[Changes/Kimi Code/2026-09-18-stop-asking-for-approval-of-bash-commands-that-cannot-be-statically-analyzed-in|Stop
+  asking for approval of bash commands that cannot be statically analyzed in Ask…]]'
 - '[[Changes/Replit/2026-09-18-investigate-with-expanded-audit-logs|Investigate with
   expanded audit logs]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-19-rel-hub-2-15-1-619838a7|google-antigravity-2026-09-19-rel-hub-2-15-1-619838a7]]'
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

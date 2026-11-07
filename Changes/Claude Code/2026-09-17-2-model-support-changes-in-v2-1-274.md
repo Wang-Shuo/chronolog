@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5daea9a02ffefca00966d0fb45734f43f42ac9a702f2035ba16f79f73f8ab00
+machine_hash: edb6dfaf63d342e72b29746ca4ec6466006fc8f75c2dad2fa73e1753784dbd35
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in v2.1.274
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-15-removed-workspace-level-ai-model-training-setting|Removed:
-  workspace-level AI model training setting]]'
+- '[[Changes/Notion/2026-09-15-browse-every-model-and-see-which-is-best-for-the-job|Browse
+  every model, and see which is best for the job]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-13-model-support-changes-in-v1-0-85|13
   Model Support changes in v1.0.85]]'
 - '[[Changes/OpenHands/2026-09-16-feat-add-gpt-6-astra-model-support-by-neubig-in-https-github-com-openhands-openh|feat:

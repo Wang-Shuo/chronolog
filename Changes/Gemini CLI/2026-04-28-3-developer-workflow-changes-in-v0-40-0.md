@@ -4,19 +4,20 @@ date: '2026-04-28'
 description: 'Gemini CLI · 2026-04-28 · Developer Workflow: 3 changes in Release v0.40.0
   — feat(cli): provide default post-submit prompt for skill command by @ruomengz in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1137
+  lag_days: 2786
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ea484fe380cb72a03b23ec8e9166895336aab8f65ca168b95e3c544a625063d
+machine_hash: d3ef1a75a8f32d8376244ce60097fe3ce261c86426c6281406e3c898d9feaf02
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,7 +100,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.40.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

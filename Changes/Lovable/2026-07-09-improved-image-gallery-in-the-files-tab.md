@@ -4,20 +4,19 @@ date: '2026-07-09'
 description: 'Lovable · 2026-07-09 · Editor Experience: The [Files tab''s](https://docs.lovable.dev/features/generate-files.md#manage-generated-files)
   grid view now shows…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1213
+  lag_days: 2797
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 371ba39048b4cad47d665f07e18aaf335b0600212047415ece30f70c196e3cc6
+machine_hash: a2f11a4b9b295e2525544aee7a3c4a4935d1ff2be0cde8487dac3f445005ef21
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +48,8 @@ record:
   title: Improved image gallery in the Files tab
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-3-editor-experience-changes-in-rust-v0-143-0|3 Editor
-  Experience changes in rust-v0.143.0]]'
+- '[[Changes/HeyGen/2026-07-08-from-the-modal-you-can-review-and-edit|From the modal,
+  you can review and edit]]'
 - '[[Changes/Lovable/2026-07-08-pause-a-lovable-cloud-project|Pause a Lovable Cloud
   project]]'
 - '[[Changes/Codex CLI/2026-07-09-31191-handle-completion-separators-and-popup-dismissal-charliemarsh-oai|♯31191
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

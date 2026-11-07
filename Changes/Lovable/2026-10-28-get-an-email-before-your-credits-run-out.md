@@ -4,20 +4,20 @@ date: '2026-10-28'
 description: 'Lovable · 2026-10-28 · Pricing Model: Workspace admins and owners now
   get an email when your credits are likely to [run out before your monthly credits…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1413
+  lag_days: 3031
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: c29327bf2afab373656b012128dee59edc7206e591d9fac39e11a260ac0304ea
+machine_hash: c5eee390881dadff8e3a4d0581ad120e57e5354c021224914e05b69d2a61e6fe
 product: lovable
 product_name: Lovable
 record:
@@ -53,7 +53,8 @@ record:
   title: Get an email before your credits run out
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-10-26-clearer-credit-balances|Clearer credit balances]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-usage-based-billing-windows-linux-mac-web-microsoft-365-copilot-ext|Work
+  IQ APIs: Usage-based billing Windows, Linux, Mac…]]'
 - '[[Changes/OpenCode/2026-10-27-core-preserve-literal-0-and-arguments-text-in-custom-command-input|Core
   Preserve literal $0 and $ARGUMENTS text in custom command input]]'
 - '[[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

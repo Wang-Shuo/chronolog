@@ -4,20 +4,20 @@ date: '2025-12-16'
 description: 'v0 · 2025-12-16 · Context Window: You can now securely connect v0 to
   your Notion workspace to build using your team''s existing context, docs, and databases.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 957
+  lag_days: 2281
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88f7875c701b4c36d7204bd65051e1b4b95f75c8fe3e6ddf021e89570caf78b0
+machine_hash: 696f9bf5d06aa8d36a0be416e925e365e932fd961565993e91662fd2e5ca420d
 product: v0
 product_name: v0
 record:
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

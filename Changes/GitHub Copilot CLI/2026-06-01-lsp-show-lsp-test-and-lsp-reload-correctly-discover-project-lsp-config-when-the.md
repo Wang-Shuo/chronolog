@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-06-01 · Developer Workflow: /lsp show,
   test, and /lsp reload correctly discover project LSP config when the CLI is launched
   from…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1171
+  lag_days: 2820
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22b169227c3c387f7a88b2caa00f39a2d3152bab357c0d326c0dc509004a164b
+machine_hash: 03c3ccb927a512b9a7d3b39d524684d222da8c3b0af8929170f3135201fa6f74
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +43,8 @@ record:
   title: /lsp show, /lsp test, and /lsp reload correctly discover project LSP config…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4
-  Developer Workflow changes in v1.0.56]]'
+- '[[Changes/Kimi Code/2026-05-29-support-querying-sessions-by-sessionid-or-workdir-in-listsessions-and-show-a-hel|Support
+  querying sessions by sessionId or workDir in listSessions, and show…]]'
 - '[[Changes/OpenCode/2026-05-30-terminal-wrapped-inline-tool-rows-now-stay-aligned-and-failed-inline-tools-can-e|Terminal
   Wrapped inline tool rows now stay aligned, and failed inline tools can…]]'
 - '[[Changes/Codex CLI/2026-06-01-11-developer-workflow-changes-in-rust-v0-136-0|11
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

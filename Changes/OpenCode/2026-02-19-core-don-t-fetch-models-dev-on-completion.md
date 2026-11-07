@@ -4,20 +4,20 @@ date: '2026-02-19'
 description: 'OpenCode · 2026-02-19 · Interface Experience: Core Don''t fetch models.dev
   on completion'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1137
+  lag_days: 2503
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac1759470582fd8884faa4f7ebac8cbe2063006e0b72c67c3b2f5932763e148c
+machine_hash: b73176c8b68abfc7d7649d96f1284a5898562fb1da93f86b88140f1a4c8d03bf
 product: opencode
 product_name: OpenCode
 record:
@@ -50,8 +50,8 @@ record:
   title: Core Don't fetch models.dev on completion
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-ui-update-subdue-footer-colors-and-animate-progress-indicator-by-keithguerin-in|ui:
-  update & subdue footer colors and animate progress indicator]]'
+- '[[Changes/Notion/2026-02-18-as-your-workspace-grows-your-sidebar-can-get-crowded-library-solves-this-with-a|A
+  home for everything in Library]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-6-interface-experience-changes-in-v0-0-412|6
   Interface Experience changes in v0.0.412]]'
 - '[[Changes/Google Antigravity/2026-02-19-up-down-arrow-key-navigation-for-input-box-history|Up/down
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

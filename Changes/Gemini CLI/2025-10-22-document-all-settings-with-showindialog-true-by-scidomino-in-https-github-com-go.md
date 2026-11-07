@@ -4,20 +4,20 @@ date: '2025-10-22'
 description: 'Gemini CLI · 2025-10-22 · Files and Data: document all settings with
   showInDialog: true by @scidomino in https://github.com/google-gemini/gemini-cli/pull/11049'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 881
+  lag_days: 2226
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3f19a3034ec8c14d3d73293aa972f4d8de3f8863de78b06ba4c06e9f656f2ed
+machine_hash: 48477b31b288081302d9f08e45e51bc261f1c249886ce330735776efa26aec57
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

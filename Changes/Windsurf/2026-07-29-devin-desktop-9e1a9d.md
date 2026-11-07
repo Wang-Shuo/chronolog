@@ -4,20 +4,20 @@ date: '2026-07-29'
 description: 'Windsurf · 2026-07-29 · Mobile and Desktop: Added a unified notifications
   setting that posts native OS notifications when any agent session finishes or needs…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1233
+  lag_days: 2817
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 9db9c91ba1c163502caa2fa96f2822474c2162a9247a8aa47ebe788b2b38a046
+machine_hash: 5529d400cd9426c56595e125b4bb077bbb23454f06f901781fd8511968df857c
 product: windsurf
 product_name: Windsurf
 record:
@@ -101,10 +101,10 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger
-  screen]]'
 - '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor
   for iPad is now available on all paid plans]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-list-email-attachments-in-microsoft-365-copilot-android-windows-ios-mac-web-micr|List
+  email attachments in Microsoft 365 Copilot Android, Windows, iOS, Mac…]]'
 - '[[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-29-v3-6-21-93635c87|windsurf-2026-07-29-v3-6-21-93635c87]]'
 source_type: windsurf_changelog
@@ -168,13 +168,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]
-- Later: 2026-07-30 · OpenCode · [[Changes/OpenCode/2026-07-30-4-mobile-and-desktop-changes-in-v1-18-10|4 Mobile and Desktop changes in v1.18.10]]
+- Later: 2026-07-30 · Notion · [[Changes/Notion/2026-07-30-try-it-by-going-to-settings-preferences-appearance-available-on-desktop-and-web|Try it by going to Settings  Preferences  Appearance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

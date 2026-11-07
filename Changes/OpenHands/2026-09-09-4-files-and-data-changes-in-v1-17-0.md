@@ -4,20 +4,20 @@ date: '2026-09-09'
 description: 'OpenHands · 2026-09-09 · Files and Data: 4 changes in v1.17.0 — feat:
   unified cloud settings entrypoint for Agent Canvas by @jpelletier1 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1203
+  lag_days: 2548
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2557c870525abe830929acfed3cd227da80fa0543328b581abd6a156b94af230
+machine_hash: 56c2b0210fc23ef66a525e50b7ddf01d42f9dc6cf05b0f987fffb9ee8fd721a9
 product: openhands
 product_name: OpenHands
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.17.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

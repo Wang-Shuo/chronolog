@@ -4,20 +4,20 @@ date: '2026-03-17'
 description: 'Gemini CLI · 2026-03-17 · Apps and Integrations: 4 changes in Release
   v0.34.0 — test: add browser agent integration tests by @kunal-10-cloud in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1090
+  lag_days: 2650
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e4d9ef4c67b6c3e3eb22bf8782a63f236217fc8940b9d7aafb3df8990c6755c
+machine_hash: 7489c796b0d7aa776342bf809a98b1db925b3dc3fcda6ae50fb6d31d169b3733
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

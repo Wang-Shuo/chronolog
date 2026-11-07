@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e13b99d4a255079502b925688f056b08f6e39dd6cf4e7bb30d586f6f3542a939
+machine_hash: c00e71962fac758ebe45738d8005069b408a256a50e4a66e3dcd079dfb861058
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,10 +55,9 @@ record:
   title: Memory and new controls for ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom
-  instructions are now available to free users]]'
 - '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
   instructions are now available to users in the EU & UK]]'
+- '[[Changes/Descript/2023-12-05-command-e-https-help-descript-com-hc-en-us-articles-10255582172173-keyboard-shor|Command…]]'
 - '[[Changes/Dify/2024-01-05-feat-optimize-memory-invoke-error-output-by-takatost-in-https-github-com-langgen|feat:
   optimize memory & invoke error output]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded]]'

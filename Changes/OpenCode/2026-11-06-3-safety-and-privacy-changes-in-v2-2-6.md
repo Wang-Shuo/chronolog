@@ -5,20 +5,20 @@ description: 'OpenCode · 2026-11-06 · Safety and Privacy: 3 changes in v2.2.6 
   Webfetch and Code Mode fetch now reject URLs that contain credentials and ignore
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1300
+  lag_days: 2292
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a11a7ecb7412e002a3f9ddf2b3cb09465f6e4624eff834d4eee4f947b3c5bf6
+machine_hash: d34da97813f11e3d6e59a1a7aff6cca6eefb37323620abb6ff0c6964de395793
 product: opencode
 product_name: OpenCode
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Safety and Privacy changes in v2.2.6
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-05-2-safety-and-privacy-changes-in-v2026-11-1|2 Safety
-  and Privacy changes in v2026.11.1]]'
+- '[[Changes/Qoder/2026-11-05-local-extension-installation-install-plugins-and-skills-by-dragging-or-pasting-f|Local
+  extension installation: Install plugins and Skills by dragging or pasting files]]'
 - '[[Changes/Codex CLI/2026-11-06-57985-skip-read-only-volume-root-expansion-in-the-mxc-sandbox-iceweasel-oai|♯57985
   Skip read-only volume-root expansion in the MXC sandbox @iceweasel-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-11-06-34-safety-and-privacy-changes-in-v1-0-106|34
@@ -106,7 +106,7 @@ Source: https://opencode.ai/changelog/v2.2.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

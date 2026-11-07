@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'GitHub Copilot CLI · 2026-03-26 · Mobile and Desktop: 2 changes in 1.0.12
   — Clipboard copy works correctly on Windows when non-system clip.exe shadows the…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1108
+  lag_days: 2692
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf9159e7a9e5d80620acfa2368ce6c51cec168a9058e0571db89dfa51342980f
+machine_hash: b73bf32d632d17f9b985d2c70eb9b00f58d8fcdd007adb5b5f296ed223e7c80e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.12
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

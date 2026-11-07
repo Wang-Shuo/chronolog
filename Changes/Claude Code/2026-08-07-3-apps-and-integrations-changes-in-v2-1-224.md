@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-07 · Apps and Integrations: 3 changes in v
   — Added `archive` plugin source: install plugins from a zip over HTTPS without git
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1233
+  lag_days: 2793
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 556993d3622b399339f9bc20d87f47bbd49f1ad2a332af212efc332a2422f84d
+machine_hash: 52ef5f9c1b60c234b95fc347a1fe06d5f8a338ce3b719f11bdfbe3b27d48dc4e
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.224
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-05-2-apps-and-integrations-changes-in-v4-1-4|2 Apps and
-  Integrations changes in v4.1.4]]'
 - '[[Changes/OpenHands/2026-08-05-chore-bump-openhands-extensions-to-0-16-0-by-hieptl-in-https-github-com-openhand|chore:
   bump @openhands/extensions to 0.16.0]]'
 - '[[Changes/Claude/2026-08-06-skill-and-plugin-security-scanning-beta|Skill and plugin
   security scanning (beta)]]'
+- '[[Changes/Kimi Code/2026-08-06-the-kimi-computer-use-plugin-now-supports-windows-x64-install-it-from-plugins|The
+  Kimi Computer Use plugin now supports Windows x64 — install it from /plugins]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -96,14 +96,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.224
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-06 · Claude · [[Changes/Claude/2026-08-06-skill-and-plugin-security-scanning-beta|Skill and plugin security scanning (beta)]]
+- Earlier: 2026-08-06 · Kimi Code · [[Changes/Kimi Code/2026-08-06-the-kimi-computer-use-plugin-now-supports-windows-x64-install-it-from-plugins|The Kimi Computer Use plugin now supports Windows x64 — install it from /plugins]]
 - Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-65-apps-and-integrations-changes-in-rust-v0-147-0|65 Apps and Integrations changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

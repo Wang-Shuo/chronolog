@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-07 · Enterprise and Administration: 3 chan
   in v2.1.293 — Improved startup for Team and Enterprise organizations: policy and
   managed…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1251
+  lag_days: 2458
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c736091695c9303c2110d9ffabda7a0a905e0e6f71038f26b4460cda8ffe714
+machine_hash: 8f1606221fdf539ad2718cf5256e5b83bf5196a14bf7d15dc5c6390b0bced26e
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,11 +48,11 @@ record:
   title: 3 Enterprise and Administration changes in v2.1.293
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-claude-tag-added-an-edit-button-to-the-allowed-domains-card-on-a-channel-s-confi|Claude
-  Tag Added an Edit button to the Allowed domains card on a channel''s…]]'
 - '[[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote
   Control is on by default for everyone except Enterprise organizations]]'
 - '[[Changes/Cursor/2026-10-06-for-enterprise-teams|For Enterprise teams]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-admin-center-detailed-report-on-everyone-except-external-user-permissions-web-mi|Admin
+  Center - detailed report on Everyone except external user permissions…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -93,14 +93,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.293
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-for-enterprise-teams|For Enterprise teams]]
+- Earlier: 2026-10-06 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-06-admin-center-detailed-report-on-everyone-except-external-user-permissions-web-mi|Admin Center - detailed report on Everyone except external user permissions…]]
 - Later: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-49473-use-the-rmcp-sdk-for-enterprise-managed-token-exchanges-nicksteele-oai|♯49473 Use the rmcp SDK for enterprise-managed token exchanges @nicksteele-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

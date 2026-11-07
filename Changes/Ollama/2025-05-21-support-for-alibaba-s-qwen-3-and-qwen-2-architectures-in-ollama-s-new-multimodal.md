@@ -4,20 +4,20 @@ date: '2025-05-21'
 description: 'Ollama · 2025-05-21 · Multimodal Input: Support for Alibaba''s Qwen
   3 and Qwen 2 architectures in Ollama''s new [multimodal…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 610
+  lag_days: 2378
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5c36ad43424b744fdbe6479c43dbdaecd557e96b094d2da07f102e382de09c49
+machine_hash: d8d63b036d14520e3fe1d12317212f836eeb9f113545ecd771b5dc5c087b4419
 product: ollama
 product_name: Ollama
 record:
@@ -53,12 +53,11 @@ record:
   title: Support for Alibaba's Qwen 3 and Qwen 2 architectures in Ollama's new [multimodal…
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-05-13-2-multimodal-input-changes-in-v0-7-0|2 Multimodal Input
-  changes in v0.7.0]]'
 - '[[Changes/Dify/2025-05-15-feat-api-add-image-multimodal-support-for-llmnode-by-quantumghost-in-https-githu|feat(api):
   Add image multimodal support for LLMNode]]'
 - '[[Changes/Runway/2025-05-16-gen-4-image-is-now-available-via-the-runway-api-allowing-anyone-to-integrate-its|Gen-4
   Image in Runway API]]'
+- '[[Changes/Descript/2025-05-20-ai-video-maker-updates|AI video maker updates]]'
 source_release: '[[Releases/Ollama/ollama-2025-05-21-v0-7-1-github-220192658-4b7cc997|ollama-2025-05-21-v0-7-1-github-220192658-4b7cc997]]'
 source_type: github_releases
 theme: multimodal
@@ -88,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-05-16 · Runway · [[Changes/Runway/2025-05-16-gen-4-image-is-now-available-via-the-runway-api-allowing-anyone-to-integrate-its|Gen-4 Image in Runway API]]
+- Earlier: 2025-05-20 · Descript · [[Changes/Descript/2025-05-20-ai-video-maker-updates|AI video maker updates]]
 - Later: 2025-06-03 · Manus · [[Changes/Manus/2025-06-03-manus-transforms-your-prompts-into-complete-stories-structured-sequenced-and-rea|Introducing Manus video generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-09-20'
 description: 'Dify · 2024-09-20 · Multimodal Input: feat: add hunyuan-vision by @muzea
   in https://github.com/langgenius/dify/pull/8529'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 367
+  lag_days: 2135
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 612a656766e16be184bc4d4e9025014c8dd5c1c7e6618985f5db1493cb39ef82
+machine_hash: 74ec1242eb682a4ac355210a5076d60eaf4456ae4aad6773c4c5e9ce435cb5e9
 product: dify
 product_name: Dify
 record:
@@ -40,12 +40,12 @@ record:
   title: 'feat: add hunyuan-vision'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-22-2-multimodal-input-changes-in-0-6-4|2 Multimodal Input
-  changes in 0.6.4]]'
-- "[[Changes/Open WebUI/2024-05-02-youtube-rag-pipeline-introduces-dedicated-rag-pipeline-for-youtube-videos-enabli|\U0001F4F9
-  Youtube RAG Pipeline]]"
-- '[[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3
-  Alpha Text to Video]]'
+- '[[Changes/Descript/2024-08-27-improved-aliasing-issues-when-downscaling-images-and-video|Improved
+  aliasing issues when downscaling images and video]]'
+- '[[Changes/Synthesia/2024-08-29-set-a-default-brand-kit-and-we-ll-apply-your-colors-fonts-logos-and-avatars-auto|Create
+  on-brand videos with Brand Kit 2.0]]'
+- '[[Changes/Descript/2024-08-30-borders-and-shadows-on-media-layers|Borders and shadows
+  on media layers]]'
 source_release: '[[Releases/Dify/dify-2024-09-20-0-8-3-github-176083684-f9381a70|dify-2024-09-20-0-8-3-github-176083684-f9381a70]]'
 source_type: github_releases
 theme: multimodal
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-07-01 · Runway · [[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3 Alpha Text to Video]]
+- Earlier: 2024-08-30 · Descript · [[Changes/Descript/2024-08-30-borders-and-shadows-on-media-layers|Borders and shadows on media layers]]
 - Later: 2024-09-26 · Runway · [[Changes/Runway/2024-09-26-iterate-faster-than-ever-before-with-video-to-video-in-gen-3-alpha-turbo|Video to Video in Gen-3 Alpha Turbo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

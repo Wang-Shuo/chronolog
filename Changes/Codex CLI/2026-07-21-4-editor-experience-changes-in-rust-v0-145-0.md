@@ -4,20 +4,19 @@ date: '2026-07-21'
 description: 'Codex CLI · 2026-07-21 · Editor Experience: 4 changes in 0.145.0 — #32628
   Improve composer completion target resolution @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1225
+  lag_days: 2809
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80fe834135e49befc8ec3178659c404bf5b0e3fa532621aeb070bd2aaf3cb278
+machine_hash: d708b8b010634e141392925cd7a3e8ea6bed73a97c5cecd3c79c0fa06270852b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -112,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-07-18'
 description: 'Replit · 2025-07-18 · Mobile and Desktop: Stay informed about your usage
   with push notifications! You''ll now receive alerts when you reach your usage warning…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 857
+  lag_days: 2441
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c643afe7e26af32865b4af9c6de1779fe6f717973796bdfbf2ffca3b56b01cf0
+machine_hash: 7dbf984f76076c52399bfd03516c1fb8f60e6bc09080481ddba3929dc1a2021c
 product: replit
 product_name: Replit
 record:
@@ -44,8 +44,8 @@ record:
   title: Mobile push notifications for usage alerts
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-07-14-seamless-iphone-image-uploads-effortlessly-upload-photos-from-iphones-and-other|\U0001F4F7
-  Seamless iPhone Image Uploads]]"
+- '[[Changes/Descript/2025-07-15-new-in-labs-upload-from-mobile|New in Labs—Upload
+  from Mobile]]'
 - '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
   mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
 - '[[Changes/Ollama/2025-07-18-ollama-s-new-app-is-available-for-macos-and-windows-download-ollama-https-ollama|Ollama''s
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

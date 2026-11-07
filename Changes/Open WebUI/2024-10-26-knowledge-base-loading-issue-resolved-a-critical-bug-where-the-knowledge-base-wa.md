@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-10-26 · Files and Data: **\U0001F4DA Knowledge
   Loading Issue**: Resolved a critical bug where the Knowledge Base was not loading,
   ensuring smooth…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 520
+  lag_days: 1865
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e44fd3f91e65970f7521239775064f5dff43bb885d11f58403beda28dbd9943
+machine_hash: 56f0f6b481d0156959a7491b14afaff50c854d31c73da58cd103bc0597ec8c30
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: "**\U0001F4DA Knowledge Base Loading Issue**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-23-file-upload-corrections-resolved-multiple-issues-affecting-file-uploads-for-smoo|File
-  Upload Corrections]]'
+- '[[Changes/Notion/2024-10-24-layouts-to-customize-your-page|Layouts to customize
+  your page]]'
 - "[[Changes/Open WebUI/2024-10-24-enhanced-knowledge-collection-now-you-can-reference-individual-files-from-a-know|\U0001F4DA
   Enhanced Knowledge Collection]]"
 - "[[Changes/Open WebUI/2024-10-26-s3-file-upload-issue-fixed-a-problem-affecting-s3-file-uploads-ensuring-smooth-o|\U0001F4BC
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

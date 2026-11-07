@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e71be693dfe2196109b5f056e81795baf49734173e2350a382fb0e7eb62a3da0
+machine_hash: 4560b9070c61fc578b3645986223baa4d2a5052604fff13ca0af6a8bd2dcc778
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.65.0
 ## Nearby in Model Support
 
 - Earlier: 2025-12-04 · Cline · [[Changes/Cline/2025-12-04-feat-set-default-thinking-level-for-gemini-3-pro-models-by-abeatrix-in-https-git|feat: set default thinking level for Gemini 3 Pro models]]
-- Later: 2025-12-04 · Gemini · [[Changes/Gemini/2025-12-04-solve-even-more-complex-problems-with-gemini-3-deep-think|Solve even more complex problems with Gemini 3 Deep Think]]
+- Later: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-new-generative-video-and-image-models|New generative video and image models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

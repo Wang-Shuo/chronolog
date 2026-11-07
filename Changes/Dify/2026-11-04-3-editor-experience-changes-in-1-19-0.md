@@ -4,20 +4,19 @@ date: '2026-11-04'
 description: 'Dify · 2026-11-04 · Editor Experience: 3 changes in v1.19.0 - Trace
   Your Workflows, Layer by Layer — **Keep tracked defaults separate from local overrides.**…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1331
+  lag_days: 2915
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c00b9391e0ff59b089d341b3ae7a067152e55779c38f0fe7bd983458e09d4a0
+machine_hash: 862aabae10828ad6472c4e98ed8b6b5dbb70d031f812d3fa80114ae678e1308c
 product: dify
 product_name: Dify
 record:
@@ -120,7 +119,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

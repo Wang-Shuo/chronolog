@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-11-19 · Search and Browsing: 2 changes in v0.4
   **\U0001F514 Web Search & Tools Indicator**: A clear indication now shows when web
   search or tools…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 607
+  lag_days: 1636
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31a664a47dd16fa428f574f2db17f04edcc682c9e046625e34f60cc3d994fe41
+machine_hash: 9b13e44ce987542e0ebfe2e732396cd6200a369324669e7eca6f2b4521dbfbcf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.4.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

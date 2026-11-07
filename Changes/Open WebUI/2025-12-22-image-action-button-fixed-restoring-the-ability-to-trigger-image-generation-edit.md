@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-12-22 · Image Generation: \U0001F3A8 **Image a
   button fixed**, restoring the ability to trigger image generation, editing, and
   related image…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 652
+  lag_days: 910
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8d7ef6334707840b430baf4a7bcc4b79d911c948714b06f464a2700e17a1e46
+machine_hash: 55b464fc38c101f1d3ecd76633abdb314996821a19d6ffb114fd26fd49c48037
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
     image generation…"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-12-02-image-generation-in-temporary-chats-was-fixed-by-correctly-handling-local-chat-s|\U0001F3A8
-  Image generation in temporary chats was fixed by correctly handling local chat…]]"
+- '[[Changes/Descript/2025-12-04-flux-2-pro-now-available-for-image-generation|Flux
+  2 Pro now available for image generation]]'
 - '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT
   Images on Web and Mobile (iOS & Android)]]'
 - '[[Changes/Open WebUI/2025-12-21-4-image-generation-changes-in-v0-6-42|4 Image Generation
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

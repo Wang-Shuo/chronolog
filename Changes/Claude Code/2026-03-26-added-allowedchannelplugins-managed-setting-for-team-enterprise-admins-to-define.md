@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Claude Code · 2026-03-26 · Enterprise and Administration: Added `allowedChannelPlugins`
   managed setting for team/enterprise admins to define a channel plugin…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1056
+  lag_days: 2263
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47e1fbc80d3bd29b43d123e5a360205cd8433c23ce623a7a1fe3c0e6ccdb9995
+machine_hash: 76d5514fd0a6b456819c5949f218770c9c5183ab95f46b4be4ecd8057e0016a8
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,9 +53,10 @@ record:
     to define…
   type: change
 related_changes:
-- '[[Changes/Replit/2026-03-20-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2026-03-20-enterprise-audit-log-portal|Enterprise Audit Log Portal]]'
 - '[[Changes/ElevenLabs/2026-03-25-workspace|Workspace]]'
+- '[[Changes/HeyGen/2026-03-25-we-expanded-admin-controls-for-enterprise-workspaces-here-is-a-summary-of-what-c|We
+  expanded admin controls for Enterprise workspaces]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -93,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-03-25 · ElevenLabs · [[Changes/ElevenLabs/2026-03-25-workspace|Workspace]]
+- Earlier: 2026-03-25 · HeyGen · [[Changes/HeyGen/2026-03-25-we-expanded-admin-controls-for-enterprise-workspaces-here-is-a-summary-of-what-c|We expanded admin controls for Enterprise workspaces]]
 - Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789 Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

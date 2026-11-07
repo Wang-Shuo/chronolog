@@ -4,20 +4,20 @@ date: '2026-02-07'
 description: 'GitHub Copilot CLI · 2026-02-07 · Pricing Model: Display warning when
   user has no Copilot subscription'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1150
+  lag_days: 2768
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 56abd6c8de17b3ee11396910a2bcf1fc16b7f8c7df5dd5a1b7a99818f8fa633c
+machine_hash: 722ed11bca77e0fc57e8f0087328bd6b47dd4af25c78e372c98c92a07badb3c5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,11 @@ record:
   title: Display warning when user has no Copilot subscription
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed
-  misleading Anthropic API pricing from model selector for third-party…]]'
-- '[[Changes/Codex CLI/2026-02-04-10274-add-credits-tooltip-pakrym-oai|♯10274 Add
-  credits tooltip @pakrym-oai]]'
-- '[[Changes/Cline/2026-02-05-codex-5-3-through-chatgpt-subscription|Codex-5.3 through
-  ChatGPT subscription]]'
+- '[[Changes/HeyGen/2026-02-06-today-we-re-making-credits-and-premium-usage-even-more-clear-and-accessible|Today,
+  we''re making credits and premium usage even more clear and accessible]]'
+- '[[Changes/HeyGen/2026-02-06-2-generative-credits-premium-credits|"Generative Credits"
+  → "Premium Credits"]]'
+- '[[Changes/HeyGen/2026-02-06-try-it-now|Try it now]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-07-v0-0-406-github-284060687-b4a44242|github-copilot-cli-2026-02-07-v0-0-406-github-284060687-b4a44242]]'
 source_type: github_releases
 theme: pricing-model
@@ -78,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-02-05 · Cline · [[Changes/Cline/2026-02-05-codex-5-3-through-chatgpt-subscription|Codex-5.3 through ChatGPT subscription]]
-- Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-to-support-the-stateful-pause-resume-mechanism-required-by-hitl-and-provide-even|To support the stateful pause/resume mechanism required by HITL and provide…]]
+- Earlier: 2026-02-06 · HeyGen · [[Changes/HeyGen/2026-02-06-try-it-now|Try it now]]
+- Later: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-accounts-billing|Accounts & Billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

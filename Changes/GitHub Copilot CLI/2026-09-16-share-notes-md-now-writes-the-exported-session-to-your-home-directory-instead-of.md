@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-09-16 · Collaboration: `--share=~/note
   now writes the exported session to your home directory instead of creating a folder
   named…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1211
+  lag_days: 2805
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2f51429aadfe7b078e9e7afcdd8fa5ac8b27944e74ea20df3d66f08642ee871
+machine_hash: 2f597338eef6748fdfbbea3ce7cc0300ae2185a5cf3f5111a4b2428ce6cf6327
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +47,12 @@ record:
     instead…'
   type: change
 related_changes:
-- '[[Changes/v0/2026-09-10-new-chats-created-in-a-team-workspace-are-now-visible-to-the-team-by-default-mak|Team
-  chats are easier to discover and collaborate on]]'
-- '[[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing
-  settings for connections]]'
-- '[[Changes/OpenClaw/2026-09-11-3-collaboration-changes-in-v2026-9-4|3 Collaboration
-  changes in v2026.9.4]]'
+- '[[Changes/Notion/2026-09-15-every-ai-skill-your-team-needs-in-one-library|Every
+  AI skill your team needs, in one library]]'
+- '[[Changes/Notion/2026-09-15-take-your-team-s-skills-to-claude-code-codex-cursor-and-more|Take
+  your team’s skills to Claude Code, Codex, Cursor, and more]]'
+- '[[Changes/Notion/2026-09-15-you-know-how-some-people-are-really-good-at-prompting-ai-or-they-ve-figured-out|You
+  know how some people are really good at prompting AI?]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: collaboration
@@ -96,14 +97,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-3-collaboration-changes-in-v2026-9-4|3 Collaboration changes in v2026.9.4]]
+- Earlier: 2026-09-15 · Notion · [[Changes/Notion/2026-09-15-you-know-how-some-people-are-really-good-at-prompting-ai-or-they-ve-figured-out|You know how some people are really good at prompting AI?]]
 - Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354 Extract shared footer hint wrapping in the TUI @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

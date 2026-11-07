@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-14 · Enterprise and Administration: \U0001F
   **SCIM cannot delete admins.** An identity provider can no longer delete administrator
   accounts…"
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1258
+  lag_days: 2465
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bfde4bafcdf5a0a9ad2e58a81c613a922a59a3162f612e89d786b5232d7f4b8a
+machine_hash: 90ed496975997ee555b5e1477278be764328cf8d22eb393acb90cd64ed7478d1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,10 +54,9 @@ record:
     delete…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep
-  /allow-all available during startup while enterprise policy is still resolving]]'
-- '[[Changes/Google Antigravity/2026-10-12-when-antigravity-gets-a-specific-reason-for-an-error-such-as-a-model-your-admini|When
-  Antigravity gets a specific reason for an error, such as a model…]]'
+- '[[Changes/HeyGen/2026-10-13-member-usage-limits-and-requests|Member usage limits
+  and requests]]'
+- '[[Changes/HeyGen/2026-10-13-look-packs-over-the-api|Look Packs over the API]]'
 - "[[Changes/Open WebUI/2026-10-14-translated-model-prompt-suggestions-editing-the-prompt-suggestions-of-a-model-th|\U0001F4AC
   Translated model prompt suggestions. Editing the prompt suggestions of a model…]]"
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d|open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d]]'
@@ -97,13 +96,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-translated-model-prompt-suggestions-editing-the-prompt-suggestions-of-a-model-th|💬 Translated model prompt suggestions. Editing the prompt suggestions of a model…]]
-- Later: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications are now open to labs at U.S. universities]]
+- Later: 2026-10-14 · Qoder · [[Changes/Qoder/2026-10-14-locked-use-beta-on-macos-14-4-or-later-enable-locked-use-in-settings-computer-us|Locked use (Beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

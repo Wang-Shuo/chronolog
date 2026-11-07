@@ -4,20 +4,20 @@ date: '2025-04-08'
 description: 'Cline · 2025-04-08 · Context Window: Make context shortening more intelligent
   when model hits context window–now old file contents are removed from…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 705
+  lag_days: 2029
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 337db49d70f14db5451823d348d73a7816fbcda3ebea4096ad780d2ceb62ce90
+machine_hash: 28eae1bbbbf0aac74e21ba144ceb325d873e283f0b0b05bc6cb46faf214bae68
 product: cline
 product_name: Cline
 record:
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

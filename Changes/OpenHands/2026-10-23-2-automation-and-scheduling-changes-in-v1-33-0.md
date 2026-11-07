@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'OpenHands · 2026-10-23 · Automation and Scheduling: 2 changes in v1.33.0
   — style(automations): restyle template filter chips as a draggable scroll rail by…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1025
+  lag_days: 2592
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 92faec3d77ebe4a2cea55a5b705fb5c32b5a037de823709172fa70b2379960b9
+machine_hash: e21bfdd214061c04078b4b2583366ad8b505a419290ad9a579aefdc06fd08e7b
 product: openhands
 product_name: OpenHands
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.33.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

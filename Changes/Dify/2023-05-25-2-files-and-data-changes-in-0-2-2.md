@@ -4,20 +4,20 @@ date: '2023-05-25'
 description: 'Dify · 2023-05-25 · Files and Data: 2 changes in Version 0.2.2 — Add
   Japanese Documents by @eltociear in https://github.com/langgenius/dify/pull/96'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1345
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 277f01bc9da0de5a7137187db216d47f6ca80001095626b0ec9a1aafb49d84a7
+machine_hash: 237d624cacc0780662e5196e86503b16e174f0db117d7e3afbe69a67a7efcafb
 product: dify
 product_name: Dify
 record:
@@ -41,6 +41,12 @@ record:
   theme: file-data
   title: 2 Files and Data changes in 0.2.2
   type: change
+related_changes:
+- '[[Changes/Synthesia/2023-03-10-drop-videos-right-on-your-canvas-you-can-easily-drop-multiple-videos-on-your-can|Video-to-canvas]]'
+- '[[Changes/Descript/2023-05-01-drag-and-drop-to-canvas-dragging-media-files-into-the-canvas-now-adds-to-the-scr|Drag
+  and drop to canvas]]'
+- '[[Changes/Descript/2023-05-13-improved-visibility-into-sync-status-now-providing-more-information-on-the-progr|Improved
+  visibility into sync status, now providing more information on the progress…]]'
 source_release: '[[Releases/Dify/dify-2023-05-25-0-2-2-github-104243099-ca2d5724|dify-2023-05-25-0-2-2-github-104243099-ca2d5724]]'
 source_type: github_releases
 theme: file-data
@@ -75,13 +81,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.2.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Later: 2023-06-07 · Gemini · [[Changes/Gemini/2023-06-07-bard-codes-for-you-for-improved-math-and-data-analysis|Bard codes for you for improved math and data analysis]]
+- Earlier: 2023-05-13 · Descript · [[Changes/Descript/2023-05-13-improved-visibility-into-sync-status-now-providing-more-information-on-the-progr|Improved visibility into sync status, now providing more information on the progress…]]
+- Later: 2023-05-31 · Descript · [[Changes/Descript/2023-05-31-timeline-reflects-layer-order-layer-order-in-the-timeline-https-help-descript-co|Timeline reflects layer order]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

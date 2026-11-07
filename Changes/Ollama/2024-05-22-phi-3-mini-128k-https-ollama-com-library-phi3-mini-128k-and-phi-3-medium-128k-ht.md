@@ -4,20 +4,20 @@ date: '2024-05-22'
 description: 'Ollama · 2024-05-22 · Context Window: [Phi-3 Mini 128K](https://ollama.com/library/phi3:mini-128k)
   and [Phi-3 Medium…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 384
+  lag_days: 1708
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 34073dc5280567fd659e8f8e869dbd7117be29cec11f074487d37ce72dd6790a
+machine_hash: 8100b884eb1721797d3848056207fdbb1824bf4b9c929c8e5ca93c619aa6644b
 product: ollama
 product_name: Ollama
 record:
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

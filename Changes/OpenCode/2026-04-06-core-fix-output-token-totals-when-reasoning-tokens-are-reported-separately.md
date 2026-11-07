@@ -4,20 +4,20 @@ date: '2026-04-06'
 description: 'OpenCode · 2026-04-06 · Context Window: Core Fix output token totals
   when reasoning tokens are reported separately'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1068
+  lag_days: 2392
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: efdcb7c5ceb54b684f7a963d31b6a4780bb7bbe6c1b356355332acbf5c9716f1
+machine_hash: f318c447485e9712297662e267eb077e2f9957a3ec6726b7dbc7f5a29bafde97
 product: opencode
 product_name: OpenCode
 record:
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

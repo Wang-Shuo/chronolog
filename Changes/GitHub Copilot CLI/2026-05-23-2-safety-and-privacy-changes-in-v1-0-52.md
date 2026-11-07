@@ -4,20 +4,20 @@ date: '2026-05-23'
 description: 'GitHub Copilot CLI · 2026-05-23 · Safety and Privacy: 2 changes in 1.0.52
   — Switching to Autopilot mode no longer triggers unexpected permission prompts for…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1133
+  lag_days: 2125
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c02dd63fe0b9b18cc85e144bfe3c5359f4d8bc0aa3ed0fd426afee19fcbb7311
+machine_hash: 63a020c9c70238563dc23f0d775d9109b65d42586a105e83c7aa089a8a014c35
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.52
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-07-16'
 description: 'GitHub Copilot CLI · 2026-07-16 · Editor Experience: 5 changes in 1.0.71
   — Mark disabled skills in `copilot skill list` and its JSON output'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1220
+  lag_days: 2804
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d6d345110fbc5e7a7088efb29d9ef1a77ee82de141564d839a808db0ca79996
+machine_hash: f1385439c995534dceb8d4d5298d678efeb100d6892b3683dc04d918ae5e7143
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,10 +48,10 @@ record:
   title: 5 Editor Experience changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-13-desktop-added-middle-click-to-open-sessions-in-a-new-tab|Desktop
-  Added middle-click to open sessions in a new tab]]'
-- '[[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor
-  Experience changes in v2.1.208]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-microsoft-edge-v-149-modern-unified-and-updated-look-and-feel-web-microsoft-365|Microsoft
+  Edge: v.149 - Modern, unified, and updated Look and Feel…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-copilot-prompt-gallery-company-wide-prompt-publishing-windows-web-microsoft-365|Copilot
+  Prompt Gallery - Company-wide prompt publishing Windows…]]'
 - '[[Changes/OpenCode/2026-07-15-added-mod-n-as-another-shortcut-for-opening-a-new-tab|Added
   Mod+N as another shortcut for opening a new tab]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
@@ -114,7 +113,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

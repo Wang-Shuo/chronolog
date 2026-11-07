@@ -4,20 +4,20 @@ date: '2026-11-06'
 description: 'Codex CLI · 2026-11-06 · Apps and Integrations: 12 changes in 0.167.0
   — #57855 Load TUI plugin mentions from installed plugins @zamoshchin-openai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1324
+  lag_days: 2884
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0958d7b46ffc69b5a48a9811fc1de749e117051f1b155e2cb63a5f97d4fcf64
+machine_hash: e2c386573c26629388cb803f7bacf89abbe1410d2c9b94fdea5b3a65e0fb8076
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,12 +66,12 @@ record:
   title: 12 Apps and Integrations changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and
-  Integrations changes in 1.19.0]]'
 - '[[Changes/OpenClaw/2026-11-05-5-apps-and-integrations-changes-in-v2026-11-1|5 Apps
   and Integrations changes in v2026.11.1]]'
 - '[[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps
   and Integrations changes in v1.36.0]]'
+- '[[Changes/Qoder/2026-11-05-2-apps-and-integrations-changes-in-qoder-0-5-5|2 Apps
+  and Integrations changes in Qoder 0.5.5]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -136,14 +136,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps and Integrations changes in v1.36.0]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-89-apps-and-integrations-changes-in-v1-0-106|89 Apps and Integrations changes in v1.0.106]]
+- Earlier: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-2-apps-and-integrations-changes-in-qoder-0-5-5|2 Apps and Integrations changes in Qoder 0.5.5]]
+- Later: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-search-for-what-s-in-the-shot-b035ff|Search for what's in the shot]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

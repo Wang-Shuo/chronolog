@@ -3,20 +3,19 @@ card_id: midjourney-2026-08-27-29d360
 date: '2026-08-27'
 description: 'Midjourney · 2026-08-27 · Editor Experience: Type --edit url... on Discord'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1262
+  lag_days: 2846
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7b26ae7b6794b242f038fbdf4f27b6623fe7bb1674ebf7dfc226d1e29363d83
+machine_hash: 4efa9756f480d224999fa8cdaad673ab934d732b4d7ea5534d000fef3c41f197
 product: midjourney
 product_name: Midjourney
 record:
@@ -41,10 +40,10 @@ record:
   title: Type --edit url... on Discord
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn
-  it into a real repo, whenever you want]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add
   copilot app to open the GitHub Copilot app in the current directory]]'
+- '[[Changes/Kimi Code/2026-08-27-web-add-a-flat-by-workspace-tab-to-the-mobile-session-list|web:
+  Add a flat/by-workspace tab to the mobile session list]]'
 - '[[Changes/Midjourney/2026-08-27-click-edit-in-the-lower-right-in-the-lightbox|Click
   ‘edit’ in the lower right in the lightbox]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-08-27-https-updates-midjourney-com-edit-model-for-v8-d8d62f6e|midjourney-2026-08-27-https-updates-midjourney-com-edit-model-for-v8-d8d62f6e]]'
@@ -80,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add copilot app to open the GitHub Copilot app in the current directory]]
+- Earlier: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-web-add-a-flat-by-workspace-tab-to-the-mobile-session-list|web: Add a flat/by-workspace tab to the mobile session list]]
 - Later: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-keep-charts-synced-with-google-sheets|Keep charts synced with Google Sheets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

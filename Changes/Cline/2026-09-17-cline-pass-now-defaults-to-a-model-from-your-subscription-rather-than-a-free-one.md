@@ -5,20 +5,20 @@ description: 'Cline · 2026-09-17 · Pricing Model: Cline Pass now defaults to a
   from your subscription rather than a free one. Its model list contains both tiers
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1372
+  lag_days: 2990
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 379ee04e89be2d79e4d97689ce620d1aa99e13c33675bad38fec7f8be709ac6f
+machine_hash: 17d3a0655894d3353b558a9d777f907fd5f3361169cb240c8959aa2b62b69ac5
 product: cline
 product_name: Cline
 record:
@@ -104,13 +104,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-code-on-the-web-changed-a-routine-s-on-hold-notice-when-your-subscription|Claude Code on the web Changed a routine's on-hold notice]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode Added the session's cost and token usage to the Account & usage dialog…]]
+- Later: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-checkout-speaks-your-currency|Checkout speaks your currency]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

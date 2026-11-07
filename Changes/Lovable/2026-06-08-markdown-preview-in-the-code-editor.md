@@ -5,20 +5,19 @@ description: 'Lovable · 2026-06-08 · Editor Experience: Markdown files now hav
   preview toggle in the [code editor](https://docs.lovable.dev/features/code-mode.md).
   Open a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1182
+  lag_days: 2766
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2a9662addc1f1c0bc50dea16750fe4d541116c8a323274669748187a4d0e9c21
+machine_hash: 08bdc2e080382650abe8d5feba4ec164a49f8e766856eb1d1e5490ebf7de738f
 product: lovable
 product_name: Lovable
 record:
@@ -50,12 +49,12 @@ record:
   title: Markdown preview in the code editor
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit
-  messages with attachments]]'
 - '[[Changes/Claude Code/2026-06-08-background-sessions-now-preserve-ide-chrome-bare-remote-control-and-other-flags|Background
   sessions now preserve --ide, --chrome, --bare, --remote-control…]]'
 - '[[Changes/Codex CLI/2026-06-08-3-editor-experience-changes-in-rust-v0-138-0|3 Editor
   Experience changes in rust-v0.138.0]]'
+- '[[Changes/HeyGen/2026-06-08-speech-cleanup-is-now-available-inside-heygen-it-takes-a-single-recording-and-au|Speech
+  Cleanup is now available inside HeyGen]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-08-2026-06-08-4f50e6b2|lovable-2026-06-08-2026-06-08-4f50e6b2]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -86,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-3-editor-experience-changes-in-rust-v0-138-0|3 Editor Experience changes in rust-v0.138.0]]
+- Earlier: 2026-06-08 · HeyGen · [[Changes/HeyGen/2026-06-08-speech-cleanup-is-now-available-inside-heygen-it-takes-a-single-recording-and-au|Speech Cleanup is now available inside HeyGen]]
 - Later: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-v0-can-now-write-sql-for-you-in-db-studio-describe-the-query-you-want-and-v0-dra|v0 can now write SQL for you in DB Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

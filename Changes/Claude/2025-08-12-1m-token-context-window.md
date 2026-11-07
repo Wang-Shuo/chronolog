@@ -4,20 +4,20 @@ date: '2025-08-12'
 description: 'Claude · 2025-08-12 · Context Window: The 1M token context window for
   Claude Sonnet 4 is currently in beta for API organizations in usage tier 4, or with…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 831
+  lag_days: 2155
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 5220c0b4916668d1bbdecd501ff4e536093810460fcd10efb1070900bb5b4ba6
+machine_hash: d19638aa2ec446a1563d6c233d1e39a12089e87ab2f7035843832d4795a286a2
 product: claude
 product_name: Claude
 record:
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

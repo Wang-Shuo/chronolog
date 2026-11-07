@@ -5,20 +5,19 @@ description: 'Cursor · 2026-08-27 · Editor Experience: Once the agent''s build
   to your liking, click the Create repo button to save your work in an Origin repo.
   Choose a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1262
+  lag_days: 2846
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 532bfea9464578fb494035c491dad4b612cab91e9dc20cdfee4569711d652035
+machine_hash: 596794bbe46b0306cfcc754dea88cbe043ba89252b57a4b07853518002080086
 product: cursor
 product_name: Cursor
 record:
@@ -62,10 +61,10 @@ record:
   title: Turn it into a real repo, whenever you want
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added
-  the turn''s completion time to the end-of-turn duration line…]]'
-- '[[Changes/Dify/2026-08-25-4-editor-experience-changes-in-1-17-0|4 Editor Experience
-  changes in 1.17.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-updated-copilot-notebooks-ux-web-microsoft-365-copilot|Updated
+  Copilot Notebooks UX Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-unified-web-and-work-chat-experience-with-dedicated-work-iq-button-windows-web-m|Unified
+  web and work chat experience with dedicated Work IQ button Windows…]]'
 - '[[Changes/Open WebUI/2026-08-25-12-editor-experience-changes-in-v0-11-1|12 Editor
   Experience changes in v0.11.1]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae]]'
@@ -104,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b878975cf0debfe48a832dab0ca9d729b3aee44ca145a9fb5067148b578d269b
+machine_hash: 831c4bdf61bb6ba2f919f2c4400a584078605a63e4018ec19b9a6edafb2a9bd1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +45,12 @@ record:
   title: "**\U0001F30D i18n Updates**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-21-updated-translations-enhanced-translations-for-chinese-ukrainian-and-bahasa-mala|\U0001F30D
-  Updated Translations]]"
 - "[[Changes/Open WebUI/2024-09-04-accessibility-enhancements-added-missing-aria-labels-for-buttons-improving-acces|\U0001F3AD
   Accessibility Enhancements]]"
 - '[[Changes/Dify/2024-09-12-2-accessibility-and-localization-changes-in-0-8-1|2 Accessibility
   and Localization changes in 0.8.1]]'
+- '[[Changes/Synthesia/2024-09-12-give-every-viewer-the-right-language-version-with-easy-switching-localized-capti|Watch
+  videos in any language with Multilingual Player]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-19-v0-3-22-github-175998009-91af8aae|open-webui-2024-09-19-v0-3-22-github-175998009-91af8aae]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2024-09-12 · Dify · [[Changes/Dify/2024-09-12-2-accessibility-and-localization-changes-in-0-8-1|2 Accessibility and Localization changes in 0.8.1]]
+- Earlier: 2024-09-12 · Synthesia · [[Changes/Synthesia/2024-09-12-give-every-viewer-the-right-language-version-with-easy-switching-localized-capti|Watch videos in any language with Multilingual Player]]
 - Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-added-english-versions-for-customizable-model-scale-documentation-to-broaden-acc|Added English versions for customizable model scale documentation to broaden…]]
 <!-- chronolog:end -->
 

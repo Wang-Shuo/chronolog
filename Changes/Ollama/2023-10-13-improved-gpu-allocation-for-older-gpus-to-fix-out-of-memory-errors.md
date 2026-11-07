@@ -4,20 +4,20 @@ date: '2023-10-13'
 description: 'Ollama · 2023-10-13 · Reliability and Performance: Improved GPU allocation
   for older GPUs to fix "out of memory" errors'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 302
+  lag_days: 1789
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be28484d68dd67fbe63b5ec5c75b54566e5d9d693b0886a926989e9da8842825
+machine_hash: fa88de40ed1de7bd7bef491ddc653da17a110c5315e0cb3f87a6fe8a9137ab9f
 product: ollama
 product_name: Ollama
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-10-12 · Ollama · [[Changes/Ollama/2023-10-12-2-reliability-and-performance-changes-in-v0-1-2|2 Reliability and Performance changes in v0.1.2]]
-- Later: 2023-10-20 · Ollama · [[Changes/Ollama/2023-10-20-ollama-run-will-now-show-more-descriptive-errors-when-encountering-runtime-issue|ollama run will now show more descriptive errors when encountering runtime issues…]]
+- Later: 2023-10-17 · Descript · [[Changes/Descript/2023-10-17-a-major-advancement-in-speed-quality-of-ai-speech|A major advancement in speed & quality of AI speech]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

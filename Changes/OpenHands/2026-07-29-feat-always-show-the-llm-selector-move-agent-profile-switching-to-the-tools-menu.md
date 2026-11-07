@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 42db73454eb8bc5d6355e95e8a4a51ac10d3cfe4d098c9ef0e04fef63643f231
+machine_hash: 67798364cbab0f4d2a096f4d956504151c84ecf42e856d903000e8c275461c21
 product: openhands
 product_name: OpenHands
 record:
@@ -59,11 +59,11 @@ record:
     tools menu'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-11-agent-mode-changes-in-rust-v0-146-0|11 Agent
-  Mode changes in rust-v0.146.0]]'
-- '[[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A
-  full review surface]]'
 - '[[Changes/Cursor/2026-07-29-inbox|Inbox]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-enable-adaptive-card-refresh-in-custom-engine-agents-web-microsoft-365-copilot-e|Enable
+  adaptive card refresh in custom engine agents…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-sharepoint-list-support-in-agent-builder-windows-web-microsoft-365-copilot-exten|SharePoint
+  list support in Agent Builder Windows…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c|openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c]]'
 source_type: github_releases
 theme: agent-mode
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-inbox|Inbox]]
+- Earlier: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-sharepoint-list-support-in-agent-builder-windows-web-microsoft-365-copilot-exten|SharePoint list support in Agent Builder Windows…]]
 - Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76|2 Agent Mode changes in v1.0.76]]
 <!-- chronolog:end -->
 

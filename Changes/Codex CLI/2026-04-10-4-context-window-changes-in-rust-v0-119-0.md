@@ -4,20 +4,20 @@ date: '2026-04-10'
 description: 'Codex CLI · 2026-04-10 · Context Window: 4 changes in 0.119.0 — #16745
   [codex] allow disabling environment context injection @tibo-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1072
+  lag_days: 2396
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3cb9fd990ed3b270de9fc6a7349bd5edf223bdc36b0942070cb8837408fd5a0
+machine_hash: bb5e4a1e2d828a9052082fa7a4f9ef39afc71668bd2eeedc072b70dca01550cb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

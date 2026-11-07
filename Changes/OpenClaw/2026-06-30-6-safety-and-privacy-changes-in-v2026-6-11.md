@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'OpenClaw · 2026-06-30 · Safety and Privacy: 6 changes in v2026.6.11
   — Control UI users now get the patched DOMPurify release, reducing exposure to the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1171
+  lag_days: 2163
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ae5da32f9b665c0862098534594bb7a8d19ce6b8017584d6d40dd98ed254597
+machine_hash: 08b0fccec0922accd7bbbef42d59ec43ea6df8f7fc23737be435251c30989ce6
 product: openclaw
 product_name: OpenClaw
 record:
@@ -135,7 +135,7 @@ Source: https://docs.openclaw.ai/releases/2026.6.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-21 · Voice and Audio: 2 changes in v2.1.30
   [VSCode] Added a notice on the microphone button when voice dictation stops by itself
   (15…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1199
+  lag_days: 3026
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45f2a7fe3b996c8d43d75199a16f312d63ade5c086170081c7c50fd55ed2f634
+machine_hash: 1da8cc2573a3670983a930a1da95cab6d3a0fc814769740cd2d1aeb4ac3eb5e1
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.307
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

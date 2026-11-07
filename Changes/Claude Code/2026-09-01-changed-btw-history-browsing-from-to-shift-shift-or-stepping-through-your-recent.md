@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-01 · Search and Browsing: Changed `/btw` h
   browsing from `←`/`→` to `Shift+←`/`Shift+→` (or `[`/`]`), stepping through your
   recent…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1258
+  lag_days: 2287
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22a6f8d61a59a796443c36a76aced177f815519319b1c4e7ed8bbba418d5ef14
+machine_hash: 248b0cdb63c596783807893315868860c3ff82501fa1320f20f9f87dac68c721
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Changed `/btw` history browsing from `←`/`→` to `Shift+←`/`Shift+→` (or `[`/`]`)…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-21-desktop-keep-file-search-results-visible-while-the-next-search-is-loading|Desktop
-  Keep file search results visible while the next search is loading]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-open-outlook-emails-within-copilot-chat-windows-mac-web-microsoft-365-copilot|Open
+  Outlook emails within Copilot Chat Windows, Mac, Web (Microsoft 365 Copilot)]]'
 - '[[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search
   and Browsing changes in v0.11.1]]'
 - '[[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews|See
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

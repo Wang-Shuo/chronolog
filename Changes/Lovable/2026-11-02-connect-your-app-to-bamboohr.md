@@ -5,20 +5,20 @@ description: 'Lovable · 2026-11-02 · Apps and Integrations: You can now connec
   Lovable app to [BambooHR](https://docs.lovable.dev/integrations/bamboohr.md) to
   look up…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1320
+  lag_days: 2880
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d3af38bb0880f2c7cb8c077c88962652609f9007e861dcea8a8e679dccdd1a48
+machine_hash: 13ac3791b97644a225dc50ca0fe082f06236b48a666254b2cdcb4458e9675491
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +49,8 @@ record:
   title: Connect your app to BambooHR
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-tui-plugins-require-opentui-0-8|TUI plugins require
-  OpenTUI 0.8]]'
+- '[[Changes/Qoder/2026-10-30-3-apps-and-integrations-changes-in-qoder-0-5-1|3 Apps
+  and Integrations changes in Qoder 0.5.1]]'
 - '[[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7
   Apps and Integrations changes in v2.1.316]]'
 - '[[Changes/ElevenLabs/2026-11-02-channel-integrations-asynchronous-channels-such-as-slack-telegram-intercom-gmail|Channel
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

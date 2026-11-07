@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e1007e84e7439249803a366329ce25314e9cfe1cc4f7294c21b5a1a746dd5db4
+machine_hash: 18d8465539494873b90899492413eb14ed6a9d4793cba2383339115514310ca0
 product: gemini
 product_name: Gemini
 record:
@@ -64,12 +64,12 @@ record:
   title: Solve even more complex problems with Gemini 3 Deep Think
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-03-add-apply-patch-toolchain-for-openai-codex-models|Add
-  apply_patch toolchain for OpenAI Codex models]]'
 - '[[Changes/Cline/2025-12-04-feat-set-default-thinking-level-for-gemini-3-pro-models-by-abeatrix-in-https-git|feat:
   set default thinking level for Gemini 3 Pro models]]'
 - '[[Changes/Codex CLI/2025-12-04-6-model-support-changes-in-rust-v0-65-0|6 Model
   Support changes in rust-v0.65.0]]'
+- '[[Changes/Descript/2025-12-04-new-generative-video-and-image-models|New generative
+  video and image models]]'
 source_release: '[[Releases/Gemini/gemini-2025-12-04-2025-12-04-845b44b3|gemini-2025-12-04-2025-12-04-845b44b3]]'
 source_type: gemini_changelog
 theme: model-support
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-6-model-support-changes-in-rust-v0-65-0|6 Model Support changes in rust-v0.65.0]]
+- Earlier: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-new-generative-video-and-image-models|New generative video and image models]]
 - Later: 2025-12-04 · Windsurf · [[Changes/Windsurf/2025-12-04-1-12-39-gpt-5-1-codex-max-changelog-banner|1.12.39 GPT-5.1 Codex Max changelog banner]]
 <!-- chronolog:end -->
 

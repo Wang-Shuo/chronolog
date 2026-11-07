@@ -5,19 +5,20 @@ description: 'Codex CLI · 2026-04-30 · Developer Workflow: 14 changes in 0.128
   Added `codex update`, configurable TUI keymaps, plan-mode nudges, action-required
   terminal…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1139
+  lag_days: 2788
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85b224cf7a4a3b278dd7e00d4439c4242ff57b5a93952f5eb7d48b8493891bbc
+machine_hash: c332debf8210fb07fe3b2abd5269ef203e5976954ce168f2430a2b66d9d09cc8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -153,7 +154,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.128.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

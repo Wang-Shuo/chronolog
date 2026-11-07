@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e3c8a305ac6fd9c9f5de4eea1ea26f09edff7df00f1205dc9b94fe96ebc2045
+machine_hash: c0b4f37188659b420e67fb535229b4664882923e926b9c6e098899ed82e1d3f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in v2.1.234
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-14-2-model-support-changes-in-v4-1-10|2 Model Support changes
-  in v4.1.10]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-14-update-model-configurations|Update model
   configurations]]'
+- '[[Changes/Notion/2026-08-14-no-more-guessing-which-model-to-use|Model selection,
+  simplified]]'
 - '[[Changes/Ollama/2026-08-15-llm-transcode-webp-images-for-llama-server|llm: transcode
   WebP images for llama-server]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'

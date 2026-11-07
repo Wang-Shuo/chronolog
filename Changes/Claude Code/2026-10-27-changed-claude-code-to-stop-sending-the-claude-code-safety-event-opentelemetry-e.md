@@ -4,20 +4,20 @@ date: '2026-10-27'
 description: 'Claude Code · 2026-10-27 · Safety and Privacy: Changed Claude Code to
   stop sending the `claude_code.safety_event` OpenTelemetry event'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1290
+  lag_days: 2282
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75ae27d3d5eb6ae6b0bd9285e3e14e42633a3d78d1a3e358d91caa5c514e8bbe
+machine_hash: 9892978a356bee2b6251d7331be9a610af645d9d7bc7c0b08e7b6c5118c9b119
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     event
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-changed-startup-warnings-about-permission-rules-in-settings-files-to-show-once-p|Changed
-  startup warnings about permission rules in settings files to show once per…]]'
 - '[[Changes/Cline/2026-10-26-starting-or-resuming-a-cloud-sandbox-shows-a-progress-card-with-the-repo-branch|Starting
   or resuming a cloud sandbox shows a progress card with the repo, branch…]]'
 - '[[Changes/ElevenLabs/2026-10-26-voice-cloning-permissions-members-without-the-create-instant-voice-clone-or-crea|Voice
   cloning permissions]]'
+- '[[Changes/Kimi Code/2026-10-26-merge-the-two-repeated-permission-mode-notice-lines-in-the-swarm-and-goal-start|Merge
+  the two repeated permission-mode notice lines in the swarm and goal start…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-voice-cloning-permissions-members-without-the-create-instant-voice-clone-or-crea|Voice cloning permissions]]
+- Earlier: 2026-10-26 · Kimi Code · [[Changes/Kimi Code/2026-10-26-merge-the-two-repeated-permission-mode-notice-lines-in-the-swarm-and-goal-start|Merge the two repeated permission-mode notice lines in the swarm and goal start…]]
 - Later: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-3-safety-and-privacy-changes-in-rust-v0-165-0|3 Safety and Privacy changes in rust-v0.165.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-07-20'
 description: 'OpenCode · 2026-07-20 · Developer Workflow: Sync the embedded terminal
   theme with the app theme'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1220
+  lag_days: 2869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 89b81161d134ca2ba94a4f7b7d9017fead975290320b1bc38b5fe4f2d222a289
+machine_hash: b85d97f67aeb232d9bb3748bf63287fd5bd6a0c85b75b6ea112f01ea5e322c73
 product: opencode
 product_name: OpenCode
 record:
@@ -40,12 +41,12 @@ record:
   title: Sync the embedded terminal theme with the app theme
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude
-  no longer runs the /verify and /code-review skills on its own]]'
-- '[[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer
-  Workflow changes in v2.1.216]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-8-developer-workflow-changes-in-v1-0-72|8
   Developer Workflow changes in v1.0.72]]'
+- '[[Changes/Kimi Code/2026-07-20-2-developer-workflow-changes-in-kimi-code-0-28-0|2
+  Developer Workflow changes in Kimi Code 0.28.0]]'
+- '[[Changes/Kimi Code/2026-07-20-run-web-servers-foreground-only-end-to-end-the-web-slash-command-now-always-star|Run
+  web servers foreground-only end to end]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-20-v1-18-4-528cd10f|opencode-2026-07-20-v1-18-4-528cd10f]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -79,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-8-developer-workflow-changes-in-v1-0-72|8 Developer Workflow changes in v1.0.72]]
+- Earlier: 2026-07-20 · Kimi Code · [[Changes/Kimi Code/2026-07-20-run-web-servers-foreground-only-end-to-end-the-web-slash-command-now-always-star|Run web servers foreground-only end to end]]
 - Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved footer PR badge links to be clickable hyperlinks even when terminal support…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

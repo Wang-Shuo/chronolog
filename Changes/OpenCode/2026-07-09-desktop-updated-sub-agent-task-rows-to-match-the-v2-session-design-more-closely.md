@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5111ec30f26d6840d0489eae6dbd1a4fbd0ed1096e1d4e22e524da4c2f2608f1
+machine_hash: d18c02dc09557843dd2fa046319c20227012ea3df4e0b497ec2e01f7799d4cb4
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,12 @@ record:
   title: Desktop Updated sub-agent task rows to match the v2 session design more closely
   type: change
 related_changes:
-- '[[Changes/Runway/2026-07-08-agent-can-now-build-custom-skills-for-you-ask-it-to-create-one-from-scratch-or-t|Custom
-  Agent Skills]]'
 - '[[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT
   Work is an agent for longer, more involved tasks]]'
 - '[[Changes/Codex CLI/2026-07-09-4-agent-mode-changes-in-rust-v0-144-0|4 Agent Mode
   changes in rust-v0.144.0]]'
+- '[[Changes/Notion/2026-07-09-build-and-iterate-on-workers-with-your-team-or-share-one-so-teammates-can-connec|Build
+  and iterate on Workers with your team]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-09-v1-17-18-b71f8b4a|opencode-2026-07-09-v1-17-18-b71f8b4a]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-4-agent-mode-changes-in-rust-v0-144-0|4 Agent Mode changes in rust-v0.144.0]]
+- Earlier: 2026-07-09 · Notion · [[Changes/Notion/2026-07-09-build-and-iterate-on-workers-with-your-team-or-share-one-so-teammates-can-connec|Build and iterate on Workers with your team]]
 - Later: 2026-07-09 · OpenHands · [[Changes/OpenHands/2026-07-09-feat-enterprise-agent-profiles-on-the-cloud-saas-backend-15044-by-simonrosenberg|feat(enterprise): Agent Profiles on the cloud/SaaS backend (♯15044)]]
 <!-- chronolog:end -->
 

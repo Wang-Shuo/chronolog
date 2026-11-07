@@ -5,20 +5,19 @@ description: 'Cursor · 2026-05-07 · Editor Experience: /multitask is now avail
   in the editor for running async subagents to parallelize your requests instead of
   adding…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1150
+  lag_days: 2734
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0d6e902a4a3e3b93fb6364463807fddce9a61cc647a69776d6e6c543fb5b4052
+machine_hash: def57139f583e0f1d44528dbf7695a16d8d482d694e3dc67e6f3fbd143d7944e
 product: cursor
 product_name: Cursor
 record:
@@ -55,8 +54,8 @@ record:
     parallelize…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-05-4-editor-experience-changes-in-v1-0-41|4
-  Editor Experience changes in v1.0.41]]'
+- '[[Changes/Synthesia/2026-05-06-edit-original-and-translated-dubbing-transcripts-without-validation-blockers-wit|Correct
+  dubbing transcripts seamlessly]]'
 - '[[Changes/Codex CLI/2026-05-07-4-editor-experience-changes-in-rust-v0-129-0|4 Editor
   Experience changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-improved-prompt-input-undo-grouping-so-undo-redo-feels-more-natural-during-edits|Improved
@@ -104,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

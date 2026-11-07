@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67c1fe0d00fa03d859aa03c3515ecbd7613b3f3783f50fba463edb374fe1aaf3
+machine_hash: 6c0bf0f258acd4354baf16a287c72cb7be8e1c0dfdaaafa277b661a2395dee8a
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Model Support changes in v1.1.16
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-8-model-support-changes-in-1-11-3|8 Model Support changes
-  in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-retrieving-models-handles-network-errors-from-firewalled-routes-gracefully-raise|Retrieving
   models handles network errors from firewalled routes gracefully, raises…]]'
 - '[[Changes/Google Antigravity/2026-01-13-updated-tab-model-architecture|Updated
   tab model architecture]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-build-smarter-agents-with-gpt-5-in-agent-builder-android-windows-ios-mac-web-mic|Build
+  smarter agents with GPT-5 in Agent Builder Android, Windows, iOS, Mac…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-13-v1-1-16-6a736e6f|opencode-2026-01-13-v1-1-16-6a736e6f]]'
 source_type: opencode_changelog
 theme: model-support
@@ -90,7 +90,7 @@ Source: https://opencode.ai/changelog/v1.1.16
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-13 · Google Antigravity · [[Changes/Google Antigravity/2026-01-13-updated-tab-model-architecture|Updated tab model architecture]]
+- Earlier: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-build-smarter-agents-with-gpt-5-in-agent-builder-android-windows-ios-mac-web-mic|Build smarter agents with GPT-5 in Agent Builder Android, Windows, iOS, Mac…]]
 - Later: 2026-01-14 · Cline · [[Changes/Cline/2026-01-14-add-gpt-5-2-codex-openai-model-support|Add gpt-5.2-codex OpenAI model support]]
 <!-- chronolog:end -->
 

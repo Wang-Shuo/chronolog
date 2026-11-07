@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-01-05 · Interface Experience: 2 changes in v0.
   — **\U0001F4AC Channel Thread Loading with 50+ Messages**: Resolved an issue where
   channel threads…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 727
+  lag_days: 2093
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 383486514966fb8726f815825d0e7ef2bbbed4c7cb3b9e3a54bdea93caa749e6
+machine_hash: c8ecef82a480efcf6d52241daff9d43b2ac8de3267ed283d14c9562d34ab1005
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,13 +92,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.4
 ## Nearby in Interface Experience
 
 - Earlier: 2025-01-03 · Replit · [[Changes/Replit/2025-01-03-menu-search-feature|Menu search feature]]
-- Later: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]
+- Later: 2025-01-07 · Descript · [[Changes/Descript/2025-01-07-jibber-jabber-is-no-more|Jibber Jabber is no more]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

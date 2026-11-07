@@ -5,20 +5,20 @@ description: 'Lovable · 2026-06-01 · Safety and Privacy: **App login methods m
   to *Privacy & security***. Workspace admins and owners on Business and Enterprise
   plans…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1142
+  lag_days: 2134
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81898dd296e0c7150004b7c82ca5247eefd9263616faf7e018523beb047a465e
+machine_hash: b4856d0974086f354f03c2041e0d6570d651c2b60554e95257ab371a47ae0797
 product: lovable
 product_name: Lovable
 record:
@@ -75,8 +75,8 @@ record:
   title: Improvements and bug fixes
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety
-  and Privacy changes in v2.1.157]]'
+- '[[Changes/Synthesia/2026-05-29-members-on-free-and-restricted-licenses-can-now-edit-scripts-and-add-screen-reco|Let
+  free workspace members help you edit]]'
 - '[[Changes/Codex CLI/2026-06-01-11-safety-and-privacy-changes-in-rust-v0-136-0|11
   Safety and Privacy changes in rust-v0.136.0]]'
 - '[[Changes/Lovable/2026-06-01-automatic-fixes-for-basic-scan-findings|Automatic
@@ -123,7 +123,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: 'Codex CLI · 2026-05-28 · Developer Workflow: `codex doctor` now 
   richer environment, Git, terminal, app-server, and thread inventory diagnostics
   for…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1167
+  lag_days: 2816
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 68b87df6d68acdb2b460b5ded4a8dfa0ae57f1f5b7c9d3b0922d06e525562dc4
+machine_hash: c55798198287f7c8d7c51b23d925da693a469c9c04eeca7df0f83c0bf88b29ee
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-07-16 · Collaboration: 2 changes in 1.
   — Keep /share file session and /share html session from using the full-session selector
   as…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1149
+  lag_days: 2743
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 040e91fb140a01cf6c2efc3f622d233d4fbf1443f99243d6d91d4ece2ae9cc3c
+machine_hash: 054244d349bbaf60ec695ef8b46e6757b12663dd77c5e1e53013a944ebd76409
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +45,8 @@ record:
   title: 2 Collaboration changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-31587-stabilize-shared-rollout-budget-test-jif-oai|♯31587
-  Stabilize shared rollout budget test @jif-oai]]'
+- '[[Changes/Notion/2026-07-09-you-can-now-share-your-notion-workers|Share your Notion
+  Workers]]'
 - '[[Changes/ElevenLabs/2026-07-13-workspaces|Workspaces]]'
 - '[[Changes/OpenClaw/2026-07-13-20-collaboration-changes-in-v2026-7-1|20 Collaboration
   changes in v2026.7.1]]'
@@ -102,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

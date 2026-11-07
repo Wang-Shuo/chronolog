@@ -4,20 +4,20 @@ date: '2025-07-25'
 description: 'Midjourney · 2025-07-25 · Multimodal Input: To get a higher-quality
   .mp4, click one of the virtual upscale buttons on a video'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 675
+  lag_days: 2443
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b01e7396f8c9bf20110e59ae1faa6fcc4ee723fd075a01bf531dd8d87164c427
+machine_hash: 13321ebbb4883f4d698e6c566634eeebd06c2da278d50b3fa10303b7718f13ea
 product: midjourney
 product_name: Midjourney
 record:
@@ -46,11 +46,12 @@ record:
     a video
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-30-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/Gemini CLI/2025-07-11-feature-commands-refactor-slash-command-vision-for-the-future-by-abhipatel12-in|feature(commands)
   - Refactor Slash Command + Vision For the Future]]'
 - '[[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add
   vision capability to moonshot v1]]'
+- '[[Changes/Descript/2025-07-17-add-branding-to-video-pages-showcase-your-logo-and-drive-name-on-published-pages|Add
+  branding to video pages - Showcase your logo and Drive name on published…]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-07-25-https-updates-midjourney-com-looping-and-end-frame-for-video-vid-41d087fb|midjourney-2025-07-25-https-updates-midjourney-com-looping-and-end-frame-for-video-vid-41d087fb]]'
 source_type: midjourney_changelog
 theme: multimodal
@@ -83,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-07-16 · Cline · [[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add vision capability to moonshot v1]]
+- Earlier: 2025-07-17 · Descript · [[Changes/Descript/2025-07-17-add-branding-to-video-pages-showcase-your-logo-and-drive-name-on-published-pages|Add branding to video pages - Showcase your logo and Drive name on published…]]
 - Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core): Parse Multimodal MCP Tool responses]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

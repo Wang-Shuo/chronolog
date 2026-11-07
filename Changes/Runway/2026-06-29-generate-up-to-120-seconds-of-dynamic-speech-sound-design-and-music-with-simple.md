@@ -4,20 +4,20 @@ date: '2026-06-29'
 description: 'Runway · 2026-06-29 · Music Generation: Generate up to 120 seconds of
   dynamic speech, sound design and music with simple text prompts.'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 919
+  lag_days: 2385
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d65999fddde5dd1f2ca822758cbb7f16d5b3122cd7ddb01db94b94183199318b
+machine_hash: 22722862cc2843c3120763377eca7375e11257828295926d01f2decd35e8c52f
 product: runway
 product_name: Runway
 record:
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

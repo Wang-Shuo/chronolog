@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ad4c9ea182df37d1b8b2bf760369744ae91bca2bcebf8fdb9e560c8e9f467525
+machine_hash: 9c83b21f22cd945aad844535a1f39e0b8062c20108b744e8375518835a645532
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -52,10 +52,10 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Runway/2026-07-23-agent-can-now-build-and-run-entire-workflows-for-you-just-describe-what-you-want|Agent
-  Workflows]]'
 - '[[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode
   changes in v2.1.219]]'
+- '[[Changes/Kimi Code/2026-07-24-add-experimental-secondary-model-bindings-for-newly-spawned-subagents-including|Add
+  experimental secondary-model bindings for newly spawned subagents, including…]]'
 - '[[Changes/OpenCode/2026-07-24-desktop-keep-the-prompt-input-agent-toggle-in-sync|Desktop
   Keep the prompt input agent toggle in sync]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-07-27-2026-07-27-29809f38|elevenlabs-2026-07-27-2026-07-27-29809f38]]'

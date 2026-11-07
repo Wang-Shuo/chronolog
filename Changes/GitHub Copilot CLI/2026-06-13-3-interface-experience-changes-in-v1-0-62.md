@@ -4,20 +4,20 @@ date: '2026-06-13'
 description: 'GitHub Copilot CLI · 2026-06-13 · Interface Experience: 3 changes in
   1.0.62 — Add content search, match highlighting, and n/N navigation in diff view'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1251
+  lag_days: 2617
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 599d22e3d9bbd3c5b9fedcb068344b912e52817a3e277d42c21afba2d4cc4891
+machine_hash: 16d85274831585e528d7cb81644ec8a9567375e7501ec2d0f9a4c3e968787508
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Interface Experience changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-11-2-interface-experience-changes-in-hub-v2-1-4-quota-screen-redesign|2
-  Interface Experience changes in HUB v2.1.4 — Quota Screen Redesign…]]'
 - '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
   footerLinksRegexes setting for regex-matched link badges in the footer row…]]'
 - '[[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added
   wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]'
+- '[[Changes/Kimi Code/2026-06-12-wrap-long-command-and-skill-descriptions-in-the-autocomplete-menu-onto-a-second|Wrap
+  long command and skill descriptions in the autocomplete menu onto a second line…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: interface-experience
@@ -98,14 +98,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.62
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]
+- Earlier: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-wrap-long-command-and-skill-descriptions-in-the-autocomplete-menu-onto-a-second|Wrap long command and skill descriptions in the autocomplete menu onto a second line…]]
 - Later: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-core-fixed-duplicate-renderable-ids-that-could-break-tui-rendering|Core Fixed duplicate renderable IDs that could break TUI rendering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

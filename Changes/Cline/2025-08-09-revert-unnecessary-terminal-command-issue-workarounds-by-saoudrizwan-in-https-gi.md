@@ -4,19 +4,20 @@ date: '2025-08-09'
 description: 'Cline · 2025-08-09 · Developer Workflow: Revert unnecessary terminal
   command issue workarounds by @saoudrizwan in https://github.com/cline/cline/pull/5463'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 875
+  lag_days: 2524
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 03c07002a6859e1d3fc5d081c4951ededb540349c13035acda13c7bc2d8ac465
+machine_hash: b619c658bc2e67272150f67dd30c6b080fe41f4f75bd85ab9b5aa31451beac25
 product: cline
 product_name: Cline
 record:
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

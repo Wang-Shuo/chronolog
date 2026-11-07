@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-02-18 · Context Window: 3 changes in Release v
   — feat(context): implement observation masking for tool outputs by @abhipatel12
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1021
+  lag_days: 2345
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 662a758520a8eb715bbf4c6db0d7e15e489bd23eaf531f3acb37d88321d5444c
+machine_hash: d5d475b23cc09ad5555d54250d6e7696da6fd17c0e50a1f4110c30d4b41d95d4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.29.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

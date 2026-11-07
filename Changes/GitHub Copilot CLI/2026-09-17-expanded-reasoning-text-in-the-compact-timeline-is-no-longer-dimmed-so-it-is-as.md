@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8a1d12d4bf3825ca1122d4a3afa0486e866fb1e9bffc728208fd9f837bbc16a0
+machine_hash: bfdf70c8ee5b62681b22420848dd53f372996ad72d7275f2064451c45b2cb243
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: Expanded reasoning text in the compact timeline is no longer dimmed, so it…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-a-send-now-key-ctrl-enter-or-ctrl-x-ctrl-s-that-interrupts-the-current-tur|Added
-  a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn…]]'
 - '[[Changes/Cline/2026-09-17-13-model-support-changes-in-v4-1-19|13 Model Support
   changes in v4.1.19]]'
 - '[[Changes/Codex CLI/2026-09-17-13-model-support-changes-in-rust-v0-155-0|13 Model
   Support changes in rust-v0.155.0]]'
+- '[[Changes/Descript/2026-09-17-a-better-center-active-speaker|A better center active
+  speaker]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-17-v1-0-86-github-391108341-867b13f9|github-copilot-cli-2026-09-17-v1-0-86-github-391108341-867b13f9]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-13-model-support-changes-in-rust-v0-155-0|13 Model Support changes in rust-v0.155.0]]
+- Earlier: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-a-better-center-active-speaker|A better center active speaker]]
 - Later: 2026-09-17 · OpenHands · [[Changes/OpenHands/2026-09-17-test-isolate-mock-llm-profiles-from-ambient-secrets-by-neubig-in-https-github-co|test: isolate Mock-LLM profiles from ambient secrets]]
 <!-- chronolog:end -->
 

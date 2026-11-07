@@ -4,20 +4,20 @@ date: '2026-03-19'
 description: 'Codex CLI · 2026-03-19 · Voice and Audio: 2 changes in 0.116.0 — Realtime
   sessions now start with recent thread context and are less likely to self-interrupt…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 983
+  lag_days: 2810
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d82b154c5ea72a16458b0beae6214b07755f6550e080cefcde323b9b37e1c439
+machine_hash: 73364987394ab5d4caff58f32762dfbed514d58f3c3855c1508503098da25572
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,9 +43,10 @@ record:
   title: 2 Voice and Audio changes in rust-v0.116.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-4-voice-and-audio-changes-in-rust-v0-115-0|4 Voice
-  and Audio changes in rust-v0.115.0]]'
-- '[[Changes/ElevenLabs/2026-03-16-packages|Packages]]'
+- '[[Changes/Descript/2026-03-17-improved-lip-sync-quality-for-translated-videos|Improved
+  lip sync quality for translated videos]]'
+- '[[Changes/Descript/2026-03-17-pacing-and-intonation-are-better-preserved-so-regenerated-audio-blends-more-smoo|Pacing
+  and intonation are better preserved, so regenerated audio blends more…]]'
 - '[[Changes/Gemini CLI/2026-03-17-feat-voice-implement-speech-friendly-response-formatter-by-ayush31010-in-https-g|feat(voice):
   implement speech-friendly response formatter]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd|codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd]]'
@@ -97,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.116.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-02-28'
 description: 'Dify · 2024-02-28 · Voice and Audio: Voice audition by @charli117 in
   https://github.com/langgenius/dify/pull/2504'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 233
+  lag_days: 2060
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31d687e358dc972327108d98935c87f9668bc318a1fd4fc7bad82b5719d23708
+machine_hash: d0edb91584d6a7bd20def4a520509eafd4e12d7cf0e928b0df2a2f02146e6838
 product: dify
 product_name: Dify
 record:
@@ -40,10 +40,9 @@ record:
   title: Voice audition
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat
-  to supercharge your ideas in the Gemini app]]'
 - '[[Changes/Dify/2024-02-19-5-voice-and-audio-changes-in-0-5-6|5 Voice and Audio
   changes in 0.5.6]]'
+- '[[Changes/Descript/2024-02-20-new-stock-voice|New Stock Voice]]'
 - '[[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3
   Alpha has better audio quality and increased expressiveness among other heavily…]]'
 source_release: '[[Releases/Dify/dify-2024-02-28-0-5-7-github-143968174-dc5f7626|dify-2024-02-28-0-5-7-github-143968174-dc5f7626]]'
@@ -79,13 +78,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-02-22 · Suno · [[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3 Alpha has better audio quality and increased expressiveness among other heavily…]]
-- Later: 2024-04-16 · Runway · [[Changes/Runway/2024-04-16-use-lip-sync-audio-to-video-directly-from-within-the-gen-2-tool|Lip Sync in Gen-2]]
+- Later: 2024-03-04 · Descript · [[Changes/Descript/2024-03-04-housekeeping-updates|Housekeeping updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

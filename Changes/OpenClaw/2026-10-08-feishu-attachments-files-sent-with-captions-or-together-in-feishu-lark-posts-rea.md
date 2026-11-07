@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-10-08 · Multimodal Input: Feishu attachments. Fi
   sent with captions or together in Feishu/Lark posts reach the agent as documents
   instead of…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1115
+  lag_days: 2883
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 38de6b63b8a8c999ff2502eb423a657a774e0b1a8b02312932765b02e4fadf52
+machine_hash: df04d966571cb7275136d3ed7faa62b9bc76a01a1d043c5dc5f83bcd8e2326c7
 product: openclaw
 product_name: OpenClaw
 record:
@@ -59,12 +59,12 @@ record:
   title: Feishu attachments
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-the-browser-sidebar-gains-a-download-file-button-for-the-image-video-or-document|The
-  Browser sidebar gains a Download file button for the image, video, or document…]]'
 - '[[Changes/Ollama/2026-09-29-clef-27b-and-clef-flash-9b-are-multimodal-requests-can-now-include-images-alongs|Clef
   (27B) and Clef Flash (9B) are multimodal]]'
 - '[[Changes/OpenClaw/2026-09-30-4-multimodal-input-changes-in-v2026-9-7|4 Multimodal
   Input changes in v2026.9.7]]'
+- '[[Changes/Synthesia/2026-10-06-say-how-long-you-want-your-video-in-your-prompt-so-the-assistant-plans-an-outlin|Match
+  video length to your prompt]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-08-v2026-9-9-933614cc|openclaw-2026-10-08-v2026-9-9-933614cc]]'
 source_type: openclaw_changelog
 theme: multimodal
@@ -108,14 +108,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-4-multimodal-input-changes-in-v2026-9-7|4 Multimodal Input changes in v2026.9.7]]
+- Earlier: 2026-10-06 · Synthesia · [[Changes/Synthesia/2026-10-06-say-how-long-you-want-your-video-in-your-prompt-so-the-assistant-plans-an-outlin|Match video length to your prompt]]
 - Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-video-previews-new-video-previews-can-download-media-before-play|Video previews: New video previews can download media before Play]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

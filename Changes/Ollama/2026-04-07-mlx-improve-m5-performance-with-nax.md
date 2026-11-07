@@ -4,20 +4,20 @@ date: '2026-04-07'
 description: 'Ollama · 2026-04-07 · Reliability and Performance: mlx: Improve M5 performance
   with NAX'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1209
+  lag_days: 2696
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9334675375f097ceefc14bd27ce6bcb0119bf117d5b3f33cd61714f4b5ddcdfb
+machine_hash: bdb44932417cc01e7cf191adf4d20d85f3fa2cd40ded425ef49f42cb1b0559ee
 product: ollama
 product_name: Ollama
 record:
@@ -74,13 +74,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce memory usage by automatically shutting down shell sessions that are no longer…]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-fixed-a-memory-leak-where-remote-control-permission-handler-entries-were-retaine|Fixed a memory leak where Remote Control permission handler entries were retained…]]
+- Later: 2026-04-08 · HeyGen · [[Changes/HeyGen/2026-04-08-long-form-stability|Long-form stability]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

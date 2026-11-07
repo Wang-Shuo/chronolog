@@ -4,20 +4,20 @@ date: '2026-08-04'
 description: 'OpenCode · 2026-08-04 · Mobile and Desktop: 7 changes in v1.18.13 —
   Desktop Added early right-to-left layout support across the app and session views.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1239
+  lag_days: 2823
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd24540339c18a87de994a813c4e5316ba619c51625fb62d2f2faa8811b073e0
+machine_hash: 277fa426589aa4a408a6c631ea1c3b11bcd5ce7209a5519651f1248c9b3b9d2f
 product: opencode
 product_name: OpenCode
 record:
@@ -115,7 +115,7 @@ Source: https://opencode.ai/changelog/v1.18.13
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,21 @@ date: '2026-02-11'
 description: 'GitHub Copilot CLI · 2026-02-11 · Account and Access: 2 changes in 0.0.407
   — Improve authentication error messages in prompt mode'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1049
+  lag_days: 2024
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a60159f107e1d8045cb238f8d110a739795dd47ec3de008ff5c15884524e3f6f
+machine_hash: 9abe2eef2412d9e61c5c7c95fa40bd02311d33445efbfecf3c6c5d6546820825
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +44,10 @@ record:
   title: 2 Account and Access changes in v0.0.407
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode:
-  Added support for remote sessions, allowing OAuth users to browse and resume…]]'
 - '[[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core):
   mock fetch in OAuth transport fallback tests]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-admins-can-set-up-connector-authentication-faster-with-a-simplified-experience-w|Admins
+  can set up connector authentication faster with a simplified experience…]]'
 - '[[Changes/OpenCode/2026-02-10-desktop-include-basic-authentication-in-app|Desktop
   Include basic authentication in app]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-11-v0-0-407-github-285416009-ed3cb109|github-copilot-cli-2026-02-11-v0-0-407-github-285416009-ed3cb109]]'
@@ -97,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.407
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

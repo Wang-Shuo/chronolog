@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-05-10 · Context Window: \U0001F510 **File owne
   in folder and knowledge attachments.** Attaching files to folders or knowledge bases
   now verifies…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1102
+  lag_days: 2426
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e215262007654c79abf0f6956ab2834addbe04c8abee9b2a11d80de7fd44d125
+machine_hash: b76b7de8f9e032e0bfb2963097fe8aceae155c7da869980a0e2eb1752fda6ba4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-06-02 · Developer Workflow: 2 changes in v2.1
   — `acceptEdits` mode now prompts before writing build-tool config files that grant
   code…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1172
+  lag_days: 2821
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6eccf97d13117d3c714dd1982bcbe68566dbcd0e21b128398137cf8aaa72fc36
+machine_hash: 7e1e8bc64ceba55e07b5c350c30fc206c65bbc3df863c6f46f2ba163cefb7c58
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.160
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

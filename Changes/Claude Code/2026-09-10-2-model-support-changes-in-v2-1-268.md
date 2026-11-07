@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 284ca85fe259c8ae69b603ace7eaf59a83813bf39460fb65e33a888db31fe2c0
+machine_hash: cf59e91d6c137159f7e661a7016770164babeab8edb750b2eaa8ba396c54d47b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Model Support changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat:
-  enable LLM provider connections on cloud]]'
+- '[[Changes/Qoder/2026-09-09-2-model-support-changes-in-qoder-0-2-2|2 Model Support
+  changes in Qoder 0.2.2]]'
 - '[[Changes/Suno/2026-09-09-the-v6-family-of-models-enables-new-possibilities|The
   v6 family of models enables new possibilities]]'
 - '[[Changes/Suno/2026-09-09-introducing-the-v6-family-of-music-models|Introducing

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 603406c805d8946433eb4babfb7b78ffce611167dbd3963f6d536024791977d3
+machine_hash: a7a8241798e7cd0f5b65e37708972ff0d7e7349311de10ed449f9943e3369af3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.100
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-elevenagents-ee74ab|ElevenAgents]]
-- Later: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-3-agent-mode-changes-in-v1-28-0|3 Agent Mode changes in v1.28.0]]
+- Later: 2026-10-19 · Notion · [[Changes/Notion/2026-10-19-we-rebuilt-our-agent-harness-again|We rebuilt our agent harness]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

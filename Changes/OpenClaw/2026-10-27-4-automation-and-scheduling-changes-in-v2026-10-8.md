@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-10-27 · Automation and Scheduling: 4 changes in 
   — Cron scripts can use the current plugin hooks on their next run after a plugin
   is…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1029
+  lag_days: 2596
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca0d7a32b5d8056e229c7dc611c76447f99568ab61ecb880765b508e35bc7c94
+machine_hash: e583d55530e4a84d0929794081f6c8a8df5a5086d38875c6cfd626be8e961214
 product: openclaw
 product_name: OpenClaw
 record:
@@ -114,7 +114,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.8
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

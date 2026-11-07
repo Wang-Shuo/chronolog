@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-11-06 · Safety and Privacy: 34 changes
   1.0.106 — Add a Sandbox extensions setting to run extension processes inside the
   sandbox'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1300
+  lag_days: 2292
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0fac02910f6dd1a2c9bff3bfcafc2769a5c02c19863a11e9bc3405353bf7a889
+machine_hash: 0ac9893d445acc57ea99d19cf57a6f8ab51fcd8bfe1e283a8709d5b0c4b937bc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -155,10 +155,10 @@ record:
   title: 34 Safety and Privacy changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-11-04-fix-acp-include-mcp-server-and-tool-metadata-in-permission-requests-by-duvanka-p|fix(acp):
-  include MCP server and tool metadata in permission requests]]'
 - '[[Changes/OpenClaw/2026-11-05-2-safety-and-privacy-changes-in-v2026-11-1|2 Safety
   and Privacy changes in v2026.11.1]]'
+- '[[Changes/Qoder/2026-11-05-local-extension-installation-install-plugins-and-skills-by-dragging-or-pasting-f|Local
+  extension installation: Install plugins and Skills by dragging or pasting files]]'
 - '[[Changes/Codex CLI/2026-11-06-57985-skip-read-only-volume-root-expansion-in-the-mxc-sandbox-iceweasel-oai|♯57985
   Skip read-only volume-root expansion in the MXC sandbox @iceweasel-oai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
@@ -283,7 +283,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

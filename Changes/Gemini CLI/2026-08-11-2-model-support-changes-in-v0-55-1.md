@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d198d6fb21359eb82a04c791cb4db77ea28ff8ab248941691d8e31af2d3c72f0
+machine_hash: 4f212949e64bfeb8de0298ebce6a49d0a7b17d8edf8b0e588c521018945e0e0f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.55.1
 ## Nearby in Model Support
 
 - Earlier: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-2-model-support-changes-in-v4-1-8|2 Model Support changes in v4.1.8]]
-- Later: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-improved-the-model-selector-dropdown-to-choose-thinking-levels-per-model-low-med|Improved the model selector dropdown to choose thinking levels per-model…]]
+- Later: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-choose-anthropic-models-when-editing-with-copilot-in-word-web-word|Choose Anthropic models when editing with Copilot in Word Web (Word)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

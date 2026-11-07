@@ -5,20 +5,21 @@ description: 'Dify · 2026-10-23 · Account and Access: 6 changes in v1.18.0 —
   Agent Routing, Portable Apps, Deeper Workflow Visibility — > **Read the upgrade
   guide…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1303
+  lag_days: 2278
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ab6b0533b4c0b105f900c435a6d79d83e79434b66e6ec803f6326ab1c28f432
+machine_hash: 1b02e7e5bbd41c15e3a2685c8a3ae5e7fad4f10758813528fbcde510580e24a9
 product: dify
 product_name: Dify
 record:
@@ -131,7 +132,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.18.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

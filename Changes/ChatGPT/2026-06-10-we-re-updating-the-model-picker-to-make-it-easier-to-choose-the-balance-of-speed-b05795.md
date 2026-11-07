@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-06-10 · Interface Experience: We’re updating th
   picker to make it easier to choose the balance of speed and reasoning effort that
   works…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1248
+  lag_days: 2614
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4d1a47d1de16e1ff9a88d38e4e6707016e2f39d1290f132009316ed5052a54ed
+machine_hash: b23711ea22d22e252e577d5702da853b9f28041743f514d2b5b425d9c6ad7366
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,10 +76,10 @@ record:
     speed…
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-08-3-interface-experience-changes-in-changelog-update|3 Interface
-  Experience changes in Changelog update]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2
   Interface Experience changes in v1.0.61]]'
+- '[[Changes/Kimi Code/2026-06-09-2-interface-experience-changes-in-kimi-code-0-12-0|2
+  Interface Experience changes in Kimi Code 0.12.0]]'
 - '[[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba]]'
 source_type: chatgpt_changelog
@@ -125,7 +125,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

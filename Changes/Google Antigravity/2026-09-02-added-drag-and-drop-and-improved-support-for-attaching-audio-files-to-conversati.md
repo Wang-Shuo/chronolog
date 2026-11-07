@@ -4,20 +4,20 @@ date: '2026-09-02'
 description: 'Google Antigravity · 2026-09-02 · Voice and Audio: Added drag-and-drop
   and improved support for attaching audio files to conversations, and fixed an issue…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1150
+  lag_days: 2977
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7d954e1a9fe9832f983c1d60c7e96d87d197f3c1b751c1dbb1b582526c8a6ffd
+machine_hash: d2a4e6923d361a4a7b2d8db6b9f25efbe379aba2186baf6c4cc3fed8a4034d21
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,12 +45,12 @@ record:
   title: Added drag-and-drop and improved support for attaching audio files to conversations…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To
-  continue a Voice conversation outside ChatGPT, turn on Background conversations…]]'
 - '[[Changes/OpenClaw/2026-08-31-2-voice-and-audio-changes-in-v2026-8-1|2 Voice and
   Audio changes in v2026.8.1]]'
 - '[[Changes/OpenClaw/2026-09-01-9-voice-and-audio-changes-in-v2026-8-2|9 Voice and
   Audio changes in v2026.8.2]]'
+- '[[Changes/Synthesia/2026-09-01-browse-featured-voices-filter-by-language-or-accent-and-preview-instantly-all-in|Find
+  the right voice faster with the refreshed voice picker]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-02-rel-hub-2-12-0-738d6e80|google-antigravity-2026-09-02-rel-hub-2-12-0-738d6e80]]'
 source_type: antigravity_changelog
 theme: voice
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-9-voice-and-audio-changes-in-v2026-8-2|9 Voice and Audio changes in v2026.8.2]]
+- Earlier: 2026-09-01 · Synthesia · [[Changes/Synthesia/2026-09-01-browse-featured-voices-filter-by-language-or-accent-and-preview-instantly-all-in|Find the right voice faster with the refreshed voice picker]]
 - Later: 2026-09-02 · Ollama · [[Changes/Ollama/2026-09-02-gemma4-now-supports-images-and-audio-on-mlx-engine|gemma4 now supports images and audio on MLX engine]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

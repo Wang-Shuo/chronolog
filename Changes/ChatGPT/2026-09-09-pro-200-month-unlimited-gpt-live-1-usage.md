@@ -4,20 +4,20 @@ date: '2026-09-09'
 description: 'ChatGPT · 2026-09-09 · Pricing Model: Pro ($200/month): Unlimited GPT-Live-1
   usage.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1364
+  lag_days: 2982
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 7af7dd8e2742c417a9e2f017aa8c5563f431adb7a0eff0992272a390ed01c341
+machine_hash: ca1c93c1133bc7119cb0d5461658aa3b27178609b621dec1d581a206dbd5ec16
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-pricing-model-changes-in-v2026-9-3|4 Pricing Model changes in v2026.9.3]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-pricing-model-changes-in-v2-1-268|2 Pricing Model changes in v2.1.268]]
+- Later: 2026-09-09 · Synthesia · [[Changes/Synthesia/2026-09-09-purchase-credits-and-set-automatic-top-ups-so-long-running-jobs-don-t-fail-when|Buy credits and set auto top-ups]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

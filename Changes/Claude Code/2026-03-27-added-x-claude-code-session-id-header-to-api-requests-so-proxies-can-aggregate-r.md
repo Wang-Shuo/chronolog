@@ -4,19 +4,20 @@ date: '2026-03-27'
 description: 'Claude Code · 2026-03-27 · Developer Workflow: Added `X-Claude-Code-Session-Id`
   header to API requests so proxies can aggregate requests by session without…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1105
+  lag_days: 2754
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 951b3266575422f0f0300fdd8efdfdd6f72abae180f8cc03b361112ebeb71eb4
+machine_hash: 4bc1217138d47263b9f966cabe2ca20ef8900cb6a68e7526fd86248abeb49cd8
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

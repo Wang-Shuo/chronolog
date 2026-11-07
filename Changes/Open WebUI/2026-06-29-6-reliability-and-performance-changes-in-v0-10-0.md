@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-06-29 · Reliability and Performance: 6 changes
   v0.10.0 — \U0001F680 **Much faster hybrid search on large knowledge bases.** Hybrid
   search now runs…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1292
+  lag_days: 2779
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e7d0f299536b521551a720643a7a9bceaee42d6c4caf5d0725ba5b397c487bc
+machine_hash: b86368b9431f58af92226e7450d4aac2bdda0f66551648d905919695f7d78cd3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -70,12 +70,12 @@ record:
   title: 6 Reliability and Performance changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-2-reliability-and-performance-changes-in-1-15-0|2 Reliability
-  and Performance changes in 1.15.0]]'
 - '[[Changes/Google Antigravity/2026-06-25-optimized-file-watching-notifications-to-prevent-visual-flickering-and-improve-p|Optimized
   file watching notifications to prevent visual flickering and improve…]]'
 - '[[Changes/Ollama/2026-06-25-llm-size-mmproj-offload-by-projector-memory-by-dhiltgen-in-https-github-com-olla|llm:
   size mmproj offload by projector memory]]'
+- '[[Changes/Kimi Code/2026-06-29-upgrade-web-markdown-renderer-dependencies-katex-markstream-vue-shiki-for-bug-fi|Upgrade
+  web markdown renderer dependencies (katex, markstream-vue, shiki) for bug…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
 source_type: github_releases
 theme: reliability-performance
@@ -136,14 +136,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-25 · Ollama · [[Changes/Ollama/2026-06-25-llm-size-mmproj-offload-by-projector-memory-by-dhiltgen-in-https-github-com-olla|llm: size mmproj offload by projector memory]]
+- Earlier: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-upgrade-web-markdown-renderer-dependencies-katex-markstream-vue-shiki-for-bug-fi|Upgrade web markdown renderer dependencies (katex, markstream-vue, shiki) for bug…]]
 - Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-perform-tokenizer-warmup-in-parallel-on-a-background-thread-for-better-startup-p|Perform tokenizer warmup in parallel on a background thread for better startup performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

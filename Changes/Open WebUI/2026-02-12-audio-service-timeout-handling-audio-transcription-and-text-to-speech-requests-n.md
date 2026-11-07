@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-02-12 · Voice and Audio: \U0001F50C **Audio se
   timeout handling.** Audio transcription and text-to-speech requests now have proper
   timeouts…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 948
+  lag_days: 2775
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2beeac7fa9858869b6fdce5ff3868f8b459abeaab2594a63faeb715e68b2a80
+machine_hash: f62e5feba746bf50223a67ced207a4ee26e788a5bbd7f16364f4aad819f1456e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,9 @@ record:
   title: "\U0001F50C **Audio service timeout handling.** Audio transcription and text-to-speech…"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-02-widget-packages|Widget Packages]]'
-- '[[Changes/ElevenLabs/2026-02-02-react-and-client-sdks|React and Client SDKs]]'
+- '[[Changes/Descript/2026-02-10-transcribe-into-uk-english|Transcribe into UK English]]'
+- '[[Changes/Descript/2026-02-10-better-lip-sync-and-timing-for-translations|Better
+  lip sync and timing for translations]]'
 - '[[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|ChatGPT
   Voice Update]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-12-v0-8-0-github-285910626-490914ba|open-webui-2026-02-12-v0-8-0-github-285910626-490914ba]]'
@@ -102,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

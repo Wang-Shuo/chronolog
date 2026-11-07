@@ -4,19 +4,20 @@ date: '2026-07-01'
 description: 'GitHub Copilot CLI · 2026-07-01 · Developer Workflow: 6 changes in 1.0.68
   — Stop hooks from erroring and denying every tool when a session''s working directory…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1201
+  lag_days: 2850
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9c13572ecd4f5f9868b5c43a5bfc3fb3c4942b503f8a15e576ab1d82d53c3c0
+machine_hash: 7d82f6f100bf05ee4f6da8ba07cf55906199bca5ae39db7c1397dd1ac1231e5a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -105,13 +106,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background agents launched from claude agents now commit, push, and open a draft…]]
-- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-5-developer-workflow-changes-in-v0-10-2|5 Developer Workflow changes in v0.10.2]]
+- Later: 2026-07-01 · Kimi Code · [[Changes/Kimi Code/2026-07-01-show-file-path-completions-when-typing-in-shell-mode|Show file path completions when typing / in shell mode (!)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

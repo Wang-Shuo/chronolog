@@ -5,19 +5,20 @@ description: 'OpenCode · 2026-04-10 · Developer Workflow: 2 changes in v1.4.3 
   Interrupted Bash commands now keep their final output and truncation details instead
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1119
+  lag_days: 2768
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6470afd21c5ee7ea3f36d1535f91a931f650e5a213f499f3c27784f0c9bd2331
+machine_hash: 9c55fe71c7f2c00e2d8fa1906e580cf5b5fd4a7508d04a04b49c752ec81a0fe4
 product: opencode
 product_name: OpenCode
 record:
@@ -89,7 +90,7 @@ Source: https://opencode.ai/changelog/v1.4.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

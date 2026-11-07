@@ -4,20 +4,20 @@ date: '2026-10-10'
 description: 'OpenClaw · 2026-10-10 · Mobile and Desktop: 15 changes in v2026.10.1
   — Supported Bun-only installations on macOS and Linux can run the ordinary openclaw…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1306
+  lag_days: 2890
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c349bc3b15f076f1c8b1639455d3f22375b7d4e2d827c6584432ec19dcc73efe
+machine_hash: b62152331de1d553b1fc5e5f8ddc88d11053d7fcbe863b170966b12833e188c2
 product: openclaw
 product_name: OpenClaw
 record:
@@ -212,7 +212,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

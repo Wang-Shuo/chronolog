@@ -4,20 +4,20 @@ date: '2026-07-08'
 description: 'Claude Code · 2026-07-08 · Safety and Privacy: Background task notifications
   now explicitly state that no human input has occurred, preventing fabricated…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1179
+  lag_days: 2171
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 162ce3daedbe3eb23ce6b4b0d25dca1e81a8f40e48e6c9ee5ed09bf40d45e475
+machine_hash: 39ce8016e64ab22c682390dc1b5336b3da273a598ee7e4a3d9dc41dd697dadc6
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     occurred…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|Added
-  a grey ⏸ badge to the footer when in manual permission mode, making the active…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-8-safety-and-privacy-changes-in-v1-0-69|8
   Safety and Privacy changes in v1.0.69]]'
+- '[[Changes/Kimi Code/2026-07-07-2-safety-and-privacy-changes-in-kimi-code-0-23-1|2
+  Safety and Privacy changes in Kimi Code 0.23.1]]'
 - '[[Changes/v0/2026-07-07-5-safety-and-privacy-changes-in-grouped-tool-approvals-richer-mcp|5
   Safety and Privacy changes in Grouped tool approvals, richer MCP…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

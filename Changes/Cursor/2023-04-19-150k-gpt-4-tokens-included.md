@@ -3,20 +3,20 @@ card_id: cursor-2023-04-19-66f3f5
 date: '2023-04-19'
 description: 'Cursor · 2023-04-19 · Pricing Model: 150k GPT-4 tokens included'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 125
+  lag_days: 1743
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 250a0f5b98ec6a9fbd3f45b92deed27ddcc64dd034ab9329a0f70a09342ffa5e
+machine_hash: 35ed6a800bd1755d6b73872da7b120177c948275afa884e3f24a5eedc1c9cb2f
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,10 @@ record:
   title: 150k GPT-4 tokens included
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-  limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
 - '[[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We
   rolled out the ability to purchase ChatGPT Plus internationally]]'
+- '[[Changes/Descript/2023-02-21-if-you-apply-and-are-approved-for-a-descript-educational-organization-plan-you-w|If
+  you apply and are approved for a Descript educational organization plan, you will…]]'
 - '[[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds
   an optional paid plan if you''d like to avoid the server capacity rate limits]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2|cursor-2023-04-19-0-2-6-https-cursor-com-changelog-0-2-6-a339bef2]]'
@@ -86,13 +86,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2023-03-27 · Cursor · [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]]
-- Later: 2023-06-14 · Dify · [[Changes/Dify/2023-06-14-feat-add-gpt-3-5-turbo-16k-support-and-update-openai-gpt-3-5-turbo-embedding-ada|feat: add gpt-3.5-turbo-16k support and update openai gpt-3.5-turbo & Embedding Ada…]]
+- Later: 2023-04-27 · Notion · [[Changes/Notion/2023-04-27-extended-free-access-for-startups-including-unlimited-ai|Extended free access for startups — including unlimited AI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

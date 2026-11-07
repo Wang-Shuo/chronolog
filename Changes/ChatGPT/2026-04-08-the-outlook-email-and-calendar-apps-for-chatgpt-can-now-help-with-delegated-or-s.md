@@ -4,20 +4,20 @@ date: '2026-04-08'
 description: 'ChatGPT · 2026-04-08 · Search and Browsing: The Outlook Email and Calendar
   apps for ChatGPT can now help with delegated or shared Outlook resources, when you…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1112
+  lag_days: 2141
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bfb3ad362138b973a05288b5bfbb605bed602b772530f8dae995ac3f96f8f458
+machine_hash: 665541465e990dd82ed518eeb618844bbc8664ef75fc7e63868b85877b00ffab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,12 +56,12 @@ record:
   title: Outlook shared mailboxes and calendars in ChatGPT
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-30-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep
-  and glob search results return promptly when a timeout is reached]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep
   and glob search results return promptly when a timeout is reached]]'
 - '[[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past
   chat transcripts are now surfaced directly in at-mention search results]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-07-code-interpreter-now-works-on-files-found-via-chat-search-microsoft-365-copilot|Code
+  interpreter now works on files found via Chat search…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-08-outlook-shared-mailboxes-and-calendars-in-chatgpt-51092ccc|chatgpt-2026-04-08-outlook-shared-mailboxes-and-calendars-in-chatgpt-51092ccc]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]]
+- Earlier: 2026-04-07 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-07-code-interpreter-now-works-on-files-found-via-chat-search-microsoft-365-copilot|Code interpreter now works on files found via Chat search…]]
 - Later: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-2-search-and-browsing-changes-in-rust-v0-120-0|2 Search and Browsing changes in rust-v0.120.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

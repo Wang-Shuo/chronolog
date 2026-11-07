@@ -4,20 +4,20 @@ date: '2026-06-13'
 description: 'GitHub Copilot CLI · 2026-06-13 · Context Window: Honor max_output_tokens
   for BYOK Responses providers'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1136
+  lag_days: 2460
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b3ad34dc26eceb3eb25c4c602e415160145889990be2e91b1e56754fd9024b5
+machine_hash: 9a3f763fa0e1f31af82c11345c50ca48028afbc0ee1e19098b429b374d3b60f2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Honor max_output_tokens for BYOK Responses providers
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-11-ask-side-questions-using-btw-while-in-a-conversation-type-btw-in-the-input-and-s|Ask
-  side questions using /btw]]'
 - '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode
   Added usage attribution to the Account & usage dialog (/usage) showing…]]'
+- '[[Changes/Kimi Code/2026-06-12-show-completed-and-cancelled-compaction-records-correctly-when-resuming-a-sessio|Show
+  completed and cancelled compaction records correctly when resuming a session]]'
 - '[[Changes/Ollama/2026-06-12-improved-prompt-caching-by-decoupling-it-from-context-shift-for-better-kv-cache|Improved
   prompt caching by decoupling it from context shift for better KV cache reuse]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

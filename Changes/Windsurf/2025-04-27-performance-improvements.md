@@ -4,20 +4,20 @@ date: '2025-04-27'
 description: 'Windsurf · 2025-04-27 · Reliability and Performance: Performance and
   reliability improvements when deploying an app using Deploys'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 864
+  lag_days: 2351
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5dba0351edbc5e7dcca5049a4e5238662d9be20ebd0f55e7e7624293bb04e1a3
+machine_hash: 80e35a544f4da8894bba26b1e2c393269f77021850959a11b4269ee8071f47ec
 product: windsurf
 product_name: Windsurf
 record:
@@ -50,9 +50,9 @@ record:
   title: Performance Improvements
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-04-17-2-reliability-and-performance-changes-in-v0-6-6|2 Reliability
-  and Performance changes in v0.6.6]]'
 - '[[Changes/Replit/2025-04-18-faster-ai-responses|Faster AI responses]]'
+- '[[Changes/Descript/2025-04-22-the-new-screen-recorder-in-beta-this-week|The new
+  Screen recorder—in Beta this week]]'
 - '[[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore:
   speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-27-v1-7-2-dbe56aee|windsurf-2025-04-27-v1-7-2-dbe56aee]]'
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

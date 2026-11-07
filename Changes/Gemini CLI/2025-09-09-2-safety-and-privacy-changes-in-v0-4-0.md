@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2025-09-09 · Safety and Privacy: 2 changes in Relea
   — Override Gemini CLI trust with VScode workspace trust when in IDE by @shrutip90
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 877
+  lag_days: 1869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80a39e99637d4ac57fddb75520b148be1fe7282b51c625de472662038e02730d
+machine_hash: 04ea228f22cf7d36816946fbe59ca108fb359a2502198c2a2c7a1d5432b173ec
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.4.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

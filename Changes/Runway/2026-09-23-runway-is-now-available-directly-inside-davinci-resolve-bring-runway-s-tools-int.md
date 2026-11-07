@@ -4,20 +4,19 @@ date: '2026-09-23'
 description: 'Runway · 2026-09-23 · Editor Experience: Runway is now available directly
   inside DaVinci Resolve. Bring Runway''s tools into your existing edit without…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1289
+  lag_days: 2873
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 53b8594d234fde6d0c5f743c535a61799504b2f0dfb7b1d237dbfd2e95ab3e09
+machine_hash: a3a6b021eedc339986a416b348f33e9115248eddb4964d3c606a387942a2970d
 product: runway
 product_name: Runway
 record:
@@ -45,10 +44,10 @@ record:
   title: DaVinci Resolve Plugin
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In
-  the Sessions tab, rows you can dismiss now take x then x again to confirm]]'
-- '[[Changes/Google Antigravity/2026-09-22-prompt-actions-in-interactive-widgets-and-html-artifacts-now-fill-in-and-focus-t|Prompt
-  actions in interactive widgets and HTML artifacts now fill in and focus…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-see-copilot-usage-in-show-changes-pane-windows-mac-web-excel|See
+  Copilot usage in show changes pane Windows, Mac, Web (Excel)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-sort-by-filter-for-outlook-mail-in-copilot-search-windows-web-microsoft-365-copi|"Sort
+  by" filter for Outlook Mail in Copilot search Windows, Web (Microsoft 365 Copilot)]]'
 - '[[Changes/OpenClaw/2026-09-23-15-editor-experience-changes-in-v2026-9-6|15 Editor
   Experience changes in v2026.9.6]]'
 source_release: '[[Releases/Runway/runway-2026-09-23-2026-09-23-davinci-resolve-plugin-16931fca|runway-2026-09-23-2026-09-23-davinci-resolve-plugin-16931fca]]'
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

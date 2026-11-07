@@ -3,20 +3,20 @@ card_id: replit-2026-01-16-79dae0
 date: '2026-01-16'
 description: 'Replit · 2026-01-16 · Mobile and Desktop: [Mobile Apps on Replit](https://www.youtube.com/embed/YSeDWL4cDLs)'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1039
+  lag_days: 2623
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5895dacdf428f9ee190bc0ad93cd7cc4b35c830b7cea5784967283a61da8f6ce
+machine_hash: 1c07ee39760545e4642a9da2fce4ba4432f2defb2d43afed26d93bd9b174bea5
 product: replit
 product_name: Replit
 record:
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

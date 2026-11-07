@@ -4,19 +4,20 @@ date: '2026-09-16'
 description: 'GitHub Copilot CLI · 2026-09-16 · Developer Workflow: 6 changes in 1.0.85
   — Respect terminal color themes even when palettes are incomplete'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1278
+  lag_days: 2927
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1685c78b736a80460051fe643e63a5e00022a1dd3fa94cef251eb5869f7edffa
+machine_hash: 6b0317336a6a2db9ae07e2cb45b2011cc16037b158748e1d14058a9d6e3249dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -56,12 +57,12 @@ record:
   title: 6 Developer Workflow changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer
-  Workflow changes in v2.1.273]]'
 - '[[Changes/Google Antigravity/2026-09-15-new-permissions-system-terminal-and-git-version-control-for-enterprise|New
   Permissions System & Terminal and Git version control for Enterprise]]'
 - '[[Changes/Google Antigravity/2026-09-15-the-command-palette-now-opens-over-a-dimmed-backdrop-with-enter-and-exit-animati|The
   command palette now opens over a dimmed backdrop with enter and exit animations…]]'
+- '[[Changes/Kimi Code/2026-09-15-add-native-clipboard-support-on-linux-x11-so-copying-from-the-tui-no-longer-depe|Add
+  native clipboard support on Linux X11, so copying from the TUI no longer depends…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: developer-workflow
@@ -118,14 +119,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-the-command-palette-now-opens-over-a-dimmed-backdrop-with-enter-and-exit-animati|The command palette now opens over a dimmed backdrop with enter and exit animations…]]
+- Earlier: 2026-09-15 · Kimi Code · [[Changes/Kimi Code/2026-09-15-add-native-clipboard-support-on-linux-x11-so-copying-from-the-tui-no-longer-depe|Add native clipboard support on Linux X11, so copying from the TUI no longer depends…]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-5-developer-workflow-changes-in-v1-19-0|5 Developer Workflow changes in v1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

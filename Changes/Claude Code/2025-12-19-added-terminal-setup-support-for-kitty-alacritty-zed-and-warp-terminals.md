@@ -4,19 +4,20 @@ date: '2025-12-19'
 description: 'Claude Code · 2025-12-19 · Developer Workflow: Added `/terminal-setup`
   support for Kitty, Alacritty, Zed, and Warp terminals'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1007
+  lag_days: 2656
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b72fa3b29019dd46d703ca6424080db09eddc9c24785284d8d4dda30f3ec3815
+machine_hash: e486e088fa4ca8aaf51a0a831b4cf24e6d9cae6c2a2b33ae2400b3778ba3b74b
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-05-20'
 description: 'GitHub Copilot CLI · 2026-05-20 · Pricing Model: 2 changes in 1.0.51
   — Add /chronicle cost-tips subcommand for personalized token usage and cost reduction…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1252
+  lag_days: 2870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24178de333ab315b71162f163f67edf9794381e7de9d8892b5f79b401ee52b93
+machine_hash: be60862abdeb2ecd9c0cbedfa57d64be4964e26b98d7b315429d4a3f6b77121f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.51
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

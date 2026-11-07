@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 89ebc70e80833f5db3e6608f9c162cde6589aeb550fa7998fe1a0dd5b60a0544
+machine_hash: e42e746836bab1a46b5c3c30fe9a1aa07eaaf2fe1f513c7f6dd6e46f2f7aa982
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,11 +48,12 @@ record:
   title: v1 TTS model deprecation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt
-  out of model training, so their teen’s conversations won’t be used to improve…]]'
-- '[[Changes/Claude/2025-09-29-claude-sonnet-4-5-launch|Claude Sonnet 4.5 launch]]'
 - '[[Changes/Cline/2025-09-29-add-claude-sonnet-4-5-by-saoudrizwan-in-https-github-com-cline-cline-pull-6544|Add
   Claude Sonnet 4.5]]'
+- '[[Changes/Descript/2025-09-29-why-choose-different-models|Why choose different
+  models?]]'
+- '[[Changes/Descript/2025-09-29-you-can-now-select-which-ai-model-powers-your-underlord-https-help-descript-com|Select
+  which AI model powers…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-09-29-2025-09-29-3f5c7c91|elevenlabs-2025-09-29-2025-09-29-3f5c7c91]]'
 source_type: elevenlabs_changelog
 theme: model-support
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-29 · Cline · [[Changes/Cline/2025-09-29-add-claude-sonnet-4-5-by-saoudrizwan-in-https-github-com-cline-cline-pull-6544|Add Claude Sonnet 4.5]]
+- Earlier: 2025-09-29 · Descript · [[Changes/Descript/2025-09-29-you-can-now-select-which-ai-model-powers-your-underlord-https-help-descript-com|Select which AI model powers…]]
 - Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-3-model-support-changes-in-v0-0-329|3 Model Support changes in v0.0.329]]
 <!-- chronolog:end -->
 

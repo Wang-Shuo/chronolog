@@ -4,20 +4,20 @@ date: '2025-10-23'
 description: 'Windsurf · 2025-10-23 · Context Window: Improvements to Fast Context.
   Enterprises can opt in using the Windsurf Team Settings. Users can toggle Fast Context…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 903
+  lag_days: 2227
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4a3905d727477b91f72e97a0ea9f6be5e0bbeb214ec07cd4af429f18f442563
+machine_hash: c14141f55d9a62c92cfcbd5008f1a8495bf9761bf4049edc3b19ff1a25e31d68
 product: windsurf
 product_name: Windsurf
 record:
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

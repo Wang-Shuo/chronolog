@@ -3,20 +3,19 @@ card_id: cursor-2023-11-15-2d35f8
 date: '2023-11-15'
 description: 'Cursor · 2023-11-15 · Editor Experience: Copilot++ improvements:'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 246
+  lag_days: 1830
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 920eef9570f709bb80cdaa068f1f6224055cd9b351daa57203f1b252a45aee1f
+machine_hash: 7cabff8efcec26b5a1f0a7485fe317544903359d7cfb94318a9620595d257d69
 product: cursor
 product_name: Cursor
 record:
@@ -89,13 +88,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-apply-chat-suggestions-click-on-the-play-button-on-any-code-block-to-have-the-ai|Apply chat suggestions]]
-- Later: 2023-11-22 · Cursor · [[Changes/Cursor/2023-11-22-experimental-feature-go-to-more-interpreter-mode-to-enable-it-gives-the-model-ac|Experimental feature: go to "More"  "Interpreter Mode" to enable it]]
+- Later: 2023-11-15 · Descript · [[Changes/Descript/2023-11-15-ai-script-rewriter|AI Script Rewriter]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

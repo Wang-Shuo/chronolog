@@ -4,20 +4,20 @@ date: '2025-11-12'
 description: 'ElevenLabs · 2025-11-12 · Voice and Audio: [v2.23.0](https://github.com/elevenlabs/elevenlabs-js/releases/tag/v2.23.0)
   - Updated Speech to Text (Scribe)…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 856
+  lag_days: 2683
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1ecac4e70c3b704934e593067d92ba13f7667a27746c485920561bb356c37c3f
+machine_hash: 3c8e9b842bc831ebdf07d70074db1ba510fa9df8fdfe4497b66e5e4ce1ef6523
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

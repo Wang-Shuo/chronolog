@@ -5,20 +5,19 @@ description: 'GitHub Copilot CLI · 2026-06-24 · Editor Experience: Add a `copi
   skill` subcommand (and a `/skill` alias for `/skills`) to list, add, and remove
   skills from…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1198
+  lag_days: 2782
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bcda281e3d1701e049639c137f6b0861edc0d64553729350fa2fdf9987c00a7c
+machine_hash: 90c62d177d71fbe4ab77cafed0a5966954da7fb783a354d711cd4d5d05039504
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,13 +89,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9 Editor Experience changes in v1.0.64]]
-- Later: 2026-06-24 · Lovable · [[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled jobs in Lovable Cloud]]
+- Later: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-show-subcommand-suggestions-after-tab-completing-a-slash-command-name|Show subcommand suggestions after Tab-completing a slash command name]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

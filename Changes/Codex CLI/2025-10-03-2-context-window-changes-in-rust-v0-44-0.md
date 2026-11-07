@@ -4,20 +4,20 @@ date: '2025-10-03'
 description: 'Codex CLI · 2025-10-03 · Context Window: 2 changes in 0.44.0 — #4629
   tui: • Working, 100% context dim'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 883
+  lag_days: 2207
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 405210dbf7f66b85c236243e326a1a3ff514cc6a4989b90292f423c04d87f6ee
+machine_hash: 9882871c7d9b2555b58c384b41227a31d91fe012c61780b8a2caef5eec95ef5c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Context Window changes in rust-v0.44.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-28-tasks-directory-replace-uses-of-context-globalstorageuri-with-hostprovider-get-g|Tasks
-  directory Replace uses of context.globalStorageUri…]]'
 - '[[Changes/Cline/2025-09-29-disk-ts-replace-uses-of-context-globalstorageuri-with-hostprovider-get-globalsto|disk.ts
   Replace uses of context.globalStorageUri…]]'
 - '[[Changes/Dify/2025-09-29-synced-fileuploader-context-with-props-to-fix-inconsistent-file-parameters-in-ca|Synced
   FileUploader context with props to fix inconsistent file parameters in cached…]]'
+- '[[Changes/Z.ai API/2025-09-30-the-update-also-expands-the-context-window-to-200k-improving-its-ability-to-hand|The
+  update also expands the context window to 200K, improving its ability to handle…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-03-rust-v0-44-0-github-252055554-66c49f37|codex-cli-2025-10-03-rust-v0-44-0-github-252055554-66c49f37]]'
 source_type: github_releases
 theme: context-window
@@ -90,14 +90,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.44.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-synced-fileuploader-context-with-props-to-fix-inconsistent-file-parameters-in-ca|Synced FileUploader context with props to fix inconsistent file parameters in cached…]]
+- Earlier: 2025-09-30 · Z.ai API · [[Changes/Z.ai API/2025-09-30-the-update-also-expands-the-context-window-to-200k-improving-its-ability-to-hand|The update also expands the context window to 200K, improving its ability to handle…]]
 - Later: 2025-10-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-03-added-a-warning-when-conversation-context-approaches-20-remaining-of-the-model-s|Added a warning when conversation context approaches ≤20% remaining of the model's…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

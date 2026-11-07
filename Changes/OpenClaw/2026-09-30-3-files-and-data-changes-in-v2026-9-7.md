@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-30 · Files and Data: 3 changes in v2026.9.7 �
   attachments hosted by your OpenClaw instance can open beside chat, keeping your
   page and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1224
+  lag_days: 2569
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd2d3cc542c2d46c4f25ce299eac7a89ed428d0be6748aa0625dec69cf9a8d4d
+machine_hash: c9795ecce1383be41e8d35084450d10b620fbf08782cf616c3b07a5e45c5588a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -57,12 +57,12 @@ record:
   title: 3 Files and Data changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-23-feat-tag-agent-canvas-telemetry-by-deployment-kind-oss-13530-by-malhotra5-in-htt|feat:
-  tag Agent Canvas telemetry by deployment kind (OSS-13530)]]'
 - '[[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved
   prompt-audit on Claude Code configuration]]'
 - '[[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added
   retries for transient file-upload failures and increased the upload timeout…]]'
+- '[[Changes/Synthesia/2026-09-29-bring-webp-files-straight-into-the-editor-use-still-or-animated-webp-on-the-canv|Upload
+  WebP images to your videos]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-30-v2026-9-7-3d25d2bd|openclaw-2026-09-30-v2026-9-7-3d25d2bd]]'
 source_type: openclaw_changelog
 theme: file-data
@@ -117,14 +117,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added retries for transient file-upload failures and increased the upload timeout…]]
+- Earlier: 2026-09-29 · Synthesia · [[Changes/Synthesia/2026-09-29-bring-webp-files-straight-into-the-editor-use-still-or-animated-webp-on-the-canv|Upload WebP images to your videos]]
 - Later: 2026-10-01 · ChatGPT · [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan notes and documents more easily with ChatGPT camera]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

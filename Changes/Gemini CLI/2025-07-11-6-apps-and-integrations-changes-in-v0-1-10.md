@@ -4,20 +4,20 @@ date: '2025-07-11'
 description: 'Gemini CLI · 2025-07-11 · Apps and Integrations: 6 changes in Release
   v0.1.10 — Add --allowed_mcp_server_names flag by @teeler in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 841
+  lag_days: 2401
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 643350ea752a7880a29c0d7fdc3d036d6074fcf46a6c7e0d233ba60ab9d7bcde
+machine_hash: c7577bc87f6877517202a4b4ae254cad608a800945ac2fc7f83136f4640b0e4c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: 6 Apps and Integrations changes in v0.1.10
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-08-update-the-no-vscode-postmessage-eslint-rule-to-check-for-any-of-the-vscode-sdk|Update
-  the no-vscode-postmessage eslint rule to check for any of the vscode SDK…]]'
 - '[[Changes/Cline/2025-07-08-migrate-download-mcp-response-to-proto-by-celestial-vault-in-https-github-com-cl|migrate
   download MCP response to proto]]'
 - '[[Changes/Dify/2025-07-10-10-apps-and-integrations-changes-in-1-6-0|10 Apps and
   Integrations changes in 1.6.0]]'
+- '[[Changes/Notion/2025-07-10-build-with-replit-manage-with-notion|Build with Replit,
+  manage with Notion]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'
 source_type: github_releases
 theme: apps-integrations
@@ -107,14 +107,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-10-apps-and-integrations-changes-in-1-6-0|10 Apps and Integrations changes in 1.6.0]]
+- Earlier: 2025-07-10 · Notion · [[Changes/Notion/2025-07-10-build-with-replit-manage-with-notion|Build with Replit, manage with Notion]]
 - Later: 2025-07-14 · ElevenLabs · [[Changes/ElevenLabs/2025-07-14-sdks|SDKs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

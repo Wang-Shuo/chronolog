@@ -4,20 +4,20 @@ date: '2026-07-29'
 description: 'Codex CLI · 2026-07-29 · Search and Browsing: 2 changes in 0.146.0 —
   Enable standalone web search for compatible custom model providers. (#34846)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1224
+  lag_days: 2253
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da4f80b7627c32b8eabeca9376b6f0032113ea10c8e7fa590951c14ca2e4aef1
+machine_hash: 9a29fb5717f26d2bebbe000a004919b088758450ec36410e141ef1d144f42340
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-09-29'
 description: 'Claude Code · 2026-09-29 · Editor Experience: 2 changes in v2.1.285
   — [VSCode] Added a note under a restored tab''s last message when a window reload…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1295
+  lag_days: 2879
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a219b6e212e2ff2649833222df62b1a509030a31afdf57d74049c4f004f36017
+machine_hash: 8589db93207e6f1401aceb682e6b8be1cf5afbaf8f7a9327f94d4f471cb7e7cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -103,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

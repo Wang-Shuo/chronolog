@@ -4,20 +4,19 @@ date: '2025-07-30'
 description: 'Gemini CLI · 2025-07-30 · Editor Experience: 19 changes in Release v0.1.15
   — Adds the user''s active file in the IDE to the footer by @skeshive in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 869
+  lag_days: 2453
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cfe7f3f3109951d061137c75db9b1577a38cb0012c6e493c8694e48d12813845
+machine_hash: 0a6dd67d3747996679a1bd866970e3cf3474a3b2221969dee1ff61b1bc7e7b94
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -177,7 +176,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.15
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

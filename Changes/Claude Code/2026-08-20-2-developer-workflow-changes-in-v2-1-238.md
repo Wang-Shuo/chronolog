@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-08-20 · Developer Workflow: 2 changes in v2.1
   — Added a `keybindingFlavor` setting: set it to `"readline"` to make Ctrl+W in the
   prompt…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1251
+  lag_days: 2900
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bcd07a5b4d75532db5f9d8a154cf2889c67876c6425e1557ca3751fe2ea8ae2c
+machine_hash: 737e9c26bf9d2583e106df66a89755321fe3c36bf796ed737579171d2c7c80c8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +47,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.238
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote
-  Control: effort picks made on a phone or on claude.ai/code now apply…]]'
 - '[[Changes/Codex CLI/2026-08-18-5-developer-workflow-changes-in-rust-v0-148-0|5
   Developer Workflow changes in rust-v0.148.0]]'
+- '[[Changes/Z.ai API/2026-08-18-stronger-coding-capabilities-glm-5-3-delivers-a-significant-improvement-in-codin|Stronger
+  Coding Capabilities]]'
 - '[[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer
   Workflow changes in v2.1.236]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
@@ -97,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

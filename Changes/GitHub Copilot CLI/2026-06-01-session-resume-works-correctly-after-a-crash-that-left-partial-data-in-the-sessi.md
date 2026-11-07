@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11577c2f82bc980ac52dce3f2d30a9319a0e05e818d0a2af3b524e5e1882acb8
+machine_hash: e3e1c93f004aab36413ad52d5ddf866e1b469b95317010ae438a7650dab77b1d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     session log
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-session-resume-selector-displays-summaries-on-a-single-line-truncated-to-fit-the|Session
-  resume selector displays summaries on a single line, truncated to fit…]]'
-- '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback
-  can now include recent sessions (last 24 hours or 7 days) for issues…]]'
 - '[[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex
   remote access from the ChatGPT mobile app]]'
+- '[[Changes/Kimi Code/2026-05-26-2-projects-and-workspaces-changes-in-kimi-code-0-2-0|2
+  Projects and Workspaces changes in Kimi Code 0.2.0]]'
+- '[[Changes/Kimi Code/2026-05-27-show-the-original-session-resume-command-after-forking-a-session|Show
+  the original session resume command after forking a session]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d|github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex remote access from the ChatGPT mobile app]]
+- Earlier: 2026-05-27 · Kimi Code · [[Changes/Kimi Code/2026-05-27-show-the-original-session-resume-command-after-forking-a-session|Show the original session resume command after forking a session]]
 - Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-local-session-history-is-safer-for-compressed-rollouts-renamed-titles-pathless-s|Local session history is safer for compressed rollouts, renamed titles, pathless…]]
 <!-- chronolog:end -->
 

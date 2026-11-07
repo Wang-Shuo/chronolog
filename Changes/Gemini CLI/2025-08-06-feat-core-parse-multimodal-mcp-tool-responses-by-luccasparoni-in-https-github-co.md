@@ -4,20 +4,20 @@ date: '2025-08-06'
 description: 'Gemini CLI · 2025-08-06 · Multimodal Input: feat(core): Parse Multimodal
   MCP Tool responses by @luccasparoni in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 687
+  lag_days: 2455
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09ec7720b0b563aa0b360171904c07fca5b283a0d39dd769e81f63f619e673a3
+machine_hash: 0a330e6b4c6f89738f5f4c174bdf3edcef2172eb45d7a84f3f2aa6d927fc14b2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

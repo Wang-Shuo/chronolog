@@ -4,20 +4,20 @@ date: '2024-10-23'
 description: 'Dify · 2024-10-23 · Voice and Audio: feat(api): add video and audio
   file size limits to upload config by @laipz8200 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 471
+  lag_days: 2298
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da53a786d3c6070cdc4371efeb5db57701e52c7ce5e2332282ae1e61643aa317
+machine_hash: e741c8d2b515227943c961f83408bd08d9f8cb1ec1d58759ed5c16f114908556
 product: dify
 product_name: Dify
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat(api): add video and audio file size limits to upload config'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-10-07-2-voice-and-audio-changes-in-v0-3-31|2 Voice and
-  Audio changes in v0.3.31]]'
+- '[[Changes/Descript/2024-10-10-guest-transcriptions-now-adhere-to-the-host-s-transcription-settings|Guest
+  transcriptions now adhere to the host’s transcription settings]]'
 - '[[Changes/ElevenLabs/2024-10-13-api|API]]'
 - '[[Changes/ElevenLabs/2024-10-20-product|Product]]'
 source_release: '[[Releases/Dify/dify-2024-10-23-0-10-1-github-181515566-42cf5148|dify-2024-10-23-0-10-1-github-181515566-42cf5148]]'
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

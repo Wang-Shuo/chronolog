@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69fdc17641694b8b3d43265e216a0e237aa7a0740f41334238d1f92c8a889def
+machine_hash: d1d59d7274faef5247f3c74c49535acfddae99fc8024addf86bb8c6bc8849f4d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Agent Mode changes in v0.0.396
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-26-load-local-shell-configuration-in-agent-sessions|Load
-  local shell configuration in agent sessions]]'
+- '[[Changes/HeyGen/2026-01-26-3-agent-mode-changes-in-introducing-our-new-video-agent|3
+  Agent Mode changes in Introducing our new Video Agent]]'
 - '[[Changes/Claude Code/2026-01-27-2-agent-mode-changes-in-v2-1-20|2 Agent Mode changes
   in v2.1.20]]'
 - '[[Changes/Codex CLI/2026-01-27-9818-feat-rebase-multi-agent-tui-on-config-snapshot-jif-oai|♯9818
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.396
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-9818-feat-rebase-multi-agent-tui-on-config-snapshot-jif-oai|♯9818 feat: rebase multi-agent tui on config_snapshot @jif-oai]]
-- Later: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-8-agent-mode-changes-in-v0-26-0|8 Agent Mode changes in v0.26.0]]
+- Later: 2026-01-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-27-users-can-leverage-multi-agent-workflows-windows-web-microsoft-365-copilot-exten|Users can leverage multi-agent workflows Windows…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

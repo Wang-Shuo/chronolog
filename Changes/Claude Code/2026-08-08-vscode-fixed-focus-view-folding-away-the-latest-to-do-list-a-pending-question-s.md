@@ -4,20 +4,20 @@ date: '2026-08-08'
 description: 'Claude Code · 2026-08-08 · Interface Experience: [VSCode] Fixed Focus
   view folding away the latest to-do list, a pending question''s context, and settled…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1307
+  lag_days: 2673
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 1f605e6f348b8b3929dcca874f8e1d1d423fde0a7e8a5dc4fadf495ba2172d02
+machine_hash: 54cc313c0d0dc9201fbb0990d3d9536bf6511f1e6f55ece87085be0a7f6bd1f8
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     question''s…'
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-07-2-interface-experience-changes-in-hub-v2-6-0-faster-long-conversations|2
-  Interface Experience changes in HUB v2.6.0 — Faster long conversations…]]'
+- '[[Changes/HeyGen/2026-08-07-avatar-management-identity-selection-redesign|Avatar
+  management / identity-selection redesign]]'
 - '[[Changes/OpenCode/2026-08-07-desktop-language-names-now-stay-native-in-the-locale-picker|Desktop
   Language names now stay native in the locale picker]]'
 - '[[Changes/OpenHands/2026-08-07-feat-reorder-customize-navigation-by-devinvinson-in-https-github-com-openhands-o|feat:
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

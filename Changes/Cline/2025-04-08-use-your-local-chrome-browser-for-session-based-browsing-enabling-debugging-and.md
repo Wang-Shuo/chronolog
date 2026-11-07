@@ -5,20 +5,20 @@ description: 'Cline · 2025-04-08 · Search and Browsing: Use your local Chrome 
   for session-based browsing, enabling debugging and productivity workflows tied to
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 747
+  lag_days: 1776
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 064f9010f91c37727ed87c55de04a38ecf3b2d8653243e08310f6357c30c656a
+machine_hash: 19b39abc67b98a0a1e8c9060fdb302c25bf7a76f58de5b50789a25b2feea0c49
 product: cline
 product_name: Cline
 record:
@@ -53,8 +53,8 @@ record:
   title: Use your local Chrome browser for session-based browsing, enabling debugging…
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-11-for-a-more-detailed-dive-into-each-update-feel-free-to-browse-through-the-prs-we|For
-  a more detailed dive into each update, feel free to browse through the PRs]]'
+- '[[Changes/Notion/2025-03-26-build-trust-with-verified-pages|Build trust with verified
+  pages]]'
 - '[[Changes/OpenHands/2025-04-02-turn-on-vision-based-browsing-by-default-and-allow-openhands-to-see-pdf-images-i|Turn
   on vision-based browsing by default and allow OpenHands to see PDF / images…]]'
 - '[[Changes/Open WebUI/2025-04-07-2-search-and-browsing-changes-in-v0-6-2|2 Search
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

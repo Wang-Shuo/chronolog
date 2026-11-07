@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-07-09 · Safety and Privacy: 4 changes in 0.144.
   Windows sandbox sessions can delete files in writable roots and access the managed
   primary…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1180
+  lag_days: 2172
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82d0df8b1e212d5194be3764457950efff5e910f5928bdbb4eac87dc77b5add6
+machine_hash: 0d0720b38c24fe916c4f5ff46be961bcb1533cbca06efa7d17a5f0ad8151bded
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,9 @@ record:
   title: 4 Safety and Privacy changes in rust-v0.144.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background
-  task notifications now explicitly state that no human input has occurred…]]'
-- '[[Changes/Codex CLI/2026-07-08-13-safety-and-privacy-changes-in-rust-v0-143-0|13
-  Safety and Privacy changes in rust-v0.143.0]]'
+- '[[Changes/HeyGen/2026-07-08-security-login-activity-api-key-creation-email-changes|Security
+  — login activity, API key creation, email changes]]'
+- '[[Changes/HeyGen/2026-07-08-why-it-matters-d8b8a5|Why it matters]]'
 - '[[Changes/ChatGPT/2026-07-09-on-desktop-work-can-use-local-files-and-desktop-apps-with-your-permission-the-bu-1e4d11|On
   desktop, Work can use local files and desktop apps with your permission]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96|codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96]]'
@@ -111,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

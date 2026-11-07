@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 48c7b1c2cd111621ac13c7919c23bb69aa230486951334e230c813cb747195b2
+machine_hash: 5c3a05aad4f910859db9953ea06c9172afda36dd233a6f98afdf4b889fd472fa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -107,7 +107,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.59.0
 ## Nearby in Model Support
 
 - Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-default-model-for-api-users-is-now-gpt-5-1-codex|Default model for API users is now gpt-5.1-codex]]
-- Later: 2025-11-19 · Ollama · [[Changes/Ollama/2025-11-19-cogito-v2-1-https-ollama-com-library-cogito-2-1-instruction-tuned-generative-mod|Cogito-V2.1((source link) instruction tuned generative…]]
+- Later: 2025-11-19 · Notion · [[Changes/Notion/2025-11-19-gemini-3-pro-is-now-available-in-notion|Gemini 3 Pro is live]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

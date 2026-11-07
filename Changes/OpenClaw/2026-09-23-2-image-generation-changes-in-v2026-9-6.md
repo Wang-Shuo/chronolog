@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'OpenClaw · 2026-09-23 · Image Generation: 2 changes in v2026.9.6 — Delayed
   Matrix replies can obtain their connection after the original message handler…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 927
+  lag_days: 1185
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5e67c5fb7ca5f35eb9d773683079729dbcc7a6b56b7d8f4be39362cb8799141
+machine_hash: 553453b1e732350c27444e8dd2aadcd7b98d018c0299fd3971be7f4dddf4e32b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -115,7 +115,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-08-28'
 description: 'v0 · 2026-08-28 · Safety and Privacy: 2 changes in GPT-5.6 Sol, sign-in
   inside previews, and zero-config AI Gateway for generated apps — Paid chats whose…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1230
+  lag_days: 2222
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28ad9e681682a68206fe0f996f57d50f8af77dee7a955f16097d37d9aa7e9df6
+machine_hash: f157334e8100de5c5dd18b0d9345f4f6f6f086f9286a1d98e1ca99befd657888
 product: v0
 product_name: v0
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Safety and Privacy changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-5-safety-and-privacy-changes-in-v1-0-81|5
-  Safety and Privacy changes in v1.0.81]]'
-- '[[Changes/Lovable/2026-08-27-restrict-external-invites-to-verified-email-domains|Restrict
-  external invites to verified email domains]]'
+- '[[Changes/Qoder/2026-08-27-harness-for-complex-tasks-qoder-s-harness-keeps-planning-execution-verification|Harness
+  for complex tasks]]'
 - '[[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety
   and Privacy changes in v2.1.251]]'
+- '[[Changes/Kimi Code/2026-08-28-web-fix-switching-the-permission-mode-in-one-session-changing-it-for-every-sessi|web:
+  Fix switching the permission mode in one session changing it for every session]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: v0_changelog
 theme: safety-privacy
@@ -94,14 +94,14 @@ Source: https://v0.app/changelog#2026-08-28
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety and Privacy changes in v2.1.251]]
+- Earlier: 2026-08-28 · Kimi Code · [[Changes/Kimi Code/2026-08-28-web-fix-switching-the-permission-mode-in-one-session-changing-it-for-every-sessi|web: Fix switching the permission mode in one session changing it for every session]]
 - Later: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-5-safety-and-privacy-changes-in-rust-v0-151-0|5 Safety and Privacy changes in rust-v0.151.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

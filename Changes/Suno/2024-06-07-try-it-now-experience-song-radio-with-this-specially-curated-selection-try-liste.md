@@ -4,20 +4,20 @@ date: '2024-06-07'
 description: 'Suno · 2024-06-07 · Music Generation: Try It Now: Experience Song Radio
   with this specially curated selection: Try listening to this song radio here.'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 167
+  lag_days: 1633
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 912034f2d7f58b8b859a9ca744ade740cc1ab3eccdefe62996febc8d86a9e392
+machine_hash: 080f6611c6d112913fa8cbf414f42969dfc56f9148f17ef21a3292c98e13e698
 product: suno
 product_name: Suno
 record:
@@ -45,8 +45,7 @@ record:
     Try…'
   type: change
 related_changes:
-- '[[Changes/Suno/2024-06-03-looking-for-inspiration-or-some-new-music-to-listen-to-search-playlists-by-title|Suno
-  playlists are searchable]]'
+- '[[Changes/Descript/2024-06-04-music|Music]]'
 - '[[Changes/Suno/2024-06-07-as-you-explore-new-songs-please-let-us-know-what-you-think-by-giving-songs-a-thu|As
   you explore new songs, please let us know what you think by giving songs…]]'
 - '[[Changes/Suno/2024-06-07-introducing-song-radio-now-by-just-clicking-on-of-any-song-you-can-start-a-song|Introducing
@@ -80,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Music Generation
 
-- Earlier: 2024-06-03 · Suno · [[Changes/Suno/2024-06-03-looking-for-inspiration-or-some-new-music-to-listen-to-search-playlists-by-title|Suno playlists are searchable]]
+- Earlier: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-music|Music]]
 - Later: 2024-06-12 · Suno · [[Changes/Suno/2024-06-12-we-are-excited-to-release-our-audio-input-feature-where-you-can-make-a-song-from|Audio Inputs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6735fc8ef17e875813af2ddc46865c2e6bf5499d4a97259b57a65cc1a5dcad04
+machine_hash: 7a01e8c9fde3013c34ed6a9267dd18a5409b5bf52b1e7087083b47b03f8ead24
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,10 @@ record:
   title: Core Force reasoning mode for OpenAI-compatible reasoning models so reasoning…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support
-  changes in v2.1.198]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add
-  support for the kimi-k2.7-code model]]'
+- '[[Changes/Kimi Code/2026-07-01-merge-consecutive-user-turns-for-strict-providers-gemini-vertex-fixing-an-http-4|Merge
+  consecutive user turns for strict providers (Gemini/Vertex), fixing an HTTP…]]'
+- '[[Changes/Notion/2026-07-01-more-models-without-the-lock-in|More models, without
+  the lock-in]]'
 - '[[Changes/Open WebUI/2026-07-01-5-model-support-changes-in-v0-10-2|5 Model Support
   changes in v0.10.2]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-01-v1-17-13-e66684a1|opencode-2026-07-01-v1-17-13-e66684a1]]'

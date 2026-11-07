@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-08-27 · Apps and Integrations: 12 chan
   in 1.0.81 — The plugins dashboard is available to everyone: run `/plugin`, `/mcp`,
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1253
+  lag_days: 2813
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 194846699d9a0b2d4e0fb6219dc0b6214b2d2dc494a80f062b478dad1633ff46
+machine_hash: 8635ae55a9a7fbfa8c234946762b13103e86834a1a7032be1c70dd47519e6c39
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -159,13 +159,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.81
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved managed settings]]
-- Later: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-feat-land-the-canvas-extensions-frontend-load-pages-sidebar-customize-by-hieptl|feat: land the Canvas Extensions frontend (load pages, sidebar, customize)]]
+- Later: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-2-apps-and-integrations-changes-in-kimi-code-0-39-0|2 Apps and Integrations changes in Kimi Code 0.39.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

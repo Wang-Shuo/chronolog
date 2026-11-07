@@ -4,20 +4,20 @@ date: '2025-05-21'
 description: 'Cline · 2025-05-21 · Interface Experience: Add keyboard shortcut (Cmd+'')
   to quickly focus Cline from anywhere in VS Code'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 863
+  lag_days: 2229
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a889386ba3c8c746c9c5008f6b2fa2b4bbc4c8b89e78c404193d0cd80391c2e
+machine_hash: 8be28571ec93e1cdd496e20813b4068881cee0ae7f405ad39ddc0bc0cdfddae3
 product: cline
 product_name: Cline
 record:
@@ -43,11 +43,12 @@ record:
     Code
   type: change
 related_changes:
-- '[[Changes/Replit/2025-05-16-full-screen-email-verification|Full-screen email verification]]'
 - '[[Changes/Cline/2025-05-18-update-ui-styling-for-auto-approve-menu-items-to-conserve-space|Update
   UI styling for auto-approve menu items to conserve space]]'
 - "[[Changes/Open WebUI/2025-05-19-customizable-pending-user-overlay-you-can-now-tailor-the-overlay-title-and-conte|\U0001F9D1\U0001F4BC
   Customizable Pending User Overlay]]"
+- '[[Changes/Descript/2025-05-20-new-in-labs-a-new-timeline-experience|New in Labs—a
+  new Timeline experience]]'
 source_release: '[[Releases/Cline/cline-2025-05-21-v3-16-2-github-219934047-f8709d18|cline-2025-05-21-v3-16-2-github-219934047-f8709d18]]'
 source_type: github_releases
 theme: interface-experience
@@ -77,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-customizable-pending-user-overlay-you-can-now-tailor-the-overlay-title-and-conte|🧑💼 Customizable Pending User Overlay]]
+- Earlier: 2025-05-20 · Descript · [[Changes/Descript/2025-05-20-new-in-labs-a-new-timeline-experience|New in Labs—a new Timeline experience]]
 - Later: 2025-05-21 · Cline · [[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code-d699eb|Add keyboard shortcut (Cmd+') to quickly focus Cline from anywhere in VS Code]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2024-12-13'
 description: 'Replit · 2024-12-13 · Editor Experience: 3 changes in Replit updates
   — 2024-12-13 — This week, Assistant launched—a new AI tool that allows you to edit…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 640
+  lag_days: 2224
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e3f17f316e6a23cd0a5afd3690a535bdbd3b6b0c69f2d1872214f26dc0b96cf
+machine_hash: 968e0c85343b4c069405db7147435acbff21fd953ec3f598ffb93156a25a374f
 product: replit
 product_name: Replit
 record:
@@ -99,7 +98,7 @@ Source: https://docs.replit.com/updates/2024/12/13/changelog
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

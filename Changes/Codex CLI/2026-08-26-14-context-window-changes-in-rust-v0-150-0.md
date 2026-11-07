@@ -4,20 +4,20 @@ date: '2026-08-26'
 description: 'Codex CLI · 2026-08-26 · Context Window: 14 changes in 0.150.0 — #39691
   Make Guardian v2 parent compaction reuse configurable @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1210
+  lag_days: 2534
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d628c0d2ce5f30b62bbfde82cd5c0335484f083f47653bac23899bf728a1d001
+machine_hash: 56e08964d2c54e82cce886a672a39c83c7d2a51c3dbfceff727fdc189a4a1db0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,8 +66,8 @@ record:
   title: 14 Context Window changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR
-  Agent Issue Fix (19239): Update /clear command docs to include context reset]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-outlook-emails-in-copilot-notebooks-windows-web-microsoft-365-copilot|Outlook
+  Emails in Copilot Notebooks Windows, Web (Microsoft 365 Copilot)]]'
 - '[[Changes/Open WebUI/2026-08-25-4-context-window-changes-in-v0-11-1|4 Context Window
   changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed
@@ -148,7 +148,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

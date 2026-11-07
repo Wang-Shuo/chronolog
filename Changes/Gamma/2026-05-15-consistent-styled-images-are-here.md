@@ -5,20 +5,20 @@ description: 'Gamma · 2026-05-15 · Presentation Creation: This allows generati
   deck with consistent illustrations, photo, or abstract styles, with a suggested
   style…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 702
+  lag_days: 1771
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 84b8137cdfda7723f9a5e8baa387b4c3a6c1745687133caa3229d654df47b5c7
+machine_hash: a945107ad890af27f0bfe6bf4e28b01aaf5140689e2603223e8870764c2def4b
 product: gamma
 product_name: Gamma
 record:
@@ -47,10 +47,9 @@ record:
   title: Consistent styled images are here
   type: change
 related_changes:
-- '[[Changes/Manus/2025-12-04-google-s-nano-banana-pro-is-now-integrated-into-manus-slides-look-for-the-icon-t|Nano
-  Banana Pro Now in Slides]]'
-- '[[Changes/OpenCode/2026-03-12-core-adjust-skill-presentation-to-reduce-token-usage|Core
-  Adjust skill presentation to reduce token usage]]'
+- '[[Changes/Notion/2026-03-26-finally-a-proper-presentation-mode|Finally, a proper
+  presentation mode!]]'
+- '[[Changes/HeyGen/2026-04-02-multi-character-support|Multi-character support]]'
 - '[[Changes/Gamma/2026-05-15-your-fonts-travel-with-your-cards-now|Your fonts travel
   with your cards now]]'
 source_release: '[[Releases/Gamma/gamma-2026-05-15-6a07a2d3b4c145e648b34b1b-8b82c948|gamma-2026-05-15-6a07a2d3b4c145e648b34b1b-8b82c948]]'
@@ -83,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Presentation Creation
 
-- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-core-adjust-skill-presentation-to-reduce-token-usage|Core Adjust skill presentation to reduce token usage]]
+- Earlier: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-multi-character-support|Multi-character support]]
 - Later: 2026-05-29 · Gamma · [[Changes/Gamma/2026-05-29-export-fixes-across-the-board|Export fixes across the board]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

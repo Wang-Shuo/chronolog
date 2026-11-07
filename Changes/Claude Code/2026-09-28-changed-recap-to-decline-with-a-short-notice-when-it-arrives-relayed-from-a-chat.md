@@ -4,19 +4,20 @@ date: '2026-09-28'
 description: 'Claude Code · 2026-09-28 · Developer Workflow: Changed `/recap` to decline
   with a short notice when it arrives relayed from a chat thread (your own included)…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1290
+  lag_days: 2939
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b647afcac89cce87486b288140eed2120df7648eca9a0e1ec490680e7ca8c6d0
+machine_hash: d47255bbd8172206fa069eee4e79fd5671167d81a19a9cd0eaa308addb8ccd10
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-11-22'
 description: 'ChatGPT · 2024-11-22 · Image Generation: DALL-E focused view has an
   updated layout'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 257
+  lag_days: 515
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2379af02b4ed8ea170c9b36c29ae0f05675c33b32108194105af528727324d58
+machine_hash: f23f9ef55768f388e72c1d8af18e41a83e16971a855c6aba5b535e3521b71c26
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

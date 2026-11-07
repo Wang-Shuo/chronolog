@@ -4,20 +4,20 @@ date: '2025-12-19'
 description: 'Claude Code · 2025-12-19 · Multimodal Input: Added clickable `[Image
   #N]` links that open attached images in the default viewer'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 822
+  lag_days: 2590
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5eb775e2a39abf09de881588a0a0fd26d3aee64acad3059e1e4516310de1addd
+machine_hash: a02671b547ece55b30fcf96e15adc92542c64fe37d3faa622b2f0d5783efff8e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
     viewer'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-11-06-2-multimodal-input-changes-in-v0-6-35|2 Multimodal
-  Input changes in v0.6.35]]'
-- '[[Changes/Ollama/2025-11-27-mistral-large-3-https-ollama-com-library-mistral-large-3-a-general-purpose-multi|Mistral-Large-3((source
-  link) A general-purpose…]]'
+- '[[Changes/HeyGen/2025-11-30-intelligent-render-selection|Intelligent render selection]]'
 - '[[Changes/Dify/2025-12-11-11-multimodal-input-changes-in-1-11-0|11 Multimodal Input
   changes in 1.11.0]]'
+- '[[Changes/Synthesia/2025-12-12-view-and-edit-your-full-video-script-in-one-continuous-layout-making-it-easier-t|Review
+  your whole script in Storyboard]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
 theme: multimodal
@@ -82,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-11-multimodal-input-changes-in-1-11-0|11 Multimodal Input changes in 1.11.0]]
-- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-2-multimodal-input-changes-in-v0-6-42|2 Multimodal Input changes in v0.6.42]]
+- Earlier: 2025-12-12 · Synthesia · [[Changes/Synthesia/2025-12-12-view-and-edit-your-full-video-script-in-one-continuous-layout-making-it-easier-t|Review your whole script in Storyboard]]
+- Later: 2025-12-20 · Descript · [[Changes/Descript/2025-12-20-teleprompter-in-rooms|Teleprompter in Rooms]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67545d0f77bc99abe4448cc23fe5162eaba6e15ed638dadcbfd47dd6077bfd26
+machine_hash: 721f544ec3474c991f59598408f690d1501554d5ffb48b23af2541fdb94de372
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Agent Mode changes in v1.36.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0|3 Agent Mode changes
-  in v1.35.0]]'
-- '[[Changes/Dify/2026-11-04-14-agent-mode-changes-in-1-19-0|14 Agent Mode changes
-  in 1.19.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-sharepoint-list-agent-web-microsoft-365-copilot|SharePoint
+  list agent Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-agents-usage-report-web-microsoft-365-admin-center|Agents
+  usage report Web (Microsoft 365 admin center)]]'
 - '[[Changes/OpenClaw/2026-11-05-4-agent-mode-changes-in-v2026-11-1|4 Agent Mode changes
   in v2026.11.1]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c|openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c]]'

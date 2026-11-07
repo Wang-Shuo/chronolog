@@ -4,20 +4,20 @@ date: '2026-10-07'
 description: 'GitHub Copilot CLI · 2026-10-07 · Safety and Privacy: 2 changes in 1.0.93
   — Sandbox local-network allowlists now include localhost and loopback hosts.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1270
+  lag_days: 2262
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d26e15edfc45688a8fbf3bdb9f59abaffaa12c55da8c8204ce8d6c3ffa5397b
+machine_hash: 49d43da071518c199739d876e6d36c6ac8394971d05e361e5c30d5135f7eb557
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.93
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

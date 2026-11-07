@@ -5,19 +5,20 @@ description: 'Windsurf · 2026-10-26 · Developer Workflow: 2 changes in v3.11.2
   In Remote-SSH and Remote-WSL windows, the Agent Window folder picker correctly sets
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1318
+  lag_days: 2967
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 904e47791d010c55b3b34e6a4eaa4109a29c212ffd73bede04f43ac8654e9153
+machine_hash: a70e4f7718f616dd3964884ec45ffe030b0efed4ef3978574294b4ccf71433c3
 product: windsurf
 product_name: Windsurf
 record:
@@ -94,7 +95,7 @@ Source: https://docs.devin.ai/desktop/changelog#v3-11-228
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

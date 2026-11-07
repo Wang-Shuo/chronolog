@@ -4,20 +4,20 @@ date: '2023-03-14'
 description: "Cursor · 2023-03-14 · Mobile and Desktop: Windows and Linux support
   \U0001F973"
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1584
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ef02587982168d5f06e19bc545544295a236f56066231ac529a43cda33013e0e
+machine_hash: 3612f8df83111dc0c092eaaa23c86409e764af08f025da78ea17f23c2ba6572b
 product: cursor
 product_name: Cursor
 record:
@@ -43,6 +43,12 @@ record:
   theme_resolution: manual-backfill-review-v1
   title: "Windows and Linux support \U0001F973"
   type: change
+related_changes:
+- '[[Changes/Notion/2022-12-15-always-open-links-in-your-desktop-app|Always open links
+  in your desktop app]]'
+- '[[Changes/Notion/2023-02-09-take-quick-notes-on-android|Take quick notes on Android]]'
+- '[[Changes/Notion/2023-02-09-made-updates-to-the-mobile-search-experience-that-improved-load-times|Made
+  updates to the mobile search experience that improved load times]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006|cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -71,13 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
+- Earlier: 2023-02-09 · Notion · [[Changes/Notion/2023-02-09-made-updates-to-the-mobile-search-experience-that-improved-load-times|Made updates to the mobile search experience that improved load times]]
 - Later: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT app for iOS in more countries]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

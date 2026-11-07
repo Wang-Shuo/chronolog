@@ -4,20 +4,20 @@ date: '2026-08-25'
 description: 'Lovable · 2026-08-25 · Mobile and Desktop: Enterprise audit logs now
   record which app each action came from: **Web**, **Desktop app**, **iOS app**, or…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2844
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 30d07b412f2c150bce10ab0deb6ce494a67901fe961602408fbf773c3b8a9dc2
+machine_hash: fe922314731b1c2a01230621ae20b056c7280e7515f6f83726774cdd53b7d785
 product: lovable
 product_name: Lovable
 record:
@@ -95,13 +95,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS: Fixed headless sessions not cleaning up stale entries…]]
-- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-starting-up-on-windows-the-windows-start-script-now-creates-the-secret-key-it-ne|🪟 Starting up on Windows. The Windows start script now creates the secret key…]]
+- Later: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-page-steering-and-auto-triggering-of-pages-on-mobile-android-ios-microsoft-365-c|Page steering and auto-triggering of pages on mobile Android…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

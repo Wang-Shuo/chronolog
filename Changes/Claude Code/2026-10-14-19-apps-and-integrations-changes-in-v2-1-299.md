@@ -4,20 +4,20 @@ date: '2026-10-14'
 description: 'Claude Code · 2026-10-14 · Apps and Integrations: 19 changes in v2.1.299
   — Added `--shutdown-drain-sec` to `claude self-hosted-runner orchestrator`: on SIGTERM…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1301
+  lag_days: 2861
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1daa999af62ef8aaa8c9c8e14394095161358537a2c84fe5a9468417f3f23ba6
+machine_hash: 0aae80af6e5abf3a593488f80e17ac9ccd7bc7f2e6b49c8d4d5ad8ae003e280f
 product: claude-code
 product_name: Claude Code
 record:
@@ -196,7 +196,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

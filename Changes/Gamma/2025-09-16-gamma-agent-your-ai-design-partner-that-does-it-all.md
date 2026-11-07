@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1e38567db17b86270e39b48c318de14ae164301bc0791cc94df53f41ef6cb8cb
+machine_hash: 01a767974e39abe9225712798bb8e5322e7b7a9f6e43eeafd392801f97776248
 product: gamma
 product_name: Gamma
 record:

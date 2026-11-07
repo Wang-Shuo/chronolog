@@ -4,20 +4,20 @@ date: '2026-10-07'
 description: 'Codex CLI · 2026-10-07 · Context Window: 9 changes in 0.161.0 — #49257
   Allow Guardian cached approvals with incomplete root context @felixxia-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1252
+  lag_days: 2576
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b334e7ad65fd39c86700b4c67f5412fcf00a4020403ce0a49929233a83f31ebe
+machine_hash: 31650d1321066ca0092210cb758eb2804ece8d68cd928d9497e227c2ceb9dc77
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -130,7 +130,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.161.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

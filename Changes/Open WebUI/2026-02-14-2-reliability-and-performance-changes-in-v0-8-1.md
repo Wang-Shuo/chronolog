@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-02-14 · Reliability and Performance: 2 changes
   v0.8.1 — \U0001F680 **Channel user active status.** Checking user active status
   in channels is now…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1157
+  lag_days: 2644
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8b28f64e862ad1476b5aef67f196f1b759b0d55de552aeef4afbe47eccfe706
+machine_hash: ae11ecfd12cfb93970eb4d7676e60e6816bb9ff9c33fa8f854ccb477ac3c48fa
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Reliability and Performance changes in v0.8.1
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple
-  memory leaks]]'
+- '[[Changes/Z.ai API/2026-02-12-designed-for-complex-system-engineering-and-long-range-agent-tasks-glm-5-shifts|Designed
+  for complex system engineering and long-range Agent tasks, GLM-5 shifts…]]'
 - '[[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance
   improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-14-reduce-memory-usage-from-encoding-streaming-chunks|Reduce
@@ -99,7 +99,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

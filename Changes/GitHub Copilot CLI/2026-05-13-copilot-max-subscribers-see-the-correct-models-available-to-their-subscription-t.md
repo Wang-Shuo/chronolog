@@ -4,20 +4,20 @@ date: '2026-05-13'
 description: 'GitHub Copilot CLI · 2026-05-13 · Pricing Model: Copilot Max subscribers
   see the correct models available to their subscription tier'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1245
+  lag_days: 2863
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 11fe831cda876c883569f23cd4ce3fdb1cfad91c64c5c8cd7e1556f12d29fad4
+machine_hash: 3a46687bb748fb49ac986f4c474f27a381454811b4f5eff422de4d245a0573ca
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,13 +91,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-the-v0-credit-redemption-modal-no-longer-hangs-on-verifying-after-submitting-a-u|The v0 credit redemption modal no longer hangs on "Verifying" after submitting…]]
-- Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-model-picker-displays-actual-token-prices-instead-of-dot-indicators-for-token-ba|Model picker displays actual token prices instead of dot indicators for token-based…]]
+- Later: 2026-05-13 · Notion · [[Changes/Notion/2026-05-13-trigger-notion-workflows-from-anywhere-beta|Trigger Notion workflows from anywhere (Beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

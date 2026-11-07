@@ -4,19 +4,20 @@ date: '2026-05-24'
 description: 'GitHub Copilot CLI · 2026-05-24 · Developer Workflow: Bash shell sessions
   no longer hang when PS0 or PROMPT_COMMAND is set in the environment'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1163
+  lag_days: 2812
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75b4d9331f9ed6e7424bd91f3fb219f22b0aca4fa8ac3bef72fd6f2447d6cd41
+machine_hash: 08b0ddb78114b23a3a708f58f4fac6755acbae37b352579d7ae8a88c7812b1f2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,13 +81,13 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-3-developer-workflow-changes-in-v1-15-9|3 Developer Workflow changes in v1.15.9]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer Workflow changes in v2.1.152]]
+- Later: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-persist-model-selections-from-the-terminal-ui-to-the-default-configuration-and-h|Persist model selections from the terminal UI to the default configuration…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

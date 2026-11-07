@@ -4,20 +4,20 @@ date: '2024-06-27'
 description: "Open WebUI · 2024-06-27 · Voice and Audio: 2 changes in v0.3.6 — **\U0001F399️
   Voice Interruption Feature**: Reintroduced and now toggleable from Settings > Interface."
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 353
+  lag_days: 2180
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f6e7657b5bbf03986c98cc03560f7cdb3e790e037753b31e5659588eff20f34
+machine_hash: ba9a21317d193e06fcccf9742e6f830968f38c758eb321173bb2cf97edcc503f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Voice and Audio changes in v0.3.6
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect
-  supported audio sample rates for /voice]]'
+- '[[Changes/Descript/2024-06-04-layer|Layer]]'
 - '[[Changes/Open WebUI/2024-06-10-3-voice-and-audio-changes-in-v0-3-0|3 Voice and
   Audio changes in v0.3.0]]'
 - '[[Changes/Open WebUI/2024-06-17-3-voice-and-audio-changes-in-v0-3-5|3 Voice and
@@ -96,7 +95,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

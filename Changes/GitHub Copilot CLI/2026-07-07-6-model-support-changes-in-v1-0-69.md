@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e09916b27b7f7a78d8c36d613c4c62fd12bf27fa666ad36e8c5bfefc349a2874
+machine_hash: 7f1972371946b3cf994a4e353c7d8068094737a417e829c8ba1508f8dd2be61b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 ## Nearby in Model Support
 
 - Earlier: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-4-model-support-changes-in-1-9-0|4 Model Support changes in 1.9.0]]
-- Later: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-nano-banana-2-lite-image-model-for-ai-features-in-your-app|Nano Banana 2 Lite image model for AI features in your app]]
+- Later: 2026-07-07 · Kimi Code · [[Changes/Kimi Code/2026-07-07-2-model-support-changes-in-kimi-code-0-23-1|2 Model Support changes in Kimi Code 0.23.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

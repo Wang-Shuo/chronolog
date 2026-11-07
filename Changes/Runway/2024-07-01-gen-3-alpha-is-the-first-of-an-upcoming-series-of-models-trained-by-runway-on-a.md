@@ -4,20 +4,20 @@ date: '2024-07-01'
 description: 'Runway · 2024-07-01 · Multimodal Input: Gen-3 Alpha is the first of
   an upcoming series of models trained by Runway on a new infrastructure built for…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 286
+  lag_days: 2054
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 970a301d17d04685db46d1cc008bdcbc10f0699f79be8d16b2d51629487d18fb
+machine_hash: 51ac5b4f52f17fddfaae1e03de059a585f18c6f88a91b7e33c280494cbb64dfe
 product: runway
 product_name: Runway
 record:
@@ -57,11 +57,11 @@ record:
   title: Gen-3 Alpha Text to Video
   type: change
 related_changes:
-- '[[Changes/Aider/2024-04-21-4-turbo-vision|--4-turbo-vision]]'
-- '[[Changes/Dify/2024-04-22-2-multimodal-input-changes-in-0-6-4|2 Multimodal Input
-  changes in 0.6.4]]'
 - "[[Changes/Open WebUI/2024-05-02-youtube-rag-pipeline-introduces-dedicated-rag-pipeline-for-youtube-videos-enabli|\U0001F4F9
   Youtube RAG Pipeline]]"
+- '[[Changes/Descript/2024-06-04-import-media-from-a-youtube-and-giphy|Import media
+  from a YouTube and GIPHY]]'
+- '[[Changes/Descript/2024-06-04-media|Media]]'
 source_release: '[[Releases/Runway/runway-2024-07-01-2024-07-01-gen-3-alpha-text-to-video-e16db971|runway-2024-07-01-2024-07-01-gen-3-alpha-text-to-video-e16db971]]'
 source_type: runway_changelog
 theme: multimodal
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-youtube-rag-pipeline-introduces-dedicated-rag-pipeline-for-youtube-videos-enabli|📹 Youtube RAG Pipeline]]
-- Later: 2024-09-20 · Dify · [[Changes/Dify/2024-09-20-feat-add-hunyuan-vision-by-muzea-in-https-github-com-langgenius-dify-pull-8529|feat: add hunyuan-vision]]
+- Earlier: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-media|Media]]
+- Later: 2024-08-14 · Descript · [[Changes/Descript/2024-08-14-regenerate-with-sequences|Regenerate with Sequences]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

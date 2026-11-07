@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-04-21 · Multimodal Input: \U0001F680 **Persist
   chat payload efficiency.** Persisted chats now use server-side history loading instead
   of repeatedly…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 945
+  lag_days: 2713
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62cda4e9289d1c31571c6244d8871d969dcabb127ffb2adaf792a5b15bbe7fa9
+machine_hash: 97d21237ff27f247e6fecd79b81cf425bca9bb6dcf3d0494770c74f92b120e74
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,9 +61,12 @@ record:
     server-side…"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-01-javascript-sdk|JavaScript SDK]]'
-- '[[Changes/ElevenLabs/2026-04-01-music|Music]]'
-- '[[Changes/ElevenLabs/2026-04-07-packages|Packages]]'
+- '[[Changes/Descript/2026-04-16-new-in-gen-video-seedance-2-0|New in Gen Video—Seedance
+  2.0]]'
+- '[[Changes/HeyGen/2026-04-21-2-multimodal-input-changes-in-introducing-instant-highlights-v2|2
+  Multimodal Input changes in Introducing Instant Highlights v2]]'
+- '[[Changes/HeyGen/2026-04-21-we-rebuilt-instant-highlights-from-the-ground-up-upload-any-long-form-video-incl|We
+  rebuilt Instant Highlights from the ground up]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a|open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a]]'
 source_type: github_releases
 theme: multimodal
@@ -109,14 +112,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-04-07 · ElevenLabs · [[Changes/ElevenLabs/2026-04-07-packages|Packages]]
+- Earlier: 2026-04-21 · HeyGen · [[Changes/HeyGen/2026-04-21-we-rebuilt-instant-highlights-from-the-ground-up-upload-any-long-form-video-incl|We rebuilt Instant Highlights from the ground up]]
 - Later: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2: image paste from Windows clipboard now works via a PowerShell fallback…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-06-23'
 description: 'GitHub Copilot CLI · 2026-06-23 · Reliability and Performance: Show
   per-model token totals in /usage and speed up large history scans'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1286
+  lag_days: 2773
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 368d139be6bc6d660d925ee24fc8254fdcae8c18a095a8dec65fcf9d0f422b7a
+machine_hash: c18a0aa649e79ff547982b3ac02d666249ee2ef5338fdad0d724053c2eb09caf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: Show per-model token totals in /usage and speed up large history scans
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier
-  conversation sharing]]'
 - '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The
   stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]'
 - '[[Changes/Codex CLI/2026-06-22-2-reliability-and-performance-changes-in-rust-v0-142-0|2
   Reliability and Performance changes in rust-v0.142.0]]'
+- '[[Changes/Kimi Code/2026-06-22-speed-up-session-snapshot-loading-with-a-direct-disk-reader-and-a-request-timeou|Speed
+  up session snapshot loading with a direct disk reader and a request timeout…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: reliability-performance
@@ -103,14 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-2-reliability-and-performance-changes-in-rust-v0-142-0|2 Reliability and Performance changes in rust-v0.142.0]]
+- Earlier: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-speed-up-session-snapshot-loading-with-a-direct-disk-reader-and-a-request-timeou|Speed up session snapshot loading with a direct disk reader and a request timeout…]]
 - Later: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

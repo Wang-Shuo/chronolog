@@ -4,20 +4,20 @@ date: '2026-09-08'
 description: 'Windsurf · 2026-09-08 · Mobile and Desktop: > **Cascade** has been removed.
   [Devin Local](https://docs.devin.ai/desktop/devin-local.md) is now the only agent…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1274
+  lag_days: 2858
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1a3edf823e2e6013a8c9f9da7951f95c51635a0a018316d41e3a21fead2d405c
+machine_hash: 0506c99a88402a4782ce20c81bd4af74e38f48bd6c0c3d8b6c949df7a37c2e84
 product: windsurf
 product_name: Windsurf
 record:
@@ -75,12 +75,12 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-05-10-mobile-and-desktop-changes-in-v2026-9-2|10 Mobile
-  and Desktop changes in v2026.9.2]]'
-- '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
-  a sketch into an image]]'
 - '[[Changes/OpenClaw/2026-09-08-10-mobile-and-desktop-changes-in-v2026-9-3|10 Mobile
   and Desktop changes in v2026.9.3]]'
+- '[[Changes/Qoder/2026-09-08-mobile-remote-control-once-enabled-you-can-use-your-phone-to-create-and-run-task|Mobile
+  Remote Control]]'
+- '[[Changes/Qoder/2026-09-08-mobile-remote-control-is-supported|Mobile remote control
+  is supported]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-09-08-v3-9-19-976db35b|windsurf-2026-09-08-v3-9-19-976db35b]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -125,14 +125,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-10-mobile-and-desktop-changes-in-v2026-9-3|10 Mobile and Desktop changes in v2026.9.3]]
+- Earlier: 2026-09-08 · Qoder · [[Changes/Qoder/2026-09-08-mobile-remote-control-is-supported|Mobile remote control is supported]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6 Mobile and Desktop changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

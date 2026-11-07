@@ -4,20 +4,20 @@ date: '2024-06-10'
 description: 'Open WebUI · 2024-06-10 · Files and Data: **⚙️ Unified Settings**: Consolidated
   settings including document settings under a new admin settings section for…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 382
+  lag_days: 1727
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7f9537394b6595ffee8ed368a71656b5356a4e27fb538eca643eb79380c33ecb
+machine_hash: 6319a885e2107052ec810f65055ad88900e20b6b6a4d23d6d364b3cd02d670d2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: '**⚙️ Unified Settings**'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-05-27-rag-document-segmentation-configurable-max-segmentation-tokens-length-for-rag-do|RAG
-  Document Segmentation]]'
+- '[[Changes/Descript/2024-06-04-new-timeline-and-canvas-tools|New Timeline and Canvas
+  tools]]'
 - '[[Changes/Dify/2024-06-04-3-files-and-data-changes-in-0-6-10|3 Files and Data changes
   in 0.6.10]]'
 - '[[Changes/Open WebUI/2024-06-04-quick-access-to-documentation-you-can-now-easily-access-open-webui-documents-via|❓
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

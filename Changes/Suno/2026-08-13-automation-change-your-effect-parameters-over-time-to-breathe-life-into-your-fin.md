@@ -4,20 +4,20 @@ date: '2026-08-13'
 description: 'Suno · 2026-08-13 · Automation and Scheduling: Automation: Change your
   effect parameters over time to breathe life into your final mix.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 954
+  lag_days: 2521
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: caec568641b22ba3048b64e17ac12cc0d28c92d4a443395a6b7b9de2db60c684
+machine_hash: 37428aaec6730dfe810ef110fdbeb2d99dea7c5c6b3ca363c1fe4f00dd0c0f40
 product: suno
 product_name: Suno
 record:
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

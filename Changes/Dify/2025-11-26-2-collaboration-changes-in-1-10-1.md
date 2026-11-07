@@ -5,19 +5,20 @@ description: 'Dify · 2025-11-26 · Collaboration: 2 changes in v1.10.1 – Mult
   Era Begins: MySQL Joins the Family — Thanks **@longbingljw** from the OceanBase
   team!'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 917
+  lag_days: 2511
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f2ffd41d050f161b4af9284a97f72875152882bacce22764b9fd93e9058c4db
+machine_hash: 59562e04eee99d26511f66322449e707c220a5d01fcfb5367c18093dce83c0b8
 product: dify
 product_name: Dify
 record:
@@ -43,8 +44,7 @@ record:
   title: 2 Collaboration changes in 1.10.1
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-07-share-provider-information-by-barreirot-in-https-github-com-cline-cline-pull-733|Share
-  provider information]]'
+- '[[Changes/Notion/2025-11-14-catch-up-on-comments|Catch up on comments]]'
 - '[[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote
   shared helpers for suite tests (♯6460) — @aibrahim]]'
 - '[[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos
@@ -98,7 +98,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.10.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

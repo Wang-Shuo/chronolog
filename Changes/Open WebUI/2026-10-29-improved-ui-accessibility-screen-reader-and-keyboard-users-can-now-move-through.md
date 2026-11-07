@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 35cb10d750e88fc95525029960323aebe5eb810e2b58915b2c7ba1bb1f9ef986
+machine_hash: 09c870fcf7fe98d27d3b4150e22640a21f0bd63dde16d76935e7aca77ed85fab
 product: open-webui
 product_name: Open WebUI
 record:
@@ -80,12 +80,12 @@ record:
     move…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-changed-the-axscreenreader-setting-and-claude-ax-screen-reader-in-a-settings-env|Changed
-  the axScreenReader setting and CLAUDE_AX_SCREEN_READER in a settings…]]'
 - '[[Changes/Dify/2026-10-23-3-accessibility-and-localization-changes-in-1-18-0|3
   Accessibility and Localization changes in 1.18.0]]'
 - '[[Changes/Claude Code/2026-10-26-3-accessibility-and-localization-changes-in-v2-1-311|3
   Accessibility and Localization changes in v2.1.311]]'
+- '[[Changes/Synthesia/2026-10-27-dub-videos-into-up-to-20-languages-straight-from-your-own-systems-with-the-new-l|Dub
+  videos at scale with the Localization API]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -130,7 +130,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-3-accessibility-and-localization-changes-in-v2-1-311|3 Accessibility and Localization changes in v2.1.311]]
+- Earlier: 2026-10-27 · Synthesia · [[Changes/Synthesia/2026-10-27-dub-videos-into-up-to-20-languages-straight-from-your-own-systems-with-the-new-l|Dub videos at scale with the Localization API]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-accessibility-improvements-screen-reader-users-now-hear-a-name-for-every-window|♿ Accessibility improvements. Screen reader users now hear a name for every…]]
 <!-- chronolog:end -->
 

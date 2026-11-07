@@ -4,19 +4,20 @@ date: '2026-07-21'
 description: 'v0 · 2026-07-21 · Developer Workflow: 2 changes in Slash commands, the
   Shopify integration, and a Snowflake reliability pass — Chats started from a Git…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1221
+  lag_days: 2870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 17165c1263d25e197173cf1223bb683948bcbebd358651fa892664452d5a3854
+machine_hash: 4bf713666b3fee9911028ebae678db19ec34afb0d0850383b187391b9ceae256
 product: v0
 product_name: v0
 record:
@@ -99,7 +100,7 @@ Source: https://v0.app/changelog#2026-07-21
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

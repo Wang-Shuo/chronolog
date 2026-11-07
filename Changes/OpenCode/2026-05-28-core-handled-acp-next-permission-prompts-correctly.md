@@ -4,20 +4,20 @@ date: '2026-05-28'
 description: 'OpenCode · 2026-05-28 · Safety and Privacy: Core Handled acp-next permission
   prompts correctly'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1138
+  lag_days: 2130
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18d2f57431f0e423549a7b4728f962bcb36c48f1bb0669458a83d74e3e5ff073
+machine_hash: c602c152d583e84c17e4bdf47d8ef5ad0de15bb0bcf5985692820a9000cf31c2
 product: opencode
 product_name: OpenCode
 record:
@@ -42,11 +42,12 @@ record:
   title: Core Handled acp-next permission prompts correctly
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-27-sensitive-data-scanning|Sensitive data scanning]]'
 - '[[Changes/Claude Code/2026-05-28-2-safety-and-privacy-changes-in-v2-1-153|2 Safety
   and Privacy changes in v2.1.153]]'
 - '[[Changes/Codex CLI/2026-05-28-7-safety-and-privacy-changes-in-rust-v0-135-0|7
   Safety and Privacy changes in rust-v0.135.0]]'
+- '[[Changes/Kimi Code/2026-05-28-add-auto-slash-command-and-auto-cli-flag-for-auto-permission-mode|Add
+  /auto slash command and --auto CLI flag for auto permission mode]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-28-v1-15-12-2957a170|opencode-2026-05-28-v1-15-12-2957a170]]'
 source_type: opencode_changelog
 theme: safety-privacy
@@ -81,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-7-safety-and-privacy-changes-in-rust-v0-135-0|7 Safety and Privacy changes in rust-v0.135.0]]
+- Earlier: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-add-auto-slash-command-and-auto-cli-flag-for-auto-permission-mode|Add /auto slash command and --auto CLI flag for auto permission mode]]
 - Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety and Privacy changes in v2.1.157]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

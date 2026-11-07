@@ -4,20 +4,19 @@ date: '2023-11-06'
 description: 'Dify · 2023-11-06 · Editor Experience: chore(deps): bump word-wrap from
   1.2.3 to 1.2.5 in /web by @dependabot in https://github.com/langgenius/dify/pull/1440'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 237
+  lag_days: 1821
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12d55833d3ae244854563c50a35126abc11cb12c13ee2d1f72eab11858b4cb37
+machine_hash: 71683954b417e6168b918037f99eff2ef889f4c0446be5b942aaaf2ff1aa3550
 product: dify
 product_name: Dify
 record:
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

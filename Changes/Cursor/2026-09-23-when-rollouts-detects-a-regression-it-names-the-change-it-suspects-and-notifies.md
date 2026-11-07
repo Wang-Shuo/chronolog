@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 18cf12a494320346e0a9ae7c5bcd902c7108ebabff1ac79a132549b5f5cee0e7
+machine_hash: b8d856e2b3b8db13272aeda5ee7689a195d8cb959076afb4a9b225574f77112d
 product: cursor
 product_name: Cursor
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-10-agent-mode-changes-in-v2-1-281|10 Agent Mode changes in v2.1.281]]
-- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-41-agent-mode-changes-in-v2026-9-6|41 Agent Mode changes in v2026.9.6]]
+- Later: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-planner-agent-chat-windows-web-microsoft-365-copilot|Planner Agent chat Windows, Web (Microsoft 365 Copilot)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

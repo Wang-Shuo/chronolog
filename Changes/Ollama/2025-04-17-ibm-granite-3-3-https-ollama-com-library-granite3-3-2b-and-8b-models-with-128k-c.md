@@ -4,20 +4,20 @@ date: '2025-04-17'
 description: 'Ollama · 2025-04-17 · Context Window: [IBM Granite 3.3](https://ollama.com/library/granite3.3):
   2B and 8B models with 128K context length that have been…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 714
+  lag_days: 2038
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb5d74e20965b5712d9677b25f87980d3198d1f89d03f36dd56f3ae0fb03e574
+machine_hash: 4877dce04e9c5a4d751af11c4261937605290e208a8f78b13e78db5a3da09fbf
 product: ollama
 product_name: Ollama
 record:
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

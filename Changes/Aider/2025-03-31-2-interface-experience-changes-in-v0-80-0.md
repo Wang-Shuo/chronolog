@@ -5,20 +5,20 @@ description: 'Aider · 2025-03-31 · Interface Experience: 2 changes in Aider v0
   — Add `Ctrl-X Ctrl-E` keybinding to edit the current input buffer in an external
   editor…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 812
+  lag_days: 2178
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8db8e28279362e8eec16b6c691a5ca2862c495f3aeefa3b89efe1b9c0cad95e
+machine_hash: ef6eecfbdf7bb6f07e71a892543eb5f6dc62946fd8d3bc237a10aeef19d0d3fd
 product: aider
 product_name: Aider
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Interface Experience changes in v0.80.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]'
 - '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
   Experience changes in 0.48.x]]'
 - '[[Changes/Dify/2025-03-24-ui-ux-fixes-addressed-various-style-and-interaction-issues-like-sidebar-width-on|UI/UX
   Fixes: Addressed various style and interaction issues, like sidebar width…]]'
+- '[[Changes/Descript/2025-03-25-instant-recording-playback|Instant recording playback]]'
 source_release: '[[Releases/Aider/aider-2025-03-31-v0-80-0-github-209238246-56764716|aider-2025-03-31-v0-80-0-github-209238246-56764716]]'
 source_type: github_releases
 theme: interface-experience
@@ -85,14 +85,14 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.80.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-ui-ux-fixes-addressed-various-style-and-interaction-issues-like-sidebar-width-on|UI/UX Fixes: Addressed various style and interaction issues, like sidebar width…]]
+- Earlier: 2025-03-25 · Descript · [[Changes/Descript/2025-03-25-instant-recording-playback|Instant recording playback]]
 - Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-3-interface-experience-changes-in-v0-6-0|3 Interface Experience changes in v0.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

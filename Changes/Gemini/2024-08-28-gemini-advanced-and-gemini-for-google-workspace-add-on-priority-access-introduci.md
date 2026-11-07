@@ -5,20 +5,20 @@ description: 'Gemini · 2024-08-28 · Automation and Scheduling: What: Gems are 
   way to customize Gemini towards your specific goals. In a few steps, you can create
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 239
+  lag_days: 1806
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ad5aa9982511d8c1537d52f91ede20b6854bbbec4ee005180256db9789515934
+machine_hash: ad3ba668be03ae515a9fea51978eac8d8bcfbcbb2b43249e3f4a19c5b0fe6c22
 product: gemini
 product_name: Gemini
 record:
@@ -59,10 +59,10 @@ record:
   title: Gemini Advanced and Gemini for Google Workspace add-on priority access
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-15-refactor-api-switch-to-dify-config-with-pydantic-in-controllers-and-schedule-by|refactor(api):
-  switch to dify_config with Pydantic in controllers and schedule]]'
 - '[[Changes/Dify/2024-07-23-update-celery-beat-scheduler-time-to-env-by-johnjyong-in-https-github-com-langge|update
   celery beat scheduler time to env]]'
+- '[[Changes/Notion/2024-08-13-smarter-more-flexible-automations|Smarter, more flexible
+  automations]]'
 - '[[Changes/Dify/2024-08-14-docs-remove-all-meeting-schedule-links-by-guchenhe-in-https-github-com-langgeniu|Docs/remove
   all meeting schedule links]]'
 source_release: '[[Releases/Gemini/gemini-2024-08-28-2024-08-28-caa99c78|gemini-2024-08-28-2024-08-28-caa99c78]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

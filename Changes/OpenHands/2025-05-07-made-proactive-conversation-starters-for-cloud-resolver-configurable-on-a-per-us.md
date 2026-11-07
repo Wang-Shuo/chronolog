@@ -4,20 +4,20 @@ date: '2025-05-07'
 description: 'OpenHands · 2025-05-07 · Automation and Scheduling: Made proactive conversation
   starters for Cloud Resolver configurable on a per-user basis. Can be toggled in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 491
+  lag_days: 2058
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 69db9f06e48a6852d33844e4c7b8b5fafb3407084703a9074a97649e2558b345
+machine_hash: b260b90c370552a11c862cd1bb2f068d653883273ddd45c5df4065d27a19db8d
 product: openhands
 product_name: OpenHands
 record:
@@ -47,10 +47,9 @@ record:
     per-user basis
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-09-5-automation-and-scheduling-changes-in-1-2-0|5 Automation
-  and Scheduling changes in 1.2.0]]'
 - "[[Changes/Open WebUI/2025-04-13-elixir-code-highlighting-support-elixir-syntax-is-now-beautifully-rendered-in-co|\U0001F9E0
   Elixir Code Highlighting Support]]"
+- '[[Changes/Notion/2025-04-15-schedule-meetings-instantly|Schedule meetings instantly]]'
 - "[[Changes/Open WebUI/2025-05-05-more-robust-action-module-execution-multiple-actions-in-a-module-now-trigger-as|\U0001F6E0️
   More Robust Action Module Execution]]"
 source_release: '[[Releases/OpenHands/openhands-2025-05-07-0-37-0-github-217110161-eb6d03c5|openhands-2025-05-07-0-37-0-github-217110161-eb6d03c5]]'
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

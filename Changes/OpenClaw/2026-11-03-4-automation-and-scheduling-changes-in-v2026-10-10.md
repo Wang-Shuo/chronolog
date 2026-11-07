@@ -4,20 +4,20 @@ date: '2026-11-03'
 description: 'OpenClaw · 2026-11-03 · Automation and Scheduling: 4 changes in v2026.10.10
   — Open an older run directly from automation history, or search delivery error text…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1036
+  lag_days: 2603
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9750ee94fdb4d7eac474bf89c711ea94b49590bb904efe06975678738fc0b175
+machine_hash: 93f2d1992a94fd753ea6d3081f5b7c854738a397479bc7677d7fc0d686392d3d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -122,7 +122,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.10
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

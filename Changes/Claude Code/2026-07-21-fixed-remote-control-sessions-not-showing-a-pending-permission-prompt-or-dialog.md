@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-07-21 · Safety and Privacy: Fixed Remote Cont
   sessions not showing a pending permission prompt or dialog to viewers that connected
   after…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1192
+  lag_days: 2184
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 90c060076dda836a4c4dc81df171d9b935be04f41b1be7415cc12557541909bc
+machine_hash: 1db71c3f95e20b1590a225ec7fda6512dfde619f20ae08162789957852ef6610
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     dialog…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-18-9-safety-and-privacy-changes-in-v2-1-214|9 Safety
-  and Privacy changes in v2.1.214]]'
-- '[[Changes/Claude Code/2026-07-20-5-safety-and-privacy-changes-in-v2-1-216|5 Safety
-  and Privacy changes in v2.1.216]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-4-safety-and-privacy-changes-in-v1-0-72|4
   Safety and Privacy changes in v1.0.72]]'
+- '[[Changes/Kimi Code/2026-07-20-correct-the-yolo-and-auto-permission-mode-descriptions-yolo-auto-approves-tool-a|Correct
+  the YOLO and Auto permission mode descriptions]]'
+- '[[Changes/Kimi Code/2026-07-20-fix-running-subagents-not-observing-permission-mode-switches-made-after-they-sta|Fix
+  running subagents not observing permission mode switches made after they started]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-4-safety-and-privacy-changes-in-v1-0-72|4 Safety and Privacy changes in v1.0.72]]
+- Earlier: 2026-07-20 · Kimi Code · [[Changes/Kimi Code/2026-07-20-fix-running-subagents-not-observing-permission-mode-switches-made-after-they-sta|Fix running subagents not observing permission mode switches made after they started]]
 - Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-17-safety-and-privacy-changes-in-rust-v0-145-0|17 Safety and Privacy changes in rust-v0.145.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

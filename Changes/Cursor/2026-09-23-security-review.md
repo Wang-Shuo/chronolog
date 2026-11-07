@@ -5,20 +5,20 @@ description: 'Cursor · 2026-09-23 · Safety and Privacy: Security Review is ava
   today. It reads every pull request in the context of the codebase and posts one
   review…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1256
+  lag_days: 2248
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 30ed3cc449153cb89ee13a292aafea1687aa1bc63bd1486d925d9ee977421004
+machine_hash: efdf0338248790d320f0ab2321ffd71a64cfad947967f701a1f764ce4bcc46b6
 product: cursor
 product_name: Cursor
 record:
@@ -96,13 +96,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-12-safety-and-privacy-changes-in-v2-1-281|12 Safety and Privacy changes in v2.1.281]]
-- Later: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-redesigned-project-security-view|Redesigned project Security view]]
+- Later: 2026-09-23 · Kimi Code · [[Changes/Kimi Code/2026-09-23-harden-workspace-security-block-file-tools-from-accessing-files-outside-the-work|Harden workspace security]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

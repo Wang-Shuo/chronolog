@@ -5,19 +5,20 @@ description: 'Codex CLI · 2026-08-20 · Developer Workflow: 18 changes in 0.149
   Queued messages now wake idle sessions reliably, resolve duplicate session names
   more…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1251
+  lag_days: 2900
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2181fb96dbf44c70e7327b5f818a43f4b8ce466b391dfa0f196f2a86603fbad
+machine_hash: 7689464d4ee9141b450d0586b3930bfdc84bd1b627dfca9887316fef232e2473
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -79,8 +80,8 @@ record:
   title: 18 Developer Workflow changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-5-developer-workflow-changes-in-rust-v0-148-0|5
-  Developer Workflow changes in rust-v0.148.0]]'
+- '[[Changes/Z.ai API/2026-08-18-stronger-coding-capabilities-glm-5-3-delivers-a-significant-improvement-in-codin|Stronger
+  Coding Capabilities]]'
 - '[[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer
   Workflow changes in v2.1.236]]'
 - '[[Changes/Claude Code/2026-08-20-2-developer-workflow-changes-in-v2-1-238|2 Developer
@@ -172,7 +173,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

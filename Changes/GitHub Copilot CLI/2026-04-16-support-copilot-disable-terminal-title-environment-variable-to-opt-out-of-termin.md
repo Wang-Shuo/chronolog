@@ -4,19 +4,20 @@ date: '2026-04-16'
 description: 'GitHub Copilot CLI · 2026-04-16 · Developer Workflow: Support COPILOT_DISABLE_TERMINAL_TITLE
   environment variable to opt out of terminal title updates'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1125
+  lag_days: 2774
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ce253bffd8b06caea862e4d96301bc945f7ec1430c7b6cf48eb16ba5b6b89473
+machine_hash: 8a8db3dbd7f00530523eb293d9eb6588b361487efe0eed11752ed748f1945272
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +45,9 @@ record:
     terminal…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer
-  Workflow changes in v2.1.111]]'
 - '[[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added
   /ultrareview for running comprehensive code review in the cloud using…]]'
+- '[[Changes/Descript/2026-04-16-descript-api-in-open-beta|Descript API in open beta]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-terminal-state-correctly-restored-after-a-crash-exit-on-windows|Terminal
   state correctly restored after a crash exit on Windows]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-16-v1-0-28-github-309609147-270e3f24|github-copilot-cli-2026-04-16-v1-0-28-github-309609147-270e3f24]]'
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

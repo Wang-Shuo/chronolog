@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'OpenClaw · 2026-09-23 · Apps and Integrations: 58 changes in v2026.9.6
   — Ask an agent to discover, choose or create a personal theme and save it to your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1280
+  lag_days: 2840
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc6360c544319f8f883560c5f36576a6fe1c4dea8377443b6a52938ff612a916
+machine_hash: 23ed8324a11399973e025cc7800c7150145a263753cd9bd9922ec3f90e7f70ec
 product: openclaw
 product_name: OpenClaw
 record:
@@ -403,11 +403,12 @@ record:
   title: 58 Apps and Integrations changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-integrations|Integrations]]'
-- '[[Changes/Lovable/2026-09-23-app-chat-connectors-aws-api-azure-cloud-api-azure-graph-entra-api-google-cloud-a|App
-  + chat connectors]]'
 - '[[Changes/Lovable/2026-09-23-typo-tolerant-connector-search|Typo-tolerant connector
   search]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-federated-copilot-connectors-web-microsoft-365-copilot-extensibility|Federated
+  Copilot Connectors Web (Microsoft 365 Copilot extensibility)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-pre-setup-guides-editability-actionable-errors-alerting-support-available-for-co|Pre-setup
+  guides, editability, actionable errors & alerting support available…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-23-v2026-9-6-3f12c824|openclaw-2026-09-23-v2026-9-6-3f12c824]]'
 source_type: openclaw_changelog
 theme: apps-integrations
@@ -574,14 +575,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-typo-tolerant-connector-search|Typo-tolerant connector search]]
-- Later: 2026-09-23 · Runway · [[Changes/Runway/2026-09-23-runway-mcp-is-now-available-on-cursor-s-marketplace-making-it-easy-to-bring-runw|Runway MCP on Cursor]]
+- Earlier: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-pre-setup-guides-editability-actionable-errors-alerting-support-available-for-co|Pre-setup guides, editability, actionable errors & alerting support available…]]
+- Later: 2026-09-23 · Qoder · [[Changes/Qoder/2026-09-23-mcp-configuration-added-a-custom-timeout-setting-so-you-can-adjust-the-wait-time|MCP configuration: Added a custom timeout setting so you can adjust the wait…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

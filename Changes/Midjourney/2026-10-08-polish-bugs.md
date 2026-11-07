@@ -5,20 +5,20 @@ description: 'Midjourney · 2026-10-08 · Pricing Model: Draft mode on V8.1 and 
   always makes a 24-image grid, and now the tooltips, hover text, and Try buttons
   make that…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1393
+  lag_days: 3011
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 69d36a7366d102e060c151c9a9844eed87e9fa812aa266c71ddfde78051eaa52
+machine_hash: 0649d1cd6d1fd245d99d30af8b0559f081e91c765c953c834285ce2473facfca
 product: midjourney
 product_name: Midjourney
 record:
@@ -56,10 +56,10 @@ record:
   title: POLISH & BUGS
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-03-9-pricing-model-changes-in-v2026-9-8|9 Pricing Model
-  changes in v2026.9.8]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
   usage reflects the current billing period after quota resets]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-copilot-analytics-cowork-adoption-and-impact-web-viva-insights|Copilot
+  Analytics - Cowork adoption and impact Web (Viva Insights)]]'
 - '[[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set
   credit usage limits and alerts for your workspace]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-10-08-https-updates-midjourney-com-alpha-changelog-10-7-26-cf436888|midjourney-2026-10-08-https-updates-midjourney-com-alpha-changelog-10-7-26-cf436888]]'
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

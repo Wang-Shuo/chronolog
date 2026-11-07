@@ -4,19 +4,20 @@ date: '2026-06-05'
 description: 'OpenCode · 2026-06-05 · Developer Workflow: 4 changes in v1.16.0 — Terminal
   Improved the experimental session switcher.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2824
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5c5ef8b80426a86adbb6ab2ce2ee962504fee0acc938875d1ffaab8b74b92210
+machine_hash: 7e8c6228a6a75328353da4c04dacac794db9e639318f1d8e7602b9d4e054c2c5
 product: opencode
 product_name: OpenCode
 record:
@@ -45,10 +46,10 @@ record:
   title: 4 Developer Workflow changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6
-  Developer Workflow changes in rust-v0.137.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11
   Developer Workflow changes in v1.0.60]]'
+- '[[Changes/Kimi Code/2026-06-05-show-unknown-command-instead-of-too-many-arguments-when-an-invalid-subcommand-is|Show
+  "unknown command" instead of "too many arguments" when an invalid subcommand…]]'
 - '[[Changes/OpenCode/2026-06-05-core-terminal-themes-now-refresh-after-live-terminal-reloads-without-stale-color|Core
   Terminal themes now refresh after live terminal reloads without stale colors…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-05-v1-16-0-b08173b2|opencode-2026-06-05-v1-16-0-b08173b2]]'
@@ -101,7 +102,7 @@ Source: https://opencode.ai/changelog/v1.16.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

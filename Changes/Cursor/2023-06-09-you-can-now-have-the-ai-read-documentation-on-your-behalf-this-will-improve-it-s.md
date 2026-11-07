@@ -4,20 +4,20 @@ date: '2023-06-09'
 description: 'Cursor · 2023-06-09 · Apps and Integrations: You can now have the AI
   read documentation on your behalf! This will improve it''s ability to answer questions…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 78
+  lag_days: 1638
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c601058833ef8c93b45db65377d500cd9df045354342fba17fc328fc4d99a745
+machine_hash: 3528b66e04a9266c30cc03d17dea391f58387b07b5527b9871ea22aa295f6b94
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,11 @@ record:
   title: Show the AI documentation
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|Activity
-  Bar pinning]]'
 - '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing
   Plugin]]'
 - '[[Changes/Dify/2023-05-25-3-apps-and-integrations-changes-in-0-2-2|3 Apps and Integrations
   changes in 0.2.2]]'
+- '[[Changes/Notion/2023-05-31-real-time-github-integration|Real-time GitHub integration]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-09-0-2-30-https-cursor-com-changelog-0-2-30-0ed341a6|cursor-2023-06-09-0-2-30-https-cursor-com-changelog-0-2-30-0ed341a6]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -79,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-3-apps-and-integrations-changes-in-0-2-2|3 Apps and Integrations changes in 0.2.2]]
+- Earlier: 2023-05-31 · Notion · [[Changes/Notion/2023-05-31-real-time-github-integration|Real-time GitHub integration]]
 - Later: 2023-06-09 · Dify · [[Changes/Dify/2023-06-09-feat-npm-sdk-to-2-0-to-fix-steaming-problem-by-iamjoel-in-https-github-com-langg|feat: npm sdk to 2.0 to fix steaming problem]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-03-02'
 description: 'Open WebUI · 2026-03-02 · Developer Workflow: ⚡ **Faster artifact content
   updates.** Artifact content extraction during streaming is now debounced via…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1080
+  lag_days: 2729
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7054b859585e189356906c778f7139d8dac1956bd9d8846a845bddcfe142a187
+machine_hash: 3f02d7b12e10b90a5089eec36de70008ac1f1236cc0d4599e6303ab4fdfb2639
 product: open-webui
 product_name: Open WebUI
 record:
@@ -99,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

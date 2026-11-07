@@ -4,20 +4,19 @@ date: '2026-04-01'
 description: 'GitHub Copilot CLI · 2026-04-01 · Editor Experience: 3 changes in 1.0.15
   — Copilot mascot now blinks with subtle eye animations in interactive mode'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1114
+  lag_days: 2698
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3033028f5838cd8916028b3c17062f9a62bc5dd0d905ed647927d8f3d87c83c6
+machine_hash: bf8bba90b4c721501741bc158f456b19da0aa4287c42a68fff64f82d6a31b39b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +44,8 @@ record:
   title: 3 Editor Experience changes in v1.0.15
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-16021-fix-copy-regression-in-tui-app-server-turn-completion-etraut-openai|♯16021
-  Fix /copy regression in tui_app_server turn completion @etraut-openai]]'
+- '[[Changes/HeyGen/2026-03-31-where-to-find-it-apps-tab-upscale-video|Where to find
+  it: Apps tab → Upscale Video]]'
 - '[[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed
   Edit to work on files viewed via Bash with sed -n or cat, without…]]'
 - '[[Changes/Gemini CLI/2026-04-01-refactor-ide-replace-dynamic-undici-import-with-static-fetch-import-by-cocosheng|refactor(ide):
@@ -98,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.15
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

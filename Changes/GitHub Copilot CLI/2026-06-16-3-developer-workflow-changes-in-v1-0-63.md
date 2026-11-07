@@ -4,19 +4,20 @@ date: '2026-06-16'
 description: 'GitHub Copilot CLI · 2026-06-16 · Developer Workflow: 3 changes in 1.0.63
   — Show fork-based pull requests in /pr and the branch PR badge'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1186
+  lag_days: 2835
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aade00dd697fc8b3a20951f5a959049c7154493c11694fb61eff1e005d410e7d
+machine_hash: fb782cdc19871535f1bd052e296a565a4d9069c0f6f399e3bcbbac112ad05865
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +45,12 @@ record:
   title: 3 Developer Workflow changes in v1.0.63
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-14-core-acp-shell-tool-calls-now-show-the-command-and-working-directory-from-the-st|Core
-  ACP shell tool calls now show the command and working directory from the start]]'
 - '[[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved
   /doctor with consistent flat tree layout across all sections, clearer…]]'
 - '[[Changes/Codex CLI/2026-06-15-6-developer-workflow-changes-in-rust-v0-140-0|6
   Developer Workflow changes in rust-v0.140.0]]'
+- '[[Changes/Kimi Code/2026-06-15-keep-tui-components-within-narrow-terminal-widths-by-wrapping-compacting-or-trun|Keep
+  TUI components within narrow terminal widths by wrapping, compacting…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49|github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,14 +90,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.63
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-6-developer-workflow-changes-in-rust-v0-140-0|6 Developer Workflow changes in rust-v0.140.0]]
-- Later: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]
+- Earlier: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-keep-tui-components-within-narrow-terminal-widths-by-wrapping-compacting-or-trun|Keep TUI components within narrow terminal widths by wrapping, compacting…]]
+- Later: 2026-06-16 · Kimi Code · [[Changes/Kimi Code/2026-06-16-3-developer-workflow-changes-in-kimi-code-0-16-0|3 Developer Workflow changes in Kimi Code 0.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

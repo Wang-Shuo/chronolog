@@ -4,20 +4,21 @@ date: '2026-03-16'
 description: 'Codex CLI · 2026-03-16 · Account and Access: 2 changes in 0.115.0 —
   #14419 use scopes_supported for OAuth when present on MCP servers @jgershen-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1082
+  lag_days: 2057
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5654f5a7eb59a159b78fde43f7d39b75792999b2169848e96c83936b42f959c1
+machine_hash: 7ee1353eab991cc06e5706c2cbd2b1710245a9aee3e6bd9bee23a249726f1ceb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.115.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-01-30'
 description: 'GitHub Copilot CLI · 2026-01-30 · Developer Workflow: 3 changes in 0.0.400
   — Remove bundled LSP servers (TypeScript, Python)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1049
+  lag_days: 2698
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: de2962926e33593ff750208f9a2fa442304074d43c6930a056f5c94740711c24
+machine_hash: 557e0f4c4591f46dc9ed34a10577024589f856abd77fb34c9ad4ced4fe5477d7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -99,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.400
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

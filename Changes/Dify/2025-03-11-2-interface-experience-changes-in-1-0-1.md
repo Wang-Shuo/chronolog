@@ -4,20 +4,20 @@ date: '2025-03-11'
 description: 'Dify · 2025-03-11 · Interface Experience: 2 changes in v1.0.1 — **Visual
   & UX Refinements**: Interface upgrades across the board with zoom handling, dataset…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 792
+  lag_days: 2158
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d6acaa13821c792d2ae372f45c6bcf6118b819a702d6a65e9dc08c8a9251b28
+machine_hash: d10f5397de81d10bbd73e621c362f9ef94c287ff8ddc990276bd96d657b5fb96
 product: dify
 product_name: Dify
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.0.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2025-09-04'
 description: 'Gemini CLI · 2025-09-04 · Editor Experience: 7 changes in Release v0.3.0
   — feat(ide ext): Write workspace path to port file by @skeshive in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 905
+  lag_days: 2489
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a1935df811f07ceab6c990f4e2fe4c487ded13713e9360b84ed0e72df0e616f2
+machine_hash: 33f1f4a196eb45fed78d84e60349de7944020770779afe89e965e1cee801a2d3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,8 +53,7 @@ record:
   title: 7 Editor Experience changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor
-  Experience changes in v0.2.0]]'
+- '[[Changes/Descript/2025-08-29-what-s-new|What’s new?]]'
 - '[[Changes/Lovable/2025-09-01-track-your-edits-streaks|Track your edits + streaks]]'
 - '[[Changes/Lovable/2025-09-01-workspace-viewer-role-pro|Workspace viewer role (Pro+)]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
@@ -120,7 +118,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

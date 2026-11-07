@@ -4,20 +4,20 @@ date: '2026-06-09'
 description: 'GitHub Copilot CLI · 2026-06-09 · Safety and Privacy: Pasted images
   no longer leak into the main prompt after a permission dialog closes'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1150
+  lag_days: 2142
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 37a5b356fc7729186323847370ef78a17d7291c939ac0c283edd1368e9ac91e0
+machine_hash: 31279710a7ffcebd8c687adf777f7ac08e2c3d63090c3deedf17bf2b10bcfd95
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,13 +92,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-5-safety-and-privacy-changes-in-rust-v0-139-0|5 Safety and Privacy changes in rust-v0.139.0]]
-- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-safety-and-privacy-changes-in-v2-1-172|2 Safety and Privacy changes in v2.1.172]]
+- Later: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-fix-acp-slash-skill-routing-bootstrap-context-reads-file-and-permission-edge-cas|Fix ACP slash skill routing, bootstrap context reads, file and permission edge…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

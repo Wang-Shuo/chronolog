@@ -5,20 +5,20 @@ description: 'Runway · 2026-09-17 · Multimodal Input: Convert any video, Runwa
   or not, to 25, 30, 48, 60, 120 or 59.94 fps, up to 4K and 5 minutes long. Available
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1094
+  lag_days: 2862
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5285989c8d1688391703996bbd89bb780ae054e78d9799ca9c8ae711741933f6
+machine_hash: c3fdcc0657f5b40c107e6140d5a2c753d0173948d479ec7b2b94bc718c18cb5b
 product: runway
 product_name: Runway
 record:
@@ -57,11 +57,11 @@ record:
   title: Enhance Frame Rate
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-3-multimodal-input-changes-in-1-17-1|3 Multimodal Input
-  changes in 1.17.1]]'
-- '[[Changes/OpenClaw/2026-09-11-the-bundled-video-frames-skill-and-its-helper-script-have-been-removed-if-you-us|The
-  bundled video-frames skill and its helper script have been removed]]'
-- '[[Changes/ElevenLabs/2026-09-14-music|Music]]'
+- '[[Changes/Synthesia/2026-09-15-the-assistant-now-adds-curated-ai-video-b-roll-featuring-your-avatar-automatical|Improve
+  videos created by Assistant with curated b-roll]]'
+- '[[Changes/Descript/2026-09-17-looking-for-gabe-s-video-it-s-on-the-way-he-s-in-ny-this-week-at-podcast-movemen|Looking
+  for Gabe’s video?]]'
+- '[[Changes/Descript/2026-09-17-no-more-black-first-frame|No more black first frame]]'
 source_release: '[[Releases/Runway/runway-2026-09-17-2026-09-17-enhance-frame-rate-f35d40f2|runway-2026-09-17-2026-09-17-enhance-frame-rate-f35d40f2]]'
 source_type: runway_changelog
 theme: multimodal
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-music|Music]]
+- Earlier: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-no-more-black-first-frame|No more black first frame]]
 - Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-the-browser-sidebar-gains-a-download-file-button-for-the-image-video-or-document|The Browser sidebar gains a Download file button for the image, video, or document…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

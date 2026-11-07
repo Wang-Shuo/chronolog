@@ -4,20 +4,20 @@ date: '2023-06-27'
 description: 'Cursor · 2023-06-27 · Interface Experience: Better @ symbol keyboard
   ergonomics'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 169
+  lag_days: 1535
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f3b27634052f18e5ff286e7abffd145b3d70bab96cdfc31257e5d43d99a2e7f8
+machine_hash: 875cad5cbb40b3b925552958fedaf47dddf735e05fb458b789035c09eb98adfd
 product: cursor
 product_name: Cursor
 record:
@@ -42,12 +42,11 @@ record:
   title: Better @ symbol keyboard ergonomics
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor
-  adds a new feedback button at the top right of the app]]'
-- '[[Changes/Dify/2023-05-30-chore-input-area-highlight-and-moblie-hide-tooltip-by-iamjoel-in-https-github-co|chore:
-  input area highlight and moblie hide tooltip]]'
+- '[[Changes/Descript/2023-06-13-other-tweaks-fixes|Other tweaks & fixes]]'
 - '[[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|Chat
   v2]]'
+- '[[Changes/Descript/2023-06-26-updated-the-icons-in-the-quick-actions-https-help-descript-com-hc-en-us-articles|Updated
+  the icons in the Quick…]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a|cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -76,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-06-24 · Cursor · [[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|Chat v2]]
+- Earlier: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-updated-the-icons-in-the-quick-actions-https-help-descript-com-hc-en-us-articles|Updated the icons in the Quick…]]
 - Later: 2023-07-03 · Cursor · [[Changes/Cursor/2023-07-03-also-you-can-now-use-up-down-arrows-for-history-in-chat|(Also, you can now use up/down arrows for history in chat.)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

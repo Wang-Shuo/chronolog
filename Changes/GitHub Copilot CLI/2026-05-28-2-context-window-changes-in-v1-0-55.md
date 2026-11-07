@@ -4,20 +4,20 @@ date: '2026-05-28'
 description: 'GitHub Copilot CLI · 2026-05-28 · Context Window: 2 changes in 1.0.55
   — Report Claude thinking (reasoning) tokens in session usage summaries'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1120
+  lag_days: 2444
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f6393ce0f139057fdc01c96f57a6f7f37a971c64f41cf2434edf42a39459bf7
+machine_hash: b722383b94abd5003b583764e729b8a958e0283bdad16454c8b9ecde84b27485
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.55
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

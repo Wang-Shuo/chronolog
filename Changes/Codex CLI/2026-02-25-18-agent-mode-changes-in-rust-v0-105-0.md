@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b9f9e33c4f6752ef9ec7590d7985dd032a91052e0c034b8679bc640dddc54d75
+machine_hash: 6c6ce61022b5cd8fc00492e2f29fd8e8ddacbe72cc5126688f356f5d1b9ea8da
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -78,12 +78,12 @@ record:
   title: 18 Agent Mode changes in rust-v0.105.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-23-api-tools-fix-the-api-v1-chat-completions-endpoint-now-properly-respects-caller|\U0001F6E0️
-  API tools fix. The /api/v1/chat/completions endpoint now properly respects…]]"
-- '[[Changes/Cline/2026-02-24-3-agent-mode-changes-in-v3-67-0|3 Agent Mode changes
-  in v3.67.0]]'
-- '[[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud
-  Agents with Computer Use]]'
+- '[[Changes/Notion/2026-02-24-only-pay-for-the-work-custom-agents-do-starting-may-4-2026|Only
+  pay for the work Custom Agents do (starting May 4, 2026)]]'
+- '[[Changes/Notion/2026-02-24-big-news-today-custom-agents-are-finally-here-and-they-re-pretty-different-from|Big
+  news today: Custom Agents are finally here!]]'
+- '[[Changes/Notion/2026-02-24-build-agents-for-every-workflow|Build agents for every
+  workflow]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: agent-mode
@@ -162,7 +162,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-24 · Cursor · [[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud Agents with Computer Use]]
+- Earlier: 2026-02-24 · Notion · [[Changes/Notion/2026-02-24-build-agents-for-every-workflow|Build agents for every workflow]]
 - Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-4-agent-mode-changes-in-v0-30-0|4 Agent Mode changes in v0.30.0]]
 <!-- chronolog:end -->
 

@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-05-06 · Interface Experience: 2 change
   1.0.43 — Add username toggle to /statusline picker to display the active account
   in the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1213
+  lag_days: 2579
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b48ae5c74e3442585c519e49a7887bbd5135d9d77bb99b1d6781bcaca358da3
+machine_hash: a1e93dc1a6af2ba7df340620914888481ed2b6844f16a9b41b7272f12632cae1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,13 +86,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.43
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-3-interface-experience-changes-in-v2-1-129|3 Interface Experience changes in v2.1.129]]
-- Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode behavior]]
+- Later: 2026-05-06 · Notion · [[Changes/Notion/2026-05-06-get-started-from-the-sidebar-library-agents|Get started from the sidebar: Library → Agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2025-11-03'
 description: 'GitHub Copilot CLI · 2025-11-03 · Editor Experience: Diff hunk lines
   now properly fill the width of the diff box'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 965
+  lag_days: 2549
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91899032f69936ab721920b1042dd2dc6fd002ab493982295808d105c039eb85
+machine_hash: 7c58857e03ad296a9671652e20e6ee3a8140c37a0af83de4d057261b4d784e32
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,13 +81,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-11-03 · Gamma · [[Changes/Gamma/2025-11-03-ever-made-the-perfect-edit-to-an-ai-image-only-to-lose-track-of-it-we-heard-you|Ever made the perfect edit to an AI image, only to lose track of it?]]
-- Later: 2025-11-04 · Windsurf · [[Changes/Windsurf/2025-11-04-editor-stability|Editor Stability]]
+- Later: 2025-11-03 · Synthesia · [[Changes/Synthesia/2025-11-03-grow-completion-rate-for-every-video-you-create-with-amazing-new-feature-quizzes|Add Quizzes to any Synthesia video]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

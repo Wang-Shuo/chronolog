@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-05-20 · Apps and Integrations: 4 chang
   1.0.51 — /remote commands now respect organization remote control and view from
   cloud…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1154
+  lag_days: 2714
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44baf3cfc3e79223efd75d8bbd0e1cd52c5313e7306d32d28336dc04e0df0dc8
+machine_hash: aa3c63d1e08c8737a8bf8e9f63dfe7b3c9558529dcd56ddfeea4cba7333e9b7e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 4 Apps and Integrations changes in v1.0.51
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-05-19-gemini-can-connect-to-more-apps-starting-with-opentable-canva-and-instacart|Gemini
-  can connect to more apps, starting with OpenTable, Canva, and Instacart]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-9-apps-and-integrations-changes-in-v1-0-49|9
   Apps and Integrations changes in v1.0.49]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-graph-api-enhancements-for-custom-connector-relevance-and-ux-web-microsoft-365-c|Graph
+  API enhancements for custom connector relevance and UX…]]'
 - '[[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9
   Apps and Integrations changes in rust-v0.132.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1|github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1]]'
@@ -110,7 +110,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.51
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

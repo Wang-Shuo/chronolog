@@ -4,20 +4,20 @@ date: '2023-08-30'
 description: 'Cursor · 2023-08-30 · Safety and Privacy: API Key input box is now a
   password type'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 136
+  lag_days: 1128
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1506b34f79e22b463d1f5cc564dc0879ab8c1c575697de7cba66312fbd44d785
+machine_hash: 5becad19586bdb6373a17613174a0dabb6140645af6b37dd5b42faeb7316fafb
 product: cursor
 product_name: Cursor
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2023-08-28 · ChatGPT · [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing ChatGPT Enterprise]]
-- Later: 2023-11-17 · Ollama · [[Changes/Ollama/2023-11-17-fix-permission-denied-issues-when-running-ollama-create-on-linux|Fix permission denied issues when running ollama create on Linux]]
+- Later: 2023-10-16 · Descript · [[Changes/Descript/2023-10-16-set-default-privacy-for-published-pages-https-help-descript-com-hc-en-us-article|Set Default Privacy for Published…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

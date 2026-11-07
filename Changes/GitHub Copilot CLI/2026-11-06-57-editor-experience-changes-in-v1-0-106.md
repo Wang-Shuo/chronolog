@@ -4,20 +4,19 @@ date: '2026-11-06'
 description: 'GitHub Copilot CLI · 2026-11-06 · Editor Experience: 57 changes in 1.0.106
   — Add a Fusion tier setting to `copilot config`.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1333
+  lag_days: 2917
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a7d0caeeff0f3cf3dd24412d8483817e1807d922e6fb4057f1418dbcf81719ad
+machine_hash: cf9ce1036f7a69345a419aba825305e651fce562cb5b215dac1e07e62f4493d7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -236,12 +235,12 @@ record:
   title: 57 Editor Experience changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-05-reduces-prompt-cache-misses-across-completion-heartbeat-and-background-turns-by|Reduces
-  prompt-cache misses across completion, heartbeat and background turns…]]'
-- '[[Changes/OpenHands/2026-11-05-chore-deps-bump-monaco-editor-from-0-56-0-to-0-57-0-in-the-monaco-group-by-depen|chore(deps):
-  bump monaco-editor from 0.56.0 to 0.57.0 in the monaco group…]]'
-- '[[Changes/Codex CLI/2026-11-06-2-editor-experience-changes-in-rust-v0-167-0|2 Editor
-  Experience changes in rust-v0.167.0]]'
+- '[[Changes/Descript/2026-11-06-script-text-no-longer-shakes-up-and-down-while-you-edit|Script
+  text no longer shakes up and down while you edit]]'
+- '[[Changes/Descript/2026-11-06-teach-underlord-your-workflow|Teach Underlord your
+  workflow]]'
+- '[[Changes/Descript/2026-11-06-upload-to-descript-from-chatgpt|Upload to Descript
+  from ChatGPT]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: editor-experience
@@ -403,13 +402,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-2-editor-experience-changes-in-rust-v0-167-0|2 Editor Experience changes in rust-v0.167.0]]
+- Earlier: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-upload-to-descript-from-chatgpt|Upload to Descript from ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

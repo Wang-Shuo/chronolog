@@ -4,20 +4,19 @@ date: '2025-10-10'
 description: 'Replit · 2025-10-10 · Editor Experience: Press Escape to exit Visual
   Select mode or return to Build mode. A small shortcut that keeps you moving.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 941
+  lag_days: 2525
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 29ba46838ace6b13ae999193337e68a243894bb4b8b2e1814575f0e2154ae9bf
+machine_hash: 654e3534ac959896ac67e4ce9adcbe26d0e06d1b7a631445198660614fdc4d6f
 product: replit
 product_name: Replit
 record:
@@ -44,8 +43,8 @@ record:
   title: Escape key for Visual Select/Edit mode
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-08-2-editor-experience-changes-in-v0-0-337|2
-  Editor Experience changes in v0.0.337]]'
+- '[[Changes/Descript/2025-10-09-cancel-and-restart-buttons-added-to-editor-and-screen-recorder|Cancel
+  and restart buttons added to Editor and Screen recorder]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-09-2-editor-experience-changes-in-v0-0-338|2
   Editor Experience changes in v0.0.338]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-10-run-npm-install-g-github-copilot-latest-to-update|Run
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

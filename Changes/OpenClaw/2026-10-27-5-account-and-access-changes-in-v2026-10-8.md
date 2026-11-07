@@ -5,20 +5,21 @@ description: 'OpenClaw · 2026-10-27 · Account and Access: 5 changes in v2026.1
   — A missing legacy OAuth directory alone no longer blocks update readiness. Doctor
   still…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1307
+  lag_days: 2282
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73b11d83730645342f7e9c01915f26654098f446c40000be5bfc04e23c10dffe
+machine_hash: d8143a7ddf61078547581debabf5b4163e00b9c05f89855355bbd78ee7718a7f
 product: openclaw
 product_name: OpenClaw
 record:
@@ -121,7 +122,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.8
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

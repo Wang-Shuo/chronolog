@@ -4,20 +4,19 @@ date: '2025-10-30'
 description: 'v0 · 2025-10-30 · Editor Experience: You can now edit images using Nano
   Banana in v0. Turn on design mode, select an image, and prompt your changes.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 961
+  lag_days: 2545
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 269de015b4f2cdd3ce0bc77e6817dca5d2bd46346b67b63b7a38329415bcad25
+machine_hash: f66eeba0ad01561f77235753a6414cb17c692b6a94e28c3e56fc578357b4c128
 product: v0
 product_name: v0
 record:
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-02-25'
 description: 'Claude Code · 2026-02-25 · Apps and Integrations: Expand Remote Control
   to more users'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1070
+  lag_days: 2630
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 063ebc510497b34229eff792b6cd3fd821053382d5a042ac9358e3e720adb53c
+machine_hash: 961c17f0e902a464bcb07b5a00b8b50bef888d31b0e2035c0399b91c4bfbfd5f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: Expand Remote Control to more users
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-24-block-third-party-mcp-servers-when-the-copilot-mcp-policy-does-not-allow-them|Block
-  third-party MCP servers when the Copilot MCP policy does not allow them]]'
+- '[[Changes/Notion/2026-02-24-integrate-custom-agents-with-slack-mail-calendar-mcp|Integrate
+  Custom Agents with Slack, Mail, Calendar, & MCP]]'
 - '[[Changes/OpenCode/2026-02-24-3-apps-and-integrations-changes-in-v1-2-11|3 Apps
   and Integrations changes in v1.2.11]]'
 - '[[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|Sources
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

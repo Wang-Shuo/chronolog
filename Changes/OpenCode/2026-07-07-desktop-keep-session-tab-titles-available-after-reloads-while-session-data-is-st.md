@@ -4,20 +4,19 @@ date: '2026-07-07'
 description: 'OpenCode · 2026-07-07 · Editor Experience: Desktop Keep session tab
   titles available after reloads while session data is still loading'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1211
+  lag_days: 2795
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d1825066fcd7d1dc0399c5286d1f5e62565592cdf253479cc32439de027ecc6
+machine_hash: a142ec650fa34b4d9ddda2e3b9a0de3a6c4bb437a08afeb38f866a07b980a090
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +42,12 @@ record:
     is still…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-06-3-editor-experience-changes-in-v1-17-14|3 Editor
-  Experience changes in v1.17.14]]'
 - '[[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed
   left arrow to no longer close the background tasks, diff, and workflow…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2
   Editor Experience changes in v1.0.69]]'
+- '[[Changes/Kimi Code/2026-07-07-web-recover-chat-streaming-after-a-stale-background-tab-websocket-instead-of-req|web:
+  Recover chat streaming after a stale background-tab WebSocket instead…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-07-v1-17-15-4997fcb6|opencode-2026-07-07-v1-17-15-4997fcb6]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -82,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2 Editor Experience changes in v1.0.69]]
+- Earlier: 2026-07-07 · Kimi Code · [[Changes/Kimi Code/2026-07-07-web-recover-chat-streaming-after-a-stale-background-tab-websocket-instead-of-req|web: Recover chat streaming after a stale background-tab WebSocket instead…]]
 - Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-3-editor-experience-changes-in-rust-v0-143-0|3 Editor Experience changes in rust-v0.143.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

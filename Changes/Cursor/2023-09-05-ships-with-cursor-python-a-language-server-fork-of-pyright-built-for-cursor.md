@@ -4,19 +4,20 @@ date: '2023-09-05'
 description: 'Cursor · 2023-09-05 · Developer Workflow: Ships with cursor-python,
   a Language-Server fork of pyright built for Cursor'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 171
+  lag_days: 1820
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8a50fb05238b23c9712ba546061cf2efc8850e347ff79c44d28c41b02eef530
+machine_hash: f49d218e86b77dbbf5ebff53add81302294fd1e6d2d2e5ca74d9efd4c82c7f0a
 product: cursor
 product_name: Cursor
 record:
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

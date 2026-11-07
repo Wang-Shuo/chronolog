@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e0d1cff365f50589ed6c17a1b8e13917eef75d0db695517a3925ab6415bafa4
+machine_hash: e3980e9bfde6ba258d239654e0a2aba2140d41fe3ec708324cedc0aafae92234
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-2-accessibility-and-localization-changes-in-1-16-1|2 Accessibility and Localization changes in 1.16.1]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved screen reader mode]]
+- Later: 2026-07-30 · Notion · [[Changes/Notion/2026-07-30-accessibility-win-high-contrast-mode-is-a-new-display-option-that-makes-text-ico|Accessibility win!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

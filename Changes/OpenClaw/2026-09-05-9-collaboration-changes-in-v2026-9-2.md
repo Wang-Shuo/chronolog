@@ -4,19 +4,20 @@ date: '2026-09-05'
 description: 'OpenClaw · 2026-09-05 · Collaboration: 9 changes in v2026.9.2 — Managed
   setup also applies lean tools for local models before checking the candidate, reducing…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1200
+  lag_days: 2794
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0bf4585c51dab4d03e732ee7dde9af515831ada60e6df9a64d0fa8d679458f67
+machine_hash: 5ea2f269537db51a24eeb236562a38d4f6b99860d68ed022dca934fd9613eaad
 product: openclaw
 product_name: OpenClaw
 record:
@@ -98,12 +99,11 @@ record:
   title: 9 Collaboration changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-6-collaboration-changes-in-rust-v0-153-0|6 Collaboration
-  changes in rust-v0.153.0]]'
-- '[[Changes/OpenClaw/2026-09-03-7-collaboration-changes-in-v2026-9-1|7 Collaboration
-  changes in v2026.9.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-exporting-a-resumed-session-with-share-or-share-gist-writes-the-whole-transcript|Exporting
   a resumed session with --share or --share-gist writes the whole transcript…]]'
+- '[[Changes/HeyGen/2026-09-04-brandkit-and-brand-governance|BrandKit and Brand Governance]]'
+- '[[Changes/Kimi Code/2026-09-04-web-add-tower-multi-agent-collaboration-mode-experimental-enabled-via-the-tower|web:
+  Add tower multi-agent collaboration mode (experimental), enabled…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'
 source_type: openclaw_changelog
 theme: collaboration
@@ -172,14 +172,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-exporting-a-resumed-session-with-share-or-share-gist-writes-the-whole-transcript|Exporting a resumed session with --share or --share-gist writes the whole transcript…]]
+- Earlier: 2026-09-04 · Kimi Code · [[Changes/Kimi Code/2026-09-04-web-add-tower-multi-agent-collaboration-mode-experimental-enabled-via-the-tower|web: Add tower multi-agent collaboration mode (experimental), enabled…]]
 - Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

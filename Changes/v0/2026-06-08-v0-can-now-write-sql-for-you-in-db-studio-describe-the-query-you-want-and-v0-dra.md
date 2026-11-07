@@ -4,20 +4,19 @@ date: '2026-06-08'
 description: 'v0 · 2026-06-08 · Editor Experience: v0 can now write SQL for you in
   DB Studio. Describe the query you want and v0 drafts it in the SQL tab. Run it with…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1182
+  lag_days: 2766
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0227862e288199e260d42dd88415f8a89dce78ad5d8e00e10acdd6d21769a118
+machine_hash: 4fc47efb56b53e5eeccae7efc42525acb9edb8240fffcbabc9cbb9b94e2ae206
 product: v0
 product_name: v0
 record:
@@ -42,10 +41,10 @@ record:
   title: v0 can now write SQL for you in DB Studio
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-background-sessions-now-preserve-ide-chrome-bare-remote-control-and-other-flags|Background
-  sessions now preserve --ide, --chrome, --bare, --remote-control…]]'
 - '[[Changes/Codex CLI/2026-06-08-3-editor-experience-changes-in-rust-v0-138-0|3 Editor
   Experience changes in rust-v0.138.0]]'
+- '[[Changes/HeyGen/2026-06-08-speech-cleanup-is-now-available-inside-heygen-it-takes-a-single-recording-and-au|Speech
+  Cleanup is now available inside HeyGen]]'
 - '[[Changes/Lovable/2026-06-08-markdown-preview-in-the-code-editor|Markdown preview
   in the code editor]]'
 source_release: '[[Releases/v0/v0-2026-06-08-2026-06-08-4f50e6b2|v0-2026-06-08-2026-06-08-4f50e6b2]]'
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

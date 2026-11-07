@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9de748c35975ac65cba6e212bd2e7baf358dcb8306f10d656ffbec8b90b96f3
+machine_hash: 196dd9edd4807b44a1445f0b9b2d6c3eae68165d123e11e063a3123072643608
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,9 +43,10 @@ record:
   title: 2 Agent Mode changes in v2.1.117
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-20-elevenagents|ElevenAgents]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-20-2-agent-mode-changes-in-v1-0-33|2 Agent
-  Mode changes in v1.0.33]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-21-employee-self-service-agent-new-rich-landing-page-microsoft-365-copilot-app|Employee
+  Self-Service agent: New rich landing page (Microsoft 365 Copilot app)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-21-share-agents-to-teams-web-microsoft-365-copilot-extensibility|Share
+  agents to Teams Web (Microsoft 365 Copilot extensibility)]]'
 - '[[Changes/OpenCode/2026-04-21-desktop-added-a-setting-to-hide-the-session-progress-bar-while-the-agent-is-work|Desktop
   Added a setting to hide the session progress bar while the agent is working]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'

@@ -4,20 +4,19 @@ date: '2026-09-08'
 description: 'Runway · 2026-09-08 · Editor Experience: Runway is now available directly
   inside Premiere Pro and After Effects. Bring the full power of Runway into your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1274
+  lag_days: 2858
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ca95df4cac7fe86773dacbb84210e8d0a56312f732f7a5d9958de19c5aadaa81
+machine_hash: 25185f66cf9de8c397f57bc55a80567004d31209f959e9c8001095664ae91afe
 product: runway
 product_name: Runway
 record:
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

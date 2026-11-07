@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-12-02 · Interface Experience: 11 changes in v0
   — \U0001F4AC Direct Message channels were introduced with a dedicated channel type
   selector and…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1058
+  lag_days: 2424
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a1a59c72455cda201ddfdcc538f9c2181ce4f9c1539517897bd2264ae9a1a21
+machine_hash: 6f8d0ef390b95f1ab3f47956935ae79d461b4f51bdb7a10e10a5508e9c8a2030
 product: open-webui
 product_name: Open WebUI
 record:
@@ -163,7 +163,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.41
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

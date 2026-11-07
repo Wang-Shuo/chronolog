@@ -4,19 +4,20 @@ date: '2024-08-23'
 description: 'OpenHands · 2024-08-23 · Developer Workflow: Allow easier copy paste
   into the terminal by @tofarr in https://github.com/All-Hands-AI/OpenHands/pull/3484'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 524
+  lag_days: 2173
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7665ac8ea8fc0be361dc36803dac03665ad8bb72bb543a611a2171396a534770
+machine_hash: 2b0f98d014c2f82a9f0b09d006e141cbb27f4a2a7cd2175640200c92f183c37a
 product: openhands
 product_name: OpenHands
 record:
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

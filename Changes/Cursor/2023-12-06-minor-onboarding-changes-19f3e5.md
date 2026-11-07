@@ -3,20 +3,20 @@ card_id: cursor-2023-12-06-19f3e5
 date: '2023-12-06'
 description: 'Cursor · 2023-12-06 · Interface Experience: Minor onboarding changes.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 331
+  lag_days: 1697
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de9e90f0d8e768fa32b6819c656fb573703a86759a5b1d4503008c3c7a95bbcb
+machine_hash: 3b4ee30a12c0a563437cec31a2cd9c553d000cdccdb66de4be5a54a88b46c9f0
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,11 @@ record:
   title: Onboarding & Feedback
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++
-  improvements: Includes green highlights to see what Copilot++ has added…]]'
-- '[[Changes/Gemini/2023-11-16-bard-is-available-for-more-age-groups|Bard is available
-  for more age groups]]'
 - '[[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++
   Improvements: We''ve spent some time improving the latency…]]'
+- '[[Changes/Descript/2023-12-05-ai-action-groups|AI Action groups]]'
+- '[[Changes/Descript/2023-12-05-the-escape-key-no-longer-resets-your-tool-selection-in-previous-versions-pressin|The
+  escape key no longer resets your Tool selection]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-06-0-18-4-0-18-5-https-cursor-com-changelog-0-18-4-0-18-5-d1de0931|cursor-2023-12-06-0-18-4-0-18-5-https-cursor-com-changelog-0-18-4-0-18-5-d1de0931]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -77,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++ Improvements: We've spent some time improving the latency…]]
+- Earlier: 2023-12-05 · Descript · [[Changes/Descript/2023-12-05-the-escape-key-no-longer-resets-your-tool-selection-in-previous-versions-pressin|The escape key no longer resets your Tool selection]]
 - Later: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@ previews: We made it easier to see what codeblock you're @'ing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

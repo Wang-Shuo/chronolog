@@ -5,20 +5,20 @@ description: 'ChatGPT · 2023-05-24 · Mobile and Desktop: Good news! We’re ex
   availability of the ChatGPT app for iOS to more countries and regions. Users in
   11…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 71
+  lag_days: 1655
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: db78d7317cf7a415e9c269d0a87742ea78a6c7d7102c107eb0170948dba98cdc
+machine_hash: 40a306f36b74953cb5466456f63afb79cc5a84d3ad5ffda5748ca0be745896b9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,6 +54,9 @@ record:
   title: ChatGPT app for iOS in more countries
   type: change
 related_changes:
+- '[[Changes/Notion/2023-02-09-take-quick-notes-on-android|Take quick notes on Android]]'
+- '[[Changes/Notion/2023-02-09-made-updates-to-the-mobile-search-experience-that-improved-load-times|Made
+  updates to the mobile search experience that improved load times]]'
 - "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support
   \U0001F973]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
@@ -93,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

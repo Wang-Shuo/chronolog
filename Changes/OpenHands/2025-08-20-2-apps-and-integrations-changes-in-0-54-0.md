@@ -4,20 +4,20 @@ date: '2025-08-20'
 description: 'OpenHands · 2025-08-20 · Apps and Integrations: 2 changes in 0.54.0
   - 2025-08-20 — Enabled MCP in OpenHands Cloud by @xingyaoww in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 881
+  lag_days: 2441
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55f4aba682bb02a59aeed32c683d989c7962b7f69d73e1fdf0481b8bb570e674
+machine_hash: 0a4184dc71de8d1c240a24c5c18503be7205b0f7929882eeadf4d1e6a4ecc763
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Apps and Integrations changes in 0.54.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-18-4-apps-and-integrations-changes-in-v0-1-22|4 Apps
-  and Integrations changes in v0.1.22]]'
+- '[[Changes/Notion/2025-08-19-use-your-favorite-ai-tools-with-notion-s-mcp|Use your
+  favorite AI tools with Notion’s MCP]]'
 - '[[Changes/Cline/2025-08-20-2-apps-and-integrations-changes-in-v3-26-0|2 Apps and
   Integrations changes in v3.26.0]]'
 - '[[Changes/Codex CLI/2025-08-20-5-apps-and-integrations-changes-in-rust-v0-23-0|5
@@ -89,7 +89,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.54.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'GitHub Copilot CLI · 2026-06-30 · Pricing Model: Configure subagent
   concurrency and depth limits in /settings (usage-based billing users)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1293
+  lag_days: 2911
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8fb291aab46fa19007615a0c61f6ef880bf49fe8f4ed6564bf2a3ff2135d4bb6
+machine_hash: 7a3a13ffd3fce45624625a48a3a8e2dbe22893dd7912d4004da11b1c81263560
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,8 +53,8 @@ record:
     billing users)
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-add-clinepass-to-the-vs-code-extension-including-onboarding-provider-selection-s|Add
-  ClinePass to the VS Code extension, including onboarding, provider selection…]]'
+- '[[Changes/Kimi Code/2026-06-26-reduce-streaming-redraw-cost-for-long-assistant-messages-with-code-blocks|Reduce
+  streaming redraw cost for long assistant messages with code blocks]]'
 - '[[Changes/v0/2026-06-26-2-pricing-model-changes-in-platform-api-v2-mcp-chat-tools|2
   Pricing Model changes in Platform API v2, MCP chat tools…]]'
 - '[[Changes/Open WebUI/2026-06-29-2-pricing-model-changes-in-v0-10-0|2 Pricing Model
@@ -111,7 +111,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-01-22'
 description: 'GitHub Copilot CLI · 2026-01-22 · Editor Experience: Add `/diff` command
   to review changes made during the current session'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1045
+  lag_days: 2629
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 37eae390f9708a007efba28bad45a3908acbc6c57702f40eb6291cda3adb7b36
+machine_hash: 6e153a6e3a0363dc9b3c06a3a5a497a8355c8c45a1a20da79161ffa63554d8d6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

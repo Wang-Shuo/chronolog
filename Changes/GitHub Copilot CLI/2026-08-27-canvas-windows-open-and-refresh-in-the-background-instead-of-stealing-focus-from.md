@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'GitHub Copilot CLI · 2026-08-27 · Files and Data: Canvas windows open
   and refresh in the background instead of stealing focus from your terminal'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1190
+  lag_days: 2535
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6c93790ca50fe02ee550b337bee10d4f6677638fb7c4ed1e967cbe937b06758
+machine_hash: 0de062b8abe8fa333f2fcf58c4b0cef8f57b232092ea3417cbb933904bce6921
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: Canvas windows open and refresh in the background instead of stealing focus…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-5-files-and-data-changes-in-1-17-0|5 Files and Data changes
-  in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-9-files-and-data-changes-in-v0-11-1|9 Files and
   Data changes in v0.11.1]]'
 - '[[Changes/Google Antigravity/2026-08-26-added-support-for-viewing-specific-page-ranges-startpage-and-endpage-in-multi-pa|Added
   support for viewing specific page ranges (StartPage and EndPage) in multi-page…]]'
+- '[[Changes/Z.ai API/2026-08-26-beyond-coding-supports-office-document-and-financial-research-workflows-autonomo|Beyond
+  coding: Supports office document and financial research workflows…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'
 source_type: github_releases
 theme: file-data
@@ -101,14 +101,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-added-support-for-viewing-specific-page-ranges-startpage-and-endpage-in-multi-pa|Added support for viewing specific page ranges (StartPage and EndPage) in multi-page…]]
+- Earlier: 2026-08-26 · Z.ai API · [[Changes/Z.ai API/2026-08-26-beyond-coding-supports-office-document-and-financial-research-workflows-autonomo|Beyond coding: Supports office document and financial research workflows…]]
 - Later: 2026-08-27 · Midjourney · [[Changes/Midjourney/2026-08-27-changing-specific-areas-of-your-images-inpainting-or-expand-your-canvas-outpaint|Changing specific areas of your images (inpainting) or expand your canvas (outpainting)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

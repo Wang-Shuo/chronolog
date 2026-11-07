@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 00ed477558b2d3b7b118e53e5f860fd83fe08bf0992de7cab67b992698aeac59
+machine_hash: 8a919a1a82e6bb4188fcd5e16b81c83c37e3d401ed96263c2fd81f9949e8face
 product: replit
 product_name: Replit
 record:

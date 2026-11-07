@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e87bca1be342da225fb8c627c421ed13a690cd7c51c83374ab1f4d126d832f98
+machine_hash: 4cf574163c6d3f3b127199f16c0219b352d8f6514e86db41d4a47c48b55c4880
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-retrieving-models-handles-network-errors-from-firewalled-routes-gracefully-raise|Retrieving models handles network errors from firewalled routes gracefully, raises…]]
-- Later: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-3-model-support-changes-in-v1-1-16|3 Model Support changes in v1.1.16]]
+- Later: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-build-smarter-agents-with-gpt-5-in-agent-builder-android-windows-ios-mac-web-mic|Build smarter agents with GPT-5 in Agent Builder Android, Windows, iOS, Mac…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

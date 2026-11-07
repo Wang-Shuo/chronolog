@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0bf44cece919488e1b23a92efe69171ef6b0d6145a7d39d94c6b281dbc5b4f16
+machine_hash: 78766b4ad27cf239f660a7dd7f48df4a542a2c7a0532677c325e9e88d3fef33d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.26
 ## Nearby in Model Support
 
 - Earlier: 2025-08-28 · Cline · [[Changes/Cline/2025-08-28-2-model-support-changes-in-v3-26-6|2 Model Support changes in v3.26.6]]
-- Later: 2025-09-02 · Codex CLI · [[Changes/Codex CLI/2025-09-02-2-model-support-changes-in-rust-v0-28-0|2 Model Support changes in rust-v0.28.0]]
+- Later: 2025-08-29 · Descript · [[Changes/Descript/2025-08-29-how-to-access-eleven-labs-v3|How to access Eleven Labs V3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

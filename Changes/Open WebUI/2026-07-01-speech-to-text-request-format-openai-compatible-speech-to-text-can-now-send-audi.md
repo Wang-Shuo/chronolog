@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-07-01 · Voice and Audio: \U0001F399️ **Speec
   request format.** OpenAI-compatible speech-to-text can now send audio as either
   a multipart…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1087
+  lag_days: 2914
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd89a7fce09d4905c08e1fc25f85eba8e5dcf9a3456e262f0cc175c5bd17012e
+machine_hash: 0671ab5fb24f9bf9408fdd9d3d09856853f4192a99c9ce6f1d7c04f0df50aa17
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,12 @@ record:
     can now send…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-3-voice-and-audio-changes-in-v0-10-0|3 Voice and
-  Audio changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-voice-mode-turns-itself-off-when-the-engine-fails-to-start-at-boot|Voice
   mode turns itself off when the engine fails to start at boot]]'
 - '[[Changes/OpenClaw/2026-06-30-6-voice-and-audio-changes-in-v2026-6-11|6 Voice and
   Audio changes in v2026.6.11]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-real-time-voice-interactions-with-audio-overview-web-word|Real-time
+  voice interactions with Audio Overview Web (Word)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
 source_type: github_releases
 theme: voice
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-6-voice-and-audio-changes-in-v2026-6-11|6 Voice and Audio changes in v2026.6.11]]
-- Later: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-music|Music]]
+- Earlier: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-real-time-voice-interactions-with-audio-overview-web-word|Real-time voice interactions with Audio Overview Web (Word)]]
+- Later: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-group-consecutive-tool-calls-into-a-collapsible-stack-with-per-tool-renderers-in|Group consecutive tool calls into a collapsible stack with per-tool renderers…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

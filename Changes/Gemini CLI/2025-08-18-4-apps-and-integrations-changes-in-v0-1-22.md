@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2025-08-18 · Apps and Integrations: 4 changes in Re
   v0.1.22 — Update IDE integration context toggle shortcut to ctrl+G by @skeshive
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 879
+  lag_days: 2439
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0b785fd0b3d68216d12713054c30290adc8a8818b2ef8b1b036bad6325abdce
+machine_hash: e7eec0c3bc5e4c4211e75ce4fd0336cfe2f2292ddf13950d101cfb6cb17676a8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -98,13 +98,13 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.22
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-41-apps-and-integrations-changes-in-v0-1-21|41 Apps and Integrations changes in v0.1.21]]
-- Later: 2025-08-20 · Cline · [[Changes/Cline/2025-08-20-2-apps-and-integrations-changes-in-v3-26-0|2 Apps and Integrations changes in v3.26.0]]
+- Later: 2025-08-19 · Notion · [[Changes/Notion/2025-08-19-use-your-favorite-ai-tools-with-notion-s-mcp|Use your favorite AI tools with Notion’s MCP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

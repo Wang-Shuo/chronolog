@@ -4,20 +4,20 @@ date: '2026-02-03'
 description: 'Ollama · 2026-02-03 · Multimodal Input: [GLM-OCR](https://ollama.com/library/glm-ocr):
   GLM-OCR is a multimodal OCR model for complex document understanding…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 868
+  lag_days: 2636
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ed886b1d8998328b652e2e79413cd46bcd9bd709c8ea3b1dec3bcb6fc5db843b
+machine_hash: bde314ae063e7b36ad728a1e48d922fc0f5ebab787c324b9bd17631ed4752e66
 product: ollama
 product_name: Ollama
 record:
@@ -56,10 +56,10 @@ record:
     model…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|Added
-  clickable Image ♯N links that open attached images in the default viewer]]'
 - '[[Changes/Open WebUI/2025-12-21-2-multimodal-input-changes-in-v0-6-42|2 Multimodal
   Input changes in v0.6.42]]'
+- '[[Changes/HeyGen/2026-01-26-build-vs-chat-modes-build-mode-auto-proceeds-until-your-video-is-ready-chat-mode|Build
+  vs Chat modes Build mode auto-proceeds until your video is ready]]'
 - '[[Changes/Dify/2026-02-03-3-multimodal-input-changes-in-1-12-0|3 Multimodal Input
   changes in 1.12.0]]'
 source_release: '[[Releases/Ollama/ollama-2026-02-03-v0-15-5-github-282367253-12a5b812|ollama-2026-02-03-v0-15-5-github-282367253-12a5b812]]'
@@ -95,13 +95,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-3-multimodal-input-changes-in-1-12-0|3 Multimodal Input changes in 1.12.0]]
-- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-perf-core-optimize-token-calculation-and-add-support-for-multimodal-tool-respons|perf(core): optimize token calculation and add support for multimodal tool responses]]
+- Later: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-2-multimodal-input-changes-in-release-roundup-february-10th-2026|2 Multimodal Input changes in Release roundup—February 10th, 2026]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

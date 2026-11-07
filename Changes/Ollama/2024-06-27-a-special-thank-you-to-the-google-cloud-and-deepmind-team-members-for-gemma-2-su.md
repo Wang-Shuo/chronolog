@@ -4,19 +4,20 @@ date: '2024-06-27'
 description: 'Ollama · 2024-06-27 · Collaboration: A special thank you to the Google
   Cloud and DeepMind team members for Gemma 2 support.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 400
+  lag_days: 1994
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e735ddf4daa508fdec5659e12720077134013e91bde89d7d5bb71a840357463c
+machine_hash: 3daa5638c1f426f31af5262bcce0824fcd56244043280cabe3c3b84ba1d6714f
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +45,12 @@ record:
     2 support
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-06-02-2-collaboration-changes-in-v0-2-0|2 Collaboration
-  changes in v0.2.0]]'
 - '[[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration
   changes in 0.6.1]]'
 - '[[Changes/Dify/2024-06-14-note-support-add-notes-directly-into-your-workflows-to-enhance-documentation-and|Note
   Support: Add notes directly into your workflows to enhance documentation…]]'
+- '[[Changes/Notion/2024-06-26-the-evolution-of-the-plus-plan|The evolution of the
+  Plus plan]]'
 source_release: '[[Releases/Ollama/ollama-2024-06-27-v0-1-47-github-162695424-8a7142b7|ollama-2024-06-27-v0-1-47-github-162695424-8a7142b7]]'
 source_type: github_releases
 theme: collaboration
@@ -80,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-note-support-add-notes-directly-into-your-workflows-to-enhance-documentation-and|Note Support: Add notes directly into your workflows to enhance documentation…]]
+- Earlier: 2024-06-26 · Notion · [[Changes/Notion/2024-06-26-the-evolution-of-the-plus-plan|The evolution of the Plus plan]]
 - Later: 2024-06-27 · Open WebUI · [[Changes/Open WebUI/2024-06-27-files-api-compatible-with-openai-this-feature-allows-for-custom-retrieval-augmen|📁 Files API: Compatible with OpenAI, this feature allows for custom…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

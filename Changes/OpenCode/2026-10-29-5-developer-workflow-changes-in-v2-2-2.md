@@ -4,19 +4,20 @@ date: '2026-10-29'
 description: 'OpenCode · 2026-10-29 · Developer Workflow: 5 changes in v2.2.2 — Core
   Rejected persistent terminal requests whose working directory no longer exists.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1321
+  lag_days: 2970
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8a834b04062fe5a1bffddf13380291de9316f89cdfff99ac16ba4d8873cbd98
+machine_hash: 1b01973bcf2f821778f1e6141b8032633fcc13cf6b390dcd7576253513219331
 product: opencode
 product_name: OpenCode
 record:
@@ -111,7 +112,7 @@ Source: https://opencode.ai/changelog/v2.2.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

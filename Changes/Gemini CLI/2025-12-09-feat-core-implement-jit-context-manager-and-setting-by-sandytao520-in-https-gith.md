@@ -4,20 +4,20 @@ date: '2025-12-09'
 description: 'Gemini CLI · 2025-12-09 · Context Window: feat(core): Implement JIT
   context manager and setting by @SandyTao520 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 950
+  lag_days: 2274
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eef8dfcb9ca2d5da26790ca2d22e1dd720296dfd7da82df108119aa2ab26c1a1
+machine_hash: 51afb8086f597172ef966765847c5b04abf7b38a9de0a85364ca466f3cb39db6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat(core): Implement JIT context manager and setting'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-04-2-context-window-changes-in-v3-40-0|2 Context Window
-  changes in v3.40.0]]'
 - '[[Changes/Codex CLI/2025-12-04-3-context-window-changes-in-rust-v0-65-0|3 Context
   Window changes in rust-v0.65.0]]'
+- '[[Changes/Descript/2025-12-05-youtube-import-has-been-turned-off|YouTube import
+  has been turned off]]'
 - '[[Changes/Codex CLI/2025-12-09-general-fixes-parallel-tool-call-chat-now-returns-correctly-ghost-snapshot-token|General
   fixes: parallel tool-call chat now returns correctly, ghost snapshot tokens…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492|gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

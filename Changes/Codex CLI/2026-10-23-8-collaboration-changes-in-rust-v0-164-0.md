@@ -4,19 +4,20 @@ date: '2026-10-23'
 description: 'Codex CLI · 2026-10-23 · Collaboration: 8 changes in 0.164.0 — #54278
   Share Guardian image deduplication and checkpoint restoration @felixxia-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1248
+  lag_days: 2842
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7221d6addf9c3ffdaa303475e1f3da96ad3bdce1393f8c495baf4585834d9539
+machine_hash: d404656dfd7b65ee2cacec6f3bdd5a069d1b80ae54ebf6d58eb4c37df87afe45
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -126,7 +127,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

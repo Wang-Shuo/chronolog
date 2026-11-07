@@ -4,19 +4,20 @@ date: '2025-04-13'
 description: "Open WebUI · 2025-04-13 · Collaboration: 2 changes in v0.6.3 — \U0001F5BC️
   **Widescreen Mode for Shared Chats**: Shared link conversations now support widescreen…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 690
+  lag_days: 2284
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93fd68140970007cb4d55011454aad0b012b06328a54d479c7166001c400e579
+machine_hash: ed2a5f29d6470bbb0f764cb69dad6b196337dc2af3adc084526b3e89a4fc375f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +46,8 @@ record:
   title: 2 Collaboration changes in v0.6.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
-  indexing performance for teams sharing codebases]]'
+- '[[Changes/Notion/2025-03-26-view-multiple-databases-on-one-page|View multiple databases
+  on one page]]'
 - '[[Changes/Midjourney/2025-03-30-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v7-with-you-soon|Thank
   you so much for your help!]]'
 - '[[Changes/Dify/2025-04-09-hello-community-we-re-excited-to-share-our-v1-2-0-update-with-you-it-s-packed-wi|Hello
@@ -100,7 +101,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-05-20'
 description: 'Gemini · 2025-05-20 · Context Window: What: Get the best of Gemini with
   Google AI Ultra. Subscribers get the highest access to our best Gemini models…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 747
+  lag_days: 2071
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e77663430aa7ee884a142099366771465a9528ce68e857cc1d1e6b87f72e0b5a
+machine_hash: fc1f1a4db958f547d047667c09584bca6c6371c25c715d5463f30b516b83685c
 product: gemini
 product_name: Gemini
 record:
@@ -134,7 +134,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 906eac74e2a50c7a79b712379a34727b22f55c2a4490ad87e4a072b11251ed59
+machine_hash: c2e7785d24584bc4ea9addc09f704844d0578e001ff90c310d6818190c1ce0e0
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-07 · Ollama · [[Changes/Ollama/2026-02-07-ollama-launch-will-now-download-missing-models-instead-of-erroring|ollama launch will now download missing models instead of erroring]]
-- Later: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2 Instant Update]]
+- Later: 2026-02-09 · Notion · [[Changes/Notion/2026-02-09-claude-opus-4-6-is-the-strongest-model-anthropic-has-shipped-it-takes-complicate|Claude Opus 4.6, now in Notion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

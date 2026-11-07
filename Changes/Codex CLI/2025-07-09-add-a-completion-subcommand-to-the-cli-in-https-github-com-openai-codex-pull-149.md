@@ -4,20 +4,19 @@ date: '2025-07-09'
 description: 'Codex CLI · 2025-07-09 · Editor Experience: Add a `completion` subcommand
   to the CLI in https://github.com/openai/codex/pull/1491 so we can ultimately add…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 848
+  lag_days: 2432
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5dc66bb47934e371296fa2da26d84d1e343b69dc9f0c3c6569f0070b6ff0476e
+machine_hash: 22ab00b50f514fb08e3c6be0a4eaddab9e47ec3ad7e5715034b2ce402da8b25e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +43,8 @@ record:
   title: Add a `completion` subcommand to the CLI…
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-16-dead-code-cleanup-we-ve-removed-some-obsolete-code-utilizing-vulture-keeping-our|Dead
-  Code Cleanup]]'
+- '[[Changes/Descript/2025-06-26-there-s-also-a-new-dropdown-view-menu-in-the-upper-lefthand-side-of-the-screen-r|There’s
+  also a new dropdown View menu in the upper lefthand side of the screen…]]'
 - '[[Changes/Aider/2025-06-27-improved-github-copilot-token-handling-with-better-validation-and-error-messages|Improved
   GitHub Copilot token handling with better validation and error messages…]]'
 - '[[Changes/Gemini CLI/2025-07-01-2-editor-experience-changes-in-v0-1-8|2 Editor
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

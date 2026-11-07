@@ -4,20 +4,20 @@ date: '2023-06-14'
 description: 'Dify · 2023-06-14 · Pricing Model: feat: add gpt-3.5-turbo-16k support
   and update openai gpt-3.5-turbo & Embedding Ada v2 unit price by @takatost in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 181
+  lag_days: 1799
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: b291bb87af53501d661eee4db330a32314a2ed42e0ffd9c389977ed70ca02ad0
+machine_hash: aeb49348ae41919a93fe219f4c0640039f3afcef8e9238dedd7b30e311d4f926
 product: dify
 product_name: Dify
 record:
@@ -47,11 +47,11 @@ record:
     Ada…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We
-  rolled out the ability to purchase ChatGPT Plus internationally]]'
 - '[[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds
   an optional paid plan if you''d like to avoid the server capacity rate limits]]'
 - '[[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]'
+- '[[Changes/Notion/2023-04-27-extended-free-access-for-startups-including-unlimited-ai|Extended
+  free access for startups — including unlimited AI]]'
 source_release: '[[Releases/Dify/dify-2023-06-14-0-3-3-github-108514085-231595fd|dify-2023-06-14-0-3-3-github-108514085-231595fd]]'
 source_type: github_releases
 theme: pricing-model
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2023-04-19 · Cursor · [[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]
+- Earlier: 2023-04-27 · Notion · [[Changes/Notion/2023-04-27-extended-free-access-for-startups-including-unlimited-ai|Extended free access for startups — including unlimited AI]]
 - Later: 2023-06-25 · Aider · [[Changes/Aider/2023-06-25-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables display of cost info based on OpenAI advertised pricing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

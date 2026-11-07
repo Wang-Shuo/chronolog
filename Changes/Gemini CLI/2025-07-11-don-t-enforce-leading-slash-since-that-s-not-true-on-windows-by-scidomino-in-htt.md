@@ -4,20 +4,20 @@ date: '2025-07-11'
 description: 'Gemini CLI · 2025-07-11 · Mobile and Desktop: Don''t enforce leading
   slash since that''s not true on Windows by @scidomino in…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 850
+  lag_days: 2434
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 944028a8354f0c9e794030ce438c2ca4264425b337fc4848fbf5c30e1166895e
+machine_hash: 6fb4d6f8e9ebbbbf1434d05d18d872b0870869d9ac839491319a6fca0f8ff67d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: Don't enforce leading slash since that's not true on Windows
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-07-02-a-new-version-of-ollama-s-macos-and-windows-applications-are-now-available-new-i|A
-  new version of Ollama''s macOS and Windows applications are now available]]'
 - '[[Changes/Ollama/2025-07-02-3-mobile-and-desktop-changes-in-v0-9-5|3 Mobile and
   Desktop changes in v0.9.5]]'
 - '[[Changes/Codex CLI/2025-07-10-thanks-to-pchuri-so-that-when-running-codex-installed-via-npm-process-platform-a|Thanks
   to @pchuri so that when running Codex installed via npm…]]'
+- '[[Changes/Notion/2025-07-10-lots-of-improvements|Lots of improvements!]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -85,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-07-10 · Codex CLI · [[Changes/Codex CLI/2025-07-10-thanks-to-pchuri-so-that-when-running-codex-installed-via-npm-process-platform-a|Thanks to @pchuri so that when running Codex installed via npm…]]
+- Earlier: 2025-07-10 · Notion · [[Changes/Notion/2025-07-10-lots-of-improvements|Lots of improvements!]]
 - Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-seamless-iphone-image-uploads-effortlessly-upload-photos-from-iphones-and-other|📷 Seamless iPhone Image Uploads]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

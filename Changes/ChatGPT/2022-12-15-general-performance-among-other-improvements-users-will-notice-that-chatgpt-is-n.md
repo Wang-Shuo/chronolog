@@ -4,20 +4,20 @@ date: '2022-12-15'
 description: 'ChatGPT · 2022-12-15 · Reliability and Performance: General performance:
   Among other improvements, users will notice that ChatGPT is now less likely to refuse…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1487
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d31a2fbdb45c16b097e009310663b58ac7af1cffc3c7f74550afab197ce2953f
+machine_hash: 081ad1e0cd0a695041aee9b800fa55fd9889d11e2985d24ca7d306a3c78d6888
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,6 +43,13 @@ record:
   title: 'General performance: Among other improvements, users will notice that ChatGPT
     is now…'
   type: change
+related_changes:
+- '[[Changes/Notion/2022-04-14-large-databases-load-2-5-faster|Large databases load
+  2.5× faster]]'
+- '[[Changes/Notion/2022-08-11-lots-of-performance-reliability-improvements-across-the-ios-android-apps|Lots
+  of performance & reliability improvements across the iOS & Android apps]]'
+- '[[Changes/Descript/2022-11-12-note-windows-7-reached-end-of-life-status-eol-unsupported-by-microsoft-on-januar|Note:
+  Windows 7 reached "end of life" status (EOL / unsupported) by Microsoft…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -73,13 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Later: 2023-02-09 · ChatGPT · [[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for speed (alpha)]]
+- Earlier: 2022-11-12 · Descript · [[Changes/Descript/2022-11-12-note-windows-7-reached-end-of-life-status-eol-unsupported-by-microsoft-on-januar|Note: Windows 7 reached "end of life" status (EOL / unsupported) by Microsoft…]]
+- Later: 2023-01-23 · Descript · [[Changes/Descript/2023-01-23-unmodified-quick-recordings-published-to-a-web-link-are-now-processed-and-ready|Unmodified quick recordings published to a web link are now processed and ready…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

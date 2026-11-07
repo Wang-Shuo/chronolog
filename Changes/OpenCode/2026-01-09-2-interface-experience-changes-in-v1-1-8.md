@@ -4,20 +4,20 @@ date: '2026-01-09'
 description: 'OpenCode · 2026-01-09 · Interface Experience: 2 changes in v1.1.8 —
   Terminal Use full file path for fuzzy matching in autocomplete'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1096
+  lag_days: 2462
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d04258c2088cb25f5f7ccf5c922df48a5c70f7c49efc11fc92849939f7cb92f1
+machine_hash: c20dc32422073b6176cecf50c76cc85bb47bddebc04760ee9f32d6e2379aca7f
 product: opencode
 product_name: OpenCode
 record:
@@ -92,7 +92,7 @@ Source: https://opencode.ai/changelog/v1.1.8
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

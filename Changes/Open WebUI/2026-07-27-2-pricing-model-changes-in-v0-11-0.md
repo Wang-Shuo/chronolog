@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-07-27 · Pricing Model: 2 changes in v0.11.0 �
   **Cheaper tagging after each reply.** Saving the tags generated for a conversation
   now…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1320
+  lag_days: 2938
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa8c5d5ee225036358f207c724886ee26913d4632fb8c57a915fc3c5cae7d4dc
+machine_hash: b777eb00ed1b65221267e6f09941def0f3e2de0202426190d3c02d2c00138da1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -115,7 +115,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

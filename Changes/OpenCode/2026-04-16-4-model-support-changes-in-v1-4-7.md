@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ddf435da99e768150b65e11b5db48f4023feafaf03191c5b6a89442bc345fad
+machine_hash: cc7a33706daf329df15283e0bb0561e33bb41e1756359c699ef48ba62608dc86
 product: opencode
 product_name: OpenCode
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Model Support changes in v1.4.7
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-add-support-for-claude-opus-4-7|Add support
-  for Claude Opus 4.7]]'
+- '[[Changes/Notion/2026-04-16-claude-opus-4-7-anthropic-s-latest-model-is-now-in-notion-it-uses-fewer-tokens-m|Opus
+  4.7, now in Notion]]'
 - '[[Changes/Ollama/2026-04-16-gemma-4-on-mlx-added-support-for-running-gemma-4-via-mlx-on-apple-silicon-includ|Gemma
   4 on MLX. Added support for running Gemma 4 via MLX on Apple Silicon…]]'
 - '[[Changes/OpenCode/2026-04-16-github-copilot-gpt-5-mini-now-uses-low-reasoning-effort-for-better-request-compa|GitHub

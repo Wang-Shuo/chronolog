@@ -5,20 +5,19 @@ description: 'Replit · 2025-06-06 · Editor Experience: Image management in Vis
   Editor is now effortless. Select any image and instantly update it by swapping URLs
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 815
+  lag_days: 2399
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: cf5bb4917ed2335ffe5b8a1611951de6491c42710b1d1f718c2d73c9ec428ccc
+machine_hash: ae8c7fa51e488e6ee9d650269cd971af475099489e1e30f215d7189c791efc94
 product: replit
 product_name: Replit
 record:
@@ -51,11 +50,11 @@ record:
   title: Visual Editor image management
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-05-29-we-ve-upgraded-the-ai-moderation-in-the-editor|We’ve
-  upgraded the AI moderation in the editor]]'
 - '[[Changes/Aider/2025-05-30-2-editor-experience-changes-in-v0-84-0|2 Editor Experience
   changes in v0.84.0]]'
 - '[[Changes/Replit/2025-05-30-unified-github-tab-refresh|Unified GitHub tab refresh]]'
+- '[[Changes/Descript/2025-06-05-improved-filler-word-removal-avoid-harsh-cuts|Improved
+  filler word removal—Avoid harsh cuts]]'
 source_release: '[[Releases/Replit/replit-2025-06-06-2025-06-06-4525a97e|replit-2025-06-06-2025-06-06-4525a97e]]'
 source_type: replit_changelog
 theme: editor-experience
@@ -87,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-05-30 · Replit · [[Changes/Replit/2025-05-30-unified-github-tab-refresh|Unified GitHub tab refresh]]
-- Later: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-3-editor-experience-changes-in-v0-6-14|3 Editor Experience changes in v0.6.14]]
+- Earlier: 2025-06-05 · Descript · [[Changes/Descript/2025-06-05-improved-filler-word-removal-avoid-harsh-cuts|Improved filler word removal—Avoid harsh cuts]]
+- Later: 2025-06-10 · Descript · [[Changes/Descript/2025-06-10-teleprompter|Teleprompter]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-01-07'
 description: 'Dify · 2025-01-07 · Context Window: Added cheaper and long context models
   for Qwen2.5-72B-Instruct, and a variety of speech models from siliconflow…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 614
+  lag_days: 1938
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 21709b34a164f38d1fa2fa1b440bd341458849cc4cac42f9ddb95d59ab6ab331
+machine_hash: 4377411c1b8bde2b38a9ca954be3ef446404107bb1814c335bdbad656f7c1bf0
 product: dify
 product_name: Dify
 record:
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

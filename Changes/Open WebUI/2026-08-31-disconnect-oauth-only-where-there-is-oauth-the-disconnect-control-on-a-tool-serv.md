@@ -5,20 +5,21 @@ description: "Open WebUI · 2026-08-31 · Account and Access: \U0001F50C **Disco
   OAuth only where there is OAuth.** The disconnect control on a tool server reached
   over MCP now…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1250
+  lag_days: 2225
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4611f20c6dbe390e056974952bb4b74e79f6eaf2a61bfe5cfac3c3b9e49fbeab
+machine_hash: 1ff88c438d13e13a9fea7bdc965dcc21fa7327da94dcbbe50a6993bc57b685f0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,8 +59,8 @@ record:
     control on a tool…"
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-28-2-account-and-access-changes-in-v1-18-25-1|2 Account
-  and Access changes in v1.18.25 + 1]]'
+- '[[Changes/Qoder/2026-08-28-improved-knowledge-center-authentication-synchronization|Improved
+  Knowledge Center authentication synchronization]]'
 - '[[Changes/v0/2026-08-28-4-account-and-access-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
   Account and Access changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-29-show-the-specific-authentication-failure-such-as-401-bad-credentials-instead-of|Show
@@ -104,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

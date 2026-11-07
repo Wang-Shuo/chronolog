@@ -4,20 +4,20 @@ date: '2026-03-31'
 description: 'GitHub Copilot CLI · 2026-03-31 · Search and Browsing: Grep and glob
   search results return promptly when a timeout is reached'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1104
+  lag_days: 2133
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4ad0ae23aa1c1e1105b3f9d89da86c8d6b6f0beb56ac1bdf2547edd790a8961
+machine_hash: 6def36787cbbac07c46e2334c6815aba53872fe1be41b05ad8f70a11520ddd72
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Grep and glob search results return promptly when a timeout is reached
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-plugins-are-now-a-first-class-workflow-codex-can-sync-product-scoped-plugins-at|Plugins
-  are now a first-class workflow]]'
+- '[[Changes/Notion/2026-03-27-archive-lets-you-mark-pages-as-outdated-to-keep-your-workspace-clean-and-improve|Archive
+  lets you mark pages as outdated to keep your workspace clean and improve…]]'
 - '[[Changes/Ollama/2026-03-27-ollama-launch-pi-now-includes-web-search-plugin-that-uses-ollama-s-web-search|ollama
   launch pi now includes web search plugin that uses Ollama''s web search]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

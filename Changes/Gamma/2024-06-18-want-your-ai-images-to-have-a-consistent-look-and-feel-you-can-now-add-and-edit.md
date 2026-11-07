@@ -5,20 +5,19 @@ description: 'Gamma · 2024-06-18 · Editor Experience: Want your AI images to h
   a consistent look and feel? You can now add and edit AI image style keywords for
   any custom…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 462
+  lag_days: 2046
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b6c866b78a32f9dba021c214b87e8f6c71eed6af1baf87da839a946b092652a
+machine_hash: 03e7b3f5152b7e5890f29d37b6ccd8bc2618cda1a2009ef7b007e9278c95a041
 product: gamma
 product_name: Gamma
 record:
@@ -50,12 +49,12 @@ record:
   title: AI image style keywords are now editable in the theme editor
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly
-  override GIT_EDITOR env for commits if it is already set]]'
 - '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on
   Cursor Prediction with a new UI]]'
 - "[[Changes/Open WebUI/2024-06-10-editable-search-query-prompt-you-can-now-edit-the-search-query-generation-prompt|\U0001F50D
   Editable Search Query Prompt]]"
+- '[[Changes/Notion/2024-06-11-use-the-desktop-app-to-pin-pages-that-you-use-frequently-like-a-to-do-list-to-th|Use
+  the desktop app to pin pages that you use frequently (like a to-do list)…]]'
 source_release: '[[Releases/Gamma/gamma-2024-06-18-66720f722c8a242124c0f679-dd41437c|gamma-2024-06-18-66720f722c8a242124c0f679-dd41437c]]'
 source_type: gamma_changelog
 theme: editor-experience
@@ -82,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-06-10 · Open WebUI · [[Changes/Open WebUI/2024-06-10-editable-search-query-prompt-you-can-now-edit-the-search-query-generation-prompt|🔍 Editable Search Query Prompt]]
-- Later: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience changes in 0.6.12]]
+- Earlier: 2024-06-11 · Notion · [[Changes/Notion/2024-06-11-use-the-desktop-app-to-pin-pages-that-you-use-frequently-like-a-to-do-list-to-th|Use the desktop app to pin pages that you use frequently (like a to-do list)…]]
+- Later: 2024-06-19 · Descript · [[Changes/Descript/2024-06-19-editor-updates|Editor Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

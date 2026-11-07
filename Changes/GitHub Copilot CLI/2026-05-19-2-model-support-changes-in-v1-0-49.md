@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 50376cf80870881d869ec6e7173bb6ccca2561f364b98bc9599b4a6d52f29e0f
+machine_hash: 197e8863e67404f7f853dc6c864c041e8d0c0172caeaf242c2f9e2da201ca408
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.49
 ## Nearby in Model Support
 
 - Earlier: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-gemini-responses-are-now-even-richer-more-dynamic-and-interactive|Gemini responses are now even richer, more dynamic, and interactive]]
-- Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-23069-multiagent-trim-model-visible-description-cap-to-5-models-sayan-oai|♯23069 multiagent: trim model-visible description, cap to 5 models @sayan-oai]]
+- Later: 2026-05-19 · HeyGen · [[Changes/HeyGen/2026-05-19-avatar-v-is-now-accessible-through-the-heygen-api-bringing-production-grade-avat|Avatar V is now accessible through the HeyGen API, bringing production-grade avatar…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

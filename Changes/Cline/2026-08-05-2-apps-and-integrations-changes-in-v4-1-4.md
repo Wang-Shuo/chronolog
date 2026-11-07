@@ -4,20 +4,20 @@ date: '2026-08-05'
 description: 'Cline · 2026-08-05 · Apps and Integrations: 2 changes in v4.1.4 — Refresh
   MCP tool and resource lists when a server sends a `list_changed` notification…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1231
+  lag_days: 2791
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51f66fa9f8776c2771601f197cdbfd6013ab23e52d40a949457203aca06d2292
+machine_hash: ae61867464df618f5b27b971352da67d1a2d4641ac58cc1827ff25deb228156d
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in v4.1.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-4-apps-and-integrations-changes-in-v2-1-221|4
-  Apps and Integrations changes in v2.1.221]]'
 - '[[Changes/Claude Code/2026-08-04-2-apps-and-integrations-changes-in-v2-1-222|2
   Apps and Integrations changes in v2.1.222]]'
+- '[[Changes/Kimi Code/2026-08-04-add-four-hook-events-turnstarted-userpromptqueued-taskstarted-and-sessionheartbe|Add
+  four hook events]]'
 - '[[Changes/Cline/2026-08-05-map-reasoning-settings-onto-a-shared-path-across-ai-sdk-providers-so-effort-leve|Map
   reasoning settings onto a shared path across AI SDK providers, so effort levels…]]'
 source_release: '[[Releases/Cline/cline-2026-08-05-v4-1-4-github-365446897-8becc947|cline-2026-08-05-v4-1-4-github-365446897-8becc947]]'
@@ -87,13 +87,13 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.4
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-map-reasoning-settings-onto-a-shared-path-across-ai-sdk-providers-so-effort-leve|Map reasoning settings onto a shared path across AI SDK providers, so effort levels…]]
-- Later: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-chore-bump-openhands-extensions-to-0-16-0-by-hieptl-in-https-github-com-openhand|chore: bump @openhands/extensions to 0.16.0]]
+- Later: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-api-integrations|API & integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

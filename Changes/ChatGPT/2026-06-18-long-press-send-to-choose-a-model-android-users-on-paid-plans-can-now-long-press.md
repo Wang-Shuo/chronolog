@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: eb325b56e839a36f4a7324dad6aa5352823e9009bde90867bc84efeef679cf51
+machine_hash: fb39f960cf7f24c7b4636d6d8d7ba05c855d9a69425ef6730b23635ad5670550
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,9 +48,10 @@ record:
   title: Long-press send to choose a model
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-introducing-music-v2|Introducing Music v2]]'
 - '[[Changes/Midjourney/2026-06-16-use-preview-to-test-new-features|Use --preview
   to test new features]]'
+- '[[Changes/Kimi Code/2026-06-17-group-the-default-model-dropdown-in-web-settings-by-provider|Group
+  the default model dropdown in web settings by provider]]'
 - '[[Changes/Ollama/2026-06-17-command-a-and-north-family-models-now-run-on-apple-silicon-with-the-mlx-engine|Command
   A and North family models now run on Apple Silicon with the MLX engine]]'
 scope: Android

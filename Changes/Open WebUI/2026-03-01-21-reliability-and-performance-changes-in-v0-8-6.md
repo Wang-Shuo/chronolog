@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-03-01 · Reliability and Performance: 21 change
   v0.8.6 — \U0001F4A8 **Streaming performance.** Chat responses now render more efficiently
   during…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1172
+  lag_days: 2659
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ad37f0e6a87407bc3b5d4da52fcbf1aa30cf5da8d2a23e55c2cc46ff7d20ef8
+machine_hash: d447071f2cd02c41d461e5e96af26480c2ae3df2d60d32b89b1a6fca98d6fbcf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -198,13 +198,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.6
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved memory usage in long sessions with subagents by stripping heavy progress…]]
-- Later: 2026-03-02 · Ollama · [[Changes/Ollama/2026-03-02-ollama-run-verbose-will-now-show-peak-memory-usage-when-using-ollama-s-mlx-engin|ollama run --verbose will now show peak memory usage when using Ollama's MLX engine]]
+- Later: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-cpu-overload-warnings|CPU overload warnings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

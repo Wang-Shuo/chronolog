@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-03-25 · Image Generation: \U0001F50D **RAG que
   robustness.** The RAG query generation, web search, and image generation handlers
   now…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 745
+  lag_days: 1003
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2556c0cb89be0e1d98557e4eb23271203ce4cd8c4b686ed863318c5845ca7da0
+machine_hash: df531f72d3ce0007989db63ebe1a200cce5663f4ec996433682e0c3430ddc6be
 product: open-webui
 product_name: Open WebUI
 record:
@@ -67,11 +67,11 @@ record:
     web search…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-image-generation-now-saves-output-files-into-the-current-working-directory-13607|Image
-  generation now saves output files into the current working directory]]'
 - '[[Changes/Lovable/2026-03-16-image-generation-updates|Image generation updates]]'
 - '[[Changes/v0/2026-03-16-added-image-generation-capability-to-the-plan-agent|Added
   image generation capability to the Plan agent]]'
+- '[[Changes/Descript/2026-03-17-generated-avatar-images-are-now-saved-in-your-project-files|Generated
+  avatar images are now saved in your project files]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69|open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69]]'
 source_type: github_releases
 theme: image-generation
@@ -116,14 +116,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-03-16 · v0 · [[Changes/v0/2026-03-16-added-image-generation-capability-to-the-plan-agent|Added image generation capability to the Plan agent]]
+- Earlier: 2026-03-17 · Descript · [[Changes/Descript/2026-03-17-generated-avatar-images-are-now-saved-in-your-project-files|Generated avatar images are now saved in your project files]]
 - Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-2-image-generation-changes-in-rust-v0-117-0|2 Image Generation changes in rust-v0.117.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

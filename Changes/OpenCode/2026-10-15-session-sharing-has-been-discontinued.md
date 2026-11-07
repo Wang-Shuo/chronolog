@@ -4,19 +4,20 @@ date: '2026-10-15'
 description: 'OpenCode · 2026-10-15 · Collaboration: Session sharing has been discontinued.
   Existing share links and session-sharing commands are no longer available, and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1240
+  lag_days: 2834
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7d561ce5b0420e31c2bf797bd0b2e134177d0cf826fdd61a668b795b52509851
+machine_hash: 4e29ba4d14bf7b1d32817ecd533722e36a9d81fd3b661f6d0edfd6c70d66b267
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +44,10 @@ record:
   title: Session sharing has been discontinued
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
-  local session transcripts to also record each API request''s system prompt…]]'
 - "[[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|\U0001F4BE
   Save hidden on others' messages. In a chat shared with Allow replies, editing…]]"
+- '[[Changes/Qoder/2026-10-14-collaboration-through-conversation-accounts-with-collaboration-access-can-query|Collaboration
+  through conversation]]'
 - '[[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration
   changes in rust-v0.163.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-15-v1-19-1-b98be4fa|opencode-2026-10-15-v1-19-1-b98be4fa]]'
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

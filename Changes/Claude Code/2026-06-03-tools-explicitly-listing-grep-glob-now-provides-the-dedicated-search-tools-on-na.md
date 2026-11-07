@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-06-03 · Developer Workflow: `--tools`: explic
   listing Grep/Glob now provides the dedicated search tools on native builds with
   embedded…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1173
+  lag_days: 2822
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 959bc4a5e9d5bd6ee7abf2e8f7bbf733ef36381dabd7dcb17cc0fcbe5b0bac5a
+machine_hash: 24765506cba22453787cba462ed2a8f1085d9c76ef70c027d288633f7e64fc69
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +48,12 @@ record:
     tools…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-160|2 Developer
-  Workflow changes in v2.1.160]]'
 - '[[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-161|2 Developer
   Workflow changes in v2.1.161]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-02-experimental-new-ui-with-easy-access-to-issues-pull-requests-and-gists|/experimental
   new UI with easy access to issues, pull requests, and gists]]'
+- '[[Changes/Kimi Code/2026-06-02-3-developer-workflow-changes-in-kimi-code-0-8-0|3
+  Developer Workflow changes in Kimi Code 0.8.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-02-experimental-new-ui-with-easy-access-to-issues-pull-requests-and-gists|/experimental new UI with easy access to issues, pull requests, and gists]]
+- Earlier: 2026-06-02 · Kimi Code · [[Changes/Kimi Code/2026-06-02-3-developer-workflow-changes-in-kimi-code-0-8-0|3 Developer Workflow changes in Kimi Code 0.8.0]]
 - Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills: added \$ escape syntax to include a literal $ before a digit in command bodies]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-07-27 · Developer Workflow: 62 changes in v0.1
   — \U0001F4C2 **Folder pages.** Opening a folder now takes you to its own page, where
   its chats load…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1227
+  lag_days: 2876
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02b93e3f1e155eb6a30d38c1849167977a1dfd37807ce1818f950a61013a56a6
+machine_hash: f2675a621ed903b79dd2936c4adc725e37d37d702b72b9b90a3ba748fdf9c651
 product: open-webui
 product_name: Open WebUI
 record:
@@ -572,7 +573,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

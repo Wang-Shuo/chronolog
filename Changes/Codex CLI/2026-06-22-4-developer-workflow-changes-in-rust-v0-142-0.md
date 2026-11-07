@@ -4,19 +4,20 @@ date: '2026-06-22'
 description: 'Codex CLI · 2026-06-22 · Developer Workflow: 4 changes in 0.142.0 —
   #28738 Scope command approvals by execution environment @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1192
+  lag_days: 2841
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a4d255426868f2f93a737391061d27ba747b276ec5f5e39432d25c02c54011e
+machine_hash: 03410c0fd86f5ed494f43714eeceaab61cf54a9ea6a69e97ee031edcdab2f0d1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -104,13 +105,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-changed-review-pr-to-use-the-same-review-engine-as-code-review-medium|Changed /review pr to use the same review engine as /code-review medium]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-15-developer-workflow-changes-in-v1-0-64|15 Developer Workflow changes in v1.0.64]]
+- Later: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-use-the-add-dir-command-to-add-extra-working-directories-to-the-current-session|Use the /add-dir  command to add extra working directories to the current session…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

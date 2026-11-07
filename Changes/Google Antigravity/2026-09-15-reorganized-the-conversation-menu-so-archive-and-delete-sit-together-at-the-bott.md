@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-09-15 · Interface Experience: Reorgani
   the conversation menu so Archive and Delete sit together at the bottom behind their
   own…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1345
+  lag_days: 2711
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 432f39e6987cae3fc6b818591c258e06ee0a64af4822f71c9a2a6336ed014811
+machine_hash: a767683266462acf21a9fe71aa50e3e1c28a60145475ce1b1184a836bdf72cbd
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -47,10 +47,10 @@ record:
     bottom…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-5-interface-experience-changes-in-v2026-9-4|5 Interface
-  Experience changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
   Experience changes in v2.1.271]]'
+- '[[Changes/Kimi Code/2026-09-14-delete-sessions-from-the-session-picker-press-ctrl-x-on-a-session-then-y-to-conf|Delete
+  sessions from the session picker: press Ctrl+X on a session, then y to confirm]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude
   Code on the web Improved the routine detail page]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-15-rel-hub-2-14-0-a79096fb|google-antigravity-2026-09-15-rel-hub-2-14-0-a79096fb]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-10-29 · Collaboration: \U0001F4C3 **Knowledge 
   API responses trimmed.** Adding, updating or removing knowledge base files and renaming
   or sharing…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1254
+  lag_days: 2848
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed1aa6f712df06e0ba99cfd3f6ed9c2070996efacb4e317f1f43f94dda4b7342
+machine_hash: 72a561dca255fded0da577e16d6a9c93008d9609bc9664ba9bb499675981528d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -109,7 +110,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

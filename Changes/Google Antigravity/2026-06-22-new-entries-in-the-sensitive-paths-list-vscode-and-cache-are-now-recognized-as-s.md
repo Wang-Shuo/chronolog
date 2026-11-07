@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: bcd0cbef9ebe87590ef3ea6a1039a0d00198d1d202212fdfad416c406c733454
+machine_hash: 878991520dd5ab0572b5b18c2c5682b088ad209b548428b5212881e3214a6842
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-22 · ElevenLabs · [[Changes/ElevenLabs/2026-06-22-elevenagents-ee09f3|ElevenAgents]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-6-agent-mode-changes-in-v1-0-64|6 Agent Mode changes in v1.0.64]]
+- Later: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-allow-long-running-foreground-commands-and-subagents-to-be-moved-into-background|Allow long-running foreground commands and subagents to be moved into background…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

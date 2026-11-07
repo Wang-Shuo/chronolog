@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6c87c3b000214d21fb38203bca743ed2fc363e0af1e57aaf68216366efe3abf5
+machine_hash: e12e30c464fb22e6306f876274da56524bc0196d356e1f5c9dfc7dccef233bb9
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -62,12 +62,12 @@ record:
   title: Support for PDF attachments to messages to Gemini models
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-10-4-model-support-changes-in-v1-17-0|4 Model Support
-  changes in v1.17.0]]'
 - '[[Changes/OpenHands/2026-06-10-added-llm-profiles-by-vascosch92-in-https-github-com-openhands-openhands-pull-14|Added
   LLM profiles]]'
 - '[[Changes/Cline/2026-06-11-handle-the-deepseek-v4-reasoning-format|Handle the DeepSeek
   V4 reasoning format]]'
+- '[[Changes/Descript/2026-06-11-opus-4-8-is-now-in-the-model-picker|Opus 4.8 is now
+  in the model picker]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-06-11-rel-hub-2-1-4-62efd910|google-antigravity-2026-06-11-rel-hub-2-1-4-62efd910]]'
 source_type: antigravity_changelog
 theme: model-support
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-11 · Cline · [[Changes/Cline/2026-06-11-handle-the-deepseek-v4-reasoning-format|Handle the DeepSeek V4 reasoning format]]
+- Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-opus-4-8-is-now-in-the-model-picker|Opus 4.8 is now in the model picker]]
 - Later: 2026-06-11 · Midjourney · [[Changes/Midjourney/2026-06-11-after-your-testing-and-feedback-we-ve-updated-the-default-model-from-v7-to-v8-1|After your testing and feedback, we've updated the default model from V7 to V8.1!]]
 <!-- chronolog:end -->
 

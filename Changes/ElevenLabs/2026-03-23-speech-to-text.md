@@ -4,20 +4,20 @@ date: '2026-03-23'
 description: 'ElevenLabs · 2026-03-23 · Voice and Audio: `GET /v1/speech-to-text/evaluation/eval-criteria`
   - List evaluation criteria'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 987
+  lag_days: 2814
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 922f75dab50a6c9500fe60aa655dcd14fc4c653599264ac9189e13e91c78b228
+machine_hash: 0c4ff532ffadf454cafd5dbd67be70ca9a5ee3b5ddf630c4c677fc5548aaab04
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -76,7 +76,8 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-16-packages|Packages]]'
+- '[[Changes/Descript/2026-03-17-pacing-and-intonation-are-better-preserved-so-regenerated-audio-blends-more-smoo|Pacing
+  and intonation are better preserved, so regenerated audio blends more…]]'
 - '[[Changes/Gemini CLI/2026-03-17-feat-voice-implement-speech-friendly-response-formatter-by-ayush31010-in-https-g|feat(voice):
   implement speech-friendly response formatter]]'
 - '[[Changes/Codex CLI/2026-03-19-2-voice-and-audio-changes-in-rust-v0-116-0|2 Voice
@@ -150,7 +151,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

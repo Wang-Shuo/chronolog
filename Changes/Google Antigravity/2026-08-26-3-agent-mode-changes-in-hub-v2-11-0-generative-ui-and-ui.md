@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 092f45e836edd1cab913166954517546e815ab8b71827fa59144fc5bdf3f8525
+machine_hash: 40ffcf585f1882766b89fa96a831f59f91eea7cb58432f5ed508e28c355c6e5a
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Agent Mode changes in HUB v2.11.0 — Generative UI and UI…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0|8 Agent Mode changes
-  in v0.57.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-work-iq-apis-unified-rest-endpoint-for-agents-and-workflows-developer-web-micros|Work
+  IQ APIs – Unified REST Endpoint for Agents and Workflows Developer…]]'
 - "[[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|\U0001F91D
   Files for delegated tasks. A task handed to a sub-agent can now carry…]]"
 - '[[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent

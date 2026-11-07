@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-01 · Context Window: 3 changes in v2026.8.2 �
   native Codex conversations and detached Skill Workshop reviews also prepare the
   context…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1216
+  lag_days: 2540
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62d8131c179cead6db58c176482e56cd910c7fd34c1a112e838cbe056006cc93
+machine_hash: 10279223464c460bca99eb86bb68c60d8e4d5639b7904db4d6dfd1621c89a97f
 product: openclaw
 product_name: OpenClaw
 record:
@@ -121,7 +121,7 @@ Source: https://docs.openclaw.ai/releases/2026.8.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

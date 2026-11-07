@@ -4,20 +4,20 @@ date: '2026-06-03'
 description: 'Cline · 2026-06-03 · Safety and Privacy: Update VS Code extension dependencies
   to resolve security issues in `@xmldom/xmldom`, `basic-ftp`, `axios`, `undici`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1144
+  lag_days: 2136
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0d3e8b67bccedb452735f3c7c9bb0c0635dcb42061a0046876bdda49345635cb
+machine_hash: 5b3691ef23517d8dab798e38880def1ee2d6b4e2213edfd8feaefac388656a67
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Update VS Code extension dependencies to resolve security issues…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-01-7-safety-and-privacy-changes-in-v0-9-6|7 Safety
-  and Privacy changes in v0.9.6]]'
-- '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977|ChatGPT
-  rolls out Active sessions, a new security feature that helps users review…]]'
+- '[[Changes/HeyGen/2026-06-02-we-ve-introduced-a-new-workspace-controls-section-for-admins-bringing-workspace|We''ve
+  introduced a new Workspace Controls section for admins, bringing workspace…]]'
+- '[[Changes/Kimi Code/2026-06-02-add-approval-lifecycle-hook-events-for-observing-pending-and-completed-permissio|Add
+  approval lifecycle hook events for observing pending and completed permission prompts]]'
 - '[[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety
   and Privacy changes in v2.1.162]]'
 source_release: '[[Releases/Cline/cline-2026-06-03-v3-87-0-github-333988697-daa42aa3|cline-2026-06-03-v3-87-0-github-333988697-daa42aa3]]'
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

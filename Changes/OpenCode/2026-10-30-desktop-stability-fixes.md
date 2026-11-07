@@ -4,20 +4,20 @@ date: '2026-10-30'
 description: 'OpenCode · 2026-10-30 · Reliability and Performance: Desktop Stability
   Fixes'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1415
+  lag_days: 2902
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d7ac0fc876f8a0c4d84a12a4a13e2842ff70fd119878d4178f4aaa341e5e3298
+machine_hash: 226bcf7ddb6996b0ba4da9c6301b968ce4aa06271f56f621e06ac39087d234f2
 product: opencode
 product_name: OpenCode
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-reliability-and-performance-changes-in-v2-1-314|3 Reliability and Performance changes in v2.1.314]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-fixes-history-items-for-v4-generations-keep-clone-strength-and-speed-in-their-sa|Fixes: History items for v4 generations keep clone_strength and speed…]]
+- Later: 2026-10-30 · Qoder · [[Changes/Qoder/2026-10-30-conversation-input-improved-slash-menu-categories-and-recent-items-file-search-i|Conversation input: Improved slash-menu categories and recent items, @ file…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

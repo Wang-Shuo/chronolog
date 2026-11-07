@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'OpenHands · 2026-09-23 · Mobile and Desktop: feat(desktop): universal
   macOS DMG with per-arch bundled runtimes by @harsh-batheja in…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1289
+  lag_days: 2873
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6bee88f9988c8abd41025d5f0d56f31194795dcb0215ee30b50ad1f2b33eb2c
+machine_hash: 5b6b6d67c2c72f858e719c25dac01083a13c87fb39c07d86fb784b9a968a6e81
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat(desktop): universal macOS DMG with per-arch bundled runtimes'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-11-mobile-and-desktop-changes-in-rust-v0-156-0|11
-  Mobile and Desktop changes in rust-v0.156.0]]'
-- '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
-  and Desktop changes in v2.1.281]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-delegate-complex-work-with-copilot-cowork-android-windows-ios-mac-web-microsoft|Delegate
+  complex work with Copilot Cowork Android, Windows, iOS, Mac…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-carplay-support-for-the-microsoft-copilot-app-ios-microsoft-365-copilot-app|CarPlay
+  support for the Microsoft Copilot app iOS (Microsoft 365 Copilot app)]]'
 - '[[Changes/OpenClaw/2026-09-23-16-mobile-and-desktop-changes-in-v2026-9-6|16 Mobile
   and Desktop changes in v2026.9.6]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-23-v1-23-0-github-394895769-626c8feb|openhands-2026-09-23-v1-23-0-github-394895769-626c8feb]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

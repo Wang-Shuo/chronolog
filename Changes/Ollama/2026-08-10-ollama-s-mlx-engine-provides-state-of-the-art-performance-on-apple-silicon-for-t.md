@@ -5,20 +5,20 @@ description: 'Ollama · 2026-08-10 · Multimodal Input: Ollama''s MLX engine pro
   state-of-the-art performance on Apple Silicon for this model, with support for DFlash
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1056
+  lag_days: 2824
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 13f0537973655b7275f41cd6b0d4381920a1007c3a10d3db5fa57a0db331ae83
+machine_hash: c477622652b33051cd9b0fb14a442a897f90a319bc25319ad3175238b0f3488c
 product: ollama
 product_name: Ollama
 record:
@@ -60,12 +60,11 @@ record:
   title: Ollama's MLX engine provides state-of-the-art performance on Apple Silicon…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|\U0001F5BC️
-  Media types an extraction engine may handle. Administrators can now list…]]"
-- '[[Changes/Runway/2026-07-28-pass-in-any-video-with-a-text-prompt-describing-an-entity-to-cut-it-out-as-a-tra|SAM3
-  Video Segmentation]]'
-- '[[Changes/OpenHands/2026-08-05-ci-require-frontend-screenshot-video-and-checked-human-tested-box-by-all-hands-b|ci:
-  require frontend screenshot/video and checked human-tested box]]'
+- '[[Changes/HeyGen/2026-08-07-multilingual-embed-player|Multilingual embed player]]'
+- '[[Changes/HeyGen/2026-08-07-script-customization-on-ppt-pdf-to-video|Script customization
+  on PPT / PDF to video]]'
+- '[[Changes/HeyGen/2026-08-07-caption-clarity-in-download-modal|Caption clarity in
+  download modal]]'
 source_release: '[[Releases/Ollama/ollama-2026-08-10-v0-32-8-github-368253532-6ac96d92|ollama-2026-08-10-v0-32-8-github-368253532-6ac96d92]]'
 source_type: github_releases
 theme: multimodal
@@ -96,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-ci-require-frontend-screenshot-video-and-checked-human-tested-box-by-all-hands-b|ci: require frontend screenshot/video and checked human-tested box]]
+- Earlier: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-caption-clarity-in-download-modal|Caption clarity in download modal]]
 - Later: 2026-08-10 · Ollama · [[Changes/Ollama/2026-08-10-2-multimodal-input-changes-in-v0-32-7|2 Multimodal Input changes in v0.32.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

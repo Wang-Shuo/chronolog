@@ -4,20 +4,20 @@ date: '2023-11-21'
 description: 'ChatGPT · 2023-11-21 · Voice and Audio: ChatGPT with voice is now available
   to all free users. Download the app on your phone and tap the headphones icon to…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 134
+  lag_days: 1961
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: a490f9a258b7337e7504e125b1d3883b5582406cf62c2414db0750ca66fb852c
+machine_hash: 7fea809078fb3c8d682c7560a51af261ab6671f2be45ae07f06d6d70e4d02ef5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,10 @@ record:
   title: ChatGPT with voice is available to all users
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-22-2-voice-and-audio-changes-in-v0-13-0|2 Voice and Audio
-  changes in v0.13.0]]'
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-  (Beta) is now rolling out to Plus users on iOS and Android]]'
-- '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-  are beginning to roll out new voice and image capabilities in ChatGPT]]'
+- '[[Changes/Descript/2023-10-31-wordless-media|Wordless Media]]'
+- '[[Changes/Synthesia/2023-11-13-all-creator-plan-and-enterprise-plan-users-can-now-download-the-audio-from-your|AUDIO
+  download is here]]'
+- '[[Changes/Descript/2023-11-15-ai-turn-into-blog-post|AI Turn into Blog Post]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca|chatgpt-2023-11-21-chatgpt-with-voice-is-available-to-all-users-d2d904ca]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -75,14 +73,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
+- Earlier: 2023-11-15 · Descript · [[Changes/Descript/2023-11-15-ai-turn-into-blog-post|AI Turn into Blog Post]]
 - Later: 2024-01-08 · Runway · [[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom Voices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

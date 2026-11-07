@@ -5,20 +5,21 @@ description: "Open WebUI · 2026-02-12 · Account and Access: 6 changes in v0.8.
   \U0001F511 **OAuth token exchange.** Administrators can now enable OAuth token exchange
   via…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1050
+  lag_days: 2025
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5af2fefacabe59b17d0f9ecc25874d8b3aecdbbf73f48612d2848fc80721cdd
+machine_hash: fffbae39fb2ce698a83a83318b37e1b7fd3414c4c4bc93742e8bf322168cff0e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -136,7 +137,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'ElevenLabs · 2026-10-26 · Voice and Audio: 14 changes in ElevenL
   updates — 2026-10-26 — **Realtime voice mode**: Switching an agent to Realtime voice
   mode…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1204
+  lag_days: 3031
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b145fe81e5b56fa596fe25c8636e1e6cd9ad786683e7d8a06bb1cc9307b64c4
+machine_hash: bfb62c57ea1732a3eaef2e13c771e830627f3110435d15f89c07fe80513683d2
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -197,7 +197,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/10/26
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

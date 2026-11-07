@@ -4,20 +4,20 @@ date: '2024-06-04'
 description: 'Dify · 2024-06-04 · Pricing Model: feat: show more usage info in billing
   page by @iamjoel in https://github.com/langgenius/dify/pull/4808'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 537
+  lag_days: 2155
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 6891e7b652221f99c9dfba56bf796894fe7c85f688871883aa1987dc089f4177
+machine_hash: 921772bcd3d3a3519b597182c80e8f739754a796fee43c959fd6d72fd4f6cf33
 product: dify
 product_name: Dify
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat: show more usage info in billing page'
   type: change
 related_changes:
-- '[[Changes/Runway/2024-02-26-you-can-now-see-a-detailed-breakdown-of-credit-spend-across-all-generation-tools|Credit
-  spend history table in user settings]]'
-- '[[Changes/Dify/2024-04-08-add-segment-function-billing-check-for-saas-env-by-johnjyong-in-https-github-com|add
-  segment function billing check for SAAS env]]'
+- '[[Changes/Descript/2024-04-09-sales-tax-on-subscription-and-transcription-fees|Sales
+  Tax on Subscription and Transcription fees]]'
 - '[[Changes/Dify/2024-05-27-2-pricing-model-changes-in-0-6-9|2 Pricing Model changes
   in 0.6.9]]'
+- '[[Changes/Descript/2024-06-04-future-limits-on-ai-features|Future Limits on AI
+  Features]]'
 source_release: '[[Releases/Dify/dify-2024-06-04-0-6-10-github-158857109-2981a4ee|dify-2024-06-04-0-6-10-github-158857109-2981a4ee]]'
 source_type: github_releases
 theme: pricing-model
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-2-pricing-model-changes-in-0-6-9|2 Pricing Model changes in 0.6.9]]
+- Earlier: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-future-limits-on-ai-features|Future Limits on AI Features]]
 - Later: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-add-cost-metrics-to-evaluation-outputs-for-all-benchmarks-by-ryanhoangt-in-https|Add cost metrics to evaluation outputs for all benchmarks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

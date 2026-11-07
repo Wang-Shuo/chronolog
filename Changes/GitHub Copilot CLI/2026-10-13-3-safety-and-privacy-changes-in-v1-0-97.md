@@ -4,20 +4,20 @@ date: '2026-10-13'
 description: 'GitHub Copilot CLI · 2026-10-13 · Safety and Privacy: 3 changes in 1.0.97
   — Autopilot denies a preToolUse hook''s "ask" decision instead of stopping on a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1276
+  lag_days: 2268
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bad1da5db5db52e3d9c315a74bef7824871b3e12706d541aa987631fab47a7dd
+machine_hash: 9cc34eec9a648f80b30edf30b807e7c1943479037f97ab2edc904a5fd58e9921
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,13 +95,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.97
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-13 · Cursor · [[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security-99509e|Origin now integrates with over 20 apps for deployments, CI, code review, security…]]
-- Later: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-3-safety-and-privacy-changes-in-v2026-10-3|3 Safety and Privacy changes in v2026.10.3]]
+- Later: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-admin-billing-and-security|Admin, billing and security]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

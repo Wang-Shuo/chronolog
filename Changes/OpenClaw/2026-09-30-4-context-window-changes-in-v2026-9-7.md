@@ -4,20 +4,20 @@ date: '2026-09-30'
 description: 'OpenClaw · 2026-09-30 · Context Window: 4 changes in v2026.9.7 — Context-engine
   plugins that store completed turns now give the current conversation priority…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1245
+  lag_days: 2569
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f371e635892f97cd139d0bd56339ebe5b92b16399d64c4d362b3e150372d6d17
+machine_hash: 55ad171725acde4e2c60b59f20edd6fcea4da6164d3101311f73cc47ae153348
 product: openclaw
 product_name: OpenClaw
 record:
@@ -126,7 +126,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

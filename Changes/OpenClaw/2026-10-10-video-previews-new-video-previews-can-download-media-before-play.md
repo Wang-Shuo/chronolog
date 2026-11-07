@@ -4,20 +4,20 @@ date: '2026-10-10'
 description: 'OpenClaw · 2026-10-10 · Multimodal Input: Video previews: New video
   previews can download media before Play.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1117
+  lag_days: 2885
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d272b003317992b37891274f8d4bdec1a5827baf3e6995c443670c28c4d95374
+machine_hash: c024174cbed7619c8e45474734550986ca2b909c4aba8147dc3ffa3d82a19c07
 product: openclaw
 product_name: OpenClaw
 record:
@@ -45,10 +45,10 @@ record:
   title: 'Video previews: New video previews can download media before Play'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-29-clef-27b-and-clef-flash-9b-are-multimodal-requests-can-now-include-images-alongs|Clef
-  (27B) and Clef Flash (9B) are multimodal]]'
 - '[[Changes/OpenClaw/2026-09-30-4-multimodal-input-changes-in-v2026-9-7|4 Multimodal
   Input changes in v2026.9.7]]'
+- '[[Changes/Synthesia/2026-10-06-say-how-long-you-want-your-video-in-your-prompt-so-the-assistant-plans-an-outlin|Match
+  video length to your prompt]]'
 - '[[Changes/OpenClaw/2026-10-08-feishu-attachments-files-sent-with-captions-or-together-in-feishu-lark-posts-rea|Feishu
   attachments]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

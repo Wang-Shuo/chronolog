@@ -4,19 +4,20 @@ date: '2025-11-12'
 description: 'Ollama · 2025-11-12 · Developer Workflow: For issues or feedback on
   using Vulkan with Ollama, create an issue labelled **Vulkan** and make sure to include…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 970
+  lag_days: 2619
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60d0e365d879a5ade7629236f762099b229530776199fcdda51ee22cefc4cf81
+machine_hash: 29a140a15d0371d9a5ba7d910a3461f3d78e4c9c6264c0f2e131080e83149aab
 product: ollama
 product_name: Ollama
 record:
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

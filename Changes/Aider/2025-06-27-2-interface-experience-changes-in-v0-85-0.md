@@ -4,20 +4,20 @@ date: '2025-06-27'
 description: 'Aider · 2025-06-27 · Interface Experience: 2 changes in Aider v0.85.0
   — Improved inline code rendering in Rich markdown output, by Vamsi Talupula.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 900
+  lag_days: 2266
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8de2fea4d357e08d776189d28c80769de8bb4f80bc3caf701e164522e7f2c5c5
+machine_hash: 15f75ae7a007597e09502828ec4c21c5b97f6d52ef94a9e863f8b98a761d42a7
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Interface Experience changes in v0.85.0
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-06-18-we-are-also-letting-you-animate-images-uploaded-from-outside-of-midjourney|We
-  are also letting you animate images uploaded from outside of Midjourney]]'
-- '[[Changes/Midjourney/2025-06-19-when-saving-an-video-to-share-please-right-click-your-video-and-press-save-for-s|When
-  saving an video to share, please right click your video and press…]]'
-- '[[Changes/Dify/2025-06-25-4-interface-experience-changes-in-1-5-0|4 Interface Experience
-  changes in 1.5.0]]'
+- '[[Changes/Descript/2025-06-26-panels-quick-access-for-panels-on-the-sidebar-like-project-and-elements|Panels
+  - Quick access for panels on the sidebar like Project, and Elements]]'
+- '[[Changes/Descript/2025-06-26-storyboard-view-get-a-visual-overview-of-every-scene-in-your-composition-and-qui|Storyboard
+  view: Get a visual overview of every scene in your composition…]]'
+- '[[Changes/Descript/2025-06-26-improved-timeline-tools-access-tools-from-the-toolbar-by-toggling-on-advanced-ti|Improved
+  timeline tools: Access tools from the toolbar by toggling on Advanced…]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,14 +87,14 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.85.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-4-interface-experience-changes-in-1-5-0|4 Interface Experience changes in 1.5.0]]
+- Earlier: 2025-06-26 · Descript · [[Changes/Descript/2025-06-26-improved-timeline-tools-access-tools-from-the-toolbar-by-toggling-on-advanced-ti|Improved timeline tools: Access tools from the toolbar by toggling on Advanced…]]
 - Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-feat-add-markdown-table-rendering-support-by-heartyguy-in-https-github-com-googl|feat: Add markdown table rendering support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

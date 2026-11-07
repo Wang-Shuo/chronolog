@@ -4,19 +4,20 @@ date: '2026-07-28'
 description: 'Gemini CLI · 2026-07-28 · Developer Workflow: feat(evals): add eval
   coverage report command by @ved015 in https://github.com/google-gemini/gemini-cli/pull/28169'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1228
+  lag_days: 2877
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f616e215693d122d8f7e4a5a715b5e2fd98a0a8b288301558e1c098b45f722f4
+machine_hash: ae1d654ae2b019c95fa2adafe3ffbf332c1dc127d33a70c0f40dd76bda30630d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

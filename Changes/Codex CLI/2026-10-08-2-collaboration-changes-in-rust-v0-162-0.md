@@ -4,19 +4,20 @@ date: '2026-10-08'
 description: 'Codex CLI · 2026-10-08 · Collaboration: 2 changes in 0.162.0 — #50093
   Prevent shared instruction providers from delegating to themselves @bryanashley'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1233
+  lag_days: 2827
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6afc97c30aea6092ff9085d9b84883e79d5531181bbfa4d12c35b256712aa73
+machine_hash: 5d8e9ad8ba9e15846c7d6e6103fefaa1ed652e7aa59cfd2e02592ce8c075a2dd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.162.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

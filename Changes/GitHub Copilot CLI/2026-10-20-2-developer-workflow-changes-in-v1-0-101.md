@@ -4,19 +4,20 @@ date: '2026-10-20'
 description: 'GitHub Copilot CLI · 2026-10-20 · Developer Workflow: 2 changes in 1.0.101
   — Shell commands that create and then enter a directory now request path approval…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1312
+  lag_days: 2961
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3bda7d86ed831e422d9f8ec2c3e1b931b253d472da7254467b90d9dabdec41b7
+machine_hash: b241d9d6ff49a7509b3f0679e1deb65204a7c27c6563cd696cb35fae7d5e601f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.101
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

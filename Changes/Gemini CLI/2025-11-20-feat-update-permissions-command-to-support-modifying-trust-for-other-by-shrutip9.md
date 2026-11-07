@@ -4,19 +4,20 @@ date: '2025-11-20'
 description: 'Gemini CLI · 2025-11-20 · Developer Workflow: feat: Update permissions
   command to support modifying trust for other… by @shrutip90 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 978
+  lag_days: 2627
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e1e3bce5dbcd94656dbae0c5ca1eab698cd1cd22f1b7f5b31f89a1a468efefa4
+machine_hash: 3849da9ed7c0e96938579072a9f3c6cfbc64741ee724f40241cfeca2f40d0b20
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1bb522acd5d55c593e24a4dcfae15f6fc7ad028c57df6ed086c9106e5621a0eb
+machine_hash: 2c7644d10d29666a7bea3ee0a647874673526727c17b3cc027a3251f25f3131a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Agent Mode changes in v2026.10.9
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-feat-verify-stand-in-for-digitalocean-so-managed-agents-can-be-verified-by-enyst|feat(verify):
-  stand in for DigitalOcean so Managed Agents can be verified]]'
+- '[[Changes/Kimi Code/2026-10-28-2-agent-mode-changes-in-kimi-code-2-4-0|2 Agent
+  Mode changes in Kimi Code 2.4.0]]'
 - '[[Changes/Codex CLI/2026-10-29-7-agent-mode-changes-in-rust-v0-166-0|7 Agent Mode
   changes in rust-v0.166.0]]'
 - "[[Changes/Open WebUI/2026-10-29-photos-for-sub-agents-models-can-now-hand-a-photo-attached-in-the-chat-to-a-sub|\U0001F916

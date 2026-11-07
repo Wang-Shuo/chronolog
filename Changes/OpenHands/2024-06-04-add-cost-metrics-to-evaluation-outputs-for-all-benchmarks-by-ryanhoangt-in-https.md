@@ -4,20 +4,20 @@ date: '2024-06-04'
 description: 'OpenHands · 2024-06-04 · Pricing Model: Add cost metrics to evaluation
   outputs for all benchmarks by @ryanhoangt in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 537
+  lag_days: 2155
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 6ffb997c533050c60567dbe5728f355afdd920f188b25a005e4e2840b3b64caa
+machine_hash: 9f6cc4410a0a712f860a19525753fdb3c1e53c30dc54f2b65d5e47da3b2b0e52
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: Add cost metrics to evaluation outputs for all benchmarks
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-08-add-segment-function-billing-check-for-saas-env-by-johnjyong-in-https-github-com|add
-  segment function billing check for SAAS env]]'
 - '[[Changes/Dify/2024-05-27-2-pricing-model-changes-in-0-6-9|2 Pricing Model changes
   in 0.6.9]]'
+- '[[Changes/Descript/2024-06-04-future-limits-on-ai-features|Future Limits on AI
+  Features]]'
 - '[[Changes/Dify/2024-06-04-feat-show-more-usage-info-in-billing-page-by-iamjoel-in-https-github-com-langgen|feat:
   show more usage info in billing page]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-04-0-6-1-github-158811079-9345253b|openhands-2024-06-04-0-6-1-github-158811079-9345253b]]'
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

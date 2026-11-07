@@ -4,20 +4,20 @@ date: '2024-08-14'
 description: 'Dify · 2024-08-14 · Automation and Scheduling: Docs/remove all meeting
   schedule links by @guchenhe in https://github.com/langgenius/dify/pull/7177'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 225
+  lag_days: 1792
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd1d71bbac4a6b2235365011d42ea9c7f0a929cc9fb5e4fc5471dea8d190de26
+machine_hash: fda8fdc43e4328f42bee6744685c17c719107d701944ffd312348e368652c265
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: Docs/remove all meeting schedule links
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-02-pipelines-support-open-webui-now-includes-a-plugin-framework-for-enhanced-custom|\U0001F527
-  Pipelines Support]]"
 - '[[Changes/Dify/2024-07-15-refactor-api-switch-to-dify-config-with-pydantic-in-controllers-and-schedule-by|refactor(api):
   switch to dify_config with Pydantic in controllers and schedule]]'
 - '[[Changes/Dify/2024-07-23-update-celery-beat-scheduler-time-to-env-by-johnjyong-in-https-github-com-langge|update
   celery beat scheduler time to env]]'
+- '[[Changes/Notion/2024-08-13-smarter-more-flexible-automations|Smarter, more flexible
+  automations]]'
 source_release: '[[Releases/Dify/dify-2024-08-14-0-7-0-github-170141477-acb406bb|dify-2024-08-14-0-7-0-github-170141477-acb406bb]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-update-celery-beat-scheduler-time-to-env-by-johnjyong-in-https-github-com-langge|update celery beat scheduler time to env]]
+- Earlier: 2024-08-13 · Notion · [[Changes/Notion/2024-08-13-smarter-more-flexible-automations|Smarter, more flexible automations]]
 - Later: 2024-08-28 · Gemini · [[Changes/Gemini/2024-08-28-gemini-advanced-and-gemini-for-google-workspace-add-on-priority-access-introduci|Gemini Advanced and Gemini for Google Workspace add-on priority access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

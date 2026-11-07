@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-06-11 · Pricing Model: Quota screen re
   clearer, unambiguous view into “used” versus “remaining” credits in the Models tab
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1274
+  lag_days: 2892
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: a951ac09c97a9e9d0c2a1c09baddceca3d5067d1574453c3827a8d613f2284b9
+machine_hash: b324d851d5d086e4be070ce4e430811a818dc4bc5110500a9804a65f5b7ea6ce
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -54,11 +54,12 @@ record:
   title: Quota screen redesign
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-05-core-updated-github-copilot-usage-tracking-for-token-based-billing|Core
-  Updated GitHub Copilot usage tracking for token-based billing]]'
-- '[[Changes/Replit/2026-06-05-billing|Billing]]'
 - '[[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified
   model picker pricing view for select enterprise customers]]'
+- '[[Changes/Descript/2026-06-11-always-show-ai-credits-and-minutes-usage|Always show
+  AI credits and minutes usage]]'
+- '[[Changes/Descript/2026-06-11-the-customer-obsessed-telethon|The Customer-Obsessed
+  Telethon]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-06-11-rel-hub-2-1-4-62efd910|google-antigravity-2026-06-11-rel-hub-2-1-4-62efd910]]'
 source_type: antigravity_changelog
 theme: pricing-model
@@ -93,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-06 · Windsurf · [[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified model picker pricing view for select enterprise customers]]
+- Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-the-customer-obsessed-telethon|The Customer-Obsessed Telethon]]
 - Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143 feat(app-server): expose rate-limit reset credits @jayp-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b652bf0dcd4f933a9f2446c37a90f3db9fe1652ad1ae4c9de1a228e857e5669a
+machine_hash: 23fa5c0fb6e40757848f6db14a20d67a00d87952cb4842be2fa430cd2b526ca3
 product: claude
 product_name: Claude
 record:
@@ -49,8 +49,10 @@ record:
   title: Claude Sonnet 5 launch
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-29-text-to-speech|Text to Speech]]'
 - '[[Changes/ElevenLabs/2026-06-29-workspaces-e487d5|Workspaces]]'
+- '[[Changes/Kimi Code/2026-06-29-route-kimi-code-models-on-the-anthropic-compatible-protocol-through-the-beta-mes|Route
+  Kimi Code models on the Anthropic-compatible protocol through the beta Messages
+  API]]'
 - '[[Changes/Open WebUI/2026-06-29-25-model-support-changes-in-v0-10-0|25 Model Support
   changes in v0.10.0]]'
 source_release: '[[Releases/Claude/claude-2026-06-30-2026-06-30-11e709aa|claude-2026-06-30-2026-06-30-11e709aa]]'

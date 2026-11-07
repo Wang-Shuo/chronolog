@@ -1,0 +1,95 @@
+---
+card_id: heygen-2026-02-13-c59080
+date: '2026-02-13'
+description: 'HeyGen · 2026-02-13 · Video Generation: 800M+ ChatGPT users can now
+  create production-grade videos without leaving the conversation.'
+diffusion:
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1941
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: video-generation
+  tracked_products_count: 37
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 67ed24dc8b3f61ffcf5c268b688b6b82b41bd8ed375a250c43a1ea5ebbf669ab
+product: heygen
+product_name: HeyGen
+record:
+  card_id: heygen-2026-02-13-c59080
+  comparison: ''
+  date: '2026-02-13'
+  description: 'HeyGen — HeyGen is now a native app in ChatGPT: 800M+ ChatGPT users
+    can now create production-grade videos without leaving the conversation.'
+  evidence:
+  - quote: 800M+ ChatGPT users can now create production-grade videos without leaving
+      the conversation.
+    source_release: https://heygen.noticeable.news/publications/heygen-is-now-a-native-app-in-chatgpt
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: heygen
+  product_name: HeyGen
+  slug: 800m-chatgpt-users-can-now-create-production-grade-videos-without-leaving-the-co
+  source_release: heygen-2026-02-13-https-heygen-noticeable-news-publications-heygen-is-now-a-native-500b7759
+  source_type: heygen_changelog
+  theme: video-generation
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: 800M+ ChatGPT users can now create production-grade videos without leaving…
+  type: change
+related_changes:
+- '[[Changes/HeyGen/2026-02-11-turn-your-avatar-videos-into-post-ready-content-in-seconds|Turn
+  your avatar videos into post-ready content in seconds]]'
+- '[[Changes/HeyGen/2026-02-11-what-s-new-12-templates-4-visual-hooks-8-caption-styles-automatic-hook-extractio|What''s
+  new: → 12 templates (4 visual hooks + 8 caption styles) → Automatic hook…]]'
+- '[[Changes/HeyGen/2026-02-13-try-it-now|Try it now]]'
+source_release: '[[Releases/HeyGen/heygen-2026-02-13-https-heygen-noticeable-news-publications-heygen-is-now-a-native-500b7759|heygen-2026-02-13-https-heygen-noticeable-news-publications-heygen-is-now-a-native-500b7759]]'
+source_type: heygen_changelog
+theme: video-generation
+title: 800M+ ChatGPT users can now create production-grade videos without leaving…
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 800M+ ChatGPT users can now create production-grade videos without leaving…
+
+**HeyGen** · 2026-02-13 · [[Themes/video-generation|Video Generation]] · [Official source](https://heygen.noticeable.news/publications/heygen-is-now-a-native-app-in-chatgpt) · from [[Releases/HeyGen/heygen-2026-02-13-https-heygen-noticeable-news-publications-heygen-is-now-a-native-500b7759|HeyGen is now a native app in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> 800M+ ChatGPT users can now create production-grade videos without leaving the conversation.
+>
+> Source: https://heygen.noticeable.news/publications/heygen-is-now-a-native-app-in-chatgpt
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/HeyGen/2026-02-13-describe-the-video-you-want-in-natural-language-video-agent-handles-the-rest-scr|Describe the video you want in natural language]] · Agent Mode
+- [[Changes/HeyGen/2026-02-13-we-ve-launched-heygen-as-a-native-app-inside-chatgpt-s-new-app-store-powered-by|We've launched HeyGen as a native app inside ChatGPT's new App Store]] · Multimodal Input
+- [[Changes/HeyGen/2026-02-13-try-it-now|Try it now]] · Video Generation
+- [[Changes/HeyGen/2026-02-13-why-it-matters|Why it matters]] · Apps and Integrations
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Video Generation
+
+- Earlier: 2026-02-11 · HeyGen · [[Changes/HeyGen/2026-02-11-what-s-new-12-templates-4-visual-hooks-8-caption-styles-automatic-hook-extractio|What's new: → 12 templates (4 visual hooks + 8 caption styles) → Automatic hook…]]
+- Later: 2026-02-17 · HeyGen · [[Changes/HeyGen/2026-02-17-heygen-now-works-as-a-native-slack-app-install-it-to-your-workspace-and-your-tea|HeyGen now works as a native Slack app]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20heygen-2026-02-13-c59080&body=Card%3A%20Changes%2FHeyGen%2F2026-02-13-800m-chatgpt-users-can-now-create-production-grade-videos-without-leaving-the-co.md%0ACard%20ID%3A%20heygen-2026-02-13-c59080%0ASource%3A%20https%3A%2F%2Fheygen.noticeable.news%2Fpublications%2Fheygen-is-now-a-native-app-in-chatgpt%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

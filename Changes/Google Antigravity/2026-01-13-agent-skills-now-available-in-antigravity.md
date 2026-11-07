@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 09f360b915b95bbeb1512cbeb6887c0a7cd7640b6ddb1bef8948b8ccacc8c197
+machine_hash: c3e87a7544cfb72bd7a12c02408d4a2cbe8c508d87772c98c1a56cf9b62cdde3
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-3-agent-mode-changes-in-v0-0-380|3 Agent Mode changes in v0.0.380]]
-- Later: 2026-01-13 · Windsurf · [[Changes/Windsurf/2026-01-13-new-features-and-improvements|New Features and Improvements]]
+- Later: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-expand-copilot-agents-with-mail-people-and-meeting-insights-windows-web-microsof|Expand Copilot Agents with Mail, People, and Meeting Insights Windows…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,19 +4,20 @@ date: '2025-06-12'
 description: 'ChatGPT · 2025-06-12 · Collaboration: Starting today, we’re adding several
   updates to projects in ChatGPT to help you do more focused work. These updates are…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 750
+  lag_days: 2344
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b09b282026bca7b7aadd7d5a42bdb30a8a26aafe2693ce1cd367b2c9d0952c1
+machine_hash: 128fe9197bcc4b638cd1b7f0fb6c4df0fad85313dfd66d7b03c461c4f202cbcc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

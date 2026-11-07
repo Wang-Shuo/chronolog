@@ -4,20 +4,20 @@ date: '2024-01-02'
 description: 'Dify · 2024-01-02 · Pricing Model: feat: add billing switch. by @GarfieldDai
   in https://github.com/langgenius/dify/pull/1789'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 383
+  lag_days: 2001
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 26fada2e0057e079a327f2006a3c805d2cc0c30dce97e7ecc1df4837c8043a12
+machine_hash: 6440565d2f2b44985b535f6b171bd5a7fd0374ed605b2da0de065d84c9367d46
 product: dify
 product_name: Dify
 record:
@@ -81,13 +81,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-happy-holidays-all-we-are-grateful-for-the-community-s-support-as-we-round-out-t|Happy holidays all - we are grateful for the community's support as we round out the year]]
-- Later: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-chore-enchance-view-billing-text-by-iamjoel-in-https-github-com-langgenius-dify|chore: enchance view billing text]]
+- Later: 2024-01-10 · Descript · [[Changes/Descript/2024-01-10-drive-administrators-cannot|Drive administrators CANNOT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

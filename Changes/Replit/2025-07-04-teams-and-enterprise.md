@@ -3,20 +3,20 @@ card_id: replit-2025-07-04-9bed96
 date: '2025-07-04'
 description: 'Replit · 2025-07-04 · Enterprise and Administration: Teams and Enterprise'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 791
+  lag_days: 1998
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b10ab1f9d0428b2a53f37e7a2e5454ee777e3e418b8d45e8814b6905edc3b7cd
+machine_hash: 4c09713141137eac3690bb043e343863201e6882a128d1fcbc699fe1688f278b
 product: replit
 product_name: Replit
 record:
@@ -49,9 +49,10 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-13-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Open WebUI/2025-06-16-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
+- '[[Changes/Synthesia/2025-06-25-we-re-super-excited-to-introduce-interactivity-to-our-enterprise-customer-and-cr|Make
+  your videos interactive]]'
 - '[[Changes/Replit/2025-06-27-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Replit/replit-2025-07-04-2025-07-04-cb49ecc5|replit-2025-07-04-2025-07-04-cb49ecc5]]'
 source_type: replit_changelog
@@ -87,13 +88,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-06-27 · Replit · [[Changes/Replit/2025-06-27-teams-and-enterprise|Teams and Enterprise]]
-- Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
+- Later: 2025-07-10 · Notion · [[Changes/Notion/2025-07-10-and-search-across-linear|and search across Linear]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

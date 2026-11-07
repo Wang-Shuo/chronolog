@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2025-08-12 · Context Window: 3 changes in Release v
   — Add a context percentage threshold setting for auto compression by @jakemac53
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 831
+  lag_days: 2155
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 745f4a0cdf6b356c91d8754cea888507c482c285a7d18b83a5f4eccd57cb9a9d
+machine_hash: 630f4bd17efc7e270cb25794455adf424d8d1195af375d92ff1f8e0b6209da8b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.19
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

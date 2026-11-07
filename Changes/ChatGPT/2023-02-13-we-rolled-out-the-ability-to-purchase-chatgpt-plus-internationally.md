@@ -4,20 +4,20 @@ date: '2023-02-13'
 description: 'ChatGPT · 2023-02-13 · Pricing Model: We rolled out the ability to purchase
   ChatGPT Plus internationally.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 60
+  lag_days: 1678
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 350f0dc48e73182188b2453f847a621c343b2ab4efc9c2508ee72f51756a76e5
+machine_hash: f74cfd916ea6efa664caee319f46a97f459fbc73e0e54ef9ad50c4f23e6ad087
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +43,12 @@ record:
   title: We rolled out the ability to purchase ChatGPT Plus internationally
   type: change
 related_changes:
+- '[[Changes/Notion/2022-12-07-still-free-for-everyone-now-with-even-more-features|Still
+  free for everyone]]'
 - '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
   limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+- '[[Changes/Descript/2023-02-06-you-can-now-add-custom-billing-details-https-help-descript-com-hc-en-us-articles|add
+  custom billing…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3|chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -74,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
-- Later: 2023-03-27 · Cursor · [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]]
+- Earlier: 2023-02-06 · Descript · [[Changes/Descript/2023-02-06-you-can-now-add-custom-billing-details-https-help-descript-com-hc-en-us-articles|add custom billing…]]
+- Later: 2023-02-21 · Descript · [[Changes/Descript/2023-02-21-if-you-apply-and-are-approved-for-a-descript-educational-organization-plan-you-w|If you apply and are approved for a Descript educational organization plan, you will…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2025-01-08'
 description: 'Ollama · 2025-01-08 · Developer Workflow: [Command R7B](https://ollama.com/library/command-r7b):
   the smallest model in Cohere''s R series delivers top-tier…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 662
+  lag_days: 2311
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7c36d94eb9fc1e9888852bcbbff3315f6cdf26e4272e1029ed29069aaa124216
+machine_hash: ba4120c66b45a7495a20932a62bb349150f97d5da94c3f218ed605f3d16d859e
 product: ollama
 product_name: Ollama
 record:
@@ -99,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

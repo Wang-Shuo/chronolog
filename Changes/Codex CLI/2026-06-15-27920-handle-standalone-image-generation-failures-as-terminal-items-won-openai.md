@@ -4,20 +4,20 @@ date: '2026-06-15'
 description: 'Codex CLI · 2026-06-15 · Image Generation: #27920 Handle standalone
   image generation failures as terminal items @won-openai'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 827
+  lag_days: 1085
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 613c300a85a65e3653004ce2c3ec402d7981b82354ebb1c9ea531db63acf56f6
+machine_hash: 82081cdbdc97f7cea96c6292b1a8168249dbc8efae8364167dcb845f753c6c20
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -102,13 +102,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-2-image-generation-changes-in-rust-v0-138-0|2 Image Generation changes in rust-v0.138.0]]
-- Later: 2026-06-22 · Lovable · [[Changes/Lovable/2026-06-22-better-standard-image-generation-while-building|Better standard image generation while building]]
+- Later: 2026-06-16 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-16-black-forest-lab-s-flux-2-flex-model-is-available-in-powerpoint-for-microsoft-36|Black Forest Lab's FLUX.2 Flex model is available in PowerPoint for Microsoft 365…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

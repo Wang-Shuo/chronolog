@@ -4,20 +4,19 @@ date: '2026-06-03'
 description: 'Claude Code · 2026-06-03 · Editor Experience: Renamed Windsurf to Devin
   Desktop in the `/ide` menu, `/terminal-setup`, and `/scroll-speed`, following the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1177
+  lag_days: 2761
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2bc870ad5f3238b842baa35928587257a3a5902f019903909c00c273017fd05b
+machine_hash: 5c7e2eca1f7d3a096d976f1551f502bfc5de9c7aede40aecaf39102cb32106af
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,12 +59,12 @@ record:
   title: Renamed Windsurf to Devin Desktop in the `/ide` menu, `/terminal-setup`…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-9-editor-experience-changes-in-v1-0-57|9
-  Editor Experience changes in v1.0.57]]'
-- '[[Changes/Open WebUI/2026-06-01-4-editor-experience-changes-in-v0-9-6|4 Editor
-  Experience changes in v0.9.6]]'
-- '[[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit
-  no longer requires a separate Read after viewing a file with grep]]'
+- '[[Changes/HeyGen/2026-06-02-we-ve-redesigned-the-organization-experience-by-consolidating-the-previous-membe|We''ve
+  redesigned the Organization experience by consolidating the previous Members…]]'
+- '[[Changes/HeyGen/2026-06-02-what-you-can-do-from-the-new-tab|What you can do from
+  the new tab]]'
+- '[[Changes/Kimi Code/2026-06-02-report-truncated-compaction-summaries-clearly-and-apply-valid-completion-token-b|Report
+  truncated compaction summaries clearly and apply valid completion token…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
 theme: editor-experience
@@ -100,14 +99,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit no longer requires a separate Read after viewing a file with grep]]
+- Earlier: 2026-06-02 · Kimi Code · [[Changes/Kimi Code/2026-06-02-report-truncated-compaction-summaries-clearly-and-apply-valid-completion-token-b|Report truncated compaction summaries clearly and apply valid completion token…]]
 - Later: 2026-06-03 · Google Antigravity · [[Changes/Google Antigravity/2026-06-03-antivirus-and-open-ide-fixes|Antivirus and Open IDE fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

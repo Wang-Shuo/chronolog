@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba322f361bc87e7f23584d3bc41c59bd4bc7579ad4f5de19146f4718b428b9ba
+machine_hash: b487c823805049591d138010ce91a106f8ffeb0d5a8d2a140760f777256b423e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,10 +53,11 @@ record:
   title: 6 Agent Mode changes in v0.33.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-09-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/ElevenLabs/2026-03-09-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/Claude Code/2026-03-10-2-agent-mode-changes-in-v2-1-72|2 Agent Mode changes
   in v2.1.72]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-edit-with-copilot-in-excel-to-enhance-your-productivity-formerly-agent-mode-wind|Edit
+  with Copilot in Excel to enhance your productivity (formerly Agent Mode)…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937|gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937]]'
 source_type: github_releases
 theme: agent-mode
@@ -106,7 +107,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.33.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-2-agent-mode-changes-in-v2-1-72|2 Agent Mode changes in v2.1.72]]
+- Earlier: 2026-03-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-10-edit-with-copilot-in-excel-to-enhance-your-productivity-formerly-agent-mode-wind|Edit with Copilot in Excel to enhance your productivity (formerly Agent Mode)…]]
 - Later: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-2-agent-mode-changes-in-v1-0-4|2 Agent Mode changes in v1.0.4]]
 <!-- chronolog:end -->
 

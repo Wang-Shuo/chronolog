@@ -4,20 +4,20 @@ date: '2025-11-21'
 description: 'ElevenLabs · 2025-11-21 · Voice and Audio: **Scribe quota exceeded events**:
   Added `quota_exceeded` event in SDKs and `include_timestamps` parameter for better…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 865
+  lag_days: 2692
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 66f27c4d619f90b64903fb8d812d880fe3406322ed247a5b3c5d78fb27334694
+machine_hash: c5b8638e41f4eafffd41f9b4de658939f8a3ca45404ee38d9bcf043fce0fe0e7
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-feat-add-audio-content-support-for-mcp-tools-by-ithacadream-in-https-github-com|feat: Add Audio Content Support for MCP Tools]]
+- Earlier: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-better-audio-duration-matching-for-translation-dubbing|Better audio duration matching for translation dubbing]]
 - Later: 2025-11-21 · Runway · [[Changes/Runway/2025-11-21-audio-nodes-video-upscaling-nodes-and-three-new-featured-workflows-available-now|Workflows Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

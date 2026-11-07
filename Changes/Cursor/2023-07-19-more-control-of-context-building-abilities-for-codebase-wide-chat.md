@@ -4,20 +4,20 @@ date: '2023-07-19'
 description: 'Cursor · 2023-07-19 · Context Window: More control of context building
   abilities for codebase-wide chat'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 76
+  lag_days: 1400
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aeffe7be8d3520072721b073969ae8b9ca2ad2d98464201df4479d8e17ed06da
+machine_hash: a01a29c13711ec99786656310c1abd8c8789942a6cc82b1b5554a0db80304426
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,10 @@ record:
   title: More control of context building abilities for codebase-wide chat
   type: change
 related_changes:
-- '[[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips|Graceful
-  handling of context window exhaustion, including helpful tips]]'
-- '[[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips-d31722|Graceful
-  handling of context window exhaustion, including helpful tips]]'
+- '[[Changes/Descript/2023-07-10-update-layer-order-across-scenes|Update layer order
+  across scenes]]'
+- '[[Changes/Descript/2023-07-10-edit-word-gaps-from-the-script|Edit Word Gaps from
+  the Script]]'
 - '[[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced
   context controls only show up if you have indexed your codebase]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598|cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598]]'
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

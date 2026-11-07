@@ -4,20 +4,20 @@ date: '2026-02-03'
 description: 'Dify · 2026-02-03 · Files and Data: 7 changes in v1.12.0 - Introducing
   Summary Index: Smarter Retrieval with AI Summarization — We are introducing **Summary…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 985
+  lag_days: 2330
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: caff29a2f888196d74037f3ca9c85a901df5f2f609baa9c6d78efa1c57fe2c06
+machine_hash: 13f15ff805db821307694ea7fb44723562175e85a93761540440b1f20820ab26
 product: dify
 product_name: Dify
 record:
@@ -127,7 +127,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.12.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

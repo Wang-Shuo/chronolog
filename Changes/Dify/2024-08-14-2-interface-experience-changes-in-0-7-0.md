@@ -4,20 +4,20 @@ date: '2024-08-14'
 description: 'Dify · 2024-08-14 · Interface Experience: 2 changes in v0.7.0 — **Workflow
   Interaction Improvements** by @zxhlyh in #4214'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 583
+  lag_days: 1949
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32b4a90017a3fe0a2e5fa59b7ad5ce3d5342957c54b744c0c3af622ea6824485
+machine_hash: 0fdfe4df951e99257860ee849058d74bb1345e16c9bf1d9304eb80801b6f1973
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-08-01-gemini-is-available-to-teens-in-more-countries-and-languages|Gemini
-  is available to teens in more countries and languages]]'
 - '[[Changes/Open WebUI/2024-08-02-3-interface-experience-changes-in-v0-3-11|3 Interface
   Experience changes in v0.3.11]]'
 - '[[Changes/Open WebUI/2024-08-07-3-interface-experience-changes-in-v0-3-12|3 Interface
   Experience changes in v0.3.12]]'
+- '[[Changes/Descript/2024-08-14-the-title-field-has-been-added-back-to-compositions-so-you-can-update-the-title|The
+  Title field has been added back to Compositions so you can update the title…]]'
 source_release: '[[Releases/Dify/dify-2024-08-14-0-7-0-github-170141477-acb406bb|dify-2024-08-14-0-7-0-github-170141477-acb406bb]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,14 +89,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-08-07 · Open WebUI · [[Changes/Open WebUI/2024-08-07-3-interface-experience-changes-in-v0-3-12|3 Interface Experience changes in v0.3.12]]
+- Earlier: 2024-08-14 · Descript · [[Changes/Descript/2024-08-14-the-title-field-has-been-added-back-to-compositions-so-you-can-update-the-title|The Title field has been added back to Compositions so you can update the title…]]
 - Later: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-enhanced-markdown-rendering-significant-improvements-in-rendering-markdown-ensur|🎨 Enhanced Markdown Rendering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

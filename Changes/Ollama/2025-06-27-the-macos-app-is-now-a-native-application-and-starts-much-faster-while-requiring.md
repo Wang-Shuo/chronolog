@@ -4,20 +4,20 @@ date: '2025-06-27'
 description: 'Ollama · 2025-06-27 · Reliability and Performance: The macOS app is
   now a native application and starts much faster while requiring a much smaller installation.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 925
+  lag_days: 2412
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b1ac26f00dd6ced2ab08abe8c9bb1f024256d938626b339f7defe264accebd84
+machine_hash: 84d2a961aa256934478732a78ea1768bb7611fe287352ac5d835b30183de2528
 product: ollama
 product_name: Ollama
 record:
@@ -42,8 +42,8 @@ record:
   title: The macOS app is now a native application and starts much faster while requiring…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized
-  Cline to work with the Claude 4 family of models, resulting in improved…]]'
+- '[[Changes/Descript/2025-06-26-the-new-timeline-turned-on-for-all-users-if-you-need-extra-time-to-get-up-to-spe|The
+  new timeline turned on for all users]]'
 - '[[Changes/Manus/2025-06-26-we-now-offer-two-specialized-modes-for-all-manus-paid-subscribers-choose-between|Introducing
   Agent preference]]'
 - '[[Changes/Aider/2025-06-27-3-reliability-and-performance-changes-in-v0-85-0|3 Reliability
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

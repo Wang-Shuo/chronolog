@@ -5,20 +5,20 @@ description: 'ChatGPT · 2023-11-06 · Apps and Integrations: You can now create
   versions of ChatGPT that combine instructions, extra knowledge, and any combination
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 228
+  lag_days: 1788
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 66733d16d38064cfa2ddfbb348f3999ecc029761caacf204283952263b3f9faa
+machine_hash: af835d75758654d367710149bd2eef4b115905bebefab0d85af3fb30f9fcb2cc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -96,13 +96,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-10-20 · Cursor · [[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor is now based on VS Code 1.83.1]]
-- Later: 2023-11-13 · Dify · [[Changes/Dify/2023-11-13-2-apps-and-integrations-changes-in-0-3-30|2 Apps and Integrations changes in 0.3.30]]
+- Later: 2023-11-07 · Notion · [[Changes/Notion/2023-11-07-new-siem-dlp-integrations|New SIEM & DLP integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

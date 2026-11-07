@@ -4,19 +4,20 @@ date: '2026-06-30'
 description: 'GitHub Copilot CLI · 2026-06-30 · Collaboration: 2 changes in 1.0.66
   — Improve /share to manage synced session visibility'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1133
+  lag_days: 2727
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7ed9b30dd6409c1c8cf35e189b0567a5f25ff6b2c937d247235cf06d5f14d2f
+machine_hash: a2592ffa9cc2d1d38ae08a08d5ff4bea4e0c8f04172e42910c1dc6f842368c06
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -102,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

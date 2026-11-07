@@ -5,20 +5,20 @@ description: 'Dify · 2024-10-14 · Safety and Privacy: 2 changes in v0.9.2 — 
   Support:** Content Security Policy (CSP) is now supported, adding an extra layer
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 547
+  lag_days: 1539
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00f3bdc283d0ea10fe5d3d3cd1799355cd9fafe5dfa7a97d0046ed0641e60f6f
+machine_hash: f0adce2bdcfc676ba453efb08201e57422cb5758cc8345648e03447f0c994463
 product: dify
 product_name: Dify
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.9.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5cca1cae2cfc67bc2429dcc63d98ae5cf3254e93ad77a1d04e81b38f1780f173
+machine_hash: 930a275b862f981748336c40abc769c181bb848af1f635d8170a9c86d120da38
 product: midjourney
 product_name: Midjourney
 record:
@@ -72,10 +72,10 @@ record:
   title: Today we’re gonna start letting everyone test our first V8.2 image edit model!
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-10-model-support-changes-in-rust-v0-150-0|10 Model
-  Support changes in rust-v0.150.0]]'
 - '[[Changes/Ollama/2026-08-26-mlxrunner-avoid-metal-gpu-timeouts-when-loading-models-from-slow-storage|mlxrunner:
   avoid Metal GPU timeouts when loading models from slow storage]]'
+- '[[Changes/Z.ai API/2026-08-26-native-visual-capabilities-enable-the-model-to-observe-interfaces-rendering-resu|Native
+  visual capabilities enable the model to observe interfaces, rendering…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model
   Support changes in v1.0.81]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-08-27-https-updates-midjourney-com-edit-model-for-v8-d8d62f6e|midjourney-2026-08-27-https-updates-midjourney-com-edit-model-for-v8-d8d62f6e]]'

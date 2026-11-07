@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c37a7fb345ababe5e7ccae865465b09a5cfe9d000d64cfdfca17946cc4ec9b3
+machine_hash: f3b8373ac11613a901dfbee1dad89671f9d9596219dc3e8797446c88d112d270
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Agent Mode changes in rust-v0.144.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-11-2-agent-mode-changes-in-v2-1-207|2 Agent Mode
-  changes in v2.1.207]]'
 - '[[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc|Auto
   mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]]'
 - '[[Changes/Ollama/2026-07-11-2-agent-mode-changes-in-v0-32-0|2 Agent Mode changes
   in v0.32.0]]'
+- '[[Changes/Kimi Code/2026-07-12-2-agent-mode-changes-in-kimi-code-0-23-6|2 Agent
+  Mode changes in Kimi Code 0.23.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-13-rust-v0-144-2-github-352930553-119c6f5d|codex-cli-2026-07-13-rust-v0-144-2-github-352930553-119c6f5d]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,7 +80,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-11 · Ollama · [[Changes/Ollama/2026-07-11-2-agent-mode-changes-in-v0-32-0|2 Agent Mode changes in v0.32.0]]
+- Earlier: 2026-07-12 · Kimi Code · [[Changes/Kimi Code/2026-07-12-2-agent-mode-changes-in-kimi-code-0-23-6|2 Agent Mode changes in Kimi Code 0.23.6]]
 - Later: 2026-07-13 · ElevenLabs · [[Changes/ElevenLabs/2026-07-13-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 

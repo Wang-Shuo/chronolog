@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 822af59bb42236a9a06cd602d51f5dca436a02dede76bef9a39defff90e9d7a0
+machine_hash: 691700d10a64822f78f081a43af6cf0dea02f74134d262f20a966f4d4fc6b12c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Agent Mode changes in v1.0.60
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With
-  canvases, agents can create interactive artifacts like dashboards, reports…]]'
 - '[[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5
   Agent Mode changes in Custom stores, custom tools…]]'
+- '[[Changes/Kimi Code/2026-06-04-users-now-can-prepare-several-goals-for-the-agent-to-work-on-sequentially-the-ag|Users
+  now can prepare several goals for the agent to work on sequentially]]'
 - '[[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select
   elements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select elements]]
-- Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-core-added-skill-discovery-and-file-based-agent-loading|Core Added skill discovery and file-based agent loading]]
+- Later: 2026-06-05 · Kimi Code · [[Changes/Kimi Code/2026-06-05-use-a-fixed-30-minute-timeout-for-subagents-and-show-concise-resume-instructions|Use a fixed 30-minute timeout for subagents and show concise resume instructions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b6ae7f4a4f93edbd99ff43945b67413b1d1388655e96140bd44472da1fce5f13
+machine_hash: 17f58424d6be0faafacc6e4f2338d5b8accfb9ebc87f4f91d128fcf340a137d5
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Memory and Personalization changes in v1.1.37
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-24-memory-loading-errors-are-handled-gracefully-without-user-warnings|Memory
-  loading errors are handled gracefully without user warnings]]'
 - '[[Changes/Codex CLI/2026-01-25-9674-feat-app-server-expose-personality-dylan-hurd-oai|♯9674
   feat(app-server) Expose personality @dylan-hurd-oai]]'
 - '[[Changes/Codex CLI/2026-01-27-9718-feat-tui-personality-dylan-hurd-oai|♯9718 feat(tui)
   /personality @dylan-hurd-oai]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-improve-relevance-and-personalization-by-connecting-user-identities-across-data|Improve
+  relevance and personalization by connecting user identities across data…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-28-v1-1-37-997d5baa|opencode-2026-01-28-v1-1-37-997d5baa]]'
 source_type: opencode_changelog
 theme: memory
@@ -91,7 +91,7 @@ Source: https://opencode.ai/changelog/v1.1.37
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-9718-feat-tui-personality-dylan-hurd-oai|♯9718 feat(tui) /personality @dylan-hurd-oai]]
+- Earlier: 2026-01-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-27-improve-relevance-and-personalization-by-connecting-user-identities-across-data|Improve relevance and personalization by connecting user identities across data…]]
 - Later: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-better-handle-large-results-from-grep-and-glob-tools-to-avoid-memory-issues|Better handle large results from grep and glob tools to avoid memory issues]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,19 @@ date: '2026-07-30'
 description: 'GitHub Copilot CLI · 2026-07-30 · Editor Experience: 2 changes in 1.0.76
   — Add a directable queue manager (staff) to reorder, edit, remove, repeat, and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1234
+  lag_days: 2818
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f5207219dda13554060ba3284803863b609d82fc9be2f2cba38d73c65a81a67
+machine_hash: 2c0ba77cf58a0aedb37729bd87c2f5f70c28ab5892f0a4711d6f5b4fd3de309a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +43,8 @@ record:
   title: 2 Editor Experience changes in v1.0.76
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor
-  Experience changes in rust-v0.146.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-floating-copilot-icon-in-file-previewer-for-onedrive-web-microsoft-365-sharepoin|Floating
+  Copilot icon in File Previewer for OneDrive Web (Microsoft 365 SharePoint)]]'
 - '[[Changes/OpenHands/2026-07-29-feat-allow-overwriting-a-secret-value-from-the-edit-form-by-hieptl-in-https-gith|feat:
   allow overwriting a secret value from the edit form]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-ctrl-g-opens-your-editor-to-edit-ask-user-freeform-answers-without-closing-the-p|Ctrl+G
@@ -93,13 +92,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.76
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-ctrl-g-opens-your-editor-to-edit-ask-user-freeform-answers-without-closing-the-p|Ctrl+G opens your editor to edit ask_user freeform answers without closing the prompt]]
-- Later: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-change-the-owner-of-several-projects-at-once|Change the owner of several projects at once]]
+- Later: 2026-07-30 · Kimi Code · [[Changes/Kimi Code/2026-07-30-remove-the-blocking-block-timeout-wait-from-the-taskoutput-tool-so-checking-a-ba|Remove the blocking block/timeout wait from the TaskOutput tool so checking…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-02-12'
 description: 'Cline · 2026-02-12 · Editor Experience: 3 changes in v3.58.0 — New "double-check
   completion" experimental feature to verify work before marking tasks complete'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1066
+  lag_days: 2650
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da64a98b10154249dcc37a0c15768fd6cc1085fd14671dffae993d89e5eeb1f4
+machine_hash: 2057bc2ab29af6dcde824c452b47c7608397a38e1ba7922718747b76db0e04bc
 product: cline
 product_name: Cline
 record:
@@ -45,12 +44,12 @@ record:
   title: 3 Editor Experience changes in v3.58.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-2-editor-experience-changes-in-rust-v0-99-0|2 Editor
-  Experience changes in rust-v0.99.0]]'
 - '[[Changes/Dify/2026-02-11-review-edit-the-node-generates-a-ui-where-humans-can-review-ai-outputs-and-modif|Review
   & Edit: The node generates a UI where humans can review AI outputs…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-3-editor-experience-changes-in-v0-0-407|3
   Editor Experience changes in v0.0.407]]'
+- '[[Changes/HeyGen/2026-02-11-if-you-ve-been-exporting-to-capcut-or-another-editor-just-to-add-captions-and-ef|If
+  you''ve been exporting to CapCut or another editor just to add captions…]]'
 source_release: '[[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,14 +91,14 @@ Source: https://github.com/cline/cline/releases/tag/v3.58.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-3-editor-experience-changes-in-v0-0-407|3 Editor Experience changes in v0.0.407]]
+- Earlier: 2026-02-11 · HeyGen · [[Changes/HeyGen/2026-02-11-if-you-ve-been-exporting-to-capcut-or-another-editor-just-to-add-captions-and-ef|If you've been exporting to CapCut or another editor just to add captions…]]
 - Later: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-reduced-repeated-skill-parse-error-spam-during-active-edits-by-increasing-file-w|Reduced repeated skill parse-error spam during active edits by increasing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

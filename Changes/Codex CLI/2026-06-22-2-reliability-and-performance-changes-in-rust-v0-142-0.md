@@ -4,20 +4,20 @@ date: '2026-06-22'
 description: 'Codex CLI · 2026-06-22 · Reliability and Performance: 2 changes in 0.142.0
   — #28782 [codex] trace tools build latency @owenlin0'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1285
+  lag_days: 2772
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe4a56a84a2dc7816804f633db82caa8f49957ff27d6d9dd75dbb9602fd21d08
+machine_hash: 26adca971bd5d9d2aef161b3006f5deb78855227d93d5bbb2b52bb9682f796f4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,13 +97,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-20 · Claude Code · [[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-show-per-model-token-totals-in-usage-and-speed-up-large-history-scans|Show per-model token totals in /usage and speed up large history scans]]
+- Later: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-speed-up-session-snapshot-loading-with-a-direct-disk-reader-and-a-request-timeou|Speed up session snapshot loading with a direct disk reader and a request timeout…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-06-04'
 description: 'Claude Code · 2026-06-04 · Developer Workflow: Skills: added `\$` escape
   syntax to include a literal `$` before a digit in command bodies'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1174
+  lag_days: 2823
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a931a13c4b304d3a6e59ca56add693b5a5a94ca8162672e2645e963a25b35d1
+machine_hash: 92c5991944308a66c82353e307832b741a89596c8f7affb313d05170ece32ffb
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +45,10 @@ record:
     in command bodies'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-161|2 Developer
-  Workflow changes in v2.1.161]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-02-experimental-new-ui-with-easy-access-to-issues-pull-requests-and-gists|/experimental
   new UI with easy access to issues, pull requests, and gists]]'
+- '[[Changes/Kimi Code/2026-06-02-3-developer-workflow-changes-in-kimi-code-0-8-0|3
+  Developer Workflow changes in Kimi Code 0.8.0]]'
 - '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools:
   explicitly listing Grep/Glob now provides the dedicated search tools…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

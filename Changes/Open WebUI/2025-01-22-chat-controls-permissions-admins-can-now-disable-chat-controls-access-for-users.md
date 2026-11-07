@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-01-22 · Enterprise and Administration: **\U000
   Chat Controls Permissions**: Admins can now disable chat controls access for users,
   offering…"
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 628
+  lag_days: 1835
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 425c69f7962b8b740ae67ef175be45da2d1c946d25fcd0520efce5ee4316872f
+machine_hash: 5c350ab2db45c68aa6cd14a00922ecef90f177dda192fd6c0eead8145ac7ad89
 product: open-webui
 product_name: Open WebUI
 record:
@@ -82,13 +82,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-01-10 · Replit · [[Changes/Replit/2025-01-10-teams-and-enterprise|Teams and Enterprise]]
-- Later: 2025-03-17 · ElevenLabs · [[Changes/ElevenLabs/2025-03-17-elevencreative-studio|ElevenCreative Studio]]
+- Later: 2025-02-04 · Descript · [[Changes/Descript/2025-02-04-for-enterprise-users|For Enterprise users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-03-02 · Developer Workflow: 6 changes in v0.8.
   \U0001F4C1 **Open Terminal file moving.** Users can now move files and folders between
   directories…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1080
+  lag_days: 2729
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ba5acb888aafcc59e2c4c3ddcb2b714e7b2f0f614137c545acc8856e309aa62
+machine_hash: 9936f6ba29c5a0a160a44a4f85e0199a381d340e749abbcdeafcbaf86531788c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -124,7 +125,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.8
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

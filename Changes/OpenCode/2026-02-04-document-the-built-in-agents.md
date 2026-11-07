@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 613a58ae9d55f7871699d3a4bcfa2265dfa6c7624904f9a5b4f0f5f980bcbcd8
+machine_hash: b2b5158708046f35fbf4e44ff89b079ec02fcf122adafaede70dcddbe44940bf
 product: opencode
 product_name: OpenCode
 record:
@@ -39,10 +39,10 @@ record:
   title: Document the built-in agents
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-4-agent-mode-changes-in-rust-v0-95-0|4 Agent Mode
-  changes in rust-v0.95.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-15-agent-mode-changes-in-v0-27-0|15 Agent Mode
   changes in v0.27.0]]'
+- '[[Changes/Notion/2026-02-04-your-notion-agent-can-now-find-asana-projects-and-tasks-in-seconds-ask-things-li|Search
+  your Asana tasks and projects from Notion]]'
 - '[[Changes/OpenCode/2026-02-04-core-prioritize-opencode-config-dir-for-agents-md|Core
   Prioritize OPENCODE_CONFIG_DIR for AGENTS.md]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-04-v1-1-51-372aa0a3|opencode-2026-02-04-v1-1-51-372aa0a3]]'
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-15-agent-mode-changes-in-v0-27-0|15 Agent Mode changes in v0.27.0]]
+- Earlier: 2026-02-04 · Notion · [[Changes/Notion/2026-02-04-your-notion-agent-can-now-find-asana-projects-and-tasks-in-seconds-ask-things-li|Search your Asana tasks and projects from Notion]]
 - Later: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-2-agent-mode-changes-in-v1-1-50|2 Agent Mode changes in v1.1.50]]
 <!-- chronolog:end -->
 

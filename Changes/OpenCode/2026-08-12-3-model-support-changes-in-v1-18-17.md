@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95b09b8e1cadca9f0f76c71e20e6695dc7e5534e5ae94eef5769354ed17ea6d3
+machine_hash: 080dc404bde1a0ea5076f27e97c8ab4114e9e729cc320a704fc964cf940eb6a7
 product: opencode
 product_name: OpenCode
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Model Support changes in v1.18.17
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support
-  changes in v0.55.1]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-choose-anthropic-models-when-editing-with-copilot-in-word-web-word|Choose
+  Anthropic models when editing with Copilot in Word Web (Word)]]'
 - '[[Changes/Google Antigravity/2026-08-12-improved-the-model-selector-dropdown-to-choose-thinking-levels-per-model-low-med|Improved
   the model selector dropdown to choose thinking levels per-model…]]'
 - '[[Changes/OpenCode/2026-08-12-made-session-compaction-keep-complete-recent-turns-and-produce-clearer-summaries|Made

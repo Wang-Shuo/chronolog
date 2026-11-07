@@ -5,19 +5,20 @@ description: 'Windsurf · 2026-10-24 · Developer Workflow: 2 changes in v3.11.2
   On Windows, `devin` is available in a new terminal (PowerShell, Command Prompt,
   Windows…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1316
+  lag_days: 2965
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41d867bd37c58ab727507ff5f7f1012526627ffe7646d48cb623fd6f3f736c5f
+machine_hash: 031e810bfcfad2c98126c8e06d7027f019574c307a7641095e58ec7f4047f785
 product: windsurf
 product_name: Windsurf
 record:
@@ -92,7 +93,7 @@ Source: https://docs.devin.ai/desktop/changelog#v3-11-216
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

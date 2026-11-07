@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-10 · Reliability and Performance: 2 change
   v2.1.268 — Improved responsiveness during tool-heavy turns by no longer redrawing
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1365
+  lag_days: 2852
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68b3a41c173447abeb9aaefb0d116e251463b01cafddc879c87c2e86aedc1a93
+machine_hash: d3e64df3f37c64250bfccbe99f152dc93ebd8ba2491c293fe3ae7df9d965d859
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Reliability and Performance changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-07-redesigned-cloud-advanced-settings-show-when-your-database-is-under-pressure|Redesigned
-  Cloud Advanced settings show when your database is under pressure]]'
 - '[[Changes/OpenClaw/2026-09-08-4-reliability-and-performance-changes-in-v2026-9-3|4
   Reliability and Performance changes in v2026.9.3]]'
+- '[[Changes/Qoder/2026-09-08-multitasking-performance-lower-memory-usage-and-reduced-messaging-overhead-when|Multitasking
+  performance: Lower memory usage and reduced messaging overhead…]]'
 - '[[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved
   prompt input responsiveness]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
@@ -102,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

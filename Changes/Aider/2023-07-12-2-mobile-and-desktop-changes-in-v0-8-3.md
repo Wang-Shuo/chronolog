@@ -4,20 +4,20 @@ date: '2023-07-12'
 description: 'Aider · 2023-07-12 · Mobile and Desktop: 2 changes in v0.8.3 — Improved
   Windows support:'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 120
+  lag_days: 1704
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d41e99c2b348055045667a2ea0ccc312cb66d8608573b8979471626ddb51c1f
+machine_hash: 005a365c44860f1379c458999ab592713f565a8c705662d3b0dd8fd47a8f066a
 product: aider
 product_name: Aider
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.8.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

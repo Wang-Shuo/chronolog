@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-19 · Safety and Privacy: 39 changes in v2026.
   — Fresh OpenAI and ChatGPT/Codex setups start with Astra if you haven''t chosen
   a primary…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1252
+  lag_days: 2244
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11cef6ad62b2d695e21778e82766efaeb7aafa2f8d40102846ce24856a353baa
+machine_hash: 6965da200ec8498a267e0d6c44dbfe09a046444b06131338af154c7d7bab4c0c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -286,8 +286,8 @@ record:
   title: 39 Safety and Privacy changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-18-fixed-an-issue-where-permission-settings-accumulated-duplicate-entries-which-mad|Fixed
-  an issue where permission settings accumulated duplicate entries, which made…]]'
+- '[[Changes/Kimi Code/2026-09-18-stop-asking-for-approval-of-bash-commands-that-cannot-be-statically-analyzed-in|Stop
+  asking for approval of bash commands that cannot be statically analyzed in Ask…]]'
 - '[[Changes/Replit/2026-09-18-investigate-with-expanded-audit-logs|Investigate with
   expanded audit logs]]'
 - '[[Changes/Google Antigravity/2026-09-19-windows-sandbox-support|Windows sandbox
@@ -431,7 +431,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

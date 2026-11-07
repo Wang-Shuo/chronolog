@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-01-13 · Safety and Privacy: Provide in
   feedback when rejecting tool permission requests so agents don''t have to stop due
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1003
+  lag_days: 1995
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a717f6696fef0404009d909c0b3356eee7b31e4092cea1bf57aed0113cfa9769
+machine_hash: 64d1d25ea64558936d384272da1d117689408dc7d15c2a98588339e159de5e18
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-5-safety-and-privacy-changes-in-1-11-3|5 Safety and Privacy changes in 1.11.3]]
-- Later: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-terminal-add-fullscreen-view-to-permission-prompt|Terminal Add fullscreen view to permission prompt]]
+- Later: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-simplified-servicenow-tickets-setup-with-per-table-acl-rules-web-microsoft-365-c|Simplified ServiceNow tickets setup with per-table ACL rules…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -3,20 +3,19 @@ card_id: cursor-2025-09-12-1f8ee5
 date: '2025-09-12'
 description: 'Cursor · 2025-09-12 · Editor Experience: 1.6.7: Enhanced git diff parsing'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 913
+  lag_days: 2497
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d1b6f944ab9d9215484974b78a7cb03f091fc7dc08065552a39753c985bdd9d6
+machine_hash: 37bf6bdd843ee2a329e7ef74e142906bb4a9c1bff5c0f140dfc86198c39b1a51
 product: cursor
 product_name: Cursor
 record:
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

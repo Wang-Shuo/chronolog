@@ -4,20 +4,20 @@ date: '2026-03-04'
 description: 'v0 · 2026-03-04 · Pricing Model: Added low-credits warning and auto-recharge
   opt-in to improve out-of-credits flow'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2793
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: efef20588770b538be3e840fb1a6e24f7046a3f3288ca7dee3e34af8e4122a4c
+machine_hash: 44450b8453eba87d39b31bc014fddb837d22fe99466d475215a45c2c537e8a72
 product: v0
 product_name: v0
 record:
@@ -45,8 +45,8 @@ record:
     flow
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-11-to-support-the-stateful-pause-resume-mechanism-required-by-hitl-and-provide-even|To
-  support the stateful pause/resume mechanism required by HITL and provide…]]'
+- '[[Changes/HeyGen/2026-02-11-heygen-for-business-plan-users-can-now-access-all-integrations-hubspot-clay-zapi|Integrations
+  no longer require a separate API plan]]'
 - '[[Changes/Gemini CLI/2026-03-03-feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu|feat(billing):
   implement G1 AI credits overage flow with billing telemetry]]'
 - '[[Changes/Cline/2026-03-04-token-cost-updates-now-happen-immediately-as-usage-chunks-arrive-not-after-tool|Token/cost
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

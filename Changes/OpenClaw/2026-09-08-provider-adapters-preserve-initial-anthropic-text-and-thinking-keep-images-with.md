@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-08 · Multimodal Input: Provider adapters pres
   initial Anthropic text and thinking, keep images with the tool results they came
   from, and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1085
+  lag_days: 2853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4800e7d8da1a5aac7346ca46664d23c0a1bd4fa9fb15e27e66931647b5d79858
+machine_hash: 8ecb5353a168b48f3cef6c07eb1ffcfc38215e71be632722e1f4548bbbbf5083
 product: openclaw
 product_name: OpenClaw
 record:
@@ -67,10 +67,11 @@ record:
   title: Provider adapters preserve initial Anthropic text and thinking, keep images…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-31-python-sdk|Python SDK]]'
-- '[[Changes/ElevenLabs/2026-08-31-elevenagents-ca07b9|ElevenAgents]]'
-- '[[Changes/OpenClaw/2026-09-03-several-less-visible-repairs-keep-the-apps-from-failing-around-dependencies-and|Several
-  less visible repairs keep the apps from failing around dependencies…]]'
+- '[[Changes/HeyGen/2026-09-04-here-s-what-s-new-in-heygen-this-month-admins-can-now-set-usage-limits-for-each|Here''s
+  what''s new in HeyGen this month]]'
+- '[[Changes/HeyGen/2026-09-04-brand-system-styling-moves-from-templates-to-ai-studio|Brand
+  System styling moves from Templates to AI Studio]]'
+- '[[Changes/HeyGen/2026-09-04-in-ai-studio|In AI Studio]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-08-v2026-9-3-dfcfef48|openclaw-2026-09-08-v2026-9-3-dfcfef48]]'
 source_type: openclaw_changelog
 theme: multimodal
@@ -119,14 +120,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-several-less-visible-repairs-keep-the-apps-from-failing-around-dependencies-and|Several less visible repairs keep the apps from failing around dependencies…]]
+- Earlier: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-in-ai-studio|In AI Studio]]
 - Later: 2026-09-10 · DeepSeek API · [[Changes/DeepSeek API/2026-09-10-deepseek-v4-1-flash-release|DeepSeek-V4.1-Flash Release]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-05-28'
 description: 'Lovable · 2026-05-28 · Reliability and Performance: **Asset storage.**
   Images, videos, and other large files used in your apps are now stored outside the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2747
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60b2acbf967bad66d05abb65f6a5aa2b3bb4f537d4cf4e53019bab5403a629c4
+machine_hash: 5e830cc82f9447dd79f0c18c2199b570a95496298c5e3d4135494e164c25f856
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +49,12 @@ record:
   title: Improvements and bug fixes
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-27-faster-app-previews-across-regions|Faster app previews
-  across regions]]'
 - '[[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude
   Code now shows a one-time notice when your npm global install can''t auto-update]]'
 - '[[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed
   the /effort slider labels…]]'
+- '[[Changes/Kimi Code/2026-05-28-offload-large-base64-media-payloads-from-wire-jsonl-into-external-blob-files-to|Offload
+  large base64 media payloads from wire.jsonl into external blob files…]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-28-2026-05-28-4c96572a|lovable-2026-05-28-2026-05-28-4c96572a]]'
 source_type: lovable_changelog
 theme: reliability-performance
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed the /effort slider labels…]]
+- Earlier: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-offload-large-base64-media-payloads-from-wire-jsonl-into-external-blob-files-to|Offload large base64 media payloads from wire.jsonl into external blob files…]]
 - Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved performance of long and resumed conversations by eliminating redundant…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

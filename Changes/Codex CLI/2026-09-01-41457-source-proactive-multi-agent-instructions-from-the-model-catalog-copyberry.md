@@ -4,20 +4,20 @@ date: '2026-09-01'
 description: 'Codex CLI · 2026-09-01 · Automation and Scheduling: #41457 Source proactive
   multi-agent instructions from the model catalog @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 973
+  lag_days: 2540
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 61d3021f56bfc6cd2b66b2e2ccbf844ebfe7593d4ff3ed6473e4e96fddac57eb
+machine_hash: bd829387cf5a72481d76150506f30a714defd882d785040658a4b69474d968b6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,8 +55,8 @@ record:
     @copyberry'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-2-automation-and-scheduling-changes-in-v1-16-0|2
-  Automation and Scheduling changes in v1.16.0]]'
+- '[[Changes/Qoder/2026-08-27-act-proactive-qoder-does-more-than-respond-to-instructions-it-proactively-brings|Act
+  Proactive: Qoder does more than respond to instructions]]'
 - '[[Changes/Open WebUI/2026-08-31-3-automation-and-scheduling-changes-in-v0-11-2|3
   Automation and Scheduling changes in v0.11.2]]'
 - '[[Changes/OpenClaw/2026-08-31-automations-and-scheduling-scheduled-work-comes-together-under-one-name-across-t|Automations
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

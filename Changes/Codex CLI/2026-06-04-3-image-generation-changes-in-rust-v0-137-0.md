@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'Codex CLI · 2026-06-04 · Image Generation: 3 changes in 0.137.0 — #25176
   Route standalone image generation through host finalization md @won-openai'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 816
+  lag_days: 1074
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21b2dbab9b2fb4a4474a805038a2b27f99c36523f9641ae8ce9b7255f2d9a34d
+machine_hash: 50ccdcc482dc2eab3606be12d355c82e1853352555f504e358afad071f7310a6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.137.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

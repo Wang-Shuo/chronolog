@@ -4,20 +4,20 @@ date: '2024-06-12'
 description: 'Midjourney · 2024-06-12 · Interface Experience: ''Report Bug'' can now
   be found under the ''Help'' menu'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 520
+  lag_days: 1886
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1901d4007ebbd757c593b4b090397e9a716760422736ea344054a07d5f60dd91
+machine_hash: 36fd6f77c52998b7cecf8cd05b3d406b9fc42d8d09a49bec29723d6d83f27ed1
 product: midjourney
 product_name: Midjourney
 record:
@@ -41,12 +41,11 @@ record:
   title: '''Report Bug'' can now be found under the ''Help'' menu'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-03-mermaid-rendering-support-we-ve-included-support-for-mermaid-rendering-this-allo|\U0001F30A
-  Mermaid Rendering Support: We've included support for Mermaid rendering]]"
-- '[[Changes/Aider/2024-06-04-repo-map-is-now-optimized-based-on-text-of-chat-history-as-well-as-files-added-t|Repo
-  map is now optimized based on text of chat history as well as files added to chat]]'
+- '[[Changes/Descript/2024-06-04-create-clips-and-highlight-reels|Create Clips and
+  Highlight reels]]'
 - '[[Changes/Open WebUI/2024-06-10-various-ui-styling-issues-fixed-numerous-user-interface-styling-problems-for-a-m|✨
   Various UI Styling Issues]]'
+- '[[Changes/Notion/2024-06-11-a-tidier-sidebar|A tidier sidebar]]'
 source_release: '[[Releases/Midjourney/midjourney-2024-06-12-https-updates-midjourney-com-web-updates-d488b2e3|midjourney-2024-06-12-https-updates-midjourney-com-web-updates-d488b2e3]]'
 source_type: midjourney_changelog
 theme: interface-experience
@@ -75,14 +74,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-06-10 · Open WebUI · [[Changes/Open WebUI/2024-06-10-various-ui-styling-issues-fixed-numerous-user-interface-styling-problems-for-a-m|✨ Various UI Styling Issues]]
+- Earlier: 2024-06-11 · Notion · [[Changes/Notion/2024-06-11-a-tidier-sidebar|A tidier sidebar]]
 - Later: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-update-tooltip-by-guchenhe-in-https-github-com-langgenius-dify-pull-5235|update tooltip]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

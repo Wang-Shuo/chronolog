@@ -4,20 +4,20 @@ date: '2024-05-22'
 description: 'Suno · 2024-05-22 · Music Generation: We''re excited to announce that
   you can search for any public song on Suno. You can search for:'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 151
+  lag_days: 1617
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7d7dee21cfd96efc29a4fc3ec077a9cf459075641d35732d5d10df8ec40ac397
+machine_hash: 7b00eb7ea0f92c281d2196be4f8bd5b4b42d06ea278c0786ac8bb090ab368a1e
 product: suno
 product_name: Suno
 record:
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

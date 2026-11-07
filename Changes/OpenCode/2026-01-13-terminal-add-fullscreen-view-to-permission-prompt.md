@@ -4,20 +4,20 @@ date: '2026-01-13'
 description: 'OpenCode · 2026-01-13 · Safety and Privacy: Terminal Add fullscreen
   view to permission prompt'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1003
+  lag_days: 1995
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ab5830326a788ca9afcc0adf9dc8322103efd6423709f8321c3b5712ddf6b16
+machine_hash: 860ee19db8ca6e5b55e4c428a59631c6ee9ac7c417814d111a07f563b5c3bcc2
 product: opencode
 product_name: OpenCode
 record:
@@ -50,12 +50,12 @@ record:
   title: Terminal Add fullscreen view to permission prompt
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed
-  permission bypass via shell line continuation that could allow blocked…]]'
 - '[[Changes/Dify/2026-01-13-5-safety-and-privacy-changes-in-1-11-3|5 Safety and Privacy
   changes in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-provide-inline-feedback-when-rejecting-tool-permission-requests-so-agents-don-t|Provide
   inline feedback when rejecting tool permission requests so agents don''t have…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-simplified-servicenow-tickets-setup-with-per-table-acl-rules-web-microsoft-365-c|Simplified
+  ServiceNow tickets setup with per-table ACL rules…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-13-v1-1-18-cff70fb0|opencode-2026-01-13-v1-1-18-cff70fb0]]'
 source_type: opencode_changelog
 theme: safety-privacy
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-provide-inline-feedback-when-rejecting-tool-permission-requests-so-agents-don-t|Provide inline feedback when rejecting tool permission requests so agents don't have…]]
+- Earlier: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-simplified-servicenow-tickets-setup-with-per-table-acl-rules-web-microsoft-365-c|Simplified ServiceNow tickets setup with per-table ACL rules…]]
 - Later: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-2-safety-and-privacy-changes-in-v1-1-16|2 Safety and Privacy changes in v1.1.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

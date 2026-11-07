@@ -4,20 +4,20 @@ date: '2024-03-26'
 description: 'Ollama · 2024-03-26 · Context Window: [Command R](https://ollama.com/library/command-r):
   a Large Language Model optimized for conversational interaction and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 327
+  lag_days: 1651
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2e7b74a69cbbe1c6df26d1461716de8ff57d26d85399e02852747c3140f87a48
+machine_hash: e635cb385a98059d6b031be904a469b2764481b5fbf9a40cb21600fb4e8a7ea5
 product: ollama
 product_name: Ollama
 record:
@@ -57,8 +57,8 @@ record:
     optimized…'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-01-08-increasing-context-size-with-num-ctx-will-now-work-up-to-a-model-s-supported-con|Increasing
-  context size with num_ctx will now work…]]'
+- '[[Changes/Notion/2024-01-17-connect-and-create-notion-docs|Connect and create Notion
+  docs]]'
 - '[[Changes/Dify/2024-02-01-feat-add-xinference-llm-context-size-by-yeuoly-in-https-github-com-langgenius-di|feat:
   add xinference llm context size]]'
 - '[[Changes/Dify/2024-03-19-add-max-tokens-parameter-rule-for-zhipuai-glm4-and-glm4v-by-orangeclk-in-https-g|add
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

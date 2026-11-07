@@ -5,20 +5,20 @@ description: 'ChatGPT · 2023-09-25 · Multimodal Input: You can now show ChatGP
   or more images. Troubleshoot why your grill won’t start, explore the contents of
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 6
+  lag_days: 1774
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: df6da8b9c90969150fc2ea93ad14272e2e54bf81dad1f55fd6b9e58885207e73
+machine_hash: 8095c1f570410ed3bd251b901261b49b74c210dc16c5fbbb030874e53d495d7e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,8 +51,12 @@ record:
   title: Image input will be generally available to Plus users on all platforms
   type: change
 related_changes:
+- '[[Changes/Descript/2023-09-18-4k-video-recording-in-squadcast-beta|4K video recording
+  in SquadCast (beta)]]'
 - '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
   video to cn readme]]'
+- '[[Changes/Synthesia/2023-09-21-three-new-avatars-are-ready-for-lights-camera-and-action-arnold-grace-and-tyra|New
+  Avatars: Arnold, Grace and Tyra]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7]]'
 source_type: chatgpt_changelog
 theme: multimodal
@@ -82,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earlier: 2023-09-21 · Synthesia · [[Changes/Synthesia/2023-09-21-three-new-avatars-are-ready-for-lights-camera-and-action-arnold-grace-and-tyra|New Avatars: Arnold, Grace and Tyra]]
 - Later: 2023-11-13 · Dify · [[Changes/Dify/2023-11-13-2-multimodal-input-changes-in-0-3-30|2 Multimodal Input changes in 0.3.30]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

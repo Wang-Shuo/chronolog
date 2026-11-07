@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-16 · Image Generation: \U0001F9F9 **Clear I
   Selections shortcut.** Clearing the model override, selected tools and filters and
   the web search…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 950
+  lag_days: 1208
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1d8a7b8d87ee060f356a9d56a1862b459858c9717fe2aaa6c07363040b358fa1
+machine_hash: ad6e6a6ca31efcb124b91aa95eb94c751e42cce7882e31e25d66be07610163ef
 product: open-webui
 product_name: Open WebUI
 record:
@@ -118,7 +118,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

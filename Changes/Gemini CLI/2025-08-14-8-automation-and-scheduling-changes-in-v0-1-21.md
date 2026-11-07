@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2025-08-14 · Automation and Scheduling: 8 changes i
   v0.1.21 — Introduce loop detection service that breaks simple loop by @SandyTao520
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 590
+  lag_days: 2157
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35d6fb7b5e11e62f098c2b07bdc9abf4d00b9587de53ef9fca6f7d460085c644
+machine_hash: e719cd0536e34777019d3f66748f6e579b738acd6574d372e17b62d2a2d16cd5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -122,13 +122,13 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-2-automation-and-scheduling-changes-in-v0-1-19|2 Automation and Scheduling changes in v0.1.19]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2692-do-not-schedule-frames-for-tui-draw-events-in-backtrack|♯2692 do not schedule frames for Tui::Draw events in backtrack]]
+- Later: 2025-08-19 · Notion · [[Changes/Notion/2025-08-19-create-and-manage-tasks-right-in-notion-calendar|Create and manage tasks right in Notion Calendar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

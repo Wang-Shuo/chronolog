@@ -5,20 +5,20 @@ description: 'Cursor · 2026-06-18 · Automation and Scheduling: React to any Sl
   message with a designated emoji to kick off an automation. At Cursor, we use this
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 898
+  lag_days: 2465
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3d22c37b0f3176fb4e18a167be6e6ed462a0b19ddb613b6288648362f70ff23b
+machine_hash: 0dc6037648d86dfbc62a846f23b42e0e20f085f075538a2817c01acd8adad40b
 product: cursor
 product_name: Cursor
 record:
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]]
+- Earlier: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-restore-the-turn-counter-from-persisted-loop-events-on-resume-so-post-resume-tur|Restore the turn counter from persisted loop events on resume so post-resume turns…]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-26496-make-auto-review-on-request-prompt-more-proactive-maja-openai|♯26496 Make auto-review on-request prompt more proactive @maja-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

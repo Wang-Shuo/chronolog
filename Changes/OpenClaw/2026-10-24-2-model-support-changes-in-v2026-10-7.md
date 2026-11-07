@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb22ec236d1446fadad6f215ed90a694c4e597013129e305fc8a91cfd9c4fd81
+machine_hash: 67aed3125159c263afdb1dee185a2ca29620900095cf2b644bbd33a77b5007cc
 product: openclaw
 product_name: OpenClaw
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Model Support changes in v2026.10.7
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-operations-archive-storage-supports-configurable-s3-addressing-style-the-api-ima|Operations:
-  archive storage supports configurable S3 addressing style]]'
 - '[[Changes/Ollama/2026-10-23-the-model-includes-a-dflash-draft-for-speculative-decoding|The
   model includes a DFlash draft for speculative decoding]]'
+- '[[Changes/Qoder/2026-10-23-2-model-support-changes-in-qoder-0-4-11|2 Model Support
+  changes in Qoder 0.4.11]]'
 - '[[Changes/Ollama/2026-10-24-d3-https-ollama-com-library-d3-brings-vllm-semantic-router-s-decision-models-to|d3((source
   link) brings vLLM Semantic Router''s decision models…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-24-v2026-10-7-78f358d7|openclaw-2026-10-24-v2026-10-7-78f358d7]]'

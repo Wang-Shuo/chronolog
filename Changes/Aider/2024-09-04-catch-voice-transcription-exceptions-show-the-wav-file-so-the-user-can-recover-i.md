@@ -4,20 +4,20 @@ date: '2024-09-04'
 description: 'Aider · 2024-09-04 · Voice and Audio: Catch `/voice` transcription exceptions,
   show the WAV file so the user can recover it.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 422
+  lag_days: 2249
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77d9e4f3ebdfc097ff5841463367bb0f42b89db9f9d2a51908a651aba0d8736a
+machine_hash: ca228e37dc7fd5fcd2891ff6c327a1cf3a45580212a1b3875a083fe0c1643896
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
     recover it
   type: change
 related_changes:
-- '[[Changes/Runway/2024-08-09-retain-the-content-pace-and-tone-of-your-input-audio-while-changing-the-voice|Speech
-  to Speech]]'
+- '[[Changes/Descript/2024-08-14-welcome-to-descript-season-7-our-love-note-to-video-and-audio-podcasters-we-re-l|Welcome
+  to Descript Season 7 — our love note to video and audio podcasters]]'
 - '[[Changes/Dify/2024-08-14-chore-allow-download-audio-video-through-http-node-by-hjlarry-in-https-github-co|chore:
   allow download audio/video through HTTP node]]'
 - '[[Changes/Dify/2024-08-19-enh-setfocus-after-voice-input-by-leslie2046-in-https-github-com-langgenius-dify|enh:setfocus
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

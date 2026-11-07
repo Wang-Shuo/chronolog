@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6b01b1fb683fdce7593e98ed8b42fbca2c27a3631f15c6653c878b2111d2c1d4
+machine_hash: 29ac768615f7ff2365e7538ec7d9fcdfd3b409022cb0984f858157f5728561c9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: /remote command can now be used while the agent is working
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-4-agent-mode-changes-in-v1-0-49|4 Agent
-  Mode changes in v1.0.49]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-managing-your-tenant-with-sharepoint-admin-agent-web-sharepoint|Managing
+  your tenant with SharePoint Admin Agent Web (SharePoint)]]'
 - '[[Changes/Codex CLI/2026-05-20-23147-make-multi-agent-v2-tool-namespace-configurable-jif-oai|♯23147
   Make multi-agent v2 tool namespace configurable @jif-oai]]'
 - '[[Changes/Cursor/2026-05-20-loop-skill|/loop skill]]'

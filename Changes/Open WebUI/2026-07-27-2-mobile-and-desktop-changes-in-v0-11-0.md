@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-07-27 · Mobile and Desktop: 2 changes in v0.11
   \U0001F34E **Blank messages on Safari.** Assistant responses no longer render as
   empty in Safari…"
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1231
+  lag_days: 2815
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db4535117cb148f6f723d9c624661c5c083e31d989cacd05a6af71705108f08b
+machine_hash: feb957ee1f8cc519999d6316eabb098e43fdedf3fbcd7ca2977cb26e02665772
 product: open-webui
 product_name: Open WebUI
 record:
@@ -115,7 +115,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

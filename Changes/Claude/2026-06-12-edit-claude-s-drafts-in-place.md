@@ -5,20 +5,20 @@ description: 'Claude · 2026-06-12 · Apps and Integrations: When Claude writes 
   in chat or Claude Cowork (a report, a plan, a brief), it opens right beside your
   chat…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1177
+  lag_days: 2737
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 67b227ca09fb033cdb086898102a75706c844a1bd9fe44bb2a7e734d27ed89b9
+machine_hash: 6610d7dd1f804272763ad1631e77a2c82ae9b4b2dfcc0fe95b56892f0f3710a7
 product: claude
 product_name: Claude
 record:
@@ -49,10 +49,9 @@ record:
   title: Edit Claude’s drafts in place
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-11-2-apps-and-integrations-changes-in-v3-89-2|2 Apps and
-  Integrations changes in v3.89.2]]'
-- '[[Changes/Cline/2026-06-11-restore-the-anthropic-provider-on-vs-code-1-123-and-later-where-the-updated-node|Restore
-  the Anthropic provider on VS Code 1.123 and later, where the updated Node 24…]]'
+- '[[Changes/Descript/2026-06-11-how-to-find-it-c8519c|How to find it]]'
+- '[[Changes/Descript/2026-06-11-descript-in-claude-and-chatgpt|Descript in Claude
+  and ChatGPT]]'
 - '[[Changes/Google Antigravity/2026-06-11-2-apps-and-integrations-changes-in-hub-v2-1-4-quota-screen-redesign|2
   Apps and Integrations changes in HUB v2.1.4 — Quota Screen Redesign…]]'
 source_release: '[[Releases/Claude/claude-2026-06-12-2026-06-12-d92f034f|claude-2026-06-12-2026-06-12-d92f034f]]'
@@ -82,13 +81,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-2-apps-and-integrations-changes-in-hub-v2-1-4-quota-screen-redesign|2 Apps and Integrations changes in HUB v2.1.4 — Quota Screen Redesign…]]
-- Later: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-added-cwd-support-for-local-mcp-servers-so-they-can-start-from-a-workspace-relat|Added cwd support for local MCP servers so they can start from a workspace-relative…]]
+- Later: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-add-runtime-support-for-dynamic-mcp-server-updates-reference-skills-replay-times|Add runtime support for dynamic MCP server updates, reference skills, replay…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-01-07'
 description: 'Gemini CLI · 2026-01-07 · Developer Workflow: 4 changes in Release v0.23.0
   — chore: remove user query from footer in debug mode by @jackwotherspoon in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1026
+  lag_days: 2675
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 30d29c751ab29fe6bf20daf8c77e4a4d98a8dccb3e87d501cd6d10a9137eeee7
+machine_hash: 939da5f5cf609465f3d1362c84ef94556e6adca95e31a31aef1f3f706ae6314b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -104,7 +105,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.23.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

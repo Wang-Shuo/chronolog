@@ -4,20 +4,20 @@ date: '2025-08-26'
 description: 'Codex CLI · 2025-08-26 · Reliability and Performance: 2 changes in 0.24.0
   — #2633 test: faster test execution in codex-core'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 985
+  lag_days: 2472
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f139e4d1053f9bf39ab5cabc587ac76b60c0f2dc578145b4190106437766125f
+machine_hash: 3affce7e357f53499e345863c231515add0b39f2819e52e1a2cf1142df0a149a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Reliability and Performance changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-08-20-2-reliability-and-performance-changes-in-v0-11-6|2
-  Reliability and Performance changes in v0.11.6]]'
 - '[[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5:
   General stability improvements and bug fixes to enhance overall application…]]'
+- '[[Changes/Descript/2025-08-21-introducing-templates-your-shortcut-to-professional-videos-with-underlord|Introducing
+  Templates—Your shortcut to professional videos with Underlord]]'
 - '[[Changes/Open WebUI/2025-08-21-6-reliability-and-performance-changes-in-v0-6-23|6
   Reliability and Performance changes in v0.6.23]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
@@ -98,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.24.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

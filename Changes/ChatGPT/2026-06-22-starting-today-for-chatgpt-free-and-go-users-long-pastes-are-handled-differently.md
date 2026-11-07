@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-06-22 · Context Window: Starting today for ChatGP
   and Go users, long pastes are handled differently in ChatGPT.If you paste more than
   10k…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1145
+  lag_days: 2469
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 601eddec1e1fedffe5267e7a7c4fce7ce6817f705f8fd9f931d4d339d9b448d4
+machine_hash: 31df40d17ecf625166ba94b694ec27bb65a8ed4bf38c42d0ee8dbce1c004db8a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,10 +61,10 @@ record:
   title: Large pastes are now handled as attachments for more plans
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-7-context-window-changes-in-rust-v0-140-0|7 Context
-  Window changes in rust-v0.140.0]]'
-- '[[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama
-  will now return an error if a single message is larger than the current…]]'
+- '[[Changes/Z.ai API/2026-06-16-supports-1m-lossless-context-significantly-improving-long-horizon-task-capabilit|Supports
+  1M lossless context, significantly improving long-horizon task capabilities…]]'
+- '[[Changes/Z.ai API/2026-06-16-significantly-improves-the-real-world-developer-experience-with-more-reliable-pr|Significantly
+  improves the real-world developer experience, with more reliable…]]'
 - '[[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context
   Window changes in rust-v0.141.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0|chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

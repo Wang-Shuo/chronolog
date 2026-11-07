@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 317932199098b99e6f4127288c1bd55d2ddabb384c01959bd39cc1475fa6eb39
+machine_hash: 7c7144260d1788da5b08d2f3cf4f18286fb94da5d37d04965851ef775471b3cc
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -64,10 +64,9 @@ record:
   title: Google Antigravity
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-13-6510-feat-shell-command-tool-29364f3a9|♯6510 — feat:
-  shell_command tool (29364f3a9)]]'
-- '[[Changes/Dify/2025-11-13-these-trigger-features-are-only-available-for-workflows-chatflow-agent-and-basic|These
-  trigger features are only available for Workflows]]'
+- '[[Changes/Notion/2025-11-17-place-it-on-the-map-view|Place it on the map view]]'
+- '[[Changes/Notion/2025-11-17-with-notion-3-0-you-met-your-notion-agent-our-biggest-update-yet|With
+  Notion 3.0, you met your Notion Agent—our biggest update yet]]'
 - '[[Changes/Gemini/2025-11-18-gemini-agent-is-now-available-on-the-web-to-google-ai-ultra-subscribers-18-in-th|Gemini
   Agent is now available on the web, to Google AI Ultra subscribers 18+ in the US]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2025-11-18-rel-ide-1-11-2-3d07cf48|google-antigravity-2025-11-18-rel-ide-1-11-2-3d07cf48]]'

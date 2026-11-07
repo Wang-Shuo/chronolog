@@ -4,20 +4,20 @@ date: '2025-08-14'
 description: 'Gemini CLI · 2025-08-14 · Multimodal Input: feat(core): Parse Multimodal
   MCP Tool responses by @luccasparoni in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 695
+  lag_days: 2463
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55293721a7558298e81dace32e75f4f483651f36755dc34fb5df7078a990c381
+machine_hash: bdb99a1e7c2b393ccd103adf4e63c59408a1d82a4ad4df9fe6d10d89627e49e1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 'feat(core): Parse Multimodal MCP Tool responses'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-08-07-how-to-enable-hd-video-mode|How to enable HD Video
-  mode]]'
 - '[[Changes/Midjourney/2025-08-13-we-ve-changed-the-thumbnails-on-video-jobs-so-they-show-the-last-frame|Midjourney
   changes the thumbnails on video jobs so they show the last frame]]'
 - '[[Changes/Midjourney/2025-08-13-we-ve-improved-video-moderation-accuracy-and-you-should-now-see-fewer-blocked-jo|Midjourney
   improves video moderation accuracy and you should now see fewer blocked jobs]]'
+- '[[Changes/Descript/2025-08-14-2-multimodal-input-changes-in-release-roundup-august-14th-2025|2
+  Multimodal Input changes in Release roundup—August 14th, 2025]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa|gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa]]'
 source_type: github_releases
 theme: multimodal
@@ -98,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-08-13 · Midjourney · [[Changes/Midjourney/2025-08-13-we-ve-improved-video-moderation-accuracy-and-you-should-now-see-fewer-blocked-jo|Midjourney improves video moderation accuracy and you should now see fewer blocked jobs]]
+- Earlier: 2025-08-14 · Descript · [[Changes/Descript/2025-08-14-2-multimodal-input-changes-in-release-roundup-august-14th-2025|2 Multimodal Input changes in Release roundup—August 14th, 2025]]
 - Later: 2025-09-04 · Midjourney · [[Changes/Midjourney/2025-09-04-we-re-launching-an-early-version-of-our-style-explorer-today-it-s-like-the-video|Midjourney launches an early version of our style explorer today]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-08-31 · Automation and Scheduling: 3 changes i
   — \U0001F51F **Repeating automations keep their count.** An automation set to run
   a fixed…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 972
+  lag_days: 2539
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd773487491a3f77dcffa84645ddfc5500048082f94b84c6b04d30ca2dd2bcaf
+machine_hash: 49b742e92d0af9dde7c90694ebe299528ef9759157cffcaef1f4a235f50386e3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,12 +52,12 @@ record:
   title: 3 Automation and Scheduling changes in v0.11.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed
-  /loop: self-paced dynamic mode and the no-prompt autonomous default…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-use-x-to-remove-scheduled-every-and-after-prompts-in-schedule-manager|Use
   x to remove scheduled /every and /after prompts in Schedule Manager]]'
 - '[[Changes/OpenHands/2026-08-27-2-automation-and-scheduling-changes-in-v1-16-0|2
   Automation and Scheduling changes in v1.16.0]]'
+- '[[Changes/Qoder/2026-08-27-act-proactive-qoder-does-more-than-respond-to-instructions-it-proactively-brings|Act
+  Proactive: Qoder does more than respond to instructions]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-31-v0-11-2-github-379534902-6de0950b|open-webui-2026-08-31-v0-11-2-github-379534902-6de0950b]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -101,14 +101,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-2-automation-and-scheduling-changes-in-v1-16-0|2 Automation and Scheduling changes in v1.16.0]]
+- Earlier: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-act-proactive-qoder-does-more-than-respond-to-instructions-it-proactively-brings|Act Proactive: Qoder does more than respond to instructions]]
 - Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-automations-and-scheduling-scheduled-work-comes-together-under-one-name-across-t|Automations and Scheduling - Scheduled work comes together under one name across…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

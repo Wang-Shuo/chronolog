@@ -4,20 +4,20 @@ date: '2026-06-02'
 description: 'ChatGPT · 2026-06-02 · Safety and Privacy: We’re rolling out Active
   sessions, a new security feature in ChatGPT that helps users review sessions associated…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1143
+  lag_days: 2135
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 96b8c57d7f236e861e7f7b5cbac33c14494b830ab868b483c24815d7947c1686
+machine_hash: 9f64ed0f7867b67aeba61ae5f19bee10ab8c4ad4cf859797c35e482c884af0a6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-7-safety-and-privacy-changes-in-v0-9-6|7 Safety and Privacy changes in v0.9.6]]
-- Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety and Privacy changes in v2.1.162]]
+- Later: 2026-06-02 · HeyGen · [[Changes/HeyGen/2026-06-02-we-ve-introduced-a-new-workspace-controls-section-for-admins-bringing-workspace|We've introduced a new Workspace Controls section for admins, bringing workspace…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

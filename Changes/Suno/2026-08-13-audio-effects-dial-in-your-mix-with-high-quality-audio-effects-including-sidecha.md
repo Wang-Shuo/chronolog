@@ -5,20 +5,20 @@ description: 'Suno · 2026-08-13 · Voice and Audio: Audio effects: Dial in your
   with high-quality audio effects, including sidechain compression and convolution
   reverb…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1130
+  lag_days: 2957
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9fdc385822bbae1bcf1ef9f6e8420e6f0a290293eda674058d5d470e694b0d3e
+machine_hash: bb60c6e3c88f7ee545b714e64e2e3a2b1309171ad850fd328497e54e893513eb
 product: suno
 product_name: Suno
 record:
@@ -46,9 +46,10 @@ record:
     sidechain…'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-10-voices|Voices]]'
 - '[[Changes/Runway/2026-08-10-tool-mode-and-edit-studio-now-let-you-export-gen-4-5-and-aleph-2-generations-as|ProRes
   / PNG Sequence Export]]'
+- '[[Changes/HeyGen/2026-08-11-videos-that-look-and-sound-like-you-with-your-face-your-voice-and-your-market-kn|Videos
+  that look and sound like you, with your face, your voice, and your market…]]'
 - '[[Changes/Suno/2026-08-13-we-have-totally-overhauled-suno-studio-our-browser-based-generative-daw-with-fea|We
   have totally overhauled Suno Studio, our browser-based generative DAW…]]'
 source_release: '[[Releases/Suno/suno-2026-08-13-e-studio-2-36efe33d|suno-2026-08-13-e-studio-2-36efe33d]]'
@@ -84,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-10 · Runway · [[Changes/Runway/2026-08-10-tool-mode-and-edit-studio-now-let-you-export-gen-4-5-and-aleph-2-generations-as|ProRes / PNG Sequence Export]]
+- Earlier: 2026-08-11 · HeyGen · [[Changes/HeyGen/2026-08-11-videos-that-look-and-sound-like-you-with-your-face-your-voice-and-your-market-kn|Videos that look and sound like you, with your face, your voice, and your market…]]
 - Later: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch between typing and dictation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-09-29'
 description: 'Codex CLI · 2026-09-29 · Safety and Privacy: 3 changes in 0.159.0 —
   #48176 Protect `.aws` directories under sandbox writable roots @jackz100'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1262
+  lag_days: 2254
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3ef794a14ed030e0733ebebc1ab113e9273cf51cf65ce11b83847412e235a0f
+machine_hash: 59351a1b512bb8c75bbf37b9607ac4d919d51878c7e033de974457edb99a215f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.159.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

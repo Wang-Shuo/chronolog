@@ -4,20 +4,19 @@ date: '2026-09-09'
 description: 'Lovable · 2026-09-09 · Editor Experience: You can now [try changes in
   a draft](https://docs.lovable.dev/features/drafts.md), a separate copy of your project…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1275
+  lag_days: 2859
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7408a42f121a465e136c71030b018b56d51e3d7dfa2ff52405980c739a4e6646
+machine_hash: cd190072a92fde6a9f3e54db18a2b46fca24a047270cb3c9311acad188e80e38
 product: lovable
 product_name: Lovable
 record:
@@ -99,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

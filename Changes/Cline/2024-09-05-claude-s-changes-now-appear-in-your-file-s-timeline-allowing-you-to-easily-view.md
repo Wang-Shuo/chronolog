@@ -5,20 +5,19 @@ description: 'Cline · 2024-09-05 · Editor Experience: Claude''s changes now ap
   in your file''s Timeline, allowing you to easily view a diff of each edit. This
   is…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 541
+  lag_days: 2125
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 932e20e18118d5966bbcbe82e9b20c6357acfb5a32a7e73fb15e3bf8453e1b8a
+machine_hash: 18f413024f400711b507ac8f0f20af4fa73a2f20d43ab2760f33743dd35eae7d
 product: cline
 product_name: Cline
 record:
@@ -50,8 +49,7 @@ record:
     view…
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-19-3-editor-experience-changes-in-0-7-1|3 Editor Experience
-  changes in 0.7.1]]'
+- '[[Changes/Descript/2024-08-27-general-editor-updates|General Editor updates]]'
 - '[[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You
   can now edit Claude''s changes before accepting! When he edits or creates…]]'
 - "[[Changes/Open WebUI/2024-09-04-missing-chat-completion-response-headers-ensured-proper-return-of-proxied-respon|\U0001F504
@@ -86,13 +84,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-09-04 · Open WebUI · [[Changes/Open WebUI/2024-09-04-missing-chat-completion-response-headers-ensured-proper-return-of-proxied-respon|🔄 Missing Chat Completion Response Headers]]
-- Later: 2024-09-12 · Dify · [[Changes/Dify/2024-09-12-editor-can-also-create-api-key-by-cuckootan-in-https-github-com-langgenius-dify|editor can also create api key]]
+- Later: 2024-09-10 · Descript · [[Changes/Descript/2024-09-10-editor-updates|Editor updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

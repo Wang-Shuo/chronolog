@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ec9c88afd2ca3cb9c2ae2c398de3b38ea69de5a502ec7564ad55e559d32a00b
+machine_hash: 8987a125455fb837740ae177f8fea4c853b7226e71769fa524214a167d91b39e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -70,8 +70,8 @@ record:
   title: 15 Model Support changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2
-  Instant Update]]'
+- '[[Changes/Descript/2026-02-10-use-claude-opus-4-6-in-underlord-for-better-visual-arranging|Use
+  Claude Opus 4.6 in Underlord for better visual arranging]]'
 - '[[Changes/Gemini CLI/2026-02-10-docs-document-gemini-cli-home-environment-variable-by-adamfweidman-in-https-gith|docs:
   document GEMINI_CLI_HOME environment variable]]'
 - '[[Changes/OpenCode/2026-02-10-6-model-support-changes-in-v1-1-54|6 Model Support

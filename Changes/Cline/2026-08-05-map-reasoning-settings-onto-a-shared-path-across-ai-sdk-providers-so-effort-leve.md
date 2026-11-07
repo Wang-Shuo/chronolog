@@ -4,20 +4,20 @@ date: '2026-08-05'
 description: 'Cline · 2026-08-05 · Apps and Integrations: Map reasoning settings onto
   a shared path across AI SDK providers, so effort levels and enable/disable toggles…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1231
+  lag_days: 2791
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7fb7ac4b1093866d3c71f6889f92c2c19513fe6c4ede8a102897e19f6d47ea93
+machine_hash: e2a16bf57e50813d44c55a2661aa5e28e59e790eb69ccf04e2125221b06c0e3d
 product: cline
 product_name: Cline
 record:
@@ -47,12 +47,12 @@ record:
     levels…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-04-three-new-plugins-for-chatgpt-work-and-codex-help-students-and-educators-work-wi-e7aee9|Three
-  new plugins for ChatGPT Work and Codex help students and educators work…]]'
 - '[[Changes/Claude Code/2026-08-04-4-apps-and-integrations-changes-in-v2-1-221|4
   Apps and Integrations changes in v2.1.221]]'
 - '[[Changes/Claude Code/2026-08-04-2-apps-and-integrations-changes-in-v2-1-222|2
   Apps and Integrations changes in v2.1.222]]'
+- '[[Changes/Kimi Code/2026-08-04-add-four-hook-events-turnstarted-userpromptqueued-taskstarted-and-sessionheartbe|Add
+  four hook events]]'
 source_release: '[[Releases/Cline/cline-2026-08-05-v4-1-5-github-365842086-760e9ead|cline-2026-08-05-v4-1-5-github-365842086-760e9ead]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-2-apps-and-integrations-changes-in-v2-1-222|2 Apps and Integrations changes in v2.1.222]]
+- Earlier: 2026-08-04 · Kimi Code · [[Changes/Kimi Code/2026-08-04-add-four-hook-events-turnstarted-userpromptqueued-taskstarted-and-sessionheartbe|Add four hook events]]
 - Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-2-apps-and-integrations-changes-in-v4-1-4|2 Apps and Integrations changes in v4.1.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

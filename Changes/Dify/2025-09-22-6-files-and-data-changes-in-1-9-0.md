@@ -5,20 +5,20 @@ description: 'Dify · 2025-09-22 · Files and Data: 6 changes in 1.9.0 – Orche
   Knowledge, Powering Workflows — In response, we reimagined RAG in Dify as an open
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 851
+  lag_days: 2196
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6a396c1e29e86f7fd18c9358559eb1df10f0fde3e95dfb6cada7c8d6fd1f630
+machine_hash: 286e862f03bf4db706a6c7bfb930fab9379434361808c01426471b884e0ad3f4
 product: dify
 product_name: Dify
 record:
@@ -122,7 +122,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.9.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

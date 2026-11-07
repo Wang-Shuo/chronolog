@@ -4,20 +4,20 @@ date: '2026-10-22'
 description: 'Google Antigravity · 2026-10-22 · Automation and Scheduling: The Conversations
   palette (Cmd+P on macOS, Ctrl+P on Windows and Linux) now includes a filter and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1024
+  lag_days: 2591
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 955d4a21c14a4b38d546dc162dae24f77419ed8422483f949e35803ffb9139c8
+machine_hash: a6c687437fbc936ebff07ed6f11750bdc3eb9f2489d8f98fe1acb53df9f703d8
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

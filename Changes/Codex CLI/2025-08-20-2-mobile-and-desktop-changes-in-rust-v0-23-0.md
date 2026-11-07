@@ -4,20 +4,20 @@ date: '2025-08-20'
 description: 'Codex CLI · 2025-08-20 · Mobile and Desktop: 2 changes in 0.23.0 — Distribution/infra:
   zip archived binaries added to releases (#2438) and DotSlash entry for…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 890
+  lag_days: 2474
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef3f708c0389dbb39aa00da79b8e12b0a528927688f29320551a01d262d2049a
+machine_hash: 7329187561e694985325daa6c13aa99f9564fa286ffb509b725f4e923af2eca9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,10 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.23.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-09-2-mobile-and-desktop-changes-in-v0-6-19|2 Mobile
-  and Desktop changes in v0.6.19]]'
-- '[[Changes/Gemini CLI/2025-08-14-2-mobile-and-desktop-changes-in-v0-1-21|2 Mobile
-  and Desktop changes in v0.1.21]]'
 - '[[Changes/Ollama/2025-08-15-reduced-size-of-installation-on-windows-and-linux|Reduced
   size of installation on Windows and Linux]]'
+- '[[Changes/Notion/2025-08-19-notion-mail-is-now-on-ios|Notion Mail is now on iOS]]'
+- '[[Changes/Notion/2025-08-19-work-offline-in-notion|Work offline in Notion]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece|codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -91,14 +89,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.23.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-08-15 · Ollama · [[Changes/Ollama/2025-08-15-reduced-size-of-installation-on-windows-and-linux|Reduced size of installation on Windows and Linux]]
+- Earlier: 2025-08-19 · Notion · [[Changes/Notion/2025-08-19-work-offline-in-notion|Work offline in Notion]]
 - Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-3-mobile-and-desktop-changes-in-v0-6-23|3 Mobile and Desktop changes in v0.6.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

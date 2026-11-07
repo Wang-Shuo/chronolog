@@ -4,20 +4,20 @@ date: '2026-09-08'
 description: 'ChatGPT · 2026-09-08 · Interface Experience: Edit and comment. On mobile,
   open a generated image full-screen to edit it or add comments to tell ChatGPT what…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1338
+  lag_days: 2704
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ae339caae40e9f8a4c9a7021e6ce0d00710337d49c3cbb0751739cebaa74f46
+machine_hash: 637b3960bdea356487e0444c38c46b8f5d2ffc5fe8c6250c9fbeb9cb6f573ec7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +43,7 @@ record:
   title: Edit and comment
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-add-recent-created-name-and-classic-none-sorting-to-the-split-sessions-sidebar-w|Add
-  Recent, Created, Name, and classic None sorting to the split Sessions sidebar…]]'
+- '[[Changes/HeyGen/2026-09-04-a-new-home-experience|A new Home experience]]'
 - '[[Changes/Lovable/2026-09-04-new-ways-to-open-project-settings|New ways to open
   project settings]]'
 - '[[Changes/OpenClaw/2026-09-05-21-interface-experience-changes-in-v2026-9-2|21 Interface
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

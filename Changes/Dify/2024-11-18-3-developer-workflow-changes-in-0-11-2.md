@@ -4,19 +4,20 @@ date: '2024-11-18'
 description: 'Dify · 2024-11-18 · Developer Workflow: 3 changes in v0.11.2 — Stop
   the service，Command, please execute in the docker directory'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 611
+  lag_days: 2260
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9e57b6e1df04c3cd553df20b6c21bc1eb61c99f4959368a64d11fbcbd566fad
+machine_hash: 6a968a1151cebc8c009ad21dbda663b77ec92c07a8ae76612aa4d22187aacc77
 product: dify
 product_name: Dify
 record:
@@ -95,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.11.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2025-10-29'
 description: 'Cursor · 2025-10-29 · Collaboration: Share custom rules, commands, and
   prompts with your entire team. Create deeplinks through the Cursor Docs.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 889
+  lag_days: 2483
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 66096c6d0c3d0f28c5f10c35f58549bb0b2786837b5e776b9ad895e9917a3ad9
+machine_hash: d9aa7f561cc6026f93538c4d8cdbd9f8342ddbd09c6279bb1608a252d398ef16
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +43,8 @@ record:
   title: Shareable Team Commands
   type: change
 related_changes:
-- '[[Changes/Replit/2025-10-10-support-seat-access-for-teams|Support seat access for
-  teams]]'
+- '[[Changes/Descript/2025-10-14-join-ceo-laura-and-the-team-for-a-live-demonstration-of-descript-s-generative-vi|Join
+  CEO Laura and the team for a live demonstration of Descript''s generative video…]]'
 - '[[Changes/Midjourney/2025-10-17-for-the-next-three-weekends-we-re-renting-a-big-catamaran-sailboat-to-take-midjo|Midjourney
   sailboat trips]]'
 - '[[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content
@@ -103,7 +104,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-10-06'
 description: 'v0 · 2026-10-06 · Collaboration: Personal v0 accounts are now team workspaces,
   giving everyone access to v0''s collaboration features.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1231
+  lag_days: 2825
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: faf1a2ac3f2462fb8f171939fe9d91fd4fe0907cb55c6809ea3aa33cbf510552
+machine_hash: 440a4e1a1ece0272ac243f756094e6217281fa32154caa2c67655e7d5aa9d4f8
 product: v0
 product_name: v0
 record:
@@ -45,12 +46,12 @@ record:
   title: Personal accounts are now team workspaces
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration
-  changes in rust-v0.159.0]]'
 - '[[Changes/OpenClaw/2026-09-30-10-collaboration-changes-in-v2026-9-7|10 Collaboration
   changes in v2026.9.7]]'
 - '[[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130
   Move content-filter guidance into the shared Responses retry handler @won-openai]]'
+- '[[Changes/Synthesia/2026-10-01-automatically-label-every-video-your-team-creates-as-ai-generated-so-you-can-mee|Label
+  every video with an AI content watermark]]'
 source_release: '[[Releases/v0/v0-2026-10-06-2026-10-06-personal-accounts-to-teams-a8d95d73|v0-2026-10-06-2026-10-06-personal-accounts-to-teams-a8d95d73]]'
 source_type: v0_changelog
 theme: collaboration
@@ -79,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130 Move content-filter guidance into the shared Responses retry handler @won-openai]]
+- Earlier: 2026-10-01 · Synthesia · [[Changes/Synthesia/2026-10-01-automatically-label-every-video-your-team-creates-as-ai-generated-so-you-can-mee|Label every video with an AI content watermark]]
 - Later: 2026-10-07 · Claude · [[Changes/Claude/2026-10-07-monthly-api-credits-for-max-and-team-plans|Monthly API credits for Max and Team plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

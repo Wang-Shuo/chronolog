@@ -4,20 +4,20 @@ date: '2026-09-08'
 description: 'OpenClaw · 2026-09-08 · Enterprise and Administration: Ordinary model
   changes now apply to the current chat by default, including administrator selections…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1222
+  lag_days: 2429
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 48fd65336da0c3a303c804bd07461ea66d9b6ae15ac6ff0c3d83659611294809
+machine_hash: cb2c9ed3ae1ff080f7fafc82a413f9b53e93cc0ac49214df9a9e01f1126d7169
 product: openclaw
 product_name: OpenClaw
 record:
@@ -60,8 +60,7 @@ record:
   title: Ordinary model changes now apply to the current chat by default, including…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise
-  admins can pin sign-in to approved GitHub organizations…]]'
+- '[[Changes/HeyGen/2026-09-04-governance-for-admins|Governance for admins]]'
 - '[[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect
   your preview links]]'
 - '[[Changes/OpenClaw/2026-09-05-4-enterprise-and-administration-changes-in-v2026-9-2|4
@@ -115,13 +114,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-4-enterprise-and-administration-changes-in-v2026-9-2|4 Enterprise and Administration changes in v2026.9.2]]
-- Later: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]
+- Later: 2026-09-09 · Notion · [[Changes/Notion/2026-09-09-what-s-on-your-team-s-model-roster-that-s-up-to-you-with-model-controls-workspac|Control which AI models your agents can use]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

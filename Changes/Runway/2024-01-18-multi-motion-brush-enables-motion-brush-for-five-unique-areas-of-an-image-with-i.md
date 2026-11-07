@@ -4,20 +4,20 @@ date: '2024-01-18'
 description: 'Runway · 2024-01-18 · Video Generation: Multi-Motion Brush enables Motion
   Brush for five unique areas of an image with individually-defined motion parameters.'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1184
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5283e4ef90c1ed2f29fad2c6a7b4fc29e3502655ac31011595d25963257aaf07
+machine_hash: e490ffe9e2dbc1d876a1e4c6a48f694e532ad667e81664a7fd61ea1cc3e377e2
 product: runway
 product_name: Runway
 record:
@@ -41,6 +41,13 @@ record:
   theme: video-generation
   title: Multi-Motion Brush
   type: change
+related_changes:
+- '[[Changes/Descript/2022-11-15-the-all-new-version-of-descript|The all-new version
+  of Descript]]'
+- '[[Changes/Synthesia/2023-08-08-two-brand-new-ai-avatars-have-joined-the-synthesia-crew-wendy-and-katie|New
+  Avatars: Wendy & Katie]]'
+- '[[Changes/Synthesia/2023-08-21-you-can-now-create-stunning-synthesia-videos-for-an-array-of-platforms-and-devic|Video
+  Aspect Ratios are live!]]'
 source_release: '[[Releases/Runway/runway-2024-01-18-2024-01-18-multi-motion-brush-969b39dc|runway-2024-01-18-2024-01-18-multi-motion-brush-969b39dc]]'
 source_type: runway_changelog
 theme: video-generation
@@ -67,13 +74,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Later: 2024-02-21 · Runway · [[Changes/Runway/2024-02-21-motion-brush-can-now-be-used-on-gen-2-clips-that-are-being-extended-beyond-the-o|Use Motion Brush on extended clips in Gen-2]]
+- Earlier: 2023-08-21 · Synthesia · [[Changes/Synthesia/2023-08-21-you-can-now-create-stunning-synthesia-videos-for-an-array-of-platforms-and-devic|Video Aspect Ratios are live!]]
+- Later: 2024-02-15 · Synthesia · [[Changes/Synthesia/2024-02-15-we-are-happy-to-introduce-7-new-ai-avatars-in-synthesia-each-with-unique-outfits|Seven New Avatars: Fresh Faces & Updated Classics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

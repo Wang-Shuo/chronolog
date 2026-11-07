@@ -4,20 +4,19 @@ date: '2025-11-20'
 description: 'Midjourney · 2025-11-20 · Editor Experience: The mobile editor doesn’t
   glitch'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 982
+  lag_days: 2566
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05a32e22b6be92f0e960b711a521cfacb8163e5dc9548772ccdd6004c721e893
+machine_hash: a63049b5880335b1276b9d97eb59725e248b49232b9652454de7177ff261d56e
 product: midjourney
 product_name: Midjourney
 record:
@@ -40,8 +39,8 @@ record:
   title: The mobile editor doesn’t glitch
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-14-add-expected-replacements-to-smart-edit-tool-by-scidomino-in-https-github-com-go|Add
-  expected_replacements to smart-edit tool]]'
+- '[[Changes/Notion/2025-11-17-create-a-two-way-sync-with-notion-calendar-and-your-databases-now-you-can-edit-t|Create
+  a two-way sync with Notion Calendar and your databases!]]'
 - '[[Changes/Codex CLI/2025-11-19-use-shared-network-gating-helper-in-chat-completion-tests-6461-aibrahim|Use
   shared network gating helper in chat completion tests (♯6461) — @aibrahim]]'
 - '[[Changes/Midjourney/2025-11-20-the-hide-filter-has-changed-to-trash-now-when-you-trash-a-creation-it-won-t-be-v|The
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

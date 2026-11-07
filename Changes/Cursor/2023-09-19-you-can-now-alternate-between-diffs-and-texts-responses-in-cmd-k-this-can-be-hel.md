@@ -4,20 +4,19 @@ date: '2023-09-19'
 description: 'Cursor · 2023-09-19 · Editor Experience: You can now alternate between
   diffs and texts responses in Cmd-K. This can be helpful for clarifying the models…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 189
+  lag_days: 1773
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b457bac4128976f2e60b58172c2da5bc8346d8f073daab51540b9b4854e38090
+machine_hash: b5d526773e9c804b18a2815c143b0dbf7892cb3affcea3929a7ec7227d120d08
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +53,11 @@ record:
   title: Inline Chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply
-  to Cmd-K outputs, making it much easier to have the model revise its work]]'
 - '[[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K
   will no longer output backticks if you do @file]]'
 - '[[Changes/Dify/2023-09-10-the-query-parameter-in-the-post-v1-completion-messages-endpoint-of-the-app-opena|The
   query parameter in the POST /v1/completion-messages endpoint of the App…]]'
+- '[[Changes/Descript/2023-09-18-other-tweaks-fixes|Other tweaks & fixes]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-19-0-11-0-https-cursor-com-changelog-0-11-0-93d42f83|cursor-2023-09-19-0-11-0-https-cursor-com-changelog-0-11-0-93d42f83]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -86,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-09-10 · Dify · [[Changes/Dify/2023-09-10-the-query-parameter-in-the-post-v1-completion-messages-endpoint-of-the-app-opena|The query parameter in the POST /v1/completion-messages endpoint of the App…]]
+- Earlier: 2023-09-18 · Descript · [[Changes/Descript/2023-09-18-other-tweaks-fixes|Other tweaks & fixes]]
 - Later: 2023-09-21 · Cursor · [[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K in the terminal!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

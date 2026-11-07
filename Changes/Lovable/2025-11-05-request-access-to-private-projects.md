@@ -4,19 +4,20 @@ date: '2025-11-05'
 description: 'Lovable · 2025-11-05 · Collaboration: When navigating to a private project,
   you''ll be able to request access from the project owner. Keeps private work secure…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 896
+  lag_days: 2490
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b11b6a423a7e3c2fa4e7152389eb60f55811add8bacd9b2290c7d3fce14f7f9f
+machine_hash: 010d21dd7b60d740d08fc53616d648e332c01d36d4152dbea3b1729a4e26bd40
 product: lovable
 product_name: Lovable
 record:
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

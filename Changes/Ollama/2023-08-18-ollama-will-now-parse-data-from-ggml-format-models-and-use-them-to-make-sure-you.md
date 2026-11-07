@@ -4,20 +4,20 @@ date: '2023-08-18'
 description: 'Ollama · 2023-08-18 · Reliability and Performance: Ollama will now parse
   data from ggml format models and use them to make sure your system has enough memory…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 246
+  lag_days: 1733
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f947d732919fd0c9f9004cc0feef7c06c1dae39791cf2b619b5ed3e0a8c6d22a
+machine_hash: ddb68ac76241b25573f06ebc17937496998c372042562ead1b557e6d323def27
 product: ollama
 product_name: Ollama
 record:
@@ -56,10 +56,10 @@ record:
   title: Ollama will now parse data from ggml format models and use them to make sure…
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-07-26-performance-improvements-from-enabling-accelerate-https-developer-apple-com-docu|Performance
-  improvements from enabling…]]'
 - '[[Changes/Ollama/2023-08-02-2-reliability-and-performance-changes-in-v0-0-13|2
   Reliability and Performance changes in v0.0.13]]'
+- '[[Changes/Notion/2023-08-08-recently-visited-pages-now-load-10-faster-on-ios|Recently
+  visited pages now load 10% faster on iOS]]'
 - '[[Changes/Ollama/2023-08-10-llama-2-70b-model-with-metal-support-recommend-at-least-64gb-of-memory-ollama-ru|Llama
   2 70B model with Metal support (Recommend at least 64GB of memory)…]]'
 source_release: '[[Releases/Ollama/ollama-2023-08-18-v0-0-15-github-117642921-18f200ff|ollama-2023-08-18-v0-0-15-github-117642921-18f200ff]]'
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

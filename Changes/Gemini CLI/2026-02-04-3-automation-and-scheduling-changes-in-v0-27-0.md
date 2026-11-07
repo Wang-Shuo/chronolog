@@ -4,20 +4,20 @@ date: '2026-02-04'
 description: 'Gemini CLI · 2026-02-04 · Automation and Scheduling: 3 changes in Release
   v0.27.0 — feat(cli): implement event-driven tool execution scheduler by @abhipatel12…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 764
+  lag_days: 2331
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c09a1f0e101d7ec45db353b808d3971d6a1686f1773f403c300a0c4d821f7552
+machine_hash: cc6700d6052343d540da918fe1f0a2b5e9cbe42f77fbca5e858d85476093d709
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.27.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

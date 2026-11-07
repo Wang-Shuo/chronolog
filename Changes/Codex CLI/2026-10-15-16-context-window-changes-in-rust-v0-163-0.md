@@ -4,20 +4,20 @@ date: '2026-10-15'
 description: 'Codex CLI · 2026-10-15 · Context Window: 16 changes in 0.163.0 — #51627
   Stabilize Guardian snapshot prefixes by separating assistant context @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2584
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 584958aef5bb4afa9b0bfa575ea91cd692ee4d2e72e7fca9c75e084905644317
+machine_hash: f2077a4febfca91bdbd74f3d79751c3b83e2abfcc8adbff5513f81cfc9070d5a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -156,7 +156,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b02e84bc1cb3cdd1e8f2e119e2c04c21504ff77fb45b8205c1c44ee19d43332
+machine_hash: 2874f004a86304dfe1274e331d102c37f79b34e5adb9b3a77238c36d3971b3ee
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.14
 ## Nearby in Model Support
 
 - Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-5-model-support-changes-in-rust-v0-118-0|5 Model Support changes in rust-v0.118.0]]
-- Later: 2026-03-31 · OpenCode · [[Changes/OpenCode/2026-03-31-add-a-dedicated-system-prompt-for-kimi-models|Add a dedicated system prompt for Kimi models]]
+- Later: 2026-03-31 · HeyGen · [[Changes/HeyGen/2026-03-31-we-ll-take-footage-at-any-resolution-and-give-you-a-crisp-sharp-4k-file-powered|We’ll take footage at any resolution and give you a crisp, sharp 4K file, powered…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

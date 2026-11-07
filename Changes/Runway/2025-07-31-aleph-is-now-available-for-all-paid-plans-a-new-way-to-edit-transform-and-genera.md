@@ -4,20 +4,20 @@ date: '2025-07-31'
 description: 'Runway · 2025-07-31 · Video Generation: Aleph is now available for all
   paid plans. A new way to edit, transform and generate video.'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 560
+  lag_days: 1744
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 62d3d7463b9a6e4425997e8712d43999eebd2ff83e6ae712f95ae516206924f3
+machine_hash: 9fb702c7de314c6ab7c1d033bbc21f33bf31fd5c040770741e72ce58bb96b2d1
 product: runway
 product_name: Runway
 record:
@@ -46,8 +46,7 @@ record:
   title: Aleph
   type: change
 related_changes:
-- '[[Changes/Runway/2025-03-06-you-can-now-use-a-single-reference-image-in-gen-3-alpha-and-turbo-to-style-your|Restyle
-  Video]]'
+- '[[Changes/Descript/2025-05-20-avatar-update|Avatar update]]'
 - '[[Changes/Midjourney/2025-06-18-today-s-video-workflow-will-be-called-image-to-video|Today’s
   Video workflow will be called “Image-to-Video”]]'
 - '[[Changes/Midjourney/2025-07-25-you-can-now-create-looping-videos-2-you-can-now-make-videos-with-a-specific-star|Create
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-05-14 · Mobile and Desktop: Generated images will
   to appear in the Images tab.Storage management is currently available on web and
   you…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1157
+  lag_days: 2741
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c19043f77642e1a25c40f03889866a7dccb7e5920f26cd7c579aa1d5d3c4c70
+machine_hash: f4d8af14054ee2619ce9a3fc06b9df06e03fb891aa40ac8cd3e60ef085a56a56
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -97,13 +97,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-13 · Suno · [[Changes/Suno/2026-05-13-suno-is-now-available-on-apple-carplay-and-android-auto|Suno is now available on Apple CarPlay and Android Auto]]
-- Later: 2026-05-14 · Suno · [[Changes/Suno/2026-05-14-the-mobile-app-just-got-better|The mobile app just got better]]
+- Later: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-mobile-join-is-now-blocked-in-rooms-attempting-to-join-a-room-https-help-descrip|Mobile join is now blocked in Rooms. Attempting to join…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

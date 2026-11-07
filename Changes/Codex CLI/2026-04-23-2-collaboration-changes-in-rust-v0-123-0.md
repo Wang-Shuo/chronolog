@@ -4,19 +4,20 @@ date: '2026-04-23'
 description: 'Codex CLI · 2026-04-23 · Collaboration: 2 changes in 0.123.0 — #18630
   Fix exec inheritance of root shared flags @etraut-openai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1065
+  lag_days: 2659
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e367d89e1f6c49df2712ebcbc3d6e2bcb234a7aee7544b1ba31cee9806d6910
+machine_hash: 1d819c19e3e6602465924755bef9e2501e488de365f480576dc09ff710575202
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.123.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

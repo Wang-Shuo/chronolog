@@ -4,20 +4,20 @@ date: '2024-02-19'
 description: 'Dify · 2024-02-19 · Voice and Audio: 5 changes in v0.5.6 — Added voice
   choose for TTS in App. Thanks @charli117!'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 224
+  lag_days: 2051
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad6739c7299ffb16c41b7e902650bb05eb9cd3333df0e65dbcd67d3b4949e019
+machine_hash: f70f642bec16e8a0050963afe717e77050654b6914a3c50f3d27f78651b027ce
 product: dify
 product_name: Dify
 record:
@@ -48,10 +48,10 @@ record:
   title: 5 Voice and Audio changes in 0.5.6
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
-  with voice is available to all users]]'
-- '[[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom
-  Voices]]'
+- '[[Changes/Descript/2024-01-10-descript-for-web-beta-adds-video-audio-and-gif-exports|Descript
+  for Web (Beta) adds Video, Audio, and GIF exports]]'
+- '[[Changes/Descript/2024-01-10-white-glove-transcription-sunset|White Glove Transcription
+  Sunset]]'
 - '[[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat
   to supercharge your ideas in the Gemini app]]'
 source_release: '[[Releases/Dify/dify-2024-02-19-0-5-6-github-142556067-45a96eb6|dify-2024-02-19-0-5-6-github-142556067-45a96eb6]]'
@@ -95,13 +95,13 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.6
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-02-08 · Gemini · [[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat to supercharge your ideas in the Gemini app]]
-- Later: 2024-02-22 · Suno · [[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3 Alpha has better audio quality and increased expressiveness among other heavily…]]
+- Later: 2024-02-20 · Descript · [[Changes/Descript/2024-02-20-new-stock-voice|New Stock Voice]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

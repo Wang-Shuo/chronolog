@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-01-14 · Apps and Integrations: 10 changes in 0.
   — The `codex` tool in `codex mcp-server` now includes the `threadId` in the response
   so it…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1028
+  lag_days: 2588
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18c4fae6ce4a3d7e78a5a9ffabaab9807339f1ef200800af4bc7006695064043
+machine_hash: f490ef602571ed224b8b4655fce38422f7fd5480dede64924793f6fdc8f1425d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,10 +63,10 @@ record:
   title: 10 Apps and Integrations changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
-  and Integrations changes in v2.1.6]]'
-- '[[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and
-  Integrations changes in 1.11.3]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-template-based-knowledge-ingestion-for-servicenow-knowledge-connector-web-micros|Template-based
+  knowledge ingestion for ServiceNow Knowledge Connector…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-smart-document-management-with-google-drive-integration-web-microsoft-365-copilo|Smart
+  document management with Google Drive integration…]]'
 - '[[Changes/OpenCode/2026-01-13-terminal-actually-modify-opencode-config-when-adding-mcp-servers-with-mcp-add-co|Terminal
   Actually modify OpenCode config when adding MCP servers with mcp add command]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'
@@ -133,7 +133,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.81.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

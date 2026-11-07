@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-08-25 · Search and Browsing: 5 changes in v0.1
   — \U0001F332 **Browsing files as a tree.** The terminal file browser now expands
   folders in place…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1251
+  lag_days: 2280
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0129a77e85268eea9bfbda53d940d9f3213908ba7e7c07a48bce0b17e34fde8c
+machine_hash: 0cb7fe2b22b77f87b317b21610dd5f312e143490de8ffa5acf76114501e67fb6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -69,12 +69,12 @@ record:
   title: 5 Search and Browsing changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your
-  code]]'
-- '[[Changes/OpenCode/2026-08-20-core-enabled-web-search-when-using-the-opencode-go-provider|Core
-  Enabled web search when using the OpenCode Go provider]]'
 - '[[Changes/OpenCode/2026-08-21-desktop-keep-file-search-results-visible-while-the-next-search-is-loading|Desktop
   Keep file search results visible while the next search is loading]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-copilot-chat-available-when-using-copilot-search-windows-web-microsoft-365-copil|Copilot
+  Chat available when using Copilot Search Windows, Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-open-outlook-emails-within-copilot-chat-windows-mac-web-microsoft-365-copilot|Open
+  Outlook emails within Copilot Chat Windows, Mac, Web (Microsoft 365 Copilot)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'
 source_type: github_releases
 theme: search-browsing
@@ -134,14 +134,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-desktop-keep-file-search-results-visible-while-the-next-search-is-loading|Desktop Keep file search results visible while the next search is loading]]
+- Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-open-outlook-emails-within-copilot-chat-windows-mac-web-microsoft-365-copilot|Open Outlook emails within Copilot Chat Windows, Mac, Web (Microsoft 365 Copilot)]]
 - Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews|See how each app page appears in search results and link previews]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-04-21 · Reliability and Performance: 24 change
   v0.9.0 — \U0001F3A7 **STT preprocessing bypass option.** Administrators can now
   enable…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1223
+  lag_days: 2710
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 91a300e921412b99d67013c3aa5815a8e6e729e98c8f25b05e507adc6c52167d
+machine_hash: c3a655c87d56743d9a1d9e5b1a6eb6d33d54abb68158da46c355dd0357e42524
 product: open-webui
 product_name: Open WebUI
 record:
@@ -256,7 +256,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

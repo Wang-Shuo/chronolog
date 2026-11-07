@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-14 · Files and Data: 2 changes in v2.1.299
   `$.prompt.media` so a `prompt.submit` hook of a mod installed by managed settings
   can…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1238
+  lag_days: 2583
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 044ffa5df25e67bc546ef54872864f28b1a1b251c92252c350b1907864b8857a
+machine_hash: 82889be8dc69316b4656b6c41295dbc7c46ab34430229c6b01d71bcd457f9fc6
 product: claude-code
 product_name: Claude Code
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

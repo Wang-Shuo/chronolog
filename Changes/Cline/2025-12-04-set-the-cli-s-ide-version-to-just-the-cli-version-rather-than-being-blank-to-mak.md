@@ -5,20 +5,19 @@ description: 'Cline · 2025-12-04 · Editor Experience: set the cli''s ''ide ver
   to just the cli version rather than being blank, to make environment_history work
   for CLI…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 996
+  lag_days: 2580
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fcd9008f206cbb4b92d16a96505021dde4185bef06a7f7f61d96154175372bcc
+machine_hash: fc61221fd362d9d709eb90309c94c7f77f1a20b3e6f46f164de7c25345f19d24
 product: cline
 product_name: Cline
 record:
@@ -85,13 +84,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-the-model-editor-interface-was-refined-with-access-control-settings-moved-to-a-d|🎨 The model editor interface was refined with access control settings moved…]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-3-editor-experience-changes-in-rust-v0-66-0|3 Editor Experience changes in rust-v0.66.0]]
+- Later: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-editor|Editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

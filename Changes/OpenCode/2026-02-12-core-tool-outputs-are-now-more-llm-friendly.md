@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0552c62a10c0196409c024b3cb36d5b18c3d7469b8c10a0a6bf97a31c820cd97
+machine_hash: f42ccac92b8209bf6527a6f9fd1c973b19b1e746ba4ada7ea18d920d11350e01
 product: opencode
 product_name: OpenCode
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-2-model-support-changes-in-v1-1-64-1|2 Model Support changes in v1.1.64 + 1]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring GPT-4o and other legacy models]]
+- Later: 2026-02-12 · Z.ai API · [[Changes/Z.ai API/2026-02-12-it-directly-benchmarks-against-claude-opus-4-5-in-code-logic-density-and-systems|It directly benchmarks against Claude Opus 4.5 in code-logic density…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

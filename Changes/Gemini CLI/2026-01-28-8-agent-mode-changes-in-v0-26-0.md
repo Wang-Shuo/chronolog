@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 357c875b89d1de37c69515c74bbda3060c823c23120ca92c8c1c7b13c0e27ca6
+machine_hash: 36e34b88972e9b78ded3fe2b227950d14e16cee459d05f1c06655c113455a592
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -57,12 +57,12 @@ record:
   title: 8 Agent Mode changes in v0.26.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-27-2-agent-mode-changes-in-v2-1-20|2 Agent Mode changes
-  in v2.1.20]]'
-- '[[Changes/Codex CLI/2026-01-27-9818-feat-rebase-multi-agent-tui-on-config-snapshot-jif-oai|♯9818
-  feat: rebase multi-agent tui on config_snapshot @jif-oai]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-27-3-agent-mode-changes-in-v0-0-396|3 Agent
-  Mode changes in v0.0.396]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-publish-azure-ai-foundry-agents-to-copilot-web-microsoft-365-copilot-extensibili|Publish
+  Azure AI Foundry agents to Copilot Web (Microsoft 365 Copilot extensibility)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-bring-your-own-microsoft-foundry-agents-into-microsoft-365-copilot-web-microsoft|Bring
+  your own Microsoft Foundry agents into Microsoft 365 Copilot…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-generate-icons-using-ai-in-agent-builder-windows-web-microsoft-365-copilot-exten|Generate
+  icons using AI in Agent Builder Windows…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-28-v0-26-0-github-280517876-a39d31c9|gemini-cli-2026-01-28-v0-26-0-github-280517876-a39d31c9]]'
 source_type: github_releases
 theme: agent-mode
@@ -116,7 +116,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.26.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-3-agent-mode-changes-in-v0-0-396|3 Agent Mode changes in v0.0.396]]
+- Earlier: 2026-01-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-27-generate-icons-using-ai-in-agent-builder-windows-web-microsoft-365-copilot-exten|Generate icons using AI in Agent Builder Windows…]]
 - Later: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-add-acp-flag-to-start-as-agent-client-protocol-server|Add --acp flag to start as Agent Client Protocol server]]
 <!-- chronolog:end -->
 

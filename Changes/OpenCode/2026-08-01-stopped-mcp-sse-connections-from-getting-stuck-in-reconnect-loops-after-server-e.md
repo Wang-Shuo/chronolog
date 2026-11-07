@@ -4,20 +4,20 @@ date: '2026-08-01'
 description: 'OpenCode · 2026-08-01 · Apps and Integrations: Stopped MCP SSE connections
   from getting stuck in reconnect loops after server error responses'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1227
+  lag_days: 2787
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0c2a04ad8e351884684555205a5438b5dc784d8166fb2fa2ec4256a22511d528
+machine_hash: 927bae7feabe99532ca113cad0265b4eb6ab7bd3a2f30014bfdbd54dbb7838a2
 product: opencode
 product_name: OpenCode
 record:
@@ -43,9 +43,9 @@ record:
     error…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and
-  Integrations changes in v4.1.0]]'
 - '[[Changes/Lovable/2026-07-31-lovable-mcp-updates|Lovable MCP updates]]'
+- '[[Changes/Notion/2026-07-31-post-a-recap-to-slack-or-email-with-decisions-and-next-steps|Post
+  a recap to Slack or email with decisions and next steps]]'
 - '[[Changes/Replit/2026-07-31-connect-more-mcp-servers|Connect more MCP servers]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-01-v1-18-11-fe6c9c73|opencode-2026-08-01-v1-18-11-fe6c9c73]]'
 source_type: opencode_changelog
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

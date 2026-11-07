@@ -4,20 +4,20 @@ date: '2026-09-02'
 description: 'Ollama · 2026-09-02 · Voice and Audio: gemma4 now supports images and
   audio on MLX engine'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1150
+  lag_days: 2977
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9025446aaf373d6b957610512e4397bfcfed5acc470e1963a024b7b01b37f61
+machine_hash: 01ab5de10648ee1bba229d1355879ca77a053c639c1fc35f10ff26686cb81b25
 product: ollama
 product_name: Ollama
 record:
@@ -40,8 +40,8 @@ record:
   title: gemma4 now supports images and audio on MLX engine
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-01-9-voice-and-audio-changes-in-v2026-8-2|9 Voice and
-  Audio changes in v2026.8.2]]'
+- '[[Changes/Synthesia/2026-09-01-browse-featured-voices-filter-by-language-or-accent-and-preview-instantly-all-in|Find
+  the right voice faster with the refreshed voice picker]]'
 - '[[Changes/Google Antigravity/2026-09-02-added-drag-and-drop-and-improved-support-for-attaching-audio-files-to-conversati|Added
   drag-and-drop and improved support for attaching audio files to conversations…]]'
 - '[[Changes/Google Antigravity/2026-09-02-you-can-now-send-a-message-with-the-send-button-while-dictation-is-still-running|Send
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

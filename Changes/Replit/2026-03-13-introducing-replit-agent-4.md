@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a93b4b36ede25ac9298eadafa7f02964e6eda786ba7d914f1d218782981c6223
+machine_hash: 0aa2d86b1c7260e1e45f20a3c9cc9976718908472a4989d50f618e8dfafa3c7d
 product: replit
 product_name: Replit
 record:
@@ -65,10 +65,10 @@ record:
   title: Introducing Replit Agent 4
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-12-core-improve-skill-presentation-to-agent-to-increase-likelihood-of-skill-invocat|Core
-  Improve skill presentation to agent to increase likelihood of skill invocations]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-send-follow-up-messages-to-background-agents-with-the-write-agent-tool-for-multi|Send
   follow-up messages to background agents with the write_agent tool…]]'
+- '[[Changes/HeyGen/2026-03-13-you-can-now-select-a-style-before-generating-a-video-in-video-agent-giving-you-c|Select
+  a Style before generating a video in Video Agent, giving you control over…]]'
 - '[[Changes/Replit/2026-03-13-agent|Agent]]'
 source_release: '[[Releases/Replit/replit-2026-03-13-2026-03-13-934442d3|replit-2026-03-13-2026-03-13-934442d3]]'
 source_type: replit_changelog
@@ -114,7 +114,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-send-follow-up-messages-to-background-agents-with-the-write-agent-tool-for-multi|Send follow-up messages to background agents with the write_agent tool…]]
+- Earlier: 2026-03-13 · HeyGen · [[Changes/HeyGen/2026-03-13-you-can-now-select-a-style-before-generating-a-video-in-video-agent-giving-you-c|Select a Style before generating a video in Video Agent, giving you control over…]]
 - Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-improved-background-agent-behavior-killing-a-background-agent-now-preserves-its|Improved background agent behavior]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3c3dc98656dc7138ddc3d57e52fc12ca87ef27becf3419ab9c2441a8b46bdb4c
+machine_hash: b6964b5af968e3fc8ef2323463c161f6cb57d481e1db8bd061812fb79afcdf7e
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,7 @@ record:
   title: '[VSCode] Improved the agent map'
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-15-the-agent-s-temporary-scratch-files-are-no-longer-watched-synced-or-shown-in-the|The
-  agent''s temporary scratch files are no longer watched, synced, or shown…]]'
+- '[[Changes/Notion/2026-09-15-on-the-go-use-the-notion-agents-ios-app|On the go?]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-2-agent-mode-changes-in-v1-0-85|2 Agent
   Mode changes in v1.0.85]]'
 - '[[Changes/OpenHands/2026-09-16-2-agent-mode-changes-in-v1-19-0|2 Agent Mode changes

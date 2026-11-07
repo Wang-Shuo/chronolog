@@ -4,20 +4,19 @@ date: '2026-04-08'
 description: 'Gemini CLI · 2026-04-08 · Editor Experience: feat(cli): support ''tab
   to queue'' for messages while generating by @gundermanc in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1121
+  lag_days: 2705
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cebc51bd87942dde0487b552d41b9b6ae3a6ab97acb3e12137076f1a88549d34
+machine_hash: 53b3b8ca415b5ba19c59fad0d93424648a03f75c76ace4151bccd8e7041eaa37
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +43,10 @@ record:
   title: 'feat(cli): support ''tab to queue'' for messages while generating'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-add-copilot-help-monitoring-topic-with-opentelemetry-configuration-details-and-e|Add
-  copilot help monitoring topic with OpenTelemetry configuration details and examples]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-timeline-no-longer-goes-blank-when-content-shrinks-e-g-after-cancelling-or-tool|Timeline
   no longer goes blank when content shrinks…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-07-copilot-adoption-report-updated-with-streamlined-ux-and-power-user-insights-web|Copilot
+  adoption report updated with streamlined UX and power user insights…]]'
 - '[[Changes/Claude Code/2026-04-08-4-editor-experience-changes-in-v2-1-97|4 Editor
   Experience changes in v2.1.97]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

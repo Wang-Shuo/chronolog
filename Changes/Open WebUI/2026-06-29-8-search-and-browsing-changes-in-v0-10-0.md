@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-06-29 · Search and Browsing: 8 changes in v0.1
   — \U0001F50E **Snippets in chat search results.** Searching your chats now shows
   a snippet of the…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1194
+  lag_days: 2223
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e6ffae6c502377673378d688afa5dc75703fef5744f5caca58540d966435d50
+machine_hash: 3655e2d0f2e30268ee345e03f0e9ada1c94bd84eba2eb521d30bcfb48ef2921d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -76,12 +76,12 @@ record:
   title: 8 Search and Browsing changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-27501-codex-expand-hosted-web-search-citation-guidance-yuning-oai|♯27501
-  codex Expand hosted web search citation guidance @yuning-oai]]'
 - '[[Changes/Codex CLI/2026-06-22-2-search-and-browsing-changes-in-rust-v0-142-0|2
   Search and Browsing changes in rust-v0.142.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-add-mcp-registry-installation-for-browsing-and-installing-mcp-servers|Add
   /mcp registry installation for browsing and installing MCP servers]]'
+- '[[Changes/Kimi Code/2026-06-29-remove-the-sessions-slash-command-from-the-web-ui-the-sidebar-already-covers-ses|Remove
+  the /sessions slash command from the web UI]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
 source_type: github_releases
 theme: search-browsing
@@ -146,14 +146,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-add-mcp-registry-installation-for-browsing-and-installing-mcp-servers|Add /mcp registry installation for browsing and installing MCP servers]]
+- Earlier: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-remove-the-sessions-slash-command-from-the-web-ui-the-sidebar-already-covers-ses|Remove the /sessions slash command from the web UI]]
 - Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-more-official-channel-provider-and-web-search-plugins-can-now-be-installed-or-re|More official channel, provider, and web-search plugins can now be installed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

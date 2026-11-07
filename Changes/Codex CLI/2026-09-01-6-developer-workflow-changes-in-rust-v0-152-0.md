@@ -5,19 +5,20 @@ description: 'Codex CLI · 2026-09-01 · Developer Workflow: 6 changes in 0.152.
   The terminal UI and `codex exec` show credential-refresh progress, including Amazon
   Bedrock…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1263
+  lag_days: 2912
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5961369f8fd4e494ff70702cf9f8818e20d516a9c8acf8d26f2e3615171a2552
+machine_hash: 6dfd15e24d53b4f3cc31c3a6d1dbed70a7dc69931c30528c6564d6d7c662a92c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -114,7 +115,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.152.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

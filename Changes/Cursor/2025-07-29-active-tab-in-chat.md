@@ -3,20 +3,19 @@ card_id: cursor-2025-07-29-72e87c
 date: '2025-07-29'
 description: 'Cursor · 2025-07-29 · Editor Experience: Active Tab in Chat'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 868
+  lag_days: 2452
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a811bbd1505814717bbc7e9796228cdc88f17bb91fa9dad32f237f61172245aa
+machine_hash: 7d3797115e92ae47dec2a71c9b11abe3cfb677810e083d25285d8f150b0d773f
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +39,7 @@ record:
   title: Active Tab in Chat
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-22-3-editor-experience-changes-in-v3-19-8|3 Editor Experience
-  changes in v3.19.8]]'
+- '[[Changes/Descript/2025-07-23-prefer-the-old-way|Prefer the old way?]]'
 - '[[Changes/Gemini CLI/2025-07-25-19-editor-experience-changes-in-v0-1-14|19 Editor
   Experience changes in v0.1.14]]'
 - '[[Changes/Cline/2025-07-26-add-an-rpc-to-the-host-bridge-to-scroll-the-diff-viewer-by-sjf-in-https-github-c|Add
@@ -90,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

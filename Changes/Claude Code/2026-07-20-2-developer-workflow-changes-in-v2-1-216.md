@@ -4,19 +4,20 @@ date: '2026-07-20'
 description: 'Claude Code · 2026-07-20 · Developer Workflow: 2 changes in v2.1.216
   — Improved validation of `git` and `gh` command arguments in the PowerShell tool'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1220
+  lag_days: 2869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 76e6fc46378565583ef6411bfd7672feb9a82471763bbb6ac68af4b49240e31b
+machine_hash: 04c56266c2f01689e1567588b08f1fc3fca643fc653da8944973263970083c78
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +44,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.216
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed
-  Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]'
 - '[[Changes/Dify/2026-07-17-3-developer-workflow-changes-in-1-16-0|3 Developer Workflow
   changes in 1.16.0]]'
+- '[[Changes/Kimi Code/2026-07-17-add-the-copy-slash-command-to-copy-the-last-assistant-message-to-the-clipboard|Add
+  the /copy slash command to copy the last assistant message to the clipboard]]'
 - '[[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude
   no longer runs the /verify and /code-review skills on its own]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
@@ -92,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.216
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

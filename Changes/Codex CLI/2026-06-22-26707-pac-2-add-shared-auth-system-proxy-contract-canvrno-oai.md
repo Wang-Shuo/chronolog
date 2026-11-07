@@ -4,19 +4,20 @@ date: '2026-06-22'
 description: 'Codex CLI · 2026-06-22 · Collaboration: #26707 PAC 2 - Add shared auth
   system proxy contract @canvrno-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1125
+  lag_days: 2719
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fbdd02d8e10f6966f8251b9b20a62bed82f899b195fe51fc9933769a7900ef6f
+machine_hash: bb306f46b3255bd541cb7068fb68eeef885c6803a0f363632cb6c27dd146d2d4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,7 +43,8 @@ record:
   title: '#26707 PAC 2 - Add shared auth system proxy contract @canvrno-oai'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-16-cleaner-preview-links|Cleaner preview links]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-connect-15five-data-to-surface-team-priorities-and-recognition-web-microsoft-365|Connect
+  15Five data to surface team priorities and recognition…]]'
 - '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
   Cup updates]]'
 - '[[Changes/v0/2026-06-19-4-collaboration-changes-in-annotations-mode-in-form-questions|4
@@ -98,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

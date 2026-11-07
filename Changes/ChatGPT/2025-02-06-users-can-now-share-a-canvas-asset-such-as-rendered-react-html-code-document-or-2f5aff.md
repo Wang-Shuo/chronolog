@@ -5,20 +5,20 @@ description: 'ChatGPT · 2025-02-06 · Files and Data: Users can now share a Can
   asset such as rendered React/HTML code, document, or code with another user, similar
   to how…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 623
+  lag_days: 1968
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0e03132371a679b67aa6bfd0494c76abb2ec26e61e567bb3d1ff24f43075bca
+machine_hash: f955bac30319939be6d12224fae0c4d372686c5cf4e14ade467f02fbad859168
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -83,13 +83,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-code-interpreter-models-can-now-execute-code-in-real-time-to-refine-their-answer|🖥️ Code Interpreter]]
-- Later: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|🐍 Jupyter Notebook Support in Code Interpreter]]
+- Later: 2025-02-11 · Descript · [[Changes/Descript/2025-02-11-scene-toolbar|Scene toolbar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

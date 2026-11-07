@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Dify · 2026-10-23 · Reliability and Performance: 2 changes in v1.18.0
   — Smarter Agent Routing, Portable Apps, Deeper Workflow Visibility — **Knowledge…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1408
+  lag_days: 2895
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 752fb6c414f7cdfdd1c556ebacadaccc89e5c1a7bdd288e3ddbe12ec1d5ce69c
+machine_hash: 74d892b7f7f019091601e9545011a08d596521dc3bafeac06f297a4f02608df8
 product: dify
 product_name: Dify
 record:
@@ -107,7 +107,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.18.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bde5aeeada8b165a3b6e41ae1fd5faa256699d332e968d7eec26d3cf5dd54bb8
+machine_hash: b199f06257b1c9953f2a9c331b0f0c322fffa6b1231d09631b3c04da69e9eecb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -70,12 +70,12 @@ record:
   title: 14 Agent Mode changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode
-  changes in v2.1.299]]'
-- '[[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode
-  changes in v2.1.300]]'
 - '[[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A
   compact sibling, Nemotron 3.5…]]'
+- '[[Changes/Qoder/2026-10-14-interactive-visualizations-agent-responses-in-local-tasks-can-now-display-intera|Interactive
+  visualizations: Agent responses in local tasks can now display…]]'
+- '[[Changes/Qoder/2026-10-14-agent-teams-now-available-in-the-personal-edition-create-your-own-agent-team-wit|Agent
+  Teams: Now available in the personal edition]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'
 source_type: github_releases
 theme: agent-mode
@@ -144,7 +144,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-14 · Ollama · [[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A compact sibling, Nemotron 3.5…]]
+- Earlier: 2026-10-14 · Qoder · [[Changes/Qoder/2026-10-14-agent-teams-now-available-in-the-personal-edition-create-your-own-agent-team-wit|Agent Teams: Now available in the personal edition]]
 - Later: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-you-can-now-type-compact-to-summarize-a-long-conversation-so-far-and-free-up-roo|Type /compact to summarize a long conversation so far and free up room for the agent…]]
 <!-- chronolog:end -->
 

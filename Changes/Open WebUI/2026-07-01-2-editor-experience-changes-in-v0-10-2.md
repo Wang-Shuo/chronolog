@@ -5,20 +5,19 @@ description: "Open WebUI · 2026-07-01 · Editor Experience: 2 changes in v0.10.
   \U0001F514 **Chat notification previews.** Background chat completion notifications
   and toasts now…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1205
+  lag_days: 2789
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ddbcf2c20f55355da7d2caa44664c473f8da2574f7ada098b31044f3f7803a5
+machine_hash: 188b3b99ca8c170c075049f3e9f756d4b75a3f1e1cd5f967dc9b64b90b8eb1c4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,12 +47,12 @@ record:
   title: 2 Editor Experience changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-7-editor-experience-changes-in-v2026-6-11|7 Editor
-  Experience changes in v2026.6.11]]'
-- '[[Changes/OpenCode/2026-06-30-desktop-autocomplete-configured-references-in-prompts|Desktop
-  Autocomplete configured references in prompts]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2
-  Editor Experience changes in v1.0.68]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-apply-brand-kit-and-style-to-visual-creations-in-copilot-chat-windows-mac-web-mi|Apply
+  brand kit and style to visual creations in Copilot chat Windows, Mac…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-copilot-search-matches-on-people-s-department-web-microsoft-365-copilot-app|Copilot
+  Search Matches on People''s Department Web (Microsoft 365 Copilot app)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-onenote-copilot-notebooks-available-in-onenote-on-web-web-onenote|OneNote:
+  Copilot Notebooks available in OneNote on Web Web (OneNote)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
 source_type: github_releases
 theme: editor-experience
@@ -96,14 +95,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2 Editor Experience changes in v1.0.68]]
+- Earlier: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-onenote-copilot-notebooks-available-in-onenote-on-web-web-onenote|OneNote: Copilot Notebooks available in OneNote on Web Web (OneNote)]]
 - Later: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-3-editor-experience-changes-in-v1-17-13|3 Editor Experience changes in v1.17.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

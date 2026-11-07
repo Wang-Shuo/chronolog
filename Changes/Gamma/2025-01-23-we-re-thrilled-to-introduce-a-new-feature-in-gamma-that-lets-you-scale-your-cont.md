@@ -5,20 +5,20 @@ description: 'Gamma · 2025-01-23 · Presentation Creation: We’re thrilled to 
   a new feature in Gamma that lets you scale your content to fit fixed-size formats
   like…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 225
+  lag_days: 1294
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5a18b07d1a1d0ff2bb8084b39f2d0de87fac138c0043b59f97a8693c514d4eee
+machine_hash: 8cf9af3c0095684c9e09bfc01c1b5fa4e622fdab6de8d2c7c0d28b73e1f16e33
 product: gamma
 product_name: Gamma
 record:
@@ -50,10 +50,9 @@ record:
   title: Scale your content to fit!
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-  images from Google Slides and Google Docs]]'
 - '[[Changes/Gamma/2024-08-08-don-t-want-to-recreate-your-company-s-slide-or-brand-template-in-gamma-now-you-d|Don’t
   want to recreate your company’s slide or brand template in Gamma?]]'
+- '[[Changes/Descript/2024-09-10-ken-burns-animation|Ken Burns animation]]'
 - '[[Changes/Gamma/2024-09-17-this-makes-it-easy-to-instantly-transform-your-entire-gamma-for-example-translat|This
   makes it easy to instantly transform your entire gamma - for example, translate…]]'
 source_release: '[[Releases/Gamma/gamma-2025-01-23-67917807eb1c6add0f675d92-422476b5|gamma-2025-01-23-67917807eb1c6add0f675d92-422476b5]]'
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

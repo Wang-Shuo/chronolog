@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'OpenClaw · 2026-06-30 · Automation and Scheduling: 15 changes in v2026.6.11
   — Telegram forum-topic cron jobs now keep separately configured failure alerts…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 910
+  lag_days: 2477
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 585f54470d490aa2a695fa9ce58faadd040352519b8c0d7dfb328486fe3dcec0
+machine_hash: d65cc5c36d9c2641a214e1d8e932264ad21c9c041d409aeb0ca7daeae7c011ba
 product: openclaw
 product_name: OpenClaw
 record:
@@ -100,8 +100,8 @@ record:
   title: 15 Automation and Scheduling changes in v2026.6.11
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-2-automation-and-scheduling-changes-in-1-15-0|2 Automation
-  and Scheduling changes in 1.15.0]]'
+- '[[Changes/Kimi Code/2026-06-26-add-a-hint-to-the-per-turn-step-limit-error-pointing-users-to-the-loop-control-m|Add
+  a hint to the per-turn step limit error pointing users…]]'
 - '[[Changes/Open WebUI/2026-06-29-6-automation-and-scheduling-changes-in-v0-10-0|6
   Automation and Scheduling changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr
@@ -192,7 +192,7 @@ Source: https://docs.openclaw.ai/releases/2026.6.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

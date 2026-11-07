@@ -4,19 +4,20 @@ date: '2026-05-28'
 description: 'OpenCode · 2026-05-28 · Developer Workflow: 4 changes in v1.15.12 —
   Terminal Added a workspace management dialog'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1167
+  lag_days: 2816
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b29f8234f34092c1abbb0bea8d9d7ab0471b40866443c59c3ea32595545580cb
+machine_hash: 7d9c41acebf875e9fdb83afabd726b92999bc65d452a00d8a85e1f0776e9fcb1
 product: opencode
 product_name: OpenCode
 record:
@@ -45,12 +46,12 @@ record:
   title: 4 Developer Workflow changes in v1.15.12
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|Status
-  line commands now receive COLUMNS and LINES environment variables…]]'
 - '[[Changes/Codex CLI/2026-05-28-codex-doctor-now-reports-richer-environment-git-terminal-app-server-and-thread-i|codex
   doctor now reports richer environment, Git, terminal, app-server, and thread…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-3-developer-workflow-changes-in-v1-0-55|3
   Developer Workflow changes in v1.0.55]]'
+- '[[Changes/Kimi Code/2026-05-28-2-developer-workflow-changes-in-kimi-code-0-5-0|2
+  Developer Workflow changes in Kimi Code 0.5.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-28-v1-15-12-2957a170|opencode-2026-05-28-v1-15-12-2957a170]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -93,14 +94,14 @@ Source: https://opencode.ai/changelog/v1.15.12
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-3-developer-workflow-changes-in-v1-0-55|3 Developer Workflow changes in v1.0.55]]
+- Earlier: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-2-developer-workflow-changes-in-kimi-code-0-5-0|2 Developer Workflow changes in Kimi Code 0.5.0]]
 - Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer Workflow changes in v2.1.157]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

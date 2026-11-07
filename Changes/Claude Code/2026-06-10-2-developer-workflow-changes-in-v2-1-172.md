@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-06-10 · Developer Workflow: 2 changes in v2.1
   — Reduced idle CPU usage: `/goal` status chip no longer re-renders the terminal
   at 5 Hz…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1180
+  lag_days: 2829
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f2a9b99821dbf1fb1a29035cb715aa79908a617e03c591fb16b51b2816d757ea
+machine_hash: 1ed0088901645cb281aae5749c352567b44b98f930d8eddd9e63cb4ad5b7d655
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +46,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.172
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-08-pull-requests-opened-from-a-new-branch-chat-are-no-longer-titled-initialize-proj|Pull
-  requests opened from a new-branch chat are no longer titled…]]'
 - '[[Changes/Codex CLI/2026-06-09-release-builds-once-again-publish-separate-symbol-archives-with-line-tables-impr|Release
   builds once again publish separate symbol archives with line tables…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-6-developer-workflow-changes-in-v1-0-61|6
   Developer Workflow changes in v1.0.61]]'
+- '[[Changes/Kimi Code/2026-06-09-wrap-long-single-line-shell-commands-in-approval-prompts-so-the-full-command-rem|Wrap
+  long single-line shell commands in approval prompts so the full command remains…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -90,14 +91,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-6-developer-workflow-changes-in-v1-0-61|6 Developer Workflow changes in v1.0.61]]
-- Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-6-developer-workflow-changes-in-v1-17-0|6 Developer Workflow changes in v1.17.0]]
+- Earlier: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-wrap-long-single-line-shell-commands-in-approval-prompts-so-the-full-command-rem|Wrap long single-line shell commands in approval prompts so the full command remains…]]
+- Later: 2026-06-10 · Kimi Code · [[Changes/Kimi Code/2026-06-10-2-developer-workflow-changes-in-kimi-code-0-13-0|2 Developer Workflow changes in Kimi Code 0.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

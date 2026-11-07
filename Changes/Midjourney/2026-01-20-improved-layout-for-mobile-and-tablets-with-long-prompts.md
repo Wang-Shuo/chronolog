@@ -4,20 +4,20 @@ date: '2026-01-20'
 description: 'Midjourney · 2026-01-20 · Mobile and Desktop: Improved layout for mobile
   and tablets with long prompts'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1043
+  lag_days: 2627
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd5070302f181057c414306d11e69471ee85ad261f415c0c7bf7f5b8fe997cd1
+machine_hash: 4c70c27ce5a66251836b757839ba971c74d8e0b06f5720b2bd3ae685f3754e54
 product: midjourney
 product_name: Midjourney
 record:
@@ -75,13 +75,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-50-mobile-and-desktop-changes-in-v1-1-26|50 Mobile and Desktop changes in v1.1.26]]
-- Later: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-13-mobile-and-desktop-changes-in-v1-1-27|13 Mobile and Desktop changes in v1.1.27]]
+- Later: 2026-01-20 · Notion · [[Changes/Notion/2026-01-20-ai-notes-on-mobile|AI Notes on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

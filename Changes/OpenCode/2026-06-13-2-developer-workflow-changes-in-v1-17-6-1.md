@@ -4,19 +4,20 @@ date: '2026-06-13'
 description: 'OpenCode · 2026-06-13 · Developer Workflow: 2 changes in v1.17.6 + 1
   — Terminal Added auth headers to RunCommand fetch requests'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1183
+  lag_days: 2832
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc35ff892f16f59ced7ea124f969f40c4fb6210de8455ca4182dd27c62cb504a
+machine_hash: 22a62df72f1823e71a3ea4ae039dafcc42a5cbf733d2d9af9bcf2dabdf1b5708
 product: opencode
 product_name: OpenCode
 record:
@@ -41,8 +42,8 @@ record:
   title: 2 Developer Workflow changes in v1.17.6 + 1
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-10-6-developer-workflow-changes-in-v1-17-0|6 Developer
-  Workflow changes in v1.17.0]]'
+- '[[Changes/Kimi Code/2026-06-12-cancel-active-turns-during-session-shutdown-so-foreground-shell-commands-do-not|Cancel
+  active turns during session shutdown so foreground shell commands do not…]]'
 - '[[Changes/OpenCode/2026-06-12-core-snapshot-creation-now-reuses-source-git-objects-to-avoid-long-re-hashing-de|Core
   Snapshot creation now reuses source Git objects to avoid long re-hashing delays…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6
@@ -90,7 +91,7 @@ Source: https://opencode.ai/changelog/v1.17.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

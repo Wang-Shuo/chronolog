@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 03ab8bad863e1dbd5961035ae9bc34a571ddd2e798db1b0707f7b81399586bda
+machine_hash: 7b3bc4a94298b1b81bed7d76c4e66975baf877670d9880afb2a543f69fb2a245
 product: openclaw
 product_name: OpenClaw
 record:
@@ -465,12 +465,12 @@ record:
   title: 72 Agent Mode changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-18-3-agent-mode-changes-in-hub-v2-15-0-custom-agent-controls|3
-  Agent Mode changes in HUB v2.15.0 — Custom agent controls…]]'
 - '[[Changes/Replit/2026-09-18-connect-custom-apis-to-agent|Connect custom APIs to
   Agent]]'
 - '[[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added
   an Auto mode server row to /status showing whether this session''s auto…]]'
+- '[[Changes/Kimi Code/2026-09-19-the-agent-no-longer-assumes-the-current-working-directory-is-the-project-root|The
+  agent no longer assumes the current working directory is the project root]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'
 source_type: openclaw_changelog
 theme: agent-mode
@@ -669,7 +669,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-19 · Claude Code · [[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added an Auto mode server row to /status showing whether this session's auto…]]
+- Earlier: 2026-09-19 · Kimi Code · [[Changes/Kimi Code/2026-09-19-the-agent-no-longer-assumes-the-current-working-directory-is-the-project-root|The agent no longer assumes the current working directory is the project root]]
 - Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 

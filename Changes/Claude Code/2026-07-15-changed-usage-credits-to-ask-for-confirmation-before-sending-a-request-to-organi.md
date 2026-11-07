@@ -4,20 +4,20 @@ date: '2026-07-15'
 description: 'Claude Code · 2026-07-15 · Enterprise and Administration: Changed `/usage-credits`
   to ask for confirmation before sending a request to organization admins'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1167
+  lag_days: 2374
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad20b838c519def78148994d3f52e1c8c4e15e9548bda4b82722e61cae673aef
+machine_hash: 29f8baf247f8c94c2057c74bdb26da6a0185d5b682a0144f1e519919033363b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,13 +83,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-07-14 · Lovable · [[Changes/Lovable/2026-07-14-the-lovable-badge-returns-on-your-next-publish-after-a-downgrade|The Lovable badge returns on your next publish after a downgrade]]
-- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-enterprise-and-administration-changes-in-1-16-0|2 Enterprise and Administration changes in 1.16.0]]
+- Later: 2026-07-15 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-15-admins-can-manage-access-more-precisely-with-support-for-nested-permissions-in-c|Admins can manage access more precisely with support for nested permissions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

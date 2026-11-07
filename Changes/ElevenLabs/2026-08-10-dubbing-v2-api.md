@@ -4,20 +4,20 @@ date: '2026-08-10'
 description: 'ElevenLabs · 2026-08-10 · Voice and Audio: Dubbing v2 is now available
   through the API. It translates audio and video into more than 90 languages while…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1127
+  lag_days: 2954
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1e60f3ddeafe002b3719155a11e972ef5850d8674eff3d35a66f8df960c75eed
+machine_hash: 3d0df636a6cb7f584f96f80991ae916489f0acc5d5472581534eb87f63ab97a8
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,10 +50,8 @@ record:
   title: Dubbing v2 API
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-07-dictate-with-fewer-interruptions-if-dictation-fails-because-of-a-connection-issu|Dictate
-  with fewer interruptions]]'
-- '[[Changes/Codex CLI/2026-08-07-36807-extract-audio-preparation-into-a-utility-crate-copyberry|♯36807
-  Extract audio preparation into a utility crate @copyberry]]'
+- '[[Changes/HeyGen/2026-08-07-avatar-look-voice-control|Avatar look & voice control]]'
+- '[[Changes/HeyGen/2026-08-07-translation-layout-re-design|Translation layout re-design]]'
 - '[[Changes/ElevenLabs/2026-08-10-python-sdk|Python SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-08-10-2026-08-10-3c63678b|elevenlabs-2026-08-10-2026-08-10-3c63678b]]'
 source_type: elevenlabs_changelog
@@ -90,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-36807-extract-audio-preparation-into-a-utility-crate-copyberry|♯36807 Extract audio preparation into a utility crate @copyberry]]
+- Earlier: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-translation-layout-re-design|Translation layout re-design]]
 - Later: 2026-08-10 · Runway · [[Changes/Runway/2026-08-10-tool-mode-and-edit-studio-now-let-you-export-gen-4-5-and-aleph-2-generations-as|ProRes / PNG Sequence Export]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

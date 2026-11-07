@@ -4,19 +4,20 @@ date: '2024-08-01'
 description: 'OpenHands · 2024-08-01 · Developer Workflow: 4 changes in 0.8.3 — (Docker)
   Fix passing of POETRY_CACHE_DIR into RUN command by @tobitege in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 502
+  lag_days: 2151
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c7555c71529ea79fc5b0e32b236d2a937898c44a8148bb7f84af0f6ff9edde5
+machine_hash: 64449b4651bf56c4d06528da87978933fdcab950dd4e735f37680eec18755301
 product: openhands
 product_name: OpenHands
 record:
@@ -100,7 +101,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

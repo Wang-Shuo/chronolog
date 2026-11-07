@@ -4,20 +4,20 @@ date: '2026-03-17'
 description: 'Claude Code · 2026-03-17 · Interface Experience: 2 changes in v2.1.78
   — Response text now streams line-by-line as it''s generated'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1163
+  lag_days: 2529
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b26665003465b199c006b41fe653807f5cde4f411ccec8a9337bbff16937a70d
+machine_hash: 328293792eb8ad962492259694b76b9ba135be87c602e1b7722c1c0abbc3d5cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,13 +86,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy now accepts an optional index: /copy N copies the Nth-latest assistant response]]
-- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-7-interface-experience-changes-in-1-13-1|7 Interface Experience changes in 1.13.1]]
+- Later: 2026-03-17 · Descript · [[Changes/Descript/2026-03-17-translation-and-regenerate|Translation and regenerate]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

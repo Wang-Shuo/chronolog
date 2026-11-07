@@ -5,19 +5,20 @@ description: 'Granola · 2025-05-14 · Collaboration: Introducing the next chapt
   Granola: bringing all your team''s conversations into one place, and unlocking them
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 721
+  lag_days: 2315
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4dcbd2acad5a2b58d0750d685774b25ac4a5b6f9770668d7ad169c68e2350eab
+machine_hash: 7b43a3c29ed5188afd9c6daa744519447bd02cdb6af7e46208deb33946a977b4
 product: granola
 product_name: Granola
 record:
@@ -43,11 +44,11 @@ record:
   title: 'Granola 2.0: A second brain for your team'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-06-teams-conversation-sharing|Teams: Conversation Sharing]]'
-- '[[Changes/Midjourney/2025-05-07-we-re-preparing-to-do-a-new-community-idea-ranking-activity-later-this-week-befo|Share
-  your ideas!]]'
 - '[[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project
   visibility settings have returned to team workspaces, but will be disabled for now]]'
+- '[[Changes/Notion/2025-05-13-top-teams-love-notion-ai|Top teams love Notion AI]]'
+- '[[Changes/Notion/2025-05-13-research-mode-drafts-detailed-docs-in-minutes|Research
+  mode drafts detailed docs in minutes]]'
 source_release: '[[Releases/Granola/granola-2025-05-14-https-www-granola-ai-blog-two-dot-zero-dbd83a53|granola-2025-05-14-https-www-granola-ai-blog-two-dot-zero-dbd83a53]]'
 source_type: granola_changelog
 theme: collaboration
@@ -74,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-05-09 · Lovable · [[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project visibility settings have returned to team workspaces, but will be disabled for now]]
+- Earlier: 2025-05-13 · Notion · [[Changes/Notion/2025-05-13-research-mode-drafts-detailed-docs-in-minutes|Research mode drafts detailed docs in minutes]]
 - Later: 2025-05-16 · Cline · [[Changes/Cline/2025-05-16-add-collapsible-recent-task-list-allowing-users-to-hide-their-task-history-when|Add collapsible recent task list, allowing users to hide their task history…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

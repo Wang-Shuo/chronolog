@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 260f3eee308a001080a78bd336e2264aef3e71d6490f219938cce62e44c043eb
+machine_hash: 6f5497f24b786dbb9fd393d3c5a34fc016305fefb447b48f2077a612c5e6440b
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: Improved reliability of Devin Local agent
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-05-feat-core-enhance-shell-command-validation-and-add-core-tools-allowlist-by-galz1|feat(core):
-  enhance shell command validation and add core tools allowlist]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-05-add-experimental-mcp-tasks-support-mcp-tools-with-tasksupport-required-run-as-no|Add
-  experimental MCP Tasks support]]'
+- '[[Changes/Notion/2026-05-05-scale-agents-with-built-in-guardrails|Scale agents
+  with built-in guardrails]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-06-add-rubber-duck-agent-for-gpt-sessions-powered-by-claude-available-in-experiment|Add
   rubber-duck agent for GPT sessions, powered by Claude (available in /experimental)]]'
+- '[[Changes/Notion/2026-05-06-custom-agents-now-have-a-dedicated-place-in-your-library-use-the-custom-agent-di|Custom
+  Agents now have a dedicated place in your Library]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-05-06-v2-2-17-cdf424d7|windsurf-2026-05-06-v2-2-17-cdf424d7]]'
 source_type: windsurf_changelog
 theme: agent-mode
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-add-rubber-duck-agent-for-gpt-sessions-powered-by-claude-available-in-experiment|Add rubber-duck agent for GPT sessions, powered by Claude (available in /experimental)]]
+- Earlier: 2026-05-06 · Notion · [[Changes/Notion/2026-05-06-custom-agents-now-have-a-dedicated-place-in-your-library-use-the-custom-agent-di|Custom Agents now have a dedicated place in your Library]]
 - Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0|5 Agent Mode changes in rust-v0.129.0]]
 <!-- chronolog:end -->
 

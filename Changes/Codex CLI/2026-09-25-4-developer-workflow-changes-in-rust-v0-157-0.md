@@ -5,19 +5,20 @@ description: 'Codex CLI · 2026-09-25 · Developer Workflow: 4 changes in 0.157.
   Improved terminal rendering with Unicode bullets, checkboxes, aligned equations,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1287
+  lag_days: 2936
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98e101c3e90fc3fb89b465a73e8e77e9aa2c89320d616a20c5742d0ee623b8c7
+machine_hash: e3d93abc2a545ae91b332d139784a4dcefc3042b808b19dc74807e1aff67e7d6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -110,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

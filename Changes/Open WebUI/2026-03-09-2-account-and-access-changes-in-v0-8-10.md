@@ -5,20 +5,21 @@ description: "Open WebUI · 2026-03-09 · Account and Access: 2 changes in v0.8.
   \U0001F510 **OAuth error handling.** Fixed a bug where bare except clauses silently
   caught…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1075
+  lag_days: 2050
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45e975898a24a810e734eacc88ea7c61fa385f1658f5a8611babbcf6066574bb
+machine_hash: 382353d2bbd57bfe1e8238041b1cbe32a14c25c0e48cda8fc6c34abff2d62ed0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -98,7 +99,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.10
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

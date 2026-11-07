@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cffdb8f5ab17f32edcb6580c8d0f7ea070d7c50bf84b9253ce0ac1e96371b27f
+machine_hash: 134e8fefcb7cd5b244026511adecd2a438b1c948f7c0c7d3c9a8ba8e02216b2a
 product: dify
 product_name: Dify
 record:
@@ -90,12 +90,11 @@ record:
   title: 18 Model Support changes in 1.13.1
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-17-pro-the-most-advanced-reasoning-models|Pro – the most
-  advanced reasoning models]]'
-- '[[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|Thinking
-  – deeper reasoning for more complex tasks]]'
-- '[[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased
-  default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]'
+- '[[Changes/Descript/2026-03-17-improved-regenerate-model|Improved Regenerate model]]'
+- '[[Changes/Descript/2026-03-17-heads-up-for-existing-projects|Heads up for existing
+  projects]]'
+- '[[Changes/Descript/2026-03-17-updated-the-underlying-model-powering-regenerate-to-improve-how-natural-the-outp|Updated
+  the underlying model powering Regenerate to improve how natural the output sounds]]'
 source_release: '[[Releases/Dify/dify-2026-03-17-1-13-1-github-297876307-84187197|dify-2026-03-17-1-13-1-github-297876307-84187197]]'
 source_type: github_releases
 theme: model-support
@@ -175,7 +174,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]
+- Earlier: 2026-03-17 · Descript · [[Changes/Descript/2026-03-17-updated-the-underlying-model-powering-regenerate-to-improve-how-natural-the-outp|Updated the underlying model powering Regenerate to improve how natural the output sounds]]
 - Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-5-model-support-changes-in-v0-34-0|5 Model Support changes in v0.34.0]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'Cursor · 2026-06-18 · Automation and Scheduling: Use /automate to create
   an automation directly in your local agent session.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 898
+  lag_days: 2465
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 76d4dbe0386b8e7d440597618b71e715b3a0060d6d03e488a7f8597bae8a6f8a
+machine_hash: f9a6d3c779e19c8c3ed298f9ec1940a8800d69acf26671581fad87414c66892f
 product: cursor
 product_name: Cursor
 record:
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]]
+- Earlier: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-restore-the-turn-counter-from-persisted-loop-events-on-resume-so-post-resume-tur|Restore the turn counter from persisted loop events on resume so post-resume turns…]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-26496-make-auto-review-on-request-prompt-more-proactive-maja-openai|♯26496 Make auto-review on-request prompt more proactive @maja-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

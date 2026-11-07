@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'Runway · 2026-06-18 · Multimodal Input: Trim, stitch, reorder and export
   a final video. All in one place.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1003
+  lag_days: 2771
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b21142e6b1ad9e8e4f04d5733ec1c2f8ce7db9763f6f7b9b671596cfd551a02b
+machine_hash: 712f0af641f1c3f3cb9a83a5336bf6b40afd0307fb6abbcb4cde72b44cb6657d
 product: runway
 product_name: Runway
 record:
@@ -43,11 +43,12 @@ record:
   title: Studio
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-25-music-5f1ccf|Music]]'
-- "[[Changes/Open WebUI/2026-06-01-youtube-short-link-transcripts-pasting-a-youtu-be-short-link-into-a-chat-now-loa|\U0001F4FA
-  YouTube short link transcripts. Pasting a \"youtu.be\" short link into a chat…]]"
-- '[[Changes/Ollama/2026-06-03-gemma-4-12b-https-ollama-com-library-gemma4-12b-high-performance-multimodal-inte|Gemma
-  4 12B((source link)]]'
+- '[[Changes/HeyGen/2026-06-08-upload-a-video-mp4-mov-or-webm-and-it-detects-and-removes|Upload
+  a video (MP4, MOV, or WEBM), and it detects and removes]]'
+- '[[Changes/HeyGen/2026-06-08-the-result-is-a-clean-continuous-video-from-footage-you-already-have-with-no-re|The
+  result is a clean, continuous video from footage you already have, with no…]]'
+- '[[Changes/Descript/2026-06-11-rooms-viewer-defaults-and-business-producer-slots|Rooms:
+  viewer defaults and Business producer slots]]'
 source_release: '[[Releases/Runway/runway-2026-06-18-2026-06-18-studio-3aa92b14|runway-2026-06-18-2026-06-18-studio-3aa92b14]]'
 source_type: runway_changelog
 theme: multimodal
@@ -74,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-gemma-4-12b-https-ollama-com-library-gemma4-12b-high-performance-multimodal-inte|Gemma 4 12B((source link)]]
+- Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-rooms-viewer-defaults-and-business-producer-slots|Rooms: viewer defaults and Business producer slots]]
 - Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear queued tool images when vision is disabled]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-09-04'
 description: 'OpenHands · 2024-09-04 · Automation and Scheduling: Better syntax error
   loop detection by @tobitege in https://github.com/All-Hands-AI/OpenHands/pull/3628'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 246
+  lag_days: 1813
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04f01f058001f05e53167e96d33b2771fdfc5ff1d8f761d025420d7e8086169d
+machine_hash: 7f668d80e1341ae6b57da8072a01b2c557e5001ee329330e2250857535c8c941
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: Better syntax error loop detection
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-23-update-celery-beat-scheduler-time-to-env-by-johnjyong-in-https-github-com-langge|update
-  celery beat scheduler time to env]]'
+- '[[Changes/Notion/2024-08-13-smarter-more-flexible-automations|Smarter, more flexible
+  automations]]'
 - '[[Changes/Dify/2024-08-14-docs-remove-all-meeting-schedule-links-by-guchenhe-in-https-github-com-langgeniu|Docs/remove
   all meeting schedule links]]'
 - '[[Changes/Gemini/2024-08-28-gemini-advanced-and-gemini-for-google-workspace-add-on-priority-access-introduci|Gemini
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

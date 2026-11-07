@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 894bf1c27ea4fafb2678a7e315860155bb9f29d330e51c341087f66de8a1c972
+machine_hash: 785b05300c612e72b867a6f6675ff6ad845c42e36e2fac39009fa2fe9980ae40
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.100
 ## Nearby in Model Support
 
 - Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support changes in v2.1.304]]
-- Later: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-8-model-support-changes-in-v1-0-101|8 Model Support changes in v1.0.101]]
+- Later: 2026-10-19 · Notion · [[Changes/Notion/2026-10-19-meet-auto-our-upgraded-model-router|Meet Auto, our upgraded model router 🔀]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

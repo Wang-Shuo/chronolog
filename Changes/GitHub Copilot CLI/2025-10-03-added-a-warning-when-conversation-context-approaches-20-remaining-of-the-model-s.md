@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2025-10-03 · Context Window: Added a warnin
   conversation context approaches ≤20% remaining of the model''s limit that truncation
   will…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 883
+  lag_days: 2207
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b9c74b9684c3681c7a83eea1ab0c4ca6ee146178266eba4ad0dc514da029ae3f
+machine_hash: 914a0e410778bf3ff7c305607ef840206a039005c37ef038016ccb52d331e74d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,10 +58,10 @@ record:
     model's…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-29-disk-ts-replace-uses-of-context-globalstorageuri-with-hostprovider-get-globalsto|disk.ts
-  Replace uses of context.globalStorageUri…]]'
 - '[[Changes/Dify/2025-09-29-synced-fileuploader-context-with-props-to-fix-inconsistent-file-parameters-in-ca|Synced
   FileUploader context with props to fix inconsistent file parameters in cached…]]'
+- '[[Changes/Z.ai API/2025-09-30-the-update-also-expands-the-context-window-to-200k-improving-its-ability-to-hand|The
+  update also expands the context window to 200K, improving its ability to handle…]]'
 - '[[Changes/Codex CLI/2025-10-03-2-context-window-changes-in-rust-v0-44-0|2 Context
   Window changes in rust-v0.44.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-03-v0-0-334-github-252134613-e212da05|github-copilot-cli-2025-10-03-v0-0-334-github-252134613-e212da05]]'
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

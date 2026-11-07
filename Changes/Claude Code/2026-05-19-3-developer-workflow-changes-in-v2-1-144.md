@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-05-19 · Developer Workflow: 3 changes in v2.1
   — Reduced terminal rendering glitches in VS Code by reducing spinner animation color
   count'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1158
+  lag_days: 2807
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b22aa845f0f4f632a84ffcd84e4e289b26891c4fa44700de2e29fba33b3f27f0
+machine_hash: e1e7b45387e8b19e9c350d4b2e7003440330be43ba0ec2adc65bfd37f69d9fb5
 product: claude-code
 product_name: Claude Code
 record:
@@ -104,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.144
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

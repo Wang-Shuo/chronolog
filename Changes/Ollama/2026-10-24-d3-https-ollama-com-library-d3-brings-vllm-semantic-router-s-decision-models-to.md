@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 251b0f7c8094265fd8b2fef1016ba220e55f9393c3559ce8c46032dc779d5316
+machine_hash: a7f7f309cd1339580db4ce78e8ed787db6e1ceaca313a2f18ee617d90fcd8185
 product: ollama
 product_name: Ollama
 record:
@@ -49,12 +49,12 @@ record:
     models…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model
-  Support changes in rust-v0.164.0]]'
 - '[[Changes/Dify/2026-10-23-operations-archive-storage-supports-configurable-s3-addressing-style-the-api-ima|Operations:
   archive storage supports configurable S3 addressing style]]'
 - '[[Changes/Ollama/2026-10-23-the-model-includes-a-dflash-draft-for-speculative-decoding|The
   model includes a DFlash draft for speculative decoding]]'
+- '[[Changes/Qoder/2026-10-23-2-model-support-changes-in-qoder-0-4-11|2 Model Support
+  changes in Qoder 0.4.11]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-24-v0-40-11-github-422414238-db17e15f|ollama-2026-10-24-v0-40-11-github-422414238-db17e15f]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-23 · Ollama · [[Changes/Ollama/2026-10-23-the-model-includes-a-dflash-draft-for-speculative-decoding|The model includes a DFlash draft for speculative decoding]]
+- Earlier: 2026-10-23 · Qoder · [[Changes/Qoder/2026-10-23-2-model-support-changes-in-qoder-0-4-11|2 Model Support changes in Qoder 0.4.11]]
 - Later: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-2-model-support-changes-in-v2026-10-7|2 Model Support changes in v2026.10.7]]
 <!-- chronolog:end -->
 

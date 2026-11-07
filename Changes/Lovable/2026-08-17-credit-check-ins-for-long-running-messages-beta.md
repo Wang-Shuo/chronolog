@@ -4,20 +4,20 @@ date: '2026-08-17'
 description: 'Lovable · 2026-08-17 · Pricing Model: You can now let Lovable [check
   in on the cost of long-running…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1341
+  lag_days: 2959
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 2a6c0fd1e5beb2ad1bc3a84c6c8555d1f49a8145bafc13c6a931d4ba5f3381fe
+machine_hash: 64cb998b96cfb15d320f178ca3927f0b86c82f8280b91cb66fe2e3ece5e71399
 product: lovable
 product_name: Lovable
 record:
@@ -63,9 +63,10 @@ record:
   title: Credit check-ins for long-running messages (beta)
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]'
 - '[[Changes/Cline/2026-08-11-report-fable-5-cost-on-vertex-as-unknown-rather-than-applying-anthropic-s-list-p|Report
   Fable 5 cost on Vertex as unknown rather than applying Anthropic''s list…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-consumption-dashboard-tracks-copilot-credit-usage-web-viva-insights|Consumption
+  Dashboard tracks Copilot credit usage Web (Viva Insights)]]'
 - '[[Changes/v0/2026-08-14-billing-and-checkout-show-actionable-payment-errors-scope-appropriate-upgrade-pl|Billing
   and checkout show actionable payment errors, scope-appropriate upgrade…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-17-2026-08-17-6196d42b|lovable-2026-08-17-2026-08-17-6196d42b]]'
@@ -108,7 +109,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

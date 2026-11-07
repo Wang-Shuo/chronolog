@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-06-02 · Automation and Scheduling: **\U0001F52
   Support**: Open WebUI now includes a plugin framework for enhanced customization
   and…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 152
+  lag_days: 1719
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ff10dca932c623d6ee0b3ebeedcc485e45d364f310fcd2c4b50ca9389696760c
+machine_hash: 68a391825573102f34a94056e113ff2c2247f9b4880004f281faa4b908c4184f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,12 +63,12 @@ record:
   title: "**\U0001F527 Pipelines Support**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As
-  per the planned schedule, these deprecated envs are being removed]]'
 - '[[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey
   @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]'
 - '[[Changes/Dify/2024-04-08-targeting-automation-and-batch-processing-this-is-ideal-for-translation-data-ana|Targeting
   Automation and Batch Processing]]'
+- '[[Changes/Notion/2024-04-30-automate-notifications-for-projects|Automate notifications
+  for projects]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44|open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -103,14 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-targeting-automation-and-batch-processing-this-is-ideal-for-translation-data-ana|Targeting Automation and Batch Processing]]
+- Earlier: 2024-04-30 · Notion · [[Changes/Notion/2024-04-30-automate-notifications-for-projects|Automate notifications for projects]]
 - Later: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-refactor-api-switch-to-dify-config-with-pydantic-in-controllers-and-schedule-by|refactor(api): switch to dify_config with Pydantic in controllers and schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

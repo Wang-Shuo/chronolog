@@ -4,19 +4,20 @@ date: '2025-08-27'
 description: 'Dify · 2025-08-27 · Developer Workflow: 3 changes in v1.8.0 - Async
   workflows meet multi-model management with OAuth-powered integrations. — feat: add…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 893
+  lag_days: 2542
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 069f03134fe9133d99de34d4db93b771b006145e62e8650905b5f80eab61a5ea
+machine_hash: 7b90726b1653dd0cc82e7f3f7c2afe96666e4c5ec0a4ecd419fdfa2a57990562
 product: dify
 product_name: Dify
 record:
@@ -105,7 +106,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

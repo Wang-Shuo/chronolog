@@ -4,19 +4,20 @@ date: '2026-03-26'
 description: 'OpenCode · 2026-03-26 · Developer Workflow: 2 changes in v1.3.3 — Terminal
   Fix image paste support on Windows Terminal 1.25+ with kitty keyboard enabled'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1104
+  lag_days: 2753
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9948df5427e2b0a692b6064775261a9926268c044ed64016b6cc93f87d97e875
+machine_hash: b218abf18af0a160678e6254aded76222885f5ecb704ac5026dfa023a4e1c998
 product: opencode
 product_name: OpenCode
 record:
@@ -95,7 +96,7 @@ Source: https://opencode.ai/changelog/v1.3.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

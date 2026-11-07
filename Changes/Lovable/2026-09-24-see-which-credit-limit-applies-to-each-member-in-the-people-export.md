@@ -4,20 +4,20 @@ date: '2026-09-24'
 description: 'Lovable · 2026-09-24 · Enterprise and Administration: Workspace admins
   and owners can now see the monthly credit limit in effect for each member when they…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1238
+  lag_days: 2445
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: a9c2be44f195ee1f49127b5dc744428dcc93b74e3bf85bbc2d2999f1a10ab127
+machine_hash: 4a862d287bea22765adacc0647e01d2a234ea821ea7e7eec86719f38e5e07911
 product: lovable
 product_name: Lovable
 record:
@@ -53,10 +53,10 @@ record:
   title: See which credit limit applies to each member in the People export
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5
-  Enterprise and Administration changes in v0.11.4]]'
-- '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
-  open Git Sync to org admins on cloud backends]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-new-dedicated-license-requests-page-in-microsoft-365-admin-center-web-microsoft|New
+  dedicated License Requests page in Microsoft 365 Admin Center…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-unlocking-deeper-copilot-insights-with-enhanced-power-bi-filtering-web-microsoft|Unlocking
+  Deeper Copilot Insights with Enhanced Power BI Filtering…]]'
 - '[[Changes/OpenClaw/2026-09-23-2-enterprise-and-administration-changes-in-v2026-9-6|2
   Enterprise and Administration changes in v2026.9.6]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-24-2026-09-24-0b7a99b5|lovable-2026-09-24-2026-09-24-0b7a99b5]]'
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-2-enterprise-and-administration-changes-in-v2026-9-6|2 Enterprise and Administration changes in v2026.9.6]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude Tag Improved "Notify members now" in admin settings]]
+- Later: 2026-09-26 · Qoder · [[Changes/Qoder/2026-09-26-improved-the-hook-mechanism-for-enterprise-usage-analytics-making-statistics-mor|Improved the hook mechanism for Enterprise usage analytics, making statistics more…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

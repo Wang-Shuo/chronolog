@@ -5,20 +5,19 @@ description: "Open WebUI · 2026-10-14 · Editor Experience: 4 changes in v0.12.
   \U0001F9F1 **External apps in channels.** Administrators can now turn on Apps in
   Admin Settings >…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1310
+  lag_days: 2894
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10d9ee9487a87beb648ed94965247dd795b24161afcce8c50efb0ca09f4e5c7f
+machine_hash: 91b6350252a906f5f2a4814f6c922d2b88efa069292040de91586ef683657659
 product: open-webui
 product_name: Open WebUI
 record:
@@ -154,7 +153,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 182202168c176d824f5734114a2adee35499555fe5b691310e9a8f2721517e11
+machine_hash: 5334f02884b559dfb132138cdded6dbc3bd4618f64ab7a84738312239e567f12
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,10 +48,10 @@ record:
     now correctly saved…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-01-8-model-support-changes-in-v0-8-6|8 Model Support
-  changes in v0.8.6]]'
 - '[[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model
   Support changes in rust-v0.107.0]]'
+- '[[Changes/Descript/2026-03-02-claude-sonnet-4-6-and-google-gemini-3-1-pro-now-in-underlord|Claude
+  Sonnet 4.6 and Google Gemini 3.1 Pro now in Underlord]]'
 - '[[Changes/Ollama/2026-03-02-qwen3-5-https-ollama-com-library-qwen3-5-the-small-qwen-3-5-model-series-is-now|Qwen3.5((source
   link) the small Qwen 3.5 model series…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-02-v0-8-7-github-291874841-d7aad0b1|open-webui-2026-03-02-v0-8-7-github-291874841-d7aad0b1]]'

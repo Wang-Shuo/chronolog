@@ -4,20 +4,20 @@ date: '2026-09-29'
 description: 'Codex CLI · 2026-09-29 · Mobile and Desktop: 4 changes in 0.159.0 —
   #48138 Suppress console windows when spawning the code-mode host on Windows @zm-oai'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1295
+  lag_days: 2879
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc68b2370f7d0b15d8db7e71588c6be73bb8a2e88cf6dd56d618287c17c79377
+machine_hash: 5d3bee5010ef6e39a36f0357af1bc834a66b3a8797f7f2486a7e7e4fcbe9e3b1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.159.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

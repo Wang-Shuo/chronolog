@@ -4,20 +4,20 @@ date: '2025-02-17'
 description: 'ElevenLabs · 2025-02-17 · Voice and Audio: **Fixed**: Fixed an issue
   that caused the voice isolator to not work correctly temporarily.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 588
+  lag_days: 2415
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 195dc3852c587c1b61844345153f0360af8b5a1279208606a08a1083fd3ff920
+machine_hash: fd7d52cb657ec71bc9b0474b91ffb38205f738b332c0e38e753f20240ffe8c5f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -42,8 +42,8 @@ record:
   title: Voice Isolator
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio
-  changes in v0.71.0]]'
+- '[[Changes/Descript/2025-02-04-you-can-hear-a-before-and-after-sample-below-this-voice-was-trained-first-on-our|You
+  can hear a before and after sample below]]'
 - "[[Changes/Open WebUI/2025-02-13-kokoro-js-tts-support-a-new-on-device-high-quality-text-to-speech-engine-has-bee|\U0001F3A4
   Kokoro-JS TTS Support]]"
 - '[[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

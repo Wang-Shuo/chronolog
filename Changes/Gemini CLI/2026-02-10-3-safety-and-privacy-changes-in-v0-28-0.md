@@ -4,20 +4,20 @@ date: '2026-02-10'
 description: 'Gemini CLI · 2026-02-10 · Safety and Privacy: 3 changes in Release v0.28.0
   — Add a email privacy note to bug_report template by @nemyung in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1031
+  lag_days: 2023
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 22ec89784ee876bf603f6ef406f906e5c4a88973013047ea0a7e1bd9b6b84798
+machine_hash: 78660ed67d213a4ec7f791e384201311afa65ed6d71475418c90e4b0c515534d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

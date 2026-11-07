@@ -4,20 +4,20 @@ date: '2026-04-27'
 description: 'GitHub Copilot CLI · 2026-04-27 · Interface Experience: 2 changes in
   1.0.37 — Press `s` in the session picker to cycle sort order: relevance, last used…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1204
+  lag_days: 2570
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0c89d157a408c6f9d5b811e02b0ad0cab670125659975f8f005622eee906373
+machine_hash: 71ac8e8384d0b0fc850629c80dd80fa55812198c546894874ec692ebc9412772
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.37
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

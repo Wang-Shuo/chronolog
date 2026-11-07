@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-16 · Enterprise and Administration: 2 chang
   v0.12.3 — \U0001F524 **Admin default font kept.** Saving Settings > Interface no
   longer stores the…"
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2467
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f385c5e3aedd8e59cffa25f52f8bb0954127b4dba29f015c896cedc32178891
+machine_hash: b6e41b3fa180290d8fda15dfce1c773352c576631b26d71b3ff99da147352b2c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,8 +51,8 @@ record:
   title: 2 Enterprise and Administration changes in v0.12.3
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-14-scim-cannot-delete-admins-an-identity-provider-can-no-longer-delete-administrato|\U0001F46E
-  SCIM cannot delete admins. An identity provider can no longer delete…]]"
+- '[[Changes/Qoder/2026-10-14-locked-use-beta-on-macos-14-4-or-later-enable-locked-use-in-settings-computer-us|Locked
+  use (Beta)]]'
 - '[[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications
   are now open to labs at U.S. universities]]'
 - '[[Changes/Lovable/2026-10-15-export-audit-logs-to-your-siem-or-cloud-storage|Export
@@ -109,7 +109,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

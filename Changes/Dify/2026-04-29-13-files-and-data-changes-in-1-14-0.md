@@ -4,20 +4,20 @@ date: '2026-04-29'
 description: 'Dify · 2026-04-29 · Files and Data: 13 changes in v1.14.0 — refactor:
   select in service API dataset document and segment controllers by @RenzoMXD in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1070
+  lag_days: 2415
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0726dc111c9e079f6033ca17562c959eb4bd2a1b5151ee10395d72aa212a1af3
+machine_hash: e0da5e51ba1fe63fae693bfe7e4834a878c154bc958eb59fc29f100d3b5ce65e
 product: dify
 product_name: Dify
 record:
@@ -158,7 +158,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

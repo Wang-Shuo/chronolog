@@ -4,19 +4,20 @@ date: '2026-08-02'
 description: 'Cline · 2026-08-02 · Collaboration: Stop the two bundles of the combined
   rollout package from invalidating each other''s Cline account session. A still-open…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1166
+  lag_days: 2760
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b41ff0c4915d58b6c8371734a296d8f80780debeaf49e728f1b67d0be387f83a
+machine_hash: a52cbc607e7e76b8cdbd30c8d9b6278ca351c8dcb792f026926b9cc4638a345e
 product: cline
 product_name: Cline
 record:
@@ -54,12 +55,12 @@ record:
     other's…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-3-collaboration-changes-in-1-16-1|3 Collaboration changes
-  in 1.16.1]]'
-- '[[Changes/Codex CLI/2026-07-29-3-collaboration-changes-in-rust-v0-146-0|3 Collaboration
-  changes in rust-v0.146.0]]'
 - '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
   between teams that you belong to directly in the app]]'
+- '[[Changes/HeyGen/2026-07-29-two-ai-hosts-share-a-real-studio-scene-reacting-to-each-other-rather-than-appear|Two
+  AI hosts share a real studio scene, reacting to each other rather than appearing…]]'
+- '[[Changes/Notion/2026-07-31-turn-feedback-into-tickets-for-your-engineering-team|Turn
+  feedback into tickets for your engineering team]]'
 source_release: '[[Releases/Cline/cline-2026-08-02-v4-1-3-github-363709138-84b1555e|cline-2026-08-02-v4-1-3-github-363709138-84b1555e]]'
 source_type: github_releases
 theme: collaboration
@@ -92,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch between teams that you belong to directly in the app]]
+- Earlier: 2026-07-31 · Notion · [[Changes/Notion/2026-07-31-turn-feedback-into-tickets-for-your-engineering-team|Turn feedback into tickets for your engineering team]]
 - Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-10-collaboration-changes-in-rust-v0-147-0|10 Collaboration changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-08-28'
 description: 'v0 · 2026-08-28 · Mobile and Desktop: The native mobile app gained message
   queuing, tappable links, shared-chat author avatars, and chat-history and…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1263
+  lag_days: 2847
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c75b30305e43c0efd08cafddd596daa6c56ace2bf473a98b9de391b40a06010f
+machine_hash: d48adf258257a73a3784eae662c998c0a40bfcb68c2cb1f6e25e0938a4a6341e
 product: v0
 product_name: v0
 record:
@@ -44,8 +44,8 @@ record:
     author…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat:
-  add linux desktop installer build (CI + deb maintainer fix)]]'
+- '[[Changes/Qoder/2026-08-27-works-in-real-environments-with-browser-use-and-computer-use-qoder-can-operate-w|Works
+  in real environments]]'
 - '[[Changes/Gamma/2026-08-28-gamma-is-now-on-ios-and-android|Gamma is now on iOS
   and Android]]'
 - '[[Changes/OpenCode/2026-08-28-desktop-archived-sessions-disappear-from-the-home-list-immediately|Desktop
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-10-27'
 description: 'OpenCode · 2026-10-27 · Developer Workflow: 13 changes in v2.2.0 — Terminal
   Reduce CPU use while animated session-tab pulses are visible.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1319
+  lag_days: 2968
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 739d74a45d04e1a7a4600d55a646528e7c0db37e212f719ad9f0b81325d4bc96
+machine_hash: 0ce8a3b151d869d00a476f4ec627650c83c396c73c6ae1fc80a0655d99a693b6
 product: opencode
 product_name: OpenCode
 record:
@@ -161,7 +162,7 @@ Source: https://opencode.ai/changelog/v2.2.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

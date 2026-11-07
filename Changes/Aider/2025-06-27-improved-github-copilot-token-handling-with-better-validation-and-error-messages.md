@@ -4,20 +4,19 @@ date: '2025-06-27'
 description: 'Aider · 2025-06-27 · Editor Experience: Improved GitHub Copilot token
   handling with better validation and error messages, by Vincent Taverna and Sebastian…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 836
+  lag_days: 2420
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bcb2b02ff6eccfad2edaf1758b664d4fb64bf9b9aa41f4251d428d598b2bcacc
+machine_hash: 80ec00519e59d36ea09de824e6f378ade37ec36ff103a9397e6288aa19c4dc9d
 product: aider
 product_name: Aider
 record:
@@ -44,11 +43,11 @@ record:
   title: Improved GitHub Copilot token handling with better validation and error messages…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-10-added-feature-flag-vscode-in-new-tab-for-opening-vscode-in-a-new-tab-by-tofarr-i|Added
-  feature flag VSCODE_IN_NEW_TAB for opening vscode in a new tab]]'
-- '[[Changes/Windsurf/2025-06-10-planning-mode|Planning Mode]]'
-- '[[Changes/Dify/2025-06-16-dead-code-cleanup-we-ve-removed-some-obsolete-code-utilizing-vulture-keeping-our|Dead
-  Code Cleanup]]'
+- '[[Changes/Descript/2025-06-25-generate-button-for-avatar-added-to-scene-editor-toolbar|Generate
+  button for Avatar added to Scene editor toolbar]]'
+- '[[Changes/Descript/2025-06-25-new-in-the-editor|New in the editor]]'
+- '[[Changes/Descript/2025-06-26-there-s-also-a-new-dropdown-view-menu-in-the-upper-lefthand-side-of-the-screen-r|There’s
+  also a new dropdown View menu in the upper lefthand side of the screen…]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-dead-code-cleanup-we-ve-removed-some-obsolete-code-utilizing-vulture-keeping-our|Dead Code Cleanup]]
+- Earlier: 2025-06-26 · Descript · [[Changes/Descript/2025-06-26-there-s-also-a-new-dropdown-view-menu-in-the-upper-lefthand-side-of-the-screen-r|There’s also a new dropdown View menu in the upper lefthand side of the screen…]]
 - Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-2-editor-experience-changes-in-v0-1-8|2 Editor Experience changes in v0.1.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

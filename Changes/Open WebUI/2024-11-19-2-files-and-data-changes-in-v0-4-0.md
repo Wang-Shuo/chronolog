@@ -4,20 +4,20 @@ date: '2024-11-19'
 description: "Open WebUI · 2024-11-19 · Files and Data: 2 changes in v0.4.0 — **\U0001F4C1
   Large Text as File Option**: Optionally convert large pasted text into a file upload…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 544
+  lag_days: 1889
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 08bc2cad30d7d302ef1d5ed982a8ba6a2a9cd19de25c09be6f5a37175ac2ac0d
+machine_hash: 83957d9650b0c93e0d77453e6f6731724a63fc8b47f862e182ca9a44f7541645
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Files and Data changes in v0.4.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-28-4-files-and-data-changes-in-0-10-2|4 Files and Data changes
-  in 0.10.2]]'
+- '[[Changes/Descript/2024-11-05-replace-media-on-the-canvas-toolbar|Replace media
+  on the Canvas toolbar]]'
 - '[[Changes/Dify/2024-11-05-8-files-and-data-changes-in-0-11-0|8 Files and Data changes
   in 0.11.0]]'
 - '[[Changes/Dify/2024-11-11-update-document-and-segment-word-count-by-johnjyong-in-https-github-com-langgeni|update
@@ -102,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.4.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

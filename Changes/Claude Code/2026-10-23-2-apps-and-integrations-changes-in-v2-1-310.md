@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-23 · Apps and Integrations: 2 changes in v
   — Added the Monitor tool and plugin monitors on Bedrock, Vertex, and Foundry, and
   when…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1310
+  lag_days: 2870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb551f1206abac24a393d81fca0a31f6a4c4a745463e22f99e40ddea9bb84680
+machine_hash: 7f01959ee3046ea54bbc189e2f8c725bc40f43ae32b90cd14d9aea3ae80f2d0d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.310
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-22-3-apps-and-integrations-changes-in-hub-v2-26-0-notifications-settings|3
-  Apps and Integrations changes in HUB v2.26.0 — Notifications settings…]]'
 - '[[Changes/OpenClaw/2026-10-22-10-apps-and-integrations-changes-in-v2026-10-6|10
   Apps and Integrations changes in v2026.10.6]]'
 - '[[Changes/OpenHands/2026-10-22-chore-bump-openhands-extensions-to-0-33-0-by-neubig-in-https-github-com-openhand|chore:
   bump @openhands/extensions to 0.33.0]]'
+- '[[Changes/Qoder/2026-10-22-3-apps-and-integrations-changes-in-qoder-0-4-9|3 Apps
+  and Integrations changes in Qoder 0.4.9]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,14 +91,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.310
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-chore-bump-openhands-extensions-to-0-33-0-by-neubig-in-https-github-com-openhand|chore: bump @openhands/extensions to 0.33.0]]
+- Earlier: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-3-apps-and-integrations-changes-in-qoder-0-4-9|3 Apps and Integrations changes in Qoder 0.4.9]]
 - Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-30-apps-and-integrations-changes-in-rust-v0-164-0|30 Apps and Integrations changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

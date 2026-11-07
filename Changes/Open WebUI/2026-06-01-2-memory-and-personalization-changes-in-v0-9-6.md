@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9e4c53be94d9c61daa74d433956beaf311189a5a21cff7ddb26a49e29e37102
+machine_hash: 521844f3686a60bec6e0bb8c3a225e389267157cf5ef2722c5a9f3f1d40b8664
 product: open-webui
 product_name: Open WebUI
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.6
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-2-memory-and-personalization-changes-in-rust-v0-136-0|2 Memory and Personalization changes in rust-v0.136.0]]
-- Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory that stays more up to date]]
+- Later: 2026-06-02 · HeyGen · [[Changes/HeyGen/2026-06-02-personal-settings-contains-settings-that-apply-only-to-the-individual-user-inclu|Personal Settings contains settings that apply only to the individual user…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

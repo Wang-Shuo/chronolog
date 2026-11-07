@@ -4,20 +4,20 @@ date: '2024-12-06'
 description: 'Suno · 2024-12-06 · Mobile and Desktop: Exciting news! Try v4 for *free*
   when you download the mobile app, now available on both iOS and Android!'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 633
+  lag_days: 2217
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 995669f55183b2202ef0d3988bdc49e009a5c18ca2518979ab7c23a5615ff570
+machine_hash: 53b79ca89ae72d3456bbbb83dd5e7f9ada7a2de95d4940fc6ae9ceddbf912390
 product: suno
 product_name: Suno
 record:
@@ -43,12 +43,12 @@ record:
   title: Exciting news!
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced
-  Voice for ChatGPT Web]]'
 - '[[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web
   Experience]]'
 - '[[Changes/Runway/2024-11-25-use-act-one-in-the-runway-ios-mobile-app-to-generate-expressive-character-perfor|Act-One
   in iOS]]'
+- '[[Changes/Notion/2024-12-05-capture-notes-with-new-ios-shortcuts|Capture notes
+  with new iOS shortcuts]]'
 source_release: '[[Releases/Suno/suno-2024-12-06-e-suno-is-now-available-on-android-f3391984|suno-2024-12-06-e-suno-is-now-available-on-android-f3391984]]'
 source_type: suno_changelog
 theme: mobile-desktop
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-11-25 · Runway · [[Changes/Runway/2024-11-25-use-act-one-in-the-runway-ios-mobile-app-to-generate-expressive-character-perfor|Act-One in iOS]]
-- Later: 2024-12-12 · OpenHands · [[Changes/OpenHands/2024-12-12-make-layout-responsive-for-mobile-devices-by-tofarr-in-https-github-com-all-hand|Make layout responsive for mobile devices]]
+- Earlier: 2024-12-05 · Notion · [[Changes/Notion/2024-12-05-capture-notes-with-new-ios-shortcuts|Capture notes with new iOS shortcuts]]
+- Later: 2024-12-10 · Descript · [[Changes/Descript/2024-12-10-new-desktop-experience|New Desktop experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

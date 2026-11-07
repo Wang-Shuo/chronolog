@@ -4,19 +4,20 @@ date: '2026-01-22'
 description: 'Cursor · 2026-01-22 · Collaboration: Added team and MDM hooks support
   to CLI with more efficient execution.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 974
+  lag_days: 2568
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ef2fe040b402a74f0d61602ac91f2a292e3fc4483f697ef63915c88e0c271fd8
+machine_hash: 962184698ed4dc847fd36a2e6bdb205955256de696fc98a406ba1fb1ed2be4a0
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +43,8 @@ record:
   title: Added team and MDM hooks support to CLI with more efficient execution
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-16-collaboration-wait-calls-can-block-on-multiple-ids-in-one-request-simplifying-mu|Collaboration
-  wait calls can block on multiple IDs in one request, simplifying…]]'
+- '[[Changes/Synthesia/2026-01-20-set-default-access-on-folders-view-comment-edit-or-full-and-share-with-specific|Control
+  access with folder sharing]]'
 - '[[Changes/Codex CLI/2026-01-21-9-collaboration-changes-in-rust-v0-88-0|9 Collaboration
   changes in rust-v0.88.0]]'
 - '[[Changes/Codex CLI/2026-01-22-9583-add-collaboration-mode-to-turncontextitem-charley-oai|♯9583
@@ -100,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

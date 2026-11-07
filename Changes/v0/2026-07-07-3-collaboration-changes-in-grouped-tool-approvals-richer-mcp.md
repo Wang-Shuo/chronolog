@@ -5,19 +5,20 @@ description: 'v0 · 2026-07-07 · Collaboration: 3 changes in Grouped tool appro
   richer MCP tools, and team deployment policies — v0''s deploy button and GitHub
   import…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1140
+  lag_days: 2734
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21e38890984ea69c64d93d644c59aa471ec2eb7f31185e78280372efb733cd75
+machine_hash: 4409a93b0c6c222d1abd4f7df7ea81103887cad809df3e3c2332487baef9169d
 product: v0
 product_name: v0
 record:
@@ -50,10 +51,10 @@ record:
   title: 3 Collaboration changes in Grouped tool approvals, richer MCP…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration
-  changes in v1.0.66]]'
 - '[[Changes/OpenClaw/2026-06-30-5-collaboration-changes-in-v2026-6-11|5 Collaboration
   changes in v2026.6.11]]'
+- '[[Changes/Notion/2026-07-01-your-agents-shouldn-t-be-stuck-in-one-off-chats-now-you-can-bring-multiple-agent|Your
+  agents shouldn’t be stuck in one-off chats]]'
 - '[[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last
   owner cannot leave a shared folder]]'
 source_release: '[[Releases/v0/v0-2026-07-07-2026-07-07-3495f67b|v0-2026-07-07-2026-07-07-3495f67b]]'
@@ -103,7 +104,7 @@ Source: https://v0.app/changelog#2026-07-07
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

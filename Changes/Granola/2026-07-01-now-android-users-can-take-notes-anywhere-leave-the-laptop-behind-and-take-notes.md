@@ -4,20 +4,20 @@ date: '2026-07-01'
 description: 'Granola · 2026-07-01 · Mobile and Desktop: Now Android users can take
   notes anywhere. Leave the laptop behind and take notes with your phone instead.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1205
+  lag_days: 2789
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 28bb1abe3b43178268af8a16415344a5cf25bae64e9cf41153a2f0ceca7a016d
+machine_hash: 5048db46d909f449aa02b84f4759f2843528373e304207b4f6b84e7ebb3f6355
 product: granola
 product_name: Granola
 record:
@@ -75,13 +75,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-7-mobile-and-desktop-changes-in-v1-17-12|7 Mobile and Desktop changes in v1.17.12]]
-- Later: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile and Desktop changes in v1.17.13]]
+- Later: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-quickly-launch-the-microsoft-365-copilot-app-on-your-ios-device-ios-microsoft-36|Quickly launch the Microsoft 365 Copilot app on your iOS device…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

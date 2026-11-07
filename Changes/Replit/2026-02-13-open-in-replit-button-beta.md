@@ -5,20 +5,20 @@ description: 'Replit · 2026-02-13 · Apps and Integrations: You can now tackle 
   tickets directly on Replit with the new ''Open In Replit'' button. This beta feature
   needs…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1058
+  lag_days: 2618
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7d941b4ebe663b48a15de8741b01cab06da88f95d506256959c4431ac7b4d642
+machine_hash: b9329c80b0d8b07c843d109d24b2b809cd21f166b00906d330b85103347acbe6
 product: replit
 product_name: Replit
 record:
@@ -49,8 +49,7 @@ record:
   title: Open in Replit button (Beta)
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-12-core-expose-tool-arguments-in-shell-hook-for-plugin-visibility|Core
-  Expose tool arguments in shell hook for plugin visibility]]'
+- '[[Changes/HeyGen/2026-02-13-why-it-matters|Why it matters]]'
 - '[[Changes/OpenCode/2026-02-13-core-add-tool-definition-hook-for-plugins-to-modify-tool-description-and-paramet|Core
   Add tool.definition hook for plugins to modify tool description and parameters]]'
 - '[[Changes/Replit/2026-02-13-bitbucket-integration-improvements|Bitbucket integration
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

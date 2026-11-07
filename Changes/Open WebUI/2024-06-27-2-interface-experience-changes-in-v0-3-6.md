@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-06-27 · Interface Experience: 2 changes in v0.
   — **\U0001F517 Iframe Support via Files API**: Enables rendering HTML directly into
   your chat…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 535
+  lag_days: 1901
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 836805cde98dc5ebc8d556612ca52028b7585b51f43850c75578a3e6d85a8668
+machine_hash: e590f2ba9b5e87b81751bf53870ac2e5f8aee8e9b682f8911a9f832a700f116c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

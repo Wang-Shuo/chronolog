@@ -4,20 +4,20 @@ date: '2026-09-24'
 description: 'Lovable · 2026-09-24 · Apps and Integrations: The [Storyblok connector](https://docs.lovable.dev/integrations/storyblok.md)
   now offers a **Management API**…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1281
+  lag_days: 2841
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b3fef02e1463ffeca34587e2e9980a9cb20f4bca61db3a782b08a571eb93b332
+machine_hash: 38e2af9f421baf05711285e6335039e52645215bb658133a233d4db9f0ad413a
 product: lovable
 product_name: Lovable
 record:
@@ -60,8 +60,8 @@ record:
   title: Create, update, and publish Storyblok content from your app
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-58-apps-and-integrations-changes-in-v2026-9-6|58
-  Apps and Integrations changes in v2026.9.6]]'
+- '[[Changes/Qoder/2026-09-23-mcp-configuration-added-a-custom-timeout-setting-so-you-can-adjust-the-wait-time|MCP
+  configuration: Added a custom timeout setting so you can adjust the wait…]]'
 - '[[Changes/Runway/2026-09-23-runway-mcp-is-now-available-on-cursor-s-marketplace-making-it-easy-to-bring-runw|Runway
   MCP on Cursor]]'
 - '[[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

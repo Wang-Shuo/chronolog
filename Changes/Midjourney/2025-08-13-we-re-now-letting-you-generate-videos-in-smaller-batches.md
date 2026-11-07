@@ -4,20 +4,20 @@ date: '2025-08-13'
 description: 'Midjourney · 2025-08-13 · Video Generation: This means batches of 1
   or 2 videos at a time'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 573
+  lag_days: 1757
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a124cdc69ccacdb804139e61e15adfeb705ab023415e4e4761b68590df18bc3b
+machine_hash: be92d75c0756c22fa3650821a5858dc60b9261fda6f1b0ac398d973fe115f361
 product: midjourney
 product_name: Midjourney
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2025-07-31 · Runway · [[Changes/Runway/2025-07-31-aleph-is-now-available-for-all-paid-plans-a-new-way-to-edit-transform-and-genera|Aleph]]
-- Later: 2026-04-07 · Runway · [[Changes/Runway/2026-04-07-use-anything-text-image-video-or-audio-to-generate-or-edit-videos-with-seedance|Seedance 2.0]]
+- Later: 2025-08-14 · Descript · [[Changes/Descript/2025-08-14-2-video-generation-changes-in-release-roundup-august-14th-2025|2 Video Generation changes in Release roundup—August 14th, 2025]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

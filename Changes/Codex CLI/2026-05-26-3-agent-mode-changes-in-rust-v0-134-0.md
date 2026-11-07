@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2dfd1f85e15cff726915ac8413f18853bf1450ef3555fc435ddaef84a4eeb3c0
+machine_hash: 359e8ef378ce9cf35a0bc071268a77110a0b18dc3f57120a19487064ee49a0f7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.134.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-elevenagents|ElevenAgents]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode changes in v2.1.152]]
+- Later: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-2-agent-mode-changes-in-kimi-code-0-3-0|2 Agent Mode changes in Kimi Code 0.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

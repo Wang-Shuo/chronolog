@@ -5,19 +5,20 @@ description: "Open WebUI · 2025-08-21 · Developer Workflow: \U0001F4DD **Resol
   Code Block Input Issue with Shift+Enter**: Fixed a bug where typing three backticks
   followed by a…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 887
+  lag_days: 2536
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 939aa8d19c2f630530e05e2f6a532cb6b122a1318b2567c7ecb06c92563a23e2
+machine_hash: 249b221f25c40ac1d70e042cc57ef9d4fd5184ae262d284556208729e9a647da
 product: open-webui
 product_name: Open WebUI
 record:
@@ -105,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

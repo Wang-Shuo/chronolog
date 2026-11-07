@@ -4,20 +4,21 @@ date: '2026-06-17'
 description: 'OpenCode · 2026-06-17 · Account and Access: 2 changes in v1.17.8 — Core
   The MCP OAuth callback server now shuts down once authorization finishes or is…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2150
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb6cfa7e2c2176f5a9128f5d00733d1971b163ff65f1aa5e39ee02a364a028d2
+machine_hash: 5ebd9c8f7646313a816f3868f0e57851802244ff166ec48d0b68efc761e7ac2c
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +44,10 @@ record:
   title: 2 Account and Access changes in v1.17.8
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-16-2-account-and-access-changes-in-v1-0-63|2
-  Account and Access changes in v1.0.63]]'
-- '[[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved
-  the MCP OAuth browser page to match Claude Code''s visual style…]]'
+- '[[Changes/Kimi Code/2026-06-17-prevent-the-web-login-dialog-from-closing-when-clicking-the-backdrop|Prevent
+  the web login dialog from closing when clicking the backdrop]]'
+- '[[Changes/Kimi Code/2026-06-17-show-the-underlying-connection-error-when-oauth-token-refresh-fails-after-intern|Show
+  the underlying connection error when OAuth token refresh fails after internal…]]'
 - '[[Changes/Lovable/2026-06-17-choose-your-interface-language|Choose your interface
   language]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-17-v1-17-8-b3531749|opencode-2026-06-17-v1-17-8-b3531749]]'
@@ -92,7 +93,7 @@ Source: https://opencode.ai/changelog/v1.17.8
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

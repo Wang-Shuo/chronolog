@@ -4,20 +4,20 @@ date: '2024-07-13'
 description: 'Ollama · 2024-07-13 · Reliability and Performance: Ollama will no longer
   error if loading models larger than system memory if disk space is available'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 576
+  lag_days: 2063
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 587a95060614b13051eecd665c5959e7ab3e6aec4c89be234e5cd39ffbe3f76a
+machine_hash: 53cd5b1403ef9a693eb9a1915d61bfd18e4ca47c4e8262b386223a84d7a4a96e
 product: ollama
 product_name: Ollama
 record:
@@ -53,8 +53,8 @@ record:
     disk…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-04-3-reliability-and-performance-changes-in-v0-42-0|3 Reliability
-  and Performance changes in v0.42.0]]'
+- '[[Changes/Descript/2024-07-09-descript-for-web-is-officially-out-of-beta|Descript
+  for Web is officially out of Beta]]'
 - '[[Changes/Open WebUI/2024-07-09-3-reliability-and-performance-changes-in-v0-3-8|3
   Reliability and Performance changes in v0.3.8]]'
 - '[[Changes/Ollama/2024-07-11-glm4-models-will-no-longer-fail-to-load-from-out-of-memory-errors|glm4
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-07-11 · Ollama · [[Changes/Ollama/2024-07-11-glm4-models-will-no-longer-fail-to-load-from-out-of-memory-errors|glm4 models will no longer fail to load from out of memory errors]]
-- Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++ now has chunked streaming (currently in Beta)!]]
+- Later: 2024-07-22 · Synthesia · [[Changes/Synthesia/2024-07-22-add-giphy-gifs-speed-up-scene-transitions-with-direct-cut-and-use-keyboard-short|Edit faster with GIFs, Direct Cut, and Shortcuts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

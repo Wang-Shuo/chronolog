@@ -4,20 +4,20 @@ date: '2026-07-13'
 description: 'OpenClaw · 2026-07-13 · Voice and Audio: 83 changes in v2026.7.1 — Responsive
   layouts keep chat history and controls usable on phones, tablets, short landscape…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1099
+  lag_days: 2926
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0cc8b982b696ea76dd389969f963fbf0eb537c2cecdf385f85c845652a455946
+machine_hash: 61b89637c322506c004cf374758de7e5708945710e2474c25c60e0de1bd9c758
 product: openclaw
 product_name: OpenClaw
 record:
@@ -367,9 +367,10 @@ record:
   title: 83 Voice and Audio changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-workspaces-9376f0|Workspaces]]'
 - '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
   GPT-Live-1 in ChatGPT Voice]]'
+- '[[Changes/Synthesia/2026-07-09-explore-stock-voices-by-language-preview-with-your-own-script-and-download-audio|Explore
+  the new Voices page]]'
 - '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT
   returns to WhatsApp in the EEA]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
@@ -600,7 +601,7 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

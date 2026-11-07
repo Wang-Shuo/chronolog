@@ -4,20 +4,20 @@ date: '2024-01-19'
 description: 'Dify · 2024-01-19 · Files and Data: delete document cache embedding
   by @JohnJyong in https://github.com/langgenius/dify/pull/2101'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 239
+  lag_days: 1584
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 85605695ff5f98f7eded543d685fefa3c43d409d858925348d97e20d6d80b892
+machine_hash: 3517f04f0318e580b965fd10ed70dfe20f0929b6c50730c3db0bc9a5065b876e
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,9 @@ record:
   title: delete document cache embedding
   type: change
 related_changes:
-- '[[Changes/Dify/2023-10-12-2-files-and-data-changes-in-0-3-27|2 Files and Data changes
-  in 0.3.27]]'
 - '[[Changes/Dify/2023-12-08-feat-remove-documents-limit-by-zxhlyh-in-https-github-com-langgenius-dify-pull-1|feat:
   remove documents limit]]'
+- '[[Changes/Descript/2023-12-18-new-canvas-options|New Canvas Options]]'
 - '[[Changes/Dify/2023-12-19-unstructured-document-https-unstructured-io-github-io-unstructured-introduction|Unstructured
   Document((source link)]]'
 source_release: '[[Releases/Dify/dify-2024-01-19-0-4-9-github-137727555-7bb624b0|dify-2024-01-19-0-4-9-github-137727555-7bb624b0]]'
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

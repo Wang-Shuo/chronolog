@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d376f349b0505d5936d74cc14c04198712a91b5b0e660624b90527e07070717a
+machine_hash: 4ff625abaf6e1e5e59f62552bc1631a6ca5be3c114fade73435ec608f8626349
 product: cursor
 product_name: Cursor
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-11-agent-mode-changes-in-rust-v0-146-0|11 Agent Mode changes in rust-v0.146.0]]
-- Later: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-feat-always-show-the-llm-selector-move-agent-profile-switching-to-the-tools-menu|feat: always show the LLM selector; move agent-profile switching to the tools menu]]
+- Later: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-enable-adaptive-card-refresh-in-custom-engine-agents-web-microsoft-365-copilot-e|Enable adaptive card refresh in custom engine agents…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

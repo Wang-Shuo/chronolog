@@ -4,20 +4,20 @@ date: '2026-03-05'
 description: 'Cursor · 2026-03-05 · Safety and Privacy: When invoked, the agent spins
   up a cloud sandbox and follows your instructions using the MCPs and models you''ve…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1054
+  lag_days: 2046
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: fb33dfd7c82fb749ee5c210028bdf905e0b0e12f50a3d43c834da0af990cb919
+machine_hash: 97e9111df08208a77334165790eca37dee234f3f44aa934050ad42eec056f01a
 product: cursor
 product_name: Cursor
 record:
@@ -100,13 +100,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-4-safety-and-privacy-changes-in-rust-v0-110-0|4 Safety and Privacy changes in rust-v0.110.0]]
-- Later: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed false-positive permission prompts for compound bash commands containing…]]
+- Later: 2026-03-05 · Notion · [[Changes/Notion/2026-03-05-the-new-can-create-pages-database-permission-lets-users-create-new-pages-in-a-da|The new “can create pages” database permission lets users create new pages…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

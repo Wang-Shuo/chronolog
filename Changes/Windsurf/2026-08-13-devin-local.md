@@ -5,19 +5,20 @@ description: 'Windsurf · 2026-08-13 · Collaboration: `/share` no longer asks w
   organization a conversation belongs to: shared conversations are scoped to your
   account…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1177
+  lag_days: 2771
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9317544f134f4e65a3f66f550e2b3c9f85ba18b27f01527d2c433e59bcfad1a2
+machine_hash: 4924a30260fb5e318b1ff3c509e1b2ff23cbcf1eb2aec608f0af102a4ea9fcdd
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,8 +47,8 @@ record:
   title: Devin Local
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-10-collaboration-changes-in-rust-v0-147-0|10 Collaboration
-  changes in rust-v0.147.0]]'
+- '[[Changes/HeyGen/2026-08-07-admins-can-choose-whether-new-avatars-are-public-or-private-by-default-when-avat|Admins
+  can choose whether new avatars are public or private by default]]'
 - '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
   initial experience includes My Drive and files and folders shared directly with
   you]]'
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-03-24 · Apps and Integrations: 5 changes in Re
   v0.35.0 — test(cli): add integration test for node deprecation warnings by @Nixxx19
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1097
+  lag_days: 2657
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1cddc7e0d3da7406bbbf1ddca494c823ea8fa2742f80dd42c8709f7c3f85350f
+machine_hash: e2f4c37c9cc44cc7843c5740ca14ebaa1665f2e8f3ae661455cb95b3a04001af
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -107,13 +107,13 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.35.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-6-apps-and-integrations-changes-in-v1-0-11|6 Apps and Integrations changes in v1.0.11]]
-- Later: 2026-03-25 · ChatGPT · [[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google Drive app unification]]
+- Later: 2026-03-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-24-query-coda-docs-and-wikis-with-copilot-connectors-web-microsoft-365-copilot-exte|Query Coda docs and wikis with Copilot connectors…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

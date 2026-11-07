@@ -4,20 +4,20 @@ date: '2023-07-19'
 description: 'Cursor · 2023-07-19 · Context Window: Advanced context controls only
   show up if you have indexed your codebase'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 76
+  lag_days: 1400
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba787a65e9b7e6405a837cc4d78e71863b04a86adf51c4bffa6ea25a2864bc59
+machine_hash: 0cc891517ec7384ab56dd264a80430deb8044fcdc31a482db886a9ac0422b89f
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,11 @@ record:
   title: Advanced context controls only show up if you have indexed your codebase
   type: change
 related_changes:
-- '[[Changes/Aider/2023-06-25-graceful-handling-of-context-window-exhaustion-including-helpful-tips|Graceful
-  handling of context window exhaustion, including helpful tips]]'
-- '[[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips|Graceful
-  handling of context window exhaustion, including helpful tips]]'
-- '[[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips-d31722|Graceful
-  handling of context window exhaustion, including helpful tips]]'
+- '[[Changes/Descript/2023-07-10-layer-locking|Layer locking]]'
+- '[[Changes/Descript/2023-07-10-update-layer-order-across-scenes|Update layer order
+  across scenes]]'
+- '[[Changes/Descript/2023-07-10-edit-word-gaps-from-the-script|Edit Word Gaps from
+  the Script]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-19-0-2-50-https-cursor-com-changelog-0-2-50-c7175ac0|cursor-2023-07-19-0-2-50-https-cursor-com-changelog-0-2-50-c7175ac0]]'
 source_type: cursor_changelog
 theme: context-window
@@ -73,14 +72,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-06-26 · Aider · [[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips-d31722|Graceful handling of context window exhaustion, including helpful tips]]
+- Earlier: 2023-07-10 · Descript · [[Changes/Descript/2023-07-10-edit-word-gaps-from-the-script|Edit Word Gaps from the Script]]
 - Later: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|More control of context building abilities for codebase-wide chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

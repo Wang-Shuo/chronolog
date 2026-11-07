@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b55414730d961a215d4774cf65b02855a5068cd55950766098156301e61119d7
+machine_hash: 486c1cce5ed67f4ab0db9a182b8a70e7cbc37fd95512f958455eaf6e387f3c4a
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Agent Mode changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-13-resume-supports-copilot-cloud-agent-sessions-where-the-agent-hasn-t-pushed-any-c|--resume
-  supports Copilot cloud agent sessions where the agent hasn''t pushed any…]]'
 - '[[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved
   hook configuration error]]'
+- '[[Changes/Descript/2026-05-14-agent-templates-renamed-to-prompt-templates-the-label-in-the-underlord-panel-has|Agent
+  templates renamed to "prompt templates." The label in the Underlord panel…]]'
 - '[[Changes/Ollama/2026-05-14-for-difficult-coding-and-agentic-tasks|For difficult
   coding and agentic tasks]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'

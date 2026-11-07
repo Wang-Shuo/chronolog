@@ -5,20 +5,19 @@ description: 'Google Antigravity · 2026-09-22 · Editor Experience: Prompt acti
   in interactive widgets and HTML artifacts now fill in and focus the message box
   instead of…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1288
+  lag_days: 2872
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2eabb94573eb1950d52ac6a92b3325f1071fc65205e8e93520b480c8368a3df0
+machine_hash: 57be677e17d301f85b4875e1e36b8b2f1c996bcb0e84c00ab06c3a29c6602731
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -90,13 +89,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In the Sessions tab, rows you can dismiss now take x then x again to confirm]]
-- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-15-editor-experience-changes-in-v2026-9-6|15 Editor Experience changes in v2026.9.6]]
+- Later: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-copilot-enhanced-topic-assignment-web-viva-glint|Copilot Enhanced Topic Assignment Web (Viva Glint)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf9857cb0c59b658b58092c0b78ad819dca1e0dabf704a9f3b232529572df255
+machine_hash: aa300f9d3513ecb9c33f849d040df968ef4fb38d348960980ef134c8dc4ab9ae
 product: cline
 product_name: Cline
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.24
 ## Nearby in Model Support
 
 - Earlier: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-3-model-support-changes-in-v1-27-0|3 Model Support changes in v1.27.0]]
-- Later: 2026-10-13 · Gemini · [[Changes/Gemini/2026-10-13-introducing-gemini-4-argon-our-frontier-model-for-complex-tasks|Introducing Gemini 4 Argon: our frontier model for complex tasks]]
+- Later: 2026-10-13 · Descript · [[Changes/Descript/2026-10-13-a-year-of-usage-history|A year of usage history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

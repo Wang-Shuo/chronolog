@@ -4,20 +4,20 @@ date: '2026-09-11'
 description: 'OpenHands · 2026-09-11 · Automation and Scheduling: 3 changes in v1.18.0
   — feat: only the creator can turn an automation back on by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 983
+  lag_days: 2550
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 940a292e883c2295c9164b830375ee3e5791a4cbf5de3cf7c66455bc721c849a
+machine_hash: bd642722591755fae93679efb94d6ec26d8e51dbb8680825dd1943e0eb3b7a35
 product: openhands
 product_name: OpenHands
 record:
@@ -86,13 +86,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.18.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7 Automation and Scheduling changes in v2026.9.4]]
-- Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4 Automation and Scheduling changes in v1.19.0]]
+- Later: 2026-09-14 · Kimi Code · [[Changes/Kimi Code/2026-09-14-add-the-loop-control-compaction-max-attempts-config-option-to-set-the-maximum-to|Add the loop_control.compaction_max_attempts config option to set the maximum…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

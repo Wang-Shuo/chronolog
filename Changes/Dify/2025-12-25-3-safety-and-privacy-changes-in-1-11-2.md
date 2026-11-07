@@ -4,20 +4,20 @@ date: '2025-12-25'
 description: 'Dify · 2025-12-25 · Safety and Privacy: 3 changes in v1.11.2 — **Security
   Enhancements**: We''ve patched an XSS vulnerability with the Mermaid Graph and tackled…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 984
+  lag_days: 1976
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 347d7a18b9a863f32e4e2030ffad0db3152f493cf16385e9e81c7eb04d67836f
+machine_hash: 729175fbba69ad59ab1780775ef0c1fe2a7913e65b7c6a1f90f22d1adc04df36
 product: dify
 product_name: Dify
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

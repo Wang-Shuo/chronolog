@@ -4,20 +4,20 @@ date: '2026-01-21'
 description: 'Codex CLI · 2026-01-21 · Reliability and Performance: #9543 fix: memory
   leak issue @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1133
+  lag_days: 2620
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 45f7a40504c28071528218b799d2a10b582d551564bc650b87229b94381b91ee
+machine_hash: 20567d9530ed5d356305172d6c98566267063b476b9f9e74d90bc5f7b27c24ff
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,7 @@ record:
   title: '#9543 fix: memory leak issue @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-01-20-improved-scroll-anchoring-and-grid-performance|Improved
-  scroll anchoring and grid performance]]'
+- '[[Changes/Notion/2026-01-20-more-improvements|More improvements]]'
 - '[[Changes/OpenCode/2026-01-20-terminal-fix-message-history-cleanup-to-prevent-memory-leaks-in-tui|Terminal
   Fix message history cleanup to prevent memory leaks in TUI]]'
 - '[[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

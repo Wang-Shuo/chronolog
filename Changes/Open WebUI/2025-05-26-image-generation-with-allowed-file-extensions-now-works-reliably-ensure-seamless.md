@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-05-26 · Image Generation: \U0001F5BC️ **Imag
   with Allowed File Extensions Now Works Reliably**: Ensure seamless image generation
   even when…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 442
+  lag_days: 700
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc70d7d26272dbf2f7a9d0ba6547045c871e262994f99702404f5cf48622d371
+machine_hash: 56b26717c20a537630395707c19eb9dbf91a8df10863ccd4604dd59adae1c451
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,9 @@ record:
   title: "\U0001F5BC️ **Image Generation with Allowed File Extensions Now Works Reliably**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-05-06-openai-image-generation-issues-resolved-resolved-broken-image-output-when-using|\U0001F58C️
-  OpenAI Image Generation Issues Resolved]]"
 - '[[Changes/Manus/2025-05-16-manus-doesn-t-just-generate-images-it-understands-your-intent-plans-a-solution-a|Manus
   image generation]]'
+- '[[Changes/Descript/2025-05-20-improved-image-generation|Improved image generation]]'
 - '[[Changes/Gemini/2025-05-20-image-generation-just-got-an-upgrade|Image generation
   just got an upgrade]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc|open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc]]'
@@ -100,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

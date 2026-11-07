@@ -4,20 +4,20 @@ date: '2023-09-07'
 description: 'Cursor · 2023-09-07 · Reliability and Performance: We no longer store
   any full files in memory and prevent users from @''ing very large files (> 2MB)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 266
+  lag_days: 1753
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de11d0f12ab154740da325935655204f786227e62da3362819b8258dbad49958
+machine_hash: a684cdb88b61f6c330b42279557ab8c3a74b68b5ffef0a6fde0e44938b4ed15a
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: Better State Management
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs
-  updates]]'
+- '[[Changes/Descript/2023-09-05-made-a-significant-improvement-to-the-performance-of-removing-large-numbers-of-f|Made
+  a significant improvement to the performance of removing large numbers…]]'
 - '[[Changes/Ollama/2023-09-06-minor-performance-improvements-to-model-loading-and-generation|Minor
   performance improvements to model loading and generation]]'
 - '[[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

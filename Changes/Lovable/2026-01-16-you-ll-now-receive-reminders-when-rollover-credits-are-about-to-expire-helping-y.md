@@ -4,20 +4,20 @@ date: '2026-01-16'
 description: 'Lovable · 2026-01-16 · Pricing Model: **You’ll now receive reminders
   when rollover credits are about to expire**, helping you avoid losing unused credits.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1128
+  lag_days: 2746
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: b818984c74aef6973a7e35d7d8b2a797cd9521630c33d8cbc9a071806ea46776
+machine_hash: 11aa9f9590da7bc322b46c4c400f21500af322acf12ee175dbe4ec5424089818
 product: lovable
 product_name: Lovable
 record:
@@ -45,8 +45,7 @@ record:
     helping…'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-12-terminal-refactor-event-streaming-in-tui-to-use-sdk-instead-of-manual-rpc-subscr|Terminal
-  Refactor event streaming in TUI to use SDK instead of manual RPC subscription]]'
+- '[[Changes/HeyGen/2026-01-13-avatar-4-default|Avatar 4 (default)]]'
 - '[[Changes/v0/2026-01-14-added-scope-selector-in-the-buy-credits-dialog|Added scope
   selector in the buy credits dialog]]'
 - '[[Changes/v0/2026-01-15-updated-v0-max-pricing|Updated v0 Max pricing]]'
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

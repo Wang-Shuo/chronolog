@@ -4,19 +4,20 @@ date: '2026-07-29'
 description: 'Cursor · 2026-07-29 · Collaboration: Switch between teams that you belong
   to directly in the app'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1162
+  lag_days: 2756
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24c0fcf0cb71a761f118580fe469c08171458f54d81696d5f5b638c4ecb1c936
+machine_hash: 847722cc4c10866a0d98af0bc243991247170fa1350146c2c827312ff7fbe721
 product: cursor
 product_name: Cursor
 record:
@@ -79,13 +80,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-collaboration-changes-in-rust-v0-146-0|3 Collaboration changes in rust-v0.146.0]]
-- Later: 2026-08-02 · Cline · [[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop the two bundles of the combined rollout package from invalidating each other's…]]
+- Later: 2026-07-29 · HeyGen · [[Changes/HeyGen/2026-07-29-two-ai-hosts-share-a-real-studio-scene-reacting-to-each-other-rather-than-appear|Two AI hosts share a real studio scene, reacting to each other rather than appearing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

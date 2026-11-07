@@ -4,20 +4,20 @@ date: '2026-10-14'
 description: 'Ollama · 2026-10-14 · Context Window: [NVIDIA Nemotron 3.5 Super](https://ollama.com/library/nemotron-3.5-super)
   is a vision-language model for coding…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1259
+  lag_days: 2583
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0c836f18e2eb23c418f69be6f804c2967c5c644bb527c2369d75cc212cba25e9
+machine_hash: d78dad7214094414c93d2d759005c561506846629a5f7858cd180ee3afc3c0eb
 product: ollama
 product_name: Ollama
 record:
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-02-12 · Image Generation: 2 changes in v0.8.0 
   **Images playground.** Administrators can now test image generation and editing
   directly…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 704
+  lag_days: 962
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52d068f7eb104f0db0e2b790c3caca13dc9c4aac306a48cab5f829482fc5bb84
+machine_hash: e04ff0922bfa8ff115f000a097960c457993427bb76704161041a98f33978fc5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,9 +49,9 @@ record:
   title: 2 Image Generation changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-16-2-image-generation-changes-in-v0-14-3|2 Image Generation
-  changes in v0.14.3]]'
 - '[[Changes/Cursor/2026-01-22-image-generation|Image generation]]'
+- '[[Changes/HeyGen/2026-01-26-smarter-decision-making-small-requests-quick-clips-avatar-tweaks-image-generatio|Smarter
+  decision-making Small requests…]]'
 - '[[Changes/Ollama/2026-02-12-image-generation-models-will-now-respect-the-ollama-load-timeout-variable|Image
   generation models will now respect the OLLAMA_LOAD_TIMEOUT variable]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-12-v0-8-0-github-285910626-490914ba|open-webui-2026-02-12-v0-8-0-github-285910626-490914ba]]'
@@ -111,7 +111,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

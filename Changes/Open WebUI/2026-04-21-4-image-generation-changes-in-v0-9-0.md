@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-04-21 · Image Generation: 4 changes in v0.9.0 
   **ComfyUI request reliability.** ComfyUI image generation and editing now use shared
   async…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 772
+  lag_days: 1030
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5afcb5564df88246cb3c7d0593bddbc702f1fce033360988afc65ee223811c3e
+machine_hash: ef10ecad49338c898b0724435d950fd25436dac8ab79ac3cc7b555ffed83d8b7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -124,7 +124,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

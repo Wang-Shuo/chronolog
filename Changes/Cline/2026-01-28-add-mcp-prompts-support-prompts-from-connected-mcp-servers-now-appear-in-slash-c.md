@@ -4,20 +4,20 @@ date: '2026-01-28'
 description: 'Cline · 2026-01-28 · Apps and Integrations: Add MCP prompts support
   - prompts from connected MCP servers now appear in slash command autocomplete as…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1042
+  lag_days: 2602
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 235c61f5f941b72a977d5c6fa5cae42fbe12fb4734abeaa6ad77c09b1e72d02b
+machine_hash: 22145f15b5db130096aac53862cc9c7eda425cb2e4069090c6c5a7c6c4248440
 product: cline
 product_name: Cline
 record:
@@ -55,12 +55,12 @@ record:
     slash…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-27-changed-the-commit-push-pr-skill-to-automatically-post-pr-urls-to-slack-channels|Changed
-  the /commit-push-pr skill to automatically post PR URLs to Slack channels…]]'
 - '[[Changes/Codex CLI/2026-01-27-refreshed-protocol-mcp-docs-to-reflect-thread-unarchive-and-the-updated-request|Refreshed
   protocol/MCP docs to reflect thread/unarchive and the updated…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-27-2-apps-and-integrations-changes-in-v0-0-396|2
   Apps and Integrations changes in v0.0.396]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-advanced-understanding-for-comments-and-attachments-in-snow-kb-and-azure-devops|Advanced
+  understanding for comments and attachments in SNOW KB and Azure DevOps…]]'
 source_release: '[[Releases/Cline/cline-2026-01-28-v3-55-0-github-280533078-64c27930|cline-2026-01-28-v3-55-0-github-280533078-64c27930]]'
 source_type: github_releases
 theme: apps-integrations
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-2-apps-and-integrations-changes-in-v0-0-396|2 Apps and Integrations changes in v0.0.396]]
+- Earlier: 2026-01-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-27-advanced-understanding-for-comments-and-attachments-in-snow-kb-and-azure-devops|Advanced understanding for comments and attachments in SNOW KB and Azure DevOps…]]
 - Later: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-4-apps-and-integrations-changes-in-v0-26-0|4 Apps and Integrations changes in v0.26.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

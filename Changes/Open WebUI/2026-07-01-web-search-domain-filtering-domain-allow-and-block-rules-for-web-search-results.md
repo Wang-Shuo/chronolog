@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-07-01 · Search and Browsing: \U0001F512 **Web 
   domain filtering.** Domain allow and block rules for web search results are now
   matched against…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1196
+  lag_days: 2225
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 531fe06cbbcc9d86d85c11e2020d2245f4569e3cb095b9274c1f77d33f879572
+machine_hash: 9a543e44ec81d09700265610c3b06c2b8958043c7bd1eca01a741c2203732d6e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,13 +92,13 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-browse-resume-and-switch-between-sessions-from-the-agents-screen|Browse, resume, and switch between sessions from the agents screen]]
-- Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525 core: migrate standalone web search to extension-owned turn items @owenlin0]]
+- Later: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-save-shell-commands-to-input-history-and-recall-them-in-bash-mode-press-up-on-an|Save shell commands to input history and recall them in bash mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

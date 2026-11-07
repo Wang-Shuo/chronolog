@@ -4,20 +4,20 @@ date: '2026-08-20'
 description: 'OpenCode · 2026-08-20 · Pricing Model: 2 changes in v1.18.19 — Core
   Matched Codex rate limits more closely to ChatGPT subscription limits.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1344
+  lag_days: 2962
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 127308f8905ce1c8f9b268b7a4377d5faf3e5afe09f3b96f8aade089fcc1334b
+machine_hash: b3269f60ab2e320e05f38c8b677fa4b06734e11075d4a96084235575babe64e5
 product: opencode
 product_name: OpenCode
 record:
@@ -90,7 +90,7 @@ Source: https://opencode.ai/changelog/v1.18.19
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

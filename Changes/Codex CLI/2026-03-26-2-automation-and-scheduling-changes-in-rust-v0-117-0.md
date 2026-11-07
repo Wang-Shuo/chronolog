@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Codex CLI · 2026-03-26 · Automation and Scheduling: 2 changes in 0.117.0
   — #15357 Fix: proactive auth refresh to reload guarded disk state first @celia-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 814
+  lag_days: 2381
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c05f16c331548072db8a191ae21046e46060fb9a2b08ee6db224bee3fad2e4eb
+machine_hash: dd780c600b8b98d6f63a821cb687073c0cf0a4b72d8646dc620ce54f05f7f71c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.117.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

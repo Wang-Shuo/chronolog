@@ -4,19 +4,20 @@ date: '2026-01-20'
 description: 'OpenCode · 2026-01-20 · Developer Workflow: 2 changes in v1.1.28 — Core
   Terminal no longer hangs on exit or Ctrl+D and closes the pane properly'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1039
+  lag_days: 2688
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f7dd56171f6921402d06091ffb0fca521cee068953b24ca4c273da143d30d462
+machine_hash: f0ee07d5e5c1ae91c29be0039657f9f2f2ae51d7e77a7c4e66c95723996b5a6d
 product: opencode
 product_name: OpenCode
 record:
@@ -92,7 +93,7 @@ Source: https://opencode.ai/changelog/v1.1.28
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

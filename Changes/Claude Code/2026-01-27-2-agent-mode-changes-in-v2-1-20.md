@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ae2e1854eac8a41d41f141210ad166868c20aa89333d51143daaef0c176e3b5
+machine_hash: 0b048874ace3a9095cbd8d6088605ae6d1002c1171ab6ca1e7d0286eb57da599
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,12 @@ record:
   title: 2 Agent Mode changes in v2.1.20
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-26-agents-platform-89c04a|Agents Platform]]'
-- '[[Changes/ElevenLabs/2026-01-26-new-schemas|New Schemas]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-26-load-local-shell-configuration-in-agent-sessions|Load
   local shell configuration in agent sessions]]'
+- '[[Changes/HeyGen/2026-01-26-the-new-and-improved-video-agent|The new and improved
+  Video Agent]]'
+- '[[Changes/HeyGen/2026-01-26-3-agent-mode-changes-in-introducing-our-new-video-agent|3
+  Agent Mode changes in Introducing our new Video Agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.20
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-26-load-local-shell-configuration-in-agent-sessions|Load local shell configuration in agent sessions]]
+- Earlier: 2026-01-26 · HeyGen · [[Changes/HeyGen/2026-01-26-3-agent-mode-changes-in-introducing-our-new-video-agent|3 Agent Mode changes in Introducing our new Video Agent]]
 - Later: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-9818-feat-rebase-multi-agent-tui-on-config-snapshot-jif-oai|♯9818 feat: rebase multi-agent tui on config_snapshot @jif-oai]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-02-25'
 description: 'Gemini CLI · 2026-02-25 · Enterprise and Administration: feat(admin):
   Add admin controls documentation by @skeshive in…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1027
+  lag_days: 2234
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e2cf56c544e96775bbc483ee82623623164d00411a7ee3e3496a0972d21b801
+machine_hash: 8636c14bbd032c82b900f0dc26312ac0d26f592f7ba3eef160fbe401deddf48e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,11 +41,11 @@ record:
   title: 'feat(admin): Add admin controls documentation'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-02-23-admin-controls-for-app-connectors|Admin controls for
-  app connectors]]'
 - '[[Changes/Lovable/2026-02-23-scim-provisioning|SCIM provisioning]]'
 - "[[Changes/Open WebUI/2026-02-23-file-access-control-respect-the-files-list-and-search-endpoints-now-properly-res|\U0001F5C4️
   File access control respect. The files list and search endpoints now properly…]]"
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-out-of-box-filter-support-for-data-sources-in-copilot-search-web-microsoft-365-c|Out-of-box
+  filter support for data sources in Copilot Search…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -87,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-file-access-control-respect-the-files-list-and-search-endpoints-now-properly-res|🗄️ File access control respect. The files list and search endpoints now properly…]]
+- Earlier: 2026-02-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-02-24-out-of-box-filter-support-for-data-sources-in-copilot-search-web-microsoft-365-c|Out-of-box filter support for data sources in Copilot Search…]]
 - Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer, more consistent team and enterprise policy and access controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

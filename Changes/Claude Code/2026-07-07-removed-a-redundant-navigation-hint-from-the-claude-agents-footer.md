@@ -4,20 +4,20 @@ date: '2026-07-07'
 description: 'Claude Code · 2026-07-07 · Interface Experience: Removed a redundant
   navigation hint from the `claude agents` footer'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1275
+  lag_days: 2641
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fdbb895cbac331c43f37d5e5bf6126f95af432a70135b2c0bf19e2d985b28ca6
+machine_hash: ff83e3f8b569de55aca0cb258b0281680caf788b182e2d0188ae696b585f9375
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,10 @@ record:
   title: Removed a redundant navigation hint from the `claude agents` footer
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-01-2-interface-experience-changes-in-v0-10-2|2 Interface
-  Experience changes in v0.10.2]]'
 - '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed
   AskUserQuestion dialogs to no longer auto-continue by default]]'
+- '[[Changes/Kimi Code/2026-07-04-revert-the-recent-tui-transcript-rendering-changes-to-the-original-upstream-beha|Revert
+  the recent TUI transcript rendering changes to the original upstream behavior…]]'
 - '[[Changes/OpenHands/2026-07-06-feat-jira-dc-email-mode-auto-link-targeted-repo-lookup-and-picker-mentions-by-ak|feat(jira-dc):
   email-mode auto-link, targeted repo lookup, and picker mentions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

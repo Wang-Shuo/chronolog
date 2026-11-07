@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ea276d81507b3fb672f113bcc6e3c6a18410494eb1a13ea7e010692a1af5d6f5
+machine_hash: 9cae7462c183825ef69ced58beda2e34d2fee3381829b577a6cb465c36055095
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: Powered by Cloud Agents
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-6-agent-mode-changes-in-rust-v0-154-0|6 Agent Mode
-  changes in rust-v0.154.0]]'
 - '[[Changes/Google Antigravity/2026-09-09-2-agent-mode-changes-in-hub-v2-13-0-introducing-new-documents|2
   Agent Mode changes in HUB v2.13.0 — Introducing new Documents…]]'
+- '[[Changes/Kimi Code/2026-09-09-2-agent-mode-changes-in-kimi-code-0-42-0|2 Agent
+  Mode changes in Kimi Code 0.42.0]]'
 - '[[Changes/Claude Code/2026-09-10-improved-auto-mode-denials-the-message-claude-receives-now-names-the-rule-that-b|Improved
   auto mode denials]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75]]'

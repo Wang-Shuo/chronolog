@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9e8ae565cb86e63b53ad14871430728269cc4000b12e3fd6597f5882061bdb35
+machine_hash: 41d99a13c87bb31f70dde4bf251057d2be9d37cbd61019a5867b0da4174bcbfa
 product: replit
 product_name: Replit
 record:
@@ -50,8 +50,8 @@ record:
   title: Intelligent model routing
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support
-  changes in v1.16.0]]'
+- '[[Changes/Qoder/2026-08-27-frontier-models-smart-routing-qoder-brings-together-leading-models-without-locki|Frontier
+  models, smart routing]]'
 - '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
   changes in v2.1.251]]'
 - '[[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core

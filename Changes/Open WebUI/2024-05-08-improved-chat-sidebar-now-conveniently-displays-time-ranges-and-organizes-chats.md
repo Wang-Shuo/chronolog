@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-05-08 · Interface Experience: **\U0001F5BC️ 
   Chat Sidebar**: Now conveniently displays time ranges and organizes chats by today,
   yesterday…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 485
+  lag_days: 1851
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb9db6d2dbec3b1b14db86b43fcceac5e60c13e4517bb3c8a8afa9d5ade82002
+machine_hash: 7cb9aef44e9840c7c3d13b19c14d2ae0c24f2c678afb936e52ad5f39c4e97466
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +44,12 @@ record:
   title: "**\U0001F5BC️ Improved Chat Sidebar**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-04-24-archived-chat-styling-fixed-styling-issues-in-archived-chat|\U0001F4E6
-  Archived Chat Styling: Fixed styling issues in archived chat]]"
 - "[[Changes/Open WebUI/2024-05-02-scroll-gesture-bug-adjusted-gesture-sensitivity-to-prevent-accidental-activation|\U0001F50D
   Scroll Gesture Bug]]"
 - '[[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K
   Autoselect: We''ve also added automatic selection for Command-K!]]'
+- '[[Changes/Descript/2024-05-07-speaker-labeling-update-coming-soon|Speaker Labeling
+  Update Coming Soon]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-05-08-v0-1-124-github-154822655-636930cc|open-webui-2024-05-08-v0-1-124-github-154822655-636930cc]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-05-03 · Cursor · [[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K Autoselect: We've also added automatic selection for Command-K!]]
+- Earlier: 2024-05-07 · Descript · [[Changes/Descript/2024-05-07-speaker-labeling-update-coming-soon|Speaker Labeling Update Coming Soon]]
 - Later: 2024-05-09 · Dify · [[Changes/Dify/2024-05-09-improve-menu-collapse-readability-by-junice-in-https-github-com-langgenius-dify|improve: menu collapse readability]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-02-02'
 description: 'OpenHands · 2026-02-02 · Safety and Privacy: 2 changes in 1.3.0 - 2026-02-02
   — Added CORS support to Docker sandbox service for remote browser access. Users…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1023
+  lag_days: 2015
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee33289ce20bb02228960b67f8e3556826af567e526197fb8f5acb560746b679
+machine_hash: b3456d1948049ebed0988e989f9a72fe3437ff0515f23b008d6a544bfc10ebd5
 product: openhands
 product_name: OpenHands
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.3.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

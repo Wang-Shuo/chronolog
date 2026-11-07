@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'GitHub Copilot CLI · 2026-06-30 · Files and Data: Match the terminal
   text color to the GitHub theme canvas'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1132
+  lag_days: 2477
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e847aa27154ae37cb86c7f1d4d0feb69c32af5625e3bb1c7381b67a655d41de8
+machine_hash: 07ea5e63b9408c0ab8cc4ffeb5676aa70c38ba27b2ec9c90ae2e360cc86138f8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

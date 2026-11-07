@@ -4,20 +4,20 @@ date: '2026-08-31'
 description: 'OpenClaw · 2026-08-31 · Automation and Scheduling: Automations and Scheduling
   - Scheduled work comes together under one name across the agent, Control UI…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 972
+  lag_days: 2539
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ded454c9f4e152f0fa5f0be2f03c20e16b059379ba8d8a4f2049e9b8b50949cf
+machine_hash: c64ba19ee6846dcc551c9c795c20ec56561c8b9b8c830473e62dd3023deff487
 product: openclaw
 product_name: OpenClaw
 record:
@@ -56,10 +56,10 @@ record:
     across…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-use-x-to-remove-scheduled-every-and-after-prompts-in-schedule-manager|Use
-  x to remove scheduled /every and /after prompts in Schedule Manager]]'
 - '[[Changes/OpenHands/2026-08-27-2-automation-and-scheduling-changes-in-v1-16-0|2
   Automation and Scheduling changes in v1.16.0]]'
+- '[[Changes/Qoder/2026-08-27-act-proactive-qoder-does-more-than-respond-to-instructions-it-proactively-brings|Act
+  Proactive: Qoder does more than respond to instructions]]'
 - '[[Changes/Open WebUI/2026-08-31-3-automation-and-scheduling-changes-in-v0-11-2|3
   Automation and Scheduling changes in v0.11.2]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-08-31-v2026-8-1-8b97785d|openclaw-2026-08-31-v2026-8-1-8b97785d]]'
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

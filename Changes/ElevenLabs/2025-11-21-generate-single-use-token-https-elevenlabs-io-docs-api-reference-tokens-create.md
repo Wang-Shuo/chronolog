@@ -3,20 +3,20 @@ card_id: elevenlabs-2025-11-21-066a77
 date: '2025-11-21'
 description: 'ElevenLabs · 2025-11-21 · Context Window: [Generate single-use token](https://elevenlabs.io/docs/api-reference/tokens/create)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 932
+  lag_days: 2256
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 176052aeae381da0f487b30d81af19503dc2096b2483aaf0e36d0a74bce430ed
+machine_hash: 18293264c3adea5c6fcc82e4e0b088a5d7dcb24f6b4b59db1cf4ce8a7a37d486
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-12-21 · Interface Experience: 8 changes in v0.
   — \U0001FA9F Sidebar width is now resizable on desktop devices with persistent storage
   in…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1077
+  lag_days: 2443
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ef19da8744c0b3e36343fafa0d2e371682d8e563bfacd9ff0f972844706331a
+machine_hash: 31fb5e9d2c1ff6a403f06a5348da849585132c2c4fe1660bdbcde324a5d20248
 product: open-webui
 product_name: Open WebUI
 record:
@@ -145,7 +145,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.42
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

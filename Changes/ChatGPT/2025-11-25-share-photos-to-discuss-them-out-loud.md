@@ -4,19 +4,20 @@ date: '2025-11-25'
 description: 'ChatGPT · 2025-11-25 · Collaboration: Share photos to discuss them out
   loud'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 916
+  lag_days: 2510
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bbac3f2c85ea9f71572457c43f935e4cb8c9b000b372ce3545933df03dd08a73
+machine_hash: 1f9336f3a9d9714573672c6fae4f89584e4a355ead38bdb598039896097fb5e2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +43,9 @@ record:
   title: Share photos to discuss them out loud
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-05-request-access-to-private-projects|Request access
-  to private projects]]'
 - '[[Changes/Cline/2025-11-07-share-provider-information-by-barreirot-in-https-github-com-cline-cline-pull-733|Share
   provider information]]'
+- '[[Changes/Notion/2025-11-14-catch-up-on-comments|Catch up on comments]]'
 - '[[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote
   shared helpers for suite tests (♯6460) — @aibrahim]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

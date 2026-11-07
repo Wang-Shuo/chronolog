@@ -4,19 +4,20 @@ date: '2026-01-13'
 description: 'GitHub Copilot CLI · 2026-01-13 · Developer Workflow: 2 changes in 0.0.380
   — Bash command text aligns with output in timeline events'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1032
+  lag_days: 2681
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 36a913f1ce1d2361f4d58392519ffb9c842ab2265a61d1f50c7b3349a5cdb71c
+machine_hash: 3653dd8bc55f81070988c2fdc4fcac871fc7c16336127e21522b5e35a57ea903
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.380
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

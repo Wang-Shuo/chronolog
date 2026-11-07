@@ -5,19 +5,20 @@ description: 'Gemini CLI · 2025-09-24 · Developer Workflow: 10 changes in Rele
   v0.6.0 — Add functionality to check for git extension updates, as well as support
   for…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 921
+  lag_days: 2570
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a534417df72bad67647aa42ee7bf34b9b538e90516b92702533180c51c84d0fc
+machine_hash: f4c3a66869a7359e926ba3511057b02784a1a48c0b0dbc6ac14669fb70941989
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -130,7 +131,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.6.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

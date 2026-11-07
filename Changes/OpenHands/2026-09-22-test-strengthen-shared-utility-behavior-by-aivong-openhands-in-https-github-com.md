@@ -4,19 +4,20 @@ date: '2026-09-22'
 description: 'OpenHands · 2026-09-22 · Collaboration: test: strengthen shared utility
   behavior by @aivong-openhands in https://github.com/OpenHands/OpenHands/pull/17341'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1217
+  lag_days: 2811
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b2a220572b3d6950019a62b0c0ea42a170fd44cbe22c21295a8e9c78924ee3a
+machine_hash: 543c8ae15e7ca44b9122230521326f449ac2450834ca783aaeff7220c50fabde
 product: openhands
 product_name: OpenHands
 record:
@@ -82,13 +83,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-9-collaboration-changes-in-rust-v0-156-0|9 Collaboration changes in rust-v0.156.0]]
-- Later: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-team-rules|Team rules]]
+- Later: 2026-09-22 · Synthesia · [[Changes/Synthesia/2026-09-22-share-the-base-person-for-an-avatar-with-teammates-or-your-whole-workspace-so-th|Share customizable avatars with your team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

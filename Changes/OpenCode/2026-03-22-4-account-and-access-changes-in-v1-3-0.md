@@ -4,20 +4,21 @@ date: '2026-03-22'
 description: 'OpenCode · 2026-03-22 · Account and Access: 4 changes in v1.3.0 — Important
   Multistep Authentication : TUI and Desktop both support multistep authentication…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1088
+  lag_days: 2063
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 27b4fae35ed364ac2e67e8275a164aa03d7b611c7794466bd6d38840021dfa04
+machine_hash: 35cad38279b70abd9923af7cf9d51e578be9982c4ac001975d433d159b2f5642
 product: opencode
 product_name: OpenCode
 record:
@@ -112,7 +113,7 @@ Source: https://opencode.ai/changelog/v1.3.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

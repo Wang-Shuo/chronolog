@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f851997e17500d16cd551eaee5b6734711e926fe07eabc69d7dcbf797d56c5c4
+machine_hash: 0c419d6303f4ecf03c7d4c63eab13073997c7f06bb1d5219352c6868b6497773
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -151,7 +151,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.27.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-4-agent-mode-changes-in-rust-v0-95-0|4 Agent Mode changes in rust-v0.95.0]]
-- Later: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-core-prioritize-opencode-config-dir-for-agents-md|Core Prioritize OPENCODE_CONFIG_DIR for AGENTS.md]]
+- Later: 2026-02-04 · Notion · [[Changes/Notion/2026-02-04-your-notion-agent-can-now-find-asana-projects-and-tasks-in-seconds-ask-things-li|Search your Asana tasks and projects from Notion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

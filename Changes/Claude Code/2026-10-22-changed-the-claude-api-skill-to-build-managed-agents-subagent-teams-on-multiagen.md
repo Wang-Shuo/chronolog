@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3f8f1b765cc536dd3811252b309b751fd95a61d391ff7b9b147eab691642232
+machine_hash: c28673e993c268c940a1249d5b31f9962d71f15b6473c933026a9fa7e626e416
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Changed the `/claude-api` skill to build Managed Agents subagent teams…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes
-  in v1.29.0]]'
 - '[[Changes/Claude/2026-10-21-claude-duet-research-preview-for-pro-and-max-plans|Claude
   Duet research preview for Pro and Max plans]]'
 - '[[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved
   fork subagents launched together]]'
+- '[[Changes/Kimi Code/2026-10-21-compact-now-queues-while-the-agent-is-busy-instead-of-failing-with-an-error|/compact
+  now queues while the agent is busy instead of failing with an error]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved fork subagents launched together]]
+- Earlier: 2026-10-21 · Kimi Code · [[Changes/Kimi Code/2026-10-21-compact-now-queues-while-the-agent-is-busy-instead-of-failing-with-an-error|/compact now queues while the agent is busy instead of failing with an error]]
 - Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-3-agent-mode-changes-in-v2026-10-6|3 Agent Mode changes in v2026.10.6]]
 <!-- chronolog:end -->
 

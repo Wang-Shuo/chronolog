@@ -5,20 +5,20 @@ description: 'Replit · 2026-08-07 · Safety and Privacy: Agent now checks the f
   it changes for common security issues as part of its code review. This automatic
   Semgrep…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1209
+  lag_days: 2201
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8645ec7b2bdafb9a8c50daf4040deb236fc48a61406a9f85a621c5fb2c5ce2c7
+machine_hash: b7e1de3f3c0fdb5cf15f35587321dae4a5e68486aa84d5f1c4fe5a352f132549
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,9 @@ record:
   title: Security scan while you build
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9
-  Safety and Privacy changes in rust-v0.147.0]]'
 - '[[Changes/Google Antigravity/2026-08-07-steps-waiting-on-your-input-now-show-the-icon-for-the-tool-involved-including-in|Steps
   waiting on your input now show the icon for the tool involved, including…]]'
+- '[[Changes/HeyGen/2026-08-07-why-it-matters-c18403|Why it matters]]'
 - '[[Changes/Lovable/2026-08-07-trust-center-for-your-published-app|Trust Center for
   your published app]]'
 source_release: '[[Releases/Replit/replit-2026-08-07-2026-08-07-d8d80b64|replit-2026-08-07-2026-08-07-d8d80b64]]'
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

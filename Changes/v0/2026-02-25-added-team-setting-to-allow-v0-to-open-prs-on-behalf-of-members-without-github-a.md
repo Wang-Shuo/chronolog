@@ -4,19 +4,20 @@ date: '2026-02-25'
 description: 'v0 · 2026-02-25 · Collaboration: Added team setting to allow v0 to open
   PRs on behalf of members without GitHub accounts'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1008
+  lag_days: 2602
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54b003534af0014c77a52e617bc01aae8ebbd2d34fbdcaf8adafa763f968f71a
+machine_hash: 4c9746ed1f09ddc90b943d4942ca11643e6145ba6b87f1c154c3a0819b90d3a2
 product: v0
 product_name: v0
 record:
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-07-30'
 description: 'OpenCode · 2026-07-30 · Editor Experience: 2 changes in v1.18.10 — Desktop
   Refine tab hover, active, and overflow states.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1234
+  lag_days: 2818
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0244c5ee61fd772ec10ba53778c87511d16720de3ecae145e15bc6c53a22a86f
+machine_hash: b7b5493eec790af4269a99005bb3abc37485a8ab482fc5ad3f994022252b6120
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +42,10 @@ record:
   title: 2 Editor Experience changes in v1.18.10
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-ctrl-g-opens-your-editor-to-edit-ask-user-freeform-answers-without-closing-the-p|Ctrl+G
-  opens your editor to edit ask_user freeform answers without closing the prompt]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-editor-experience-changes-in-v1-0-76|2
   Editor Experience changes in v1.0.76]]'
+- '[[Changes/Kimi Code/2026-07-30-remove-the-blocking-block-timeout-wait-from-the-taskoutput-tool-so-checking-a-ba|Remove
+  the blocking block/timeout wait from the TaskOutput tool so checking…]]'
 - '[[Changes/Lovable/2026-07-30-change-the-owner-of-several-projects-at-once|Change
   the owner of several projects at once]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-30-v1-18-10-d6e57a7d|opencode-2026-07-30-v1-18-10-d6e57a7d]]'
@@ -90,7 +89,7 @@ Source: https://opencode.ai/changelog/v1.18.10
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

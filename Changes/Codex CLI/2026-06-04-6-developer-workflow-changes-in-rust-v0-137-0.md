@@ -5,19 +5,20 @@ description: 'Codex CLI · 2026-06-04 · Developer Workflow: 6 changes in 0.137.
   Slash-command filtering and footer shortcut hints now reset or render according
   to the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1174
+  lag_days: 2823
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af72c139fc847bb322b7a953454533a42d9570928705437356024dc95aaddea2
+machine_hash: 5dd97828458e28ca29b05a57114d434ceb005ede6d51ecf14eda6fcc5189ce78
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,8 +53,8 @@ record:
   title: 6 Developer Workflow changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-02-experimental-new-ui-with-easy-access-to-issues-pull-requests-and-gists|/experimental
-  new UI with easy access to issues, pull requests, and gists]]'
+- '[[Changes/Kimi Code/2026-06-02-3-developer-workflow-changes-in-kimi-code-0-8-0|3
+  Developer Workflow changes in Kimi Code 0.8.0]]'
 - '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools:
   explicitly listing Grep/Glob now provides the dedicated search tools…]]'
 - '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills:
@@ -112,13 +113,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.137.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills: added \$ escape syntax to include a literal $ before a digit in command bodies]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11 Developer Workflow changes in v1.0.60]]
+- Later: 2026-06-04 · Kimi Code · [[Changes/Kimi Code/2026-06-04-3-developer-workflow-changes-in-kimi-code-0-10-0|3 Developer Workflow changes in Kimi Code 0.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

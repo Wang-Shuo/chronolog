@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-05-10 · Interface Experience: 2 changes in v0.
   — \U0001F39B️ **Granular markdown rendering controls.** Users can now independently
   disable Markdown…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1217
+  lag_days: 2583
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bfdc44fb19611481538d0cb7c4ff26666e5d23c68b60dc205083a751a39c29d8
+machine_hash: eb69866c04f66134f6991ece3f7c6539269b2a0c6e352623c09e8e355e8d985b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

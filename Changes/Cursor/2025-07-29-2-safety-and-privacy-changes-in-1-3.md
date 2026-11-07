@@ -4,20 +4,20 @@ date: '2025-07-29'
 description: 'Cursor · 2025-07-29 · Safety and Privacy: 2 changes in Shared terminal
   with Agent, context usage in chat, and faster edits — Improved security by removing…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 835
+  lag_days: 1827
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b8c0171efcd017e7b0901133610b416503a51e5e0ea4a7e98dcd7e49affc4f7
+machine_hash: 1a59c6a340a1265e2e4c3c80328cb975a3c4ec738fce8ee4308c76ad98a38a80
 product: cursor
 product_name: Cursor
 record:
@@ -97,7 +97,7 @@ Source: https://cursor.com/changelog/1-3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

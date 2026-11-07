@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'Suno · 2026-06-04 · Mobile and Desktop: Two new iOS updates for more
   streamlined creation.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1178
+  lag_days: 2762
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 41a6ed5688803419f7d2ea0b2c623ddb65bbc97df8b158ead5a6ef6bf0627a6f
+machine_hash: 5d93463f42dc4cdf8add0ff6ebee4a6f6b06f18fcc776c73c41be3879fcfce0c
 product: suno
 product_name: Suno
 record:
@@ -43,10 +43,10 @@ record:
   title: Two new iOS updates for more streamlined creation
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-2-mobile-and-desktop-changes-in-rust-v0-137-0|2
-  Mobile and Desktop changes in rust-v0.137.0]]'
 - '[[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled
   ripgrep: Local shell runs use the bundled platform rg binary without…]]'
+- '[[Changes/Kimi Code/2026-06-04-2-mobile-and-desktop-changes-in-kimi-code-0-10-0|2
+  Mobile and Desktop changes in Kimi Code 0.10.0]]'
 - '[[Changes/Ollama/2026-06-04-ollama-launch-hermes-desktop-now-launches-hermes-desktop-and-can-skip-rebuilding|ollama
   launch hermes-desktop now launches Hermes Desktop and can skip rebuilding…]]'
 source_release: '[[Releases/Suno/suno-2026-06-04-e-share-from-ios-notes-and-voice-memos-341538e7|suno-2026-06-04-e-share-from-ios-notes-and-voice-memos-341538e7]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

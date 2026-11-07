@@ -4,20 +4,20 @@ date: '2026-07-20'
 description: 'GitHub Copilot CLI · 2026-07-20 · Safety and Privacy: 4 changes in 1.0.72
   — Add opt-in git and gh authentication inside the OS sandbox'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1191
+  lag_days: 2183
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4cd666cccb10e3d77ca514508ce6b8bb1167cfad78d7c2d9a052a219438e2b1
+machine_hash: 6b5fbb9cb9dadc671a893c222bfe31808fa4ed779d9c8fc93795482f303c18e6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -100,13 +100,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.72
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-5-safety-and-privacy-changes-in-v2-1-216|5 Safety and Privacy changes in v2.1.216]]
-- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-fixed-remote-control-sessions-not-showing-a-pending-permission-prompt-or-dialog|Fixed Remote Control sessions not showing a pending permission prompt or dialog…]]
+- Later: 2026-07-20 · Kimi Code · [[Changes/Kimi Code/2026-07-20-correct-the-yolo-and-auto-permission-mode-descriptions-yolo-auto-approves-tool-a|Correct the YOLO and Auto permission mode descriptions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

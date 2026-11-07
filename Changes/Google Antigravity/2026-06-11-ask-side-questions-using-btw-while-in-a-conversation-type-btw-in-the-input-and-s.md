@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-06-11 · Context Window: Ask side quest
   using /btw : While in a conversation, type ‘/btw’ in the input and select the ‘btw’
   option…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1134
+  lag_days: 2458
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 47b1d6e58eb004676e2276416ac338a78bcede88c88af3380b6db54d8dfe35d6
+machine_hash: 634f48ee3631098224588987845d1a9b8434bca9ea5af78de410dff700d69d1f
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -62,10 +62,10 @@ record:
   title: Ask side questions using /btw
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-08-press-cmd-k-to-open-a-new-context-aware-command-palette-and-jump-to-chats-projec|Press
-  Cmd+K to open a new context-aware command palette and jump to chats, projects…]]'
 - '[[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context
   Window changes in rust-v0.139.0]]'
+- '[[Changes/Kimi Code/2026-06-09-2-context-window-changes-in-kimi-code-0-12-0|2 Context
+  Window changes in Kimi Code 0.12.0]]'
 - '[[Changes/OpenCode/2026-06-10-core-sessions-can-recover-once-from-provider-context-overflow-errors-instead-of|Core
   Sessions can recover once from provider context-overflow errors instead…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-06-11-rel-hub-2-1-4-62efd910|google-antigravity-2026-06-11-rel-hub-2-1-4-62efd910]]'
@@ -109,7 +109,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

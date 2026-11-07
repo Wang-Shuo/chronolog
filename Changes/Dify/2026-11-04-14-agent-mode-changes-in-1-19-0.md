@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2072f7e3aa0d32f0a04d2abb8bf38047395119cdbfb5459e1d7c5edaea733f08
+machine_hash: e775b18ff410388cb874573a57614f56845a76fb6d8e3353589c309e87f8ccf1
 product: dify
 product_name: Dify
 record:
@@ -170,7 +170,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0|3 Agent Mode changes in v1.35.0]]
-- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-4-agent-mode-changes-in-v2026-11-1|4 Agent Mode changes in v2026.11.1]]
+- Later: 2026-11-04 · Kimi Code · [[Changes/Kimi Code/2026-11-04-3-agent-mode-changes-in-kimi-code-2-5-0|3 Agent Mode changes in Kimi Code 2.5.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

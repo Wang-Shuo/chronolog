@@ -4,20 +4,19 @@ date: '2025-01-07'
 description: 'Dify · 2025-01-07 · Editor Experience: 2 changes in v0.15.0 — Cleanup
   of unused imports for a leaner codebase. Thanks to @bowenliang123 for lint corrections…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 665
+  lag_days: 2249
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 771c3478496d05cd2b03b81ad6cb414371114a54dc4b7384846edb16b06296c8
+machine_hash: c839228062e5de7b24cc5e06fb71d2cd2a011f14f66282e08b8077f20e93fc61
 product: dify
 product_name: Dify
 record:
@@ -44,12 +43,11 @@ record:
   title: 2 Editor Experience changes in 0.15.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-26-frontend-hyperlink-in-chat-window-should-open-link-in-a-new-tab-by-openhands-age|Frontend
-  Hyperlink in Chat window should open link in a new tab]]'
-- '[[Changes/Cline/2025-01-06-compare-lets-you-see-a-diff-overview-between-the-snapshot-and-the-current-state|Compare
-  lets you see a diff overview between the snapshot and the current state…]]'
-- '[[Changes/Lovable/2025-01-06-edit-with-lovable-badge-enabled-for-all-users|“Edit
-  with Lovable” Badge enabled for all users]]'
+- '[[Changes/Descript/2025-01-07-editor-updates|Editor updates]]'
+- '[[Changes/Descript/2025-01-07-batch-exports-now-available-for-translations|Batch
+  exports now available for Translations]]'
+- '[[Changes/Descript/2025-01-07-with-our-first-update-back-from-the-holidays-we-re-adding-a-new-way-to-export-yo|With
+  our first update back from the holidays, we’re adding a new way to export…]]'
 source_release: '[[Releases/Dify/dify-2025-01-07-0-15-0-github-193455309-4fc86c99|dify-2025-01-07-0-15-0-github-193455309-4fc86c99]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,14 +88,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.15.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-01-06 · Lovable · [[Changes/Lovable/2025-01-06-edit-with-lovable-badge-enabled-for-all-users|“Edit with Lovable” Badge enabled for all users]]
+- Earlier: 2025-01-07 · Descript · [[Changes/Descript/2025-01-07-with-our-first-update-back-from-the-holidays-we-re-adding-a-new-way-to-export-yo|With our first update back from the holidays, we’re adding a new way to export…]]
 - Later: 2025-01-10 · Replit · [[Changes/Replit/2025-01-10-shell-bash-completion|Shell bash completion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fcea4ca73c628fb0256b1c29bdfc30a5d5871952973adc6a0c01e194481bfb43
+machine_hash: 7ad1fdf423fe0b8b3b835751739102fc707c7f733a0cb5c7d9b5646506575a53
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,10 @@ record:
   title: Desktop Model sticks to session after being changed
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-03-05-allow-thinking-levels-such-as-medium-to-correctly-interpreted-in-ollama-s-api-fo|Allow
-  thinking levels such as "medium" to correctly interpreted in Ollama''s API…]]'
 - '[[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added
   GPT-5.4 models for ChatGPT subscription users]]'
+- '[[Changes/Notion/2026-03-06-gpt-5-4-is-now-available-in-notion-s-model-picker-this-is-openai-s-latest-and-mo|GPT-5.4
+  is now in Notion]]'
 - '[[Changes/OpenCode/2026-03-06-add-gpt-5-4-to-codex-allowed-models-list|Add GPT-5.4
   to Codex allowed models list]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-07-v1-2-21-72375855|opencode-2026-03-07-v1-2-21-72375855]]'

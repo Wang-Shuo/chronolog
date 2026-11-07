@@ -4,19 +4,20 @@ date: '2026-06-09'
 description: 'Lovable · 2026-06-09 · Collaboration: Business and Enterprise workspaces
   can now share a project with everyone in the workspace as read-only.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1112
+  lag_days: 2706
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 059d591bf72502678574398b27b56646d29c4ac0aaadae141fa2294343868a5e
+machine_hash: 4f48daf01060e046d99ed111b423f09e4df2d6e2b285a32c5e8b4087eed617a0
 product: lovable
 product_name: Lovable
 record:
@@ -85,13 +86,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-05 · Replit · [[Changes/Replit/2026-06-05-use-stripe-in-collaborative-workspaces|Use Stripe in collaborative workspaces]]
-- Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245 image: add shared data URL preparation utilities @fjord-oai]]
+- Later: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-classic-color-theme|Classic color theme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

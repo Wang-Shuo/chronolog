@@ -4,20 +4,20 @@ date: '2026-04-29'
 description: 'Dify · 2026-04-29 · Context Window: 3 changes in v1.14.0 — **`@langgenius/dify-ui`**
   — shared primitives (for example **PreviewCard**, **Meter**), design…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1091
+  lag_days: 2415
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2328ee4f275b3731a84ac34ae5c1e5295b6e8670c420fed464a64f40ab87c373
+machine_hash: 54cf421c7749e99fd03becae7f9e369a766d0d7e3f11c01b9456a114a0a1afce
 product: dify
 product_name: Dify
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 92a648e574966057adbd46f5e69fa82e79097abc9e4501144c5afd7db5ff542f
+machine_hash: bb20a73b4c79d6bfd50d054d829617544cd1423e657f279ee0ebb5d6cdba7c21
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Agent Mode changes in v2.1.211
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode
-  changes in v2.1.208]]'
 - '[[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode
   changes in v2.1.210]]'
+- '[[Changes/Kimi Code/2026-07-14-4-agent-mode-changes-in-kimi-code-0-24-0|4 Agent
+  Mode changes in Kimi Code 0.24.0]]'
 - '[[Changes/Lovable/2026-07-14-see-images-videos-and-files-the-agent-works-with-in-chat|See
   images, videos, and files the agent works with in chat]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-14 · Lovable · [[Changes/Lovable/2026-07-14-see-images-videos-and-files-the-agent-works-with-in-chat|See images, videos, and files the agent works with in chat]]
-- Later: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-let-ai-assistants-use-your-published-app|Let AI assistants use your published app]]
+- Later: 2026-07-15 · Kimi Code · [[Changes/Kimi Code/2026-07-15-3-agent-mode-changes-in-kimi-code-0-24-2|3 Agent Mode changes in Kimi Code 0.24.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

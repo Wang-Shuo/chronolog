@@ -4,20 +4,19 @@ date: '2026-01-25'
 description: 'OpenCode · 2026-01-25 · Editor Experience: 3 changes in v1.1.35 — Core
   Fix unicode filename handling in snapshot diff by disabling quote escaping'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1048
+  lag_days: 2632
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69c888bae89118452a78e90219ed4d966cf6f30842c3dc4cc21646f5bef5af02
+machine_hash: d10f05c1ffea79406673bc995d3a7e5edc0594857f71aefddfb0ea72e6816e8b
 product: opencode
 product_name: OpenCode
 record:
@@ -104,7 +103,7 @@ Source: https://opencode.ai/changelog/v1.1.35
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

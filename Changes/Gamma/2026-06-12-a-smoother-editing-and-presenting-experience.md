@@ -4,20 +4,19 @@ date: '2026-06-12'
 description: 'Gamma · 2026-06-12 · Editor Experience: Nine fixes across the editor
   and presenter view are live. Callout colors are correct in dark mode again, copy/paste…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1186
+  lag_days: 2770
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fdb09290288b3474859458e25d6e6b9c1ffcac3abbdb041b4df6d4aa3cf3b53e
+machine_hash: 5fcf249f7a610e9b7180cf0a9d763af6bc4077c2660a75f27ccd69604263653d
 product: gamma
 product_name: Gamma
 record:
@@ -60,10 +59,8 @@ record:
   title: A smoother editing and presenting experience
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-06-10-removed-app-tab-from-conversation-by-neubig-in-https-github-com-openhands-openha|Removed
-  App tab from conversation]]'
-- '[[Changes/Windsurf/2026-06-10-the-3-1-series-builds-on-the-devin-desktop-rebrand-with-a-smoother-agent-editor|The
-  3.1 series builds on the Devin Desktop rebrand with a smoother Agent/Editor…]]'
+- '[[Changes/Descript/2026-06-11-how-to-find-it-81f3a4|How to find it]]'
+- '[[Changes/Descript/2026-06-11-editor|Editor]]'
 - '[[Changes/Gamma/2026-06-12-the-editor-got-a-reliability-sweep|The editor got a
   reliability sweep]]'
 source_release: '[[Releases/Gamma/gamma-2026-06-12-6a2c5b290b6832df92986227-3446f559|gamma-2026-06-12-6a2c5b290b6832df92986227-3446f559]]'
@@ -97,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-10 · Windsurf · [[Changes/Windsurf/2026-06-10-the-3-1-series-builds-on-the-devin-desktop-rebrand-with-a-smoother-agent-editor|The 3.1 series builds on the Devin Desktop rebrand with a smoother Agent/Editor…]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-2-editor-experience-changes-in-v1-0-62|2 Editor Experience changes in v1.0.62]]
+- Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-editor|Editor]]
+- Later: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-find-slash-commands-by-their-aliases-in-autocomplete-typing-clear-now-suggests-n|Find slash commands by their aliases in autocomplete]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

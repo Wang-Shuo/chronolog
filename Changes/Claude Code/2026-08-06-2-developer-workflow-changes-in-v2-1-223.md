@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-08-06 · Developer Workflow: 2 changes in v2.1
   — Changed `/review` to be an alias of `/code-review`, which reviews the current
   diff or a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1237
+  lag_days: 2886
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 781419c9f71ad9a5cfb35bbcbd050fbb51e3a27041102f829c56bf7bb1c13b04
+machine_hash: 41726e0781e9ead835901beb6739959b9a63eb23ef7052ae4a0a744e6d96d4ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +46,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.223
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-04-terminal-github-pull-request-reviews-now-include-the-pull-request-number-and-url|Terminal
-  GitHub pull request reviews now include the pull request number and URL…]]'
 - '[[Changes/Cline/2026-08-05-2-developer-workflow-changes-in-v4-1-4|2 Developer Workflow
   changes in v4.1.4]]'
+- '[[Changes/Kimi Code/2026-08-05-add-bug-as-an-alias-for-the-feedback-slash-command-type-bug-to-submit-feedback|Add
+  /bug as an alias for the /feedback slash command]]'
 - '[[Changes/OpenCode/2026-08-05-core-logged-remote-workspace-5xx-response-bodies-in-the-host-logs-to-make-proxy|Core
   Logged remote workspace 5xx response bodies in the host logs to make proxy…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
@@ -93,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

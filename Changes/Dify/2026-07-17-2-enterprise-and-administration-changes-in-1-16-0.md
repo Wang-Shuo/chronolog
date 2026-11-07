@@ -5,20 +5,20 @@ description: 'Dify · 2026-07-17 · Enterprise and Administration: 2 changes in 
   — feat(enterprise): enforce licensed seats cap at account creation by @zhangx1n
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1169
+  lag_days: 2376
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ebec3c1c99f12fdea5f47904427c017cb48c9b5aa76c7922abdd32b092af49a
+machine_hash: a46e03ac54cef03a736751d4ddc5a0d1650b5ff3b60f1fbdbfe616402fd21621
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Enterprise and Administration changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-14-emails-and-confirmations-for-workspace-role-and-membership-changes|Emails
-  and confirmations for workspace role and membership changes]]'
 - '[[Changes/Lovable/2026-07-14-the-lovable-badge-returns-on-your-next-publish-after-a-downgrade|The
   Lovable badge returns on your next publish after a downgrade]]'
 - '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
   /usage-credits to ask for confirmation before sending a request…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-admins-can-manage-access-more-precisely-with-support-for-nested-permissions-in-c|Admins
+  can manage access more precisely with support for nested permissions…]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -101,14 +101,14 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed /usage-credits to ask for confirmation before sending a request…]]
+- Earlier: 2026-07-15 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-15-admins-can-manage-access-more-precisely-with-support-for-nested-permissions-in-c|Admins can manage access more precisely with support for nested permissions…]]
 - Later: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-enterprise-managed-users-are-surfaced-in-the-web-ui-and-their-profiles-are-alway|Enterprise Managed Users are surfaced in the web UI, and their profiles are always private]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

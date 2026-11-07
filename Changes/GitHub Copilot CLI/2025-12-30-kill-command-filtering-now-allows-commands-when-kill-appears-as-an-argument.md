@@ -4,19 +4,20 @@ date: '2025-12-30'
 description: 'GitHub Copilot CLI · 2025-12-30 · Developer Workflow: Kill command filtering
   now allows commands when ''kill'' appears as an argument'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1018
+  lag_days: 2667
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bc6f7ac10dc205786f0a739e9546951e1f27fdce9a1db1992aa9983dac720b0d
+machine_hash: 97f73b0357116332d11f0e60669e082a85753c8d17f126743b14cfe36ab600b9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

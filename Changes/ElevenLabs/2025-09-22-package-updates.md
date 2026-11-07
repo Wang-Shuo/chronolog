@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6d8cc1283ecec8acc76a03cba70c92753a2b7bad173c7f9b743e1d23df0a96d9
+machine_hash: 99f5decadd6edb14d4c82ca6be80aa2cd57c2672d6e66a2e551a6337b712574e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -54,8 +54,8 @@ record:
   title: Package Updates
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-18-2-agent-mode-changes-in-rust-v0-39-0|2 Agent Mode
-  changes in rust-v0.39.0]]'
+- '[[Changes/Notion/2025-09-18-notion-3-0-is-here-we-ve-rebuilt-notion-ai-from-the-ground-up-as-agents|Notion
+  3.0 is here! We’ve rebuilt Notion AI from the ground up as Agents]]'
 - '[[Changes/Replit/2025-09-19-autonomy-level-control-for-agent|Autonomy level control
   for Agent]]'
 - '[[Changes/ElevenLabs/2025-09-22-agents-platform|Agents Platform]]'

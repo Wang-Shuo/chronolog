@@ -4,20 +4,20 @@ date: '2026-06-29'
 description: 'Lovable · 2026-06-29 · Mobile and Desktop: On the [Lovable mobile app](https://docs.lovable.dev/integrations/lovable-mobile-app.md),
   attaching an image to a…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1203
+  lag_days: 2787
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 01581e392ca4bd8029790b9833f62276d945674d75376ed41652a69c6d96d54e
+machine_hash: 977b5fd81374fc98ceef887b3b11c48449134da7fb498cd21715969d9eb0233b
 product: lovable
 product_name: Lovable
 record:
@@ -46,10 +46,10 @@ record:
   title: Fewer taps to attach images on mobile
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved
-  background session reliability]]'
 - '[[Changes/ElevenLabs/2026-06-29-ios-sdk|iOS SDK]]'
 - '[[Changes/ElevenLabs/2026-06-29-android-sdk|Android SDK]]'
+- '[[Changes/Kimi Code/2026-06-29-in-the-bundled-web-ui-new-and-clear-are-now-aliases-that-open-the-session-onboar|In
+  the bundled web UI, /new and /clear are now aliases that open the session…]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-29-2026-06-29-7be10e9c|lovable-2026-06-29-2026-06-29-7be10e9c]]'
 source_type: lovable_changelog
 theme: mobile-desktop
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-29 · ElevenLabs · [[Changes/ElevenLabs/2026-06-29-android-sdk|Android SDK]]
+- Earlier: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-in-the-bundled-web-ui-new-and-clear-are-now-aliases-that-open-the-session-onboar|In the bundled web UI, /new and /clear are now aliases that open the session…]]
 - Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-4-mobile-and-desktop-changes-in-v0-10-0|4 Mobile and Desktop changes in v0.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

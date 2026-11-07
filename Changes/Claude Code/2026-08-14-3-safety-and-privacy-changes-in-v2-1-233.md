@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-14 · Safety and Privacy: 3 changes in v2.1
   — Fixed cloud sessions occasionally being marked as lost when the environment shut
   down…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1216
+  lag_days: 2208
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d135f4abe1adf77ecf3665e5cb07a40a88b91b2429c6c072333bc8188fc38db
+machine_hash: f1b9efc6e336a023d13a348821d19545ba28398b053c2abc74c72f82c0768e91
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Safety and Privacy changes in v2.1.233
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-improved-sandbox-ipv6-literals-in-network-domain-lists-are-now-bracketed-1-443-a|Improved
-  sandbox: IPv6 literals in network domain lists are now bracketed…]]'
 - '[[Changes/Claude Code/2026-08-13-9-safety-and-privacy-changes-in-v2-1-232|9 Safety
   and Privacy changes in v2.1.232]]'
 - '[[Changes/Cline/2026-08-13-fix-the-claude-code-provider-being-unusable-for-agentic-work-it-now-runs-its-own|Fix
   the Claude Code provider being unusable for agentic work]]'
+- '[[Changes/Kimi Code/2026-08-13-show-project-mcp-launch-targets-in-the-workspace-trust-prompt-default-to-declini|Show
+  project MCP launch targets in the workspace trust prompt, default to declining…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: safety-privacy
@@ -97,14 +97,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.233
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-13 · Cline · [[Changes/Cline/2026-08-13-fix-the-claude-code-provider-being-unusable-for-agentic-work-it-now-runs-its-own|Fix the Claude Code provider being unusable for agentic work]]
+- Earlier: 2026-08-13 · Kimi Code · [[Changes/Kimi Code/2026-08-13-show-project-mcp-launch-targets-in-the-workspace-trust-prompt-default-to-declini|Show project MCP launch targets in the workspace trust prompt, default to declining…]]
 - Later: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-reclaim-idle-plugin-sandbox-processes-instead-of-leaving-them-running-for-the-li|Reclaim idle plugin sandbox processes instead of leaving them running for the life…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

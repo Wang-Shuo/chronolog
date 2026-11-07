@@ -4,20 +4,21 @@ date: '2026-06-05'
 description: 'GitHub Copilot CLI · 2026-06-05 · Account and Access: MCP OAuth re-authentication
   no longer fails with an address-in-use error when a login is already in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1163
+  lag_days: 2138
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 491b6bf1cc6903d4a01926c8dd0b26516a4450a4a7676fbfc89c8abc0fe6d8e1
+machine_hash: e086f95d13b383867cee21c315d8bcc32b7e31d658d704b592911260e83dc505
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +54,12 @@ record:
   title: MCP OAuth re-authentication no longer fails with an address-in-use error…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|Log
-  out of individual sessions or all sessions from Active sessions]]'
-- '[[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added
-  a prompt before writing to shell startup files…]]'
 - '[[Changes/Google Antigravity/2026-06-02-enterprise-authentication-fix|Enterprise
   Authentication Fix]]'
+- '[[Changes/Kimi Code/2026-06-02-clarify-kimi-platform-api-key-login-labels-and-prompt-details|Clarify
+  Kimi Platform API key login labels and prompt details]]'
+- '[[Changes/Kimi Code/2026-06-04-keep-managed-oauth-credentials-scoped-to-their-configured-authentication-and-api|Keep
+  managed OAuth credentials scoped to their configured authentication and API endpoints]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
 source_type: github_releases
 theme: account-access
@@ -99,14 +100,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-02 · Google Antigravity · [[Changes/Google Antigravity/2026-06-02-enterprise-authentication-fix|Enterprise Authentication Fix]]
+- Earlier: 2026-06-04 · Kimi Code · [[Changes/Kimi Code/2026-06-04-keep-managed-oauth-credentials-scoped-to-their-configured-authentication-and-api|Keep managed OAuth credentials scoped to their configured authentication and API endpoints]]
 - Later: 2026-06-06 · Windsurf · [[Changes/Windsurf/2026-06-06-increased-proxy-authentication-timeout|Increased proxy authentication timeout]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

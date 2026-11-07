@@ -4,20 +4,19 @@ date: '2026-04-07'
 description: 'GitHub Copilot CLI · 2026-04-07 · Editor Experience: Timeline no longer
   goes blank when content shrinks (e.g., after cancelling or tool completion)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1120
+  lag_days: 2704
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3db3f158c3e8531a562030af68c0d5d18078fd08fb8dce854da2815ace7826e2
+machine_hash: 2c3352d6030588a876b8d209d94b5d72dd37b8e14b16306e50fcd1da82d45637
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,13 +81,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-add-copilot-help-monitoring-topic-with-opentelemetry-configuration-details-and-e|Add copilot help monitoring topic with OpenTelemetry configuration details and examples]]
-- Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-4-editor-experience-changes-in-v2-1-97|4 Editor Experience changes in v2.1.97]]
+- Later: 2026-04-07 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-07-copilot-adoption-report-updated-with-streamlined-ux-and-power-user-insights-web|Copilot adoption report updated with streamlined UX and power user insights…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,19 @@ description: 'Windsurf · 2026-10-28 · Editor Experience: In Devin Local, some 
   requests, such as web fetches and multi-file edits, now consistently show Allow
   and Reject…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1324
+  lag_days: 2908
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ccba42c38778bd28ba7032f9d9eb9e6d6e063a6f5eb7675d94d1f0e3b53ce92
+machine_hash: caf1eb73d00530ddbddef114bf866f34ca7d3017f79aacb1851ea74f76116641
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,8 +45,8 @@ record:
     now…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-27-2-editor-experience-changes-in-hub-v2-28-0-built-in-browser|2
-  Editor Experience changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-rich-entity-representation-for-connectors-in-search-results-web-microsoft-365-co|Rich
+  entity representation for connectors in Search results…]]'
 - '[[Changes/OpenClaw/2026-10-27-the-control-ui-now-reconnects-when-a-visible-tab-has-lost-contact-but-still-show|The
   Control UI now reconnects when a visible tab has lost contact but still shows…]]'
 - '[[Changes/OpenCode/2026-10-27-5-editor-experience-changes-in-v2-2-0|5 Editor Experience
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-05-20 · Context Window: Customizable s
   line in the terminal footer displays session info such as model, context window,
   git…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1112
+  lag_days: 2436
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bb71ecf9ffcef81cdcfa124f28f7e9f448be41120291716a55a9a1fd15b9cd81
+machine_hash: fe9657a1a4d86d776e8970435415c96f1649a5ee2171db1860ade235efffde33
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -65,12 +65,12 @@ record:
     as model…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-improved-the-read-tool-to-return-a-truncated-first-page-with-a-partial-view-noti|Improved
-  the Read tool to return a truncated first page with a "PARTIAL view" notice…]]'
 - '[[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The
   post-survey follow-up hint now appears after every non-dismiss survey response…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-document-attachment-paths-are-included-in-context-so-the-agent-can-reference-pas|Document
   attachment paths are included in context so the agent can reference pasted…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-implicit-grounding-in-outlook-microsoft-365-copilot-chat-windows-web-microsoft-3|Implicit
+  Grounding in Outlook Microsoft 365 Copilot Chat Windows…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1|github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1]]'
 source_type: github_releases
 theme: context-window
@@ -110,14 +110,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-document-attachment-paths-are-included-in-context-so-the-agent-can-reference-pas|Document attachment paths are included in context so the agent can reference pasted…]]
+- Earlier: 2026-05-19 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-19-implicit-grounding-in-outlook-microsoft-365-copilot-chat-windows-web-microsoft-3|Implicit Grounding in Outlook Microsoft 365 Copilot Chat Windows…]]
 - Later: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-core-zed-editor-context-now-only-activates-inside-zed-terminals|Core Zed editor context now only activates inside Zed terminals]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

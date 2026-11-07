@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51a8d11c2fd34b95fc2ab2b71dd4591fd8b6027b067fe1cbedd37705664ef2f7
+machine_hash: a6c3247f35aedd91f5a172093864fa3c3f641f0d0d41de85a2d0f1c32d7fba52
 product: open-webui
 product_name: Open WebUI
 record:
@@ -74,10 +74,10 @@ record:
   title: 7 Model Support changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-add-configurable-prompt-cache-ttls-per-provider-model|Add
-  configurable prompt cache TTLs per provider/model]]'
 - '[[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings):
   use existing model-profile theme aliases]]'
+- '[[Changes/Kimi Code/2026-10-28-add-provider-refresh-providerid-to-re-fetch-provider-model-lists-at-runtime|Add
+  /provider refresh providerId to re-fetch provider model lists at runtime]]'
 - '[[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model
   Support changes in rust-v0.166.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'

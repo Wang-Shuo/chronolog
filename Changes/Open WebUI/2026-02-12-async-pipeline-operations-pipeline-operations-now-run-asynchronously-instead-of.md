@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-02-12 · Automation and Scheduling: \U0001F527 
   pipeline operations.** Pipeline operations now run asynchronously instead of blocking
   the…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 772
+  lag_days: 2339
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 087871b8652d284ffa5cfaef13cf897aba0b438fa38300811f5aac360e951d35
+machine_hash: ec2d7b806491ab0e4eb8ee3c53afbff7db05f8fa0b0402c724868287636880a5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -103,13 +103,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core SessionPrompt.shell() now triggers loop if messages are queued]]
-- Later: 2026-02-25 · Claude · [[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork|Scheduled tasks in Cowork]]
+- Later: 2026-02-24 · Notion · [[Changes/Notion/2026-02-24-first-they-re-completely-autonomous-no-manual-prompting-just-give-them-a-job-set|First, they’re completely autonomous (no manual prompting)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

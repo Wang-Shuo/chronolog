@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-10-15 · Pricing Model: The Rosalind Academic Plan
   eligible academic labs use ChatGPT for life sciences research. Approved labs can
   receive…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1400
+  lag_days: 3018
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: a06a9e8b8a16dd17de014fa696641a068fb2e4912724b85c688d78dca19cac70
+machine_hash: f46ce03ceef2ff9f8faf4d5c421f4ee67a239209a764c6e31f95671514713fb9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,7 @@ record:
   title: The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show
-  billed AI Credits in /usage for token-billed sessions, including after resume]]'
+- '[[Changes/HeyGen/2026-10-14-build-with-the-api|Build with the API]]'
 - '[[Changes/Lovable/2026-10-14-ask-lovable-what-drives-your-run-credit-usage|Ask
   Lovable what drives your run credit usage]]'
 - '[[Changes/Lovable/2026-10-14-restore-a-deleted-workspace-yourself|Restore a deleted
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

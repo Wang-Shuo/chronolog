@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'OpenClaw · 2026-06-30 · Reliability and Performance: 4 changes in v2026.6.11
   — Codex runs now follow the current fast-mode choice instead of carrying over an…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1293
+  lag_days: 2780
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee0613af966d3904426dd43822029a4ce1e9627773d77321aa93f0f345285ed4
+machine_hash: ff0ae3bbe73dfa616abdf16a0d70e9c0c0de1695228487125c2b60aca663d62b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -118,13 +118,13 @@ Source: https://docs.openclaw.ai/releases/2026.6.11
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-30 · Ollama · [[Changes/Ollama/2026-06-30-2-reliability-and-performance-changes-in-v0-31-1|2 Reliability and Performance changes in v0.31.1]]
-- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
+- Later: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated survey insights with Copilot Highlights Web (Viva Glint)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

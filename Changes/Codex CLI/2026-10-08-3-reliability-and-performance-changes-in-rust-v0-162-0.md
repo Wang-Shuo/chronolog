@@ -4,20 +4,20 @@ date: '2026-10-08'
 description: 'Codex CLI · 2026-10-08 · Reliability and Performance: 3 changes in 0.162.0
   — Navigate and copy transcript blocks with `/copy`, use `Ctrl+Insert` to copy…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1393
+  lag_days: 2880
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04e5d9004f8f3be1a8565c2ea56e098e8e031d93c81d9937be9c2e343189036d
+machine_hash: 468e8631ae70706c82ea78bcde23b3177eb84711d4aec83b29ad9c9bd12f84e3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.162.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

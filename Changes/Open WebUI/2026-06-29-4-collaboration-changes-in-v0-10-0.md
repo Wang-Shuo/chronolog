@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-06-29 · Collaboration: 4 changes in v0.10.0 �
   **Unshare all shared chats at once.** The Shared Chats dialog now has a button to
   stop…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1132
+  lag_days: 2726
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a31810b730a6f180045ffd811b851fc0b2dad2a026085c088f0282665b2df0ab
+machine_hash: 54d21b0a164918999aaaac463f92330483e2ae895defa2b72560fde4e08fcc7e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,12 +54,12 @@ record:
   title: 4 Collaboration changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-simplify-provider-settings-ui-by-replacing-many-provider-specific-views-with-sha|Simplify
-  provider settings UI by replacing many provider-specific views with shared…]]'
 - '[[Changes/Lovable/2026-06-26-comments-in-shared-app-previews|Comments in shared
   app previews]]'
 - '[[Changes/v0/2026-06-26-snowflake-gets-fewer-first-deploy-failures-creates-a-missing-snowflake-yml-for-y|Snowflake
   gets fewer first deploy failures, creates a missing snowflake.yml for you…]]'
+- '[[Changes/Kimi Code/2026-06-29-scope-the-web-composer-s-up-down-input-history-to-the-current-session-instead-of|Scope
+  the web composer''s up/down input history to the current session instead…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
 source_type: github_releases
 theme: collaboration
@@ -115,14 +116,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-snowflake-gets-fewer-first-deploy-failures-creates-a-missing-snowflake-yml-for-y|Snowflake gets fewer first deploy failures, creates a missing snowflake.yml for you…]]
+- Earlier: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-scope-the-web-composer-s-up-down-input-history-to-the-current-session-instead-of|Scope the web composer's up/down input history to the current session instead…]]
 - Later: 2026-06-30 · Cursor · [[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in team marketplaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

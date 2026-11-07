@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb6ec95e0873373ecc6c47af54bd94e79bdfa9edf196f4ade660aeaba63b95a8
+machine_hash: fe218ec3dbf65931e3c86876048fd27981d616c74ccf8eb11f63cbb8beb8c38a
 product: openhands
 product_name: OpenHands
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.16.0
 ## Nearby in Model Support
 
 - Earlier: 2026-08-27 · Ollama · [[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The Claude Desktop proxy no longer interrupts in-flight requests when the model…]]
-- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support changes in v2.1.251]]
+- Later: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-added-original-and-discounted-usage-multipliers-to-the-model-menu|Added original and discounted usage multipliers to the model menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,19 @@ date: '2026-05-28'
 description: 'Codex CLI · 2026-05-28 · Editor Experience: Slash-command completion
   now preserves existing draft text for commands that accept inline arguments. (#23950)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1171
+  lag_days: 2755
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36efa5908630db4532bbc2e17b2cd3a32688c11afbdb715a9667ef582058d5fb
+machine_hash: a521604098d62c00d798ecb42b29dfc4466505542ce85cd54287f8028bb7267e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +42,10 @@ record:
     accept…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-automatically-prune-old-process-log-files-from-copilot-logs-at-startup-to-preven|Automatically
-  prune old process log files from ~/.copilot/logs/ at startup…]]'
 - '[[Changes/Cline/2026-05-25-update-diff-and-protobufjs-dependencies|Update diff
   and protobufjs dependencies]]'
+- '[[Changes/Kimi Code/2026-05-26-avoid-overly-small-local-completion-caps-that-can-truncate-reasoning-before-summ|Avoid
+  overly small local completion caps that can truncate reasoning before…]]'
 - '[[Changes/Claude Code/2026-05-28-remote-control-autocomplete-now-shows-disconnect-remote-control-when-remote-cont|/remote-control
   autocomplete now shows "Disconnect Remote Control" when Remote…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-28-rust-v0-135-0-github-331012967-2f52956b|codex-cli-2026-05-28-rust-v0-135-0-github-331012967-2f52956b]]'
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

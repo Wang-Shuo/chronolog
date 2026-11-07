@@ -4,20 +4,19 @@ date: '2024-10-09'
 description: 'Cline · 2024-10-09 · Editor Experience: **No more staring at loading
   spinners:** Responses are now streamed into the editor + a yellow text decoration…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 575
+  lag_days: 2159
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3a833837f8172f305b33a9b490bbdbf4f377beff34505671739ada746e74dda
+machine_hash: 92fbf05df5a65f457ea2eee567f63cb41733a05e98b4aa14ff959f4c6558c284
 product: cline
 product_name: Cline
 record:
@@ -47,12 +46,11 @@ record:
     the editor…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-19-enhanced-error-messaging-system-now-displays-helpful-error-messages-directly-to|\U0001F9E0
-  Enhanced Error Messaging]]"
 - "[[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|\U0001F3F7️
   Chat Rename Tab Update]]"
 - '[[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience
   changes in v0.58.0]]'
+- '[[Changes/Descript/2024-10-08-editor-updates|Editor Updates]]'
 source_release: '[[Releases/Cline/cline-2024-10-09-v2-0-0-github-179063623-cccde13e|cline-2024-10-09-v2-0-0-github-179063623-cccde13e]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience changes in v0.58.0]]
+- Earlier: 2024-10-08 · Descript · [[Changes/Descript/2024-10-08-editor-updates|Editor Updates]]
 - Later: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS Code 1.93.1: Cursor is now based on VS Code 1.93.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-04-26'
 description: 'Ollama · 2025-04-26 · Multimodal Input: Add support for Meta''s [Llama
   4](https://ollama.com/library/llama4) multimodal models'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 585
+  lag_days: 2353
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dabbb4814eefc39d111278f6419174c05f78c04dbe82ed2bd123d1ee3f14b658
+machine_hash: 4f8fe13ec4bae1e37f45d29b5770e64c65352d5edfc5336c06ae44edf556bb46
 product: ollama
 product_name: Ollama
 record:
@@ -54,12 +54,11 @@ record:
     models
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-16-feat-add-grok-2-1212-and-grok-2-vision-1212-by-hjlarry-in-https-github-com-langg|feat:
-  add grok-2-1212 and grok-2-vision-1212]]'
-- '[[Changes/Midjourney/2025-02-20-we-ve-added-a-new-folder-and-organization-system-to-the-website-check-out-the-vi|Midjourney
-  adds a new folder and organization system to the website]]'
-- '[[Changes/Replit/2025-03-28-deeplearningai-course-launch|DeepLearningAI course
-  launch]]'
+- '[[Changes/Descript/2025-04-08-new-in-elements-placeholder-layers|New in Elements—placeholder
+  layers]]'
+- '[[Changes/Descript/2025-04-22-import-from-youtube-is-back|Import from YouTube is
+  back]]'
+- '[[Changes/Descript/2025-04-22-avatars|Avatars]]'
 source_release: '[[Releases/Ollama/ollama-2025-04-26-v0-6-7-github-214934730-f82e5c91|ollama-2025-04-26-v0-6-7-github-214934730-f82e5c91]]'
 source_type: github_releases
 theme: multimodal
@@ -90,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-03-28 · Replit · [[Changes/Replit/2025-03-28-deeplearningai-course-launch|DeepLearningAI course launch]]
-- Later: 2025-05-13 · Ollama · [[Changes/Ollama/2025-05-13-2-multimodal-input-changes-in-v0-7-0|2 Multimodal Input changes in v0.7.0]]
+- Earlier: 2025-04-22 · Descript · [[Changes/Descript/2025-04-22-avatars|Avatars]]
+- Later: 2025-05-06 · Descript · [[Changes/Descript/2025-05-06-new-in-home-ai-video-maker|New in Home—AI video maker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

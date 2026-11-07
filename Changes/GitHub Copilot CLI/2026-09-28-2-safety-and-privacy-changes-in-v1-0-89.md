@@ -4,20 +4,20 @@ date: '2026-09-28'
 description: 'GitHub Copilot CLI · 2026-09-28 · Safety and Privacy: 2 changes in 1.0.89
   — Agent shell commands in sandbox can access session files and logs'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1261
+  lag_days: 2253
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9deef1e32a90a4ad62c46f9b900706bf2241c42f0ddbd6cbd8ed338f7bbeab5c
+machine_hash: e5cb617bf87f58ee9bb590a8df7953d160ad0c407bbb865d7346aee0742f3ba8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.89
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

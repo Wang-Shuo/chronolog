@@ -4,20 +4,20 @@ date: '2025-04-23'
 description: 'OpenHands · 2025-04-23 · Mobile and Desktop: Addressed failure of Docker
   containers to start on Windows by @happyherp in…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 771
+  lag_days: 2355
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b71827d7278b9e8dbeb1f4b207400a8dc1bd03199b9c254ccb3c9076b8b96db9
+machine_hash: 7bc225d542cc3a3c7c3a59faa26f934b70cb290b4ff71aca19b171fdbe0be871
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: Addressed failure of Docker containers to start on Windows
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-24-inputs-on-ios-devices-squashed-bugs-causing-errors-when-passing-inputs-on-ios-by|Inputs
-  on iOS Devices]]'
 - '[[Changes/ElevenLabs/2025-03-24-core-app-signup-added-signup-endpoints-for-the-new-core-mobile-app|Core
   app signup: Added signup endpoints for the new Core mobile app]]'
 - '[[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX
   Improvements: Whether it’s fixing layout issues on mobile…]]'
+- '[[Changes/Descript/2025-04-10-updates-desktop-app-to-support-configuration-change|Updates
+  desktop app to support configuration change]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-23-0-34-0-github-214259369-f2d174a1|openhands-2025-04-23-0-34-0-github-214259369-f2d174a1]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX Improvements: Whether it’s fixing layout issues on mobile…]]
+- Earlier: 2025-04-10 · Descript · [[Changes/Descript/2025-04-10-updates-desktop-app-to-support-configuration-change|Updates desktop app to support configuration change]]
 - Later: 2025-04-29 · Windsurf · [[Changes/Windsurf/2025-04-29-reduced-errors-for-edit-tool-calls-for-windows|Reduced errors for edit tool calls for Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

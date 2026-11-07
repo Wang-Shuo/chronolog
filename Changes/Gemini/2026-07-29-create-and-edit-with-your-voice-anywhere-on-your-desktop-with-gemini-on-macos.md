@@ -5,20 +5,20 @@ description: 'Gemini · 2026-07-29 · Voice and Audio: What: We’re introducing
   way to work with Gemini using just your voice, right where you are. Press and hold
   the Fn…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1115
+  lag_days: 2942
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2efb848794eb8ad2337dced68b557283750438e42d67516dab93ec03d8e39946
+machine_hash: 2b68297f387774dc541c2262d33940ada56ad89495c440a1d5b2ed61dbb52235
 product: gemini
 product_name: Gemini
 record:
@@ -99,13 +99,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-returned-400-instead-of-500-when-file-field-is-missing-from-audio-to-text-endpoi|Returned 400 instead of 500 when file field is missing from audio-to-text…]]
-- Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice mode pauses playing media before recording and resumes it afterward, where…]]
+- Later: 2026-07-29 · HeyGen · [[Changes/HeyGen/2026-07-29-full-script-editing-before-render-edit-any-line-and-the-voice-updates-automatica|Full script editing before render: Edit any line and the voice updates automatically]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

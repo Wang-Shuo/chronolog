@@ -4,20 +4,21 @@ date: '2026-06-02'
 description: 'Google Antigravity · 2026-06-02 · Account and Access: Enterprise Authentication
   Fix'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1160
+  lag_days: 2135
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: dad39550dbf3dd01783ad4027f7ba6d993ccb5b1734d8f5028386fcdcbbc3356
+machine_hash: 2c70d82220b2b6db26e108779b85467db3ac34e54d92577c6bb975b6f90db718
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -74,13 +75,13 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added a prompt before writing to shell startup files…]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-mcp-oauth-re-authentication-no-longer-fails-with-an-address-in-use-error-when-a|MCP OAuth re-authentication no longer fails with an address-in-use error…]]
+- Later: 2026-06-02 · Kimi Code · [[Changes/Kimi Code/2026-06-02-clarify-kimi-platform-api-key-login-labels-and-prompt-details|Clarify Kimi Platform API key login labels and prompt details]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

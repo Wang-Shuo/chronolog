@@ -4,20 +4,20 @@ date: '2026-04-16'
 description: 'GitHub Copilot CLI · 2026-04-16 · Context Window: Add /statusline command
   (with /footer alias) to customize which items appear in the status bar (directory…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1078
+  lag_days: 2402
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 72e36629caab37f33dc872d2e384df526f63323002430bf07b7ea92acca30995
+machine_hash: b59c1d0ccbda6f327b58ee060fc14808cefb3114870bbed5215a94484cb0e47b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: Add /statusline command (with /footer alias) to customize which items appear…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-4-context-window-changes-in-rust-v0-121-0|4 Context
-  Window changes in rust-v0.121.0]]'
 - '[[Changes/OpenCode/2026-04-15-2-context-window-changes-in-v1-4-4|2 Context Window
   changes in v1.4.4]]'
 - '[[Changes/OpenCode/2026-04-15-kept-github-copilot-compaction-requests-valid|Kept
   GitHub Copilot compaction requests valid]]'
+- '[[Changes/Descript/2026-04-16-click-here-https-web-descript-com-view-settings-account-active-api-to-get-your-a|Click
+  here((source link) to get…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-16-v1-0-30-github-310019312-a7664826|github-copilot-cli-2026-04-16-v1-0-30-github-310019312-a7664826]]'
 source_type: github_releases
 theme: context-window
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-kept-github-copilot-compaction-requests-valid|Kept GitHub Copilot compaction requests valid]]
+- Earlier: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-click-here-https-web-descript-com-view-settings-account-active-api-to-get-your-a|Click here((source link) to get…]]
 - Later: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-3-context-window-changes-in-v1-0-32|3 Context Window changes in v1.0.32]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

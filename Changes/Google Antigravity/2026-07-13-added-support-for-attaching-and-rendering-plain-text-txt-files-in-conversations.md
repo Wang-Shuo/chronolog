@@ -4,20 +4,20 @@ date: '2026-07-13'
 description: 'Google Antigravity · 2026-07-13 · Interface Experience: Added support
   for attaching and rendering plain text (.txt) files in conversations and optimized…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1281
+  lag_days: 2647
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1ee2e790a312f682351893859b3ddc7168bbe81f7d7e4d1a393fe76ffc9301c6
+machine_hash: 066711e6f3aa4e111e5b1678425af11de6bc75fe3a39944d92ae433de8cc98b5
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -48,12 +48,12 @@ record:
   title: Added support for attaching and rendering plain text (.txt) files in conversations…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
-  and repo pickers]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4
-  Interface Experience changes in v1.0.70]]'
+- '[[Changes/Kimi Code/2026-07-10-2-interface-experience-changes-in-kimi-code-0-23-4|2
+  Interface Experience changes in Kimi Code 0.23.4]]'
 - '[[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved
   agent view]]'
+- '[[Changes/Kimi Code/2026-07-12-web-add-workspaces-by-typing-an-absolute-path-directly-in-the-workspace-picker-s|web:
+  Add workspaces by typing an absolute path directly in the workspace picker''s…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-07-13-rel-hub-2-3-0-3267f493|google-antigravity-2026-07-13-rel-hub-2-3-0-3267f493]]'
 source_type: antigravity_changelog
 theme: interface-experience
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved agent view]]
+- Earlier: 2026-07-12 · Kimi Code · [[Changes/Kimi Code/2026-07-12-web-add-workspaces-by-typing-an-absolute-path-directly-in-the-workspace-picker-s|web: Add workspaces by typing an absolute path directly in the workspace picker's…]]
 - Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-64-interface-experience-changes-in-v2026-7-1|64 Interface Experience changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

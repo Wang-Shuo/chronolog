@@ -4,20 +4,19 @@ date: '2024-09-29'
 description: 'Aider · 2024-09-29 · Editor Experience: 3 changes in Aider v0.58.0 —
   [Use a pair of Architect/Editor models for improved…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 565
+  lag_days: 2149
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: abe1d7c075e902edbea8ada99c6d49d2c2402092b4c6ebaca9d6efa2c665c4d3
+machine_hash: 4274b00184163578fca92f09930fbbf8c667101baf43552e43a89bd31ca81714
 product: aider
 product_name: Aider
 record:
@@ -45,10 +44,9 @@ record:
   title: 3 Editor Experience changes in v0.58.0
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-09-17-we-ve-introduced-a-powerful-new-ai-feature-for-pro-subscribers-that-lets-you-edi|We''ve
-  introduced a powerful new AI feature for Pro subscribers that lets you edit…]]'
-- "[[Changes/Open WebUI/2024-09-19-enhanced-error-messaging-system-now-displays-helpful-error-messages-directly-to|\U0001F9E0
-  Enhanced Error Messaging]]"
+- '[[Changes/Descript/2024-09-25-additional-editor-updates|Additional editor updates]]'
+- '[[Changes/Notion/2024-09-25-generate-edit-docs-in-your-own-style|Generate & edit
+  docs in your own style]]'
 - "[[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|\U0001F3F7️
   Chat Rename Tab Update]]"
 source_release: '[[Releases/Aider/aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f|aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f]]'
@@ -89,13 +87,13 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.58.0
 ## Nearby in Editor Experience
 
 - Earlier: 2024-09-26 · Open WebUI · [[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|🏷️ Chat Rename Tab Update]]
-- Later: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No more staring at loading spinners: Responses are now streamed into the editor…]]
+- Later: 2024-10-08 · Descript · [[Changes/Descript/2024-10-08-editor-updates|Editor Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

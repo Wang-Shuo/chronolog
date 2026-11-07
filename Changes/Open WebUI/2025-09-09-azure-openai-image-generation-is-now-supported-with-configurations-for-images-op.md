@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-09-09 · Image Generation: \U0001F3A8 Azure Ope
   image generation is now supported, with configurations for IMAGES_OPENAI_API_VERSION
   via environment…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 548
+  lag_days: 806
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c99a8ef9effcb27058f71cf7fb52c99243ccde513fc1bea951b50d8ee356df9
+machine_hash: f988dd17fc2eb1a2f936c1aca10d4fd2621e07e581b1529478ddfe447a01755c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,11 @@ record:
   title: "\U0001F3A8 Azure OpenAI image generation is now supported, with configurations…"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-08-22-comfyui-image-generation-restored-fixed-a-critical-bug-where-comfyui-based-image|\U0001F5BC️
-  ComfyUI Image Generation Restored]]"
-- "[[Changes/Open WebUI/2025-08-22-image-generation-reliability-restored-fixed-a-key-issue-causing-image-generation|\U0001F5BC️
-  Image Generation Reliability Restored]]"
 - '[[Changes/Gemini/2025-08-26-reimagine-your-photos-with-a-prompt|Reimagine your
   photos with a prompt]]'
+- '[[Changes/Descript/2025-08-29-how-to-access-nano-banana|How to access Nano Banana]]'
+- '[[Changes/Descript/2025-08-29-new-in-image-generation-nano-banana|New in image
+  generation—Nano Banana]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-09-v0-6-27-github-245869039-35ab9819|open-webui-2025-09-09-v0-6-27-github-245869039-35ab9819]]'
 source_type: github_releases
 theme: image-generation
@@ -90,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-08-26 · Gemini · [[Changes/Gemini/2025-08-26-reimagine-your-photos-with-a-prompt|Reimagine your photos with a prompt]]
+- Earlier: 2025-08-29 · Descript · [[Changes/Descript/2025-08-29-new-in-image-generation-nano-banana|New in image generation—Nano Banana]]
 - Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-models-can-now-be-configured-with-default-features-web-search-image-generation-a|⚙️ Models can now be configured with default features (Web Search, Image Generation)…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

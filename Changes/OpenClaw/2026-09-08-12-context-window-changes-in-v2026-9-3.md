@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-08 · Context Window: 12 changes in v2026.9.3 
   meters use the matching last-run prompt budget and fall back to context capacity
   when…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1223
+  lag_days: 2547
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d22e9b12d5b801b54b1c4eb6327fe7c8e4fabc952acd56e8787babef5c4a446
+machine_hash: 114084089285dd7dca538c510220b482931aed068100db979471b4c4ca662b7d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -101,10 +101,10 @@ record:
   title: 12 Context Window changes in v2026.9.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-changed-context-token-counting-to-use-a-local-estimate-when-the-token-counting-a|Changed
-  /context token counting to use a local estimate when the token-counting…]]'
 - '[[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added
   /skill-doctor to show which loaded skills go unused and what they cost…]]'
+- '[[Changes/Kimi Code/2026-09-04-remind-the-model-of-its-context-budget-before-automatic-compaction-and-after-com|Remind
+  the model of its context budget before automatic compaction, and after…]]'
 - '[[Changes/OpenClaw/2026-09-05-15-context-window-changes-in-v2026-9-2|15 Context
   Window changes in v2026.9.2]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-08-v2026-9-3-dfcfef48|openclaw-2026-09-08-v2026-9-3-dfcfef48]]'
@@ -186,7 +186,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

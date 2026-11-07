@@ -5,20 +5,19 @@ description: 'Cursor · 2025-11-21 · Editor Experience: 4 changes in Improved P
   Mode, AI Code Review in Editor, and Instant Grep — Clicking files in review list
   jumps to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 983
+  lag_days: 2567
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce089729607739d032e01922b5e645dc0a2ae981a8b031fa833be5d47723b249
+machine_hash: 1509fc445a4c2206e290ab2a60130f34690c1b3cc1bae5741fa8bbc5d0c1ca68
 product: cursor
 product_name: Cursor
 record:
@@ -97,13 +96,13 @@ Source: https://cursor.com/changelog/2-1
 ## Nearby in Editor Experience
 
 - Earlier: 2025-11-20 · Midjourney · [[Changes/Midjourney/2025-11-20-the-mobile-editor-doesn-t-glitch|The mobile editor doesn’t glitch]]
-- Later: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-tab-completion|Tab Completion]]
+- Later: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-editor|Editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

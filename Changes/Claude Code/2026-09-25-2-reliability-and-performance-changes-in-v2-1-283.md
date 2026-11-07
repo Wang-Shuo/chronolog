@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-25 · Reliability and Performance: 2 change
   v2.1.283 — Improved first-reply latency: a pattern-compile step that ran at the
   end of a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1380
+  lag_days: 2867
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ceaabfb2014aeb430e1aba6dad4ab82ec9a2d1a59f4b9b2bd548c7c24c09c81b
+machine_hash: ebdd6736281f43cb3f36634f44ecc97ffd2698972a6812f726031db3fc997483
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,7 +44,8 @@ record:
   title: 2 Reliability and Performance changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]'
+- '[[Changes/Kimi Code/2026-09-23-reduce-the-cli-s-startup-time-and-memory-usage|Reduce
+  the CLI''s startup time and memory usage]]'
 - '[[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2
   Reliability and Performance changes in v0.34.4]]'
 - '[[Changes/OpenClaw/2026-09-23-5-reliability-and-performance-changes-in-v2026-9-6|5
@@ -92,13 +93,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-5-reliability-and-performance-changes-in-v2026-9-6|5 Reliability and Performance changes in v2026.9.6]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-improved-startup-time-and-memory-use-by-building-only-the-parts-of-the-settings|Improved startup time and memory use by building only the parts of the settings…]]
+- Later: 2026-09-25 · Synthesia · [[Changes/Synthesia/2026-09-25-pick-720p-1080p-or-4k-when-generating-b-roll-so-you-can-iterate-faster-control-q|Improved resolution options for generated B-roll]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

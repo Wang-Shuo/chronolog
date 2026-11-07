@@ -5,20 +5,20 @@ description: 'Dify · 2024-05-27 · Pricing Model: 2 changes in v0.6.9 Workflow 
   — **Amazon Titan V2**: Added support for Amazon Titan V2 and updated pricing for
   Titan…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 529
+  lag_days: 2147
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e7b6193383737ab243038678d84ed5f038b365393c3ae001fa6f0e589f95494
+machine_hash: cb2517704e94d38204c5664448029169c4d624a09e8c739867a1200f775ec462
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Pricing Model changes in 0.6.9
   type: change
 related_changes:
-- '[[Changes/Aider/2024-02-10-updated-all-openai-model-names-pricing-info|Updated
-  all OpenAI model names, pricing info]]'
 - '[[Changes/Runway/2024-02-26-you-can-now-see-a-detailed-breakdown-of-credit-spend-across-all-generation-tools|Credit
   spend history table in user settings]]'
 - '[[Changes/Dify/2024-04-08-add-segment-function-billing-check-for-saas-env-by-johnjyong-in-https-github-com|add
   segment function billing check for SAAS env]]'
+- '[[Changes/Descript/2024-04-09-sales-tax-on-subscription-and-transcription-fees|Sales
+  Tax on Subscription and Transcription fees]]'
 source_release: '[[Releases/Dify/dify-2024-05-27-0-6-9-github-157655872-c2725bb5|dify-2024-05-27-0-6-9-github-157655872-c2725bb5]]'
 source_type: github_releases
 theme: pricing-model
@@ -90,14 +90,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.9
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-add-segment-function-billing-check-for-saas-env-by-johnjyong-in-https-github-com|add segment function billing check for SAAS env]]
-- Later: 2024-06-04 · Dify · [[Changes/Dify/2024-06-04-feat-show-more-usage-info-in-billing-page-by-iamjoel-in-https-github-com-langgen|feat: show more usage info in billing page]]
+- Earlier: 2024-04-09 · Descript · [[Changes/Descript/2024-04-09-sales-tax-on-subscription-and-transcription-fees|Sales Tax on Subscription and Transcription fees]]
+- Later: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-future-limits-on-ai-features|Future Limits on AI Features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

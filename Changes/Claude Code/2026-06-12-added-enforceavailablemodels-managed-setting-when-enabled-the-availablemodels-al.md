@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4dc630ed03c15c572ae0884846b4d5bb928cd3a9cd8818959c51c21277050694
+machine_hash: c41dc2571497f106e4354f3a6dbd34f142971f222e4ec86f228436d48f38b3e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring GPT-5.2 models]]
-- Later: 2026-06-12 · Ollama · [[Changes/Ollama/2026-06-12-improved-recurrent-model-support-with-per-boundary-states-from-the-gated-delta-k|Improved recurrent model support with per-boundary states from the gated-delta kernels]]
+- Later: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-require-agentswarm-tool-calls-to-run-alone-in-a-model-response|Require AgentSwarm tool calls to run alone in a model response]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

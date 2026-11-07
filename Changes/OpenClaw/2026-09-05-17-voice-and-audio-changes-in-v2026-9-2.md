@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-05 · Voice and Audio: 17 changes in v2026.9.2
   can configure a listen-only bot to take Discord meeting notes when people enter
   a voice…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1153
+  lag_days: 2980
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec482b106b05c358888dd5d1d6ba1c0f99c26c5fa3cbab392a1c608f9b5fcf85
+machine_hash: 9a9f81084f230eaff858f4b9661859115e96ebeb4e248119c8abec0c14c7d6bd
 product: openclaw
 product_name: OpenClaw
 record:
@@ -157,12 +157,12 @@ record:
   title: 17 Voice and Audio changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-02-gemma4-now-supports-images-and-audio-on-mlx-engine|gemma4
-  now supports images and audio on MLX engine]]'
-- '[[Changes/Codex CLI/2026-09-03-5-voice-and-audio-changes-in-rust-v0-153-0|5 Voice
-  and Audio changes in rust-v0.153.0]]'
-- '[[Changes/OpenClaw/2026-09-03-12-voice-and-audio-changes-in-v2026-9-1|12 Voice
-  and Audio changes in v2026.9.1]]'
+- '[[Changes/HeyGen/2026-09-04-voices-settings-in-ai-studio|Voices settings in AI
+  Studio]]'
+- '[[Changes/HeyGen/2026-09-04-cartesia-sonic-3-6-voice-model|Cartesia Sonic 3.6 voice
+  model]]'
+- '[[Changes/HeyGen/2026-09-04-avatar-retirement-and-replacement|Avatar retirement
+  and replacement]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'
 source_type: openclaw_changelog
 theme: voice
@@ -247,14 +247,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-12-voice-and-audio-changes-in-v2026-9-1|12 Voice and Audio changes in v2026.9.1]]
+- Earlier: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-avatar-retirement-and-replacement|Avatar retirement and replacement]]
 - Later: 2026-09-07 · ElevenLabs · [[Changes/ElevenLabs/2026-09-07-workspaces|Workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

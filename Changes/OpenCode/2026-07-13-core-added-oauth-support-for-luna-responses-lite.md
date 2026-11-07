@@ -4,20 +4,21 @@ date: '2026-07-13'
 description: 'OpenCode · 2026-07-13 · Account and Access: Core Added OAuth support
   for Luna Responses Lite.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1201
+  lag_days: 2176
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 03d8fd6a4eeeb959d50520795af64c035b073fe6dbd00a50270ae92ada30606e
+machine_hash: 6f8b7d92bf856fea1ae224d68ab1133b715e49f5e144c92e9d389284ed3f8db1
 product: opencode
 product_name: OpenCode
 record:
@@ -84,13 +85,13 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-69-account-and-access-changes-in-v2026-7-1|69 Account and Access changes in v2026.7.1]]
-- Later: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-email-alerts-for-sign-ins-from-a-new-device-and-country|Email alerts for sign-ins from a new device and country]]
+- Later: 2026-07-14 · Kimi Code · [[Changes/Kimi Code/2026-07-14-show-the-provider-s-actual-rejection-message-instead-of-a-misleading-re-login-pr|Show the provider's actual rejection message instead of a misleading re-login prompt…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

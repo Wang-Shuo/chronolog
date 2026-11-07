@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67f7e6dd543f3166dfadedc8f328baf313fca4a1b598506906ec77adaaec17b9
+machine_hash: 35300517c8c5ef2bae3d4918a755d8ecddce166ad7dd5325853b060cf255c5ac
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: 'refactor: centralize email internationalization handling'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-20-2-accessibility-and-localization-changes-in-v3-17-15|2
-  Accessibility and Localization changes in v3.17.15]]'
 - "[[Changes/Open WebUI/2025-07-14-accessibility-high-contrast-theme-enhancements-major-accessibility-overhaul-with|\U0001F3A8
   Accessibility & High-Contrast Theme Enhancements]]"
 - '[[Changes/Open WebUI/2025-07-19-2-accessibility-and-localization-changes-in-v0-6-17|2
   Accessibility and Localization changes in v0.6.17]]'
+- '[[Changes/Notion/2025-07-22-here-s-how-you-can-set-your-language|Here’s how you
+  can set your language]]'
 source_release: '[[Releases/Dify/dify-2025-07-23-1-7-0-github-234517527-27158f09|dify-2025-07-23-1-7-0-github-234517527-27158f09]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-2-accessibility-and-localization-changes-in-v0-6-17|2 Accessibility and Localization changes in v0.6.17]]
+- Earlier: 2025-07-22 · Notion · [[Changes/Notion/2025-07-22-here-s-how-you-can-set-your-language|Here’s how you can set your language]]
 - Later: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-time-formatting-internationalization-the-time-formatting-feature-has-been-refact|Time Formatting Internationalization]]
 <!-- chronolog:end -->
 

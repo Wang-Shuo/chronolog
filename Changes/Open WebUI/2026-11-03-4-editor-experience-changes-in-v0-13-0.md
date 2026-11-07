@@ -5,20 +5,19 @@ description: 'Open WebUI · 2026-11-03 · Editor Experience: 4 changes in v0.13.
   ↔️ **Full-width tabs.** On larger screens, expand the tabbed workspace to fill the
   chat…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1330
+  lag_days: 2914
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f645e1b1585979807c11d0b01560590316eec4d7556b86c4611cbbc908bd1f56
+machine_hash: 0ea01761efc2bfccaf42863e0816e88d23ba931e988450e0bd80e486a672972c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -126,7 +125,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.13.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

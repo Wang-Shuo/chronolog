@@ -5,20 +5,20 @@ description: 'Lovable · 2026-09-09 · Context Window: CSV and TSV files you [at
   in chat](https://docs.lovable.dev/features/projects/chat.md#attach-files-as-context)
   now…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1224
+  lag_days: 2548
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 86abc61b7d25046e2b648003b6eaab5f1233c27a1f93bdd60b1f374b13dd35f6
+machine_hash: 07181ed1a3c9cffe2e3b0c4854793c87eadf9617c92f728bd0fe4611f84f5fca
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,12 @@ record:
   title: Readable previews for CSV and TSV files
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-12-context-window-changes-in-v2026-9-3|12 Context
-  Window changes in v2026.9.3]]'
 - '[[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved
   prompt-cache stability]]'
 - '[[Changes/Codex CLI/2026-09-09-17-context-window-changes-in-rust-v0-154-0|17 Context
   Window changes in rust-v0.154.0]]'
+- '[[Changes/Kimi Code/2026-09-09-web-support-permanently-deleting-sessions-from-the-session-row-context-menu-with|web:
+  Support permanently deleting sessions from the session row context menu…]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-09-2026-09-09-1af9b744|lovable-2026-09-09-2026-09-09-1af9b744]]'
 source_type: lovable_changelog
 theme: context-window
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-17-context-window-changes-in-rust-v0-154-0|17 Context Window changes in rust-v0.154.0]]
+- Earlier: 2026-09-09 · Kimi Code · [[Changes/Kimi Code/2026-09-09-web-support-permanently-deleting-sessions-from-the-session-row-context-menu-with|web: Support permanently deleting sessions from the session row context menu…]]
 - Later: 2026-09-10 · Cursor · [[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|Shared context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

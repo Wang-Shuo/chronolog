@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81cb957cca4972f15f7229b11737f0b263d0f3e884e60cd60583411790e16d17
+machine_hash: 00db74e3aa9160b87dbd27b88a22bd40ad6896673802cda31550542e4bbc5a16
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,10 +56,10 @@ record:
     clearing…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-13-desktop-synchronize-internationalization-translations|Desktop
-  Synchronize internationalization translations]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-17-improve-color-contrast-across-cli-themes-for-better-readability-and-accessibilit|Improve
   color contrast across CLI themes for better readability and accessibility]]'
+- '[[Changes/Notion/2026-03-19-notion-academy-videos-and-certification-programs-are-now-live-in-6-new-languages|Notion
+  Academy videos and certification programs are now live in 6 new languages…]]'
 - '[[Changes/Dify/2026-04-29-2-accessibility-and-localization-changes-in-1-14-0|2
   Accessibility and Localization changes in 1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e|codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e]]'

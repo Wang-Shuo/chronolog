@@ -4,20 +4,19 @@ date: '2026-06-15'
 description: 'Codex CLI · 2026-06-15 · Editor Experience: 2 changes in 0.140.0 — #26681
   Allow creating a new goal after completion @etraut-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1189
+  lag_days: 2773
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4f8f6fa4f24c5e1406b8a8ce85ca3bf509f4034da3ab395977b30cb54ae8390a
+machine_hash: ca2f168c966225e1f53673927250adf78d3a54676adaf60dafc70098b765c126
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +41,10 @@ record:
   title: 2 Editor Experience changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-06-12-the-editor-got-a-reliability-sweep|The editor got a
-  reliability sweep]]'
-- '[[Changes/Gamma/2026-06-12-a-smoother-editing-and-presenting-experience|A smoother
-  editing and presenting experience]]'
+- '[[Changes/Kimi Code/2026-06-12-find-slash-commands-by-their-aliases-in-autocomplete-typing-clear-now-suggests-n|Find
+  slash commands by their aliases in autocomplete]]'
+- '[[Changes/Synthesia/2026-06-12-a-set-of-small-but-satisfying-editor-improvements-to-resizing-trimming-stock-sea|10
+  improvements to your Editor experience]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-2-editor-experience-changes-in-v1-0-62|2
   Editor Experience changes in v1.0.62]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
@@ -104,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

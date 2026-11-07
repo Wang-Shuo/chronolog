@@ -4,20 +4,20 @@ date: '2025-05-05'
 description: "Open WebUI · 2025-05-05 · Files and Data: 2 changes in v0.6.6 — \U0001F9E0
   **Configurable Docling OCR Engine & Language**: Use environment variables to fine-tune…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 711
+  lag_days: 2056
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ec48fdaf4c5eee0bd890be4f9b781c83afcc18af331c5d7916501a77938f758
+machine_hash: 1c64d5cf61d1ab2805829d3e68aa4eefeb5199ca0297fbb6853ec07f4ec76e1d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,7 +46,8 @@ record:
   title: 2 Files and Data changes in v0.6.6
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-04-07-knowledge-base|Knowledge Base]]'
+- '[[Changes/Descript/2025-04-08-a-new-look-for-scenes-stable-frame|A new look for
+  Scenes—Stable frame]]'
 - '[[Changes/Dify/2025-04-23-chore-skip-document-segments-fetching-with-non-existed-dataset-of-datasetdocumen|chore:
   skip document segments fetching with non-existed dataset of DatasetDocument…]]'
 - '[[Changes/Dify/2025-04-28-3-files-and-data-changes-in-1-3-1|3 Files and Data changes
@@ -100,7 +101,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

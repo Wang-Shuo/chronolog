@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-06-25 · Context Window: Improved reada
   of context pills by truncating long labels and adding hover tooltips to view the
   full…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1148
+  lag_days: 2472
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 975c8cc52ce7815af4132e150668b40a6b06741196e7f27f6bf03e4973aa57bb
+machine_hash: 7a0dfdf281f56186ac0286829c4c2804355b9865e561fa29ead9b4bb8b8c47a8
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -91,13 +91,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-3-context-window-changes-in-1-15-0|3 Context Window changes in 1.15.0]]
-- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-3-context-window-changes-in-v0-10-0|3 Context Window changes in v0.10.0]]
+- Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-2-context-window-changes-in-kimi-code-0-20-1|2 Context Window changes in Kimi Code 0.20.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

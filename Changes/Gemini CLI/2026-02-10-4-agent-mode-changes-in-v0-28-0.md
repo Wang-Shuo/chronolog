@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 537b3d8f0da707fd0ebae79e72333d4e12cf8d3c0a8fde13d3702d1992b420eb
+machine_hash: e6d62d4037c8deaced2cef59017fdb1dbdd3decce62450c0fc0078c80844d4c6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-agents-platform-7f0c0d|Agents Platform]]
-- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-4-agent-mode-changes-in-v1-1-54|4 Agent Mode changes in v1.1.54]]
+- Later: 2026-02-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-02-10-configure-and-manage-agent-manifests-in-developer-portal-teams|Configure and manage agent manifests in Developer Portal (Teams)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

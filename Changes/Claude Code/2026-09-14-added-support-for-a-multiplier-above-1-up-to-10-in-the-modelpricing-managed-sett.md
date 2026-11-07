@@ -4,20 +4,20 @@ date: '2026-09-14'
 description: 'Claude Code · 2026-09-14 · Pricing Model: Added support for a `multiplier`
   above 1, up to 10, in the `modelPricing` managed setting and the Claude apps gateway…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1369
+  lag_days: 2987
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 05b58efcb829911a2d22f288cf11cf03406d3a9ae4aa4b1a728213a8e460857c
+machine_hash: 9ddef2ee7cc7d084abc12f5f784b3fd49bd75a601e21390b5d72fd9c8808d497
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     managed…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-4-pricing-model-changes-in-1-17-1|4 Pricing Model changes
-  in 1.17.1]]'
 - '[[Changes/Lovable/2026-09-10-share-your-lovable-invite-link-from-your-phone|Share
   your Lovable invite link from your phone]]'
 - '[[Changes/OpenClaw/2026-09-11-3-pricing-model-changes-in-v2026-9-4|3 Pricing Model
   changes in v2026.9.4]]'
+- '[[Changes/Qoder/2026-09-12-creative-achievements-your-profile-now-includes-credits-and-activity-stats-along|Creative
+  achievements: Your profile now includes Credits and activity stats, along…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: pricing-model
@@ -92,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-3-pricing-model-changes-in-v2026-9-4|3 Pricing Model changes in v2026.9.4]]
+- Earlier: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-creative-achievements-your-profile-now-includes-credits-and-activity-stats-along|Creative achievements: Your profile now includes Credits and activity stats, along…]]
 - Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-usage-shows-per-model-ai-credit-consumption-in-usage-breakdowns|/usage shows per-model AI Credit consumption in usage breakdowns]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

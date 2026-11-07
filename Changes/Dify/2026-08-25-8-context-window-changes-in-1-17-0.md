@@ -4,20 +4,20 @@ date: '2026-08-25'
 description: 'Dify · 2026-08-25 · Context Window: 8 changes in v1.17.0 — **Context-aware
   history compaction**: long agent conversations no longer blow past the model''s…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1209
+  lag_days: 2533
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d2636dd34dfec14c79116aa9086277f152d3f0253b4e80b4f313a823a373ff4
+machine_hash: 040e31d894dd9ad8b019a46b302f876c9a1270236eb17c78c042375c40499974
 product: dify
 product_name: Dify
 record:
@@ -133,7 +133,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

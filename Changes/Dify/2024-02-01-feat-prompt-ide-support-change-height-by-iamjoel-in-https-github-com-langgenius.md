@@ -4,20 +4,19 @@ date: '2024-02-01'
 description: 'Dify · 2024-02-01 · Editor Experience: feat: prompt IDE support change
   height by @iamjoel in https://github.com/langgenius/dify/pull/2232'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 324
+  lag_days: 1908
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f9a976babebc690881f58d1fd3813bd6b04a7e027876d39559af1169b3d11ac1
+machine_hash: 52fd3f1a77280914a19d90b2e66096504614a1bd54a9ce8d5e55bb294f12f507
 product: dify
 product_name: Dify
 record:
@@ -43,10 +42,8 @@ record:
   title: 'feat: prompt IDE support change height'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat
-  lints: If the AI suggests a code change in chat that involves a made up code…]]'
-- '[[Changes/Dify/2024-01-19-add-feature-request-copilot-by-guchenhe-in-https-github-com-langgenius-dify-pull|add
-  feature request copilot]]'
+- '[[Changes/Descript/2024-01-22-other-editor-changes|Other Editor Changes]]'
+- '[[Changes/Descript/2024-01-22-editor-updates|Editor Updates]]'
 - '[[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience
   changes in v0.22.0]]'
 source_release: '[[Releases/Dify/dify-2024-02-01-0-5-3-github-139471716-c501b05b|dify-2024-02-01-0-5-3-github-139471716-c501b05b]]'
@@ -89,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

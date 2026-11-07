@@ -4,19 +4,20 @@ date: '2026-03-17'
 description: 'Dify · 2026-03-17 · Collaboration: refactor(web): split share text-generation
   and add high-coverage tests by @CodingOnStar in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1028
+  lag_days: 2622
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9d113134af8899e93be9a17bda9b6978cd3c290312794d49281eb0412f7cfb6
+machine_hash: fbf70c2e6805587c5d393906b66efae69a2187dc1ee556f289104c1e7d747a3f
 product: dify
 product_name: Dify
 record:
@@ -43,11 +44,10 @@ record:
   title: 'refactor(web): split share text-generation and add high-coverage tests'
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-12-improved-transfer-chat-to-show-only-eligible-teams-with-write-access|Improved
-  transfer chat to show only eligible teams with write access]]'
 - '[[Changes/Lovable/2026-03-16-workspace-knowledge|Workspace knowledge]]'
 - '[[Changes/v0/2026-03-16-added-support-for-linking-team-skills-to-design-systems|Added
   support for linking team skills to design systems]]'
+- '[[Changes/Descript/2026-03-17-share-page|Share page]]'
 source_release: '[[Releases/Dify/dify-2026-03-17-1-13-1-github-297876307-84187197|dify-2026-03-17-1-13-1-github-297876307-84187197]]'
 source_type: github_releases
 theme: collaboration
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-03-16 · v0 · [[Changes/v0/2026-03-16-added-support-for-linking-team-skills-to-design-systems|Added support for linking team skills to design systems]]
-- Later: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration changes in v1.0.10]]
+- Earlier: 2026-03-17 · Descript · [[Changes/Descript/2026-03-17-share-page|Share page]]
+- Later: 2026-03-19 · Notion · [[Changes/Notion/2026-03-19-this-launch-wouldn-t-have-been-possible-without-collaboration-with-our-global-pa|This launch wouldn’t have been possible without collaboration with our global…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

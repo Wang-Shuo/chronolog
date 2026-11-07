@@ -5,20 +5,20 @@ description: 'Midjourney · 2025-09-04 · Multimodal Input: We''re launching an 
   version of our style explorer today. It''s like the video and image explore pages
   but now…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 716
+  lag_days: 2484
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f9eb7b5052015f7b548e63926b96fdf0a70773dfa3234d201729d9d0cd3021ab
+machine_hash: f49f1294263f0bd953453460efd0758083d0ebee650ce080bf899e029a992d94
 product: midjourney
 product_name: Midjourney
 record:
@@ -46,10 +46,10 @@ record:
   title: Midjourney launches an early version of our style explorer today
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-08-13-we-ve-changed-the-thumbnails-on-video-jobs-so-they-show-the-last-frame|Midjourney
-  changes the thumbnails on video jobs so they show the last frame]]'
 - '[[Changes/Midjourney/2025-08-13-we-ve-improved-video-moderation-accuracy-and-you-should-now-see-fewer-blocked-jo|Midjourney
   improves video moderation accuracy and you should now see fewer blocked jobs]]'
+- '[[Changes/Descript/2025-08-14-2-multimodal-input-changes-in-release-roundup-august-14th-2025|2
+  Multimodal Input changes in Release roundup—August 14th, 2025]]'
 - '[[Changes/Gemini CLI/2025-08-14-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core):
   Parse Multimodal MCP Tool responses]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-09-04-https-updates-midjourney-com-style-explorer-v1-f748c499|midjourney-2025-09-04-https-updates-midjourney-com-style-explorer-v1-f748c499]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

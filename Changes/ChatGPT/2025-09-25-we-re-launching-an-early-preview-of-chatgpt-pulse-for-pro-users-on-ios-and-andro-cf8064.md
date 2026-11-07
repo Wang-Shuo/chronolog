@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6f646278f8ea8577628c826cfa3b11743251f43289727533f720d2c9b9e88e6f
+machine_hash: bf2697c8832bb8e2ffc74e0935a2806e9f62362d42b6aafb703829743f3f9e19
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,8 +76,8 @@ record:
   title: Introducing ChatGPT Pulse for Pro users
   type: change
 related_changes:
-- '[[Changes/Claude/2025-09-18-claude-s-memory-on-enterprise-plans|Claude’s memory
-  on Enterprise plans]]'
+- '[[Changes/Notion/2025-09-18-personalize-your-agent-s-instructions-and-memory|Personalize
+  your Agent’s instructions and memory]]'
 - '[[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 - '[[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New

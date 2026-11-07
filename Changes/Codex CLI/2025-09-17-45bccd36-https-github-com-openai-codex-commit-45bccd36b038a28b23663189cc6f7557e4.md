@@ -4,19 +4,20 @@ date: '2025-09-17'
 description: 'Codex CLI · 2025-09-17 · Developer Workflow: [45bccd36](https://github.com/openai/codex/commit/45bccd36b038a28b23663189cc6f7557e49e06d0)
   fix permissions…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 914
+  lag_days: 2563
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ae6b0d3b9515e8c16f72d430f9e5a3cc1e360afe13f98b2fd3a5212132ff96b
+machine_hash: 35eb884db96df1ecfc52ad0bb8cb439af1556fb3f8803dc97ef6ea68eb339d98
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

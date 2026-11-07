@@ -4,20 +4,20 @@ date: '2026-07-15'
 description: 'Claude Code · 2026-07-15 · Apps and Integrations: 2 changes in v2.1.211
   — Hardened synced skill/plugin directory naming on Windows and kept CCR web…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1210
+  lag_days: 2770
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1830ba6cfe8e9d2344c1f15d34fe148c2fd41647ee2ba216bea999e44999debf
+machine_hash: f2e6703bb2da6b87d6f80cb1ab4c15718e1a51e2f1e966815ee066683164d3ae
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,13 +88,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3 Apps and Integrations changes in v2.1.208]]
-- Later: 2026-07-15 · Suno · [[Changes/Suno/2026-07-15-tap-the-icon-and-find-suno-in-your-imessage-app-extensions|Tap the + icon and find Suno in your iMessage app extensions]]
+- Later: 2026-07-15 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-15-manage-federated-copilot-connectors-in-microsoft-365-admin-center-connectors-tab|Manage Federated Copilot Connectors in Microsoft 365 admin center connectors tab…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

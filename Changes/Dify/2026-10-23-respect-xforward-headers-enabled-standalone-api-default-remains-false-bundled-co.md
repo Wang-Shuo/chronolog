@@ -4,19 +4,20 @@ date: '2026-10-23'
 description: 'Dify · 2026-10-23 · Developer Workflow: | `RESPECT_XFORWARD_HEADERS_ENABLED`
   | Standalone API default remains `false`; bundled Compose explicitly enables it…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1315
+  lag_days: 2964
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d640b7f99042a61169862395a545a955eb3b09af784add8fef83df874735813c
+machine_hash: 0ea59afd1810884a4c64b85cadbade25463929c279aadff777fdb6fddcaed3ec
 product: dify
 product_name: Dify
 record:
@@ -103,7 +104,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

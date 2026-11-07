@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-08-09 · Safety and Privacy: 10 changes in v0.6
   — \U0001F510 **Encrypted SQLite Database with SQLCipher**: You can now encrypt your
   entire SQLite…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 846
+  lag_days: 1838
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f1568d92f39e290f760aa94f730cb56add5d1a6715b487190699085051860578
+machine_hash: 4036cf16a7162c78eb4318c011a377b5ba45497f64f5c281c5d88a4a9aca67b3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -170,7 +170,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.19
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

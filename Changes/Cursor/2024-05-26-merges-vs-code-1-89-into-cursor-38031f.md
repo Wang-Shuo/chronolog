@@ -3,20 +3,19 @@ card_id: cursor-2024-05-26-38031f
 date: '2024-05-26'
 description: 'Cursor · 2024-05-26 · Editor Experience: Merges VS Code 1.89 into Cursor'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 439
+  lag_days: 2023
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0358743353e5fd5bbf53c97266d42cf7cf3a7dfdeeb55464671c7797b6656bc3
+machine_hash: 007a7f15f9e866b037dc1de2275442cec9b38d6d37f2fff31dc1168b87405e63
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +43,10 @@ record:
   title: Merges VS Code 1.89 into Cursor
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-10-refactored-prompting-to-unify-some-phrasing-across-edit-formats|Refactored
-  prompting to unify some phrasing across edit formats]]'
-- '[[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved
-  reflection feedback to LLMs using the diff edit format]]'
+- '[[Changes/Descript/2024-05-22-editor-recorder-smart-settings|Editor Recorder Smart
+  Settings]]'
+- '[[Changes/Descript/2024-05-22-welcome-to-version-90-of-descript|Welcome to version
+  90 of Descript]]'
 - '[[Changes/Midjourney/2024-05-24-how-does-it-work|How does it work?]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc|cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc]]'
 source_type: cursor_changelog
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

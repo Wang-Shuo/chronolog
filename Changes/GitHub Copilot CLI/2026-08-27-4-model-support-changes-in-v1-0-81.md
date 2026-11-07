@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39b8ccbd5f9bfc9fdf5bffeb4c01d5f7fb67f09ae47bcffedeb702770c892ff2
+machine_hash: 28a527ae84e4d75f7ea44b7acf1f6b2b33a83c86bb3323eaff8cee325634fce3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Model Support changes in v1.0.81
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-26-credentials-embedded-in-git-remote-urls-are-now-redacted-from-the-workspace-info|Credentials
-  embedded in git remote URLs are now redacted from the workspace…]]'
 - '[[Changes/Codex CLI/2026-08-26-10-model-support-changes-in-rust-v0-150-0|10 Model
   Support changes in rust-v0.150.0]]'
 - '[[Changes/Ollama/2026-08-26-mlxrunner-avoid-metal-gpu-timeouts-when-loading-models-from-slow-storage|mlxrunner:
   avoid Metal GPU timeouts when loading models from slow storage]]'
+- '[[Changes/Z.ai API/2026-08-26-native-visual-capabilities-enable-the-model-to-observe-interfaces-rendering-resu|Native
+  visual capabilities enable the model to observe interfaces, rendering…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'
 source_type: github_releases
 theme: model-support
@@ -104,7 +104,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.81
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-26 · Ollama · [[Changes/Ollama/2026-08-26-mlxrunner-avoid-metal-gpu-timeouts-when-loading-models-from-slow-storage|mlxrunner: avoid Metal GPU timeouts when loading models from slow storage]]
+- Earlier: 2026-08-26 · Z.ai API · [[Changes/Z.ai API/2026-08-26-native-visual-capabilities-enable-the-model-to-observe-interfaces-rendering-resu|Native visual capabilities enable the model to observe interfaces, rendering…]]
 - Later: 2026-08-27 · Midjourney · [[Changes/Midjourney/2026-08-27-today-we-re-gonna-start-letting-everyone-test-our-first-v8-2-image-edit-model|Today we’re gonna start letting everyone test our first V8.2 image edit model!]]
 <!-- chronolog:end -->
 

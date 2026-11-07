@@ -4,20 +4,20 @@ date: '2025-10-29'
 description: 'OpenHands · 2025-10-29 · Safety and Privacy: 3 changes in 0.60.0 - 2025-10-29
   — Added automatic sandbox lifecycle management to prevent resource exhaustion by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 927
+  lag_days: 1919
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd3acbb6a4b29bf5675a447eb7ff24d969fc1e9d35192bd42920dcd706eaeffa
+machine_hash: 7fa0161067c1e7a3b9ba1f2bdb841079b5844b050fa443caf26db462db281a99
 product: openhands
 product_name: OpenHands
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Safety and Privacy changes in 0.60.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-2-safety-and-privacy-changes-in-rust-v0-48-0|2 Safety
-  and Privacy changes in rust-v0.48.0]]'
 - '[[Changes/Codex CLI/2025-10-25-5536-added-model-summary-and-risk-assessment-for-commands-that-violate-sandbox-p|♯5536
   — Added model summary and risk assessment for commands that violate sandbox policy]]'
+- '[[Changes/Descript/2025-10-28-permission-changes-now-take-effect-immediately-without-needing-to-refresh|Permission
+  changes now take effect immediately without needing to refresh]]'
 - '[[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]]'
 source_release: '[[Releases/OpenHands/openhands-2025-10-29-0-60-0-github-258282208-7285f384|openhands-2025-10-29-0-60-0-github-258282208-7285f384]]'
 source_type: github_releases
@@ -94,7 +94,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.60.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

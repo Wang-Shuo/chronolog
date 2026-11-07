@@ -4,20 +4,20 @@ date: '2025-01-10'
 description: 'Aider · 2025-01-10 · Voice and Audio: 2 changes in Aider v0.71.0 — Added
   support for custom voice format and input device settings.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 550
+  lag_days: 2377
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 506c8753ce07bebaca8585a2e5d7e4dffcc4154a95b71698de6913c4cbd5ac64
+machine_hash: 7c38a240fa1f86950e3b7375f6e2dc750da4ff89e3297ec18023f200747112e1
 product: aider
 product_name: Aider
 record:
@@ -85,13 +85,13 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.71.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-audio-input-echo-cancellation-audio-input-now-features-echo-cancellation-enabled|🎤 Audio Input Echo Cancellation]]
-- Later: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-kokoro-js-tts-support-a-new-on-device-high-quality-text-to-speech-engine-has-bee|🎤 Kokoro-JS TTS Support]]
+- Later: 2025-01-28 · Descript · [[Changes/Descript/2025-01-28-auto-detect-transcription-language|Auto-detect transcription language]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

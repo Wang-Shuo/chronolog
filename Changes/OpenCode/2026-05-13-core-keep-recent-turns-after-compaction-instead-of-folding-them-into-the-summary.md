@@ -4,20 +4,20 @@ date: '2026-05-13'
 description: 'OpenCode · 2026-05-13 · Context Window: Core Keep recent turns after
   compaction instead of folding them into the summary.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1105
+  lag_days: 2429
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 078cb92a513ca695f25222c6b5aa5ae28b2f42c0821165bdfa556cf83e4e19be
+machine_hash: 310e4dd21d08e07ec2b1c2708c6891f72e238711429983f172bc5995c6ce53f2
 product: opencode
 product_name: OpenCode
 record:
@@ -45,11 +45,10 @@ record:
     summary
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-12-refactor-web-migrate-workflow-panel-context-menu-primitive-by-lyzno1-in-https-gi|refactor(web):
-  migrate workflow panel context menu primitive]]'
 - '[[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind
   menu: added "Summarize up to here" to compress earlier context while keeping…]]'
 - '[[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]'
+- '[[Changes/Notion/2026-05-13-sync-any-data-source-beta|Sync any data source (Beta)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-13-v1-14-49-e73e3778|opencode-2026-05-13-v1-14-49-e73e3778]]'
 source_type: opencode_changelog
 theme: context-window
@@ -85,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]
+- Earlier: 2026-05-13 · Notion · [[Changes/Notion/2026-05-13-sync-any-data-source-beta|Sync any data source (Beta)]]
 - Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved reactive compaction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

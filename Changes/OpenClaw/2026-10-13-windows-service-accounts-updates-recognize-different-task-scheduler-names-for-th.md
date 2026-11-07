@@ -4,20 +4,20 @@ date: '2026-10-13'
 description: 'OpenClaw · 2026-10-13 · Automation and Scheduling: Windows service accounts.
   Updates recognize different Task Scheduler names for the same service account and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1015
+  lag_days: 2582
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f3f0ecd471f601519e8d07edbd4fde63f1a2fda8cb773ed1b89ed14d1690541
+machine_hash: c274f0b64a2e9e28130f7464ba3c140fea2c481e8ec8e98459dd35e66f4ff781
 product: openclaw
 product_name: OpenClaw
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud|Supported PostgreSQL extensions on Lovable Cloud]]
-- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰ Automation run results. An automation run is now recorded as successful only…]]
+- Later: 2026-10-14 · Kimi Code · [[Changes/Kimi Code/2026-10-14-cron-tasks-from-the-source-session-no-longer-fire-inside-a-forked-session|Cron tasks from the source session no longer fire inside a forked session]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 99c1d4fe8e5583d41e9206177da261644dd9756733663e5242ab811dcfb996c5
+machine_hash: 9de743f731d9ed292d45e9f4e3cc36b0ccb40dbe04266bcafa537c885c3d5aae
 product: opencode
 product_name: OpenCode
 record:
@@ -45,10 +45,10 @@ record:
     compatibility
   type: change
 related_changes:
-- '[[Changes/Cline/2026-04-16-add-claude-opus-4-7-model-support|Add Claude Opus 4.7
-  model support]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-add-support-for-claude-opus-4-7|Add support
   for Claude Opus 4.7]]'
+- '[[Changes/Notion/2026-04-16-claude-opus-4-7-anthropic-s-latest-model-is-now-in-notion-it-uses-fewer-tokens-m|Opus
+  4.7, now in Notion]]'
 - '[[Changes/Ollama/2026-04-16-gemma-4-on-mlx-added-support-for-running-gemma-4-via-mlx-on-apple-silicon-includ|Gemma
   4 on MLX. Added support for running Gemma 4 via MLX on Apple Silicon…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-16-v1-4-7-dcd33aa7|opencode-2026-04-16-v1-4-7-dcd33aa7]]'

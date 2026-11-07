@@ -4,20 +4,20 @@ date: '2026-10-27'
 description: 'OpenCode · 2026-10-27 · Search and Browsing: 2 changes in v2.2.0 — Desktop
   Keep branch search results visible while new results load.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1314
+  lag_days: 2343
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7fcc7f22cda48756259d2fa844d2bc12ce98e1d8c1f84fd956afcc452c71a5bd
+machine_hash: 320086e968a2c4c6e9ef9585a473f22fa6f1fba1bff3b2b2177dc24891022731
 product: opencode
 product_name: OpenCode
 record:
@@ -111,7 +111,7 @@ Source: https://opencode.ai/changelog/v2.2.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

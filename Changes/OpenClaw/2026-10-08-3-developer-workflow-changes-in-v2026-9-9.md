@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-10-08 · Developer Workflow: 3 changes in v2026.9
   Monterey service commands. On affected macOS 12 installations, Gateway stop, restart
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1300
+  lag_days: 2949
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6e838b83eba2c8c367e80c8e08c96d2d6cf37f9c9a5a2ca6f3f5bc688c7cb27
+machine_hash: 19fe3d73d92c9d44c8125fba5856b362c3bb49bc8043c572410ae5737b7b014e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -116,7 +117,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.9
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

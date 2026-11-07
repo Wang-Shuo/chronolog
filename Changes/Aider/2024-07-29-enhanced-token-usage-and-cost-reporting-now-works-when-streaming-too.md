@@ -4,20 +4,20 @@ date: '2024-07-29'
 description: 'Aider · 2024-07-29 · Pricing Model: Enhanced token usage and cost reporting.
   Now works when streaming too.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 592
+  lag_days: 2210
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: e932cb9445a357f0ddb75d6301a4dab48d29dd01742b3711cf8151f197c70e1d
+machine_hash: ab763afdcd2f257ba94041c3c0922182ad4ec9dbf8f709cf0a717315e88c9f95
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,8 @@ record:
   title: Enhanced token usage and cost reporting
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-04-add-cost-metrics-to-evaluation-outputs-for-all-benchmarks-by-ryanhoangt-in-https|Add
-  cost metrics to evaluation outputs for all benchmarks]]'
-- '[[Changes/Dify/2024-06-14-feat-pricing-page-add-llm-load-balancing-info-by-iamjoel-in-https-github-com-lan|feat:
-  pricing page add llm load balancing info]]'
+- '[[Changes/Descript/2024-07-02-plan-limits|Plan limits]]'
+- '[[Changes/Descript/2024-07-02-plans-and-pricing-update|Plans and Pricing Update]]'
 - '[[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace
   Extensions now available in Beta for Gemini for Google Workspace add-on…]]'
 source_release: '[[Releases/Aider/aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c|aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c]]'
@@ -81,13 +79,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2024-07-15 · Gemini · [[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace Extensions now available in Beta for Gemini for Google Workspace add-on…]]
-- Later: 2024-08-12 · Suno · [[Changes/Suno/2024-08-12-effective-immediately-all-pro-premier-creators-will-receive-50-free-credits-per|Pro / Premier creators now get 50 credits per day]]
+- Later: 2024-07-31 · Descript · [[Changes/Descript/2024-07-31-underlord-usage-limits|Underlord usage limits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-05-05'
 description: 'GitHub Copilot CLI · 2026-05-05 · Reliability and Performance: Improve
   stability on Windows by working around a V8 crash in Node 24.x'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1237
+  lag_days: 2724
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef602f61fd731088469c085c08610358fa88d73513a9ce5b0dcd6f0575486da6
+machine_hash: e6c785a202f8d15ca35728161a2c62dfeffafaa38c247b69920edbf5524bb1d5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve CLI startup speed by loading custom CA certificates asynchronously]]
-- Later: 2026-05-05 · Ollama · [[Changes/Ollama/2026-05-05-gemma-4-mtp-speculative-decoding-is-now-supported-on-macs-this-can-give-over-a-2|Gemma 4 MTP speculative decoding is now supported on Macs]]
+- Later: 2026-05-05 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-05-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated survey insights with Copilot Highlights Web (Viva Glint)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

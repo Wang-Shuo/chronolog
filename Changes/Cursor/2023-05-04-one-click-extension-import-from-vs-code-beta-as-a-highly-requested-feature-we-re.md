@@ -5,20 +5,20 @@ description: 'Cursor · 2023-05-04 · Apps and Integrations: One-Click Extension
   from VS Code (beta). As a highly requested feature, we''re excited to present the
   beta…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 42
+  lag_days: 1602
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d63eea0a2371fc9578e3208bdd7da2ad68dd221fd9c9779930f34456445a4b04
+machine_hash: 696e77f2432d4b495612263a2c8faef9374f8e94e73c13678863d1964a98e269
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,12 @@ record:
   title: One-Click Extension Import from VS Code (beta)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-  are announcing experimental support for AI plugins in ChatGPT]]'
+- '[[Changes/Notion/2023-03-23-embed-content-from-2-000-apps-like-mixpanel-and-twitch|Embed
+  content from 2,000 apps like Mixpanel and Twitch]]'
+- '[[Changes/Descript/2023-04-17-edit-in-descript-projects-created-via-edit-in-descript-integrations-https-help-d|Edit
+  in Descript]]'
+- '[[Changes/Notion/2023-04-27-slack-integration-2-0-save-messages-and-configure-notifications|Slack
+  integration 2.0: save messages and configure notifications]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c|cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -79,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earlier: 2023-04-27 · Notion · [[Changes/Notion/2023-04-27-slack-integration-2-0-save-messages-and-configure-notifications|Slack integration 2.0: save messages and configure notifications]]
 - Later: 2023-05-12 · ChatGPT · [[Changes/ChatGPT/2023-05-12-plugins-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-use-third-party|Plugins: Try a new version of ChatGPT that knows when and how to use third-party…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

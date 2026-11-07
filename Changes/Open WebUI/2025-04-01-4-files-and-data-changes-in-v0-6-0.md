@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-01 · Files and Data: 4 changes in v0.6.0 �
   **Client-Side PDF Generation**: PDF exports are now generated fully client-side
   for…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 677
+  lag_days: 2022
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80f26c23b188b3f866c8b1f0931c98085d8f1d8db8e80aaa453f0ba9c798dc3a
+machine_hash: cfec565d14e6863d5cc4a7431c53ba7ab8d65c871bb05a82b4edfc690512cd07
 product: open-webui
 product_name: Open WebUI
 record:
@@ -115,7 +115,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

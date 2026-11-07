@@ -4,20 +4,20 @@ date: '2025-11-14'
 description: 'Gemini CLI · 2025-11-14 · Apps and Integrations: 3 changes in Release
   v0.15.0 — [feat]: Add `/extensions restart` command by @jakemac53 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 967
+  lag_days: 2527
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6980108dc5d54511eed251446caa8b91b7d2ecf3e69568ba3809c113c14b585
+machine_hash: 941c6db549b26fe6e061abc68896338b6daa873971dd8ad83de6c7d2faa9f8d0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.15.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

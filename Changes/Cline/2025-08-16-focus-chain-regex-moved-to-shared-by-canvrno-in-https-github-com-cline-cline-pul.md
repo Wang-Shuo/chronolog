@@ -4,19 +4,20 @@ date: '2025-08-16'
 description: 'Cline · 2025-08-16 · Collaboration: Focus Chain regex moved to /shared
   by @canvrno in https://github.com/cline/cline/pull/5592'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 815
+  lag_days: 2409
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20b2932b95b198b9fc81f6d4f1ddf7237fe03e18b6df0f5d6926b9a34985978f
+machine_hash: 32fdaa59a2d96bdbf7789217038ebd9e4baf3840c1b5b7176e0b9b1e0521e697
 product: cline
 product_name: Cline
 record:
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

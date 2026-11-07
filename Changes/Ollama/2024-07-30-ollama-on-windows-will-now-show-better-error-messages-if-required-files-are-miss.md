@@ -4,20 +4,20 @@ date: '2024-07-30'
 description: 'Ollama · 2024-07-30 · Mobile and Desktop: Ollama on Windows will now
   show better error messages if required files are missing'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 504
+  lag_days: 2088
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72c2492b55a4c3d7b06c334d0ad72749329c871ce327331d6ecb14d83e121746
+machine_hash: e7bd8f568d803b81240ea63c961899e0dcf6b52194141ef25c69f5f751f1e89e
 product: ollama
 product_name: Ollama
 record:
@@ -45,12 +45,11 @@ record:
     missing
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-08-ensure-sh-are-lf-style-so-that-they-can-be-used-directly-by-docker-for-windows-b|Ensure
-  .sh are LF-style, so that they can be used directly by Docker for Windows]]'
-- "[[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|\U0001F504
-  Font Change for Windows]]"
+- '[[Changes/Notion/2024-07-17-use-notion-calendar-on-android|Use Notion Calendar
+  on Android]]'
 - '[[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider
   is better at offering to add files to the chat on Windows]]'
+- '[[Changes/Notion/2024-07-29-notion-ai-global-shortcut|Notion AI global shortcut]]'
 source_release: '[[Releases/Ollama/ollama-2024-07-30-v0-3-1-github-167744592-27db223d|ollama-2024-07-30-v0-3-1-github-167744592-27db223d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -82,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-07-18 · Aider · [[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider is better at offering to add files to the chat on Windows]]
-- Later: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-haptic-feedback-on-support-devices-android-devices-now-support-haptic-feedback-f|🤳 Haptic Feedback on Support Devices]]
+- Earlier: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-notion-ai-global-shortcut|Notion AI global shortcut]]
+- Later: 2024-07-31 · Descript · [[Changes/Descript/2024-07-31-file-upload-speed-boost-on-web|File upload speed boost on Web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

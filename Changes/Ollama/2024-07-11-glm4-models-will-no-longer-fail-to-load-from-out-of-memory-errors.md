@@ -4,20 +4,20 @@ date: '2024-07-11'
 description: 'Ollama · 2024-07-11 · Reliability and Performance: `glm4` models will
   no longer fail to load from out of memory errors'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 574
+  lag_days: 2061
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6197b54c79d17d724ab199b21f79d107291bd48b0d9584122b44a81af842ed1e
+machine_hash: ae3e903ebaa2f72477653e2865f70cdc9cd5a98c43511b239b659e9acaf74033
 product: ollama
 product_name: Ollama
 record:
@@ -51,10 +51,10 @@ record:
   title: '`glm4` models will no longer fail to load from out of memory errors'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-02-5-reliability-and-performance-changes-in-v0-2-0|5 Reliability
-  and Performance changes in v0.2.0]]'
 - '[[Changes/Aider/2024-07-04-3-reliability-and-performance-changes-in-v0-42-0|3 Reliability
   and Performance changes in v0.42.0]]'
+- '[[Changes/Descript/2024-07-09-descript-for-web-is-officially-out-of-beta|Descript
+  for Web is officially out of Beta]]'
 - '[[Changes/Open WebUI/2024-07-09-3-reliability-and-performance-changes-in-v0-3-8|3
   Reliability and Performance changes in v0.3.8]]'
 source_release: '[[Releases/Ollama/ollama-2024-07-11-v0-2-2-github-164924263-3df4ad06|ollama-2024-07-11-v0-2-2-github-164924263-3df4ad06]]'
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

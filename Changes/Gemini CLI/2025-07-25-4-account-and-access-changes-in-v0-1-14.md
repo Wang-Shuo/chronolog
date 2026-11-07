@@ -4,20 +4,21 @@ date: '2025-07-25'
 description: 'Gemini CLI · 2025-07-25 · Account and Access: 4 changes in Release v0.1.14
   — feat(auth): Enhance OAuth callback for robust Docker support by @chux0519 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 848
+  lag_days: 1823
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b017a12bc07099ab1bdc9e5f0abb97981ed20cbedfbab4be0059ca0ba058708d
+machine_hash: e2be2de20654cfba3ef03a6498f2df2f0440376edf5f9ed3ba7d8593e2cc6120
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -109,7 +110,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

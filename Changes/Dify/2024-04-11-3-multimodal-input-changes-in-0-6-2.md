@@ -5,20 +5,20 @@ description: 'Dify · 2024-04-11 · Multimodal Input: 3 changes in v0.6.2 EMERGE
   FIX — feat: Enabled vision feature support of OpenAI Compatible API by @takatost
   in #3272'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 205
+  lag_days: 1973
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f169fa4b3d17f6bf94858d0281daf4129aeda417a233b280c5ee7a31746d8c0
+machine_hash: e63d66093889d9f2f202b8ee90c71bc0362568e563c09082d86c79f59839ceda
 product: dify
 product_name: Dify
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Multimodal Input changes in 0.6.2
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-24-our-expansion-into-text-to-image-capabilities-marks-a-significant-step-in-our-mu|Our
-  expansion into text-to-image capabilities marks a significant step in our…]]'
 - '[[Changes/Ollama/2024-02-02-3-multimodal-input-changes-in-v0-1-23|3 Multimodal
   Input changes in v0.1.23]]'
+- '[[Changes/Synthesia/2024-02-19-today-we-are-introducing-layers-another-nice-feature-to-help-you-edit-the-video|Layers:
+  now easier to select and edit]]'
 - '[[Changes/Runway/2024-04-05-create-presets-to-easily-reuse-gen-2-prompt-text-camera-movements-motion-brushes|Custom
   Gen-2 presets]]'
 source_release: '[[Releases/Dify/dify-2024-04-11-0-6-2-github-150787794-6e4c067b|dify-2024-04-11-0-6-2-github-150787794-6e4c067b]]'
@@ -98,7 +98,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

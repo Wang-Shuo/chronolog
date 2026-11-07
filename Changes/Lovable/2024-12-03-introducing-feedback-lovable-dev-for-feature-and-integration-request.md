@@ -4,20 +4,20 @@ date: '2024-12-03'
 description: 'Lovable · 2024-12-03 · Apps and Integrations: Introducing feedback.lovable.dev
   for feature and integration request.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 621
+  lag_days: 2181
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ce6ca73a37d50c7bb3b8f6ec39160d23e258f3cc4327c3f9cc70f9f0f670710d
+machine_hash: 7a3a0e48feedeeee477f5c2514089eee0b63090e1aed5df3b8a44d31a63029aa
 product: lovable
 product_name: Lovable
 record:
@@ -81,13 +81,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-12-03 · Dify · [[Changes/Dify/2024-12-03-you-can-now-use-github-com-links-directly-for-dsls-instead-of-relying-on-raw-git|Use github.com links directly for DSLs instead of relying on raw.githubusercontent.com]]
-- Later: 2024-12-09 · Dify · [[Changes/Dify/2024-12-09-2-apps-and-integrations-changes-in-0-13-2|2 Apps and Integrations changes in 0.13.2]]
+- Later: 2024-12-05 · Notion · [[Changes/Notion/2024-12-05-get-answers-from-github-beta|Get answers from GitHub Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

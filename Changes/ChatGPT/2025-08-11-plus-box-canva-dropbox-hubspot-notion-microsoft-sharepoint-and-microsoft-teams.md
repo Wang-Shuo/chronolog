@@ -4,19 +4,20 @@ date: '2025-08-11'
 description: 'ChatGPT · 2025-08-11 · Collaboration: Plus: Box, Canva, Dropbox, HubSpot,
   Notion, Microsoft SharePoint, and Microsoft Teams'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 810
+  lag_days: 2404
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 53e40cafb828e26c7ed5d6bfba2e5b42388c43cf608938fd51f1a9442e3c450b
+machine_hash: 1e78a91c24a9f7c3b6f16c7914836c70bf3237bd64090aa7b87363ba5a4157f5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

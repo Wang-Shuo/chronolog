@@ -4,20 +4,20 @@ date: '2026-08-01'
 description: 'OpenCode · 2026-08-01 · Mobile and Desktop: 2 changes in v1.18.11 —
   Desktop Open external links in the system browser instead of inside the app.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1236
+  lag_days: 2820
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 76d7adf4110f5926dfa99505610b8ab9961b41a7b809d94115650cffef26de2b
+machine_hash: ff68f88111ca5b32efaf71f6243fb275b424bfcdd2420d2adf1001ba1de2dd9e
 product: opencode
 product_name: OpenCode
 record:
@@ -43,7 +43,8 @@ record:
   title: 2 Mobile and Desktop changes in v1.18.11
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]'
+- '[[Changes/Notion/2026-07-30-try-it-by-going-to-settings-preferences-appearance-available-on-desktop-and-web|Try
+  it by going to Settings  Preferences  Appearance]]'
 - '[[Changes/OpenCode/2026-07-30-4-mobile-and-desktop-changes-in-v1-18-10|4 Mobile
   and Desktop changes in v1.18.10]]'
 - '[[Changes/Google Antigravity/2026-07-31-improved-mobile-ui-with-native-pickers-and-no-keyboard-popup-on-load|Improved
@@ -90,7 +91,7 @@ Source: https://opencode.ai/changelog/v1.18.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

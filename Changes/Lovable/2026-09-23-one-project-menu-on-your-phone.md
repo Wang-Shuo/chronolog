@@ -3,20 +3,20 @@ card_id: lovable-2026-09-23-675ce8
 date: '2026-09-23'
 description: 'Lovable · 2026-09-23 · Interface Experience: On your phone, the [**Project…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1353
+  lag_days: 2719
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c16357ce9d0c450ed9fedf850232b72f0f90810bc3d495cc57917fc4a28f65de
+machine_hash: 63260d365a87529ce115206db9a31e6ca45e0860336f0cb753f366cdbdb08975
 product: lovable
 product_name: Lovable
 record:
@@ -44,12 +44,12 @@ record:
   title: One project menu on your phone
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-22-2-interface-experience-changes-in-hub-v2-16-0-windows-subsystem|2
-  Interface Experience changes in HUB v2.16.0 — Windows Subsystem…]]'
 - '[[Changes/Google Antigravity/2026-09-22-4-interface-experience-changes-in-hub-v2-17-0-plan-before-you-build|4
   Interface Experience changes in HUB v2.17.0 — Plan before you build]]'
 - '[[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface
   Experience changes in v2.1.281]]'
+- '[[Changes/Kimi Code/2026-09-23-3-interface-experience-changes-in-kimi-code-2-1-0|3
+  Interface Experience changes in Kimi Code 2.1.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-23-2026-09-23-6719e501|lovable-2026-09-23-2026-09-23-6719e501]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface Experience changes in v2.1.281]]
+- Earlier: 2026-09-23 · Kimi Code · [[Changes/Kimi Code/2026-09-23-3-interface-experience-changes-in-kimi-code-2-1-0|3 Interface Experience changes in Kimi Code 2.1.0]]
 - Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-19-interface-experience-changes-in-v2026-9-6|19 Interface Experience changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

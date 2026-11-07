@@ -4,20 +4,20 @@ date: '2026-10-10'
 description: "Open WebUI · 2026-10-10 · Context Window: 5 changes in v0.12.0 — \U0001F9E0
   **Compaction during long tool runs.** With context compaction on and native function…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1255
+  lag_days: 2579
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ccfee99358b2ed76acba4000938a6596b7180d0eb3bff70c2ffb6cd7f9869b1
+machine_hash: a66aa862f9d70355fe91cab633eaa939c25b826d1c4f1ae8ec7247f4fafe3d05
 product: open-webui
 product_name: Open WebUI
 record:
@@ -141,7 +141,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

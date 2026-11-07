@@ -4,19 +4,20 @@ date: '2026-01-21'
 description: 'Codex CLI · 2026-01-21 · Collaboration: 9 changes in 0.88.0 — Added
   developer instructions for collaboration modes. (#9424)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 973
+  lag_days: 2567
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 884b6a8d954aecf0f31708a9cd13c48f136356c886982568c6fc0ecdaa8c2a85
+machine_hash: 0229d9b3d5ec4092bc480c3c41f5bad31924c36b0bba3c50c756d425cefcc4ad
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,12 +57,12 @@ record:
   title: 9 Collaboration changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/Granola/2026-01-15-granola-now-works-seamlessly-for-the-tens-of-millions-of-people-who-work-on-team|Sign
-  in with Microsoft is here]]'
-- '[[Changes/Claude/2026-01-16-claude-code-access-added-to-team-plan-standard-seats|Claude
-  Code access added to Team plan Standard seats]]'
 - '[[Changes/Codex CLI/2026-01-16-collaboration-wait-calls-can-block-on-multiple-ids-in-one-request-simplifying-mu|Collaboration
   wait calls can block on multiple IDs in one request, simplifying…]]'
+- '[[Changes/Notion/2026-01-20-understand-how-your-team-uses-notion-ai|Understand
+  how your team uses Notion AI]]'
+- '[[Changes/Synthesia/2026-01-20-set-default-access-on-folders-view-comment-edit-or-full-and-share-with-specific|Control
+  access with folder sharing]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'
 source_type: github_releases
 theme: collaboration
@@ -117,14 +118,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.88.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-collaboration-wait-calls-can-block-on-multiple-ids-in-one-request-simplifying-mu|Collaboration wait calls can block on multiple IDs in one request, simplifying…]]
+- Earlier: 2026-01-20 · Synthesia · [[Changes/Synthesia/2026-01-20-set-default-access-on-folders-view-comment-edit-or-full-and-share-with-specific|Control access with folder sharing]]
 - Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-9583-add-collaboration-mode-to-turncontextitem-charley-oai|♯9583 Add collaboration_mode to TurnContextItem @charley-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

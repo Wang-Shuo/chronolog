@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "partition_counts": {
+    "new": 317,
+    "improved": 160,
+    "fixed": 241
+  },
+  "deduplicated_records": 534,
+  "unfiltered_prefix_preserved": 500,
+  "all_partitions_terminal": true
+}

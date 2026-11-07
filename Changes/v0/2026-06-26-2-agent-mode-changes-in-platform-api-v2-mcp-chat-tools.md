@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 76d3842d2aac0ce2b2fa2d7f9c0a2080290311c363b4a55935944a1ecd2c6587
+machine_hash: 4886e28620e78c64ba2f235f572976a7d699c2fb2dd8516e82280203ab74c329
 product: v0
 product_name: v0
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Agent Mode changes in Platform API v2, MCP chat tools…
   type: change
 related_changes:
-- '[[Changes/Runway/2026-06-25-make-marketing-that-drives-revenue-runway-agent-creates-entire-campaigns-analyze|Agent
-  2.0]]'
-- '[[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved
-  claude agents completed list to fill available vertical space]]'
 - '[[Changes/Cline/2026-06-26-temporarily-disable-subagents-in-the-vs-code-extension-while-the-sdk-backed-expe|Temporarily
   disable subagents in the VS Code extension while the SDK-backed…]]'
+- '[[Changes/Kimi Code/2026-06-26-3-agent-mode-changes-in-kimi-code-0-20-0|3 Agent
+  Mode changes in Kimi Code 0.20.0]]'
+- '[[Changes/Kimi Code/2026-06-26-optimize-the-default-system-prompt-and-built-in-tool-descriptions-to-stop-the-ag|Optimize
+  the default system prompt and built-in tool descriptions to stop the agent…]]'
 source_release: '[[Releases/v0/v0-2026-06-26-2026-06-26-0ee85750|v0-2026-06-26-2026-06-26-0ee85750]]'
 source_type: v0_changelog
 theme: agent-mode
@@ -91,7 +91,7 @@ Source: https://v0.app/changelog#2026-06-26
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-temporarily-disable-subagents-in-the-vs-code-extension-while-the-sdk-backed-expe|Temporarily disable subagents in the VS Code extension while the SDK-backed…]]
+- Earlier: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-optimize-the-default-system-prompt-and-built-in-tool-descriptions-to-stop-the-ag|Optimize the default system prompt and built-in tool descriptions to stop the agent…]]
 - Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-2-agent-mode-changes-in-v2-1-196|2 Agent Mode changes in v2.1.196]]
 <!-- chronolog:end -->
 

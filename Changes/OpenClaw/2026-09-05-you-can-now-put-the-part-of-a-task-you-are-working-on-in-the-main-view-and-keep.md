@@ -4,19 +4,20 @@ date: '2026-09-05'
 description: 'OpenClaw · 2026-09-05 · Developer Workflow: You can now put the part
   of a task you are working on in the main view and keep the conversation beside it…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1267
+  lag_days: 2916
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a7263c4fcf1df56138a9ffc1fda069028152c745c25c764f88495b37e107814
+machine_hash: 5ee820bff95681f03e1395eb9c31174f25d2e1c6b0fc7fed51f12a2019acd641
 product: openclaw
 product_name: OpenClaw
 record:
@@ -49,10 +50,10 @@ record:
   title: Put the part of a task you are working on in the main view and keep the conversation…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer
-  Workflow changes in v2.1.261]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-detect-the-herdr-terminal-multiplexer-instead-of-mistaking-it-for-tmux-so-the-ki|Detect
   the herdr terminal multiplexer instead of mistaking it for tmux, so the Kitty…]]'
+- '[[Changes/Kimi Code/2026-09-04-3-developer-workflow-changes-in-kimi-code-0-41-0|3
+  Developer Workflow changes in Kimi Code 0.41.0]]'
 - '[[Changes/OpenClaw/2026-09-05-16-developer-workflow-changes-in-v2026-9-2|16 Developer
   Workflow changes in v2026.9.2]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'
@@ -105,14 +106,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-detect-the-herdr-terminal-multiplexer-instead-of-mistaking-it-for-tmux-so-the-ki|Detect the herdr terminal multiplexer instead of mistaking it for tmux, so the Kitty…]]
+- Earlier: 2026-09-04 · Kimi Code · [[Changes/Kimi Code/2026-09-04-3-developer-workflow-changes-in-kimi-code-0-41-0|3 Developer Workflow changes in Kimi Code 0.41.0]]
 - Later: 2026-09-07 · ElevenLabs · [[Changes/ElevenLabs/2026-09-07-elevenlabs-cli|ElevenLabs CLI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

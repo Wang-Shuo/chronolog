@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 105296d25cdfd73e1cb7d145ea16c6fc5817d5f078d3a9c71a5c089aac07370c
+machine_hash: 30b6c3ca94f18b6f93c902904bdfc0591ab5fe0cb39e3eb803bc154870ca3eea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -78,10 +78,10 @@ record:
   title: GPT-6 and Intelligent UI in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added
-  prompt caching to $.model.complete for mods]]'
 - '[[Changes/Lovable/2026-10-06-gemini-3-6-flash-is-deprecated-for-your-app-s-ai-features|Gemini
   3.6 Flash is deprecated for your app''s AI features]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-regenerate-response-for-alternative-answers-web-microsoft-365-copilot|Regenerate
+  response for alternative answers Web (Microsoft 365 Copilot)]]'
 - '[[Changes/OpenHands/2026-10-06-7-model-support-changes-in-v1-25-0|7 Model Support
   changes in v1.25.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7|chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7]]'

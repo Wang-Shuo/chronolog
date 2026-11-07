@@ -4,20 +4,19 @@ date: '2025-03-07'
 description: 'Lovable · 2025-03-07 · Editor Experience: [Dev Mode:](https://x.com/lovable_dev/status/1897693825767768542)
   Easily edit any code of your project directly in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 724
+  lag_days: 2308
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c3cd2a7fae8b5de2a9b9240c296981ac1ffaa162584dfd94b8ea6e24b2be0f1
+machine_hash: bc781cd1144b335049b43f88881a7a41358be273cf0c24df93261e4917bce76b
 product: lovable
 product_name: Lovable
 record:
@@ -47,8 +46,7 @@ record:
     edit any…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-02-21-improvements-in-visual-edits-https-x-com-lovable-dev-status-1892249059718484100|Improvements
-  in visual edits((source link)]]'
+- '[[Changes/Descript/2025-02-25-editor-updates|Editor updates]]'
 - '[[Changes/Lovable/2025-02-28-edit-mode-auto-close-after-editing-an-element|''Edit''
   mode auto close after editing an element]]'
 - '[[Changes/Lovable/2025-02-28-introducing-code-viewer-to-lovable-https-x-com-lovable-dev-status-18955001518897|Introducing
@@ -88,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

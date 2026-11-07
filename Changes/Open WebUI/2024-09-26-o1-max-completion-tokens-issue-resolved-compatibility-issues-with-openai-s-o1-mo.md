@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de906273eaea8aae141b5b361bac6b46c10928ff6a6f4447a02402196a6871b8
+machine_hash: cd51bb837e13a33adae7c8d2cd1ab79a880ff5ca48219804addca8154797cc02
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,12 +58,11 @@ record:
   title: "**\U0001F527 O1 Max Completion Tokens Issue**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-21-task-model-unloading-issue-modified-task-handling-to-use-the-ollama-api-chat-end|\U0001F310
-  Task Model Unloading Issue]]"
 - '[[Changes/Ollama/2024-09-23-2-model-support-changes-in-v0-3-12|2 Model Support
   changes in v0.3.12]]'
 - '[[Changes/Open WebUI/2024-09-24-3-model-support-changes-in-v0-3-24|3 Model Support
   changes in v0.3.24]]'
+- '[[Changes/Notion/2024-09-25-chat-about-anything|Chat about anything]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-26-v0-3-30-github-176962132-1aac9ab1|open-webui-2024-09-26-v0-3-30-github-176962132-1aac9ab1]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-3-model-support-changes-in-v0-3-24|3 Model Support changes in v0.3.24]]
+- Earlier: 2024-09-25 · Notion · [[Changes/Notion/2024-09-25-chat-about-anything|Chat about anything]]
 - Later: 2024-09-26 · OpenHands · [[Changes/OpenHands/2024-09-26-display-full-model-name-in-settings-ui-3900-by-iaavas-in-https-github-com-all-ha|Display full model name in Settings UI (♯3900)]]
 <!-- chronolog:end -->
 

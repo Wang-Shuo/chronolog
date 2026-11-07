@@ -4,20 +4,20 @@ date: '2026-10-10'
 description: 'OpenClaw · 2026-10-10 · Pricing Model: 4 changes in v2026.10.1 — The
   selected provider receives bounded request text, up to two recent visible exchanges…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1395
+  lag_days: 3013
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9dc1a8f55a7e036a5a53cfc81990b18294e3c20b43af1f29a4a69c56ed24128
+machine_hash: 6075c269f39216cfe9a0f4bbc92c70d33ce448c17ecb88d53fa78296d47e23ed
 product: openclaw
 product_name: OpenClaw
 record:
@@ -129,7 +129,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

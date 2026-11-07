@@ -4,20 +4,20 @@ date: '2024-12-09'
 description: 'Dify · 2024-12-09 · Apps and Integrations: 2 changes in v0.13.2 — **Explore
   Link**: Easily open apps in Explore with a simple “Open in Explore” link on the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 627
+  lag_days: 2187
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 982a0596b35fcab8484e30b3e9e1b96df4c418e319488323e5110e115fd34de1
+machine_hash: 82726e0a31b83d9ba9e624a7b965012d7b9e2a2af8c106b367baf72b85aba52d
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in 0.13.2
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-12-02-expanding-workspace-extensions-to-more-languages-keep-and-tasks|Expanding
-  Workspace extensions to more languages: Keep and Tasks]]'
 - '[[Changes/Dify/2024-12-03-you-can-now-use-github-com-links-directly-for-dsls-instead-of-relying-on-raw-git|Use
   github.com links directly for DSLs instead of relying on raw.githubusercontent.com]]'
 - '[[Changes/Lovable/2024-12-03-introducing-feedback-lovable-dev-for-feature-and-integration-request|Introducing
   feedback.lovable.dev for feature and integration request]]'
+- '[[Changes/Notion/2024-12-05-get-answers-from-github-beta|Get answers from GitHub
+  Beta]]'
 source_release: '[[Releases/Dify/dify-2024-12-09-0-13-2-github-189680293-b531c555|dify-2024-12-09-0-13-2-github-189680293-b531c555]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,14 +87,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.13.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-12-03 · Lovable · [[Changes/Lovable/2024-12-03-introducing-feedback-lovable-dev-for-feature-and-integration-request|Introducing feedback.lovable.dev for feature and integration request]]
+- Earlier: 2024-12-05 · Notion · [[Changes/Notion/2024-12-05-get-answers-from-github-beta|Get answers from GitHub Beta]]
 - Later: 2024-12-12 · Cline · [[Changes/Cline/2024-12-12-3-apps-and-integrations-changes-in-v2-2-0|3 Apps and Integrations changes in v2.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

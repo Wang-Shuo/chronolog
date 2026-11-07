@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-08-21 · Reliability and Performance: 2 changes
   v0.3.14 — **\U0001F500 Cloned Model Chat Freezing Issue**: Fixed a bug where cloning
   many model…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 615
+  lag_days: 2102
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f940853667a7d07f214397e0a54728a9c95fdd522f0001047f7464b22452956
+machine_hash: 9a1dceafd242c53afc545bb84881e6906aa8deeec9e5cda1af22e39327942a6b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

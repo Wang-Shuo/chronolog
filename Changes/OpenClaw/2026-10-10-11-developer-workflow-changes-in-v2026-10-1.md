@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-10-10 · Developer Workflow: 11 changes in v2026.
   — Paired Macs also find Claude Code conversations in a custom CLAUDE_CONFIG_DIR
   when it is…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1302
+  lag_days: 2951
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c364a75726e6a3f19a0b9fa60a9af5fb2bd3fce94ecf2e2eb45cf9012bd845f
+machine_hash: 4ddbcaabdcb33223e543b79a33239a8bb365430b2333b2d5552d2f05956f181a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -184,7 +185,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

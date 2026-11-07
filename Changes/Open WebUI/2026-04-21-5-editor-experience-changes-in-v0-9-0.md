@@ -5,20 +5,19 @@ description: "Open WebUI · 2026-04-21 · Editor Experience: 5 changes in v0.9.0
   **Backend outlet filters for local and persisted chats.** Pipeline and function
   outlet…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1134
+  lag_days: 2718
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55171db256c0fe13d04ee914ccb3b0b3a9d17be3962609a3ef9bfa6d8eb5d434
+machine_hash: 83f5515aa676c7041d6449abb1e6af5107535b6ab1da3dbcea5e55d29b71d9dd
 product: open-webui
 product_name: Open WebUI
 record:
@@ -62,12 +61,12 @@ record:
   title: 5 Editor Experience changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-19-core-fix-github-copilot-anthropic-haiku-requests-by-disabling-unsupported-tool-s|Core
-  Fix GitHub Copilot Anthropic Haiku requests by disabling unsupported tool streaming]]'
-- '[[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor
-  Experience changes in v2.1.116]]'
 - '[[Changes/OpenCode/2026-04-20-core-preserved-concurrent-edits-to-the-same-file-instead-of-letting-parallel-edi|Core
   Preserved concurrent edits to the same file instead of letting parallel edits…]]'
+- '[[Changes/HeyGen/2026-04-21-you-recorded-a-90-minute-podcast-your-editor-needs-6-hours-to-pull-clips-your-au|You
+  recorded a 90-minute podcast]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-21-rich-bing-web-answer-cards-in-copilot-chat-windows-web-microsoft-365-copilot-cha|Rich
+  Bing web answer cards in Copilot Chat Windows, Web (Microsoft 365 Copilot chat)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a|open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a]]'
 source_type: github_releases
 theme: editor-experience
@@ -123,14 +122,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-20 · OpenCode · [[Changes/OpenCode/2026-04-20-core-preserved-concurrent-edits-to-the-same-file-instead-of-letting-parallel-edi|Core Preserved concurrent edits to the same file instead of letting parallel edits…]]
+- Earlier: 2026-04-21 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-21-rich-bing-web-answer-cards-in-copilot-chat-windows-web-microsoft-365-copilot-cha|Rich Bing web answer cards in Copilot Chat Windows, Web (Microsoft 365 Copilot chat)]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|/config settings (theme, editor mode, verbose, etc.) now persist…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

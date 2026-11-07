@@ -5,20 +5,19 @@ description: 'Cursor · 2023-11-27 · Editor Experience: Interpreter Mode Beta: 
   can now enable Interpreter Mode in the "More" tab. This gives the chat access to
   a Python…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 258
+  lag_days: 1842
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef98565e6b0610dca6ca4be7cf6b6b10f8ba2c933d0edcf220c06876045f3ea7
+machine_hash: d5b491cb3b3960c4149c818f27b2f4e5d1fd8d21225b462edaf8e0f05b78781a
 product: cursor
 product_name: Cursor
 record:
@@ -46,9 +45,8 @@ record:
     tab'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-10-apply-chat-suggestions-click-on-the-play-button-on-any-code-block-to-have-the-ai|Apply
-  chat suggestions]]'
 - '[[Changes/Cursor/2023-11-15-copilot-improvements-2d35f8|Copilot++ improvements]]'
+- '[[Changes/Descript/2023-11-15-ai-script-rewriter|AI Script Rewriter]]'
 - '[[Changes/Cursor/2023-11-22-experimental-feature-go-to-more-interpreter-mode-to-enable-it-gives-the-model-ac|Experimental
   feature: go to "More"  "Interpreter Mode" to enable it]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3|cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3]]'
@@ -88,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Suno · 2026-08-13 · Music Generation: Wavetable synth: Powerful 
   versatile synth for adding basses, leads, pads, chords and other synth sounds to
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 964
+  lag_days: 2430
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 29150cdd1f2924e585b43ed6af8c285ac08fde195790e4b1a8bfa792464f35ce
+machine_hash: 7d3a1c10f903f347111372c47d6fc474142dc92782d924d649bfd592a11ca499
 product: suno
 product_name: Suno
 record:
@@ -48,8 +48,8 @@ record:
     pads, chords…'
   type: change
 related_changes:
-- '[[Changes/Suno/2026-07-20-drag-the-new-duration-slider-in-the-create-form-to-pick-your-song-length|Duration
-  Slider on Web]]'
+- '[[Changes/HeyGen/2026-07-23-result-one-prompt-produces-a-complete-video-presenter-b-roll-captions-music-and|Result:
+  One prompt produces a complete video: presenter, B-roll, captions, music…]]'
 - '[[Changes/Suno/2026-07-31-songs-that-look-as-good-as-they-sound|Songs that look
   as good as they sound]]'
 - '[[Changes/Suno/2026-08-07-we-brought-voices-to-both-ios-and-android-record-your-voice-once-and-use-it-on-a|We
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

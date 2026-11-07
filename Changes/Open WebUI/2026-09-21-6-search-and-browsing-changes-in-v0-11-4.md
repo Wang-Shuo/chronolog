@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-09-21 · Search and Browsing: 6 changes in v0.1
   — \U0001F4CF **Exa result length cap.** Web search through Exa can be held to a
   number of characters…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1278
+  lag_days: 2307
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a403aed09517ffeb23a6ede0c3535e449cb09a427bbe576bba3826f601781e7a
+machine_hash: 596a3cfd4eec257b3a1f0f74ac464b14224cc41212958aafb0a65465c235fcc5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -144,7 +144,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Codex CLI · 2026-03-26 · Enterprise and Administration: #15789 Treat
   ChatGPT `hc` plan as Enterprise @arnavdugar-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1056
+  lag_days: 2263
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af5bcffcc9c0eb121236b48541096be6a622f83b7c11df10bd862bf67505757c
+machine_hash: 4ed07460b147093cc8c34fd29792efdb1a972ce3eb3b047eb29541dadfb3c6c2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,9 @@ record:
   title: '#15789 Treat ChatGPT `hc` plan as Enterprise @arnavdugar-openai'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-03-20-enterprise-audit-log-portal|Enterprise Audit Log Portal]]'
 - '[[Changes/ElevenLabs/2026-03-25-workspace|Workspace]]'
+- '[[Changes/HeyGen/2026-03-25-we-expanded-admin-controls-for-enterprise-workspaces-here-is-a-summary-of-what-c|We
+  expanded admin controls for Enterprise workspaces]]'
 - '[[Changes/Claude Code/2026-03-26-added-allowedchannelplugins-managed-setting-for-team-enterprise-admins-to-define|Added
   allowedChannelPlugins managed setting for team/enterprise admins to define…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6|codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6]]'
@@ -97,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2024-08-10'
 description: 'Aider · 2024-08-10 · Developer Workflow: 5 changes in Aider v0.49.0
   — New `/clipboard` command to paste images or text from the clipboard, replaces…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 511
+  lag_days: 2160
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ac597250270d2705069d9e661a15d11587443a4f127a865651b75662d2a89f1
+machine_hash: 9d43c174083c5f6e55e97252c23883378b7c77f40012cc4cd399df21ada6bbe2
 product: aider
 product_name: Aider
 record:
@@ -106,7 +107,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.49.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

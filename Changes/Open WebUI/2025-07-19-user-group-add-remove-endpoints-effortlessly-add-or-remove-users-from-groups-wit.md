@@ -4,19 +4,20 @@ date: '2025-07-19'
 description: "Open WebUI · 2025-07-19 · Collaboration: \U0001F465 **User Group Add/Remove
   Endpoints**: Effortlessly add or remove users from groups with new, improved…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 787
+  lag_days: 2381
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 15bae1948621d4df6086c24b28fe0edb40170460c6e31674ec498f0fefce72ac
+machine_hash: 9a0cf0fbb6408915362f5d73e98ba59a5380ef2095023f17bba14ac0dd000e38
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,11 +60,12 @@ record:
   title: "\U0001F465 **User Group Add/Remove Endpoints**"
   type: change
 related_changes:
-- '[[Changes/Replit/2025-07-04-teams-app-store-experience|Teams App Store experience]]'
-- '[[Changes/Cline/2025-07-11-request-validation-and-remove-credit-balance-for-cline-team-by-abeatrix-in-https|Request
-  validation and remove credit balance for cline team]]'
-- '[[Changes/Open WebUI/2025-07-14-4-collaboration-changes-in-v0-6-16|4 Collaboration
-  changes in v0.6.16]]'
+- '[[Changes/Descript/2025-07-17-with-brand-studio-your-team-can-now-maintain-brand-consistency-without-sacrifici|With
+  Brand Studio, your team can now maintain brand consistency without sacrificing…]]'
+- '[[Changes/Descript/2025-07-17-drive-owners-can-set-default-layout-packs-and-manage-share-branding|Drive
+  owners can set default layout packs and manage share branding]]'
+- '[[Changes/Descript/2025-07-17-set-default-layout-packs-ensure-every-new-project-starts-with-your-team-s-prefer|Set
+  default layout packs - Ensure every new project starts with your team''s…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-19-v0-6-17-github-233695159-4b5cb15b|open-webui-2025-07-19-v0-6-17-github-233695159-4b5cb15b]]'
 source_type: github_releases
 theme: collaboration
@@ -106,14 +108,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-4-collaboration-changes-in-v0-6-16|4 Collaboration changes in v0.6.16]]
+- Earlier: 2025-07-17 · Descript · [[Changes/Descript/2025-07-17-set-default-layout-packs-ensure-every-new-project-starts-with-your-team-s-prefer|Set default layout packs - Ensure every new project starts with your team's…]]
 - Later: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-move-duplicated-code-for-loading-the-protobuf-descriptor-set-into-a-shared-util|Move duplicated code for loading the protobuf descriptor set into a shared util file]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

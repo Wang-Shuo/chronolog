@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-03-20 · Collaboration: 2 changes in 1.
   — /copy writes formatted HTML to clipboard on Windows for pasting into Word, Outlook,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1031
+  lag_days: 2625
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 66f13a1d171e8561f17333b0c6e0a5d04ea1f5c4629f11390682cffe0157238e
+machine_hash: 4f6c2703ec0695d7fac5ed08dbe7ab88ce998af721e231701bdbafd98e7c917b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,11 +45,11 @@ record:
   title: 2 Collaboration changes in v1.0.10
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-03-16-workspace-knowledge|Workspace knowledge]]'
-- '[[Changes/v0/2026-03-16-added-support-for-linking-team-skills-to-design-systems|Added
-  support for linking team skills to design systems]]'
+- '[[Changes/Descript/2026-03-17-share-page|Share page]]'
 - '[[Changes/Dify/2026-03-17-refactor-web-split-share-text-generation-and-add-high-coverage-tests-by-codingon|refactor(web):
   split share text-generation and add high-coverage tests]]'
+- '[[Changes/Notion/2026-03-19-this-launch-wouldn-t-have-been-possible-without-collaboration-with-our-global-pa|This
+  launch wouldn’t have been possible without collaboration with our global…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-20-v1-0-10-github-299512094-807f990b|github-copilot-cli-2026-03-20-v1-0-10-github-299512094-807f990b]]'
 source_type: github_releases
 theme: collaboration
@@ -88,14 +89,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-refactor-web-split-share-text-generation-and-add-high-coverage-tests-by-codingon|refactor(web): split share text-generation and add high-coverage tests]]
+- Earlier: 2026-03-19 · Notion · [[Changes/Notion/2026-03-19-this-launch-wouldn-t-have-been-possible-without-collaboration-with-our-global-pa|This launch wouldn’t have been possible without collaboration with our global…]]
 - Later: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-2-collaboration-changes-in-v1-3-0|2 Collaboration changes in v1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-02-12'
 description: 'Codex CLI · 2026-02-12 · Editor Experience: Reduced repeated skill parse-error
   spam during active edits by increasing file-watcher debounce from 1s to 10s…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1066
+  lag_days: 2650
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c290e63b84d0d381a38091ccc477013bef76a42fd79e9646d2b2024514f1e81
+machine_hash: 8038ef608fb8b0436dc20398d4326e9bedd6a853e98afb7b0e9ca4cabd3dd36b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +43,10 @@ record:
   title: Reduced repeated skill parse-error spam during active edits by increasing…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-11-review-edit-the-node-generates-a-ui-where-humans-can-review-ai-outputs-and-modif|Review
-  & Edit: The node generates a UI where humans can review AI outputs…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-3-editor-experience-changes-in-v0-0-407|3
   Editor Experience changes in v0.0.407]]'
+- '[[Changes/HeyGen/2026-02-11-if-you-ve-been-exporting-to-capcut-or-another-editor-just-to-add-captions-and-ef|If
+  you''ve been exporting to CapCut or another editor just to add captions…]]'
 - '[[Changes/Cline/2026-02-12-3-editor-experience-changes-in-v3-58-0|3 Editor Experience
   changes in v3.58.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6|codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6]]'
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

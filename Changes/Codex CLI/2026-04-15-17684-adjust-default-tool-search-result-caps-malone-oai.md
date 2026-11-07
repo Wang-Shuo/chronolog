@@ -4,20 +4,20 @@ date: '2026-04-15'
 description: 'Codex CLI · 2026-04-15 · Search and Browsing: #17684 Adjust default
   tool search result caps @malone-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1119
+  lag_days: 2148
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f9dde5d9164e55373395a6e169795c88b81f1d64a1dedb36a5a7884a9d4bae8
+machine_hash: 3905dae632a8528896e22c9949a5cd8e3a673cee7bf925bf48c4c440a321927c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#17684 Adjust default tool search result caps @malone-oai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past
-  chat transcripts are now surfaced directly in at-mention search results]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-07-code-interpreter-now-works-on-files-found-via-chat-search-microsoft-365-copilot|Code
+  interpreter now works on files found via Chat search…]]'
 - '[[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|Outlook
   shared mailboxes and calendars in ChatGPT]]'
 - '[[Changes/Codex CLI/2026-04-11-2-search-and-browsing-changes-in-rust-v0-120-0|2
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-08-28 · Context Window: 2 changes in v0.6.26 �
   **File Content Preview in Modal Restored**: Fixed an issue where clicking on uploaded
   files…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 847
+  lag_days: 2171
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cda8b5a86cc6360ebe3e0d523dc7db586baa463c5a46eb847faf7c0bb7f4968f
+machine_hash: 7a3975795b41ca534a4d665621544f5c6625a2b4c17b665f0b8f936e07e32007
 product: open-webui
 product_name: Open WebUI
 record:
@@ -107,7 +107,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.26
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

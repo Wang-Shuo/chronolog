@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b610beb4d4187d8e6cf96342487b742a4fa45c0349524de7882fa1fc227c4fa
+machine_hash: 76e53b7b30b6995835217faf372baf728a771e5578d61c4851c1ba4db0cba838
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved auto mode denials
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-16-agent-mode-changes-in-v2026-9-3|16 Agent Mode
-  changes in v2026.9.3]]'
 - '[[Changes/Codex CLI/2026-09-09-6-agent-mode-changes-in-rust-v0-154-0|6 Agent Mode
   changes in rust-v0.154.0]]'
 - '[[Changes/Google Antigravity/2026-09-09-2-agent-mode-changes-in-hub-v2-13-0-introducing-new-documents|2
   Agent Mode changes in HUB v2.13.0 — Introducing new Documents…]]'
+- '[[Changes/Kimi Code/2026-09-09-2-agent-mode-changes-in-kimi-code-0-42-0|2 Agent
+  Mode changes in Kimi Code 0.42.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: agent-mode
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-2-agent-mode-changes-in-hub-v2-13-0-introducing-new-documents|2 Agent Mode changes in HUB v2.13.0 — Introducing new Documents…]]
+- Earlier: 2026-09-09 · Kimi Code · [[Changes/Kimi Code/2026-09-09-2-agent-mode-changes-in-kimi-code-0-42-0|2 Agent Mode changes in Kimi Code 0.42.0]]
 - Later: 2026-09-10 · Cursor · [[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s|Powered by Cloud Agents]]
 <!-- chronolog:end -->
 

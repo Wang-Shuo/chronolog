@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3626fd2ce21361e5b060340d7718ea5e76bc9c0bda2e3b0ea4c8a7fa38560e3b
+machine_hash: 66795c3b86f6a01a1df95af5894f827ddac389aafcfc78b25268c07560c57627
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Preserve pasted prompt content when changing models through Ctrl+X /model
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support
-  changes in v2.1.212]]'
 - '[[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes
   in 1.16.0]]'
+- '[[Changes/Kimi Code/2026-07-17-using-an-api-key-for-kimi-coding-models-now-also-fetches-the-latest-model-list-a|Using
+  an API key for Kimi coding models now also fetches the latest model list…]]'
 - '[[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model
   Support changes in rust-v0.144.6]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-20-v1-0-72-github-356903706-84b07b91|github-copilot-cli-2026-07-20-v1-0-72-github-356903706-84b07b91]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-18 · Codex CLI · [[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model Support changes in rust-v0.144.6]]
-- Later: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-3-model-support-changes-in-v1-18-4|3 Model Support changes in v1.18.4]]
+- Later: 2026-07-20 · Kimi Code · [[Changes/Kimi Code/2026-07-20-2-model-support-changes-in-kimi-code-0-28-0|2 Model Support changes in Kimi Code 0.28.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

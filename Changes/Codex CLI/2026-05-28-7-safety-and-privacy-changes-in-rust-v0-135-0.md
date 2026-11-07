@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-05-28 · Safety and Privacy: 7 changes in 0.135.
   `/permissions` now understands named permission profiles and displays configured
   custom…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1138
+  lag_days: 2130
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4197549746c7f02a5c5b2ce0c2d8bf1dfea34cd4654074ed83f9361ad47893db
+machine_hash: 32757799e97f4e727d2864315e4c11af8f3c2e4e3ce3c07bc0f2a9456bbba3ce
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -111,13 +111,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.135.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-2-safety-and-privacy-changes-in-v2-1-153|2 Safety and Privacy changes in v2.1.153]]
-- Later: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core Handled acp-next permission prompts correctly]]
+- Later: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-add-auto-slash-command-and-auto-cli-flag-for-auto-permission-mode|Add /auto slash command and --auto CLI flag for auto permission mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-03-26 · Mobile and Desktop: Users can now choose 
   their device location so ChatGPT can provide more relevant information, such as
   local…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1108
+  lag_days: 2692
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7792e87f5ae9a8301d8a9fe95ae27d45280f548e4a31b4bd6520bdf48ea9e45
+machine_hash: 41e4db7745b78c1f82fa49a86399a67fa49c311430e14739590851535c427b0d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -85,9 +85,10 @@ record:
   title: Location Sharing
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-22-5-mobile-and-desktop-changes-in-v1-3-0|5 Mobile and
-  Desktop changes in v1.3.0]]'
-- '[[Changes/ElevenLabs/2026-03-23-ios-sdk|iOS SDK]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-scatter-image-effect-android-windows-ios-mac-web-microsoft-365-copilot-app|Scatter
+  image effect Android, Windows, iOS, Mac, Web (Microsoft 365 Copilot app)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-delegate-calendar-search-in-microsoft-365-copilot-android-windows-ios-mac-web-mi|Delegate
+  calendar search in Microsoft 365 Copilot Android, Windows, iOS, Mac…]]'
 - '[[Changes/Claude/2026-03-25-interactive-apps-in-claude-for-ios-and-android|Interactive
   apps in Claude for iOS and Android]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-26-location-sharing-b07f88a6|chatgpt-2026-03-26-location-sharing-b07f88a6]]'
@@ -123,7 +124,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

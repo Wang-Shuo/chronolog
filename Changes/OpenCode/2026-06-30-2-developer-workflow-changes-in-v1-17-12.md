@@ -4,19 +4,20 @@ date: '2026-06-30'
 description: 'OpenCode · 2026-06-30 · Developer Workflow: 2 changes in v1.17.12 —
   Terminal Pass ServerAuth headers through external served TUI connections.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1200
+  lag_days: 2849
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 847fbfa1767c68babc3a8bcec65670f5414a71f795ff4d70a33e2718ce4f1cdf
+machine_hash: c94bfc43d54fe06db4f3a4b9e2ddb6b26106b738f8681ba6d83986a4400cbfba
 product: opencode
 product_name: OpenCode
 record:
@@ -96,7 +97,7 @@ Source: https://opencode.ai/changelog/v1.17.12
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

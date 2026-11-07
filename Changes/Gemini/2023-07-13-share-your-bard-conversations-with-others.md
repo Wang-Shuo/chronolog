@@ -5,19 +5,20 @@ description: 'Gemini · 2023-07-13 · Collaboration: What: We’ve made it easie
   part or all of your Bard chat with others. Shareable links make seeing your chat
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 50
+  lag_days: 1644
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7b8e5d0f69639182268785eaf376b51e64104a0daf26c3998ddf8f1365f89c8b
+machine_hash: 30dd1414cadeadc1db9cbac51a4c4db2bec9eb6c326527c85753e30505bf3610
 product: gemini
 product_name: Gemini
 record:
@@ -51,7 +52,9 @@ record:
   title: Share your Bard conversations with others
   type: change
 related_changes:
+- '[[Changes/Notion/2023-03-23-new-page-icons|New page icons]]'
 - '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+- '[[Changes/Notion/2023-05-31-import-projects-from-asana|Import projects from Asana]]'
 source_release: '[[Releases/Gemini/gemini-2023-07-13-2023-07-13-2b718b64|gemini-2023-07-13-2023-07-13-2b718b64]]'
 source_type: gemini_changelog
 theme: collaboration
@@ -80,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
-- Later: 2023-09-19 · Gemini · [[Changes/Gemini/2023-09-19-build-off-of-conversations-shared-with-you|Build off of conversations shared with you]]
+- Earlier: 2023-05-31 · Notion · [[Changes/Notion/2023-05-31-import-projects-from-asana|Import projects from Asana]]
+- Later: 2023-08-08 · Notion · [[Changes/Notion/2023-08-08-more-options-when-sharing-a-page|More options when sharing a page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

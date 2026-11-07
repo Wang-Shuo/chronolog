@@ -4,20 +4,20 @@ date: '2026-03-11'
 description: 'Gemini CLI · 2026-03-11 · Interface Experience: feat(admin): enable
   30 day default retention for chat history & remove warning by @skeshive in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1157
+  lag_days: 2523
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7d069bc6a9624cfea21dde5371dd29f73e9995c4619bae5dc19aa825e41c68bd
+machine_hash: 35397367a29848114416ef102dc204555e99a9d8c1478f668d6fd26b3839ad18
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 'feat(admin): enable 30 day default retention for chat history & remove warning'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-4-interface-experience-changes-in-rust-v0-113-0|4
-  Interface Experience changes in rust-v0.113.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-chat-history-filtering-experience-refresh-microsoft-365-copilot-chat|Chat
+  History filtering experience refresh (Microsoft 365 Copilot Chat)]]'
 - '[[Changes/v0/2026-03-10-added-tooltip-to-disabled-new-chat-button|Added tooltip
   to disabled New Chat button]]'
 - '[[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

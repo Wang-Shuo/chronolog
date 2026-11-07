@@ -5,19 +5,20 @@ description: 'Lovable · 2025-03-21 · Collaboration: We heard the issues you''v
   with us and we''re working hard to fix them all. This is what we''ve shipped on
   product…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 667
+  lag_days: 2261
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca511aaba4cce89b1d31594c3f0e248b8cd74f65a350591b5e53ed8035988e62
+machine_hash: 9efca0ee8511bfe12b287439ae4ff8bb5b5fc3a617db08d773eb4fd5e286c2b4
 product: lovable
 product_name: Lovable
 record:
@@ -121,7 +122,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

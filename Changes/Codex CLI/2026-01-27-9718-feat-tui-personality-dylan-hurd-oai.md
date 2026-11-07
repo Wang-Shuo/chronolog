@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fbb2a54783d4fac9a84b98449f901c2d210ec0c762b97841dcc92c2c06ad7a01
+machine_hash: da90eb9425b5f9fe406f73dabe305af7810c8f87c896538eee7dec9463dc52e0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-9674-feat-app-server-expose-personality-dylan-hurd-oai|♯9674 feat(app-server) Expose personality @dylan-hurd-oai]]
-- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-2-memory-and-personalization-changes-in-v1-1-37|2 Memory and Personalization changes in v1.1.37]]
+- Later: 2026-01-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-27-improve-relevance-and-personalization-by-connecting-user-identities-across-data|Improve relevance and personalization by connecting user identities across data…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

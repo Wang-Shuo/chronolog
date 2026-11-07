@@ -4,20 +4,19 @@ date: '2026-03-07'
 description: 'OpenCode · 2026-03-07 · Editor Experience: 2 changes in v1.2.21 — Core
   I need to see the actual commit diff to understand what was fixed and provide an…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1089
+  lag_days: 2673
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2a2442941f80c3951e32f7b5ed139685f435b3a151e5d41f01df56a5ced9e96
+machine_hash: 15972208a00ef0dc1adae5ad7fffe4c1fa938e911cbfabcd17ad44376b43b720
 product: opencode
 product_name: OpenCode
 record:
@@ -95,7 +94,7 @@ Source: https://opencode.ai/changelog/v1.2.21
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

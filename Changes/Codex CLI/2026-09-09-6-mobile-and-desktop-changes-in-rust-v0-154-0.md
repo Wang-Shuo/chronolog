@@ -4,20 +4,20 @@ date: '2026-09-09'
 description: 'Codex CLI · 2026-09-09 · Mobile and Desktop: 6 changes in 0.154.0 —
   #42364 Support graceful daemon shutdown on Windows @copyberry'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1275
+  lag_days: 2859
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6a81d73f502fe96fb28554d76c6f1874c546d755bf15454b1d6615e1f72d6808
+machine_hash: c11ac7e7ffd72e170305cdb890f431cb06eec6b72e68ef4c980fbb35e1d9869e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 6 Mobile and Desktop changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
-  a sketch into an image]]'
-- '[[Changes/OpenClaw/2026-09-08-10-mobile-and-desktop-changes-in-v2026-9-3|10 Mobile
-  and Desktop changes in v2026.9.3]]'
+- '[[Changes/Qoder/2026-09-08-mobile-remote-control-once-enabled-you-can-use-your-phone-to-create-and-run-task|Mobile
+  Remote Control]]'
+- '[[Changes/Qoder/2026-09-08-mobile-remote-control-is-supported|Mobile remote control
+  is supported]]'
 - '[[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
 source_type: github_releases
@@ -118,7 +118,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

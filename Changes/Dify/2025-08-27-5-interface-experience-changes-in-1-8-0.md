@@ -4,20 +4,20 @@ date: '2025-08-27'
 description: 'Dify · 2025-08-27 · Interface Experience: 5 changes in v1.8.0 - Async
   workflows meet multi-model management with OAuth-powered integrations. — **Extensible…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 961
+  lag_days: 2327
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 33f2129137d2adf3c0854a6cadf66376949cf018034b18cc2748ba72dbab26f5
+machine_hash: 1a53c0ae0f72e0251e7a9879e8adc920bcf18b227b3da802157ae538a1ba165c
 product: dify
 product_name: Dify
 record:
@@ -117,7 +117,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

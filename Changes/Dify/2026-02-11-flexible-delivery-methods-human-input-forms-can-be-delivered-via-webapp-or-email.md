@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 068026c59c93268ca9568756b9b70e63099cc5fd987ef373fd204b1bb36cade8
+machine_hash: 540252defbd2404bcfb7f60ac2665dbad8263c068a97e3940c65d542676e36a8
 product: dify
 product_name: Dify
 record:
@@ -48,8 +48,8 @@ record:
   title: '**Flexible Delivery Methods:** Human input forms can be delivered…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes
-  in v0.28.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-declarative-agents-help-users-stay-in-their-workflow-web-microsoft-365-copilot-e|Declarative
+  Agents help users stay in their workflow…]]'
 - '[[Changes/OpenCode/2026-02-10-4-agent-mode-changes-in-v1-1-54|4 Agent Mode changes
   in v1.1.54]]'
 - '[[Changes/Codex CLI/2026-02-11-10-agent-mode-changes-in-rust-v0-99-0|10 Agent Mode

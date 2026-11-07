@@ -4,20 +4,20 @@ date: '2024-01-24'
 description: 'Dify · 2024-01-24 · Pricing Model: chore: enchance view billing text
   by @iamjoel in https://github.com/langgenius/dify/pull/2109'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 405
+  lag_days: 2023
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 13eba66e6b1eb880adfff970dce85d623bbd507c5c69286fbfed9ea37648a166
+machine_hash: 14306efe2466cbf1763ae860fc26be9fc42d4a3be1628907ebb78e0cb9e34b28
 product: dify
 product_name: Dify
 record:
@@ -40,13 +40,13 @@ record:
   title: 'chore: enchance view billing text'
   type: change
 related_changes:
-- '[[Changes/Dify/2023-12-19-3-pricing-model-changes-in-0-3-34|3 Pricing Model changes
-  in 0.3.34]]'
 - '[[Changes/Suno/2023-12-23-happy-holidays-all-we-are-grateful-for-the-community-s-support-as-we-round-out-t|Happy
   holidays all - we are grateful for the community''s support as we round out the
   year]]'
 - '[[Changes/Dify/2024-01-02-feat-add-billing-switch-by-garfielddai-in-https-github-com-langgenius-dify-pull|feat:
   add billing switch]]'
+- '[[Changes/Descript/2024-01-10-drive-administrators-cannot|Drive administrators
+  CANNOT]]'
 source_release: '[[Releases/Dify/dify-2024-01-24-0-5-0-github-138266522-f37b973b|dify-2024-01-24-0-5-0-github-138266522-f37b973b]]'
 source_type: github_releases
 theme: pricing-model
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-feat-add-billing-switch-by-garfielddai-in-https-github-com-langgenius-dify-pull|feat: add billing switch]]
+- Earlier: 2024-01-10 · Descript · [[Changes/Descript/2024-01-10-drive-administrators-cannot|Drive administrators CANNOT]]
 - Later: 2024-02-01 · Dify · [[Changes/Dify/2024-02-01-3-pricing-model-changes-in-0-5-3|3 Pricing Model changes in 0.5.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-10-25'
 description: 'Codex CLI · 2025-10-25 · Safety and Privacy: #5536 — Added model summary
   and risk assessment for commands that violate sandbox policy'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 923
+  lag_days: 1915
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6937253476663a47fea12a65aecc6f31814e6571576d2bae6e4695d51b29e815
+machine_hash: ca29372859852033a0a4b6d8803919b195e9e3f1b371650e0176eaa66a3037ed
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-2-safety-and-privacy-changes-in-rust-v0-48-0|2 Safety and Privacy changes in rust-v0.48.0]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]]
+- Later: 2025-10-28 · Descript · [[Changes/Descript/2025-10-28-permission-changes-now-take-effect-immediately-without-needing-to-refresh|Permission changes now take effect immediately without needing to refresh]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

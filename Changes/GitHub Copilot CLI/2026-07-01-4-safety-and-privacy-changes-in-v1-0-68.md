@@ -4,20 +4,20 @@ date: '2026-07-01'
 description: 'GitHub Copilot CLI · 2026-07-01 · Safety and Privacy: 4 changes in 1.0.68
   — Fold symlinked sandbox paths into a single row'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1172
+  lag_days: 2164
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 148a5f27b562b895a7ddcd51a2c3472636186b8be2c53346fa734729c20d2a85
+machine_hash: 2dfd177a01bd520aadf1330d996fadb605aba1563e478a575a9c84c418b4972a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,13 +97,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-sdk-add-session-permission-request-create-and-fetch-endpoints|SDK Add session permission request create and fetch endpoints]]
-- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-3-safety-and-privacy-changes-in-v0-10-2|3 Safety and Privacy changes in v0.10.2]]
+- Later: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-edit-capability-for-selecting-permission-reading-option-for-existing-servicenow|Edit capability for selecting permission reading option for existing ServiceNow…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

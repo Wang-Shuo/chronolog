@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55ed05a4e2d5325a51fcae67548fd4d7fc5f1f78754b984e311e3738361dc6e0
+machine_hash: 2132dcc2b2a292b03cc038e471dc958f5d3597dc72dc2febb34c8630d5bc9893
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in v1.0.7
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased
-  default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]'
+- '[[Changes/Descript/2026-03-17-updated-the-underlying-model-powering-regenerate-to-improve-how-natural-the-outp|Updated
+  the underlying model powering Regenerate to improve how natural the output sounds]]'
 - '[[Changes/Dify/2026-03-17-18-model-support-changes-in-1-13-1|18 Model Support changes
   in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-5-model-support-changes-in-v0-34-0|5 Model Support

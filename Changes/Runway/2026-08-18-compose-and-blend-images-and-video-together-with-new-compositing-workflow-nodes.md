@@ -4,20 +4,20 @@ date: '2026-08-18'
 description: 'Runway · 2026-08-18 · Multimodal Input: Compose and blend images and
   video together with new compositing workflow nodes, now available to all customers.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1064
+  lag_days: 2832
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0dec9daff0de85c9bde331aa081c148b1f11115e1fbae6c4595006608418e9f9
+machine_hash: b7f833f3528088ead7e0a17d924473b53bbed29736bf6596f9164cd739cf13aa
 product: runway
 product_name: Runway
 record:
@@ -76,13 +76,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-elevencreative-fd6a14|ElevenCreative]]
-- Later: 2026-08-21 · DeepSeek API · [[Changes/DeepSeek API/2026-08-21-deepseek-v4-flash-vision-exp-release|DeepSeek-V4-Flash-Vision-Exp Release]]
+- Later: 2026-08-20 · HeyGen · [[Changes/HeyGen/2026-08-20-why-it-matters|Why it matters]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -3,20 +3,20 @@ card_id: elevenlabs-2026-01-12-0f7cd2
 date: '2026-01-12'
 description: 'ElevenLabs · 2026-01-12 · Files and Data: [List knowledge base documents](https://elevenlabs.io/docs/api-reference/knowledge-base/list)'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 963
+  lag_days: 2308
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 46c020737bced4c0f0127aa89d777f2a3e63eae8410204d456c5b8a712b92001
+machine_hash: c6bce732808bc9e66624243209ba5dfb7acb3a55ad8161c59290696220bd6a3f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

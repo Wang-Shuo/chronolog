@@ -4,20 +4,20 @@ date: '2023-09-06'
 description: 'Ollama · 2023-09-06 · Reliability and Performance: Minor performance
   improvements to model loading and generation'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 265
+  lag_days: 1752
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7e95b01f9fcd2a5a3956b79451a8ff15c14f05f60831fd4d956eeb2f74ccef7b
+machine_hash: edcfcb84beaa5272621ceeddcbed6c388cf072b427d080c360e40bfd9ab62e19
 product: ollama
 product_name: Ollama
 record:
@@ -53,12 +53,12 @@ record:
   title: Minor performance improvements to model loading and generation
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH
-  support is now more robust!]]'
 - '[[Changes/Ollama/2023-08-30-improved-network-performance-of-ollama-push|Improved
   network performance of ollama push]]'
 - '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs
   updates]]'
+- '[[Changes/Descript/2023-09-05-made-a-significant-improvement-to-the-performance-of-removing-large-numbers-of-f|Made
+  a significant improvement to the performance of removing large numbers…]]'
 source_release: '[[Releases/Ollama/ollama-2023-09-06-v0-0-18-github-119511791-813ccabf|ollama-2023-09-06-v0-0-18-github-119511791-813ccabf]]'
 source_type: github_releases
 theme: reliability-performance
@@ -89,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs updates]]
+- Earlier: 2023-09-05 · Descript · [[Changes/Descript/2023-09-05-made-a-significant-improvement-to-the-performance-of-removing-large-numbers-of-f|Made a significant improvement to the performance of removing large numbers…]]
 - Later: 2023-09-07 · Cursor · [[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We release an improved New AI Project feature to nightly users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-05-29'
 description: 'Midjourney · 2025-05-29 · Image Generation: Fast mode jobs render-time
   are reduced from 36 to 22 seconds'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 445
+  lag_days: 703
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 452c08fd248f52a8d8aea7edeef442cca6e11a47067c00a0f0ee9570a5bfa2fb
+machine_hash: 3526e643cfbf4e72e52f0798c12c48edec0368b16e5323beb6cb04498f8d6a67
 product: midjourney
 product_name: Midjourney
 record:
@@ -62,8 +62,7 @@ record:
   title: Midjourney V7 image generation is now ~40% faster!
   type: change
 related_changes:
-- '[[Changes/Manus/2025-05-16-manus-doesn-t-just-generate-images-it-understands-your-intent-plans-a-solution-a|Manus
-  image generation]]'
+- '[[Changes/Descript/2025-05-20-improved-image-generation|Improved image generation]]'
 - '[[Changes/Gemini/2025-05-20-image-generation-just-got-an-upgrade|Image generation
   just got an upgrade]]'
 - "[[Changes/Open WebUI/2025-05-26-image-generation-with-allowed-file-extensions-now-works-reliably-ensure-seamless|\U0001F5BC️
@@ -111,7 +110,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

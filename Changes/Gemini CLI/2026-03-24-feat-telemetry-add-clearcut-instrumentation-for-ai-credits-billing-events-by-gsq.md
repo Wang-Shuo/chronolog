@@ -4,20 +4,20 @@ date: '2026-03-24'
 description: 'Gemini CLI · 2026-03-24 · Pricing Model: feat(telemetry): add Clearcut
   instrumentation for AI credits billing events by @gsquared94 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1195
+  lag_days: 2813
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: e51c6d010e4e697347e554701e87e92aa73b466d7032860da5fd9994125caf9b
+machine_hash: 696f92cb75c9f863146185487b71bb6557360b4b8c5123f0d3098e1838458ae8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-03-19 · Windsurf · [[Changes/Windsurf/2026-03-19-quota-billing|Quota Billing]]
-- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-metrics-export-interval-configuration-administrators-can-now-control-opentelemet|📊 Metrics export interval configuration. Administrators can now control…]]
+- Later: 2026-03-25 · HeyGen · [[Changes/HeyGen/2026-03-25-sub-workspace-management-refreshed-ui-for-billing-setup-cleaner-management-of-av|Sub-workspace management: Refreshed UI for billing setup, cleaner management…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

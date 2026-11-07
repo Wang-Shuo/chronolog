@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-06-22 · Context Window: `!` bash commands now
   Claude to respond to the output automatically; set `"respondToBashCommands": false`
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1145
+  lag_days: 2469
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f383b79e7246db7b4e95284d86171163ff8692b14a166a03ce505cc9d1573417
+machine_hash: 5aff298ab82f510a1c50ac0b5efd33cae680d2dbfe52a9a3fa91b558a9910517
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: '`!` bash commands now trigger Claude to respond to the output automatically'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama
-  will now return an error if a single message is larger than the current…]]'
+- '[[Changes/Z.ai API/2026-06-16-significantly-improves-the-real-world-developer-experience-with-more-reliable-pr|Significantly
+  improves the real-world developer experience, with more reliable…]]'
 - '[[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context
   Window changes in rust-v0.141.0]]'
 - '[[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

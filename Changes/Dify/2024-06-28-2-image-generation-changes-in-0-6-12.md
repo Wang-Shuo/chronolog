@@ -5,20 +5,20 @@ description: 'Dify · 2024-06-28 · Image Generation: 2 changes in v0.6.12 — *
   AI Image Generation Tool**: This tool now supports model search, text-to-image,
   and…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 110
+  lag_days: 368
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d268cab039410e2d4ddbe27ebe42cd1bafb5a0d8ff34951f579d0b3a223160a4
+machine_hash: cf6033074795e4eb06a998f4f0e216e92c00880bc935f90f32d206cce35a4ee2
 product: dify
 product_name: Dify
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.12
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-08-02 · Voice and Audio: **\U0001F5E3 ElevenLa
   Adaptations**: Voice enhancements including support for ElevenLabs voice ID by name
   for…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 389
+  lag_days: 2216
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ade9db5873d99361f47ef986f4a34981fab47e8e4e59819d368fe48b23a47ed3
+machine_hash: b7a7fcccff727f8680413adc70c8f8a813234b43e9b0bfa6a2c72aa4b38b9d25
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,11 @@ record:
   title: "**\U0001F5E3 ElevenLabs Voice Adaptations**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-06-27-2-voice-and-audio-changes-in-v0-3-6|2 Voice and
-  Audio changes in v0.3.6]]'
-- '[[Changes/Suno/2024-06-28-audio-input-is-now-available-to-everyone-including-those-with-free-accounts|Audio
-  Input is now available to everyone, including those with free accounts!]]'
+- '[[Changes/Descript/2024-07-02-regenerate-is-out-of-beta|Regenerate is out of Beta]]'
 - '[[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS
   Streaming Config]]'
+- '[[Changes/Descript/2024-07-16-translation-w-dubbing-is-now-in-beta|Translation
+  w/ dubbing is now in Beta]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87|open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87]]'
 source_type: github_releases
 theme: voice
@@ -87,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS Streaming Config]]
+- Earlier: 2024-07-16 · Descript · [[Changes/Descript/2024-07-16-translation-w-dubbing-is-now-in-beta|Translation w/ dubbing is now in Beta]]
 - Later: 2024-08-09 · Runway · [[Changes/Runway/2024-08-09-retain-the-content-pace-and-tone-of-your-input-audio-while-changing-the-voice|Speech to Speech]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

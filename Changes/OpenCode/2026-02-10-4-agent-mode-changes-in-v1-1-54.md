@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4fbf3529f8510eec2007eb0021377aa966080d3ba469835a5e93feeb68bec430
+machine_hash: ea88a705aa8f5fed96ad26e07ed06545abae8e58d4f80a5f8bda4811f231c3e6
 product: opencode
 product_name: OpenCode
 record:
@@ -47,10 +47,12 @@ record:
   title: 4 Agent Mode changes in v1.1.54
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-09-agents-platform|Agents Platform]]'
-- '[[Changes/ElevenLabs/2026-02-09-agents-platform-7f0c0d|Agents Platform]]'
-- '[[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes
-  in v0.28.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-configure-and-manage-agent-manifests-in-developer-portal-teams|Configure
+  and manage agent manifests in Developer Portal (Teams)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-users-can-refresh-adaptive-cards-in-agents-to-view-the-latest-information-web-mi|Users
+  can refresh Adaptive Cards in agents to view the latest information…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-declarative-agents-help-users-stay-in-their-workflow-web-microsoft-365-copilot-e|Declarative
+  Agents help users stay in their workflow…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-10-v1-1-54-df764791|opencode-2026-02-10-v1-1-54-df764791]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -100,7 +102,7 @@ Source: https://opencode.ai/changelog/v1.1.54
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes in v0.28.0]]
+- Earlier: 2026-02-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-02-10-declarative-agents-help-users-stay-in-their-workflow-web-microsoft-365-copilot-e|Declarative Agents help users stay in their workflow…]]
 - Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-10-agent-mode-changes-in-rust-v0-99-0|10 Agent Mode changes in rust-v0.99.0]]
 <!-- chronolog:end -->
 

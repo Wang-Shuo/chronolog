@@ -5,20 +5,21 @@ description: 'GitHub Copilot CLI · 2026-11-06 · Account and Access: 23 changes
   1.0.106 — Add MATS telemetry for Entra authentication through OneAuth, respecting
   client…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1317
+  lag_days: 2292
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: adeee822e197463f6a98799cdde8e3fc280e2a8fc5392322f6642c5f58e4f499
+machine_hash: d340cf2d92e8ec94be1608ecad38f768147b8a496aa1e4e443ac0553a5cde32c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -110,10 +111,10 @@ record:
   title: 23 Account and Access changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-2-account-and-access-changes-in-1-19-0|2 Account and
-  Access changes in 1.19.0]]'
 - '[[Changes/OpenClaw/2026-11-05-4-account-and-access-changes-in-v2026-11-1|4 Account
   and Access changes in v2026.11.1]]'
+- '[[Changes/Qoder/2026-11-05-ssh-and-wsl-improves-connection-management-and-workspace-creation-including-dire|SSH
+  and WSL: Improves connection management and workspace creation, including…]]'
 - '[[Changes/Codex CLI/2026-11-06-5-account-and-access-changes-in-rust-v0-167-0|5
   Account and Access changes in rust-v0.167.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
@@ -216,7 +217,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

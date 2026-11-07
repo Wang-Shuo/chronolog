@@ -5,20 +5,20 @@ description: 'Cline · 2026-08-05 · Interface Experience: 3 changes in v4.1.4 �
   skills alongside workflows in the slash command menu, and disambiguate commands
   that…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1304
+  lag_days: 2670
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba4e98bb854a6680c33227c5284de3d95fe41b1248c5caa8de5922bf9265a536
+machine_hash: 8df4d776b759d87186e58f31908ba7c909f40a60cd8db7182333e822f3cf69ab
 product: cline
 product_name: Cline
 record:
@@ -93,13 +93,13 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.4
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode Added Focus view]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved fullscreen mode to keep the full pre-compaction history in scrollback…]]
+- Later: 2026-08-05 · Kimi Code · [[Changes/Kimi Code/2026-08-05-web-pin-sessions-to-the-top-of-the-sidebar|web: Pin sessions to the top of the sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

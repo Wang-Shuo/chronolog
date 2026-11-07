@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 61d79c44d2214271c33811a3bb7f6b9bd6fbddc0e9483f33e3198fa95f76956b
+machine_hash: 7ffe83e791b0175cbe8ef2288663140864cf63d6f77c4f6852e2db7ee54c706b
 product: opencode
 product_name: OpenCode
 record:
@@ -40,12 +40,12 @@ record:
   title: Add a dedicated system prompt for Kimi models
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-30-2-model-support-changes-in-v1-0-13|2 Model
-  Support changes in v1.0.13]]'
 - '[[Changes/Codex CLI/2026-03-31-5-model-support-changes-in-rust-v0-118-0|5 Model
   Support changes in rust-v0.118.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-3-model-support-changes-in-v1-0-14|3 Model
   Support changes in v1.0.14]]'
+- '[[Changes/HeyGen/2026-03-31-we-ll-take-footage-at-any-resolution-and-give-you-a-crisp-sharp-4k-file-powered|We’ll
+  take footage at any resolution and give you a crisp, sharp 4K file, powered…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-31-v1-3-12-78f2220b|opencode-2026-03-31-v1-3-12-78f2220b]]'
 source_type: opencode_changelog
 theme: model-support
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-3-model-support-changes-in-v1-0-14|3 Model Support changes in v1.0.14]]
+- Earlier: 2026-03-31 · HeyGen · [[Changes/HeyGen/2026-03-31-we-ll-take-footage-at-any-resolution-and-give-you-a-crisp-sharp-4k-file-powered|We’ll take footage at any resolution and give you a crisp, sharp 4K file, powered…]]
 - Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]
 <!-- chronolog:end -->
 

@@ -4,19 +4,20 @@ date: '2026-03-27'
 description: 'Dify · 2026-03-27 · Collaboration: test(workflow): reorganize specs
   into __tests__ and align with shared test infrastructure by @CodingOnStar in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1038
+  lag_days: 2632
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00ebe02afb256669d662a6c6d3cb4af8a86911e534c1da43acafd61cc6b54824
+machine_hash: 8d24576e58c4fd3c8707e41725c1c7b0bb551015ff45a27f79f9e8fa3ae287e0
 product: dify
 product_name: Dify
 record:
@@ -44,8 +45,8 @@ record:
     infrastructure'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-22-2-collaboration-changes-in-v1-3-0|2 Collaboration
-  changes in v1.3.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-connect-copilot-with-egnyte-for-secure-file-collaboration-web-microsoft-365-copi|Connect
+  Copilot with Egnyte for secure file collaboration…]]'
 - '[[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added
   managed-settings.d/ drop-in directory alongside managed-settings.json…]]'
 - "[[Changes/Open WebUI/2026-03-25-shared-chat-viewing-crash-shared-chats-can-now-be-viewed-by-unauthenticated-user|\U0001F41B
@@ -97,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

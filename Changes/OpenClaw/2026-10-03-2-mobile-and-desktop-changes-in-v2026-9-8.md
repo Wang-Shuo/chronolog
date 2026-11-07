@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-10-03 · Mobile and Desktop: 2 changes in v2026.9
   Update recovery. Repairing an update now keeps the plugins you allowed and enabled.
   A…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1299
+  lag_days: 2883
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0559ce5280ac1661a1f6214239f80ca35668156730a47aa38651955e8e76dfc9
+machine_hash: 00fd42e02edda6b9f94d84fec382ca9dceae4f98717bca7196ca8a0b09d43b6a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -103,7 +103,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.8
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

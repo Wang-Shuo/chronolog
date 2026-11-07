@@ -5,20 +5,19 @@ description: 'Codex CLI · 2026-09-17 · Editor Experience: 2 changes in 0.155.0
   TUI now shows live reasoning summaries in the status row and completion timestamps
   after…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1283
+  lag_days: 2867
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e81e8031970a3cd2f7e47e65f8421fa4e03e7aa043feee3ef9c4e87a8b90a8d7
+machine_hash: 321d124d80a55fedbbe5c530229f7601b5c9d06eaf675b62a25d5d5be22eb758
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,13 +95,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.155.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-vscode-added-a-claudecode-lockeditorgroups-setting-to-stop-claude-from-locking-t|VSCode Added a claudeCode.lockEditorGroups setting to stop Claude from locking…]]
-- Later: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-2-editor-experience-changes-in-v1-0-86|2 Editor Experience changes in v1.0.86]]
+- Later: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-collapse-a-panel|Collapse a panel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

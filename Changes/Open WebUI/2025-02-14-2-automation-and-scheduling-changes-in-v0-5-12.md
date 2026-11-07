@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-02-14 · Automation and Scheduling: 2 changes i
   — **\U0001F6E0️ Multiple Tool Calls Support for Native Function Mode**: Functions
   now can call…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 409
+  lag_days: 1976
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c6833236af55c24799d171d815e7b672e1286e161378bd2e2e7327d7ca96f909
+machine_hash: 3d31a2746621c6058f38fa74bd419f27e8a4f69e87f5609522b24dae7a8eadf9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -88,13 +88,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.12
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
-- Later: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-feature-newnew-workflow-loop-node-by-woo0ood-in-https-github-com-langgenius-dify|Feature/newnew workflow loop node]]
+- Later: 2025-02-18 · Notion · [[Changes/Notion/2025-02-18-do-more-with-recurring-tasks|Do more with recurring tasks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

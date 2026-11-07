@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-03-05 · Developer Workflow: 6 changes in v2.1
   — Added Ctrl+U on an empty bash prompt (`!`) to exit bash mode, matching `escape`
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1083
+  lag_days: 2732
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02e4d0fae7d63ba36dda3df4d331b1ea045bc09de6fb5953c98a23a13aa90e79
+machine_hash: 0f06b2beb21f8b290edf4ab914ddf1e61ca3e258eb1fba0a8158aa4f1ce0e849
 product: claude-code
 product_name: Claude Code
 record:
@@ -121,7 +122,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

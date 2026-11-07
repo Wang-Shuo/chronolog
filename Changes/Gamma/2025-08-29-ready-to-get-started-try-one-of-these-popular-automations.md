@@ -3,20 +3,20 @@ card_id: gamma-2025-08-29-77f59d
 date: '2025-08-29'
 description: 'Gamma · 2025-08-29 · Automation and Scheduling: Turn [Fireflies meeting…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 605
+  lag_days: 2172
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a6fd44a1421cdf4b15514d9786e7d072046f6c6b1d10c0a0dd7b336d253236a1
+machine_hash: 13c6d1cd2bc7ef45c61a9b342683d50b7b4c553899f4e72e67f7b2380a8cc1c5
 product: gamma
 product_name: Gamma
 record:
@@ -52,8 +52,8 @@ record:
   title: Ready to get started?
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-8-automation-and-scheduling-changes-in-v0-1-21|8
-  Automation and Scheduling changes in v0.1.21]]'
+- '[[Changes/Notion/2025-08-19-create-and-manage-tasks-right-in-notion-calendar|Create
+  and manage tasks right in Notion Calendar]]'
 - '[[Changes/Codex CLI/2025-08-26-2692-do-not-schedule-frames-for-tui-draw-events-in-backtrack|♯2692
   do not schedule frames for Tui::Draw events in backtrack]]'
 - '[[Changes/Dify/2025-08-27-loop-exit-conditions-fixed-loop-exit-condition-to-accept-variables-from-nodes-in|Loop
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8d4579500f29a93aa2bdd9498a4d071878375d1cfa457e82dc8d62bec8ed6fd8
+machine_hash: 72ad34c5be7984661b8c270dd738ed0f92b3227978069653254fd61f557b77e0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel|PowerShell apply_patch parsing is corrected, and apply_patch tests now cover…]]
-- Later: 2025-12-05 · Replit · [[Changes/Replit/2025-12-05-build-full-stack-mobile-apps-with-agent|Build full-stack mobile apps with Agent]]
+- Later: 2025-12-03 · Notion · [[Changes/Notion/2025-12-03-notion-agent-can-now-build-beautiful-forms-in-seconds|Agent can build forms]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-11-06 · Multimodal Input: 2 changes in v0.6.35
   Image and video uploads to knowledge bases now display proper error messages instead
   of…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 779
+  lag_days: 2547
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aaf609a988f56d223958a102f6dae066941bc6a828b250933ae2a0b07e5a2259
+machine_hash: aa81e1621c5f5695c34d603c88b917a825a6a030f4d37ae498f63f86a4830652
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Multimodal Input changes in v0.6.35
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-09-04-we-re-launching-an-early-version-of-our-style-explorer-today-it-s-like-the-video|Midjourney
-  launches an early version of our style explorer today]]'
-- '[[Changes/Dify/2025-09-22-multimodal-embedding-support-richer-content-types-beyond-text|Multimodal
-  Embedding: Support richer content types beyond text]]'
+- '[[Changes/Synthesia/2025-09-26-time-for-the-next-chapter-in-our-story-synthesia-3-0-on-october-1st-our-ceo-vict|Synthesia
+  3.0: you''re invited]]'
 - '[[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x
   more styles]]'
+- '[[Changes/Descript/2025-10-14-changing-camera-angles|Changing camera angles]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-11-06-v0-6-35-github-260376122-7fa65234|open-webui-2025-11-06-v0-6-35-github-260376122-7fa65234]]'
 source_type: github_releases
 theme: multimodal
@@ -101,14 +100,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.35
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-10-06 · Midjourney · [[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x more styles]]
-- Later: 2025-11-27 · Ollama · [[Changes/Ollama/2025-11-27-mistral-large-3-https-ollama-com-library-mistral-large-3-a-general-purpose-multi|Mistral-Large-3((source link) A general-purpose…]]
+- Earlier: 2025-10-14 · Descript · [[Changes/Descript/2025-10-14-changing-camera-angles|Changing camera angles]]
+- Later: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-extend-video-with-ai|Extend video with AI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2025-12-23'
 description: 'Lovable · 2025-12-23 · Editor Experience: Reference specific files directly
   in chat by typing `@` or clicking the reference button in the code editor. This…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1015
+  lag_days: 2599
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 46b6a9c7ab8bbc76e71f55268efa2734a2c3152f298622b1ae2a601f1c7478af
+machine_hash: a6dcd1c4da5bb27edd5ed23ecb1604cc9d638302969453a91e7707fe50644cce
 product: lovable
 product_name: Lovable
 record:
@@ -103,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

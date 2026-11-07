@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9200bd50455c87eb1c403c9ce360d21ffd2072ca62afd9e125eccf39922f52ef
+machine_hash: ea4a55c5c5a73d016b8093f5a12113b688fb981cce417785642eb38f57e6de7f
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,8 @@ record:
     MLX-based models'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed
-  CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-use-microsoft-365-copilot-in-model-driven-apps-work-iq-web-microsoft-copilot-app|Use
+  Microsoft 365 Copilot in model‑driven apps (Work IQ) Web (Microsoft Copilot app)]]'
 - '[[Changes/Claude Code/2026-06-03-2-model-support-changes-in-v2-1-162|2 Model Support
   changes in v2.1.162]]'
 - '[[Changes/Cline/2026-06-03-add-minimax-m3-model-support|Add MiniMax M3 model support]]'

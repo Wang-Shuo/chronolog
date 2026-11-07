@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9eeb39b2e084bf0be2909d5ad62cb5efa8af7d396af5759cd153f2b225bb3ac5
+machine_hash: 2baacf57fac0a5f80e964da8a40bdafe46c6e5dfb24014339e12445f239f1a30
 product: windsurf
 product_name: Windsurf
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-07 · Ollama · [[Changes/Ollama/2026-04-07-added-latest-models-to-ollama-app|Added latest models to Ollama App]]
-- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-5-model-support-changes-in-v0-37-0|5 Model Support changes in v0.37.0]]
+- Later: 2026-04-07 · Z.ai API · [[Changes/Z.ai API/2026-04-07-it-demonstrates-stronger-engineering-intelligence-across-autonomous-planning-sus|It demonstrates stronger engineering intelligence across autonomous planning…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

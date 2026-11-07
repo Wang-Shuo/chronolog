@@ -4,20 +4,20 @@ date: '2026-04-15'
 description: 'OpenCode · 2026-04-15 · Context Window: 2 changes in v1.4.4 — Core Restored
   instance and logger context during prompt runs so prompt-time tools and logging…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1077
+  lag_days: 2401
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a5a7f2bfdad97a5a0ab29f53f6ef69192600c97880bb24c00260f1617071b6e
+machine_hash: 9f568329eaa333b4d0dbb3bc9163e2ec1ff727d46d875d6e8ecb20e15d700484
 product: opencode
 product_name: OpenCode
 record:
@@ -88,13 +88,13 @@ Source: https://opencode.ai/changelog/v1.4.4
 ## Nearby in Context Window
 
 - Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-4-context-window-changes-in-rust-v0-121-0|4 Context Window changes in rust-v0.121.0]]
-- Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-add-statusline-command-with-footer-alias-to-customize-which-items-appear-in-the|Add /statusline command (with /footer alias) to customize which items appear…]]
+- Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-click-here-https-web-descript-com-view-settings-account-active-api-to-get-your-a|Click here((source link) to get…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

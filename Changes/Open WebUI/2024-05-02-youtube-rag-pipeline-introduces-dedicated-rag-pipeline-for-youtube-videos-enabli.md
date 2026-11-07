@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-05-02 · Multimodal Input: **\U0001F4F9 Youtube
   Pipeline**: Introduces dedicated RAG pipeline for Youtube videos, enabling interaction
   with video…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 226
+  lag_days: 1994
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4af52db810c1485b40fb7245ac093b0e3a4086496ccc97f439abd425a12afc8
+machine_hash: 5928b352c870662711ac1772bbc7245d50a910f432e8e0742848de1d4c01e6b1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-2-multimodal-input-changes-in-0-6-4|2 Multimodal Input changes in 0.6.4]]
-- Later: 2024-07-01 · Runway · [[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3 Alpha Text to Video]]
+- Later: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-import-media-from-a-youtube-and-giphy|Import media from a YouTube and GIPHY]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

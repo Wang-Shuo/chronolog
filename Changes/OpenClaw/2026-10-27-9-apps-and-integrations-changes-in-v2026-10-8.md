@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-10-27 · Apps and Integrations: 9 changes in v202
   — Doctor now repairs stale plugin dependency links that could block a repair or
   update…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1314
+  lag_days: 2874
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9dd6861dc55e8b1c489a698748cd81df650f866f213250cd5dee1812fe05b9d3
+machine_hash: 051b13a318998974d0d865ce5dc4cd9e377a4ecbd9f5bea46daef2d0fa414bfb
 product: openclaw
 product_name: OpenClaw
 record:
@@ -69,11 +69,11 @@ record:
   title: 9 Apps and Integrations changes in v2026.10.8
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-10-apps-and-integrations-changes-in-rust-v0-165-0|10
-  Apps and Integrations changes in rust-v0.165.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-27-interactive-and-sdk-autopilot-sessions-keep-waiting-for-attached-background-task|Interactive
-  and SDK Autopilot sessions keep waiting for attached background tasks…]]'
 - '[[Changes/Lovable/2026-10-27-connect-your-app-to-scrive|Connect your app to Scrive]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-admins-can-create-and-deploy-custom-model-context-protocol-mcp-connectors-across|Admins
+  can create and deploy custom Model Context Protocol (MCP) connectors across…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-user-can-use-canva-connector-in-researcher-web-microsoft-365-copilot-extensibili|User
+  can use Canva Connector in Researcher Web (Microsoft 365 Copilot extensibility)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|openclaw-2026-10-27-v2026-10-8-9d674f40]]'
 source_type: openclaw_changelog
 theme: apps-integrations
@@ -133,14 +133,14 @@ Source: https://docs.openclaw.ai/releases/2026.10.8
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-27 · Lovable · [[Changes/Lovable/2026-10-27-connect-your-app-to-scrive|Connect your app to Scrive]]
+- Earlier: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-user-can-use-canva-connector-in-researcher-web-microsoft-365-copilot-extensibili|User can use Canva Connector in Researcher Web (Microsoft 365 Copilot extensibility)]]
 - Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-add-experimental-image-and-decision-generation-apis-to-plugins-and-sdk|Add experimental image and decision generation APIs to plugins and sdk]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

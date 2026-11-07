@@ -5,20 +5,20 @@ description: 'Cursor · 2025-03-11 · Interface Experience: Keyboard Shortcuts: 
   keyboard shortcuts are now available in the Keyboard Shortcuts menu. Go to Settings
   >…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 792
+  lag_days: 2158
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: abdb70eb3690b25eee89cec1c8e02f02879e4861aefd02da4ee9c1ed08d15bd4
+machine_hash: be4886092e1d54795a9ae3498d52096887d258cf34c2e056a7a6c95ae91e7c87
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: 'Keyboard Shortcuts: All keyboard shortcuts are now available in the Keyboard…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|\U0001F30D
-  Translation Updates]]"
+- '[[Changes/Descript/2025-02-26-and-tying-all-of-these-changes-together-we-ve-added-a-new-layout-picker-https-he|And
+  tying all of these changes together, we’ve added a new Layout…]]'
 - '[[Changes/Gamma/2025-03-05-making-edits-just-got-easier-you-can-now-right-click-on-any-inline-or-accent-ima|Making
   edits just got easier!]]'
 - '[[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

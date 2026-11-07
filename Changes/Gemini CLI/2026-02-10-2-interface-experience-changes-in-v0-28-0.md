@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-02-10 · Interface Experience: 2 changes in Rel
   v0.28.0 — feat(ux): update cell border color and created test file for table rendering
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1128
+  lag_days: 2494
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f65971eaffb89ad6f4617292b2cde9618c54923a195644465bf4078a78ae8b01
+machine_hash: ce0c2f2980969c6844208528d0558386731e4ca06ba5ca6ec645c3a86d148c5f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Interface Experience changes in v0.28.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-02-09-improved-sidebar-pagination-to-load-more-items-on-scroll|Improved
-  sidebar pagination to load more items on scroll]]'
-- '[[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates
-  to deep research]]'
-- '[[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved
-  terminal rendering performance]]'
+- '[[Changes/Descript/2026-02-10-when-creating-a-translation-with-dubbing-enabled-look-for-the-style-https-help-d|When
+  creating a translation with dubbing enabled, look…]]'
+- '[[Changes/Descript/2026-02-10-save-scenes-as-layouts-now-easier-and-more-controllable|Save
+  scenes as Layouts - now easier and more controllable]]'
+- '[[Changes/Descript/2026-02-10-re-size-your-sidebar|Re-size your sidebar]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186|gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186]]'
 source_type: github_releases
 theme: interface-experience
@@ -93,14 +92,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-10 · Claude Code · [[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved terminal rendering performance]]
+- Earlier: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-re-size-your-sidebar|Re-size your sidebar]]
 - Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-desktop-don-t-close-sidebar-on-session-change|Desktop Don't close sidebar on session change]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-03-19'
 description: 'Dify · 2024-03-19 · Context Window: add max_tokens parameter rule for
   zhipuai glm4 and glm4v by @orangeclk in https://github.com/langgenius/dify/pull/2861'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 320
+  lag_days: 1644
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6341012c458f7c5288bc4b3be5422d96416397b93462cdf999a2836ed1f7b541
+machine_hash: 1ce5079609f623ad99cf978c4dfe49b26041ace9211f58f85c406fb81b9d272b
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: add max_tokens parameter rule for zhipuai glm4 and glm4v
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-11-30-set-the-context-size-to-16k-set-parameter-num-ctx-16384|Set
-  the context size to 16K: /set parameter num_ctx 16384]]'
 - '[[Changes/Ollama/2024-01-08-increasing-context-size-with-num-ctx-will-now-work-up-to-a-model-s-supported-con|Increasing
   context size with num_ctx will now work…]]'
+- '[[Changes/Notion/2024-01-17-connect-and-create-notion-docs|Connect and create Notion
+  docs]]'
 - '[[Changes/Dify/2024-02-01-feat-add-xinference-llm-context-size-by-yeuoly-in-https-github-com-langgenius-di|feat:
   add xinference llm context size]]'
 source_release: '[[Releases/Dify/dify-2024-03-19-0-5-10-github-147241291-79cab280|dify-2024-03-19-0-5-10-github-147241291-79cab280]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

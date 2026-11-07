@@ -4,19 +4,20 @@ date: '2026-09-19'
 description: 'OpenClaw · 2026-09-19 · Collaboration: 14 changes in v2026.9.5 — The
   UI screenshots below use a fictional Waypoint launch team and synthetic conversations…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1214
+  lag_days: 2808
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 290b581e22c8d6f60cb1e298a62f9187af217a49e8c6541bb614d8638247b5d5
+machine_hash: 738845ec18e1b957ace18f0dcb4e7dd4735f3bbed68b1fb903f599d2cdb517d4
 product: openclaw
 product_name: OpenClaw
 record:
@@ -101,10 +102,9 @@ record:
   title: 14 Collaboration changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md
-  now writes the exported session to your home directory instead…]]'
 - '[[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354
   Extract shared footer hint wrapping in the TUI @copyberry]]'
+- '[[Changes/Descript/2026-09-17-captions-redesigned|Captions, redesigned]]'
 - '[[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed
   /ultrareview in non-interactive sessions to refuse when the repository has…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'
@@ -196,7 +196,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

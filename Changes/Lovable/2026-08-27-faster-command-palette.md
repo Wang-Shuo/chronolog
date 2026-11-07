@@ -3,20 +3,20 @@ card_id: lovable-2026-08-27-409f44
 date: '2026-08-27'
 description: 'Lovable · 2026-08-27 · Reliability and Performance: The [command palette](https://docs.lovable.dev/introduction/project-search-and-find.md#command-palette)…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1351
+  lag_days: 2838
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c31fb3578160db995fadfaacd01611c41a34ccf01188a7674320e5828611c48
+machine_hash: 9347b98a6af06f157cebc53e4f2a9747611a694114f1f5165e9d15b68699ff32
 product: lovable
 product_name: Lovable
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-resume-large-sessions-faster-by-showing-recent-history-first-while-older-message|Resume large sessions faster by showing recent history first while older messages load]]
-- Later: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-large-tool-calls-stream-faster-through-anthropic-compatible-clients-when-a-strea|🧠 Large tool calls stream faster through Anthropic-compatible…]]
+- Later: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-improved-app-startup-performance-and-reliability|Improved app startup performance and reliability]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Open WebUI · 2025-09-25 · Enterprise and Administration: > **Loo
   for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?** – **[Speak with
   Our…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 874
+  lag_days: 2081
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 713e693cd202cf9ab07af9fd28bc370e5eb8c3295ed02f197e4e87f62d73f5a0
+machine_hash: 58525c3642baa0b4578c24e9b64c54bcaba2c79dca5968344051301bbaf1bdf7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,10 +53,10 @@ record:
   title: '> **Looking for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?**'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-09-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
-  Looking for an Enterprise Plan((source link)]]'
-- '[[Changes/Open WebUI/2025-09-17-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
-  Looking for an Enterprise Plan((source link)]]'
+- '[[Changes/Notion/2025-09-18-give-ai-the-context-it-needs-with-ai-connectors|Give
+  AI the context it needs with AI connectors]]'
+- '[[Changes/Notion/2025-09-18-database-row-permissions-are-here|Database row permissions
+  are here!]]'
 - '[[Changes/Replit/2025-09-19-teams-and-enterprise|Teams and enterprise]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead|open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead]]'
 source_type: github_releases
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

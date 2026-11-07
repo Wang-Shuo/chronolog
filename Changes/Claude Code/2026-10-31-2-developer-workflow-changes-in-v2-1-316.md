@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-10-31 · Developer Workflow: 2 changes in v2.1
   — [VSCode] Changed `ultrathink` to run its turn at `xhigh` effort and show in a
   rainbow in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1323
+  lag_days: 2972
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a7fb337f3aad3f26aa3103906a4a657ec95424fc814b62885ac2e1b26a55ae44
+machine_hash: 815a7aa8112d1bfcbb5549138d572800f2376da211e4e5fae250640066ddaa6a
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

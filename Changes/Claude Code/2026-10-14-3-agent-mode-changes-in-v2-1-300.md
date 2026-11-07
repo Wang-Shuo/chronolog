@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9946d1e66d0e46a29952d4a5ef2ad8e279a4554830562de2010e7dde76014787
+machine_hash: 9291528718310b056e1366ac3829dcab6d30e93cf70a343e294a76468514084a
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Agent Mode changes in v2.1.300
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-3-agent-mode-changes-in-v1-0-97|3 Agent
-  Mode changes in v1.0.97]]'
-- '[[Changes/Lovable/2026-10-13-let-browser-agents-use-your-app|Let browser agents
-  use your app]]'
+- '[[Changes/Notion/2026-10-13-see-every-change-by-every-person-and-agent|See every
+  change by every person and agent]]'
+- '[[Changes/Notion/2026-10-13-column-permissions-in-databases|Column permissions
+  in databases]]'
 - '[[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode
   changes in v2.1.299]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode changes in v2.1.299]]
-- Later: 2026-10-14 · Ollama · [[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A compact sibling, Nemotron 3.5…]]
+- Later: 2026-10-14 · Kimi Code · [[Changes/Kimi Code/2026-10-14-2-agent-mode-changes-in-kimi-code-2-2-0|2 Agent Mode changes in Kimi Code 2.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

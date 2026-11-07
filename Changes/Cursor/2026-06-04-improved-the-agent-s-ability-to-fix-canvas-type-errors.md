@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'Cursor · 2026-06-04 · Files and Data: Improved the agent''s ability
   to fix canvas type errors.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1106
+  lag_days: 2451
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: aa9305570f1a942174ea37e6988ef1f38bcb645683be8f4739afa760d0ed28c9
+machine_hash: 923d930d90299375625120e3514a12de56662fa66f8dd3fe72994c3b44b278f2
 product: cursor
 product_name: Cursor
 record:
@@ -53,8 +53,8 @@ record:
   title: Improved the agent's ability to fix canvas type errors
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-01-5-files-and-data-changes-in-v0-9-6|5 Files and
-  Data changes in v0.9.6]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-copilot-can-edit-your-document-by-default-in-word-web-word|Copilot
+  can edit your document by default in Word Web (Word)]]'
 - '[[Changes/Codex CLI/2026-06-04-25682-codex-document-out-of-line-test-module-convention-anp-oai|♯25682
   codex document out-of-line test module convention @anp-oai]]'
 - '[[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

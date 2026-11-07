@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b59d1ae36db4b8e439ed79e2caa89abd5a77ab757f7866bb64460fd1bd5d1001
+machine_hash: 2587f9ec79e822851afc1a9253b0601edda83aa341e9573f155f87f332c9d283
 product: cline
 product_name: Cline
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-10 · OpenHands · [[Changes/OpenHands/2026-06-10-added-llm-profiles-by-vascosch92-in-https-github-com-openhands-openhands-pull-14|Added LLM profiles]]
-- Later: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-support-for-pdf-attachments-to-messages-to-gemini-models-drag-and-drop-pdfs-from|Support for PDF attachments to messages to Gemini models]]
+- Later: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-opus-4-8-is-now-in-the-model-picker|Opus 4.8 is now in the model picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

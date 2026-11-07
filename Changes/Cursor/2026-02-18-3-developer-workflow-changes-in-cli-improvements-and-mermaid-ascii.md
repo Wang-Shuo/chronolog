@@ -4,19 +4,20 @@ date: '2026-02-18'
 description: 'Cursor · 2026-02-18 · Developer Workflow: 3 changes in CLI Improvements
   and Mermaid ASCII Diagrams — /auto-run, /max-mode, /vim, and similar commands now…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1068
+  lag_days: 2717
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4014b1f8529360d861bbefd3b8638f28ce94928fc9403472f6cdbd85c30bd83
+machine_hash: 0c3308f574396cb3dba783ca63bc1891ba4400c28dab0b00698b49776eaaa30c
 product: cursor
 product_name: Cursor
 record:
@@ -104,7 +105,7 @@ Source: https://cursor.com/changelog/cli-feb-18-2026
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-07-09'
 description: 'ChatGPT · 2026-07-09 · Enterprise and Administration: On web and mobile,
   Enterprise and Edu workspaces have a two-week preview period. Work is off by default…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1161
+  lag_days: 2368
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ffd11b5eec827b17d326197a957a69542268bd3b56e9601ae0b6e4d477afe7c4
+machine_hash: 50cd2d24d703bba73e02886204d800d32b13d64a2960f164693e5bb8bdc0c736
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
     period
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-07-feat-enterprise-auth-super-admin-management-endpoint-grant-revoke-list-by-jpshac|feat(enterprise/auth):
-  super-admin management endpoint (grant/revoke/list)]]'
+- '[[Changes/HeyGen/2026-07-08-5-enterprise-and-administration-changes-in-july-2026-enterprise-releases|5
+  Enterprise and Administration changes in July 2026 Enterprise Releases]]'
 - '[[Changes/Lovable/2026-07-08-workspace-insights-now-on-business-plans|Workspace
   insights now on Business plans]]'
 - '[[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Open WebUI · 2026-06-01 · Reliability and Performance: 5 changes
   v0.9.6 — ⚡ **Faster initial page loads.** The configuration endpoint that loads
   on every…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1264
+  lag_days: 2751
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b1d87afbb58c017cf33167f8e6c298c3a7f2a5e8c261c7aa819a32a30a751c1
+machine_hash: 9df27b5147333380297723fe58baee627ae3b25a0bd670e5d0b4ea831ea73ca3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,8 +61,8 @@ record:
   title: 5 Reliability and Performance changes in v0.9.6
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed
-  the /effort slider labels…]]'
+- '[[Changes/Kimi Code/2026-05-28-offload-large-base64-media-payloads-from-wire-jsonl-into-external-blob-files-to|Offload
+  large base64 media payloads from wire.jsonl into external blob files…]]'
 - '[[Changes/Lovable/2026-05-28-improvements-and-bug-fixes|Improvements and bug fixes]]'
 - '[[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved
   performance of long and resumed conversations by eliminating redundant…]]'
@@ -130,7 +130,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

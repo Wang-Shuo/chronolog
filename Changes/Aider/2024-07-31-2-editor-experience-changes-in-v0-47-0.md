@@ -4,20 +4,19 @@ date: '2024-07-31'
 description: 'Aider · 2024-07-31 · Editor Experience: 2 changes in Aider v0.47.0 —
   Improved lint flow, now doing code edit auto-commit before linting.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 505
+  lag_days: 2089
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c51b091675b55e70e7412c8ef47b10a1d6d577ec61c3e4d4c2f5ac8e7df7b427
+machine_hash: ef0c7317f9f827e7cb1c04d3c140c6d155f48008172c067e23d18dcbc84e2e07
 product: aider
 product_name: Aider
 record:
@@ -43,12 +42,10 @@ record:
   title: 2 Editor Experience changes in v0.47.0
   type: change
 related_changes:
-- '[[Changes/Cline/2024-07-28-updated-view-id-for-tab-panels-for-better-internal-caching|Updated
-  view ID for tab panels for better internal caching]]'
-- '[[Changes/Cline/2024-07-28-open-in-the-editor-using-menu-bar-or-claude-dev-open-in-new-tab-in-command-palet|Open
-  in the editor…]]'
 - '[[Changes/Aider/2024-07-29-2-editor-experience-changes-in-v0-46-0|2 Editor Experience
   changes in v0.46.0]]'
+- '[[Changes/Notion/2024-07-29-suggested-edits|Suggested edits]]'
+- '[[Changes/Notion/2024-07-29-a-better-inbox|A better Inbox]]'
 source_release: '[[Releases/Aider/aider-2024-07-31-v0-47-0-github-168059187-28da6242|aider-2024-07-31-v0-47-0-github-168059187-28da6242]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,14 +83,14 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.47.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-2-editor-experience-changes-in-v0-46-0|2 Editor Experience changes in v0.46.0]]
+- Earlier: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-a-better-inbox|A better Inbox]]
 - Later: 2024-07-31 · Cline · [[Changes/Cline/2024-07-31-new-or-edited-files-open-up-in-the-editor-to-more-easily-see-the-changes-claude|New or edited files open up in the editor to more easily see the changes Claude Dev makes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

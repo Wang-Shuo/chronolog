@@ -5,20 +5,20 @@ description: 'Claude · 2026-03-11 · Context Window: We’ve improved our Claud
   Excel and Claude for PowerPoint add-ins. They can now share the full context of
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1042
+  lag_days: 2366
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3cdfff438a4d8d998440bcfd46ff626ada3817616f4218e8baec3941d990d729
+machine_hash: 4a37403a6e9ed7f0de44cb7373eba32b544381a94600752ecc5a583e496f311c
 product: claude
 product_name: Claude
 record:
@@ -68,12 +68,12 @@ record:
   title: Work across Excel and PowerPoint
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-08-2-context-window-changes-in-v0-8-9|2 Context Window
-  changes in v0.8.9]]'
-- '[[Changes/OpenCode/2026-03-09-core-send-context-1m-2025-08-07-beta-header-to-gitlab-to-enable-1m-context-windo|Core
-  Send context-1m-2025-08-07 beta header to GitLab to enable 1M context window]]'
 - '[[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context
   Window changes in rust-v0.113.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-scope-copilot-chat-prompts-to-teams-channels-with-context-iq-web-microsoft-365-c|Scope
+  Copilot Chat prompts to Teams channels with Context IQ…]]'
+- '[[Changes/Notion/2026-03-10-dashboard-views-are-a-new-database-view-for-better-visibility-and-context-this-l|Visualize
+  progress with dashboard views]]'
 source_release: '[[Releases/Claude/claude-2026-03-11-2026-03-11-7da43764|claude-2026-03-11-2026-03-11-7da43764]]'
 source_type: claude_changelog
 theme: context-window
@@ -104,14 +104,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context Window changes in rust-v0.113.0]]
+- Earlier: 2026-03-10 · Notion · [[Changes/Notion/2026-03-10-dashboard-views-are-a-new-database-view-for-better-visibility-and-context-this-l|Visualize progress with dashboard views]]
 - Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved the Remote Control spawn mode selection prompt with better context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

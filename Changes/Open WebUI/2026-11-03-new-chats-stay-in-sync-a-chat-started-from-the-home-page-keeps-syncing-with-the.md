@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-11-03 · Collaboration: \U0001F503 **New chats 
   in sync.** A chat started from the home page keeps syncing with the server again
   after it is…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1259
+  lag_days: 2853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8ab260be4d79e47e2e6168b954b6352a15184fa8fa460c399cbfffd6595d3df9
+machine_hash: 9c5e78b4c265574402f679ab235d281e8ac798d5995a4a108c59aecb34c6911c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,12 +55,12 @@ record:
     keeps syncing…"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-29-knowledge-base-api-responses-trimmed-adding-updating-or-removing-knowledge-base|\U0001F4C3
-  Knowledge base API responses trimmed. Adding, updating or removing knowledge…]]"
 - '[[Changes/OpenClaw/2026-10-29-2-collaboration-changes-in-v2026-10-9|2 Collaboration
   changes in v2026.10.9]]'
 - '[[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress
   and next steps when you publish]]'
+- '[[Changes/Qoder/2026-10-30-2-collaboration-changes-in-qoder-0-5-1|2 Collaboration
+  changes in Qoder 0.5.1]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
 source_type: github_releases
 theme: collaboration
@@ -106,14 +107,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-30 · Lovable · [[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress and next steps when you publish]]
+- Earlier: 2026-10-30 · Qoder · [[Changes/Qoder/2026-10-30-2-collaboration-changes-in-qoder-0-5-1|2 Collaboration changes in Qoder 0.5.1]]
 - Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-6-collaboration-changes-in-v2026-10-10|6 Collaboration changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

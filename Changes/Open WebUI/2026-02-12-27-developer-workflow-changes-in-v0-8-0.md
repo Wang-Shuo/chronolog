@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-02-12 · Developer Workflow: 27 changes in v0.8
   \U0001F4E8 **Message queuing.** Messages can now be queued while a response is generating
   rather…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1062
+  lag_days: 2711
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 53aa7588673f387735caf696a5ea56c8f310b257e55f36a12a314be160bf04b2
+machine_hash: ff2a9568f6f23851fe6eab8ef0d0981e1b6cbe55a22d286d5152d674c1213e4b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -278,7 +279,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'GitHub Copilot CLI · 2026-03-26 · Reliability and Performance: CLI no
   longer crashes with out-of-memory errors when running shell commands that produce…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1197
+  lag_days: 2684
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa61959d9c517fcdc4d21e66fa53e8a4adb10eb86d1534ee0d717b04d1939521
+machine_hash: 9f2c98617828a11d05a7c9ff6da1d24fa43990649c7d7f47e72e0c598a01394f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,13 +86,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved scroll performance with large transcripts by replacing WASM yoga-layout…]]
-- Later: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-core-skip-snapshotting-files-larger-than-2mb-to-improve-performance|Core Skip snapshotting files larger than 2MB to improve performance]]
+- Later: 2026-03-26 · Notion · [[Changes/Notion/2026-03-26-this-month-we-have-a-champagne-problem-our-engineers-are-shipping-faster-than-ev|This month, we have a champagne problem]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

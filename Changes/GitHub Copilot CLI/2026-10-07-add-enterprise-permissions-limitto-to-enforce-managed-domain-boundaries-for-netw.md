@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-10-07 · Enterprise and Administration:
   enterprise permissions.limitTo to enforce managed domain boundaries for network
   requests'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1251
+  lag_days: 2458
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ff8b032d7f8aa91b769f41c70313837d5c5c06cfc37fd8648c3dcd26abcfdc0
+machine_hash: 754a787056dd7c222e9d1c07d5209e173e7cf4a4f22bef04d4734e035d3d86aa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,7 +44,8 @@ record:
     network…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-06-for-enterprise-teams|For Enterprise teams]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-admin-center-detailed-report-on-everyone-except-external-user-permissions-web-mi|Admin
+  Center - detailed report on Everyone except external user permissions…]]'
 - '[[Changes/Claude Code/2026-10-07-3-enterprise-and-administration-changes-in-v2-1-293|3
   Enterprise and Administration changes in v2.1.293]]'
 - '[[Changes/Codex CLI/2026-10-07-49473-use-the-rmcp-sdk-for-enterprise-managed-token-exchanges-nicksteele-oai|♯49473
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

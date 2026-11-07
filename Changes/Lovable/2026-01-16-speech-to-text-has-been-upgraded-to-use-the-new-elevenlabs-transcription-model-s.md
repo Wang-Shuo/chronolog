@@ -4,20 +4,20 @@ date: '2026-01-16'
 description: 'Lovable · 2026-01-16 · Voice and Audio: **Speech-to-text has been upgraded**
   to use the new ElevenLabs transcription model Scribe V2, improving accuracy…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 921
+  lag_days: 2748
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a61930cdf4996a523cb4690bd183307be7911c11faa48213b82e1b31625b6fd5
+machine_hash: 45552887554332fd477729059d54b944bc009b2f49c81d0ce5b7a1975e0f655b
 product: lovable
 product_name: Lovable
 record:
@@ -59,9 +59,10 @@ record:
     model…'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-12-speech-to-text-995b34|Speech to Text]]'
 - '[[Changes/ElevenLabs/2026-01-12-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-01-12-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Synthesia/2026-01-13-long-awaited-updates-you-can-now-regenerate-speech-and-control-voice-speed|Long-awaited
+  updates: you can now regenerate speech and control voice speed]]'
 source_release: '[[Releases/Lovable/lovable-2026-01-16-2026-01-16-d287c407|lovable-2026-01-16-2026-01-16-d287c407]]'
 source_type: lovable_changelog
 theme: voice
@@ -101,14 +102,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-01-12 · ElevenLabs · [[Changes/ElevenLabs/2026-01-12-javascript-sdk|JavaScript SDK]]
+- Earlier: 2026-01-13 · Synthesia · [[Changes/Synthesia/2026-01-13-long-awaited-updates-you-can-now-regenerate-speech-and-control-voice-speed|Long-awaited updates: you can now regenerate speech and control voice speed]]
 - Later: 2026-01-19 · ElevenLabs · [[Changes/ElevenLabs/2026-01-19-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

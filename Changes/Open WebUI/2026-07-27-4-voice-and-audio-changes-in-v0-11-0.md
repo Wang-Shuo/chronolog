@@ -5,20 +5,20 @@ description: 'Open WebUI · 2026-07-27 · Voice and Audio: 4 changes in v0.11.0 
   **Searchable model pickers.** When editing a model, the Tools, Skills, Knowledge,
   Voice…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1113
+  lag_days: 2940
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 847973b722afcd0a4610d4075a940e7d83cabcf0c5ebd61ef4cbafc61f7e02f0
+machine_hash: a737e9ffe29632142215fc844498cf602ffbb6d486e5313dd6084f42c9b8ce80
 product: open-webui
 product_name: Open WebUI
 record:
@@ -132,7 +132,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

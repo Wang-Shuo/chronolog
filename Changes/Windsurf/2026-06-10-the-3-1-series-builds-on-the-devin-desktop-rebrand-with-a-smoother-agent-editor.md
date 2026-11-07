@@ -4,20 +4,19 @@ date: '2026-06-10'
 description: 'Windsurf · 2026-06-10 · Editor Experience: The 3.1 series builds on
   the Devin Desktop rebrand with a smoother Agent/Editor experience, Devin Local…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1184
+  lag_days: 2768
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 00842d6ecd714c8216ccca10e0091639eba4acbe1fc13b7de8436b85eb4bf427
+machine_hash: 6043686563bb8b08b7d622801493eabad8de37f12fc7dc919f8ee0c1c6917164
 product: windsurf
 product_name: Windsurf
 record:
@@ -55,10 +54,10 @@ record:
   title: The 3.1 series builds on the Devin Desktop rebrand with a smoother Agent/Editor…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-09-4-editor-experience-changes-in-rust-v0-139-0|4 Editor
-  Experience changes in rust-v0.139.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-09-4-editor-experience-changes-in-v1-0-61|4
-  Editor Experience changes in v1.0.61]]'
+- '[[Changes/Kimi Code/2026-06-09-rework-file-reference-completion-in-the-tui|Rework
+  file reference completion in the TUI]]'
+- '[[Changes/Kimi Code/2026-06-10-tighten-file-tool-guidance-to-route-incremental-edits-through-edit|Tighten
+  file tool guidance to route incremental edits through Edit]]'
 - '[[Changes/OpenHands/2026-06-10-removed-app-tab-from-conversation-by-neubig-in-https-github-com-openhands-openha|Removed
   App tab from conversation]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-10-v3-1-7-782b7243|windsurf-2026-06-10-v3-1-7-782b7243]]'
@@ -91,13 +90,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-10 · OpenHands · [[Changes/OpenHands/2026-06-10-removed-app-tab-from-conversation-by-neubig-in-https-github-com-openhands-openha|Removed App tab from conversation]]
-- Later: 2026-06-12 · Gamma · [[Changes/Gamma/2026-06-12-the-editor-got-a-reliability-sweep|The editor got a reliability sweep]]
+- Later: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-letterboxing-detection|Letterboxing detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

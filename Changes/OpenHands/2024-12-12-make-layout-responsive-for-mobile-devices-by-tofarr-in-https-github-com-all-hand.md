@@ -4,20 +4,20 @@ date: '2024-12-12'
 description: 'OpenHands · 2024-12-12 · Mobile and Desktop: Make layout responsive
   for mobile devices by @tofarr in https://github.com/All-Hands-AI/OpenHands/pull/5475'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 639
+  lag_days: 2223
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56f08d75dc46d7f9dfb6f2bd8574bd9e1c462a89ab636f18513ddbb7f0b4bc0a
+machine_hash: f596de00e0697e51d9132577a6b487820110661a666d4c9e57ee37f59a90afa9
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,11 @@ record:
   title: Make layout responsive for mobile devices
   type: change
 related_changes:
-- '[[Changes/Runway/2024-11-25-use-act-one-in-the-runway-ios-mobile-app-to-generate-expressive-character-perfor|Act-One
-  in iOS]]'
 - '[[Changes/Suno/2024-12-06-exciting-news-try-v4-for-free-when-you-download-the-mobile-app-now-available-on|Exciting
   news!]]'
 - '[[Changes/Suno/2024-12-06-this-is-the-first-version-of-suno-for-android-we-wanted-to-get-it-into-your-hand|This
   is the first version of Suno for Android]]'
+- '[[Changes/Descript/2024-12-10-new-desktop-experience|New Desktop experience]]'
 source_release: '[[Releases/OpenHands/openhands-2024-12-12-0-15-2-github-190457676-246dd60a|openhands-2024-12-12-0-15-2-github-190457676-246dd60a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -76,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-12-06 · Suno · [[Changes/Suno/2024-12-06-this-is-the-first-version-of-suno-for-android-we-wanted-to-get-it-into-your-hand|This is the first version of Suno for Android]]
+- Earlier: 2024-12-10 · Descript · [[Changes/Descript/2024-12-10-new-desktop-experience|New Desktop experience]]
 - Later: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-improved-environment-variable-setup-messages-on-windows|Improved environment variable setup messages on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

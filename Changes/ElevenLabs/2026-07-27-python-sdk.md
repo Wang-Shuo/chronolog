@@ -4,20 +4,20 @@ date: '2026-07-27'
 description: 'ElevenLabs · 2026-07-27 · Voice and Audio: [v2.60.0](https://github.com/elevenlabs/elevenlabs-python/releases/tag/v2.60.0)
   - Added the voice accents…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1113
+  lag_days: 2940
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 679dda21b126491356859f021c75d51d09aae133f714bc95b1a4896e6fbf96e6
+machine_hash: be6e314eb859c04b829c5bad559d2114a4f944c1629e5bab20b3a2029c3e00d3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,8 +48,8 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT
-  Voice in Work and Codex on desktop]]'
+- '[[Changes/HeyGen/2026-07-23-your-avatar-still-delivers-the-script-in-your-face-and-voice-no-camera-required|Your
+  avatar still delivers the script in your face and voice, no camera required]]'
 - '[[Changes/Replit/2026-07-24-a-new-way-to-build-from-your-phone|A new way to build
   from your phone]]'
 - '[[Changes/ElevenLabs/2026-07-27-packages|Packages]]'
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

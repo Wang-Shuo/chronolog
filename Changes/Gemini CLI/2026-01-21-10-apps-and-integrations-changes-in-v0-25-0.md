@@ -4,20 +4,20 @@ date: '2026-01-21'
 description: 'Gemini CLI · 2026-01-21 · Apps and Integrations: 10 changes in Release
   v0.25.0 — feat(admin): implement extensions disabled by @skeshive in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1035
+  lag_days: 2595
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ffdbd80ad0b5eb69472defcdd514f69c41aabf36c2482813960b6aedcd66c210
+machine_hash: 7344fc7e1a603a5d5f75db0eee0ab59df1bf3adde9260d9a1d35437ac1dab19f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -133,7 +133,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.25.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

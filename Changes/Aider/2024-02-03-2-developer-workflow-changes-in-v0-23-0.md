@@ -5,19 +5,20 @@ description: 'Aider 路 2024-02-03 路 Developer Workflow: 2 changes in v0.23.0 鈥
   `/test` command that runs a command and adds the output to the chat on non-zero
   exit status.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 322
+  lag_days: 1971
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c284d886287de0560dbef8e735c766ace1ea707b31dadc2060a2923fc3ecbf31
+machine_hash: 4cb1d9d3c0f03fe4e5215241728c0916e3e802baa1cf2a909f68b4fa1d8c7c5d
 product: aider
 product_name: Aider
 record:
@@ -90,7 +91,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.23.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 路 Cursor 路 [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 路 Descript 路 [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

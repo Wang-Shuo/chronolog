@@ -4,20 +4,20 @@ date: '2026-05-14'
 description: 'Claude Code · 2026-05-14 · Apps and Integrations: 3 changes in v2.1.142
   — Plugins with a root-level `SKILL.md` and no `skills/` subdirectory are now surfaced…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1148
+  lag_days: 2708
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 01a58c2ecf7b7a6f3dbc7dd7af4494aefaab12a422b978e065a730b94c5b8865
+machine_hash: 7a193f6bba055d992fc14479300382d38f749655a9d65f6031d4f57346ab038a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,11 @@ record:
   title: 3 Apps and Integrations changes in v2.1.142
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added
-  CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]'
 - '[[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved
   MCP auth token lifecycle handling]]'
 - '[[Changes/ElevenLabs/2026-05-13-sdk-releases|SDK Releases]]'
+- '[[Changes/HeyGen/2026-05-13-getting-started-is-easy-go-to-codex-click-on-plugins-type-in-heygen-and-click-ad|Getting
+  started is easy]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,14 +88,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-sdk-releases|SDK Releases]]
+- Earlier: 2026-05-13 · HeyGen · [[Changes/HeyGen/2026-05-13-getting-started-is-easy-go-to-codex-click-on-plugins-type-in-heygen-and-click-ad|Getting started is easy]]
 - Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-auto-disable-the-built-in-github-mcp-server-in-azure-devops-only-workspaces-when|Auto-disable the built-in github-mcp-server in Azure DevOps-only workspaces…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

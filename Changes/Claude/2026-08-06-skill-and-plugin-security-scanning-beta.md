@@ -5,20 +5,20 @@ description: 'Claude · 2026-08-06 · Apps and Integrations: Enterprise plans ca
   turn on skill and plugin security scanning to automatically check third-party skills
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1232
+  lag_days: 2792
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 791937ee45a39d6919d59c786999848bf24d26d37122c2b94f12b010ef691e33
+machine_hash: 819ade9ba0c6735078868f9b2ecb7fd4f088c3faead1a89c23f0daad1a10f0f6
 product: claude
 product_name: Claude
 record:
@@ -57,10 +57,9 @@ record:
   title: Skill and plugin security scanning (beta)
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-05-map-reasoning-settings-onto-a-shared-path-across-ai-sdk-providers-so-effort-leve|Map
-  reasoning settings onto a shared path across AI SDK providers, so effort levels…]]'
-- '[[Changes/Cline/2026-08-05-2-apps-and-integrations-changes-in-v4-1-4|2 Apps and
-  Integrations changes in v4.1.4]]'
+- '[[Changes/Descript/2026-08-05-api-integrations|API & integrations]]'
+- '[[Changes/Kimi Code/2026-08-05-4-apps-and-integrations-changes-in-kimi-code-0-33-0|4
+  Apps and Integrations changes in Kimi Code 0.33.0]]'
 - '[[Changes/OpenHands/2026-08-05-chore-bump-openhands-extensions-to-0-16-0-by-hieptl-in-https-github-com-openhand|chore:
   bump @openhands/extensions to 0.16.0]]'
 source_release: '[[Releases/Claude/claude-2026-08-06-2026-08-06-64cede0d|claude-2026-08-06-2026-08-06-64cede0d]]'
@@ -90,13 +89,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-chore-bump-openhands-extensions-to-0-16-0-by-hieptl-in-https-github-com-openhand|chore: bump @openhands/extensions to 0.16.0]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3 Apps and Integrations changes in v2.1.224]]
+- Later: 2026-08-06 · Kimi Code · [[Changes/Kimi Code/2026-08-06-the-kimi-computer-use-plugin-now-supports-windows-x64-install-it-from-plugins|The Kimi Computer Use plugin now supports Windows x64 — install it from /plugins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

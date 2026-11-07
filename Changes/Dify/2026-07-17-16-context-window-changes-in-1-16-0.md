@@ -4,20 +4,20 @@ date: '2026-07-17'
 description: 'Dify · 2026-07-17 · Context Window: 16 changes in v1.16.0 — The ⌘K →
   /create and /refine AI workflow generator has been enhanced end-to-end: the low-value…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1170
+  lag_days: 2494
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4469df07ef339f0041f52c8b686c4bccab0be60c02bb869ebeca81db12280c8b
+machine_hash: d31b7d81f60a8f5f55f391ab7497dff37dc01e5eda6caa700e3f2a0822ba0f0d
 product: dify
 product_name: Dify
 record:
@@ -77,10 +77,10 @@ record:
   title: 16 Context Window changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-13-desktop-aligned-context-token-counts-with-usage-totals|Desktop
-  Aligned context token counts with usage totals]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-2-context-window-changes-in-v1-0-71|2 Context
   Window changes in v1.0.71]]'
+- '[[Changes/Kimi Code/2026-07-16-2-context-window-changes-in-kimi-code-0-26-0-2026-07-16-say-hi|2
+  Context Window changes in Kimi Code 0.26.0 (2026-07-16) Say hi…]]'
 - '[[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
 source_type: github_releases
@@ -167,7 +167,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

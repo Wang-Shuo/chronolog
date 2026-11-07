@@ -4,20 +4,19 @@ date: '2026-08-25'
 description: 'Claude Code · 2026-08-25 · Editor Experience: Added the turn''s completion
   time to the end-of-turn duration line, e.g. `✻ Sautéed for 23s · done 6:05 PM`'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2844
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7717790e3bf0ad446031f7dbc3d33e6e8dc51dc89cacf5e5b6a136ac69f3b4fc
+machine_hash: 71799790509011d6d3ac678b6b9887352f0c6061735390f4ff44095dcbdb99fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-11-06'
 description: 'GitHub Copilot CLI · 2026-11-06 · Automation and Scheduling: In the
   /every schedule manager, x now removes the highlighted schedule even after a one-shot…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1039
+  lag_days: 2606
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08f76b5ddd0e39368edd20c60fd82704941e4739ec001adbdc753280972ced39
+machine_hash: 3311f369afece1bb7b319144c678f80d366f478aa152d0cfb0901e0c0305a0d3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
     after…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-3-automation-and-scheduling-changes-in-1-19-0|3 Automation
-  and Scheduling changes in 1.19.0]]'
 - '[[Changes/OpenClaw/2026-11-05-keeps-the-windows-scheduled-task-available-during-update-recovery-until-the-gate|Keeps
   the Windows scheduled task available during update recovery until the Gateway…]]'
 - '[[Changes/OpenHands/2026-11-05-11-automation-and-scheduling-changes-in-v1-36-0|11
   Automation and Scheduling changes in v1.36.0]]'
+- '[[Changes/Qoder/2026-11-05-cross-device-automations-use-the-slash-menu-in-a-connected-device-conversation-t|Cross-device
+  automations: Use the slash menu in a connected-device conversation…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -101,13 +101,13 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-11-automation-and-scheduling-changes-in-v1-36-0|11 Automation and Scheduling changes in v1.36.0]]
+- Earlier: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-cross-device-automations-use-the-slash-menu-in-a-connected-device-conversation-t|Cross-device automations: Use the slash menu in a connected-device conversation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-09-19'
 description: "Open WebUI · 2024-09-19 · Automation and Scheduling: **\U0001F527 Enhanced
   AUTOMATIC1111 Settings**: Users can now configure 'CFG Scale', 'Sampler', and 'Scheduler'…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 261
+  lag_days: 1828
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a849b1fd478bbe27b71d84b4a69e9ba18b6d5af3333d5cff54582beefdf3411
+machine_hash: ec1e208015097b701efb607609c5b649e24fd98ffdd6cdfe5fe177a74f075f4d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
-- Later: 2024-12-03 · Dify · [[Changes/Dify/2024-12-03-update-the-scheduler-of-update-tidb-serverless-status-task-to-1-10min-by-johnjyo|update the scheduler of update_tidb_serverless_status_task to 1/10min]]
+- Later: 2024-10-24 · Notion · [[Changes/Notion/2024-10-24-automate-more-actions-with-formulas|Automate more actions with formulas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

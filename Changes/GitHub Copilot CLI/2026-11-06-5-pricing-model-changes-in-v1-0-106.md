@@ -4,20 +4,20 @@ date: '2026-11-06'
 description: 'GitHub Copilot CLI · 2026-11-06 · Pricing Model: 5 changes in 1.0.106
   — `copilot help billing` now says the footer shows the AI credits used in this session…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1422
+  lag_days: 3040
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 108aafb1801622c2b069b2be7be5f3a243d216cd7977d16752a4d7ae175e0fc5
+machine_hash: d4c331d94d00f003f7e71ca8e59233db38a71b008085457e9aedd291e73f2929
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: 5 Pricing Model changes in v1.0.106
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-11-03-context-compaction-and-prompt-caching-when-the-same-model-handles-the-conversati|\U0001F9E0
-  Context compaction and prompt caching. When the same model handles…]]"
 - '[[Changes/Dify/2026-11-04-3-pricing-model-changes-in-1-19-0|3 Pricing Model changes
   in 1.19.0]]'
 - '[[Changes/OpenClaw/2026-11-05-avoids-restoring-cold-archived-conversations-just-to-refresh-usage-and-cost-repo|Avoids
   restoring cold archived conversations just to refresh usage and cost reports…]]'
+- '[[Changes/Qoder/2026-11-05-model-selection-new-tasks-can-default-to-an-available-free-official-model-when-t|Model
+  selection: New tasks can default to an available free official model…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: pricing-model
@@ -117,13 +117,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-avoids-restoring-cold-archived-conversations-just-to-refresh-usage-and-cost-repo|Avoids restoring cold archived conversations just to refresh usage and cost reports…]]
+- Earlier: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-model-selection-new-tasks-can-default-to-an-available-free-official-model-when-t|Model selection: New tasks can default to an available free official model…]]
+- Later: 2026-11-06 · Qoder · [[Changes/Qoder/2026-11-06-credits-confirmation-clicking-continue-in-supported-quota-notices-explicitly-aut|Credits confirmation: Clicking “Continue” in supported quota notices explicitly…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-09-14'
 description: 'Claude Code · 2026-09-14 · Files and Data: 2 changes in v2.1.271 — Improved
   Markdown files published as artifacts: they now render as styled document pages…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1208
+  lag_days: 2553
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7e5d7effef31bc8d0f3e2e4a64b6f741dcea709fe20d6f20bdaa31904418e55
+machine_hash: aa6a52eed47efc4ba4ebf2eca2eabf68ea099b32f9b3757ecad081da4e8512e7
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

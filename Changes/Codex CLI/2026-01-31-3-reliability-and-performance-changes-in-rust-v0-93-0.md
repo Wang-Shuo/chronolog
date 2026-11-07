@@ -4,20 +4,20 @@ date: '2026-01-31'
 description: 'Codex CLI · 2026-01-31 · Reliability and Performance: 3 changes in 0.93.0
   — File search now tracks session CWD changes and supports multi-root traversal with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1143
+  lag_days: 2630
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec26b9644bc6172a187bffe9bcfa2d2fb2a77b8e75ec249d542887b5c160be15
+machine_hash: 36ff23c8f02a226d9cbc860e5382f904935fc1ee54e760d8b6227a4b084dd0cd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.93.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

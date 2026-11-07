@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'OpenHands · 2026-08-27 · Interface Experience: feat: pin a favorite
   sidebar page as the home route by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1326
+  lag_days: 2692
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 170afb8ba3eebffb9e075b1998cdb2b1be17672496844f6c4cbefd7a81f9ce1d
+machine_hash: 06b00576ad9f46e32652b5b2901ef52302c29065bdd7608d2b62c3dd26ab83f7
 product: openhands
 product_name: OpenHands
 record:
@@ -41,10 +41,10 @@ record:
   title: 'feat: pin a favorite sidebar page as the home route'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface
-  Experience changes in v2.1.248]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-3-interface-experience-changes-in-v1-0-81|3
   Interface Experience changes in v1.0.81]]'
+- '[[Changes/Kimi Code/2026-08-27-web-revamp-the-right-sidebar-as-a-multi-tab-panel|web:
+  Revamp the right sidebar as a multi-tab panel]]'
 - '[[Changes/Midjourney/2026-08-27-drag-images-into-the-prompt-bar-under-attach-to-prompt|Drag
   images into the prompt bar under "attach to prompt”]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-27-v1-16-0-github-378032404-772fe69a|openhands-2026-08-27-v1-16-0-github-378032404-772fe69a]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

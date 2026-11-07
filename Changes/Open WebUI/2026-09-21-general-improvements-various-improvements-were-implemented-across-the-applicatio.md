@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-09-21 · Reliability and Performance: \U0001F50
   improvements.** Various improvements were implemented across the application to
   enhance…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1376
+  lag_days: 2863
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93ef79f60fb16fb311e47cad16a59b951d4461881187301eafc5e8f71ab78b47
+machine_hash: 32aa10aecfd60a94e9cc474478f650b6d74fd0ad523480c64d1d725a12601f16
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,10 +55,8 @@ record:
     across…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-16-speed-up-startup-when-resuming-an-existing-local-session-by-its-exact-uuid-with|Speed
-  up startup when resuming an existing local session by its exact UUID with --resume]]'
-- '[[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added
-  a visible warning when memory usage is critical, with steps to free memory…]]'
+- '[[Changes/Descript/2026-09-17-faster-scrubbing|Faster scrubbing]]'
+- '[[Changes/Descript/2026-09-17-faster-aaf-and-sesx-exports|Faster AAF and SESX exports]]'
 - '[[Changes/OpenClaw/2026-09-19-5-reliability-and-performance-changes-in-v2026-9-5|5
   Reliability and Performance changes in v2026.9.5]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'
@@ -113,7 +111,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

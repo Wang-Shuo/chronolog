@@ -5,20 +5,19 @@ description: 'Lovable · 2025-03-28 · Editor Experience: Supabase functions now
   deployed when updated in code editor. Also, Supabase functions are updated live
   in code…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 745
+  lag_days: 2329
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8c314ce46102cc5b79a547134825ad3fcd56d8d64c3282d7a3c826d7434fc98
+machine_hash: 964799977c88042ebbb53733c52feab5162f8df3dd1a8cf9a97418d2d78f763c
 product: lovable
 product_name: Lovable
 record:
@@ -44,11 +43,10 @@ record:
   title: Supabase functions now get deployed when updated in code editor
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-0-48-2-allows-users-to-accept-reject-file-edited-in-another-chat-tab|0.48.2
-  - Allows users to accept/reject file edited in another chat tab]]'
 - '[[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]]'
 - '[[Changes/Aider/2025-03-25-added-edit-as-an-alias-for-the-editor-command|Added
   /edit as an alias for the /editor command]]'
+- '[[Changes/Descript/2025-03-25-editor-updates|Editor updates]]'
 source_release: '[[Releases/Lovable/lovable-2025-03-28-2025-03-28-e7e91c08|lovable-2025-03-28-2025-03-28-e7e91c08]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -77,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-03-25 · Aider · [[Changes/Aider/2025-03-25-added-edit-as-an-alias-for-the-editor-command|Added /edit as an alias for the /editor command]]
+- Earlier: 2025-03-25 · Descript · [[Changes/Descript/2025-03-25-editor-updates|Editor updates]]
 - Later: 2025-04-01 · Cline · [[Changes/Cline/2025-04-01-2-editor-experience-changes-in-v3-8-5|2 Editor Experience changes in v3.8.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

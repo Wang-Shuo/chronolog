@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 838a42e30ce8d015de03e21b2aa30738c00463a36e762a35a4a6bde3a23fc082
+machine_hash: fa81920fafa2d86471bee7066d760befb398a8a072b53ff28a263db8d23d14c9
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in v1.16.2
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-05-3-model-support-changes-in-v3-88-0|3 Model Support changes
-  in v3.88.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-model-support-changes-in-v1-0-60|2 Model
   Support changes in v1.0.60]]'
+- '[[Changes/Kimi Code/2026-06-05-4-model-support-changes-in-kimi-code-0-11-0|4 Model
+  Support changes in Kimi Code 0.11.0]]'
 - '[[Changes/OpenCode/2026-06-05-4-model-support-changes-in-v1-16-0|4 Model Support
   changes in v1.16.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-05-v1-16-2-1b5b7f0d|opencode-2026-06-05-v1-16-2-1b5b7f0d]]'

@@ -4,19 +4,20 @@ date: '2026-05-11'
 description: 'Cursor · 2026-05-11 · Collaboration: Cursor is now available in Microsoft
   Teams.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1083
+  lag_days: 2677
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a53dcb339ae9ff0c2065bf82cf4ef2af765a49757134bc9ab0d0266d4c73b53c
+machine_hash: 1e4fa59918e780e70dd8ae09b8becc85e71a2a571a1b8e03cf0405d84e64ba78
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +41,8 @@ record:
   title: Cursor is now available in Microsoft Teams
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
-  can now create a team marketplace without connecting a repository first]]'
+- '[[Changes/Synthesia/2026-05-05-share-customizable-avatar-outfits-and-spaces-with-your-teammates-or-your-whole-w|Share
+  avatar outfits and spaces]]'
 - '[[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration
   changes in rust-v0.129.0]]'
 - '[[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core
@@ -76,13 +77,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core Fixed HTTP API auth responses to match the previous wire format for empty…]]
-- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake teams with multiple accounts can pick which account a chat connects…]]
+- Later: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-the-descript-telethon-kicks-off-today-may-14-at-10-00-am-pt-https-www-youtube-co|The Descript Telethon kicks off today, May 14 at 10:00 AM…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

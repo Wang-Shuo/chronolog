@@ -4,20 +4,19 @@ date: '2024-12-01'
 description: 'Open WebUI · 2024-12-01 · Editor Experience: 2 changes in v0.4.7 — **✨
   Prompt Input Auto-Completion**: Type a prompt and let AI intelligently suggest and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 628
+  lag_days: 2212
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 113fd85837dbd143c5824a6b2384fafd26641ffda00a8290245aacdaccece37d
+machine_hash: d0c9491a1f0d4c05a027249caf890595de4ede9acfb2f277c1612cb45170317a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -94,7 +93,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.4.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

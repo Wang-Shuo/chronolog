@@ -4,20 +4,20 @@ date: '2025-07-10'
 description: "Dify · 2025-07-10 · Apps and Integrations: 10 changes in v1.6.0 — \U0001F4D6
   **[FOR MORE INFORMATION](https://dify.ai/blog/v1-6-0-built-in-two-way-mcp-support)**"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 840
+  lag_days: 2400
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a83e0e123677b1fae955d437d6299eab8f1d6d054297eface749da9d62b1b96
+machine_hash: d4105aa78ffa33c792af93dd5bdb24f63b7e6edc607da8b4149ca354b39d30af
 product: dify
 product_name: Dify
 record:
@@ -127,13 +127,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.6.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-07-08 · Cline · [[Changes/Cline/2025-07-08-migrate-download-mcp-response-to-proto-by-celestial-vault-in-https-github-com-cl|migrate download MCP response to proto]]
-- Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-6-apps-and-integrations-changes-in-v0-1-10|6 Apps and Integrations changes in v0.1.10]]
+- Later: 2025-07-10 · Notion · [[Changes/Notion/2025-07-10-build-with-replit-manage-with-notion|Build with Replit, manage with Notion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

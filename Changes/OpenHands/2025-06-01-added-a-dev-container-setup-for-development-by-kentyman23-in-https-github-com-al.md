@@ -4,19 +4,20 @@ date: '2025-06-01'
 description: 'OpenHands · 2025-06-01 · Developer Workflow: Added a dev container setup
   for development by @kentyman23 in https://github.com/All-Hands-AI/OpenHands/pull/8589'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 806
+  lag_days: 2455
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b22721c11383998762f2c969fa3bb37adecd801eaeede0d1c41121cc96837b8
+machine_hash: c8f100212ec97f025221b600d450c43bd69e3f6a059ffe09c37715e0039f40f5
 product: openhands
 product_name: OpenHands
 record:
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

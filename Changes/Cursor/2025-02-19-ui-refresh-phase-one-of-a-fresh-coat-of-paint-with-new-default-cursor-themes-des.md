@@ -4,20 +4,20 @@ date: '2025-02-19'
 description: 'Cursor · 2025-02-19 · Context Window: UI refresh: Phase one of a fresh
   coat of paint with new default Cursor themes designed for focus. We''ve also simplified…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 657
+  lag_days: 1981
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8e532a375977eab3c50b3cdd395087d1afc95f3eca1edf7350ab360e665bf93c
+machine_hash: 89cf7e24e9befe59ed5a5a5ca8586138ed0f1d53a241a3096ab86cdd1a3fcd39
 product: cursor
 product_name: Cursor
 record:
@@ -111,7 +111,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

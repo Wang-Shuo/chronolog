@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-02-26 · Mobile and Desktop: 2 changes in 0.106.
   Added a direct install script for macOS and Linux and publish it as a GitHub release
   asset…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1080
+  lag_days: 2664
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e90958100dc92ca9eadb475b2e4ed557e1285c7038457a172f4fbdcd4f38dec3
+machine_hash: 9b66e1edb12f5dddae048bba71f2649b8024bff9c0a0f9f12155804a26ccaa2c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.106.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

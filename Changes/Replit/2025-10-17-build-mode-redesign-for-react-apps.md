@@ -4,20 +4,20 @@ date: '2025-10-17'
 description: 'Replit · 2025-10-17 · Apps and Integrations: Build React apps that look
   polished from the start. The redesigned build mode follows clear design guidelines…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 939
+  lag_days: 2499
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2a536334a2f9b7929659b088e61d864733246b5566f7ec64756cc522d9e6daee
+machine_hash: 692588d9b0ba20f403efd0e10b27851a108f0595ebd1608916ea485f054959d7
 product: replit
 product_name: Replit
 record:
@@ -45,12 +45,12 @@ record:
   title: Build mode redesign for React apps
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-15-3-apps-and-integrations-changes-in-v0-9-0|3 Apps
-  and Integrations changes in v0.9.0]]'
 - '[[Changes/Ollama/2025-10-15-experimental-support-for-vulkan-is-now-available-when-you-build-locally-from-sou|Experimental
   support for Vulkan is now available when you build locally from source]]'
 - '[[Changes/Cline/2025-10-16-9-apps-and-integrations-changes-in-v3-33-0|9 Apps and
   Integrations changes in v3.33.0]]'
+- '[[Changes/Synthesia/2025-10-16-we-re-adding-more-and-more-tools-to-synthesia-to-help-you-create-the-best-conten|Sora
+  2 and Veo 3.1 in Synthesia: Prompt anything]]'
 source_release: '[[Releases/Replit/replit-2025-10-17-2025-10-17-32d063da|replit-2025-10-17-2025-10-17-32d063da]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-9-apps-and-integrations-changes-in-v3-33-0|9 Apps and Integrations changes in v3.33.0]]
+- Earlier: 2025-10-16 · Synthesia · [[Changes/Synthesia/2025-10-16-we-re-adding-more-and-more-tools-to-synthesia-to-help-you-create-the-best-conten|Sora 2 and Veo 3.1 in Synthesia: Prompt anything]]
 - Later: 2025-10-17 · Windsurf · [[Changes/Windsurf/2025-10-17-improved-diagnostics-for-third-party-extensions|Improved diagnostics for third party extensions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

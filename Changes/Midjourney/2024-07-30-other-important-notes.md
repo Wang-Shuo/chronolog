@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: cc5ac02edbf2d0e696685623b015ac9613aaf4a5b15659a84de9065a05b9a89a
+machine_hash: 076fe3296bff69bd9e49da8c293f03102dd37e6cb22c4e2fda085b5925fd8c22
 product: midjourney
 product_name: Midjourney
 record:
@@ -49,8 +49,7 @@ record:
   title: Other important notes
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall
-  back to main model if weak model is unable to generate a commit message]]'
+- '[[Changes/Notion/2024-07-29-one-ai-tool-to-chat-search|One AI tool to chat & search]]'
 - '[[Changes/Midjourney/2024-07-30-we-re-releasing-v6-1-of-our-midjourney-image-model-today|we’re
   releasing V6.1 of our Midjourney Image Model today!]]'
 - '[[Changes/Midjourney/2024-07-30-future-plans|Future plans]]'
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall back to main model if weak model is unable to generate a commit message]]
+- Earlier: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-one-ai-tool-to-chat-search|One AI tool to chat & search]]
 - Later: 2024-07-30 · Ollama · [[Changes/Ollama/2024-07-30-3-model-support-changes-in-v0-3-1|3 Model Support changes in v0.3.1]]
 <!-- chronolog:end -->
 

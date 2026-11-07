@@ -4,20 +4,20 @@ date: '2026-05-18'
 description: 'Lovable · 2026-05-18 · Reliability and Performance: **Speed tab.** The
   standalone Speed tab has been removed. Speed and Lighthouse checks for performance…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1250
+  lag_days: 2737
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 756f6de05005dcc92284bcb63640f74312f0031d54b5bbd3d9a77755ea7ee64b
+machine_hash: afbba1c400c486a5e083578745dfa2aa2015536918d998b2fe817cd32dc3143b
 product: lovable
 product_name: Lovable
 record:
@@ -62,12 +62,12 @@ record:
   title: '**Speed tab.** The standalone Speed tab has been removed'
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-12-3-reliability-and-performance-changes-in-run-terminal-commands-with-v0-faster|3
-  Reliability and Performance changes in Run terminal commands with v0, faster…]]'
 - '[[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention
   file search performance]]'
 - '[[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2
   Reliability and Performance changes in v0.30.0]]'
+- '[[Changes/HeyGen/2026-05-18-face-hands-posture-gaze-energy-the-same-script-can-become-a-polished-business-up|Face,
+  hands, posture, gaze, energy]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-18-2026-05-18-640aaf83|lovable-2026-05-18-2026-05-18-640aaf83]]'
 source_type: lovable_changelog
 theme: reliability-performance
@@ -112,14 +112,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2 Reliability and Performance changes in v0.30.0]]
+- Earlier: 2026-05-18 · HeyGen · [[Changes/HeyGen/2026-05-18-face-hands-posture-gaze-energy-the-same-script-can-become-a-polished-business-up|Face, hands, posture, gaze, energy]]
 - Later: 2026-05-18 · OpenCode · [[Changes/OpenCode/2026-05-18-desktop-speed-up-large-session-timelines|Desktop Speed up large session timelines]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

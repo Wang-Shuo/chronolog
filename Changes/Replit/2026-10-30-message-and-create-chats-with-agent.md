@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 68cff4641699e6a88718ab8a12d6cdc2c93892028266129fa2d984dd277e4e31
+machine_hash: 0d7dc774dbee2ac07731648c2334bc9fc9119ae3dc29a299c9128e954c06634c
 product: replit
 product_name: Replit
 record:
@@ -45,9 +45,9 @@ record:
   title: Message and create chats with Agent
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode
-  changes in v2.1.314]]'
 - '[[Changes/OpenCode/2026-10-30-guided-claude-agent-setup|Guided Claude Agent Setup]]'
+- '[[Changes/Qoder/2026-10-30-2-agent-mode-changes-in-qoder-0-5-1|2 Agent Mode changes
+  in Qoder 0.5.1]]'
 - '[[Changes/Replit/2026-10-30-contribute-to-your-company-codebase-with-cloud-agents|Contribute
   to your company codebase with Cloud Agents]]'
 source_release: '[[Releases/Replit/replit-2026-10-30-2026-10-30-8c94fa6c|replit-2026-10-30-2026-10-30-8c94fa6c]]'
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-guided-claude-agent-setup|Guided Claude Agent Setup]]
+- Earlier: 2026-10-30 · Qoder · [[Changes/Qoder/2026-10-30-2-agent-mode-changes-in-qoder-0-5-1|2 Agent Mode changes in Qoder 0.5.1]]
 - Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-agent-mode-changes-in-v2-1-316|2 Agent Mode changes in v2.1.316]]
 <!-- chronolog:end -->
 

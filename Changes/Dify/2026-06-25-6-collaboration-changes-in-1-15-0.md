@@ -4,19 +4,20 @@ date: '2026-06-25'
 description: 'Dify · 2026-06-25 · Collaboration: 6 changes in 1.15.0 — `DEVICE_FLOW_APPROVE_RATE_LIMIT_PER_HOUR`
   (`docker/envs/core-services/shared.env.example`)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1128
+  lag_days: 2722
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d578410cd378a55d7708b5058ff04c9fbd27bf9e384468fe7be1857fbe9f50de
+machine_hash: 706b6e25eba37d147c83034dd8777a68dac7d5b5e1867f4b11193ce468bb255d
 product: dify
 product_name: Dify
 record:
@@ -121,7 +122,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-10-14'
 description: 'Lovable · 2026-10-14 · Interface Experience: You can now [restore a
   deleted…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1374
+  lag_days: 2740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: efa1027f4cabf469efcfde99bcd4d57e06bd22201efefd46d25ac432af0ec75a
+machine_hash: 3ce023da57ad9e7ef6f23db1f109a28ac7ab2ec968d86cd0910104fceaac6344
 product: lovable
 product_name: Lovable
 record:
@@ -54,12 +54,12 @@ record:
   title: Restore a deleted project yourself
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed
-  exit to force-kill background commands still running 1.5 seconds after being…]]'
 - '[[Changes/Claude Code/2026-10-14-added-effort-and-fast-in-agent-view-to-set-what-new-sessions-start-with-a-bare-m|Added
   /effort and /fast in agent view to set what new sessions start with]]'
 - '[[Changes/Claude Code/2026-10-14-vscode-improved-startup-the-model-picker-and-slash-command-menu-now-fill-in-righ|VSCode
   Improved startup]]'
+- '[[Changes/Kimi Code/2026-10-14-add-sticky-user-message-summaries-in-fullscreen-mode-when-a-user-message-scrolls|Add
+  sticky user message summaries in fullscreen mode]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-14-2026-10-14-aff165c6|lovable-2026-10-14-2026-10-14-aff165c6]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-vscode-improved-startup-the-model-picker-and-slash-command-menu-now-fill-in-righ|VSCode Improved startup]]
+- Earlier: 2026-10-14 · Kimi Code · [[Changes/Kimi Code/2026-10-14-add-sticky-user-message-summaries-in-fullscreen-mode-when-a-user-message-scrolls|Add sticky user message summaries in fullscreen mode]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-7-interface-experience-changes-in-v0-12-1|7 Interface Experience changes in v0.12.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

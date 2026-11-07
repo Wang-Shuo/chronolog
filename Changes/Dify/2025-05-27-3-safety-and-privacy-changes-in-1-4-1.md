@@ -5,20 +5,20 @@ description: 'Dify · 2025-05-27 · Safety and Privacy: 3 changes in v1.4.1 — 
   Update**: Upgraded qdrant-client to version 1.9.0 to keep your environment secure
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 772
+  lag_days: 1764
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 30b0b9eef6b84890c0d837aef5e9d3b6b43bc00e8b86a1e5105286348e57ea3c
+machine_hash: d8c549ccc329e91f7e8de754ca8cf1d590a895e28278a24d51acebc0884976bb
 product: dify
 product_name: Dify
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.4.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

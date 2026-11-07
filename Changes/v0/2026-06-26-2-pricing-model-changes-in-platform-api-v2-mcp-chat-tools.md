@@ -5,20 +5,20 @@ description: 'v0 · 2026-06-26 · Pricing Model: 2 changes in Platform API v2, M
   tools, and Office file attachments — A paying team is no longer downgraded to free
   when…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1289
+  lag_days: 2907
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 851d8279e617fb488b219475b3daf1d17cd72ab6f3367f8a08562d68def4f895
+machine_hash: 587dc816d2b40d6c990aeaa750a419a14a482d5410302d6eb338ea252f1b51e4
 product: v0
 product_name: v0
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Pricing Model changes in Platform API v2, MCP chat tools…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-6-pricing-model-changes-in-1-15-0|6 Pricing Model changes
-  in 1.15.0]]'
 - '[[Changes/Lovable/2026-06-25-let-lovable-debug-and-improve-your-app-s-ai-features|Let
   Lovable debug and improve your app''s AI features]]'
 - '[[Changes/Cline/2026-06-26-add-clinepass-to-the-vs-code-extension-including-onboarding-provider-selection-s|Add
   ClinePass to the VS Code extension, including onboarding, provider selection…]]'
+- '[[Changes/Kimi Code/2026-06-26-reduce-streaming-redraw-cost-for-long-assistant-messages-with-code-blocks|Reduce
+  streaming redraw cost for long assistant messages with code blocks]]'
 source_release: '[[Releases/v0/v0-2026-06-26-2026-06-26-0ee85750|v0-2026-06-26-2026-06-26-0ee85750]]'
 source_type: v0_changelog
 theme: pricing-model
@@ -90,14 +90,14 @@ Source: https://v0.app/changelog#2026-06-26
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-add-clinepass-to-the-vs-code-extension-including-onboarding-provider-selection-s|Add ClinePass to the VS Code extension, including onboarding, provider selection…]]
+- Earlier: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-reduce-streaming-redraw-cost-for-long-assistant-messages-with-code-blocks|Reduce streaming redraw cost for long assistant messages with code blocks]]
 - Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-2-pricing-model-changes-in-v0-10-0|2 Pricing Model changes in v0.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

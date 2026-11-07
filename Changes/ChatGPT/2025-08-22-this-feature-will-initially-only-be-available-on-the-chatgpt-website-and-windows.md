@@ -5,20 +5,20 @@ description: 'ChatGPT · 2025-08-22 · Mobile and Desktop: This feature will ini
   only be available on the ChatGPT website and Windows app. Support for mobile (iOS
   and…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 892
+  lag_days: 2476
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7a9db69c5514619b8fb8949365ad896307c6ef9529d82e68d67d5deff466e21f
+machine_hash: 37d488eab6a251fa6d02f981479897f3121e8fda4ecb7a3a1aa62d707507411c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,8 +48,7 @@ record:
     Windows app
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-08-15-reduced-size-of-installation-on-windows-and-linux|Reduced
-  size of installation on Windows and Linux]]'
+- '[[Changes/Notion/2025-08-19-work-offline-in-notion|Work offline in Notion]]'
 - '[[Changes/Codex CLI/2025-08-20-2-mobile-and-desktop-changes-in-rust-v0-23-0|2 Mobile
   and Desktop changes in rust-v0.23.0]]'
 - '[[Changes/Open WebUI/2025-08-21-3-mobile-and-desktop-changes-in-v0-6-23|3 Mobile
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

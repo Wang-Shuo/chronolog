@@ -4,20 +4,19 @@ date: '2026-09-03'
 description: 'Claude Code · 2026-09-03 · Editor Experience: Improved the settings
   error for rules such as `Edit(C:\dir\(name)\**)`, where `\(` is read as an escaped…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1269
+  lag_days: 2853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b0001464c22c5084d87bc899253c8986b6780beb463e7967d4061f9901dbd793
+machine_hash: 3068f6753d2f08b9b64a996f963f2a42eaf0500002d121726e7edea340ce1728
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +45,12 @@ record:
   title: Improved the settings error for rules such as `Edit(C:\dir\(name)\**)`, where…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-01-5-editor-experience-changes-in-v2026-8-2|5 Editor
-  Experience changes in v2026.8.2]]'
-- '[[Changes/OpenCode/2026-09-01-desktop-session-renames-now-save-reliably-from-the-title-editor-and-tab-context|Desktop
-  Session renames now save reliably from the title editor and tab context menu]]'
 - '[[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the
   code diff against the base branch]]'
+- '[[Changes/Kimi Code/2026-09-02-web-add-a-code-wrap-toggle-to-the-diff-panel-and-streamline-its-header|web:
+  Add a code wrap toggle to the diff panel and streamline its header]]'
+- '[[Changes/Synthesia/2026-09-02-design-any-scene-with-layouts-a-library-of-100-ready-made-designs-right-in-the-e|Design
+  any scene with Layouts]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: editor-experience
@@ -89,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-01 · v0 · [[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the code diff against the base branch]]
+- Earlier: 2026-09-02 · Synthesia · [[Changes/Synthesia/2026-09-02-design-any-scene-with-layouts-a-library-of-100-ready-made-designs-right-in-the-e|Design any scene with Layouts]]
 - Later: 2026-09-03 · Midjourney · [[Changes/Midjourney/2026-09-03-edit-lightbox|EDIT-LIGHTBOX]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

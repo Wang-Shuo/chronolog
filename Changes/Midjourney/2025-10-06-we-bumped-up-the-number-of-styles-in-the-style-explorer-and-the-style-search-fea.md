@@ -5,20 +5,20 @@ description: 'Midjourney · 2025-10-06 · Multimodal Input: We bumped up the num
   of styles in the style explorer and the style search feature by another 10x again
   today…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 748
+  lag_days: 2516
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 827423e62944149e3202a24d384f24aeffa6187a9f9028c4564ba7f50de4bd89
+machine_hash: 6e308eea20ed8e60456e1029fb2deb8f1ac7ba49b12311a967f447b6864121e5
 product: midjourney
 product_name: Midjourney
 record:
@@ -54,12 +54,12 @@ record:
   title: 10x more styles
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core):
-  Parse Multimodal MCP Tool responses]]'
-- '[[Changes/Midjourney/2025-09-04-we-re-launching-an-early-version-of-our-style-explorer-today-it-s-like-the-video|Midjourney
-  launches an early version of our style explorer today]]'
-- '[[Changes/Dify/2025-09-22-multimodal-embedding-support-richer-content-types-beyond-text|Multimodal
-  Embedding: Support richer content types beyond text]]'
+- '[[Changes/Descript/2025-09-24-turn-into-video-transform-still-images-into-dynamic-videos|Turn
+  into video—Transform still Images into dynamic videos]]'
+- '[[Changes/Descript/2025-09-24-click-turn-into-video-button|Click "Turn into video"
+  button]]'
+- '[[Changes/Synthesia/2025-09-26-time-for-the-next-chapter-in-our-story-synthesia-3-0-on-october-1st-our-ceo-vict|Synthesia
+  3.0: you''re invited]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-10-06-https-updates-midjourney-com-10x-more-styles-7b15a311|midjourney-2025-10-06-https-updates-midjourney-com-10x-more-styles-7b15a311]]'
 source_type: midjourney_changelog
 theme: multimodal
@@ -92,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-multimodal-embedding-support-richer-content-types-beyond-text|Multimodal Embedding: Support richer content types beyond text]]
-- Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-2-multimodal-input-changes-in-v0-6-35|2 Multimodal Input changes in v0.6.35]]
+- Earlier: 2025-09-26 · Synthesia · [[Changes/Synthesia/2025-09-26-time-for-the-next-chapter-in-our-story-synthesia-3-0-on-october-1st-our-ceo-vict|Synthesia 3.0: you're invited]]
+- Later: 2025-10-14 · Descript · [[Changes/Descript/2025-10-14-changing-camera-angles|Changing camera angles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

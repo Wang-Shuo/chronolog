@@ -4,20 +4,20 @@ date: '2026-06-25'
 description: 'Ollama · 2026-06-25 · Reliability and Performance: llm: size mmproj
   offload by projector memory by @dhiltgen in https://github.com/ollama/ollama/pull/16866'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1288
+  lag_days: 2775
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e9d638d9d8c5be7fb2837de8c02018598c7783030d64ce8ce72e327b83d1e88
+machine_hash: 84edc3a272a43cfa53d1a0d2d793a3aa559869cafe3e17457ab665afdf824594
 product: ollama
 product_name: Ollama
 record:
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-optimized-file-watching-notifications-to-prevent-visual-flickering-and-improve-p|Optimized file watching notifications to prevent visual flickering and improve…]]
-- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-6-reliability-and-performance-changes-in-v0-10-0|6 Reliability and Performance changes in v0.10.0]]
+- Later: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-upgrade-web-markdown-renderer-dependencies-katex-markstream-vue-shiki-for-bug-fi|Upgrade web markdown renderer dependencies (katex, markstream-vue, shiki) for bug…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

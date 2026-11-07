@@ -4,19 +4,20 @@ date: '2024-12-26'
 description: 'Aider · 2024-12-26 · Developer Workflow: 2 changes in Aider v0.70.0
   — Gracefully handle unicode errors in git path names.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 649
+  lag_days: 2298
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 509eceac53e23fc907937c6cdcabbc2d6cf1a833a1932502687349c8799b9f74
+machine_hash: df3865c4df10ef0eb2f276fcd74c572a4fdeb1af6d7af0b72f437c5e2c1012b8
 product: aider
 product_name: Aider
 record:
@@ -88,7 +89,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.70.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

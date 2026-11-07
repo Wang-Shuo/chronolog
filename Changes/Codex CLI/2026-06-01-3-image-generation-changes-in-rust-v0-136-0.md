@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-06-01 · Image Generation: 3 changes in 0.136.0 
   feature-gated standalone image generation extension can run through the native Codex
   image…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 813
+  lag_days: 1071
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3fb25356f039074ec6f27010f07454bdc2027c52dea41a081cdbd1a4514b632d
+machine_hash: 633ac6789bdb92ac1527f55802579bf3bc25e1d5ddae443be6c884424d943725
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Image Generation changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-10-2-image-generation-changes-in-v0-9-5|2 Image Generation
-  changes in v0.9.5]]'
+- '[[Changes/Descript/2026-05-14-gpt-image-2-in-image-generation|GPT Image 2 in image
+  generation]]'
 - '[[Changes/Gamma/2026-05-15-brainstorm-generate-and-edit-images-in-chat|Brainstorm,
   generate, and edit images in chat]]'
 - '[[Changes/Lovable/2026-05-18-improvements-and-bug-fixes|Improvements and bug fixes]]'
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

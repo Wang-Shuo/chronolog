@@ -4,19 +4,20 @@ date: '2025-05-16'
 description: 'Cline · 2025-05-16 · Collaboration: Add collapsible recent task list,
   allowing users to hide their task history when sharing their screen (Thanks @cosmix!)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 723
+  lag_days: 2317
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af4ddba0d56a041e6aebe8caa9520035cea233b20d20c2064cd00ddbeff442da
+machine_hash: 6590534ee3ab6196dd6659faba3f7f29718c4cd7624ebe0acb6981ce04afda70
 product: cline
 product_name: Cline
 record:
@@ -41,10 +42,9 @@ record:
   title: Add collapsible recent task list, allowing users to hide their task history…
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-05-07-we-re-preparing-to-do-a-new-community-idea-ranking-activity-later-this-week-befo|Share
-  your ideas!]]'
-- '[[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project
-  visibility settings have returned to team workspaces, but will be disabled for now]]'
+- '[[Changes/Notion/2025-05-13-top-teams-love-notion-ai|Top teams love Notion AI]]'
+- '[[Changes/Notion/2025-05-13-research-mode-drafts-detailed-docs-in-minutes|Research
+  mode drafts detailed docs in minutes]]'
 - '[[Changes/Granola/2025-05-14-introducing-the-next-chapter-for-granola-bringing-all-your-team-s-conversations|Granola
   2.0: A second brain for your team]]'
 source_release: '[[Releases/Cline/cline-2025-05-16-v3-16-0-github-219219393-255497c4|cline-2025-05-16-v3-16-0-github-219219393-255497c4]]'
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

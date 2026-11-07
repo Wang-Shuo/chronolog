@@ -4,20 +4,20 @@ date: '2024-08-27'
 description: "Open WebUI · 2024-08-27 · Interface Experience: **\U0001F527 LaTeX Rendering
   Issue**: Addressed an issue that affected the correct rendering of LaTeX."
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 596
+  lag_days: 1962
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3485457afa172d19d70f9e4c5fe5698c017c21b9eee0553850b2433baff87dd6
+machine_hash: 603a07a2617dac575c526672692b2ea75a7c8e00e2bc8c0b74093a1052dd94f6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +44,11 @@ record:
   title: "**\U0001F527 LaTeX Rendering Issue**"
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-23-new-reset-command-to-drop-files-and-clear-chat-history|New
-  /reset command to /drop files and /clear chat history]]'
 - '[[Changes/OpenHands/2024-08-23-correct-list-rendering-for-chat-window-by-sb-git-cloud-in-https-github-com-all-h|Correct
   list rendering for chat window]]'
 - '[[Changes/Dify/2024-08-26-4-interface-experience-changes-in-0-7-2|4 Interface Experience
   changes in 0.7.2]]'
+- '[[Changes/Descript/2024-08-27-new-stock-speakers|New stock speakers]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-27-v0-3-16-github-172195711-cee1ca67|open-webui-2024-08-27-v0-3-16-github-172195711-cee1ca67]]'
 source_type: github_releases
 theme: interface-experience
@@ -83,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-08-26 · Dify · [[Changes/Dify/2024-08-26-4-interface-experience-changes-in-0-7-2|4 Interface Experience changes in 0.7.2]]
+- Earlier: 2024-08-27 · Descript · [[Changes/Descript/2024-08-27-new-stock-speakers|New stock speakers]]
 - Later: 2024-08-28 · Aider · [[Changes/Aider/2024-08-28-performance-improvements-for-autocomplete-in-large-mono-repos|Performance improvements for autocomplete in large/mono repos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

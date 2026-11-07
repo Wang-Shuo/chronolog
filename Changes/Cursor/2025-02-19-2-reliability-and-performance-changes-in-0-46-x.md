@@ -4,20 +4,20 @@ date: '2025-02-19'
 description: 'Cursor · 2025-02-19 · Reliability and Performance: 2 changes in Agent
   is ready and UI refresh — Crashes: Enhanced stability through memory and performance…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 797
+  lag_days: 2284
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73d2d1e773d221094877b31c9ee524d2a1526090178670eeb3570dc3d6c490e3
+machine_hash: 73058b0211ff94a5cf65f1c874cda016f3d0d17fb6b5f8e3ca060acddc759a20
 product: cursor
 product_name: Cursor
 record:
@@ -98,7 +98,7 @@ Source: https://cursor.com/changelog/0-46-x
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

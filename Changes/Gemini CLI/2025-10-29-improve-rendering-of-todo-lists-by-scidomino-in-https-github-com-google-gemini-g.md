@@ -4,20 +4,20 @@ date: '2025-10-29'
 description: 'Gemini CLI · 2025-10-29 · Interface Experience: Improve rendering of
   ToDo lists. by @scidomino in https://github.com/google-gemini/gemini-cli/pull/11315'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1024
+  lag_days: 2390
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88f07e1da826cf1ae2d10a4ba31f0bbab7e4008a01d17811071809007d1fd98e
+machine_hash: f86be9c30e83f3eae384118d2f63a1c5085cd62e4a175fd1da0dab6c9624f917
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,9 +43,9 @@ record:
   title: Improve rendering of ToDo lists
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-tui-drop-citation-rendering-by-nornagon-openai-in-https-github-com-openai-codex|tui:
-  drop citation rendering]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-code-repo-navigation|Code & Repo navigation]]'
+- '[[Changes/Descript/2025-10-28-drag-and-drop-now-works-from-brand-studio-and-editor-sidebar|Drag
+  and drop now works from Brand Studio and Editor sidebar]]'
 - '[[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized
   text parsing for chat rendering]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-29-v0-11-0-github-258016924-cf04d23a|gemini-cli-2025-10-29-v0-11-0-github-258016924-cf04d23a]]'
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

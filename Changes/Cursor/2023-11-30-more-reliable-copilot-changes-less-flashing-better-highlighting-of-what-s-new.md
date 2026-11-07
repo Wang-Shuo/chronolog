@@ -4,20 +4,19 @@ date: '2023-11-30'
 description: 'Cursor · 2023-11-30 · Editor Experience: More reliable Copilot++ changes:
   less flashing, better highlighting of what''s new.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 261
+  lag_days: 1845
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 48bfb77be108e5ce7f5400a6281ce71de0ed1be813d58c352be57a6a9cad2e90
+machine_hash: e92b6b0eda15d9d5acb670a5e911e3968a8e2aace727d99c8438c5571b0b207b
 product: cursor
 product_name: Cursor
 record:
@@ -47,7 +46,7 @@ record:
     new'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-15-copilot-improvements-2d35f8|Copilot++ improvements]]'
+- '[[Changes/Descript/2023-11-15-ai-script-rewriter|AI Script Rewriter]]'
 - '[[Changes/Cursor/2023-11-22-experimental-feature-go-to-more-interpreter-mode-to-enable-it-gives-the-model-ac|Experimental
   feature: go to "More"  "Interpreter Mode" to enable it]]'
 - '[[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

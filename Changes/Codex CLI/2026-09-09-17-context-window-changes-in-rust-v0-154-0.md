@@ -4,20 +4,20 @@ date: '2026-09-09'
 description: 'Codex CLI · 2026-09-09 · Context Window: 17 changes in 0.154.0 — Automatic
   approval reviews better preserve authorization context through compaction and reject…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1224
+  lag_days: 2548
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d7c18f578dec2044d897537ed270bb6bce7c17c5b50963f3be926b0d31a4ca3
+machine_hash: df217d469edf4494c79cd01b73579ed4bb76fa8066e35361d70dde3917cf409b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -161,13 +161,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Context Window
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved prompt-cache stability]]
-- Later: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-readable-previews-for-csv-and-tsv-files|Readable previews for CSV and TSV files]]
+- Later: 2026-09-09 · Kimi Code · [[Changes/Kimi Code/2026-09-09-web-support-permanently-deleting-sessions-from-the-session-row-context-menu-with|web: Support permanently deleting sessions from the session row context menu…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

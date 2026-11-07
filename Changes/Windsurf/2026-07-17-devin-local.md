@@ -4,20 +4,20 @@ date: '2026-07-17'
 description: 'Windsurf · 2026-07-17 · Interface Experience: Devin Local customizations
   and the sidebar skills count now span all open workspace folders.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1285
+  lag_days: 2651
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d9e720657dc5bf922fe0d4a18477decc0440bd851f814fc91c2c4d2333bf8001
+machine_hash: fe6b71289028c8830e153b43ce6799688b89b12c521373242bb77e63313ee396
 product: windsurf
 product_name: Windsurf
 record:
@@ -52,8 +52,8 @@ record:
   title: Devin Local
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-2-interface-experience-changes-in-1-16-0|2 Interface
-  Experience changes in 1.16.0]]'
+- '[[Changes/Kimi Code/2026-07-17-web-remember-the-thinking-level-per-model-fixing-an-empty-unresponsive-thinking|web:
+  Remember the thinking level per model, fixing an empty, unresponsive thinking…]]'
 - '[[Changes/Lovable/2026-07-17-redesigned-workspace-menu|Redesigned workspace menu]]'
 - '[[Changes/Replit/2026-07-17-a-faster-task-sidebar|A faster task sidebar]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-17-v3-5-17-c6033639|windsurf-2026-07-17-v3-5-17-c6033639]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

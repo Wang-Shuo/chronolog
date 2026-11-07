@@ -4,20 +4,19 @@ date: '2026-02-10'
 description: 'OpenCode · 2026-02-10 · Editor Experience: 4 changes in v1.1.54 — Desktop
   Update tab file contents on change'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1064
+  lag_days: 2648
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5c2b42ed3f27dc118f501da867382038a01e8b91a890fd93153d0de612c07a6f
+machine_hash: 2cfc31b163165a48c3abc3a02e87ca7345021378b55071f22a64c2caeed58eef
 product: opencode
 product_name: OpenCode
 record:
@@ -47,10 +46,9 @@ record:
   title: 4 Editor Experience changes in v1.1.54
   type: change
 related_changes:
-- '[[Changes/v0/2026-02-05-improved-console-icons-and-titles-in-the-editor|Improved
-  console icons and titles in the editor]]'
-- '[[Changes/v0/2026-02-09-synced-project-and-chat-names-to-editor-explorer-header|Synced
-  project and chat names to editor explorer header]]'
+- '[[Changes/Descript/2026-02-10-revert-understanding-thinking-and-view-media-in-underlord|Revert,
+  understanding thinking, and view media in Underlord]]'
+- '[[Changes/Descript/2026-02-10-editor|Editor]]'
 - '[[Changes/Gemini CLI/2026-02-10-3-editor-experience-changes-in-v0-28-0|3 Editor
   Experience changes in v0.28.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-10-v1-1-54-df764791|opencode-2026-02-10-v1-1-54-df764791]]'
@@ -109,7 +107,7 @@ Source: https://opencode.ai/changelog/v1.1.54
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

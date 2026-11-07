@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-03-08 · Image Generation: \U0001F58C️ **Imag
   in temporary chats.** Generated images now display correctly in temporary chat mode
   when…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 728
+  lag_days: 986
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f942b4d5957b28f8aa477ae36c68c59f8cfb444e271c5a02d1a383edc6f52e37
+machine_hash: be7eacd2721e2371b5e1a694e27512064c447b5ca4dbf0404ed3ffe197f860df
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,9 +50,10 @@ record:
     display correctly…"
   type: change
 related_changes:
-- '[[Changes/Replit/2026-02-20-video-stack|Video Stack]]'
 - '[[Changes/Runway/2026-02-27-the-most-advanced-and-consistent-image-generation-and-editing-model-now-availabl|Nano
   Banana 2]]'
+- '[[Changes/Descript/2026-03-02-new-in-image-generation-nano-banana-2|New in image
+  generation—Nano Banana 2]]'
 - '[[Changes/Codex CLI/2026-03-05-expanded-image-workflow-support-for-clients-including-client-side-handling-of-im|Expanded
   image workflow support for clients, including client-side handling…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb|open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb]]'
@@ -104,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

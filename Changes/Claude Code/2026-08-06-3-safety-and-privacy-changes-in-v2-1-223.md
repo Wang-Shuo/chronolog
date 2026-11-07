@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-06 · Safety and Privacy: 3 changes in v2.1
   — Fixed a Bash permission bypass where a crafted command could hide parts of itself
   from…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1208
+  lag_days: 2200
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d73064ff57ab5f9aa322c52c3fe5f1f63ca1a3d57e4b687599bb632a7e1b0a3a
+machine_hash: 0ace37217ee39f45cf928c6575f8de99509659af7308e15339eb1a6d5af3abd8
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

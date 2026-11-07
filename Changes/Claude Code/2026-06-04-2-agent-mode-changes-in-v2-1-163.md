@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81e19d24a9584bbfb91ae210337e8235efb13ac232965286fb9b3403639d47e1
+machine_hash: 4d2cb6d0649667d9c3e6669b706b84add38e06e048362273fc23ae0f83b9cf89
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Agent Mode changes in v2.1.163
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved
-  performance of opening recently-inactive background agent sessions…]]'
-- '[[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude
-  agents rows now show done/total before the detail when work is fanned out]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-add-expected-response-for-agent-evaluation-test-cases-web-microsoft-365-copilot|Add
+  expected response for agent evaluation test cases Web (Microsoft 365 Copilot Studio)]]'
+- '[[Changes/Kimi Code/2026-06-03-2-agent-mode-changes-in-kimi-code-0-9-0|2 Agent
+  Mode changes in Kimi Code 0.9.0]]'
 - '[[Changes/Ollama/2026-06-03-nemotron-3-ultra-https-ollama-com-library-nemotron-3-ultra-nvidia-nemotron-3-ult|Nemotron-3-Ultra((source
   link) NVIDIA Nemotron 3…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'

@@ -4,20 +4,19 @@ date: '2026-07-08'
 description: 'Codex CLI · 2026-07-08 · Editor Experience: 3 changes in 0.143.0 — #30286
   core: overlap diff root discovery with world state @anp-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1212
+  lag_days: 2796
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be37d7f710da538ef8fdadae3fbbbe201f544a9c801f2115cbfa9cd1db7e5594
+machine_hash: e1a677708dd224dcab0a57085cf6027352c4571c7a20216c8081a55e48717cf6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +43,10 @@ record:
   title: 3 Editor Experience changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed
-  left arrow to no longer close the background tasks, diff, and workflow…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2
   Editor Experience changes in v1.0.69]]'
+- '[[Changes/Kimi Code/2026-07-07-web-recover-chat-streaming-after-a-stale-background-tab-websocket-instead-of-req|web:
+  Recover chat streaming after a stale background-tab WebSocket instead…]]'
 - '[[Changes/OpenCode/2026-07-07-desktop-keep-session-tab-titles-available-after-reloads-while-session-data-is-st|Desktop
   Keep session tab titles available after reloads while session data is still…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
@@ -100,13 +99,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-07 · OpenCode · [[Changes/OpenCode/2026-07-07-desktop-keep-session-tab-titles-available-after-reloads-while-session-data-is-st|Desktop Keep session tab titles available after reloads while session data is still…]]
-- Later: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-pause-a-lovable-cloud-project|Pause a Lovable Cloud project]]
+- Later: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-from-the-modal-you-can-review-and-edit|From the modal, you can review and edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

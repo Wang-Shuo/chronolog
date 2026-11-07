@@ -4,19 +4,20 @@ date: '2026-07-06'
 description: 'Claude Code · 2026-07-06 · Developer Workflow: Changed `/review <pr>`
   back to a fast single-pass review; use `/code-review <level> <pr#>` for the multi-agent…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1206
+  lag_days: 2855
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 10e0d8ad19abfad3e078bb3846135d6cbd18182d9c2866da26c6ea3bbe71eae3
+machine_hash: 3baf40d93deb1f66f2280da325f7ddcc196f23575b34e0e0129bb7351b2f0eed
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +55,12 @@ record:
   title: Changed `/review <pr>` back to a fast single-pass review
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-01-5-developer-workflow-changes-in-v0-10-2|5 Developer
-  Workflow changes in v0.10.2]]'
-- '[[Changes/OpenCode/2026-07-01-desktop-streamline-wsl-server-setup-with-clearer-distro-checks-and-install-flows|Desktop
-  Streamline WSL server setup with clearer distro checks and install flows]]'
 - '[[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude
   agents session rows now show pull-request links as bare ♯N without…]]'
+- '[[Changes/Kimi Code/2026-07-02-show-draft-pull-requests-with-a-distinct-draft-status-instead-of-displaying-them|Show
+  draft pull requests with a distinct draft status instead of displaying them as open]]'
+- '[[Changes/Kimi Code/2026-07-03-enrich-path-from-the-user-s-login-shell-at-startup-so-shell-commands-find-user-i|Enrich
+  PATH from the user''s login shell at startup, so shell commands find…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
 theme: developer-workflow
@@ -90,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude agents session rows now show pull-request links as bare ♯N without…]]
+- Earlier: 2026-07-03 · Kimi Code · [[Changes/Kimi Code/2026-07-03-enrich-path-from-the-user-s-login-shell-at-startup-so-shell-commands-find-user-i|Enrich PATH from the user's login shell at startup, so shell commands find…]]
 - Later: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-3-developer-workflow-changes-in-v1-17-14|3 Developer Workflow changes in v1.17.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-07-30'
 description: 'OpenHands · 2026-07-30 · Apps and Integrations: feat: enable/disable
   an installed MCP server from its card by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1225
+  lag_days: 2785
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a45e0cc80946f28fb4706e1f5079fb1207805c0495acc3ca3b7c4c332affc424
+machine_hash: fb7a72878f53a896457aceac338fd03d26f135c33c1e2ddc95269b868bfe661f
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat: enable/disable an installed MCP server from its card'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47
-  Apps and Integrations changes in rust-v0.146.0]]'
-- '[[Changes/Lovable/2026-07-29-app-chat-connectors-amazon-redshift-and-microsoft-fabric|App
-  + chat connectors: Amazon Redshift and Microsoft Fabric]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-admins-can-now-edit-user-mappings-and-query-filters-for-servicenow-connector-web|Admins
+  can now edit user mappings and query filters for ServiceNow Connector…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-apps-and-integrations-changes-in-v1-0-76|2
   Apps and Integrations changes in v1.0.76]]'
+- '[[Changes/Kimi Code/2026-07-30-plugins-can-contribute-system-prompt-instructions-through-systemprompt-or-system|Plugins
+  can contribute system prompt instructions through systemPrompt…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-30-v1-8-0-github-362592144-c13618f5|openhands-2026-07-30-v1-8-0-github-362592144-c13618f5]]'
 source_type: github_releases
 theme: apps-integrations
@@ -76,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-apps-and-integrations-changes-in-v1-0-76|2 Apps and Integrations changes in v1.0.76]]
+- Earlier: 2026-07-30 · Kimi Code · [[Changes/Kimi Code/2026-07-30-plugins-can-contribute-system-prompt-instructions-through-systemprompt-or-system|Plugins can contribute system prompt instructions through systemPrompt…]]
 - Later: 2026-07-31 · Cline · [[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and Integrations changes in v4.1.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

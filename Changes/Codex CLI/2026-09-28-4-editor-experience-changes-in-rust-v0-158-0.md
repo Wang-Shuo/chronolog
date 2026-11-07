@@ -4,20 +4,19 @@ date: '2026-09-28'
 description: 'Codex CLI · 2026-09-28 · Editor Experience: 4 changes in 0.158.0 — Command
   completion events now include early output and report process-launch failures to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1294
+  lag_days: 2878
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db13162fe65b7d099d23a2f19f552db0b80261c7691defa8412dac096e3b8154
+machine_hash: 60a5af46f67b88854124e1cbab1208a06afcacb6f355106b659115bab54fb886
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -111,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.158.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

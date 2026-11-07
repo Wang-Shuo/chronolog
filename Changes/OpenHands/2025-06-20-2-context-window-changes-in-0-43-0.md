@@ -4,20 +4,20 @@ date: '2025-06-20'
 description: 'OpenHands · 2025-06-20 · Context Window: 2 changes in 0.43.0 - 2025-06-13
   — Microagents UI in conversation context menu, making it easier to understand what…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 778
+  lag_days: 2102
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 118b8d228d830f8be5e85c7448da2126236ae778996e19bf85855111a66cc3b9
+machine_hash: 0ec207716bae5a77678b7e410558c35ed5f5ddbb62bd06a947832a3fde15a1c1
 product: openhands
 product_name: OpenHands
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.43.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

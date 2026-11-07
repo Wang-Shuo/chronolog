@@ -4,20 +4,20 @@ date: '2026-10-27'
 description: 'Codex CLI · 2026-10-27 · Safety and Privacy: 3 changes in 0.165.0 —
   #56220 Use cargo_bin in the Windows sandbox manifest test @felixxia-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1290
+  lag_days: 2282
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad6349b4fd60da8987d369b2374cacc5d881c30dce66047a95a774100b186db1
+machine_hash: 952196444186dddc4b31594609ddb61b3f01deac4d5e5e1aa1c5987aac08d98b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-26-starting-or-resuming-a-cloud-sandbox-shows-a-progress-card-with-the-repo-branch|Starting
-  or resuming a cloud sandbox shows a progress card with the repo, branch…]]'
 - '[[Changes/ElevenLabs/2026-10-26-voice-cloning-permissions-members-without-the-create-instant-voice-clone-or-crea|Voice
   cloning permissions]]'
+- '[[Changes/Kimi Code/2026-10-26-merge-the-two-repeated-permission-mode-notice-lines-in-the-swarm-and-goal-start|Merge
+  the two repeated permission-mode notice lines in the swarm and goal start…]]'
 - '[[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed
   Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb|codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb]]'
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.165.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

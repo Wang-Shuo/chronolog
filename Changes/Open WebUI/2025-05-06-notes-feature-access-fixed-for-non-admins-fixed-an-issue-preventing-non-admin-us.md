@@ -5,19 +5,20 @@ description: "Open WebUI · 2025-05-06 · Collaboration: \U0001F4DD **Notes Feat
   Access Fixed for Non-Admins**: Fixed an issue preventing non-admin users from accessing
   the Notes…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 713
+  lag_days: 2307
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 28d01ee98d0aa0375b56b88f58677d187e3f8d55e132bd49f97b93e03eb43241
+machine_hash: 8dc43eca63ce36364c62d7648b2085e66373ff926dd75154910e992278ba2352
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,7 +54,8 @@ record:
   title: "\U0001F4DD **Notes Feature Access Fixed for Non-Admins**"
   type: change
 related_changes:
-- '[[Changes/Replit/2025-04-25-team-invitation-improvements|Team invitation improvements]]'
+- '[[Changes/Descript/2025-04-29-join-ceo-andrew-and-the-team-for-a-live-demonstration-of-avatars|Join
+  CEO Andrew and the team for a live demonstration of Avatars]]'
 - '[[Changes/Replit/2025-05-02-replit-teams-annual-plan|Replit Teams Annual plan]]'
 - '[[Changes/Open WebUI/2025-05-05-5-collaboration-changes-in-v0-6-6|5 Collaboration
   changes in v0.6.6]]'
@@ -100,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

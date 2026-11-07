@@ -4,20 +4,20 @@ date: '2026-07-25'
 description: 'Lovable · 2026-07-25 · Context Window: If a workspace API key is committed
   to a public GitHub repository, Lovable now revokes it automatically. GitHub detects…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1178
+  lag_days: 2502
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7d1c2bcd329ea43b57e09763c90afd873eaaa082e29c6090c86e12552d95bd60
+machine_hash: 93718bae0a09b4995e7605ab2aa6db6ab89c59e75ba0accc7eb95f36f576c805
 product: lovable
 product_name: Lovable
 record:
@@ -57,10 +57,10 @@ record:
   title: Leaked API keys are revoked automatically
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-skills-with-context-fork-to-run-in-the-background-by-default-opt-out-per|Changed
-  skills with context: fork to run in the background by default]]'
 - '[[Changes/Gemini CLI/2026-07-22-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor:
   exclude transient CI configuration files from workspace context]]'
+- '[[Changes/Kimi Code/2026-07-22-send-the-session-prompt-cache-key-to-openai-and-openai-responses-providers|Send
+  the session prompt cache key to OpenAI and OpenAI Responses providers]]'
 - '[[Changes/Cline/2026-07-24-add-claude-opus-5-across-the-anthropic-claude-code-bedrock-vertex-cline-and-open|Add
   Claude Opus 5 across the Anthropic, Claude Code, Bedrock, Vertex, Cline…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-25-2026-07-25-f2b969c3|lovable-2026-07-25-2026-07-25-f2b969c3]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

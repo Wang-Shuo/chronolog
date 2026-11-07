@@ -5,20 +5,19 @@ description: 'GitHub Copilot CLI · 2026-08-10 · Editor Experience: 2 changes i
   — Pin the current prompt one row higher, in the row the tab bar already reserves,
   so…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1245
+  lag_days: 2829
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 618e5676a875fc2ef5c22e35ee7865a57daf124907c65087eb50ae4d1c59cfec
+machine_hash: f2aeefe7607f74153feae99f5fdea884582cf5143c554d38c4b6bf124b561837
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,8 +46,7 @@ record:
   title: 2 Editor Experience changes in v1.0.79
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-07-2-editor-experience-changes-in-hub-v2-6-0-faster-long-conversations|2
-  Editor Experience changes in HUB v2.6.0 — Faster long conversations…]]'
+- '[[Changes/HeyGen/2026-08-07-proofread-version-clarity|Proofread version clarity]]'
 - '[[Changes/Runway/2026-08-07-leave-feedback-directly-on-an-image-or-video-with-the-new-comments-tab-pin-comme|Comments
   on Assets]]'
 - '[[Changes/Cline/2026-08-09-restore-the-view-changes-button-on-completion-rows-backed-by-sdk-checkpoints-so|Restore
@@ -103,7 +101,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.79
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

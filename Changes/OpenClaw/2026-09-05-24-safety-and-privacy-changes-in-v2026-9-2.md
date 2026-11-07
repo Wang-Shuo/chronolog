@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-05 · Safety and Privacy: 24 changes in v2026.
   — Upgrade note for shared Gateways: If you run several agents on one Gateway, review
   their…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1238
+  lag_days: 2230
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35a87a365bebe594832f3180b71546199791fb48d9ecd9a1421cddf417f77897
+machine_hash: 39d0e26b5223305c3c434c3c4c36868be3a6710bf594c93c7349427a5a9b82e9
 product: openclaw
 product_name: OpenClaw
 record:
@@ -209,12 +209,12 @@ record:
   title: 24 Safety and Privacy changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-10-safety-and-privacy-changes-in-v2026-9-1|10 Safety
-  and Privacy changes in v2026.9.1]]'
-- '[[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety
-  and Privacy changes in v2.1.261]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-5-safety-and-privacy-changes-in-v1-0-83|5
   Safety and Privacy changes in v1.0.83]]'
+- '[[Changes/HeyGen/2026-09-04-identity-verification-ui-update|Identity verification
+  UI update]]'
+- '[[Changes/Kimi Code/2026-09-04-3-safety-and-privacy-changes-in-kimi-code-0-41-0|3
+  Safety and Privacy changes in Kimi Code 0.41.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'
 source_type: openclaw_changelog
 theme: safety-privacy
@@ -313,14 +313,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-5-safety-and-privacy-changes-in-v1-0-83|5 Safety and Privacy changes in v1.0.83]]
+- Earlier: 2026-09-04 · Kimi Code · [[Changes/Kimi Code/2026-09-04-3-safety-and-privacy-changes-in-kimi-code-0-41-0|3 Safety and Privacy changes in Kimi Code 0.41.0]]
 - Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-3-safety-and-privacy-changes-in-v2-1-265|3 Safety and Privacy changes in v2.1.265]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2025-12-02'
 description: 'Gemini CLI · 2025-12-02 · Editor Experience: Restore bracketed paste
   mode after external editor exit by @scidomino in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 994
+  lag_days: 2578
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2fc41d1466193184ef59c52b75f1ef78677fbda0ae8a63072d3584a56235d111
+machine_hash: 62a733a6eaf809dba2efd3c831f317895bc4b7835dbdff36707d0d711d2098b4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +41,8 @@ record:
   title: Restore bracketed paste mode after external editor exit
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-27-2-editor-experience-changes-in-v3-38-3|2 Editor Experience
-  changes in v3.38.3]]'
+- '[[Changes/HeyGen/2025-12-01-style-your-avatar-without-leaving-the-studio|Style
+  your avatar without leaving the studio]]'
 - '[[Changes/Cline/2025-12-02-view-remote-rules-and-workflows-in-the-editor-by-celestial-vault-in-https-github|View
   remote rules and workflows in the editor]]'
 - '[[Changes/Codex CLI/2025-12-02-3-editor-experience-changes-in-rust-v0-64-0|3 Editor
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

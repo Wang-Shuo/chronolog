@@ -4,20 +4,21 @@ date: '2024-03-12'
 description: 'Dify · 2024-03-12 · Account and Access: SMTP authentication is optional
   by @lmagnien in https://github.com/langgenius/dify/pull/2765'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 348
+  lag_days: 1323
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 900577adcb994db41569db8fa44c0711f63f762dfc69225ecb5d96371827f0f7
+machine_hash: 1ac1aa76a18bb4a548bdbc25c0f36abaabf50233e478c5915e435f70d475d331
 product: dify
 product_name: Dify
 record:
@@ -40,12 +41,12 @@ record:
   title: SMTP authentication is optional
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|"with
-  codebase" for all codebases!]]'
 - '[[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You
   should now be able to sign in with GitHub again]]'
 - '[[Changes/Dify/2023-10-10-feat-move-login-required-wrapper-outside-by-takatost-in-https-github-com-langgen|feat:
   move login_required wrapper outside]]'
+- '[[Changes/Descript/2024-03-04-signing-in-with-the-wrong-email|Signing in with the
+  Wrong Email]]'
 source_release: '[[Releases/Dify/dify-2024-03-12-0-5-9-github-145969921-6a1bbd73|dify-2024-03-12-0-5-9-github-145969921-6a1bbd73]]'
 source_type: github_releases
 theme: account-access
@@ -77,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2023-10-10 · Dify · [[Changes/Dify/2023-10-10-feat-move-login-required-wrapper-outside-by-takatost-in-https-github-com-langgen|feat: move login_required wrapper outside]]
+- Earlier: 2024-03-04 · Descript · [[Changes/Descript/2024-03-04-signing-in-with-the-wrong-email|Signing in with the Wrong Email]]
 - Later: 2024-03-29 · Dify · [[Changes/Dify/2024-03-29-authentication-is-only-applied-when-both-the-username-and-password-have-values-b|Authentication is only applied when both the username and password have values]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

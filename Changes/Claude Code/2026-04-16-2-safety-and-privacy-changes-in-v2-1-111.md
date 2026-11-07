@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-04-16 · Safety and Privacy: 2 changes in v2.1
   — Read-only bash commands with glob patterns (e.g. `ls *.ts`) and commands starting
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1096
+  lag_days: 2088
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf9ba5dc5bd9c68a904620177a9eebdd6ee8c647c68206f60e32d0f0d15ccc33
+machine_hash: 7da7da3ff26f4dcb50db478c672a867b88c3add4001f95928c1bfae378e99b95
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.111
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-14-permission-prompt-notification-hook-only-fires-when-a-prompt-is-actually-shown-t|Permission
-  prompt notification hook only fires when a prompt is actually shown to the user]]'
+- '[[Changes/Notion/2026-04-14-new-database-permission-can-create-pages|New database
+  permission: “Can create pages”]]'
 - '[[Changes/Codex CLI/2026-04-15-10-safety-and-privacy-changes-in-rust-v0-121-0|10
   Safety and Privacy changes in rust-v0.121.0]]'
 - '[[Changes/Claude Code/2026-04-16-added-less-permission-prompts-skill-scans-transcripts-for-common-read-only-bash|Added
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

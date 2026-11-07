@@ -4,20 +4,20 @@ date: '2024-12-11'
 description: 'Lovable · 2024-12-11 · Pricing Model: [Christmas Hackathon](https://hackathon.lovable.app/submit)
   to win \$3,000+ in prizes.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 727
+  lag_days: 2345
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1d29aee0c2bc9cafdd857eaa0b6e9a3e373c33dc33c5abfafc2f00214644a72f
+machine_hash: c0baa37207f00f1c9c74c2eedadc93a5e47e9acb682709dbcd88fd3c78df9902
 product: lovable
 product_name: Lovable
 record:
@@ -45,8 +45,8 @@ record:
     in prizes'
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-10-21-expanding-workspace-extensions-in-beta-for-google-workspace-customers-calendar-k|Expanding
-  Workspace extensions in Beta for Google Workspace customers]]'
+- '[[Changes/Descript/2024-11-05-subscription-management-and-checkout-update|Subscription
+  management and checkout update]]'
 - '[[Changes/Runway/2024-11-14-we-have-released-a-number-of-updates-to-the-runway-api-that-gives-users-more-fea|Runway
   API updates]]'
 - '[[Changes/ElevenLabs/2024-12-03-api|API]]'
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

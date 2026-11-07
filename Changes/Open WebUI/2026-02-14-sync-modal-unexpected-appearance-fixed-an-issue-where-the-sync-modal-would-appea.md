@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-02-14 · Collaboration: \U0001F41B **Sync modal
   appearance.** Fixed an issue where the Sync Modal would appear unexpectedly after
   enabling…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 997
+  lag_days: 2591
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2199e47a112e7b6e7d2d29898e3532d9649bf62dcb7b242bc3422aed9112aee5
+machine_hash: 6f8d908314d7759a93a637779c475e65d0e3b4e7d2429e7644b348b54130c872
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

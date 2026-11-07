@@ -4,20 +4,19 @@ date: '2026-08-18'
 description: 'Codex CLI · 2026-08-18 · Editor Experience: #37828 Track running unified
   exec processes at turn completion @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1253
+  lag_days: 2837
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f08715e5ec5e6013d9965f346e5a5b69e6c8f5ce2cfb0e0a49d104e91eb8512
+machine_hash: 5427cabd2258484d77f07538b35c36824c0ce5b0f652b34880a6f7a8b87e5a19
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,13 +84,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-elevencreative|ElevenCreative]]
-- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor Experience changes in rust-v0.149.0]]
+- Later: 2026-08-18 · Kimi Code · [[Changes/Kimi Code/2026-08-18-web-the-browser-tab-title-now-shows-the-current-workspace-directory-name|web: The browser tab title now shows the current workspace directory name]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

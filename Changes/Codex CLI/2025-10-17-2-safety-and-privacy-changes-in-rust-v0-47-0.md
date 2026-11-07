@@ -4,20 +4,20 @@ date: '2025-10-17'
 description: 'Codex CLI · 2025-10-17 · Safety and Privacy: 2 changes in 0.47.0 — Sandbox
   denied error logs (#4874)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 915
+  lag_days: 1907
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5c284477d2838a0fd7e06052d2f77dd5dcdd986a0f021f23279fed71d35ee609
+machine_hash: 2068302ca35c261f82fd43fd60b5a14d1361a709c6a848fcbcefd10c4dd740d8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.47.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

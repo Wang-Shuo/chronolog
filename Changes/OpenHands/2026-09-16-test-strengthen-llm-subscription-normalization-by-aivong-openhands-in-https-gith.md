@@ -4,20 +4,20 @@ date: '2026-09-16'
 description: 'OpenHands · 2026-09-16 · Pricing Model: test: strengthen LLM subscription
   normalization by @aivong-openhands in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1371
+  lag_days: 2989
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 7c2b6083cb4c0d9a86c1f290ba402a5cf5f4e7981110f1ffc28057a09462678a
+machine_hash: 5552bf645a1527b0665a5cf5cfeb59415427e516c28129775f36330f0b324c80
 product: openhands
 product_name: OpenHands
 record:
@@ -52,8 +52,8 @@ record:
   title: 'test: strengthen LLM subscription normalization'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-3-pricing-model-changes-in-v2026-9-4|3 Pricing Model
-  changes in v2026.9.4]]'
+- '[[Changes/Qoder/2026-09-12-creative-achievements-your-profile-now-includes-credits-and-activity-stats-along|Creative
+  achievements: Your profile now includes Credits and activity stats, along…]]'
 - '[[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added
   support for a multiplier above 1, up to 10, in the modelPricing managed…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-usage-shows-per-model-ai-credit-consumption-in-usage-breakdowns|/usage
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

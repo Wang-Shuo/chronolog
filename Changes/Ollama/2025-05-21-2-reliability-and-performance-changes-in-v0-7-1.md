@@ -5,20 +5,20 @@ description: 'Ollama · 2025-05-21 · Reliability and Performance: 2 changes in 
   — Improved model memory management to allocate sufficient memory to prevent crashes
   when…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 888
+  lag_days: 2375
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89305c1c1490a6215fcad4dd6ef828feac3500b1bc3c5f849f5439d6eca9fcb2
+machine_hash: b15e75b7bbacfe91ad89712d01222bc24312f24ed0b71de250affea8922f5820
 product: ollama
 product_name: Ollama
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.7.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

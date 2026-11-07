@@ -5,20 +5,20 @@ description: 'Runway · 2026-08-24 · Video Generation: Wan 3.0 is now available
   Runway in tool mode and workflows. Generate near state-of-the-art video with audio,
   using…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 949
+  lag_days: 2133
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3752dfbb70759460484737f9cba9e19fec873467e5dcd5891a29ca36a21314dd
+machine_hash: 6eb417c1fabf8eb59e339565471a567c34cfbd74f62e1c5f26389408c32cdbaa
 product: runway
 product_name: Runway
 record:
@@ -47,10 +47,10 @@ record:
   title: Wan 3.0
   type: change
 related_changes:
-- '[[Changes/Runway/2026-07-22-runway-mcp-now-supports-seedance-2-0-video-generation-in-4k-resolution-just-expl|Seedance
-  2.0 4K]]'
 - '[[Changes/Runway/2026-08-05-minimax-hailuo-3-0-is-now-live-on-runway-dev-generate-video-from-text-image-or-v|MiniMax
   Hailuo 3.0]]'
+- '[[Changes/HeyGen/2026-08-07-we-ve-added-new-customization-options-to-generate-script-with-ai-in-the-ppt-pdf|HeyGen
+  adds new customization options to Generate Script with AI in the PPT/PDF…]]'
 - '[[Changes/Runway/2026-08-13-xai-s-grok-imagine-1-5-is-now-available-in-runway-mcp-as-grok-imagine-1-5-suppor|Grok
   Imagine 1.5 Video]]'
 source_release: '[[Releases/Runway/runway-2026-08-24-2026-08-24-wan-3-0-b031e5e3|runway-2026-08-24-2026-08-24-wan-3-0-b031e5e3]]'
@@ -80,13 +80,13 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2026-08-13 · Runway · [[Changes/Runway/2026-08-13-xai-s-grok-imagine-1-5-is-now-available-in-runway-mcp-as-grok-imagine-1-5-suppor|Grok Imagine 1.5 Video]]
-- Later: 2026-09-08 · Runway · [[Changes/Runway/2026-09-08-runway-now-runs-in-a-panel-inside-adobe-premiere-pro-and-after-effects-generate|Introducing Runway Plugins for Adobe]]
+- Later: 2026-09-03 · Synthesia · [[Changes/Synthesia/2026-09-03-reassign-create-and-rename-speakers-in-a-dubbed-video-with-one-click-available-o|Adjust speaker attribution for dubbed videos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

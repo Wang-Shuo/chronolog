@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-12-22 · Voice and Audio: \U0001F399️ **Speec
   default content type handling** was fixed and refactored to ensure correct MIME
   type usage…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 896
+  lag_days: 2723
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c1c0cb8762a70a8b8d2c2a6b8c43b88e27a45b69079335a823e40e115ac42a4b
+machine_hash: 3b72ce818b22ab79810cab34be609e21567d8c1803a7fe1b4c686a42fb138496
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,8 +48,8 @@ record:
     refactored…"
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2025-12-17-native-audio-support-for-the-agent|Native
-  audio support for the agent]]'
+- '[[Changes/HeyGen/2025-12-18-voice-doctor-is-a-chat-based-workflow-for-fixing-the-issues-you-only-notice-afte|Introducing
+  Voice Doctor]]'
 - '[[Changes/Runway/2025-12-18-text-to-speech-is-now-available-via-the-audio-tab-in-tool-mode-alongside-new-aud|New
   Audio Features]]'
 - '[[Changes/Open WebUI/2025-12-21-2-voice-and-audio-changes-in-v0-6-42|2 Voice and
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

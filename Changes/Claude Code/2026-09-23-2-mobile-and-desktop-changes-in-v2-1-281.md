@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'Claude Code · 2026-09-23 · Mobile and Desktop: 2 changes in v2.1.281
   — Added Claude apps gateway support for newer Claude Desktop keys in `desktop` policy…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1289
+  lag_days: 2873
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d925e74f6fc700be7a4e461e6c5301aa0a17d8a3ebe97be6148a7538499c947
+machine_hash: 92e4592b8b95738bb5942a768d5240ee73c3903f2200d7c57dc09a39681b8108
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,13 +94,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-11-mobile-and-desktop-changes-in-rust-v0-156-0|11 Mobile and Desktop changes in rust-v0.156.0]]
-- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-16-mobile-and-desktop-changes-in-v2026-9-6|16 Mobile and Desktop changes in v2026.9.6]]
+- Later: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-additional-outlook-triage-actions-in-copilot-android-windows-ios-mac-web-microso|Additional Outlook triage actions in Copilot Android, Windows, iOS, Mac…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

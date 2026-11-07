@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-05 · Search and Browsing: 4 changes in v2026.
   — The Dashboard gallery gives saved boards a place you can browse by sight, search
   by task…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1262
+  lag_days: 2291
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f802331d24994234af159008e7b043d6dcb726b99bd43345e918a1b88f069d4c
+machine_hash: 30ac1b7af5c538c8fe8dec48e08a9a77a012f5d5c321bb18f51eb0b25a034f73
 product: openclaw
 product_name: OpenClaw
 record:
@@ -65,12 +65,12 @@ record:
   title: 4 Search and Browsing changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed
-  /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]'
 - '[[Changes/OpenClaw/2026-09-01-importing-or-returning-to-a-large-retained-history-also-requires-less-local-work|Importing
   or returning to a large retained history also requires less local work…]]'
 - '[[Changes/OpenClaw/2026-09-03-2-search-and-browsing-changes-in-v2026-9-1|2 Search
   and Browsing changes in v2026.9.1]]'
+- '[[Changes/HeyGen/2026-09-04-build-your-own-custom-look-pack|Build your own custom
+  Look Pack]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'
 source_type: openclaw_changelog
 theme: search-browsing
@@ -129,14 +129,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-2-search-and-browsing-changes-in-v2026-9-1|2 Search and Browsing changes in v2026.9.1]]
+- Earlier: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-build-your-own-custom-look-pack|Build your own custom Look Pack]]
 - Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-3-search-and-browsing-changes-in-v2026-9-3|3 Search and Browsing changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

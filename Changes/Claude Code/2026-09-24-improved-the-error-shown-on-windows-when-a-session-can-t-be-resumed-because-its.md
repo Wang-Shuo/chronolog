@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-24 · Mobile and Desktop: Improved the erro
   on Windows when a session can''t be resumed because its transcript file could not
   be…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1290
+  lag_days: 2874
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b6032b26804dcf740cc2f565fde154e23b4998c507ea9b1f5d68ff2fcdc18d5
+machine_hash: 1d247ceaae7e2e30ef2a9b5c5ecfe07ba142a42cb88dcfa4b3803b6ce33ba6c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: Improved the error shown on Windows when a session can't be resumed because…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
-  and Desktop changes in v2.1.281]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-carplay-support-for-the-microsoft-copilot-app-ios-microsoft-365-copilot-app|CarPlay
+  support for the Microsoft Copilot app iOS (Microsoft 365 Copilot app)]]'
 - '[[Changes/OpenClaw/2026-09-23-16-mobile-and-desktop-changes-in-v2026-9-6|16 Mobile
   and Desktop changes in v2026.9.6]]'
 - '[[Changes/OpenHands/2026-09-23-feat-desktop-universal-macos-dmg-with-per-arch-bundled-runtimes-by-harsh-batheja|feat(desktop):
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

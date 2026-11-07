@@ -4,20 +4,20 @@ date: '2025-07-02'
 description: 'Dify · 2025-07-02 · Interface Experience: 2 changes in v1.5.1 — **Front-End
   UX**: Improved tooltip for workflow run node names and input restrictions by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 905
+  lag_days: 2271
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7b034cf40521f123de0d5f982725192ac0d3512210bce21ddd55a89381ef52b
+machine_hash: 9f50f0378f9e9f3da8fa0430835fa0debb7f8b1212edbe0b11f813ff6eef9e12
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Interface Experience changes in 1.5.1
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-25-4-interface-experience-changes-in-1-5-0|4 Interface Experience
-  changes in 1.5.0]]'
+- '[[Changes/Descript/2025-06-26-improved-timeline-tools-access-tools-from-the-toolbar-by-toggling-on-advanced-ti|Improved
+  timeline tools: Access tools from the toolbar by toggling on Advanced…]]'
 - '[[Changes/Aider/2025-06-27-2-interface-experience-changes-in-v0-85-0|2 Interface
   Experience changes in v0.85.0]]'
 - '[[Changes/Gemini CLI/2025-07-01-feat-add-markdown-table-rendering-support-by-heartyguy-in-https-github-com-googl|feat:
@@ -93,7 +93,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.5.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-05-25'
 description: 'Cline · 2026-05-25 · Editor Experience: Update `diff` and `protobufjs`
   dependencies.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1168
+  lag_days: 2752
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c6d9e665963655e4ec3c76c43081d2577b0584c836e8cabe440fb0f20af96ef
+machine_hash: 2c1675b242ec0cb2c75029f50abb4bb4d40771489442698d777c75a62f188d52
 product: cline
 product_name: Cline
 record:
@@ -78,13 +77,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-automatically-prune-old-process-log-files-from-copilot-logs-at-startup-to-preven|Automatically prune old process log files from ~/.copilot/logs/ at startup…]]
-- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-remote-control-autocomplete-now-shows-disconnect-remote-control-when-remote-cont|/remote-control autocomplete now shows "Disconnect Remote Control" when Remote…]]
+- Later: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-avoid-overly-small-local-completion-caps-that-can-truncate-reasoning-before-summ|Avoid overly small local completion caps that can truncate reasoning before…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

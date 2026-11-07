@@ -4,19 +4,20 @@ date: '2025-12-02'
 description: 'Codex CLI · 2025-12-02 · Developer Workflow: 4 changes in 0.64.0 — TTY
   stdin is required, WSL clipboard paths are normalized, and stale conversations are…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 990
+  lag_days: 2639
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b40c0ef1838d3d9a8d02897dda672f5a2bbf4d126f912e5d34b8cfa92d3f4a84
+machine_hash: 8f02d819b65b7c74c080d9dc788fba379211578c022779ca547bb4bfadce409a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -108,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.64.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

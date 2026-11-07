@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-03-26 · Safety and Privacy: 2 changes in v2.1
   — Added conditional `if` field for hooks using permission rule syntax (e.g., `Bash(git
   *)`)…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1075
+  lag_days: 2067
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99ef0d570bc28fa1a5d22327a1cc967e35f189936be9c960e319f9d6f359a20f
+machine_hash: 5f4a00830a3a43df78031c501d3cd87b19f191316ef16c73f1ff36ed2ce79be5
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.85
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

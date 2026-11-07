@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d1a420e5ab22f1b7d6888b511d445646b130fb5f80d18ea5e09caad8243c69f0
+machine_hash: 48d5415955af6f96c60406516fbcd7c11cd4f318f5c3b971c18de2ba18c94671
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -95,8 +95,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-24-8-agent-mode-changes-in-v2026-10-7|8 Agent Mode changes
-  in v2026.10.7]]'
+- '[[Changes/Kimi Code/2026-10-25-2-agent-mode-changes-in-kimi-code-2-3-2|2 Agent
+  Mode changes in Kimi Code 2.3.2]]'
 - '[[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode
   changes in v2.1.311]]'
 - '[[Changes/ElevenLabs/2026-10-26-knowledge-base-crawl-exclusions|Knowledge base

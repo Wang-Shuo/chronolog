@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-06-03 · Voice and Audio: **\U0001F50A Local TT
   Selection**: Fixed the issue where the selected local Text-to-Speech (TTS) voice
   was not being…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 329
+  lag_days: 2156
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8ea5da38c5519697cf07f0b2421ff6cbc763c6603341bf2bd2ffabe1d9dcd38
+machine_hash: 12f2a0606b27477b9b2c38892d0ba84888c75d13fee73dee18d018be9db6d622
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,8 @@ record:
   title: "**\U0001F50A Local TTS Voice Selection**"
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-04-27-room-plans-hopefully-next-week|Room plans (hopefully
-  next week)]]'
+- '[[Changes/Synthesia/2024-05-07-clone-your-voice-in-english-and-use-it-in-29-other-languages-the-recording-takes|Voice
+  Cloning: your voice in 29 languages]]'
 - '[[Changes/Dify/2024-05-09-2-voice-and-audio-changes-in-0-6-7|2 Voice and Audio
   changes in 0.6.7]]'
 - '[[Changes/Suno/2024-05-24-v4-is-cooking-in-the-meantime-we-are-rolling-out-early-access-to-v3-5-which-is-n|v4
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

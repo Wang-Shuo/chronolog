@@ -4,20 +4,20 @@ date: '2026-08-19'
 description: 'Lovable · 2026-08-19 · Context Window: [Design systems](https://docs.lovable.dev/features/design-systems.md)
   are now available on all paid plans. Create a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1203
+  lag_days: 2527
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f2c1c8ba0d27aba7fec5d7193d0b1cb1edf64033dbcc6bd9538b19879140e29f
+machine_hash: 9b0a52c5a623d75fc4c6ba7f0660bd9dd607a95a60c4ed5996890553ca978830
 product: lovable
 product_name: Lovable
 record:
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-13-context-window-changes-in-rust-v0-148-0|13 Context Window changes in rust-v0.148.0]]
-- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-9-context-window-changes-in-rust-v0-149-0|9 Context Window changes in rust-v0.149.0]]
+- Later: 2026-08-19 · Notion · [[Changes/Notion/2026-08-19-manage-your-workers-connections-and-personal-access-tokens-from-the-new-develope|Your Developer Portal, now in the sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

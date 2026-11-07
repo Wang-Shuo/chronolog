@@ -5,20 +5,19 @@ description: 'Aider · 2025-03-21 · Editor Experience: Added commands to switch
   model types: `/editor-model` for Editor Model, and `/weak-model` for Weak Model,
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 738
+  lag_days: 2322
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8bf4bc1d76b83425f7133b0ab52b939bbc793bf6d4587599bf4633e980c5782d
+machine_hash: 21eeefbf1f76655507d79f9c7620f36f90ed30b7d8fcfef12452ff06f31cba6a
 product: aider
 product_name: Aider
 record:
@@ -55,10 +54,9 @@ record:
   title: Added commands to switch between model types
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-03-07-dev-mode-https-x-com-lovable-dev-status-1897693825767768542-easily-edit-any-code|Dev
-  Mode:((source link) Easily edit any…]]'
 - '[[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2:
   Cursor Tab accepts work with single-line selections]]'
+- '[[Changes/Descript/2025-03-11-editor-updates|Editor updates]]'
 - '[[Changes/Gemini/2025-03-13-ask-gemini-to-remember-the-things-you-care-about-now-rolling-out-to-more-users-a|Ask
   Gemini to remember the things you care about]]'
 source_release: '[[Releases/Aider/aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9|aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9]]'
@@ -99,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

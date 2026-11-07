@@ -4,20 +4,19 @@ date: '2025-08-13'
 description: 'Gemini CLI · 2025-08-13 · Editor Experience: [ide-mode] Update installation
   logic and nudge by @chrstnb in https://github.com/google-gemini/gemini-cli/pull/6068'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 883
+  lag_days: 2467
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7473043a4a3e6ee9b7d5cb81455ff43d2bdd560e0f53ece32e874b5727121ea
+machine_hash: 0fe0fe511d0e040747efee56d06db873a68f04916d41c14bec77b714d8e49e39
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -79,13 +78,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-08-13 · Cline · [[Changes/Cline/2025-08-13-4-editor-experience-changes-in-v3-24-0|4 Editor Experience changes in v3.24.0]]
-- Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-35-editor-experience-changes-in-v0-1-21|35 Editor Experience changes in v0.1.21]]
+- Later: 2025-08-14 · Descript · [[Changes/Descript/2025-08-14-your-generated-clip-replaces-the-original-image-in-the-scene-editor-and-appears|Your generated clip replaces the original image in the scene editor and appears…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

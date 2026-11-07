@@ -4,20 +4,21 @@ date: '2026-06-25'
 description: 'OpenCode · 2026-06-25 · Account and Access: Core Always print the MCP
   OAuth URL so manual sign-in still works when opening the browser flow.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1183
+  lag_days: 2158
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25a11c5f2dd3a1a96be6ae1abf2e89c1fde357dcb45a8a6ad9f214a872c1197c
+machine_hash: 83b3e839887395fc399d20298818572aaac99194f191b1942dfbe20930246679
 product: opencode
 product_name: OpenCode
 record:
@@ -88,13 +89,13 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-enabled-automatic-saving-of-refreshed-oauth-tokens-to-the-os-keyring-to-reduce-a|Enabled automatic saving of refreshed OAuth tokens to the OS keyring to reduce…]]
-- Later: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-3-account-and-access-changes-in-platform-api-v2-mcp-chat-tools|3 Account and Access changes in Platform API v2, MCP chat tools…]]
+- Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-add-shell-mode-to-the-tui-type-in-the-input-box-to-enable-it-for-long-running-co|Add shell mode to the TUI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

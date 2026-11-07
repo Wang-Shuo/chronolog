@@ -4,19 +4,20 @@ date: '2025-05-26'
 description: "Open WebUI · 2025-05-26 · Collaboration: 3 changes in v0.6.11 — \U0001F6E0
   **Import/Export Default Prompt Suggestions**: Enjoy one-click import/export of prompt…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 733
+  lag_days: 2327
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3aaa68500378be9506a9c07c08a8f9fea68cf80feab2d73ffaf47d95d966967f
+machine_hash: dd430ee1060b854d0ae8257f6886d9a331b59d69822265ad784b041242e933f9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -106,7 +107,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

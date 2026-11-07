@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1b0f5b273499abecfdb153991ffb8fee5a5b8a65b073f97f0d210c929a845572
+machine_hash: 9043ffe8948fae17172c15929fd7910a0811d9158a51b6f4b68d5a02d82a051c
 product: gamma
 product_name: Gamma
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-3-agent-mode-changes-in-hub-v2-1-4-quota-screen-redesign|3 Agent Mode changes in HUB v2.1.4 — Quota Screen Redesign…]]
-- Later: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-block-malicious-packages-with-package-firewall|Block malicious packages with Package Firewall]]
+- Later: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-prevent-overlapping-interactive-agent-requests-from-using-the-wrong-active-agent|Prevent overlapping interactive agent requests from using the wrong active agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

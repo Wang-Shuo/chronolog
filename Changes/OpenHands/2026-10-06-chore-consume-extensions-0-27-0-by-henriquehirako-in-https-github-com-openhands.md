@@ -4,20 +4,20 @@ date: '2026-10-06'
 description: 'OpenHands · 2026-10-06 · Apps and Integrations: chore: consume Extensions
   0.27.0 by @henriquehirako in https://github.com/OpenHands/OpenHands/pull/17870'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1293
+  lag_days: 2853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8b01dd62234bce218e94551a0f5d386b07b719c3d6728c1e3d73329574e4e9d
+machine_hash: 483909ef1ba4221ee62f0adb3136aeff5b4bc79483184546cef9662188b27c1b
 product: openhands
 product_name: OpenHands
 record:
@@ -43,11 +43,12 @@ record:
   title: 'chore: consume Extensions 0.27.0'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-06-chat-connectors-excalidraw|Chat connectors: Excalidraw+]]'
-- '[[Changes/Lovable/2026-10-06-connect-to-databricks-with-your-own-account|Connect
-  to Databricks with your own account]]'
 - '[[Changes/Lovable/2026-10-06-redesigned-model-list-for-the-built-in-ai-connector|Redesigned
   model list for the built-in AI connector]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-seamless-search-and-chat-integration-windows-web-microsoft-365-copilot|Seamless
+  Search and Chat Integration Windows, Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-edit-query-string-and-user-identity-mapping-rules-for-copilot-connectors-windows|Edit
+  query string and user identity mapping rules for Copilot connectors Windows…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed|openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-06 · Lovable · [[Changes/Lovable/2026-10-06-redesigned-model-list-for-the-built-in-ai-connector|Redesigned model list for the built-in AI connector]]
+- Earlier: 2026-10-06 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-06-edit-query-string-and-user-identity-mapping-rules-for-copilot-connectors-windows|Edit query string and user identity mapping rules for Copilot connectors Windows…]]
 - Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-3-apps-and-integrations-changes-in-v2-1-293|3 Apps and Integrations changes in v2.1.293]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

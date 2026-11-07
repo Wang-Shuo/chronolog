@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ae1df48194134d4264e259acafdad437740dfb05a378f4368dcd4ad5e05d9c7e
+machine_hash: e82b8d771ea860e45308873c9af25cf39018487f3912d12e2ac38cb098636bd5
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Add gpt-5.2-codex OpenAI model support
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-retrieving-models-handles-network-errors-from-firewalled-routes-gracefully-raise|Retrieving
-  models handles network errors from firewalled routes gracefully, raises…]]'
 - '[[Changes/Google Antigravity/2026-01-13-updated-tab-model-architecture|Updated
   tab model architecture]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-build-smarter-agents-with-gpt-5-in-agent-builder-android-windows-ios-mac-web-mic|Build
+  smarter agents with GPT-5 in Agent Builder Android, Windows, iOS, Mac…]]'
 - '[[Changes/OpenCode/2026-01-13-3-model-support-changes-in-v1-1-16|3 Model Support
   changes in v1.1.16]]'
 source_release: '[[Releases/Cline/cline-2026-01-14-v3-50-0-github-276897691-eb68a5d7|cline-2026-01-14-v3-50-0-github-276897691-eb68a5d7]]'

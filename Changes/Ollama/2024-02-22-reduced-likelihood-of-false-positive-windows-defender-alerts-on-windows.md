@@ -4,20 +4,20 @@ date: '2024-02-22'
 description: 'Ollama · 2024-02-22 · Mobile and Desktop: Reduced likelihood of false
   positive Windows Defender alerts on Windows.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 345
+  lag_days: 1929
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a75d1d2dfe98be65c5df289f95df4b2bc6218103f2192c4e1d80c3d83099644
+machine_hash: 59e892d28602bb375648e4941446db8794eb950cb10214b53f499a6981dff3a7
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
   title: Reduced likelihood of false positive Windows Defender alerts on Windows
   type: change
 related_changes:
-- '[[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent
-  false auto-commits on Windows, by @ctoth]]'
 - '[[Changes/Ollama/2024-02-14-ollama-on-windows-is-now-available-in-preview|Ollama
   on Windows is now available in preview]]'
+- '[[Changes/Descript/2024-02-20-quick-recorder-issues-when-using-screen-time-on-macos|Quick
+  Recorder issues when using Screen Time on MacOS]]'
 - '[[Changes/Ollama/2024-02-21-quotes-will-now-be-trimmed-around-the-value-of-the-ollama-host-on-windows|Quotes
   will now be trimmed around the value of the OLLAMA_HOST on Windows]]'
 source_release: '[[Releases/Ollama/ollama-2024-02-22-v0-1-27-github-143272149-4d2bee97|ollama-2024-02-22-v0-1-27-github-143272149-4d2bee97]]'
@@ -80,13 +80,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-02-21 · Ollama · [[Changes/Ollama/2024-02-21-quotes-will-now-be-trimmed-around-the-value-of-the-ollama-host-on-windows|Quotes will now be trimmed around the value of the OLLAMA_HOST on Windows]]
-- Later: 2024-03-01 · Ollama · [[Changes/Ollama/2024-03-01-2-mobile-and-desktop-changes-in-v0-1-28|2 Mobile and Desktop changes in v0.1.28]]
+- Later: 2024-02-26 · Notion · [[Changes/Notion/2024-02-26-take-actions-from-mobile-notifications|Take actions from mobile notifications]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

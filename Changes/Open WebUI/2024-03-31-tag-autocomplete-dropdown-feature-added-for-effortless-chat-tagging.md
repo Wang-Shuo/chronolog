@@ -4,20 +4,19 @@ date: '2024-03-31'
 description: "Open WebUI · 2024-03-31 · Editor Experience: **\U0001F3F7️ Tag Autocomplete**:
   Dropdown feature added for effortless chat tagging."
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 383
+  lag_days: 1967
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7405f5db1be9a629e1194219a609a85aa5d8137d5ebea1c9f58aeefb14b81122
+machine_hash: cf6190ef6bcf18ae99eb7085f339080f45831ba02fb508423cc75dabe5cdef13
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,10 +42,9 @@ record:
     chat tagging"
   type: change
 related_changes:
-- '[[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show
-  the user a FAQ link if edits fail to apply]]'
 - "[[Changes/Open WebUI/2024-03-10-misalignment-issue-corrected-misalignment-of-edit-and-delete-icons-when-chat-tit|\U0001F527
   Misalignment Issue]]"
+- '[[Changes/Descript/2024-03-18-editor-updates|Editor Updates]]'
 - '[[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team
   invites: We made it a bit easier for you to invite your colleagues…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-03-31-v0-1-116-github-149129164-4c8e7e16|open-webui-2024-03-31-v0-1-116-github-149129164-4c8e7e16]]'
@@ -87,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

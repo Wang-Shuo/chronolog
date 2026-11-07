@@ -5,20 +5,20 @@ description: 'Ollama · 2026-07-23 · Reliability and Performance: Expanded GPU 
   with CUDA on Windows ARM64, B200 support through CUDA 12, and lower memory use on
   Linux…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1316
+  lag_days: 2803
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b88841cf91c005adaaeeb4636da4d76b00c7c70c72d88abf7fe18f447549c188
+machine_hash: 1f277116b179aff4e9a072bf60d149a8c9fe47e816e5fd73524be0f1983f340a
 product: ollama
 product_name: Ollama
 record:
@@ -48,12 +48,12 @@ record:
     12…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added
-  a periodic progress heartbeat for long-running tool calls that previously went…]]'
 - '[[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added
   warnings when transcript writes are failing (e.g. disk full) or when session…]]'
 - '[[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3
   Reliability and Performance changes in rust-v0.145.0]]'
+- '[[Changes/Kimi Code/2026-07-22-improve-tui-performance-and-resume-speed-for-long-running-sessions|Improve
+  TUI performance and resume speed for long-running sessions]]'
 source_release: '[[Releases/Ollama/ollama-2026-07-23-v0-32-3-github-358396842-dbab787a|ollama-2026-07-23-v0-32-3-github-358396842-dbab787a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3 Reliability and Performance changes in rust-v0.145.0]]
+- Earlier: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-improve-tui-performance-and-resume-speed-for-long-running-sessions|Improve TUI performance and resume speed for long-running sessions]]
 - Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-12-reliability-and-performance-changes-in-v0-11-0|12 Reliability and Performance changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

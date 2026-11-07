@@ -3,20 +3,20 @@ card_id: elevenlabs-2026-06-15-0f5184
 date: '2026-06-15'
 description: 'ElevenLabs · 2026-06-15 · Apps and Integrations: SDK Releases'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1180
+  lag_days: 2740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8731cbfc829ac4bdfa3841f07973ad2562831d728b5140d54f2fd86fca9b3e30
+machine_hash: 466b69b8356fb9f440d9bf3e89772a7c4e48e65a3c9ab0ea950c54dcb8ee2840
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-35-apps-and-integrations-changes-in-rust-v0-140-0|35 Apps and Integrations changes in rust-v0.140.0]]
-- Later: 2026-06-15 · Lovable · [[Changes/Lovable/2026-06-15-app-connectors-aws-athena-and-replicate|App connectors: AWS Athena and Replicate]]
+- Later: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-3-apps-and-integrations-changes-in-kimi-code-0-15-0|3 Apps and Integrations changes in Kimi Code 0.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

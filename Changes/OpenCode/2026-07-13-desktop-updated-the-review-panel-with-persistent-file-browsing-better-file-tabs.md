@@ -4,20 +4,20 @@ date: '2026-07-13'
 description: 'OpenCode · 2026-07-13 · Search and Browsing: Desktop Updated the review
   panel with persistent file browsing, better file tabs, and easier open-in-app actions.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1208
+  lag_days: 2237
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8d67bfe40c32a15bc094790a2db09abbb56cecf6689364b05f329e8cf7f1619
+machine_hash: 3fc9d2f8f75b066b1952d648dc46d65d093215338b6c0f22aa5d8bb66a5d7262
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
     tabs…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|\U0001F512
-  Web search domain filtering. Domain allow and block rules for web search…]]"
+- '[[Changes/Kimi Code/2026-07-06-web-add-an-archived-sessions-page-in-settings-to-browse-and-restore-archived-ses|web:
+  Add an Archived sessions page in Settings to browse and restore archived sessions]]'
 - '[[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525
   core: migrate standalone web search to extension-owned turn items @owenlin0]]'
 - '[[Changes/OpenClaw/2026-07-13-8-search-and-browsing-changes-in-v2026-7-1|8 Search
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

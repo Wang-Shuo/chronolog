@@ -4,20 +4,20 @@ date: '2026-03-31'
 description: 'Codex CLI · 2026-03-31 · Interface Experience: 3 changes in 0.118.0
   — #16013 Fix tui_app_server hook notification rendering and replay @etraut-openai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1177
+  lag_days: 2543
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29046d6f8ef914019277232266a76ff6fa942f76ab078b31928cb61362e53d61
+machine_hash: 732bcbf0b239491ae67dd531eff1c5d91cbb8a9bc706adde47e5f67e70d038fb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.118.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

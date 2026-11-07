@@ -4,20 +4,20 @@ date: '2026-10-14'
 description: 'Claude Code · 2026-10-14 · Safety and Privacy: 2 changes in v2.1.300
   — Changed the `/sandbox` mode options to read "Sandbox commands" instead of "Sandbox…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1277
+  lag_days: 2269
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 099a0049de300660ac20091ce0916d966884da189922a860b627ccb9d9b757f5
+machine_hash: 6be8cb43091f76334e08245443c62e08a75591e2a9cee159b248eedf21bf8aa5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.300
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security-99509e|Origin
-  now integrates with over 20 apps for deployments, CI, code review, security…]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-13-3-safety-and-privacy-changes-in-v1-0-97|3
-  Safety and Privacy changes in v1.0.97]]'
+- '[[Changes/HeyGen/2026-10-13-admin-billing-and-security|Admin, billing and security]]'
+- '[[Changes/HeyGen/2026-10-13-sso-join-controls|SSO join controls]]'
 - '[[Changes/OpenClaw/2026-10-13-3-safety-and-privacy-changes-in-v2026-10-3|3 Safety
   and Privacy changes in v2026.10.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
@@ -101,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

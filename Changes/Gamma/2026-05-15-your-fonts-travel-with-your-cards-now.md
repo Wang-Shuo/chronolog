@@ -4,20 +4,20 @@ date: '2026-05-15'
 description: 'Gamma · 2026-05-15 · Presentation Creation: Custom fonts are now fully
   embedded in your PowerPoint exports. Share your ideas in the fonts you chose.'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 702
+  lag_days: 1771
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b82de2caf2cfe5b6abc8154969f8b982ed1f39b870fc0e21b2f3f746f4fdbdfd
+machine_hash: 372986ea8c11d6c5775d7e892b4e9fba94ce84397f8fc00587855ddd2e39d8be
 product: gamma
 product_name: Gamma
 record:
@@ -42,12 +42,11 @@ record:
   title: Your fonts travel with your cards now
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-09-16-creating-presentations-used-to-mean-staring-at-blank-pages-fighting-with-layouts|Creating
-  presentations used to mean staring at blank pages, fighting with layouts…]]'
-- '[[Changes/Manus/2025-12-04-google-s-nano-banana-pro-is-now-integrated-into-manus-slides-look-for-the-icon-t|Nano
-  Banana Pro Now in Slides]]'
 - '[[Changes/OpenCode/2026-03-12-core-adjust-skill-presentation-to-reduce-token-usage|Core
   Adjust skill presentation to reduce token usage]]'
+- '[[Changes/Notion/2026-03-26-finally-a-proper-presentation-mode|Finally, a proper
+  presentation mode!]]'
+- '[[Changes/HeyGen/2026-04-02-multi-character-support|Multi-character support]]'
 source_release: '[[Releases/Gamma/gamma-2026-05-15-6a07a2d3b4c145e648b34b1b-8b82c948|gamma-2026-05-15-6a07a2d3b4c145e648b34b1b-8b82c948]]'
 source_type: gamma_changelog
 theme: presentation-creation
@@ -78,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Presentation Creation
 
-- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-core-adjust-skill-presentation-to-reduce-token-usage|Core Adjust skill presentation to reduce token usage]]
+- Earlier: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-multi-character-support|Multi-character support]]
 - Later: 2026-05-29 · Gamma · [[Changes/Gamma/2026-05-29-export-fixes-across-the-board|Export fixes across the board]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

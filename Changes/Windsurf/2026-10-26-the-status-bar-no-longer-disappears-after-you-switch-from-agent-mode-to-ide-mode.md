@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: be7898fdb05b4798f341351dfbe9168109c3f16c526e7bb03f87248d2ec47f13
+machine_hash: a970ba23e530f6c854c7b36e2c7fd663b6f330549aa40c61eff788b3a8f24d72
 product: windsurf
 product_name: Windsurf
 record:
@@ -55,11 +55,12 @@ record:
     mode
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-elevenagents|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-10-26-9-agent-mode-changes-in-elevenlabs-updates-2026-10-26|9
   Agent Mode changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/Google Antigravity/2026-10-26-added-drag-and-drop-support-for-files-or-screenshots-directly-onto-the-agent-pan|Added
   drag-and-drop support for files or screenshots directly onto the Agent panel]]'
+- '[[Changes/Kimi Code/2026-10-26-stop-showing-a-failed-swarm-for-agentswarm-calls-rejected-before-any-subagent-st|Stop
+  showing a failed swarm for AgentSwarm calls rejected before any subagent…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-26-v3-11-228-40b60cc1|windsurf-2026-10-26-v3-11-228-40b60cc1]]'
 source_type: windsurf_changelog
 theme: agent-mode
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-26 · Google Antigravity · [[Changes/Google Antigravity/2026-10-26-added-drag-and-drop-support-for-files-or-screenshots-directly-onto-the-agent-pan|Added drag-and-drop support for files or screenshots directly onto the Agent panel]]
+- Earlier: 2026-10-26 · Kimi Code · [[Changes/Kimi Code/2026-10-26-stop-showing-a-failed-swarm-for-agentswarm-calls-rejected-before-any-subagent-st|Stop showing a failed swarm for AgentSwarm calls rejected before any subagent…]]
 - Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode changes in v2.1.312]]
 <!-- chronolog:end -->
 

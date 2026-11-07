@@ -4,20 +4,20 @@ date: '2025-07-16'
 description: 'Cline · 2025-07-16 · Multimodal Input: Add vision capability to moonshot
   v1 by @saoudrizwan in https://github.com/cline/cline/pull/4926'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 666
+  lag_days: 2434
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3a6dd1a7b9fa1c7a525f167f748cbb70bc32b21f8e1319f1efede8cb408ed6f
+machine_hash: 7fe54364a8826458b59d179ce597b03006a32bcfbe935fdf3d44cc7a864182fe
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Add vision capability to moonshot v1
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-06-19-pro-and-mega-tiers-can-help-us-test-video-relax-mode-right-now-unlimited-generat|Pro
-  and Mega tiers can help us test "video relax mode" right now…]]'
+- '[[Changes/Descript/2025-06-26-starting-today-we-re-toggling-the-new-timeline-experience-on-in-labs-for-everyon|Starting
+  today, we’re toggling the new timeline experience ON in Labs for everyone]]'
 - '[[Changes/ElevenLabs/2025-06-30-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/Gemini CLI/2025-07-11-feature-commands-refactor-slash-command-vision-for-the-future-by-abhipatel12-in|feature(commands)
   - Refactor Slash Command + Vision For the Future]]'
@@ -76,13 +76,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-feature-commands-refactor-slash-command-vision-for-the-future-by-abhipatel12-in|feature(commands) - Refactor Slash Command + Vision For the Future]]
-- Later: 2025-07-25 · Midjourney · [[Changes/Midjourney/2025-07-25-to-get-a-higher-quality-mp4-click-one-of-the-virtual-upscale-buttons-on-a-video|To get a higher-quality .mp4, click one of the virtual upscale buttons on a video]]
+- Later: 2025-07-17 · Descript · [[Changes/Descript/2025-07-17-add-branding-to-video-pages-showcase-your-logo-and-drive-name-on-published-pages|Add branding to video pages - Showcase your logo and Drive name on published…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

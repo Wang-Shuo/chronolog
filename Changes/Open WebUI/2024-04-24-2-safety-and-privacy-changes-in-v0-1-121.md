@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-04-24 · Safety and Privacy: 2 changes in v0.1.
   — **\U0001F512 LiteLLM Security Fix**: Updated LiteLLM version to resolve a security
   vulnerability."
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 374
+  lag_days: 1366
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b26c5b75053ab1cb1f8ae5f7d8cd6b6d2a9601811005011b5d8c8f60f075539
+machine_hash: 9a06240687d8e0ba118201971abd4135278443087daa335cb0011bde996627f9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.1.121
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

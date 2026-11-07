@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0c7b803f84fc763755f32d577f5988e80b0330728b97d5a3b101633709d7ce8
+machine_hash: 9cb6b07de9496e3c41cebeef170b72b64f44f3429b5ababcaf83db52c0418edd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Agent Mode changes in rust-v0.59.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-13-these-trigger-features-are-only-available-for-workflows-chatflow-agent-and-basic|These
-  trigger features are only available for Workflows]]'
+- '[[Changes/Notion/2025-11-17-with-notion-3-0-you-met-your-notion-agent-our-biggest-update-yet|With
+  Notion 3.0, you met your Notion Agent—our biggest update yet]]'
 - '[[Changes/Gemini/2025-11-18-gemini-agent-is-now-available-on-the-web-to-google-ai-ultra-subscribers-18-in-th|Gemini
   Agent is now available on the web, to Google AI Ultra subscribers 18+ in the US]]'
 - '[[Changes/Google Antigravity/2025-11-18-google-antigravity|Google Antigravity]]'

@@ -4,19 +4,20 @@ date: '2026-06-09'
 description: 'GitHub Copilot CLI · 2026-06-09 · Developer Workflow: 6 changes in 1.0.61
   — /after and /every commands now appear in the /experimental slash command list'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1179
+  lag_days: 2828
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d8e7474d6b046d1af24cd48653ae431b5c7275c89b41ee5fcfc2e9d0a779f85
+machine_hash: 861ac9dff154fae94dc8dd7229c28f8ff9b76fab2986315aa91449a985f1e7bb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -113,13 +114,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.61
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-release-builds-once-again-publish-separate-symbol-archives-with-line-tables-impr|Release builds once again publish separate symbol archives with line tables…]]
-- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer Workflow changes in v2.1.172]]
+- Later: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-wrap-long-single-line-shell-commands-in-approval-prompts-so-the-full-command-rem|Wrap long single-line shell commands in approval prompts so the full command remains…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

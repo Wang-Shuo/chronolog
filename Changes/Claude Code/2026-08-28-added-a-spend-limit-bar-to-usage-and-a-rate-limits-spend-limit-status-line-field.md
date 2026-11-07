@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-28 · Interface Experience: Added a Spend l
   bar to `/usage` and a `rate_limits.spend_limit` status line field for developers
   behind a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1327
+  lag_days: 2693
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: afef52893ca38b52de3c4ebea4c65c3aeddb39a568dcdc9a4fd016c7da21dacd
+machine_hash: 11b7fff89446c32007bb2c12486dfe669f95733a97f3a589975a8e4ef3eab060
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     line…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-3-interface-experience-changes-in-v1-0-81|3
-  Interface Experience changes in v1.0.81]]'
+- '[[Changes/Kimi Code/2026-08-27-web-revamp-the-right-sidebar-as-a-multi-tab-panel|web:
+  Revamp the right sidebar as a multi-tab panel]]'
 - '[[Changes/Midjourney/2026-08-27-drag-images-into-the-prompt-bar-under-attach-to-prompt|Drag
   images into the prompt bar under "attach to prompt”]]'
 - '[[Changes/OpenHands/2026-08-27-feat-pin-a-favorite-sidebar-page-as-the-home-route-by-hieptl-in-https-github-com|feat:
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

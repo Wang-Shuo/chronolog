@@ -4,19 +4,20 @@ date: '2026-04-20'
 description: 'Codex CLI · 2026-04-20 · Collaboration: #18398 refactor: use cloneable
   async channels for shared receivers @bolinfest'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1062
+  lag_days: 2656
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c30b436b818b09ffff60187b0d2cf00e15406a01b8a8dfa66261b7f05c87e510
+machine_hash: 4ff7294dc448a83f10c324e250e87ea22f6994a44b9183ecd98c8ae1f66b5f1f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +43,10 @@ record:
   title: '#18398 refactor: use cloneable async channels for shared receivers @bolinfest'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-13-2-collaboration-changes-in-v1-0-25|2 Collaboration
-  changes in v1.0.25]]'
 - '[[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717
   codex Refactor marketplace add into shared core flow @xli-oai]]'
+- '[[Changes/Descript/2026-04-16-announcing-the-descript-customer-obsession-hackathon-telethon-may-14-15|Announcing—the
+  Descript Customer Obsession Hackathon Telethon (May 14–15)]]'
 - '[[Changes/OpenCode/2026-04-18-core-stopped-share-sync-attempts-for-sessions-that-were-never-shared|Core
   Stopped share sync attempts for sessions that were never shared]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

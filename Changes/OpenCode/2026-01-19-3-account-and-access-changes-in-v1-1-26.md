@@ -4,20 +4,21 @@ date: '2026-01-19'
 description: 'OpenCode · 2026-01-19 · Account and Access: 3 changes in v1.1.26 — Core
   Use streamObject when using OpenAI OAuth in agent generation'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1026
+  lag_days: 2001
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f5d9aeccf5cf28f33f57ac6b5a691284c143de69bdf1ab04a5e161ac8a351056
+machine_hash: b024b089c3fd33a8a074c45b628cd238555ef394dc2ec40dfdc8b95143782aaf
 product: opencode
 product_name: OpenCode
 record:
@@ -101,7 +102,7 @@ Source: https://opencode.ai/changelog/v1.1.26
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

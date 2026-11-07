@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-05-28 · Interface Experience: 7 change
   1.0.55 — Loading spinner no longer hangs forever when launching in an untrusted
   folder'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1235
+  lag_days: 2601
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61e3ebbe5cd7b78efb65ce6fa3a8bd78fca9f29369d1e4f8d1cd2435899bf6f5
+machine_hash: a4c686b135388cae6f517b127fd71a93e3be9b2e081bb6ad201bfb0e62e9d8df
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -119,13 +119,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.55
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface Experience changes in v2.1.153]]
-- Later: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-terminal-kept-session-navigation-working-while-prompt-modes-are-open|Terminal Kept session navigation working while prompt modes are open]]
+- Later: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-show-file-content-and-diff-in-write-and-edit-approval-prompts-and-open-them-in-a|Show file content and diff in Write and Edit approval prompts, and open them…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

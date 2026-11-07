@@ -4,19 +4,20 @@ date: '2026-04-10'
 description: 'Codex CLI · 2026-04-10 · Collaboration: #17256 app-server: Use shared
   receivers for app-server message processors @euroelessar'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1052
+  lag_days: 2646
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78f549875270948b12ff2e11b74278e181d357549ffa9e1ae5ba7346fa5ea710
+machine_hash: d9c74fefbc4873ead77ff1d3b498fd19c28ac2878bfffeba6329e923b9743c46
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

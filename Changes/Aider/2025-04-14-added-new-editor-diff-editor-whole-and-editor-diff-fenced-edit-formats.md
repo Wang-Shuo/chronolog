@@ -4,20 +4,19 @@ date: '2025-04-14'
 description: 'Aider · 2025-04-14 · Editor Experience: Added new `editor-diff`, `editor-whole`,
   and `editor-diff-fenced` edit formats.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 762
+  lag_days: 2346
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2e5b3f4c146d8041dbd408c4f6c0d75eea63dfdca5f141979da64d7a056421a9
+machine_hash: 9458f8c9e75219d1c3dd243b25c7bf97017363e031e04b9ede1c84e4d8c13c91
 product: aider
 product_name: Aider
 record:
@@ -44,8 +43,8 @@ record:
   title: Added new `editor-diff`, `editor-whole`, and `editor-diff-fenced` edit formats
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-07-ability-to-edit-subdomain-on-website-deploy|Ability
-  to edit subdomain on website deploy]]'
+- '[[Changes/Descript/2025-04-08-a-new-look-for-the-editor-recorder|A new look for
+  the Editor recorder]]'
 - '[[Changes/Dify/2025-04-09-chore-slider-fix-the-slider-lint-error-by-nov1c444-in-https-github-com-langgeniu|chore(slider):
   fix the slider lint error]]'
 - '[[Changes/Cline/2025-04-12-3-editor-experience-changes-in-v3-12-0|3 Editor Experience
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

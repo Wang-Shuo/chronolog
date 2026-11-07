@@ -4,20 +4,19 @@ date: '2026-01-28'
 description: 'OpenCode · 2026-01-28 · Editor Experience: 3 changes in v1.1.37 — Core
   Attach Anthropic beta headers when using Messages API for Copilot'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1051
+  lag_days: 2635
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce037fd59e22ad46604b11bacb22824d56da01c592e36a3111554342cabcf5d2
+machine_hash: cd3a46f1f9d282f346ba755aa3bc1eba7ff2a66c754a76c9185133222f12008f
 product: opencode
 product_name: OpenCode
 record:
@@ -102,7 +101,7 @@ Source: https://opencode.ai/changelog/v1.1.37
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

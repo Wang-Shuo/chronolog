@@ -4,20 +4,20 @@ date: '2024-07-29'
 description: 'Runway · 2024-07-29 · Video Generation: Use any image as the first frame
   of your video generation, either on its own or with a text prompt for additional…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 193
+  lag_days: 1377
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6e2469bd89230c96708cb107240a545b4b59b9e11aadb933173bbdf7b756aa9
+machine_hash: 296e06ad5654b29fe65159355dc406f2c585db216c0ed22eb9f36667e8321c09
 product: runway
 product_name: Runway
 record:
@@ -45,10 +45,10 @@ record:
   title: Gen-3 Alpha Image to Video
   type: change
 related_changes:
-- '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-  Brush]]'
-- '[[Changes/Runway/2024-02-21-motion-brush-can-now-be-used-on-gen-2-clips-that-are-being-extended-beyond-the-o|Use
-  Motion Brush on extended clips in Gen-2]]'
+- '[[Changes/Synthesia/2024-03-06-we-are-happy-to-introduce-live-collaboration-to-our-corporate-plan-users-this-fe|Live
+  Collaboration: co-edit, comment, share]]'
+- '[[Changes/Synthesia/2024-06-14-upload-a-pptx-to-ai-video-assistant-to-generate-a-draft-script-and-video-complet|Create
+  videos from PowerPoint with AI Video Assistant]]'
 - '[[Changes/Runway/2024-07-15-view-a-feed-of-gen-3-alpha-video-generations-in-the-runway-mobile-app|Mobile
   App Generation Feed]]'
 source_release: '[[Releases/Runway/runway-2024-07-29-2024-07-29-gen-3-alpha-image-to-video-8c78d922|runway-2024-07-29-2024-07-29-gen-3-alpha-image-to-video-8c78d922]]'
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

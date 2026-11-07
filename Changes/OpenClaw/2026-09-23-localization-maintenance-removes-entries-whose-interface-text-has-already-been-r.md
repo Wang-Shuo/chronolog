@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 6d3fd0405e172628d2ebeef1784af02f77344578e04cbbcb1a767d188e81d331
+machine_hash: dba5e6d479c29ef4d0ca2e0c80a789bd7509c0656577c7782162811b0e9f4776
 product: openclaw
 product_name: OpenClaw
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-improved-screen-reader-output-in-mcp-a-disabled-server-is-read-as-off-instead-of|Improved screen-reader output in /mcp]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-changed-screen-reader-mode-to-write-new-or-changed-lines-without-first-pausing-w|Changed screen reader mode to write new or changed lines without first pausing…]]
+- Later: 2026-09-30 · Synthesia · [[Changes/Synthesia/2026-09-30-add-burned-in-captions-to-dubbed-videos-in-one-click-so-your-localized-content-s|Add burned-in captions to dubbed videos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

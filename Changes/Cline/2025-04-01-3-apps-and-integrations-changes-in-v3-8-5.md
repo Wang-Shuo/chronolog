@@ -4,20 +4,20 @@ date: '2025-04-01'
 description: 'Cline · 2025-04-01 · Apps and Integrations: 3 changes in v3.8.5 — Add
   support for remote MCP Servers using SSE'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 740
+  lag_days: 2300
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 698795653651b644c9e8432709f7659f40e3e598bf4f22894108cf6f78872bea
+machine_hash: a4d561f29b78626609609c23984aea2b7d75a0ca48f853f1be70a15d4833e672
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,11 @@ record:
   title: 3 Apps and Integrations changes in v3.8.5
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-21-github-plugin-installation-resolved-an-import-dsl-issue-that-blocked-the-install|GitHub
-  Plugin Installation]]'
 - '[[Changes/Cline/2025-03-23-2-apps-and-integrations-changes-in-v3-8-0|2 Apps and
   Integrations changes in v3.8.0]]'
 - '[[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and
   Integrations changes in 0.48.x]]'
+- '[[Changes/Notion/2025-03-26-webhooks-are-here|Webhooks are here!]]'
 source_release: '[[Releases/Cline/cline-2025-04-01-v3-8-5-github-209483266-bf57367b|cline-2025-04-01-v3-8-5-github-209483266-bf57367b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,14 +85,14 @@ Source: https://github.com/cline/cline/releases/tag/v3.8.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and Integrations changes in 0.48.x]]
+- Earlier: 2025-03-26 · Notion · [[Changes/Notion/2025-03-26-webhooks-are-here|Webhooks are here!]]
 - Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-2-apps-and-integrations-changes-in-v0-6-0|2 Apps and Integrations changes in v0.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

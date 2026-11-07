@@ -4,20 +4,20 @@ date: '2026-02-12'
 description: 'OpenCode · 2026-02-12 · Apps and Integrations: Core Expose tool arguments
   in shell hook for plugin visibility'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1057
+  lag_days: 2617
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61ecadf77be965511d371066c9175b5e6a8606fac60a562105d4b397f8ad4959
+machine_hash: 9a65dffb9813f4adcd73320702a61e9ca25583e25894f26c997a3d083c147f04
 product: opencode
 product_name: OpenCode
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-core-use-promise-all-for-mcp-listtools-calls-to-improve-performance|Core Use Promise.all for MCP listTools calls to improve performance]]
-- Later: 2026-02-13 · OpenCode · [[Changes/OpenCode/2026-02-13-core-add-tool-definition-hook-for-plugins-to-modify-tool-description-and-paramet|Core Add tool.definition hook for plugins to modify tool description and parameters]]
+- Later: 2026-02-13 · HeyGen · [[Changes/HeyGen/2026-02-13-why-it-matters|Why it matters]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-04-14 · Apps and Integrations: 4 chang
   1.0.26 — Rename "steering" to "remote control" in --remote flag and /remote command
   help…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1118
+  lag_days: 2678
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6fa17097b8ccf792f2d8414446fad7c72fa5911b4d6ac7c2e5b34cc021e59bba
+machine_hash: e7102c9badd9a3d4002d12cb6fd985435cec16e8d385b38cf41236ba8c92f817
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -99,13 +99,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.26
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-2-apps-and-integrations-changes-in-v0-38-0|2 Apps and Integrations changes in v0.38.0]]
-- Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-4-apps-and-integrations-changes-in-v2-1-110|4 Apps and Integrations changes in v2.1.110]]
+- Later: 2026-04-14 · Notion · [[Changes/Notion/2026-04-14-new-ai-connectors-salesforce-and-box|New AI connectors: Salesforce and Box]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-09-22'
 description: 'OpenHands · 2026-09-22 · Enterprise and Administration: feat: open Git
   Sync to org admins on cloud backends by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1236
+  lag_days: 2443
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 863c348b233e5a2b6eb71507476b61767be5b499509cbb764aac187915e44147
+machine_hash: f7d83bd23d890cf58662d06eda0fe6aa5876533a07071df2ff2da3231ff1a04a
 product: openhands
 product_name: OpenHands
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5 Enterprise and Administration changes in v0.11.4]]
-- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-2-enterprise-and-administration-changes-in-v2026-9-6|2 Enterprise and Administration changes in v2026.9.6]]
+- Later: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-people-skills-removal-and-deletion-admin-control-web-microsoft-365-copilot|People Skills - removal and deletion admin control Web (Microsoft 365 Copilot)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

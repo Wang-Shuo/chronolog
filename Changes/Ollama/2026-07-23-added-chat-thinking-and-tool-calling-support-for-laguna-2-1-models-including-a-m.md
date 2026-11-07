@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 09457665c5b94c2a9420cb79d202dd98e2d50d564fb91ad8b33e7e97360ba1be
+machine_hash: ac5d066ba918b2f24b1c76cc5fb49e93ca9a9b3f93ce0902a12081c6b9dca81d
 product: ollama
 product_name: Ollama
 record:
@@ -44,7 +44,8 @@ record:
   title: Added chat, thinking, and tool calling support for Laguna 2.1 models, including…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]]'
+- '[[Changes/Kimi Code/2026-07-22-2-model-support-changes-in-kimi-code-0-29-0|2 Model
+  Support changes in Kimi Code 0.29.0]]'
 - '[[Changes/Lovable/2026-07-22-gemini-3-6-flash-is-now-the-default-model-for-your-app-s-ai|Gemini
   3.6 Flash is now the default model for your app''s AI]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-23-2-model-support-changes-in-v1-0-74|2 Model

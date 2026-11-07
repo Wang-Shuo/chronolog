@@ -4,20 +4,19 @@ date: '2025-04-07'
 description: 'Windsurf · 2025-04-07 · Editor Experience: Ability to edit subdomain
   on website deploy'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 755
+  lag_days: 2339
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23806f8b62409b417145508ddaeab7c0f8d0157d64c4476fe99401f4215201aa
+machine_hash: f8a7a9b9c779674388d15fab2a5d4b4174706e704d0166361833a7e2aa89e859
 product: windsurf
 product_name: Windsurf
 record:
@@ -78,13 +77,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-04-06 · Cline · [[Changes/Cline/2025-04-06-add-ability-to-detect-when-user-edits-files-manually-so-cline-knows-to-re-read-l|Add ability to detect when user edits files manually so Cline knows to re-read…]]
-- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-chore-slider-fix-the-slider-lint-error-by-nov1c444-in-https-github-com-langgeniu|chore(slider): fix the slider lint error]]
+- Later: 2025-04-08 · Descript · [[Changes/Descript/2025-04-08-editor-updates|Editor updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

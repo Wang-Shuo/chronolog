@@ -4,20 +4,20 @@ date: '2026-07-21'
 description: 'Codex CLI · 2026-07-21 · Interface Experience: 18 changes in 0.145.0
   — Stabilized the opt-in multi-agent V2 experience with configurable sub-agent models…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1289
+  lag_days: 2655
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7362e54ace8d36a2b915f4605585812cb2c8467e0f74515dd474eb6917c5ec0
+machine_hash: 02bc7f470e69ef635b1daa05798dfe9db2947ebb2fe1a0ea3a4343e4537aea40
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -171,7 +171,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

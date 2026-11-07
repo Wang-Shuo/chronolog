@@ -4,20 +4,20 @@ date: '2025-09-05'
 description: 'Codex CLI · 2025-09-05 · Interface Experience: [#3135] TUI: Add session
   resume picker (--resume) and quick resume (--continue)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 970
+  lag_days: 2336
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5c91b0fc1068ac533848f26ba1cd62db24f6b5966ef6779474980415e948b03
+machine_hash: 8ff41e382c7264a9deb835530b15aa3e82eeb95385088ca35f14c596d0f009e5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,7 @@ record:
   title: '[#3135] TUI: Add session resume picker (--resume) and quick resume (--continue)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major
-  README/docs refactor and navigation (♯2724)]]'
+- '[[Changes/Descript/2025-08-29-export-menu-updates|Export menu updates]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface
   Experience changes in v0.3.0]]'
 - '[[Changes/Midjourney/2025-09-04-you-can-hover-over-styles-and-press-try-style-to-render-whatever-is-in-your-prom|You
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

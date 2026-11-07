@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-07-23 · Files and Data: We’re starting to roll 
   new health experience in ChatGPT. Logged-in Free, Go, Plus, and Pro users in the
   United…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1155
+  lag_days: 2500
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b9f2d007d1565b6727cee294a7e87ce654106ee773e3337c2d0f46c857b29591
+machine_hash: caa82dee6670a92649a183a3ec64118331cf4444c7129df58756ef348ef4e5d0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,12 +60,12 @@ record:
   title: We’re starting to roll out a new health experience in ChatGPT
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add
-  canvas support in the CLI for extension-driven interactions]]'
 - '[[Changes/Dify/2026-07-17-2-files-and-data-changes-in-1-16-0|2 Files and Data changes
   in 1.16.0]]'
 - '[[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167
   Document the Windows exec yield time range @copyberry]]'
+- '[[Changes/Kimi Code/2026-07-22-web-show-transparent-images-over-a-checkerboard-canvas|web:
+  Show transparent images over a checkerboard canvas]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -96,14 +96,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167 Document the Windows exec yield time range @copyberry]]
+- Earlier: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-web-show-transparent-images-over-a-checkerboard-canvas|web: Show transparent images over a checkerboard canvas]]
 - Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-9-files-and-data-changes-in-v0-11-0|9 Files and Data changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

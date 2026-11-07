@@ -4,20 +4,20 @@ date: '2026-07-06'
 description: 'OpenHands · 2026-07-06 · Context Window: test: PLTF-1269 replace test_should_
   naming with test_verb_noun_context convention by @aivong-openhands in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1159
+  lag_days: 2483
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95210822bb1944fc4a56d13d689ad2152c227ad051910204e25527153e4be293
+machine_hash: 41d1acb034943f647ea6a5da755feff35c6f66ed767de0f1debed8995985b8d0
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
     convention'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-desktop-show-stored-token-and-cost-totals-in-the-session-context|Desktop
-  Show stored token and cost totals in the session context]]'
-- '[[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents
-  and context compaction now inherit the session''s extended thinking…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-context-window-changes-in-v1-0-68|2 Context
-  Window changes in v1.0.68]]'
+- '[[Changes/Kimi Code/2026-07-02-2-context-window-changes-in-kimi-code-0-22-1|2 Context
+  Window changes in Kimi Code 0.22.1]]'
+- '[[Changes/Kimi Code/2026-07-03-have-context-compaction-notes-capture-a-forward-plan-for-the-remaining-work-upco|Have
+  context-compaction notes capture a forward plan for the remaining work]]'
+- '[[Changes/Kimi Code/2026-07-06-2-context-window-changes-in-kimi-code-0-23-0|2 Context
+  Window changes in Kimi Code 0.23.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: context-window
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-context-window-changes-in-v1-0-68|2 Context Window changes in v1.0.68]]
+- Earlier: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-2-context-window-changes-in-kimi-code-0-23-0|2 Context Window changes in Kimi Code 0.23.0]]
 - Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-warn-when-static-context-uses-most-of-the-prompt-budget-and-block-requests-when|Warn when static context uses most of the prompt budget and block requests…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

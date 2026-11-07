@@ -5,20 +5,19 @@ description: "Open WebUI · 2025-09-17 · Editor Experience: 2 changes in v0.6.2
   \U0001F4AC The Channels feature now utilizes the modern rich text editor, including
   support for '/'…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 918
+  lag_days: 2502
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b785f71c46403007fad6579e0043706e3e26daa6b2c25d9ac92c880f8ccc867e
+machine_hash: 393c82792b5b7623a5e2d82d9ba26c45ed26f03b45526c48c475f844a9252df7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -103,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.29
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

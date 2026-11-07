@@ -4,19 +4,20 @@ date: '2026-01-11'
 description: 'OpenCode · 2026-01-11 · Collaboration: Core Extract external directory
   validation to shared utility to reduce code duplication across tools'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 963
+  lag_days: 2557
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22428b22201b69bff7b06d02826f07c42e4c436cbc5b9d5b3dc811aa7f98898f
+machine_hash: 7d77ccc9e2534db5856530c6f75333056149de671517cee3ff7ec86331503550
 product: opencode
 product_name: OpenCode
 record:
@@ -83,13 +84,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-01-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-07-add-share-and-share-gist-flags-for-session-sharing-in-non-interactive-mode|Add --share and --share-gist flags for session sharing in non-interactive mode]]
-- Later: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-2-collaboration-changes-in-rust-v0-85-0|2 Collaboration changes in rust-v0.85.0]]
+- Later: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-connect-microsoft-365-copilot-with-guru-for-enhanced-insights-web-microsoft-365|Connect Microsoft 365 Copilot with Guru for enhanced insights…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

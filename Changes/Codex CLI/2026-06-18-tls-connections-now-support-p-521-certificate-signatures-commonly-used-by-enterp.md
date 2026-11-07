@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'Codex CLI · 2026-06-18 · Enterprise and Administration: TLS connections
   now support P-521 certificate signatures commonly used by enterprise proxies. (#27706)'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1140
+  lag_days: 2347
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 35db5f2b11cd865ca1e8ec6ed782e95245ce009a06e9141f8844646a95b188ce
+machine_hash: 3ad70bbfb791302f7d5cf59d2277018cbbf1e581ba1c3daa90e297da22cee327
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,11 +45,12 @@ record:
     enterprise…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-08-text-to-dialogue|Text to Dialogue]]'
 - '[[Changes/Lovable/2026-06-08-transfer-a-domain-to-lovable|Transfer a domain to
   Lovable]]'
 - '[[Changes/Lovable/2026-06-10-user-insights-for-workspace-members|User insights
   for workspace members]]'
+- '[[Changes/Descript/2026-06-11-creator-pro-and-enterprise-plans-up-to-5-concurrent-generations|Creator,
+  Pro, and Enterprise plans: up to 5 concurrent generations]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -86,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-10 · Lovable · [[Changes/Lovable/2026-06-10-user-insights-for-workspace-members|User insights for workspace members]]
+- Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-creator-pro-and-enterprise-plans-up-to-5-concurrent-generations|Creator, Pro, and Enterprise plans: up to 5 concurrent generations]]
 - Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-clearer-personal-folder-access-management|Clearer personal folder access management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

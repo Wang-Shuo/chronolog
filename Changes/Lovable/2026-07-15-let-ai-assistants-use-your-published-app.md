@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 28626ad43c59c40caba35ad17d014e84473b1f43f3cf0229876153aabbcd9272
+machine_hash: 8f3c5298cf2795c1627cb2c502dafa9b669c702c15d4707a90346b47f255d8b8
 product: lovable
 product_name: Lovable
 record:
@@ -70,12 +70,12 @@ record:
   title: Let AI assistants use your published app
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode
-  changes in v2.1.210]]'
 - '[[Changes/Lovable/2026-07-14-see-images-videos-and-files-the-agent-works-with-in-chat|See
   images, videos, and files the agent works with in chat]]'
 - '[[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode
   changes in v2.1.211]]'
+- '[[Changes/Kimi Code/2026-07-15-3-agent-mode-changes-in-kimi-code-0-24-2|3 Agent
+  Mode changes in Kimi Code 0.24.2]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-15-2026-07-15-41bc4811|lovable-2026-07-15-2026-07-15-41bc4811]]'
 source_type: lovable_changelog
 theme: agent-mode
@@ -109,8 +109,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode changes in v2.1.211]]
-- Later: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-core-stopped-subagents-from-launching-nested-subagents-by-default-with-a-configu|Core Stopped subagents from launching nested subagents by default…]]
+- Earlier: 2026-07-15 · Kimi Code · [[Changes/Kimi Code/2026-07-15-3-agent-mode-changes-in-kimi-code-0-24-2|3 Agent Mode changes in Kimi Code 0.24.2]]
+- Later: 2026-07-15 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-15-submit-agent-to-agent-store-from-agent-builder-windows-web-microsoft-365-admin-c|Submit agent to Agent Store from Agent Builder Windows, Web (Microsoft 365 admin center)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

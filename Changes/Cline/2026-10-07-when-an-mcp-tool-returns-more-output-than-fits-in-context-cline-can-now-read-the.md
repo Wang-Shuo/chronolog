@@ -5,20 +5,20 @@ description: 'Cline · 2026-10-07 · Apps and Integrations: When an MCP tool ret
   more output than fits in context, Cline can now read the rest. It gets a preview
   plus a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1294
+  lag_days: 2854
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ccb3782c93a02a8bc2db3db236ebfe20af2b63b69aa1af4b9e75158d302f574
+machine_hash: 8b3fb9ca6b58a216f8f3471ba5abc0f7a0b34ca96e5b7ed26e7c51df8db8b385
 product: cline
 product_name: Cline
 record:
@@ -56,8 +56,8 @@ record:
     read the rest
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-06-redesigned-model-list-for-the-built-in-ai-connector|Redesigned
-  model list for the built-in AI connector]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-edit-query-string-and-user-identity-mapping-rules-for-copilot-connectors-windows|Edit
+  query string and user identity mapping rules for Copilot connectors Windows…]]'
 - '[[Changes/OpenHands/2026-10-06-chore-consume-extensions-0-27-0-by-henriquehirako-in-https-github-com-openhands|chore:
   consume Extensions 0.27.0]]'
 - '[[Changes/Claude Code/2026-10-07-3-apps-and-integrations-changes-in-v2-1-293|3
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-07-08'
 description: 'Codex CLI · 2026-07-08 · Collaboration: 5 changes in 0.143.0 — #29067
   Namespace multi-agent v2 tools under collaboration @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1141
+  lag_days: 2735
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63b779a578202861c70b1d52fed1bd03b373d0943507109ba6d107acb7edff1b
+machine_hash: 3108f8ba804a27e6b287d3557f88cd8a02974e458e0cbb3ae635a2f9fc4e1f90
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +48,8 @@ record:
   title: 5 Collaboration changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-5-collaboration-changes-in-v2026-6-11|5 Collaboration
-  changes in v2026.6.11]]'
+- '[[Changes/Notion/2026-07-01-your-agents-shouldn-t-be-stuck-in-one-off-chats-now-you-can-bring-multiple-agent|Your
+  agents shouldn’t be stuck in one-off chats]]'
 - '[[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last
   owner cannot leave a shared folder]]'
 - '[[Changes/v0/2026-07-07-3-collaboration-changes-in-grouped-tool-approvals-richer-mcp|3
@@ -107,13 +108,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-3-collaboration-changes-in-grouped-tool-approvals-richer-mcp|3 Collaboration changes in Grouped tool approvals, richer MCP…]]
-- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
+- Later: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-2-collaboration-changes-in-july-2026-enterprise-releases|2 Collaboration changes in July 2026 Enterprise Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

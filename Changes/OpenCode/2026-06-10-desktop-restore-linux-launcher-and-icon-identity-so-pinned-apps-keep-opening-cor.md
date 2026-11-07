@@ -4,20 +4,20 @@ date: '2026-06-10'
 description: 'OpenCode · 2026-06-10 · Mobile and Desktop: Desktop Restore Linux launcher
   and icon identity so pinned apps keep opening correctly'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1184
+  lag_days: 2768
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5671ff1b055b3178090ce4e8493735c7ee03191a48bf790050c21ac4b5eda7ba
+machine_hash: 09a3cd373d4ab6e5843333aacdbb638de86ca3ba886e3f5782eb51290726a0c9
 product: opencode
 product_name: OpenCode
 record:
@@ -53,8 +53,8 @@ record:
     correctly
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4
-  Mobile and Desktop changes in rust-v0.138.0]]'
+- '[[Changes/Kimi Code/2026-06-09-detect-git-bash-installed-through-scoop-and-other-git-shims-on-windows|Detect
+  Git Bash installed through Scoop and other Git shims on Windows]]'
 - '[[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable
   mouse tracking on Windows consoles that don''t fully support it]]'
 - '[[Changes/OpenCode/2026-06-10-2-mobile-and-desktop-changes-in-v1-17-1|2 Mobile
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

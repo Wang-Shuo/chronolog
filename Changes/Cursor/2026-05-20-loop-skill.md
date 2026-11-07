@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 7c77304b179aba6aae48813686cb812e15f01da016d39f2e2964889fb7c5ff8f
+machine_hash: f62a8ce02824cbcf44612d19ac0a3fef3dca2fed5e0cf927b62d2417460a7255
 product: cursor
 product_name: Cursor
 record:
@@ -52,10 +52,10 @@ record:
   title: /loop skill
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-05-19-gemini-spark-is-your-24-7-personal-ai-agent|Gemini
-  Spark is your 24/7 personal AI agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-4-agent-mode-changes-in-v1-0-49|4 Agent
   Mode changes in v1.0.49]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-managing-your-tenant-with-sharepoint-admin-agent-web-sharepoint|Managing
+  your tenant with SharePoint Admin Agent Web (SharePoint)]]'
 - '[[Changes/Codex CLI/2026-05-20-23147-make-multi-agent-v2-tool-namespace-configurable-jif-oai|♯23147
   Make multi-agent v2 tool namespace configurable @jif-oai]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da|cursor-2026-05-20-3-5-https-cursor-com-changelog-shared-canvases-68b3b2da]]'

@@ -4,20 +4,20 @@ date: '2025-08-18'
 description: 'Gemini CLI · 2025-08-18 · Pricing Model: Update quota-and-pricing.md
   to clarify billing by @blanca-delgado-parra in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 977
+  lag_days: 2595
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: ba6f086572bd00eb2565361a2e1722edcd0bf15ec66effaaa26cab5c8d204cf7
+machine_hash: 656f362370317c48a0d9e514c6b4a39697f7f2a1b898537073859b3f3a267855
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]]
-- Later: 2025-08-29 · Replit · [[Changes/Replit/2025-08-29-organization-subscription-cancellation|Organization subscription cancellation]]
+- Later: 2025-08-18 · Synthesia · [[Changes/Synthesia/2025-08-18-we-re-introducing-credits-instead-of-minutes-and-this-is-great-news|Introducing credits instead of minutes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

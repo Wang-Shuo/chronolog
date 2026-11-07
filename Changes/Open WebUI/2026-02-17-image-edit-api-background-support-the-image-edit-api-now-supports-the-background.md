@@ -5,20 +5,19 @@ description: "Open WebUI · 2026-02-17 · Editor Experience: \U0001F3A8 **Image 
   API background support.** The image edit API now supports the background parameter
   for OpenAI's…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1071
+  lag_days: 2655
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 70718d88195b02e6fe39b1b917ec4dc2c95b47647bf67a4ce8fdf35754123c49
+machine_hash: 34bd1a1db1fc141a2063ea08d5f59cc911f038d7da3ed4e0fa130b439672eba3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,12 +59,12 @@ record:
     supports…"
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-17-restore-reasoning-trace-visibility-in-chat-and-improve-the-thinking-row-ux-so-re|Restore
-  reasoning trace visibility in chat and improve the thinking row UX…]]'
 - '[[Changes/Cursor/2026-02-17-manual-edits-no-longer-create-in-line-diffs|Manual
   edits no longer create in-line diffs]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-tab-completion-respects-the-highlighted-slash-command-selection|Tab
   completion respects the highlighted slash command selection]]'
+- '[[Changes/HeyGen/2026-02-17-who-it-s-for-marketing-sales-cs-and-ops-teams-that-live-in-slack-and-want-to-tur|Who
+  it''s for: Marketing, sales, CS, and ops teams that live in Slack and want…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-17-v0-8-3-github-287117379-ddae610a|open-webui-2026-02-17-v0-8-3-github-287117379-ddae610a]]'
 source_type: github_releases
 theme: editor-experience
@@ -99,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-tab-completion-respects-the-highlighted-slash-command-selection|Tab completion respects the highlighted slash command selection]]
+- Earlier: 2026-02-17 · HeyGen · [[Changes/HeyGen/2026-02-17-who-it-s-for-marketing-sales-cs-and-ops-teams-that-live-in-slack-and-want-to-tur|Who it's for: Marketing, sales, CS, and ops teams that live in Slack and want…]]
 - Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-2-editor-experience-changes-in-v0-29-0|2 Editor Experience changes in v0.29.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

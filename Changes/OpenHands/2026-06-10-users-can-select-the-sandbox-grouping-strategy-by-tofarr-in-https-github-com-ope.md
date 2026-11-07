@@ -4,20 +4,20 @@ date: '2026-06-10'
 description: 'OpenHands · 2026-06-10 · Safety and Privacy: Users can select the sandbox
   grouping strategy by @tofarr in https://github.com/OpenHands/OpenHands/pull/14291'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1151
+  lag_days: 2143
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fcb6478230a4a88e5fcbfa91da24535f1f21cff23ef51a2556f710c76ae734b8
+machine_hash: d736f129fda37d865f5635e7236d6fcceea09cc81f9fbd1eb462af5ec1bf261c
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: Users can select the sandbox grouping strategy
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-pasted-images-no-longer-leak-into-the-main-prompt-after-a-permission-dialog-clos|Pasted
-  images no longer leak into the main prompt after a permission dialog closes]]'
+- '[[Changes/Kimi Code/2026-06-09-fix-acp-slash-skill-routing-bootstrap-context-reads-file-and-permission-edge-cas|Fix
+  ACP slash skill routing, bootstrap context reads, file and permission edge…]]'
 - '[[Changes/Claude Code/2026-06-10-2-safety-and-privacy-changes-in-v2-1-172|2 Safety
   and Privacy changes in v2.1.172]]'
 - '[[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

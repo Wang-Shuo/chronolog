@@ -4,20 +4,19 @@ date: '2023-03-14'
 description: 'Cursor · 2023-03-14 · Editor Experience: 3 changes in v0.0.37 (2023-03-14)
   — Edits can be as long as you''d like'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1584
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f79b4293a5229495748d5860f09f9dedee3d9efadc5af5fede3f22a937b0c43
+machine_hash: 7825166335ffe54856d69767057320dbddf1f584c3784d68fcfea07911164333
 product: cursor
 product_name: Cursor
 record:
@@ -43,6 +42,12 @@ record:
   theme: editor-experience
   title: 3 Editor Experience changes in 0.0.37
   type: change
+related_changes:
+- '[[Changes/Synthesia/2023-01-24-we-ve-given-our-video-editor-a-complete-redesign-not-only-does-it-look-great-but|Synthesia
+  STUDIO got a fresh new look!]]'
+- '[[Changes/Notion/2023-02-09-better-notifications|Better notifications]]'
+- '[[Changes/Descript/2023-02-21-you-can-now-download-your-published-video-directly-from-the-editor-in-the-publis|Download
+  your published video directly from the Editor in the Publish modal]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006|cursor-2023-03-14-0-0-37-https-cursor-com-changelog-0-0-37-236c8006]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -77,13 +82,14 @@ Source: https://cursor.com/changelog/0-0-37
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
+- Earlier: 2023-02-21 · Descript · [[Changes/Descript/2023-02-21-you-can-now-download-your-published-video-directly-from-the-editor-in-the-publis|Download your published video directly from the Editor in the Publish modal]]
 - Later: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-2-editor-experience-changes-in-0-1-2|2 Editor Experience changes in 0.1.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

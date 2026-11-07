@@ -4,19 +4,20 @@ date: '2023-07-12'
 description: 'Aider · 2023-07-12 · Developer Workflow: 2 changes in v0.8.3 — Added
   `--dark-mode` and `--light-mode` to select colors optimized for terminal background'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 116
+  lag_days: 1765
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71fbab871a2846008d8c7a20200de784e33a953afe428deaeefb1f69691bf055
+machine_hash: 2810feabff951c2758999700cf12151125550b518ab89ebcf1382f1ed60f5c30
 product: aider
 product_name: Aider
 record:
@@ -91,7 +92,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.8.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

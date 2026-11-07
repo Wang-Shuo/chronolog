@@ -4,20 +4,19 @@ date: '2024-01-18'
 description: 'Cursor · 2024-01-18 · Editor Experience: More chat symbol links: When
   the chat references a code symbol, you''ll often be able to click directly to it.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 310
+  lag_days: 1894
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8f7bfa0962d8afd95e976c92e0118d428c6fd5efbb6bb034091a8de61b71912
+machine_hash: 2ba1b8a9a19c785fb87aab412193ad90dc6fd93cc816adf3fa4d939237a553b3
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +44,12 @@ record:
   title: More chat symbol links
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early
-  Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]'
-- '[[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades
-  Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]'
 - '[[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements
   to unified diff editing format]]'
+- '[[Changes/Descript/2024-01-16-save-on-editing-costs-and-save-time-for-both-yourself-and-your-audience-by-letti|Save
+  on editing costs, and save time for both yourself and your audience by letting…]]'
+- '[[Changes/Descript/2024-01-16-introducing-our-newest-ai-action-edit-for-clarity-https-help-descript-com-hc-en|Introducing
+  our newest AI Action, Edit…]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe|cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -81,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-01-08 · Aider · [[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements to unified diff editing format]]
+- Earlier: 2024-01-16 · Descript · [[Changes/Descript/2024-01-16-introducing-our-newest-ai-action-edit-for-clarity-https-help-descript-com-hc-en|Introducing our newest AI Action, Edit…]]
 - Later: 2024-01-19 · Dify · [[Changes/Dify/2024-01-19-add-feature-request-copilot-by-guchenhe-in-https-github-com-langgenius-dify-pull|add feature request copilot]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

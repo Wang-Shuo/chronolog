@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-07-13 · Interface Experience: 64 changes in v202
   — New Control UI chats now receive concise sidebar titles from their first message,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1281
+  lag_days: 2647
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1250706357cc0a273022b8204bcedf73603227e2bd4e824de87017e4c1979217
+machine_hash: e542077415c0b9be73218bbd3809ec13f66242d57c66e45098e05e29d48e584e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -283,10 +283,10 @@ record:
   title: 64 Interface Experience changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4
-  Interface Experience changes in v1.0.70]]'
 - '[[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved
   agent view]]'
+- '[[Changes/Kimi Code/2026-07-12-web-add-workspaces-by-typing-an-absolute-path-directly-in-the-workspace-picker-s|web:
+  Add workspaces by typing an absolute path directly in the workspace picker''s…]]'
 - '[[Changes/Google Antigravity/2026-07-13-added-support-for-attaching-and-rendering-plain-text-txt-files-in-conversations|Added
   support for attaching and rendering plain text (.txt) files in conversations…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
@@ -479,7 +479,7 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

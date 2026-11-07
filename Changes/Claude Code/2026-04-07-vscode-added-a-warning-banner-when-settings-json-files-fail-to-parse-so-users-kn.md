@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-04-07 · Safety and Privacy: [VSCode] Added a 
   banner when `settings.json` files fail to parse, so users know their permission
   rules…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1087
+  lag_days: 2079
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4ed9e9ccbb138f3a17377acc8ca841d97c3e5b483204b9eaa32c313cc4c2a89
+machine_hash: 4570e6f2503fc21be9c9c7f280a960af458fbc46605750896b21f0d451a7a132
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,13 +83,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-04-add-notification-hook-event-that-fires-asynchronously-on-shell-completion-permis|Add notification hook event that fires asynchronously on shell completion…]]
-- Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-3-safety-and-privacy-changes-in-v2-1-97|3 Safety and Privacy changes in v2.1.97]]
+- Later: 2026-04-07 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-07-fewer-confirmation-prompts-for-copilot-actions-web-microsoft-365-copilot-extensi|Fewer confirmation prompts for Copilot actions Web (Microsoft 365 Copilot extensibility)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

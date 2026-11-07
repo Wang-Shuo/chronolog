@@ -4,20 +4,21 @@ date: '2023-06-06'
 description: 'Cursor · 2023-06-06 · Account and Access: Login via github, then add
   the repo you wish to sync!'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 68
+  lag_days: 1043
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ec508111b3374e2bfd20f7306a405d27df904d4ba9c89dfec315aea7036a94f
+machine_hash: 4f91dd53a1995b1755705ddcecddb71d303934ac464fb32f5de9e632ef9b2a00
 product: cursor
 product_name: Cursor
 record:
@@ -41,6 +42,10 @@ record:
   title: Login via github, then add the repo you wish to sync!
   type: change
 related_changes:
+- '[[Changes/Notion/2022-06-29-synced-databases-now-in-open-beta|Synced Databases,
+  now in open beta]]'
+- '[[Changes/Notion/2022-08-11-improved-reliability-of-sign-in-with-apple-on-ios|Improved
+  reliability of Sign in with Apple on iOS]]'
 - '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0|cursor-2023-06-06-0-2-27-https-cursor-com-changelog-0-2-27-f949eba0]]'
 source_type: cursor_changelog
@@ -79,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'ChatGPT · 2022-12-15 · Pricing Model: Daily limit: To ensure a h
   experience for all ChatGPT users, we are experimenting with a daily message cap.
   If…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1618
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 50a547498e5bee95cbdd6f2df4201961abe81d27f7b2760367ac5f9b8bf31b64
+machine_hash: c3494abb33cd45249154dba63e822329de99ead1a05b7febfb829fe640e2f0a8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,6 +49,13 @@ record:
   title: 'Daily limit: To ensure a high-quality experience for all ChatGPT users,
     we…'
   type: change
+related_changes:
+- "[[Changes/Notion/2021-04-21-upgrade-with-apple-pay-google-pay|Upgrade with Apple
+  Pay & Google Pay \U0001F4B3]]"
+- '[[Changes/Notion/2021-12-23-invoices-for-your-notion-subscription-are-now-more-detailed-and-easier-to-read|Invoices
+  for your Notion subscription are now more detailed and easier to read]]'
+- '[[Changes/Notion/2022-12-07-still-free-for-everyone-now-with-even-more-features|Still
+  free for everyone]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -78,13 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Later: 2023-02-13 · ChatGPT · [[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We rolled out the ability to purchase ChatGPT Plus internationally]]
+- Earlier: 2022-12-07 · Notion · [[Changes/Notion/2022-12-07-still-free-for-everyone-now-with-even-more-features|Still free for everyone]]
+- Later: 2023-02-06 · Descript · [[Changes/Descript/2023-02-06-you-can-now-add-custom-billing-details-https-help-descript-com-hc-en-us-articles|add custom billing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

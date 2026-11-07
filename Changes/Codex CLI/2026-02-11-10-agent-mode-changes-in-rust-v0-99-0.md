@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 147fa028dc898c79eabb6536e7d0be00e13ce5ec87d9a113cd07bfb98df4f306
+machine_hash: 7326eccd0aa5079fad52da16a84a577081d4ce7da335306ed17c5aba373572be
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,9 +63,10 @@ record:
   title: 10 Agent Mode changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-09-agents-platform-7f0c0d|Agents Platform]]'
-- '[[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes
-  in v0.28.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-users-can-refresh-adaptive-cards-in-agents-to-view-the-latest-information-web-mi|Users
+  can refresh Adaptive Cards in agents to view the latest information…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-declarative-agents-help-users-stay-in-their-workflow-web-microsoft-365-copilot-e|Declarative
+  Agents help users stay in their workflow…]]'
 - '[[Changes/OpenCode/2026-02-10-4-agent-mode-changes-in-v1-1-54|4 Agent Mode changes
   in v1.1.54]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'

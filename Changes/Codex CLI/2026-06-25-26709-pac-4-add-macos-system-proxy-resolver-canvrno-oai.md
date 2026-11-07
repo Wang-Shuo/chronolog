@@ -4,20 +4,20 @@ date: '2026-06-25'
 description: 'Codex CLI · 2026-06-25 · Mobile and Desktop: #26709 PAC 4 - Add macOS
   system proxy resolver @canvrno-oai'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1199
+  lag_days: 2783
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c1671fe0333ed822e9fc979e5003e89daa3bd3b0a38ca5669b284f2ec9f0dd2
+machine_hash: 91ea69196f48c07e53299372930db3d0c18c155458f13ffcc733a8ca446f662f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,9 +41,9 @@ record:
   title: '#26709 PAC 4 - Add macOS system proxy resolver @canvrno-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791
-  bazel: refresh expired macOS SDK pin @anp-oai]]'
 - '[[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]'
+- '[[Changes/Kimi Code/2026-06-24-reorganize-the-web-app-s-components-into-area-subdirectories-chat-settings-dialo|Reorganize
+  the web app''s components into area subdirectories…]]'
 - '[[Changes/OpenCode/2026-06-24-15-mobile-and-desktop-changes-in-v1-17-10|15 Mobile
   and Desktop changes in v1.17.10]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c|codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

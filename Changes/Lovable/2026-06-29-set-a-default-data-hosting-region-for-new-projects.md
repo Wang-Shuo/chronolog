@@ -4,20 +4,20 @@ date: '2026-06-29'
 description: 'Lovable · 2026-06-29 · Safety and Privacy: Workspace admins and owners
   on Business and Enterprise plans can now set a [default data hosting…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1170
+  lag_days: 2162
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: cdada0c3ed80374981564ad6f9d225c707ebcab8a944eed407131c9dedbc253e
+machine_hash: 5e8643b098a65557264c9df22a5cc39bd14aa2ee2f98670d9cc233de65e16df9
 product: lovable
 product_name: Lovable
 record:
@@ -68,10 +68,10 @@ record:
   title: Set a default data hosting region for new projects
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-25-3-safety-and-privacy-changes-in-hub-v2-2-1-antigravity-guide-audio|3
-  Safety and Privacy changes in HUB v2.2.1 — Antigravity Guide, audio…]]'
 - '[[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed
   external plugins enabled only by project .claude/settings.json not requiring…]]'
+- '[[Changes/Kimi Code/2026-06-26-add-a-host-cli-option-so-kimi-web-host-can-expose-the-server-to-the-internet-wit|Add
+  a --host CLI option so kimi web --host can expose the server…]]'
 - '[[Changes/Claude Code/2026-06-29-security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a|Security:
   claude mcp list/get no longer spawn .mcp.json servers that a repo…]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-29-2026-06-29-7be10e9c|lovable-2026-06-29-2026-06-29-7be10e9c]]'
@@ -114,7 +114,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

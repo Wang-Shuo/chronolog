@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-07-27 · Automation and Scheduling: 9 changes i
   — \U0001F9FA **Automations that file their chats away.** An automation can now be
   pointed at…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 937
+  lag_days: 2504
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 01590190fd059691b50085bf19272809af82166adb27d51f79dc53771f62060b
+machine_hash: e52e7724e2c17c507a382b9d25af077a0e1f93b399b0f634c982b64bf3e006b8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -85,12 +85,12 @@ record:
   title: 9 Automation and Scheduling changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel
-  setup warnings are now available as structured Doctor lint findings…]]'
-- '[[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation
-  and Scheduling changes in 1.16.0]]'
 - '[[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage):
   implement main worker execution loop and egress action publisher]]'
+- '[[Changes/Kimi Code/2026-07-22-remove-references-to-the-non-existent-kimi-resume-command-from-the-scheduled-tas|Remove
+  references to the non-existent kimi resume command from the scheduled-task…]]'
+- '[[Changes/Notion/2026-07-24-notion-workers-run-custom-code-on-notion-s-infrastructure-to-sync-data-power-too|Notion
+  Workers run custom code on Notion''s infrastructure to sync data, power tools…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -157,14 +157,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-07-22 · Gemini CLI · [[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]]
+- Earlier: 2026-07-24 · Notion · [[Changes/Notion/2026-07-24-notion-workers-run-custom-code-on-notion-s-infrastructure-to-sync-data-power-too|Notion Workers run custom code on Notion's infrastructure to sync data, power tools…]]
 - Later: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-chore-bump-software-agent-sdk-to-1-38-0-and-automation-to-1-4-1-by-hieptl-in-htt|chore: bump software-agent-sdk to 1.38.0 and automation to 1.4.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

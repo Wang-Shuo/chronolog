@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-05-06 · Reliability and Performance: Updated 
   `/tui fullscreen` startup banner to describe additional renderer benefits (lower
   memory…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1238
+  lag_days: 2725
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bdb647699b17853a5fdecd18a6d3d1a6dcae493fe24a71a1b6c87195db4fd52d
+machine_hash: 3d6443b04a5fe6ab03069eb29d2374731f3ecd21536b9c033670da36d1b6695e
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,10 @@ record:
   title: Updated the `/tui fullscreen` startup banner to describe additional renderer…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve
-  CLI startup speed by loading custom CA certificates asynchronously]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-improve-stability-on-windows-by-working-around-a-v8-crash-in-node-24-x|Improve
   stability on Windows by working around a V8 crash in Node 24.x]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-05-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated
+  survey insights with Copilot Highlights Web (Viva Glint)]]'
 - '[[Changes/Ollama/2026-05-05-gemma-4-mtp-speculative-decoding-is-now-supported-on-macs-this-can-give-over-a-2|Gemma
   4 MTP speculative decoding is now supported on Macs]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

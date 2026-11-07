@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f1b4e2044ce91e28196a427699b4fb53d81350004d728588e25ab8a2bf4e9604
+machine_hash: 9ae306528e6bb0a0740649a098a547deb9f244855ca8c8980998d76b49cbcaf9
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
   title: 4 Agent Mode changes in v2.1.219
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode
-  is now powered by Cursor Router]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-23-3-agent-mode-changes-in-v1-0-74|3 Agent
   Mode changes in v1.0.74]]'
+- '[[Changes/HeyGen/2026-07-23-2-agent-mode-changes-in-hyperframes-is-now-inside-video-agent|2
+  Agent Mode changes in HyperFrames is now inside Video Agent]]'
 - '[[Changes/Runway/2026-07-23-agent-can-now-build-and-run-entire-workflows-for-you-just-describe-what-you-want|Agent
   Workflows]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-23 · Runway · [[Changes/Runway/2026-07-23-agent-can-now-build-and-run-entire-workflows-for-you-just-describe-what-you-want|Agent Workflows]]
-- Later: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-desktop-keep-the-prompt-input-agent-toggle-in-sync|Desktop Keep the prompt input agent toggle in sync]]
+- Later: 2026-07-24 · Kimi Code · [[Changes/Kimi Code/2026-07-24-add-experimental-secondary-model-bindings-for-newly-spawned-subagents-including|Add experimental secondary-model bindings for newly spawned subagents, including…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

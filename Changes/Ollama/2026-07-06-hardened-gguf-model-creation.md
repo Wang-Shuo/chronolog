@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fd348e057dd98596b42b79cf808147c803d004a1930a43c07bcb39e1aa1f5003
+machine_hash: 10d497abb5ed02e76320687e0743d0a9ef6684a240ef163b77bf091bb5304ad6
 product: ollama
 product_name: Ollama
 record:
@@ -41,10 +41,10 @@ record:
   title: Hardened GGUF model creation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|GPT-5.5
-  Instant Mini in ChatGPT]]'
 - '[[Changes/ElevenLabs/2026-07-06-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/ElevenLabs/2026-07-06-elevencreative-studio-d7b18f|ElevenCreative Studio]]'
+- '[[Changes/Kimi Code/2026-07-06-3-model-support-changes-in-kimi-code-0-23-0|3 Model
+  Support changes in Kimi Code 0.23.0]]'
 source_release: '[[Releases/Ollama/ollama-2026-07-06-v0-31-2-github-349919612-5857a6ed|ollama-2026-07-06-v0-31-2-github-349919612-5857a6ed]]'
 source_type: github_releases
 theme: model-support
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-elevencreative-studio-d7b18f|ElevenCreative Studio]]
+- Earlier: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-3-model-support-changes-in-kimi-code-0-23-0|3 Model Support changes in Kimi Code 0.23.0]]
 - Later: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-3-model-support-changes-in-v1-17-14|3 Model Support changes in v1.17.14]]
 <!-- chronolog:end -->
 

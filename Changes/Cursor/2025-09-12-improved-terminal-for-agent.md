@@ -4,19 +4,20 @@ date: '2025-09-12'
 description: 'Cursor · 2025-09-12 · Developer Workflow: When Agent decides to create
   a terminal to run shell commands, we''ve dramatically improved the stability and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 909
+  lag_days: 2558
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 95edd6ce36936ad2dcb6648b1985c4f4d90017dc6e69a0763e11b262acc3c53f
+machine_hash: 921509d7e16ad6e2df310a75165b0f2e92fc52d1c5d15cd1c140ea8444f038dc
 product: cursor
 product_name: Cursor
 record:
@@ -118,7 +119,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

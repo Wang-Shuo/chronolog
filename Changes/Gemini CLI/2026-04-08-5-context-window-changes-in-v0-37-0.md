@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-04-08 · Context Window: 5 changes in Release v
   — feat(context): add configurable memoryBoundaryMarkers setting by @SandyTao520
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1070
+  lag_days: 2394
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7554750d30e6d54f03aae6b4c28945e0461307650616b4ff24a946d56184e8ff
+machine_hash: 2025d6e6306bcf846d40bf361c8fe9ac571e2afc38181b1f35ae8018a9210c96
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -115,7 +115,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-06-03'
 description: 'Lovable · 2026-06-03 · Apps and Integrations: On Free and Pro plans,
   any workspace member with the editor role or higher can create [app…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1168
+  lag_days: 2728
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ee8b448346c8e1affe21fca9269244cdf30f139f4688beb759fe5cad6254f56a
+machine_hash: 976f765463d142bf66d6c757803b6243cb97485db8cb6804cb95d00a008aac97
 product: lovable
 product_name: Lovable
 record:
@@ -57,12 +57,12 @@ record:
   title: Configure who can create app connector connections
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|/mcp
-  now collapses claude.ai connectors you''ve never signed in to behind…]]'
-- '[[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed
-  the JetBrains plugin install suggestion from startup]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-federated-copilot-connectors-are-now-generally-available-web-microsoft-365-copil|Federated
+  Copilot Connectors are now generally available…]]'
 - '[[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote
   Control now shows as a persistent footer pill (with a link to the session)…]]'
+- '[[Changes/Kimi Code/2026-06-03-allow-sdk-runtime-creation-to-use-a-separate-rpc-client-while-preserving-local-c|Allow
+  SDK runtime creation to use a separate RPC client while preserving local CLI startup]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-03-2026-06-03-0baffe3f|lovable-2026-06-03-2026-06-03-0baffe3f]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -100,14 +100,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote Control now shows as a persistent footer pill (with a link to the session)…]]
+- Earlier: 2026-06-03 · Kimi Code · [[Changes/Kimi Code/2026-06-03-allow-sdk-runtime-creation-to-use-a-separate-rpc-client-while-preserving-local-c|Allow SDK runtime creation to use a separate RPC client while preserving local CLI startup]]
 - Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-2-apps-and-integrations-changes-in-v2-1-163|2 Apps and Integrations changes in v2.1.163]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

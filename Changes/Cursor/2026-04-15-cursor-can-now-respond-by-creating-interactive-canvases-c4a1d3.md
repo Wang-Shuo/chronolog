@@ -4,20 +4,20 @@ date: '2026-04-15'
 description: 'Cursor · 2026-04-15 · Files and Data: Cursor can now respond by creating
   interactive canvases.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1056
+  lag_days: 2401
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54a2243770f52f806fe0051234de580b7fb7f7cbeacedb2279946ea8cf5c7116
+machine_hash: 7537e9b11c81edae726e2b91ac460a8b512e4cef71b77446e8a94ba05e2f7a0c
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: Cursor can now respond by creating interactive canvases
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-4-files-and-data-changes-in-1-13-3|4 Files and Data changes
-  in 1.13.3]]'
 - '[[Changes/Lovable/2026-04-02-generate-files-and-analyze-data|Generate files and
   analyze data]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-07-smarter-answers-with-embedded-image-understanding-windows-microsoft-365-copilot|Smarter
+  answers with embedded image understanding…]]'
 - '[[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan
   tabs now get the same document behaviors as files]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7]]'
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan tabs now get the same document behaviors as files]]
-- Later: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-text-to-dialogue|Text to Dialogue]]
+- Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-locked-layers-https-help-descript-com-hc-en-us-articles-17461277756941-lock-laye|Locked…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

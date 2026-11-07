@@ -4,19 +4,20 @@ date: '2026-05-21'
 description: 'Codex CLI · 2026-05-21 · Developer Workflow: 3 changes in 0.133.0 —
   Removed stale background terminal poll events after a process exits. (#23231)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1160
+  lag_days: 2809
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31fe6d9a8c13f0d246aed9fc233fc51fc411b9b36b5794a4ff1bb4677db0adf1
+machine_hash: 6969dc1d0871960765c1a00ccbe2f951538a1c8efaac4e57e74b72bfb3516682
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.133.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

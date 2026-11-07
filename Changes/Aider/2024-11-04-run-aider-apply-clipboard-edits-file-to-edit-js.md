@@ -4,20 +4,19 @@ date: '2024-11-04'
 description: 'Aider · 2024-11-04 · Editor Experience: Run `aider --apply-clipboard-edits
   file-to-edit.js`.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 601
+  lag_days: 2185
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba2ff13b47106fceeb012abf8e73929872afda75961020f68563ad8665d1e080
+machine_hash: a270ece8b30e00f2f7f098f66bfc2c641ce9bad7aa0cc1499c188b976d69f1dc
 product: aider
 product_name: Aider
 record:
@@ -42,8 +41,7 @@ record:
   title: Run `aider --apply-clipboard-edits file-to-edit.js`
   type: change
 related_changes:
-- '[[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience
-  changes in v0.60.0]]'
+- '[[Changes/Descript/2024-10-23-editor-updates|Editor updates]]'
 - '[[Changes/Midjourney/2024-10-23-today-we-re-testing-our-new-external-image-editor-image-retexturing-and-next-gen|today
   we’re testing our new external image editor , image retexturing , and next-gen…]]'
 - '[[Changes/Midjourney/2024-10-23-the-image-editor|The image editor]]'
@@ -78,13 +76,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-10-23 · Midjourney · [[Changes/Midjourney/2024-10-23-the-image-editor|The image editor]]
-- Later: 2024-11-05 · Dify · [[Changes/Dify/2024-11-05-chore-update-type-definition-to-resolve-lint-error-in-base-usage-at-text-editor|chore: update type definition to resolve lint error in Base usage at text-editor.tsx]]
+- Later: 2024-11-05 · Descript · [[Changes/Descript/2024-11-05-other-editor-tweaks|Other editor tweaks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

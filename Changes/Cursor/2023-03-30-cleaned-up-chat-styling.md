@@ -3,20 +3,20 @@ card_id: cursor-2023-03-30-54bb0c
 date: '2023-03-30'
 description: 'Cursor · 2023-03-30 · Interface Experience: Cleaned up chat styling'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 80
+  lag_days: 1446
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 778e0f1c26577ac06b2d3dba21614e731d6abbc78657cd50d4238327bbf95596
+machine_hash: 0c3f34042d1a19223781fe9124c3c6cbc0df23e9f4383aa63c607102107d9930
 product: cursor
 product_name: Cursor
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-03-27 · Cursor · [[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes autoupdate to notify you when there's a new version]]
-- Later: 2023-05-03 · ChatGPT · [[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|Turn off chat history and export your data from the ChatGPT settings]]
+- Later: 2023-04-03 · Descript · [[Changes/Descript/2023-04-03-export-scene-you-can-now-export-just-the-selected-scene-by-selecting-a-scene-and|Export scene: You can now export just the selected scene by selecting a scene…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

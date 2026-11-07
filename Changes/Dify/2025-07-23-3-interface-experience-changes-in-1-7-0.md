@@ -5,20 +5,20 @@ description: 'Dify · 2025-07-23 · Interface Experience: 3 changes in v1.7.0 - 
   OAuth & Plugin Auto-Upgrade Enhanced — **User Experience**: Improved Opik workflow
   trace…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 926
+  lag_days: 2292
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eda88d1587b0349c5bee22e4748d4129666b80e18503c1168c367c6d2245b8dd
+machine_hash: 3bf206939a0965c21899d04d29db0211a9851431cad46fb5bebce130cd310924
 product: dify
 product_name: Dify
 record:
@@ -48,12 +48,11 @@ record:
   title: 3 Interface Experience changes in 1.7.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-14-4-interface-experience-changes-in-v0-6-16|4 Interface
-  Experience changes in v0.6.16]]'
 - '[[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add
   numbers to selection list]]'
 - '[[Changes/Open WebUI/2025-07-19-3-interface-experience-changes-in-v0-6-17|3 Interface
   Experience changes in v0.6.17]]'
+- '[[Changes/Descript/2025-07-23-updates-to-the-sidebar|Updates to the sidebar]]'
 source_release: '[[Releases/Dify/dify-2025-07-23-1-7-0-github-234517527-27158f09|dify-2025-07-23-1-7-0-github-234517527-27158f09]]'
 source_type: github_releases
 theme: interface-experience
@@ -98,14 +97,14 @@ Source: https://github.com/langgenius/dify/releases/tag/1.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-3-interface-experience-changes-in-v0-6-17|3 Interface Experience changes in v0.6.17]]
+- Earlier: 2025-07-23 · Descript · [[Changes/Descript/2025-07-23-updates-to-the-sidebar|Updates to the sidebar]]
 - Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-2-interface-experience-changes-in-v0-1-14|2 Interface Experience changes in v0.1.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

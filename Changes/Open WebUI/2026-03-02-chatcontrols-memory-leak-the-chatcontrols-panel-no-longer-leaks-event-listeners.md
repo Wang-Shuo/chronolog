@@ -4,20 +4,20 @@ date: '2026-03-02'
 description: "Open WebUI · 2026-03-02 · Reliability and Performance: \U0001F9E0 **ChatControls
   memory leak.** The ChatControls panel no longer leaks event listeners, ResizeObserver…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1173
+  lag_days: 2660
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 02049c5d8106e20617690a0b16fafa29b1c447055b7d706be2b1eee762d1d182
+machine_hash: 83769946ecb30f976705865272e0afbbc4c5c124b1364ea2c99484fdf3e300e7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,10 +57,8 @@ record:
     leaks event…"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved
-  memory usage in long sessions with subagents by stripping heavy progress…]]'
-- '[[Changes/Open WebUI/2026-03-01-21-reliability-and-performance-changes-in-v0-8-6|21
-  Reliability and Performance changes in v0.8.6]]'
+- '[[Changes/Descript/2026-03-02-cpu-overload-warnings|CPU overload warnings]]'
+- '[[Changes/HeyGen/2026-03-02-translate-speed|Translate (Speed)]]'
 - '[[Changes/Ollama/2026-03-02-ollama-run-verbose-will-now-show-peak-memory-usage-when-using-ollama-s-mlx-engin|ollama
   run --verbose will now show peak memory usage when using Ollama''s MLX engine]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-02-v0-8-7-github-291874841-d7aad0b1|open-webui-2026-03-02-v0-8-7-github-291874841-d7aad0b1]]'
@@ -101,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

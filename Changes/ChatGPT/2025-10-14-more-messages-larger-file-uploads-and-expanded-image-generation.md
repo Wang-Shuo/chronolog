@@ -4,20 +4,20 @@ date: '2025-10-14'
 description: 'ChatGPT · 2025-10-14 · Image Generation: More messages, larger file
   uploads, and expanded image generation'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 583
+  lag_days: 841
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d4ac458337bef9954ee1808517d2be122c4666286aa04ce968e5bc7351f40c9e
+machine_hash: e78f2c771d3b9b8ad557d69fe1456396f96ae852ceb6227861eb0ed826b767e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-10-08 · ChatGPT · [[Changes/ChatGPT/2025-10-08-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
-- Later: 2025-10-28 · ChatGPT · [[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+- Later: 2025-10-23 · Descript · [[Changes/Descript/2025-10-23-savable-custom-parameters-for-generated-images-and-video|Savable custom parameters for generated images and video]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

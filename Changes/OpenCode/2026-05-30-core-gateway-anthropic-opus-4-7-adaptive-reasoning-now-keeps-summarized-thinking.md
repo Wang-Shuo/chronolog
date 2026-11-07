@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 951b0d863170eaaa944dabdb59d8d20bcdc3a3c569d028f35851729f3d6feb3e
+machine_hash: 41132eb8bf622ab52beebd496a0002a537ddd8d28a6dca6381aa42f15646d195
 product: opencode
 product_name: OpenCode
 record:
@@ -45,10 +45,10 @@ record:
     thinking…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-28-2-model-support-changes-in-v1-15-12|2 Model Support
-  changes in v1.15.12]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-model-support-changes-in-v1-0-56|2 Model
   Support changes in v1.0.56]]'
+- '[[Changes/Kimi Code/2026-05-29-4-model-support-changes-in-kimi-code-0-6-0|4 Model
+  Support changes in Kimi Code 0.6.0]]'
 - '[[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto
   mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-30-v1-15-13-9e1a2e19|opencode-2026-05-30-v1-15-13-9e1a2e19]]'

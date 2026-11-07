@@ -4,20 +4,20 @@ date: '2024-06-04'
 description: 'Dify · 2024-06-04 · Safety and Privacy: chore: upgrade sandbox by @Yeuoly
   in https://github.com/langgenius/dify/pull/4839'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 415
+  lag_days: 1407
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6cd4c3fb6a8c76246eb86481dc654d98dc7d714652e9ce025ffb8782751bac5b
+machine_hash: 4790478f3eee422fdb7722330fb4f0c107901ed0766e7215a4a645f7e343a5e0
 product: dify
 product_name: Dify
 record:
@@ -42,8 +42,8 @@ record:
   title: 'chore: upgrade sandbox'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-05-02-2-safety-and-privacy-changes-in-0-6-6|2 Safety and Privacy
-  changes in 0.6.6]]'
+- '[[Changes/Descript/2024-05-07-descript-for-web-now-with-recording-beta|Descript
+  for Web now with Recording (Beta)]]'
 - '[[Changes/Dify/2024-05-09-2-safety-and-privacy-changes-in-0-6-7|2 Safety and Privacy
   changes in 0.6.7]]'
 - '[[Changes/Dify/2024-05-13-and-we-also-removed-the-need-for-sys-admin-permission-for-the-sandbox-service|And
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

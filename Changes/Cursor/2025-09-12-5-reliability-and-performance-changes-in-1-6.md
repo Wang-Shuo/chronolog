@@ -4,20 +4,20 @@ date: '2025-09-12'
 description: 'Cursor · 2025-09-12 · Reliability and Performance: 5 changes in Slash
   commands, summarization, and improved Agent terminal — 1.6.5: Performance improvements'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1002
+  lag_days: 2489
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f88ed474d6e1c333978905fb315b0924638d07b126e6fc815024f2793d7e937
+machine_hash: 0be4af8384490927c8bf0fe4e65d07628c64194a46fc449a0da3d66b9f631034
 product: cursor
 product_name: Cursor
 record:
@@ -109,7 +109,7 @@ Source: https://cursor.com/changelog/1-6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

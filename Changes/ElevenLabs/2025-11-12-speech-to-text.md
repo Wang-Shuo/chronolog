@@ -3,20 +3,20 @@ card_id: elevenlabs-2025-11-12-0c6e18
 date: '2025-11-12'
 description: 'ElevenLabs · 2025-11-12 · Voice and Audio: [Transcribe audio](https://elevenlabs.io/docs/api-reference/speech-to-text/convert)'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 856
+  lag_days: 2683
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3b0e7f1fc6fcc4c9e5fd8750775c4b8031792047b3f0afbb080d4c9a090cf686
+machine_hash: 9e6de4cc33ecad71e77e7ca1998b9c57277e8944d5c4ec126d7977ee4dd7678d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

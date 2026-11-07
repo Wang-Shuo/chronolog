@@ -5,20 +5,19 @@ description: 'Cursor · 2024-07-13 · Editor Experience: This build comes with a
   experimental multi-file editing feature. To enable it, click the settings gear,
   head to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 487
+  lag_days: 2071
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 515db5193a6f16849f432ea10525cf878f6cf9a0f818fca69b252e65ac95235f
+machine_hash: 74e1c9129098f1b91fe7900016af46268ad84a7308f2768c614de9dbad703769
 product: cursor
 product_name: Cursor
 record:
@@ -49,12 +48,11 @@ record:
   title: Composer (beta)
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-06-18-want-your-ai-images-to-have-a-consistent-look-and-feel-you-can-now-add-and-edit|AI
-  image style keywords are now editable in the theme editor]]'
 - '[[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience
   changes in 0.6.12]]'
 - '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
   changes in 0.7.0]]'
+- '[[Changes/Descript/2024-07-02-editor-updates|Editor updates]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21|cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -81,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience changes in 0.7.0]]
+- Earlier: 2024-07-02 · Descript · [[Changes/Descript/2024-07-02-editor-updates|Editor updates]]
 - Later: 2024-07-16 · Gamma · [[Changes/Gamma/2024-07-16-right-click-to-edit|Right-click to edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

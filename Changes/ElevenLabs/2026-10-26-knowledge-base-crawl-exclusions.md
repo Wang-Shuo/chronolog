@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ce7dc86347a35beeb5b020a1dff1b930c6c8bf0a91bdc6eb770faf976572813d
+machine_hash: 95e9a93a8640904a5191e443d5595ecbb046d2be94a6bdbebbc848e82dd0f4ec
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -52,10 +52,10 @@ record:
   title: Knowledge base crawl exclusions
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-3-agent-mode-changes-in-v3-11-212|3 Agent Mode changes
-  in v3.11.212]]'
 - '[[Changes/OpenClaw/2026-10-24-8-agent-mode-changes-in-v2026-10-7|8 Agent Mode changes
   in v2026.10.7]]'
+- '[[Changes/Kimi Code/2026-10-25-2-agent-mode-changes-in-kimi-code-2-3-2|2 Agent
+  Mode changes in Kimi Code 2.3.2]]'
 - '[[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode
   changes in v2.1.311]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'

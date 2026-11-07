@@ -4,20 +4,20 @@ date: '2026-10-13'
 description: 'OpenClaw · 2026-10-13 · Safety and Privacy: 3 changes in v2026.10.3
   — Updates requested in chat. Fixed a Doctor cleanup check that falsely refused permission…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1276
+  lag_days: 2268
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cddfb6c382fe66379ce94708d0a487a25c56073b9a03e07bd4f52539dd75e099
+machine_hash: 373c9352f413eb5db902fbc657c56d8b18de42ec78606fc595ec3857a9d7169c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -54,12 +54,10 @@ record:
   title: 3 Safety and Privacy changes in v2026.10.3
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-12-fix-telemetry-retry-automation-consent-sync-by-enyst-in-https-github-com-openhan|fix(telemetry):
-  retry automation consent sync]]'
-- '[[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security-99509e|Origin
-  now integrates with over 20 apps for deployments, CI, code review, security…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-3-safety-and-privacy-changes-in-v1-0-97|3
   Safety and Privacy changes in v1.0.97]]'
+- '[[Changes/HeyGen/2026-10-13-admin-billing-and-security|Admin, billing and security]]'
+- '[[Changes/HeyGen/2026-10-13-sso-join-controls|SSO join controls]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-13-v2026-10-3-54cedb60|openclaw-2026-10-13-v2026-10-3-54cedb60]]'
 source_type: openclaw_changelog
 theme: safety-privacy
@@ -103,14 +101,14 @@ Source: https://docs.openclaw.ai/releases/2026.10.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-3-safety-and-privacy-changes-in-v1-0-97|3 Safety and Privacy changes in v1.0.97]]
+- Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-sso-join-controls|SSO join controls]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety and Privacy changes in v2.1.300]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Runway · 2024-11-25 · Mobile and Desktop: Use Act-One in the Run
   iOS mobile app to generate expressive character performances using a single driving
   video…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 622
+  lag_days: 2206
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9a3423a62fb2e1c65234afb91119a4961a16b5ddfd40bc824aa147f859fd3f5
+machine_hash: c03da148d8a892aa6c0e44be9024c7b843472e22830efc7a38432550fbc9500b
 product: runway
 product_name: Runway
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]]
-- Later: 2024-12-06 · Suno · [[Changes/Suno/2024-12-06-exciting-news-try-v4-for-free-when-you-download-the-mobile-app-now-available-on|Exciting news!]]
+- Later: 2024-12-05 · Notion · [[Changes/Notion/2024-12-05-capture-notes-with-new-ios-shortcuts|Capture notes with new iOS shortcuts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

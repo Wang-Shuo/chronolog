@@ -4,20 +4,20 @@ date: '2026-05-23'
 description: 'GitHub Copilot CLI · 2026-05-23 · Mobile and Desktop: 2 changes in 1.0.52
   — Sessions no longer fail to load on Windows when a process exits with a high-bit…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1166
+  lag_days: 2750
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c39d90fe1938629fcaff303e0a30631ef6e373b435a2c9c880dd7d4107c0ba5d
+machine_hash: e34055f9d2c2d370c3326d8a780a9ac849f6cdab5ce875d1815764fe5238a1b2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.52
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-04 · Context Window: Changed `/context` to
   counting to use a local estimate when the token-counting API is unavailable, instead
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 2543
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: edf9f0097bdd5603a66b5b6d185aa3a2246751b7b768bb7dff5d7c2043f228b7
+machine_hash: 85a6b21f4dcfae7d976771e1033f4fdad7606c901fe37f6a26eb8bcde6b58c32
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,13 +100,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-11-context-window-changes-in-v2026-9-1|11 Context Window changes in v2026.9.1]]
-- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-15-context-window-changes-in-v2026-9-2|15 Context Window changes in v2026.9.2]]
+- Later: 2026-09-04 · Kimi Code · [[Changes/Kimi Code/2026-09-04-remind-the-model-of-its-context-budget-before-automatic-compaction-and-after-com|Remind the model of its context budget before automatic compaction, and after…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

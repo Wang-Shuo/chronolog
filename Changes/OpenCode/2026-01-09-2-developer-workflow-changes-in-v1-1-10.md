@@ -4,19 +4,20 @@ date: '2026-01-09'
 description: 'OpenCode · 2026-01-09 · Developer Workflow: 2 changes in v1.1.10 — Desktop
   Store terminal and review pane visibility per session'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1028
+  lag_days: 2677
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1a5982b8f85324b0bee34f3d7e230d925cadcdb7b4606f24aec39b8c4eee8ff
+machine_hash: 8393ff85abccf42e40d80ac4cb5390ba168cad7368b33acf4ee05ca62059aead
 product: opencode
 product_name: OpenCode
 record:
@@ -90,7 +91,7 @@ Source: https://opencode.ai/changelog/v1.1.10
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

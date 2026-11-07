@@ -5,19 +5,20 @@ description: 'Codex CLI · 2026-04-20 · Developer Workflow: 6 changes in 0.122.
   The TUI can open `/side` conversations for quick side questions, and queued input
   now…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1129
+  lag_days: 2778
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5123de566958958da02fc7b422d1bda9886d52b9fde5f80ad912d6789f470466
+machine_hash: 76ee8bf01a45318735f73a60e2033d84862eadb702919cd43d99d971cfc9c385
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -117,7 +118,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

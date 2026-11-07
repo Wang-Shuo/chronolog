@@ -5,20 +5,20 @@ description: 'Suno · 2026-09-02 · Apps and Integrations: You can now move and 
   plugins from one track to another by dragging and dropping. (Previously you needed
   to copy…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1259
+  lag_days: 2819
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0c04c70502de7f957278941d4aea5de500c6bb58a8009edfbd675c00f5c74df8
+machine_hash: ad951b2353cb6af59d909a8f103638111f537eccc7a2dd1ea3359dc09c1eff29
 product: suno
 product_name: Suno
 record:
@@ -49,12 +49,12 @@ record:
   title: Copy and duplicate plugins
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-01-9-apps-and-integrations-changes-in-v2026-8-2|9 Apps
-  and Integrations changes in v2026.8.2]]'
 - '[[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5
   Apps and Integrations changes in v2.1.259]]'
 - '[[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and
   Integrations changes in v4.1.17]]'
+- '[[Changes/Kimi Code/2026-09-02-web-add-a-plugins-panel-to-settings-for-browsing-the-plugin-marketplace-and-inst|web:
+  Add a Plugins panel to Settings for browsing the plugin marketplace…]]'
 source_release: '[[Releases/Suno/suno-2026-09-02-e-studio-updates-sept26-eab89043|suno-2026-09-02-e-studio-updates-sept26-eab89043]]'
 source_type: suno_changelog
 theme: apps-integrations
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and Integrations changes in v4.1.17]]
+- Earlier: 2026-09-02 · Kimi Code · [[Changes/Kimi Code/2026-09-02-web-add-a-plugins-panel-to-settings-for-browsing-the-plugin-marketplace-and-inst|web: Add a Plugins panel to Settings for browsing the plugin marketplace…]]
 - Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende-012cbd|Zendesk & OneNote Plugins in ChatGPT and Codex Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

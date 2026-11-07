@@ -4,20 +4,20 @@ date: '2026-01-09'
 description: 'Cline · 2026-01-09 · Files and Data: Revert #8341 due to regressions
   in diff view/document truncation (see #8423, #8429)'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 960
+  lag_days: 2305
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eba0e5064f969cae5c3d8ec55772be29071da20e92d57efc6af1619806f9db2b
+machine_hash: db33c48b7b9f35802d95e99288976a051d6b7506cf0e6d99c6d6337b74049050
 product: cline
 product_name: Cline
 record:
@@ -45,9 +45,10 @@ record:
     #8429)'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-15-new-endpoints|New Endpoints]]'
 - '[[Changes/Open WebUI/2025-12-21-6-files-and-data-changes-in-v0-6-42|6 Files and
   Data changes in v0.6.42]]'
+- '[[Changes/Z.ai API/2025-12-22-the-update-brings-open-source-sota-performance-on-major-coding-and-reasoning-ben|The
+  update brings open-source SOTA performance on major coding and reasoning…]]'
 - '[[Changes/Dify/2025-12-25-add-file-upload-enabled-check-and-new-i18n-message-by-halogen22-in-https-github|Add
   file upload enabled check and new i18n message]]'
 source_release: '[[Releases/Cline/cline-2026-01-09-v3-48-0-github-275594973-5b3ea2b9|cline-2026-01-09-v3-48-0-github-275594973-5b3ea2b9]]'
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

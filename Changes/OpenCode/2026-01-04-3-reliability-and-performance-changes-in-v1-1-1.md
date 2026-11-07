@@ -4,20 +4,20 @@ date: '2026-01-04'
 description: 'OpenCode · 2026-01-04 · Reliability and Performance: 3 changes in v1.1.1
   — Core Remove memory leak fixes documentation after implementation'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1116
+  lag_days: 2603
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b8d8869416cab21054a17895128d538a757b2f8ca50d231cb1f0f1697a40933a
+machine_hash: 38ef5606d46b937022338868f1a206ef322bf2416012a76960ea2e9d1944e304
 product: opencode
 product_name: OpenCode
 record:
@@ -102,7 +102,7 @@ Source: https://opencode.ai/changelog/v1.1.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

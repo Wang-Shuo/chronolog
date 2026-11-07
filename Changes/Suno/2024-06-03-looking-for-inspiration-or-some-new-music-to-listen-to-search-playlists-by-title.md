@@ -4,20 +4,20 @@ date: '2024-06-03'
 description: 'Suno · 2024-06-03 · Music Generation: Looking for inspiration, or some
   new music to listen to? Search playlists by title and description.'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 163
+  lag_days: 1629
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dc40eba07d7aeb5550b0e605088485eec4950bceff32bb9440364433e74b9c86
+machine_hash: 848e6e830d56bf7d281be64db072c34639abc36ffe36d97665190e8e2bab47a7
 product: suno
 product_name: Suno
 record:
@@ -78,13 +78,13 @@ type: change
 ## Nearby in Music Generation
 
 - Earlier: 2024-05-30 · Suno · [[Changes/Suno/2024-05-30-generate-4-minute-songs-you-can-now-get-your-full-song-in-a-single-generation-th|Generate 4-minute songs]]
-- Later: 2024-06-07 · Suno · [[Changes/Suno/2024-06-07-as-you-explore-new-songs-please-let-us-know-what-you-think-by-giving-songs-a-thu|As you explore new songs, please let us know what you think by giving songs…]]
+- Later: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-music|Music]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

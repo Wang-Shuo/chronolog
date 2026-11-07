@@ -4,20 +4,20 @@ date: '2026-04-23'
 description: 'Gemini CLI · 2026-04-23 · Safety and Privacy: 6 changes in Release v0.39.0
   — refactor(sandbox): use centralized sandbox paths in macOS Seatbelt implementation…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1103
+  lag_days: 2095
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6792871909c8f0ea5f44d3b390804f86694feff6359628f92618c91ca0ba081
+machine_hash: 4258059e7a7c5771b8da015fab9934b756c036a9bdb21615d267bb6ccb9ac3d3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -120,7 +120,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.39.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

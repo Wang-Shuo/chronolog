@@ -4,20 +4,20 @@ date: '2026-07-17'
 description: 'Claude Code · 2026-07-17 · Search and Browsing: 3 changes in v2.1.212
   — Added a session-wide limit on WebSearch tool calls (default 200, tunable via…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1212
+  lag_days: 2241
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1245fd886d3dc955d8c941736305f82ca4c9e9292af752a2bfc9ad6a6da99a5f
+machine_hash: dadf0d0411037e12c090d2c2caf2dcc47215b3af1683460d8dc6ee1429a6d90b
 product: claude-code
 product_name: Claude Code
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

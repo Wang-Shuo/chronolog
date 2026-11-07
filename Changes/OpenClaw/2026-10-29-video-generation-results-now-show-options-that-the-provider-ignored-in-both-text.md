@@ -4,20 +4,20 @@ date: '2026-10-29'
 description: 'OpenClaw · 2026-10-29 · Video Generation: Video-generation results now
   show options that the provider ignored, in both text and JSON output.'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1015
+  lag_days: 2199
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aecf7575a87274cf12e07181750e2ef3a85b00e8955f1c11b4419858b7edbcd5
+machine_hash: 60ba0e9ee30bd2cc325621bf2af1b538dd22016315b0b70d0a94d1545d01e26b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -43,11 +43,10 @@ record:
     text…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-shared-helpers-consolidate-repeated-implementation-including-preparation-and-res|Shared
-  helpers consolidate repeated implementation, including preparation…]]'
-- '[[Changes/OpenClaw/2026-09-30-2-video-generation-changes-in-v2026-9-7|2 Video Generation
-  changes in v2026.9.7]]'
-- '[[Changes/Midjourney/2026-10-08-prompt-bar-video|PROMPT BAR & VIDEO]]'
+- '[[Changes/HeyGen/2026-10-13-video-plan-redesigned|Video Plan, redesigned]]'
+- '[[Changes/HeyGen/2026-10-13-heygen-video-1-0-api|HeyGen Video 1.0 API]]'
+- '[[Changes/Qoder/2026-10-22-video-generation-and-preview-generate-videos-through-conversation-check-their-st|Video
+  generation and preview]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-29-v2026-10-9-69976f84|openclaw-2026-10-29-v2026-10-9-69976f84]]'
 source_type: openclaw_changelog
 theme: video-generation
@@ -85,13 +84,13 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-prompt-bar-video|PROMPT BAR & VIDEO]]
+- Earlier: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-video-generation-and-preview-generate-videos-through-conversation-check-their-st|Video generation and preview]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-18 · Mobile and Desktop: [Claude Code on t
   Changed the admin Claude Code setting labeled "Web" to "Cloud sessions" and removed
   the…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1284
+  lag_days: 2868
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 802fe6e1f0a0393414a46f24f03b091f14ea8f33f98a19238e94f6d49f7dca97
+machine_hash: 1d9e7268da7bb3838c9e20767206e9f9a597cfb2f51185b332a3dd9379cd5024
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: '[Claude Code on the web] Changed the admin Claude Code setting labeled…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-improved-the-desktop-error-when-claude-desktop-does-not-open-it-now-says-why-and|Improved
-  the /desktop error when Claude Desktop does not open]]'
-- '[[Changes/Cline/2026-09-17-on-windows-opening-a-repository-that-contains-a-file-named-rg-exe-git-exe-or-pow|On
-  Windows, opening a repository that contains a file named rg.exe, git.exe…]]'
 - '[[Changes/Codex CLI/2026-09-17-2-mobile-and-desktop-changes-in-rust-v0-155-0|2
   Mobile and Desktop changes in rust-v0.155.0]]'
+- '[[Changes/Descript/2026-09-17-import-from-google-drive-on-web|Import from Google
+  Drive on web]]'
+- '[[Changes/Kimi Code/2026-09-17-add-the-desktop-slash-command-alias-install-desktop-and-the-kimi-install-app-sub|Add
+  the /desktop slash command (alias /install-desktop)…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -89,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-2-mobile-and-desktop-changes-in-rust-v0-155-0|2 Mobile and Desktop changes in rust-v0.155.0]]
-- Later: 2026-09-19 · Google Antigravity · [[Changes/Google Antigravity/2026-09-19-file-and-network-sandboxing-on-windows-are-now-supported|File and network sandboxing on Windows are now supported]]
+- Earlier: 2026-09-17 · Kimi Code · [[Changes/Kimi Code/2026-09-17-add-the-desktop-slash-command-alias-install-desktop-and-the-kimi-install-app-sub|Add the /desktop slash command (alias /install-desktop)…]]
+- Later: 2026-09-18 · Kimi Code · [[Changes/Kimi Code/2026-09-18-rename-the-kimi-install-app-subcommand-to-kimi-install-desktop-the-old-name-keep|Rename the kimi install-app subcommand to kimi install-desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

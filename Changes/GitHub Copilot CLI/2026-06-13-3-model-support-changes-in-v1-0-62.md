@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f8507412e2c2bfa56188b0ab5807df1eaa153929372979fb6fb078a245c44bf8
+machine_hash: c95d5bac8be85a25fa0a607964075797b592f51d9d7ede380a54b6c3c93c0858
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Model Support changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added
-  enforceAvailableModels managed setting]]'
+- '[[Changes/Kimi Code/2026-06-12-require-agentswarm-tool-calls-to-run-alone-in-a-model-response|Require
+  AgentSwarm tool calls to run alone in a model response]]'
 - '[[Changes/Ollama/2026-06-12-improved-recurrent-model-support-with-per-boundary-states-from-the-gated-delta-k|Improved
   recurrent model support with per-boundary states from the gated-delta kernels]]'
 - '[[Changes/OpenCode/2026-06-12-2-model-support-changes-in-v1-17-4|2 Model Support

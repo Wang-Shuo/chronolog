@@ -4,20 +4,20 @@ date: '2026-06-05'
 description: 'GitHub Copilot CLI · 2026-06-05 · Mobile and Desktop: 2 changes in 1.0.60
   — On Windows, executables are no longer discovered in the working directory when…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1179
+  lag_days: 2763
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 646b6d31ccd1e26c71b1e017ba888e1345b46273ed7437888366316f219ed569
+machine_hash: 38da13b6bad217f3894c19c91c9d170489bba30eb3787b4b9a458fd0505dd390
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

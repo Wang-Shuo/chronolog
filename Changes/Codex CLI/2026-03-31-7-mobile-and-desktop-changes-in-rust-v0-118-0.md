@@ -4,20 +4,20 @@ date: '2026-03-31'
 description: 'Codex CLI · 2026-03-31 · Mobile and Desktop: 7 changes in 0.118.0 —
   On Windows, `apply_patch` is less likely to fail because it no longer adds redundant…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1113
+  lag_days: 2697
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7bcdc481a865c98428e13597b6b215d164a60455688587b39d4b95157dbda77f
+machine_hash: 41c9ce04fb1727acce34a4b1262056ff7641b1b242204d48422e405c02ae7be1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -123,7 +123,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.118.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

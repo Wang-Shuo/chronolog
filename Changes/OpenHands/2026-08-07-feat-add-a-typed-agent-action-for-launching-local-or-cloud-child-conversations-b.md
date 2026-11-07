@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 64c03904c41ca56835f84b478f583da86deea4963806549fd2520236a047e8b2
+machine_hash: fdbc2aed8f828c9cc95cc7f11e9213dffa49a501bb56373ff7abe173bd3d15f4
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,11 @@ record:
   title: 'feat: add a typed agent action for launching local or Cloud child conversations'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed
-  the 200-subagent-per-session spawn cap]]'
 - '[[Changes/Codex CLI/2026-08-07-17-agent-mode-changes-in-rust-v0-147-0|17 Agent
   Mode changes in rust-v0.147.0]]'
 - '[[Changes/Google Antigravity/2026-08-07-2-agent-mode-changes-in-hub-v2-6-0-faster-long-conversations|2
   Agent Mode changes in HUB v2.6.0 — Faster long conversations…]]'
+- '[[Changes/HeyGen/2026-08-07-hyperframes-in-video-agent|Hyperframes in Video Agent]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-07-v1-11-0-github-366925866-b56d8fd7|openhands-2026-08-07-v1-11-0-github-366925866-b56d8fd7]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-2-agent-mode-changes-in-hub-v2-6-0-faster-long-conversations|2 Agent Mode changes in HUB v2.6.0 — Faster long conversations…]]
+- Earlier: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-hyperframes-in-video-agent|Hyperframes in Video Agent]]
 - Later: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-agent|Agent]]
 <!-- chronolog:end -->
 

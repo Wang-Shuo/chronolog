@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-09-03 · Developer Workflow: 11 changes in v2026.
   — On a fresh local install, the recommended Quick Start path can reuse verified
   Claude Code…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1265
+  lag_days: 2914
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0fd4966f31d9b081b7f00b446cb80bc370c3484176eb8c9ae4f6804ee1ca9af1
+machine_hash: c3db481f14d20ab5ea7d81eb41c8ba7162435b1349afc0dea8a5097e46163d40
 product: openclaw
 product_name: OpenClaw
 record:
@@ -104,8 +105,8 @@ record:
   title: 11 Developer Workflow changes in v2026.9.1
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-02-terminal-split-layouts-are-now-preserved-across-window-reloads|Terminal
-  split layouts are now preserved across window reloads]]'
+- '[[Changes/Kimi Code/2026-09-02-2-developer-workflow-changes-in-kimi-code-0-40-0|2
+  Developer Workflow changes in Kimi Code 0.40.0]]'
 - '[[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved
   deleting a background session whose worktree has unpushed commits]]'
 - '[[Changes/Codex CLI/2026-09-03-5-developer-workflow-changes-in-rust-v0-153-0|5
@@ -180,13 +181,13 @@ Source: https://docs.openclaw.ai/releases/2026.9.1
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-5-developer-workflow-changes-in-rust-v0-153-0|5 Developer Workflow changes in rust-v0.153.0]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer Workflow changes in v2.1.261]]
+- Later: 2026-09-03 · Qoder · [[Changes/Qoder/2026-09-03-clickable-terminal-links-http-https-links-in-the-terminal-now-open-directly|Clickable terminal links: HTTP/HTTPS links in the terminal now open directly]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

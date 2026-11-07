@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-03-08 · Context Window: 2 changes in v0.8.9 �
   **Tool files access.** Tools can now access the files from the current chat context
   via the…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1039
+  lag_days: 2363
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b6b4c9ab9a75b4d441026cd6b7d84db8f58a2b5dbc79526602a59c71f08658a
+machine_hash: 59ab1c924e355cdbaa42d0b181a33569b0cce986a1e6b8630662158e77f73448
 product: open-webui
 product_name: Open WebUI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.9
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

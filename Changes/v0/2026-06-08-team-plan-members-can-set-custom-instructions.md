@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fdc5c3ec5acc4e0ce1581fd0e6ef25e7bd1dc83b1598c9e2f9ee6d38e40e146a
+machine_hash: e33812366669199e7c05ab04798bcee0e0be1b4d34d542a1b551fef497171836
 product: v0
 product_name: v0
 record:
@@ -40,10 +40,10 @@ record:
   title: Team plan members can set custom instructions
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-01-2-memory-and-personalization-changes-in-rust-v0-136-0|2
-  Memory and Personalization changes in rust-v0.136.0]]'
 - '[[Changes/Open WebUI/2026-06-01-2-memory-and-personalization-changes-in-v0-9-6|2
   Memory and Personalization changes in v0.9.6]]'
+- '[[Changes/HeyGen/2026-06-02-personal-settings-contains-settings-that-apply-only-to-the-individual-user-inclu|Personal
+  Settings contains settings that apply only to the individual user…]]'
 - '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory
   that stays more up to date]]'
 source_release: '[[Releases/v0/v0-2026-06-08-2026-06-08-4f50e6b2|v0-2026-06-08-2026-06-08-4f50e6b2]]'

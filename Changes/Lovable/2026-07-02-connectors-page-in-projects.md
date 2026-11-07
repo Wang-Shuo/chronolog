@@ -5,20 +5,20 @@ description: 'Lovable · 2026-07-02 · Apps and Integrations: Every project now 
   a [**Connectors**](https://docs.lovable.dev/integrations/introduction) page where
   you can…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1197
+  lag_days: 2757
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 65ffc9c29048dc2ed91eaa179c4d67df29f891f2d2060a0658d4e1563f144e07
+machine_hash: 88b7a6450bee0b32dd1c917861847596d07a58c0adc0d5e2be473ea221d31a8f
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,10 @@ record:
   title: Connectors page in projects
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added
-  /dataviz skill for chart and dashboard design guidance with a runnable…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2
-  Apps and Integrations changes in v1.0.68]]'
+- '[[Changes/Kimi Code/2026-07-01-plugins-can-now-provide-slash-commands-via-a-commands-field-in-their-manifest-re|Plugins
+  can now provide slash commands via a commands field in their manifest…]]'
+- '[[Changes/Notion/2026-07-01-five-new-mcp-connections-for-custom-agents|Five new
+  MCP connections for Custom Agents]]'
 - '[[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked
   slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-02-2026-07-02-ebacd7f2|lovable-2026-07-02-2026-07-02-ebacd7f2]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

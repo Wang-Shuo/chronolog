@@ -4,20 +4,20 @@ date: '2026-08-25'
 description: 'Dify · 2026-08-25 · Voice and Audio: Audio ASR now accepts `audio/x-m4a`,
   and audio MIME types are validated more accurately (#40776, #41043).'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1142
+  lag_days: 2969
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0d4316f10dea85efdde6d72465c04e1a1d9ab1ca7e5ea4da6d2c061c21d888b1
+machine_hash: fd90d04174ef353ce86d394e5b2bf7d0481809d3c8695b8f51de504ac370aef5
 product: dify
 product_name: Dify
 record:
@@ -93,13 +93,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-embedded-terminals-git-version-control-and-audio-attachments|Embedded Terminals, Git Version Control, and Audio Attachments]]
-- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-voice-and-audio-changes-in-v0-11-1|4 Voice and Audio changes in v0.11.1]]
+- Later: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-use-voice-for-q-a-during-read-aloud-in-word-windows-word|Use voice for Q&A during Read Aloud in Word Windows (Word)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

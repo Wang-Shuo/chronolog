@@ -5,20 +5,20 @@ description: 'Ollama · 2026-10-12 · Reliability and Performance: 2 changes in 
   — Improved inference performance by reusing verified manifests and already loaded
   models'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1397
+  lag_days: 2884
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51cf86a3526628eb1cbd802c53167daa13206dcb50af8f79ce775696d0daddd4
+machine_hash: 4639b8aebab7ab2d6e4ebdc86552f61253dfe145ef7a7cd24aa62c352ae5fc92
 product: ollama
 product_name: Ollama
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Reliability and Performance changes in v0.40.4
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-5-reliability-and-performance-changes-in-v0-12-0|5
-  Reliability and Performance changes in v0.12.0]]'
-- '[[Changes/OpenClaw/2026-10-10-2-reliability-and-performance-changes-in-v2026-10-1|2
-  Reliability and Performance changes in v2026.10.1]]'
+- '[[Changes/Qoder/2026-10-10-fast-models-get-faster-responses-with-less-waiting-for-a-smoother-conversation-e|Fast
+  models: Get faster responses with less waiting for a smoother conversation…]]'
+- '[[Changes/Qoder/2026-10-10-fast-models-faster-responses-less-waiting|Fast Models:
+  Faster Responses, Less Waiting]]'
 - '[[Changes/Ollama/2026-10-11-paused-background-model-upgrade-for-embedding-and-other-request-performance-by-j|Paused
   background model upgrade for embedding and other request performance,]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-12-v0-40-4-github-410905890-5db61c07|ollama-2026-10-12-v0-40-4-github-410905890-5db61c07]]'
@@ -88,13 +88,13 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.40.4
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-11 · Ollama · [[Changes/Ollama/2026-10-11-paused-background-model-upgrade-for-embedding-and-other-request-performance-by-j|Paused background model upgrade for embedding and other request performance,]]
-- Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency memory relief in long sessions can now bypass its cooldown before V8…]]
+- Later: 2026-10-13 · Descript · [[Changes/Descript/2026-10-13-faster-ai-video-on-paid-plans|Faster AI video on paid plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

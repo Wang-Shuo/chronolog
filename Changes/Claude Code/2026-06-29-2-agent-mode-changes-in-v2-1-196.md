@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7899a3fc5bfe43c0862134c44700371fad7ae4ec2a947144b1ee18d80328dd7f
+machine_hash: 985660f4830a8f56dbee487e5afed9f8bb740638cd25578b03abed43af5370e5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Agent Mode changes in v2.1.196
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved
-  claude agents completed list to fill available vertical space]]'
-- '[[Changes/Cline/2026-06-26-temporarily-disable-subagents-in-the-vs-code-extension-while-the-sdk-backed-expe|Temporarily
-  disable subagents in the VS Code extension while the SDK-backed…]]'
+- '[[Changes/Kimi Code/2026-06-26-3-agent-mode-changes-in-kimi-code-0-20-0|3 Agent
+  Mode changes in Kimi Code 0.20.0]]'
+- '[[Changes/Kimi Code/2026-06-26-optimize-the-default-system-prompt-and-built-in-tool-descriptions-to-stop-the-ag|Optimize
+  the default system prompt and built-in tool descriptions to stop the agent…]]'
 - '[[Changes/v0/2026-06-26-2-agent-mode-changes-in-platform-api-v2-mcp-chat-tools|2
   Agent Mode changes in Platform API v2, MCP chat tools…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'

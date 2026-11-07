@@ -5,20 +5,19 @@ description: 'GitHub Copilot CLI · 2026-05-08 · Editor Experience: 2 changes i
   — Path completion in /add-dir no longer flickers or gets intercepted by @ and #
   pickers'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1151
+  lag_days: 2735
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: efef8c65c381171238ac702dfaac81d473d008ead4808b65614b1c222c8aae8f
+machine_hash: 848a2321c68dcf7a2719617b168c3dadb9b678f14e89a6d87e92c9b6c3ab1629
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.44
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

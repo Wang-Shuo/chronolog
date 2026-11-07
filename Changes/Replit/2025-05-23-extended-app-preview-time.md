@@ -5,19 +5,20 @@ description: 'Replit · 2025-05-23 · Collaboration: Your app previews now stay 
   for 10 minutes after closing your workspace (up from just 20 seconds). This provides
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 730
+  lag_days: 2324
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9f9ee98066c77f4a20c04779bb1a31a4c87cf2e7c99f44f0c524fc13bb79b9db
+machine_hash: 96207f7c52e0c978776e23a8275a00bc21787984207b2626f5afd96672f78aaa
 product: replit
 product_name: Replit
 record:
@@ -46,7 +47,7 @@ record:
   title: Extended app preview time
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-05-19-voices|Voices]]'
+- '[[Changes/Descript/2025-05-20-drive-invite-links|Drive invite links]]'
 - '[[Changes/Cline/2025-05-22-add-support-for-global-workflows-allowing-workflows-to-be-shared-across-workspac|Add
   support for global workflows, allowing workflows to be shared across workspaces…]]'
 - '[[Changes/Replit/2025-05-23-team-member-app-transfers|Team member app transfers]]'
@@ -90,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

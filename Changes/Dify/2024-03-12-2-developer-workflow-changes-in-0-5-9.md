@@ -4,19 +4,20 @@ date: '2024-03-12'
 description: 'Dify · 2024-03-12 · Developer Workflow: 2 changes in v0.5.9 — make volume
   folders for milvus docker containers ignored by git by @bowenliang123 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 360
+  lag_days: 2009
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bea00dad6b33407c329526034cf9287b04e0a0a6ebf0b7c73f2542aec38481a4
+machine_hash: bbf52105112b6f00d1b17e11f7ac0c145dab1f91216c35d86a9bdf218f255355
 product: dify
 product_name: Dify
 record:
@@ -90,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.9
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

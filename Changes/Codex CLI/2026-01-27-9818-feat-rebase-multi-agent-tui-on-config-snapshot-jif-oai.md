@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6f484be092ce1a4d31edfef3058b2a44a48e6a0a168d64295d070e0793daf071
+machine_hash: c4d100dc282a939a1137f1d67a6ac489fb0a56ec729a390c05838986ac79f06f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,9 +43,10 @@ record:
   title: '#9818 feat: rebase multi-agent tui on `config_snapshot` @jif-oai'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-26-new-schemas|New Schemas]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-26-load-local-shell-configuration-in-agent-sessions|Load
-  local shell configuration in agent sessions]]'
+- '[[Changes/HeyGen/2026-01-26-the-new-and-improved-video-agent|The new and improved
+  Video Agent]]'
+- '[[Changes/HeyGen/2026-01-26-3-agent-mode-changes-in-introducing-our-new-video-agent|3
+  Agent Mode changes in Introducing our new Video Agent]]'
 - '[[Changes/Claude Code/2026-01-27-2-agent-mode-changes-in-v2-1-20|2 Agent Mode changes
   in v2.1.20]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-27-rust-v0-92-0-github-280265755-5634ff7c|codex-cli-2026-01-27-rust-v0-92-0-github-280265755-5634ff7c]]'

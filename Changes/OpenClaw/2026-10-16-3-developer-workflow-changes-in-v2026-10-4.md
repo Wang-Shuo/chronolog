@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-10-16 · Developer Workflow: 3 changes in v2026.1
   — Update progress. Temporary congestion while printing progress no longer aborts
   update…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1308
+  lag_days: 2957
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c06b545c9b3691f7d7afa350f80639934fa26c6e7e98f94da2d093c27438bc33
+machine_hash: 377f0033d8d601d5013616000d6d6b28ae71266704e753b09a0e530d9d19e4de
 product: openclaw
 product_name: OpenClaw
 record:
@@ -109,7 +110,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

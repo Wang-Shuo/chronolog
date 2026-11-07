@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7410f0d29f027ddca8a004217d2754ec13f4a2f60a91fab47bc92492d019faad
+machine_hash: 8a45e6eb18dedff4b46d9a290948c10dfdb7b0146ff749cd5359435d9e651019
 product: opencode
 product_name: OpenCode
 record:
@@ -40,8 +40,8 @@ record:
   title: Desktop Toggle all provider models in settings
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-12-allow-model-configurations-without-npm-api-provider-details|Allow
-  model configurations without npm/api provider details]]'
+- '[[Changes/Z.ai API/2026-02-12-it-directly-benchmarks-against-claude-opus-4-5-in-code-logic-density-and-systems|It
+  directly benchmarks against Claude Opus 4.5 in code-logic density…]]'
 - '[[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring
   GPT-4o and other legacy models]]'
 - '[[Changes/Cline/2026-02-13-ui-ux-fixes-with-minimax-model-family|UI/UX fixes with

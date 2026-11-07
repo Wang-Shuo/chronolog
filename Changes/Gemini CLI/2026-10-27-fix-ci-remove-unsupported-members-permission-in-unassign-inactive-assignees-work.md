@@ -4,20 +4,20 @@ date: '2026-10-27'
 description: 'Gemini CLI · 2026-10-27 · Safety and Privacy: fix(ci): remove unsupported
   members permission in unassign-inactive-assignees workflow by @ugorla-dev in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1290
+  lag_days: 2282
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b008aedd022155c5580aad42e48a1bebc5ed33ad09371745bea887e411c4489
+machine_hash: b2f35fa4468abc8c442bcc29c2875299193b37236ec28953102c881cc52800c3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
     workflow'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-voice-cloning-permissions-members-without-the-create-instant-voice-clone-or-crea|Voice
-  cloning permissions]]'
+- '[[Changes/Kimi Code/2026-10-26-merge-the-two-repeated-permission-mode-notice-lines-in-the-swarm-and-goal-start|Merge
+  the two repeated permission-mode notice lines in the swarm and goal start…]]'
 - '[[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed
   Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]'
 - '[[Changes/Codex CLI/2026-10-27-3-safety-and-privacy-changes-in-rust-v0-165-0|3
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

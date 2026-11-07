@@ -5,20 +5,20 @@ description: 'Gemini · 2024-02-08 · Interface Experience: What: Gemini is the 
   way to get direct access to Google AI. All the collaborative capabilities you know
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 395
+  lag_days: 1761
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d66e10d3d9f91a7cf9bb0c768c1ce4edc6b480247aff33ac2bc776918bc3e2a6
+machine_hash: 0e61323aae142a4817717762af3475f5def806b0298b1abbdf567fdead5a2365
 product: gemini
 product_name: Gemini
 record:
@@ -53,8 +53,7 @@ record:
   title: Bard is now Gemini
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-12-feat-app-sidebar-support-collapse-by-zxhlyh-in-https-github-com-langgenius-dify|feat:
-  app sidebar support collapse]]'
+- '[[Changes/Descript/2024-01-22-animation-curve-presets|Animation Curve Presets]]'
 - '[[Changes/Dify/2024-01-24-for-ease-of-use-tools-has-been-relocated-to-the-main-product-menu-centralizing-c|For
   ease of use, "Tools" has been relocated to the main product menu, centralizing…]]'
 - '[[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag
@@ -97,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

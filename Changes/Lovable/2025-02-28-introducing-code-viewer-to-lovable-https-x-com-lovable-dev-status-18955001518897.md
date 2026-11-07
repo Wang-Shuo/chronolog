@@ -5,20 +5,19 @@ description: 'Lovable · 2025-02-28 · Editor Experience: [Introducing Code view
   Lovable](https://x.com/lovable_dev/status/1895500151889768596): You can now view
   the code…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 717
+  lag_days: 2301
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 765957b90acef73e7c6a2a3de8c2068bc3396726c7d74049e0799070782387e0
+machine_hash: 7bdf97168fb562dac7818e56dea7b63a74ba8711929728b45164fc9964120041
 product: lovable
 product_name: Lovable
 record:
@@ -48,10 +47,9 @@ record:
   title: '[Introducing Code viewer to Lovable](https://x.com/lovable_dev/status/1895500151889768596)'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab
-  rebinding: Tab suggestions can now be rebound to a different keybinding using…]]'
 - '[[Changes/Lovable/2025-02-21-improvements-in-visual-edits-https-x-com-lovable-dev-status-1892249059718484100|Improvements
   in visual edits((source link)]]'
+- '[[Changes/Descript/2025-02-25-editor-updates|Editor updates]]'
 - '[[Changes/Lovable/2025-02-28-edit-mode-auto-close-after-editing-an-element|''Edit''
   mode auto close after editing an element]]'
 source_release: '[[Releases/Lovable/lovable-2025-02-28-2025-02-28-81625fa9|lovable-2025-02-28-2025-02-28-81625fa9]]'
@@ -83,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-02-21 · Lovable · [[Changes/Lovable/2025-02-21-improvements-in-visual-edits-https-x-com-lovable-dev-status-1892249059718484100|Improvements in visual edits((source link)]]
+- Earlier: 2025-02-25 · Descript · [[Changes/Descript/2025-02-25-editor-updates|Editor updates]]
 - Later: 2025-03-07 · Lovable · [[Changes/Lovable/2025-03-07-dev-mode-https-x-com-lovable-dev-status-1897693825767768542-easily-edit-any-code|Dev Mode:((source link) Easily edit any…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

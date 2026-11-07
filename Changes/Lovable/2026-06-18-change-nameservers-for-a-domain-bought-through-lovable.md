@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'Lovable · 2026-06-18 · Enterprise and Administration: If you bought
   a domain through Lovable, you can now [point it at your own custom…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1140
+  lag_days: 2347
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3d7ddefb552c14ca51c4f8bccb3ebc4dcaa5ebec8f22283635dcaf0e3280a3b7
+machine_hash: 467f825e1fad4813fea60b8911fe646c2c324e8007e019ec3e7b788a35dd8d25
 product: lovable
 product_name: Lovable
 record:
@@ -54,8 +54,8 @@ record:
   title: Change nameservers for a domain bought through Lovable
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-10-user-insights-for-workspace-members|User insights
-  for workspace members]]'
+- '[[Changes/Descript/2026-06-11-creator-pro-and-enterprise-plans-up-to-5-concurrent-generations|Creator,
+  Pro, and Enterprise plans: up to 5 concurrent generations]]'
 - '[[Changes/Codex CLI/2026-06-18-tls-connections-now-support-p-521-certificate-signatures-commonly-used-by-enterp|TLS
   connections now support P-521 certificate signatures commonly used by enterprise…]]'
 - '[[Changes/Lovable/2026-06-18-clearer-personal-folder-access-management|Clearer
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

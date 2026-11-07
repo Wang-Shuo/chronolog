@@ -4,20 +4,20 @@ date: '2026-07-03'
 description: 'Claude Code · 2026-07-03 · Safety and Privacy: Changed the "default"
   permission mode to "Manual" across the CLI, `--help`, VS Code, and JetBrains…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1174
+  lag_days: 2166
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c6efa0fcb509f538fe786120eb54d14b444a7d3148e252e86098506a0fefdaa
+machine_hash: 1bb398218b01d8110404bec1a97723a5153d55be9e86502cc3afa0ecf9195528
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     VS Code…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-sdk-add-session-permission-request-create-and-fetch-endpoints|SDK
-  Add session permission request create and fetch endpoints]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4
   Safety and Privacy changes in v1.0.68]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-edit-capability-for-selecting-permission-reading-option-for-existing-servicenow|Edit
+  capability for selecting permission reading option for existing ServiceNow…]]'
 - '[[Changes/Open WebUI/2026-07-01-3-safety-and-privacy-changes-in-v0-10-2|3 Safety
   and Privacy changes in v0.10.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

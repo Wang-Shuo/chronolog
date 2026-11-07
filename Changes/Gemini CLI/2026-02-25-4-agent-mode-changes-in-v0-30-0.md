@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84a619fe1570fbfcf6a80a4b563ebd4524ca8b78e2a82c4d052ba2d114cd13d5
+machine_hash: 93184c93ecd38e72514cd1e8df7986837a024a732ce1fc5c3bd5747a7474947b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 4 Agent Mode changes in v0.30.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-24-3-agent-mode-changes-in-v3-67-0|3 Agent Mode changes
-  in v3.67.0]]'
-- '[[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud
-  Agents with Computer Use]]'
+- '[[Changes/Notion/2026-02-24-big-news-today-custom-agents-are-finally-here-and-they-re-pretty-different-from|Big
+  news today: Custom Agents are finally here!]]'
+- '[[Changes/Notion/2026-02-24-build-agents-for-every-workflow|Build agents for every
+  workflow]]'
 - '[[Changes/Codex CLI/2026-02-25-18-agent-mode-changes-in-rust-v0-105-0|18 Agent
   Mode changes in rust-v0.105.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'

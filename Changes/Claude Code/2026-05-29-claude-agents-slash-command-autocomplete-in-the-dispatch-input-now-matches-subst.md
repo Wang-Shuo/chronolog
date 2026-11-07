@@ -4,20 +4,20 @@ date: '2026-05-29'
 description: 'Claude Code · 2026-05-29 · Interface Experience: `claude agents`: slash-command
   autocomplete in the dispatch input now matches substrings'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1236
+  lag_days: 2602
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a228d54c13620d3cdef8a0c89ffeba5f536f958867814fe63a5beb64007cffe
+machine_hash: 1f50048db95ac58973c86fe8fc01028a72f0972c440810f8df2146484fb06823
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
     substrings'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface
-  Experience changes in v2.1.153]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-7-interface-experience-changes-in-v1-0-55|7
   Interface Experience changes in v1.0.55]]'
+- '[[Changes/Kimi Code/2026-05-28-show-file-content-and-diff-in-write-and-edit-approval-prompts-and-open-them-in-a|Show
+  file content and diff in Write and Edit approval prompts, and open them…]]'
 - '[[Changes/OpenCode/2026-05-28-terminal-kept-session-navigation-working-while-prompt-modes-are-open|Terminal
   Kept session navigation working while prompt modes are open]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

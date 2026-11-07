@@ -5,20 +5,20 @@ description: 'Gemini · 2024-02-21 · Enterprise and Administration: What: Avail
   today, the new Gemini Business and Gemini Enterprise plans give Google Workspace
   customers…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 292
+  lag_days: 1499
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c655cd03ee4115fb421ad078176e4d6d46f14bf511eadd3c7cf1287bb369e28f
+machine_hash: 30144d34487ef9651f12fca99cfca536ab97fdd87df6b5cab9698e936918becf
 product: gemini
 product_name: Gemini
 record:
@@ -61,8 +61,12 @@ record:
     in Gemini
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google
-  Workspace accounts]]'
+- '[[Changes/Synthesia/2023-08-29-say-hello-to-our-two-newest-enterprise-avatars-lorenzo-and-carly|New
+  Avatars: Lorenzo & Carly]]'
+- '[[Changes/Descript/2024-01-10-drive-admins-for-enterprise-plans|Drive Admins for
+  Enterprise Plans]]'
+- '[[Changes/Descript/2024-01-22-new-default-project-location-settings-for-enterprise-admins|New
+  Default Project Location settings for Enterprise Admins]]'
 source_release: '[[Releases/Gemini/gemini-2024-02-21-2024-02-21-1639548e|gemini-2024-02-21-2024-02-21-1639548e]]'
 source_type: gemini_changelog
 theme: enterprise-admin
@@ -92,14 +96,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earlier: 2024-01-22 · Descript · [[Changes/Descript/2024-01-22-new-default-project-location-settings-for-enterprise-admins|New Default Project Location settings for Enterprise Admins]]
 - Later: 2024-02-26 · Runway · [[Changes/Runway/2024-02-26-editors-within-an-enterprise-workspace-can-now-create-new-teamspaces-for-collabo|Editors can create teamspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

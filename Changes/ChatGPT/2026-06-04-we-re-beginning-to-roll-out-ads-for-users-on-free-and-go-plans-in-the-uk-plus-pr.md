@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'ChatGPT · 2026-06-04 · Enterprise and Administration: We''re beginning
   to roll out ads for users on Free and Go plans in the UK. Plus, Pro, Business…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1126
+  lag_days: 2333
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 520700af5428d9ae7e8a8fdfd3628db3c91ae1df5059ff9e3613c1b01b3d9c06
+machine_hash: b22a1b8a92b954fdcc204c06d1a13ebbb748df098b23a3a7184ddd2967b0f161
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +43,8 @@ record:
   title: Rolling out ads in the UK
   type: change
 related_changes:
-- '[[Changes/Claude/2026-06-02-enterprise-plans-can-manage-admin-permissions-with-custom-roles|Enterprise
-  plans can manage admin permissions with custom roles]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-organizational-messages-now-supports-email-messages-web-microsoft-365-admin-cent|Organizational
+  Messages now supports Email messages Web (Microsoft 365 admin center)]]'
 - '[[Changes/Cursor/2026-06-03-admins-can-move-users-between-teams-through-the-dashboard-api-or-csv|Admins
   can move users between teams through the dashboard, API, or CSV]]'
 - '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]'
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

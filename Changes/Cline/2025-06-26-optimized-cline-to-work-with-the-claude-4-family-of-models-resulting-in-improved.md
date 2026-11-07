@@ -4,20 +4,20 @@ date: '2025-06-26'
 description: 'Cline · 2025-06-26 · Reliability and Performance: Optimized Cline to
   work with the Claude 4 family of models, resulting in improved performance, reliability…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 924
+  lag_days: 2411
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4da29998e42f56f269659fb7284c83cc0e1a43dbf7285ee836715d0132166757
+machine_hash: 61c8e225ff9a2a96f1ebfc1fa3cd423def59e08d53f600d38113f11c2bd28638
 product: cline
 product_name: Cline
 record:
@@ -91,13 +91,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-06-24 · OpenHands · [[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled users to provide feedback on agent performance even when the agent…]]
-- Later: 2025-06-26 · Manus · [[Changes/Manus/2025-06-26-we-now-offer-two-specialized-modes-for-all-manus-paid-subscribers-choose-between|Introducing Agent preference]]
+- Later: 2025-06-26 · Descript · [[Changes/Descript/2025-06-26-the-new-timeline-turned-on-for-all-users-if-you-need-extra-time-to-get-up-to-spe|The new timeline turned on for all users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

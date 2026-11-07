@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 58b870c41b676298d63c4790cf2004a8d499e48b9db69745664329c2cfe22568
+machine_hash: 27c2b36339399f76f5b6fc3855e87b1a84e6f414622375012627c2600888a621
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: UI/UX fixes with minimax model family
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-12-core-tool-outputs-are-now-more-llm-friendly|Core
-  Tool outputs are now more LLM-friendly]]'
 - '[[Changes/OpenCode/2026-02-12-allow-model-configurations-without-npm-api-provider-details|Allow
   model configurations without npm/api provider details]]'
+- '[[Changes/Z.ai API/2026-02-12-it-directly-benchmarks-against-claude-opus-4-5-in-code-logic-density-and-systems|It
+  directly benchmarks against Claude Opus 4.5 in code-logic density…]]'
 - '[[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring
   GPT-4o and other legacy models]]'
 source_release: '[[Releases/Cline/cline-2026-02-13-v3-61-0-github-286203694-385f06f9|cline-2026-02-13-v3-61-0-github-286203694-385f06f9]]'

@@ -5,20 +5,20 @@ description: 'Suno · 2026-07-31 · Music Generation: Create cover art for your 
   by iterating on images with text. Drop an image into Suno and tweak using a text
   prompt…'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 951
+  lag_days: 2417
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5565296c39480b7e356a91b4d82fd3650eca6ef2eb14edd3897f6f4af7d17811
+machine_hash: 017d31e6eeba2cdd5fe909ae57595af59a364e74541dc38a9e1a1769bdc8bfd0
 product: suno
 product_name: Suno
 record:
@@ -49,12 +49,12 @@ record:
   title: Songs that look as good as they sound
   type: change
 related_changes:
-- '[[Changes/Suno/2026-07-15-record-using-your-voice-or-type-in-your-song-lyrics-using-your-keyboard|Record
-  using your voice or type in your song lyrics using your keyboard]]'
 - '[[Changes/Suno/2026-07-15-suno-now-lives-in-your-imessage-keyboard-ios-users-can-create-and-send-songs-and|Suno
   now lives in your iMessage keyboard. iOS users can create and send songs…]]'
 - '[[Changes/Suno/2026-07-20-drag-the-new-duration-slider-in-the-create-form-to-pick-your-song-length|Duration
   Slider on Web]]'
+- '[[Changes/HeyGen/2026-07-23-result-one-prompt-produces-a-complete-video-presenter-b-roll-captions-music-and|Result:
+  One prompt produces a complete video: presenter, B-roll, captions, music…]]'
 source_release: '[[Releases/Suno/suno-2026-07-31-e-cover-art-improvements-a3c3f5d0|suno-2026-07-31-e-cover-art-improvements-a3c3f5d0]]'
 source_type: suno_changelog
 theme: music-generation
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Music Generation
 
-- Earlier: 2026-07-20 · Suno · [[Changes/Suno/2026-07-20-drag-the-new-duration-slider-in-the-create-form-to-pick-your-song-length|Duration Slider on Web]]
+- Earlier: 2026-07-23 · HeyGen · [[Changes/HeyGen/2026-07-23-result-one-prompt-produces-a-complete-video-presenter-b-roll-captions-music-and|Result: One prompt produces a complete video: presenter, B-roll, captions, music…]]
 - Later: 2026-08-07 · Suno · [[Changes/Suno/2026-08-07-we-brought-voices-to-both-ios-and-android-record-your-voice-once-and-use-it-on-a|We brought Voices to both iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

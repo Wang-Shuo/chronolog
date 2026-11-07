@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6ef0f100bc24a8f175fcd720b2fa098d44194c37414c3dbfbc4455f696ed324
+machine_hash: cc443074ab471721966895768cb1d0d49c14cddf2f979f579788914b126193ab
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -82,7 +82,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.39.0
 ## Nearby in Agent Mode
 
 - Earlier: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-feat-core-only-summarize-long-tool-output-for-shell-command-by-sandytao520-in-ht|feat(core): Only summarize long tool output for shell command]]
-- Later: 2025-09-19 · Replit · [[Changes/Replit/2025-09-19-autonomy-level-control-for-agent|Autonomy level control for Agent]]
+- Later: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-make-it-cute-no-really|Make it cute (no, really)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

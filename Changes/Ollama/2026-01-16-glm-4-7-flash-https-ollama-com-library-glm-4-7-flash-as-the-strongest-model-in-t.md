@@ -4,20 +4,20 @@ date: '2026-01-16'
 description: 'Ollama · 2026-01-16 · Reliability and Performance: [GLM-4.7-Flash](https://ollama.com/library/glm-4.7-flash):
   As the strongest model in the 30B class…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1128
+  lag_days: 2615
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7b86d1bd2f225e8289cc1c855dbe4fb7b6c1bf6e9fa64faa2e3c842b938369a7
+machine_hash: 6256c7409df127ff9b43441bdaa5165ef0048ca0f185081594f6f9c71d1c6d95
 product: ollama
 product_name: Ollama
 record:
@@ -57,10 +57,10 @@ record:
     model…'
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-14-improved-front-end-performance-across-the-application|Improved
-  front-end performance across the application]]'
 - '[[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2
   Reliability and Performance changes in v1.13.8]]'
+- '[[Changes/Z.ai API/2026-01-14-the-update-significantly-enhances-performance-in-knowledge-intensive-scenarios-w|The
+  update significantly enhances performance in knowledge-intensive scenarios…]]'
 - '[[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing
   and UX]]'
 source_release: '[[Releases/Ollama/ollama-2026-01-16-v0-14-3-github-277461374-7553d9fc|ollama-2026-01-16-v0-14-3-github-277461374-7553d9fc]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

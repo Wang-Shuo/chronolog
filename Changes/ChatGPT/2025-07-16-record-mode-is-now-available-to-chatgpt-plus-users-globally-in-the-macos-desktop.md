@@ -4,20 +4,20 @@ date: '2025-07-16'
 description: 'ChatGPT · 2025-07-16 · Mobile and Desktop: Record mode is now available
   to ChatGPT Plus users globally in the macOS desktop app.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 855
+  lag_days: 2439
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 8a3956ac7a4d35d87f6d371c6d0a68cf963f7c986b17fa7846a45c056a2974b6
+machine_hash: 6bb65ce883d82fe475917249c3ac072ba07e483bc5ac576a890f16a5b56f1cc7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
     desktop app
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-10-thanks-to-pchuri-so-that-when-running-codex-installed-via-npm-process-platform-a|Thanks
-  to @pchuri so that when running Codex installed via npm…]]'
 - '[[Changes/Gemini CLI/2025-07-11-don-t-enforce-leading-slash-since-that-s-not-true-on-windows-by-scidomino-in-htt|Don''t
   enforce leading slash since that''s not true on Windows]]'
 - "[[Changes/Open WebUI/2025-07-14-seamless-iphone-image-uploads-effortlessly-upload-photos-from-iphones-and-other|\U0001F4F7
   Seamless iPhone Image Uploads]]"
+- '[[Changes/Descript/2025-07-15-new-in-labs-upload-from-mobile|New in Labs—Upload
+  from Mobile]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-seamless-iphone-image-uploads-effortlessly-upload-photos-from-iphones-and-other|📷 Seamless iPhone Image Uploads]]
+- Earlier: 2025-07-15 · Descript · [[Changes/Descript/2025-07-15-new-in-labs-upload-from-mobile|New in Labs—Upload from Mobile]]
 - Later: 2025-07-18 · Ollama · [[Changes/Ollama/2025-07-18-ollama-s-new-app-is-available-for-macos-and-windows-download-ollama-https-ollama|Ollama's new app is available for macOS and Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

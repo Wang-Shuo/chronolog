@@ -5,19 +5,20 @@ description: "Open WebUI · 2024-11-19 · Collaboration: 2 changes in v0.4.0 —
   Redesigned Collaborative Workspace**: Enhanced support for multiple users contributing
   to…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 545
+  lag_days: 2139
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11bdf85a96798cda6ba9863e408abcf295adc9bb62fa92b35dc9b61e510ffcbb
+machine_hash: d376547099f74fcbd70a66428e502b109f36d926a7da6e44540f74b680298bd1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -102,7 +103,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.4.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

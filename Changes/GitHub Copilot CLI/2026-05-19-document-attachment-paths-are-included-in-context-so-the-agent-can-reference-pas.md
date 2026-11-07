@@ -4,20 +4,20 @@ date: '2026-05-19'
 description: 'GitHub Copilot CLI · 2026-05-19 · Context Window: Document attachment
   paths are included in context so the agent can reference pasted file paths, including…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1111
+  lag_days: 2435
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 975a51627982b84837cf6c9dec57d6c156fd19320412e4b5080760b08601f57f
+machine_hash: 72c4bc8bec64b719eea19fce2202e7a48642a769a19003e2819bbe990313fe64
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -101,13 +101,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The post-survey follow-up hint now appears after every non-dismiss survey response…]]
-- Later: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-customizable-status-line-in-the-terminal-footer-displays-session-info-such-as-mo|Customizable status line in the terminal footer displays session info such as model…]]
+- Later: 2026-05-19 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-19-implicit-grounding-in-outlook-microsoft-365-copilot-chat-windows-web-microsoft-3|Implicit Grounding in Outlook Microsoft 365 Copilot Chat Windows…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

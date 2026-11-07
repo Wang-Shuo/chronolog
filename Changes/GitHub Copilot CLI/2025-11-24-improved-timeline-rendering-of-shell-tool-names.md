@@ -4,20 +4,20 @@ date: '2025-11-24'
 description: 'GitHub Copilot CLI · 2025-11-24 · Interface Experience: Improved timeline
   rendering of shell tool names'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1050
+  lag_days: 2416
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4505080a9493334d710d8e77ccf3f92317a40a2cabeb9ed335034776177c5ae2
+machine_hash: 83ccf457f4d3f5f02771b447e3e4b13d2fb32ad26ddcb1b6f89f946e2f698630
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved timeline rendering of shell tool names
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-20-bug-ui-make-it-clear-when-users-need-to-enter-selection-mode-and-fix-clear-issue|bug(ui)
-  make it clear when users need to enter selection mode and fix clear issue]]'
 - '[[Changes/Midjourney/2025-11-20-animate-manually-button-bumps-you-back-to-prompt-bar|Animate
   manually button bumps you back to prompt bar]]'
 - '[[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set
   origin allowlist from dashboard to restrict browser tools]]'
+- '[[Changes/Descript/2025-11-21-improved-loading-state-for-translation|Improved loading
+  state for translation]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb|github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set origin allowlist from dashboard to restrict browser tools]]
+- Earlier: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-improved-loading-state-for-translation|Improved loading state for translation]]
 - Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-5-interface-experience-changes-in-v0-6-37|5 Interface Experience changes in v0.6.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

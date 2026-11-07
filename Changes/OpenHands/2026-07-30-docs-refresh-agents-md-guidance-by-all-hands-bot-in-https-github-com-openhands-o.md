@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f27515ba896eae9e5bb2e69e8ca6301a27b3e1c69f0a1defb3d4ff85cf189db
+machine_hash: 113763ec23e443b80485cf80e97a75dd2bf69e1e6195f3c00ef1088d48ad102f
 product: openhands
 product_name: OpenHands
 record:
@@ -41,11 +41,12 @@ record:
   title: 'docs: refresh AGENTS.md guidance'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-inbox|Inbox]]'
 - '[[Changes/OpenHands/2026-07-29-feat-always-show-the-llm-selector-move-agent-profile-switching-to-the-tools-menu|feat:
   always show the LLM selector; move agent-profile switching to the tools menu]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76|2 Agent
   Mode changes in v1.0.76]]'
+- '[[Changes/Kimi Code/2026-07-30-2-agent-mode-changes-in-kimi-code-0-31-0|2 Agent
+  Mode changes in Kimi Code 0.31.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-30-v1-7-1-github-362177474-2dd5aceb|openhands-2026-07-30-v1-7-1-github-362177474-2dd5aceb]]'
 source_type: github_releases
 theme: agent-mode
@@ -72,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76|2 Agent Mode changes in v1.0.76]]
+- Earlier: 2026-07-30 · Kimi Code · [[Changes/Kimi Code/2026-07-30-2-agent-mode-changes-in-kimi-code-0-31-0|2 Agent Mode changes in Kimi Code 0.31.0]]
 - Later: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-reduced-typing-lag-while-the-agent-streams-responses|Reduced typing lag while the agent streams responses]]
 <!-- chronolog:end -->
 

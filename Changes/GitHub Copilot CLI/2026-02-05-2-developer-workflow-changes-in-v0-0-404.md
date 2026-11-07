@@ -4,19 +4,20 @@ date: '2026-02-05'
 description: 'GitHub Copilot CLI · 2026-02-05 · Developer Workflow: 2 changes in 0.0.404
   — Add `/tasks` command to view and manage background tasks'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1055
+  lag_days: 2704
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 144e2109806732501b9c72c2d120458f43c69b187f56a1f05b79e71be1d6a056
+machine_hash: b6160cb775add1d7bbf472e9a12292e4043586df068a561a664fc33257e625c3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.404
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

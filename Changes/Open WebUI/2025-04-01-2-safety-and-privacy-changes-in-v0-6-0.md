@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-01 · Safety and Privacy: 2 changes in v0.6.
   \U0001F30D **Public Resource Sharing Permission Controls**: Fine-grained user group
   permissions now…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 716
+  lag_days: 1708
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ea944c1b09881efae21f068aeab8a53123ca68ef6c3a5b60f519db64b58f1ee
+machine_hash: 846309aaab54e10bc3db6677b0ab9266c40391b9b2ef4994b023cd659e02c583
 product: open-webui
 product_name: Open WebUI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

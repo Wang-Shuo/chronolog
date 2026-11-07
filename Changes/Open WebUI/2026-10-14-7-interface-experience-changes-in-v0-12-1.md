@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-14 · Interface Experience: 7 changes in v0.
   — \U0001FAAA **Profile cards from profile pictures.** Clicking the picture of the
   person who wrote…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1374
+  lag_days: 2740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a08a32776ee1ad5a52e30002343d5ff83c90e56682e5df2c51085035a46162d
+machine_hash: acc934b9cc6755e5ba59005ff1ea2f380e3e9021ae0fe2a729a9e9fcf754c7f4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -75,10 +75,10 @@ record:
   title: 7 Interface Experience changes in v0.12.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-added-effort-and-fast-in-agent-view-to-set-what-new-sessions-start-with-a-bare-m|Added
-  /effort and /fast in agent view to set what new sessions start with]]'
 - '[[Changes/Claude Code/2026-10-14-vscode-improved-startup-the-model-picker-and-slash-command-menu-now-fill-in-righ|VSCode
   Improved startup]]'
+- '[[Changes/Kimi Code/2026-10-14-add-sticky-user-message-summaries-in-fullscreen-mode-when-a-user-message-scrolls|Add
+  sticky user message summaries in fullscreen mode]]'
 - '[[Changes/Lovable/2026-10-14-restore-a-deleted-project-yourself|Restore a deleted
   project yourself]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'
@@ -144,7 +144,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

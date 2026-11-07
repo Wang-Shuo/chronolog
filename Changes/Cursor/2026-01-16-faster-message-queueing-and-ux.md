@@ -4,20 +4,20 @@ date: '2026-01-16'
 description: 'Cursor · 2026-01-16 · Reliability and Performance: Faster message queueing
   and UX.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1128
+  lag_days: 2615
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f1edf7625f64724e1e4e8fef3ffd697486d177ad391a3686f707f8df3046cfca
+machine_hash: 00337cfd2a909fdb4d4fb53cab207321b8b003aeec87e7d0575b3afdf188c756
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Faster message queueing and UX
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-14-improved-chat-performance-and-responsiveness|Improved chat
-  performance and responsiveness]]'
 - '[[Changes/v0/2026-01-14-improved-front-end-performance-across-the-application|Improved
   front-end performance across the application]]'
 - '[[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2
   Reliability and Performance changes in v1.13.8]]'
+- '[[Changes/Z.ai API/2026-01-14-the-update-significantly-enhances-performance-in-knowledge-intensive-scenarios-w|The
+  update significantly enhances performance in knowledge-intensive scenarios…]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

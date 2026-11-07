@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-19 · Video Generation: Shared helpers consoli
   repeated implementation, including preparation and resource handoff for image, music,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 975
+  lag_days: 2159
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0cfeb078c19ee36d9de0667bbfb47770782b495cd31ab1d454df0f77d919555b
+machine_hash: 5060acdfeedae60185c84f72ca0c9256ea48fa57e3ba175abab96020be045847
 product: openclaw
 product_name: OpenClaw
 record:
@@ -52,8 +52,8 @@ record:
   title: Shared helpers consolidate repeated implementation, including preparation…
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-24-wan-3-0-is-now-available-in-runway-in-tool-mode-and-workflows-generate-near-stat|Wan
-  3.0]]'
+- '[[Changes/Synthesia/2026-09-03-reassign-create-and-rename-speakers-in-a-dubbed-video-with-one-click-available-o|Adjust
+  speaker attribution for dubbed videos]]'
 - '[[Changes/Runway/2026-09-08-runway-now-runs-in-a-panel-inside-adobe-premiere-pro-and-after-effects-generate|Introducing
   Runway Plugins for Adobe]]'
 - '[[Changes/Runway/2026-09-17-runway-is-now-available-as-a-plugin-in-grok-bot-sign-in-with-your-runway-account|Runway
@@ -113,13 +113,13 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2026-09-17 · Runway · [[Changes/Runway/2026-09-17-runway-is-now-available-as-a-plugin-in-grok-bot-sign-in-with-your-runway-account|Runway MCP for Grok Bot]]
-- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-2-video-generation-changes-in-v2026-9-7|2 Video Generation changes in v2026.9.7]]
+- Later: 2026-09-23 · Synthesia · [[Changes/Synthesia/2026-09-23-create-an-on-brand-synthesia-video-without-leaving-chatgpt-or-claude-describe-wh|Create videos from ChatGPT and Claude with Synthesia MCP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

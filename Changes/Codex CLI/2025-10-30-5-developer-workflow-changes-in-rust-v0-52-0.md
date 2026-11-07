@@ -4,19 +4,20 @@ date: '2025-10-30'
 description: 'Codex CLI · 2025-10-30 · Developer Workflow: 5 changes in 0.52.0 — feat:
   async ghost commit in https://github.com/openai/codex/pull/5618'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 957
+  lag_days: 2606
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0af8be9d7f3e95f84b23118f4d4da3f245e3882c5ace5466e02acd316db0efc0
+machine_hash: 43657a071cc13226cabfd9f80bd5470ce72ce6e1ba580e8f7eecede57d3650f2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -107,7 +108,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.52.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

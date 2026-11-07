@@ -4,20 +4,19 @@ date: '2024-01-19'
 description: 'Dify · 2024-01-19 · Editor Experience: add feature request copilot by
   @guchenhe in https://github.com/langgenius/dify/pull/2095'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 311
+  lag_days: 1895
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4b74115fea17c6a34fcf84e3c0302ecd499ea572538ce737eed21fe2e1863f7
+machine_hash: 494d7704e5162b577619887c01b48b2e37177b5ba4e26c68bab50c9c0ac36470
 product: dify
 product_name: Dify
 record:
@@ -80,13 +79,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-01-18 · Cursor · [[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat lints: If the AI suggests a code change in chat that involves a made up code…]]
-- Later: 2024-01-23 · Aider · [[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience changes in v0.22.0]]
+- Later: 2024-01-22 · Descript · [[Changes/Descript/2024-01-22-other-editor-changes|Other Editor Changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

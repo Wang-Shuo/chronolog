@@ -4,20 +4,20 @@ date: '2026-02-11'
 description: 'Codex CLI · 2026-02-11 · Mobile and Desktop: 4 changes in 0.99.0 — #10729
   fix(tui): flush input buffer on init to prevent early exit on Windows @Ashutosh0x'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1065
+  lag_days: 2649
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 918d0981f2962db862754e3022ab6fdf16d2b6858200e626adba2fe905440110
+machine_hash: c30e7e90388d5e6fffe4e86167ddd7ae2656f8f726a2d6f806b4e9407440f982
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,7 +47,8 @@ record:
   title: 4 Mobile and Desktop changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-09-new-endpoints|New Endpoints]]'
+- '[[Changes/Descript/2026-02-10-view-and-play-your-projects-on-mobile|View and play
+  your projects on mobile]]'
 - '[[Changes/OpenCode/2026-02-10-2-mobile-and-desktop-changes-in-v1-1-56-1|2 Mobile
   and Desktop changes in v1.1.56 + 1]]'
 - '[[Changes/OpenCode/2026-02-10-38-mobile-and-desktop-changes-in-v1-1-54|38 Mobile
@@ -109,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

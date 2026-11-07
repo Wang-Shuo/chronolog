@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-04-23 · Interface Experience: 3 changes in v2
   — Added `CLAUDE_CODE_HIDE_CWD` environment variable to hide the working directory
   in the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1200
+  lag_days: 2566
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d66523425ec6e2e7a47147a47facb20db09127c6a46c7385e01e3fba9892d6c4
+machine_hash: b1b7ad82e1e1f57b71468bb11ac39eae406038e6619c1e244837bd246ff239f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

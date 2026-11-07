@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-07-14 · Reliability and Performance: 3 change
   v2.1.208 — Improved input responsiveness while agent task lists update — task updates
   no…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1307
+  lag_days: 2794
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 22f874c8aa42d083d699fc14b7ae29a86ed1be957351f6a3f7897e8005fd66e1
+machine_hash: 4303c6a823a1bb137dbb52ec4c6254dbf696809dec2bd4aba8dc661e73315439
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Lovable · 2026-09-11 · Enterprise and Administration: Workspace 
   and owners on Enterprise plans that use SCIM can now [lock workspace membership
   to their…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1225
+  lag_days: 2432
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 42783b57784356bdcc7bd0b7355c46019a8ac44df3b9259bfb57e61885fae068
+machine_hash: 7480187a905e315481aace2a020827b6d6c6a64fb273d9f830937af512a37c77
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Lock workspace membership to your identity provider
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-ordinary-model-changes-now-apply-to-the-current-chat-by-default-including-admini|Ordinary
-  model changes now apply to the current chat by default, including…]]'
+- '[[Changes/Notion/2026-09-09-what-s-on-your-team-s-model-roster-that-s-up-to-you-with-model-controls-workspac|Control
+  which AI models your agents can use]]'
 - '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box,
   Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]'
 - '[[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: eaad0adecd1ab4767531699616a334323500ee4e6cef24d1d17cf4bd15f474e9
+machine_hash: e143f6082be6feabff7781820056c73402b4e94020736cdf5a457d682b4cf63a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,10 +50,10 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel|PowerShell
-  apply_patch parsing is corrected, and apply_patch tests now cover…]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-03-add-infer-property-to-control-custom-agent-tool-visibility|Add
   infer property to control custom agent tool visibility]]'
+- '[[Changes/Notion/2025-12-03-notion-agent-can-now-build-beautiful-forms-in-seconds|Agent
+  can build forms]]'
 - '[[Changes/Replit/2025-12-05-build-full-stack-mobile-apps-with-agent|Build full-stack
   mobile apps with Agent]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-12-08-2025-12-08-7be8ac95|elevenlabs-2025-12-08-2025-12-08-7be8ac95]]'

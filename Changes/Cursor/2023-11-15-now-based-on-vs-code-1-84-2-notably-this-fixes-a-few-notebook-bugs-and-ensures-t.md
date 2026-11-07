@@ -4,20 +4,20 @@ date: '2023-11-15'
 description: 'Cursor · 2023-11-15 · Apps and Integrations: Now based on VS Code 1.84.2.
   Notably, this fixes a few notebook bugs, and ensures that all of the most recent…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 237
+  lag_days: 1797
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b9d7f9e50d36cd02146f9338c784e7ec459d0d742a46c9e455df081f77ec87c
+machine_hash: ad1dbe923e2626d686dfc73bcf879365dc12f26fc668f977753e47a08745592d
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,9 @@ record:
   title: New upstream
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor
-  is now based on VS Code 1.83.1]]'
 - '[[Changes/ChatGPT/2023-11-06-you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn-5c0997|Introducing
   GPTs]]'
+- '[[Changes/Notion/2023-11-07-new-siem-dlp-integrations|New SIEM & DLP integrations]]'
 - '[[Changes/Dify/2023-11-13-2-apps-and-integrations-changes-in-0-3-30|2 Apps and
   Integrations changes in 0.3.30]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-15-0-15-6-nightly-https-cursor-com-changelog-0-15-6-nightly-04afac60|cursor-2023-11-15-0-15-6-nightly-https-cursor-com-changelog-0-15-6-nightly-04afac60]]'
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

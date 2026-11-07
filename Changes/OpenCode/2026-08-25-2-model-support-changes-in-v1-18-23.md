@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c082058cb5f458976eefdedfc23295293635286241f23f5d09d4890a9d296ece
+machine_hash: 87e067bd447d42269d57e437a0a9480405f20e95c7cb7534641a76382b7b9b65
 product: opencode
 product_name: OpenCode
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Model Support changes in v1.18.23
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-24-chat-latest-for-your-app-s-ai-features|Chat Latest
-  for your app''s AI features]]'
-- '[[Changes/Dify/2026-08-25-93-model-support-changes-in-1-17-0|93 Model Support changes
-  in 1.17.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-select-models-when-using-researcher-in-copilot-chat-windows-web-microsoft-365-co|Select
+  models when using Researcher in Copilot Chat Windows…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-enable-sonnet-5-in-models-menu-web-word|Enable
+  Sonnet 5 in models menu Web (Word)]]'
 - '[[Changes/Open WebUI/2026-08-25-56-model-support-changes-in-v0-11-1|56 Model Support
   changes in v0.11.1]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-25-v1-18-23-ef9d8cd6|opencode-2026-08-25-v1-18-23-ef9d8cd6]]'

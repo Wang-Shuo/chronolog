@@ -4,20 +4,20 @@ date: '2026-08-26'
 description: 'Lovable · 2026-08-26 · Search and Browsing: In the [page selector](https://docs.lovable.dev/features/projects/preview.md)
   above the preview, hover the preview…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1252
+  lag_days: 2281
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ad66eb8b8145b003a59e19d72a5bd590ad9d404b9d6930b5d5487a8b89de2ba8
+machine_hash: 9733860ef71a66cacfed48cd43c41fdf7883fbe7852d922fa5bc2e3807195aa0
 product: lovable
 product_name: Lovable
 record:
@@ -58,10 +58,10 @@ record:
   title: See how each app page appears in search results and link previews
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-20-core-enabled-web-search-when-using-the-opencode-go-provider|Core
-  Enabled web search when using the OpenCode Go provider]]'
-- '[[Changes/OpenCode/2026-08-21-desktop-keep-file-search-results-visible-while-the-next-search-is-loading|Desktop
-  Keep file search results visible while the next search is loading]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-copilot-chat-available-when-using-copilot-search-windows-web-microsoft-365-copil|Copilot
+  Chat available when using Copilot Search Windows, Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-open-outlook-emails-within-copilot-chat-windows-mac-web-microsoft-365-copilot|Open
+  Outlook emails within Copilot Chat Windows, Mac, Web (Microsoft 365 Copilot)]]'
 - '[[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search
   and Browsing changes in v0.11.1]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-26-2026-08-26-bad08262|lovable-2026-08-26-2026-08-26-bad08262]]'
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

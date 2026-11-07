@@ -4,19 +4,20 @@ date: '2026-06-12'
 description: 'OpenCode · 2026-06-12 · Developer Workflow: Core Snapshot creation now
   reuses source Git objects to avoid long re-hashing delays on huge repos.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1182
+  lag_days: 2831
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 799b771326080722dad50e96cbee3dd0e819d3e27a6d8edde58690e07694c4d3
+machine_hash: 802f870243e8491472bd46b5ed303dba01be9da68c3dfe16360e43a51f756f32
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +45,12 @@ record:
     delays…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-6-developer-workflow-changes-in-v1-0-61|6
-  Developer Workflow changes in v1.0.61]]'
-- '[[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer
-  Workflow changes in v2.1.172]]'
 - '[[Changes/OpenCode/2026-06-10-6-developer-workflow-changes-in-v1-17-0|6 Developer
   Workflow changes in v1.17.0]]'
+- '[[Changes/Kimi Code/2026-06-12-stream-foreground-bash-stdout-and-stderr-while-commands-are-still-running|Stream
+  foreground Bash stdout and stderr while commands are still running]]'
+- '[[Changes/Kimi Code/2026-06-12-cancel-active-turns-during-session-shutdown-so-foreground-shell-commands-do-not|Cancel
+  active turns during session shutdown so foreground shell commands do not…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-12-v1-17-4-8588f84b|opencode-2026-06-12-v1-17-4-8588f84b]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -83,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-6-developer-workflow-changes-in-v1-17-0|6 Developer Workflow changes in v1.17.0]]
+- Earlier: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-cancel-active-turns-during-session-shutdown-so-foreground-shell-commands-do-not|Cancel active turns during session shutdown so foreground shell commands do not…]]
 - Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6 Developer Workflow changes in v1.0.62]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

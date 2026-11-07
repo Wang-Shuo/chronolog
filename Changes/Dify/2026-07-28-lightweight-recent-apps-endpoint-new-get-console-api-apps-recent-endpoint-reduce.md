@@ -4,20 +4,20 @@ date: '2026-07-28'
 description: 'Dify · 2026-07-28 · Reliability and Performance: **Lightweight recent
   apps endpoint** — New `GET /console/api/apps/recent` endpoint reduces the home page…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1321
+  lag_days: 2808
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 45cfc3abe6693f119f9dc1165105a70ac884875d335cda21363a37a9a32a73d9
+machine_hash: feaa473ac460040efc131715112727bc5237b91b7053ad105c6bb89ef9c4b531
 product: dify
 product_name: Dify
 record:
@@ -48,8 +48,8 @@ record:
   title: '**Lightweight recent apps endpoint**'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3
-  Reliability and Performance changes in rust-v0.145.0]]'
+- '[[Changes/Kimi Code/2026-07-22-improve-tui-performance-and-resume-speed-for-long-running-sessions|Improve
+  TUI performance and resume speed for long-running sessions]]'
 - '[[Changes/Ollama/2026-07-23-expanded-gpu-support-with-cuda-on-windows-arm64-b200-support-through-cuda-12-and|Expanded
   GPU support with CUDA on Windows ARM64, B200 support through CUDA 12…]]'
 - '[[Changes/Open WebUI/2026-07-27-12-reliability-and-performance-changes-in-v0-11-0|12
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

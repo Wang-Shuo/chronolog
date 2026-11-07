@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-02-25 · Reliability and Performance: 2 changes
   Release v0.30.0 — Revert "fix(mcp): ensure MCP transport is closed to prevent memory
   leaks"…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1168
+  lag_days: 2655
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c6d17eea97c266502c5c14172e7a7b6dfabfd33e5ed164cbc961e7f675455e4
+machine_hash: 860a144d03699bf0c6e3876c21b0afa8bcf1b81c8c76c3d291accade726e309c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.30.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

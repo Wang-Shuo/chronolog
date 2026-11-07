@@ -5,20 +5,19 @@ description: 'Google Antigravity · 2026-08-07 · Editor Experience: 2 changes i
   v2.6.0 — Faster long conversations, more reliable hooks and subagents — Images and
   videos…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1242
+  lag_days: 2826
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8cb38afe0d1692d131d1d282ba3dc10e894c9fdd69595696f53cad28b4f7551a
+machine_hash: 342d9d5c47a4745a6845a50fad5b25758a784a627e0d53411d0f2e308b1dab6b
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,10 +45,9 @@ record:
   title: 2 Editor Experience changes in HUB v2.6.0 — Faster long conversations…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed
-  emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]]'
 - '[[Changes/Ollama/2026-08-04-tui-fixes-pipe-delimited-prose-no-longer-renders-as-a-table-enter-accepts-the-hi|TUI
   fixes: pipe-delimited prose no longer renders as a table, Enter accepts…]]'
+- '[[Changes/Descript/2026-08-05-editor|Editor]]'
 - '[[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps):
   bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-07-rel-hub-2-6-0-1cc55d28|google-antigravity-2026-08-07-rel-hub-2-6-0-1cc55d28]]'
@@ -93,13 +91,13 @@ Source: https://antigravity.google/releases?tab=hub&version=2.6.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps): bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]
-- Later: 2026-08-07 · Runway · [[Changes/Runway/2026-08-07-leave-feedback-directly-on-an-image-or-video-with-the-new-comments-tab-pin-comme|Comments on Assets]]
+- Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-proofread-version-clarity|Proofread version clarity]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-03-02'
 description: 'Open WebUI · 2026-03-02 · Editor Experience: ⚡ **ChatControls reactivity
   fix.** Fixed a Svelte reactivity issue where the active tab state in the ChatControls…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1084
+  lag_days: 2668
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c87d92a56cf72bfab5818c1f06ae03b2498561628dbe3aade72c70c72aacf10
+machine_hash: fa90582f855ca5ef1c513d997eb785913009bc0bf44131201c175193b4d33ae7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +44,11 @@ record:
     the active…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit
-  messages with images]]'
-- '[[Changes/Gemini CLI/2026-02-27-feat-cli-include-dir-add-directories-in-autocomplete-suggestions-by-jasmeetsb-in|feat(cli):
-  include /dir add directories in @ autocomplete suggestions]]'
 - '[[Changes/Codex CLI/2026-03-02-3-editor-experience-changes-in-rust-v0-107-0|3 Editor
   Experience changes in rust-v0.107.0]]'
+- '[[Changes/Descript/2026-03-02-more-predictable-layout-behavior|More predictable
+  layout behavior]]'
+- '[[Changes/Descript/2026-03-02-editor|Editor]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-02-v0-8-8-github-292312215-9d692419|open-webui-2026-03-02-v0-8-8-github-292312215-9d692419]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-3-editor-experience-changes-in-rust-v0-107-0|3 Editor Experience changes in rust-v0.107.0]]
+- Earlier: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-editor|Editor]]
 - Later: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-prevent-chinese-filename-escaping-in-diff-view|Prevent Chinese filename escaping in diff view]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

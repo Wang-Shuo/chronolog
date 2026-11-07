@@ -4,19 +4,20 @@ date: '2026-04-15'
 description: 'Claude Code · 2026-04-15 · Developer Workflow: Bash tool now enforces
   the documented maximum timeout instead of accepting arbitrarily large values'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1124
+  lag_days: 2773
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 086de3af45f6295fd45b4eae7cb14c8ac34362a126c39e95357050bd49a284f3
+machine_hash: 2b545b1082cbe016628a4b640d2bd97789a3b180adf4f254739fde7db48f0b5a
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +44,12 @@ record:
   title: Bash tool now enforces the documented maximum timeout instead of accepting…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer
-  Workflow changes in 04.14.26]]'
 - '[[Changes/Gemini CLI/2026-04-14-4-developer-workflow-changes-in-v0-38-0|4 Developer
   Workflow changes in v0.38.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-14-lsp-language-servers-correctly-initialize-on-windows-using-proper-file-uri-paths|LSP
   language servers correctly initialize on Windows using proper file URI paths]]'
+- '[[Changes/Notion/2026-04-14-your-notion-agent-has-new-skills-integrations-and-you-can-talk-to-it|Your
+  Notion Agent has new Skills, integrations … and you can talk to it!]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-14-lsp-language-servers-correctly-initialize-on-windows-using-proper-file-uri-paths|LSP language servers correctly initialize on Windows using proper file URI paths]]
+- Earlier: 2026-04-14 · Notion · [[Changes/Notion/2026-04-14-your-notion-agent-has-new-skills-integrations-and-you-can-talk-to-it|Your Notion Agent has new Skills, integrations … and you can talk to it!]]
 - Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-4-developer-workflow-changes-in-rust-v0-121-0|4 Developer Workflow changes in rust-v0.121.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

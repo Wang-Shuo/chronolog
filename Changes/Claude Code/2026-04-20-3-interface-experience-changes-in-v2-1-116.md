@@ -4,20 +4,20 @@ date: '2026-04-20'
 description: 'Claude Code · 2026-04-20 · Interface Experience: 3 changes in v2.1.116
   — Smoother fullscreen scrolling in VS Code, Cursor, and Windsurf terminals…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1197
+  lag_days: 2563
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3f8ada46769991ef84b12efe84c1a8580fb00994f111e1ed7914bdfd75935c9
+machine_hash: e72a82a496eef370ebcec9c61b422366ae2a3364c5d26b8d91f12fe1c2577ab1
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

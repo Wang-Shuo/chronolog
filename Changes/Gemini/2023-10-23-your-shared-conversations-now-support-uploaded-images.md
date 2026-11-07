@@ -4,19 +4,20 @@ date: '2023-10-23'
 description: 'Gemini · 2023-10-23 · Collaboration: What: When you share a conversation
   that has an image as part of the prompt, the image will now also be visible.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 152
+  lag_days: 1746
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ce71bc61fc252128bc0ebf8ef8e1fd5b1efa1ca320266862fa2d9a8fbc58f0f0
+machine_hash: 18788b6ef0fffebed96c7e9ef318eca48c1ce4bc04e9e47f72d056433bb8ca33
 product: gemini
 product_name: Gemini
 record:
@@ -50,8 +51,8 @@ record:
   title: Your shared conversations now support uploaded images
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-07-13-share-your-bard-conversations-with-others|Share your
-  Bard conversations with others]]'
+- '[[Changes/Synthesia/2023-09-13-all-enterprise-accounts-can-now-invite-guests-to-synthesia-for-seamless-collabor|Introducing
+  Guest Roles]]'
 - '[[Changes/Gemini/2023-09-19-build-off-of-conversations-shared-with-you|Build off
   of conversations shared with you]]'
 - '[[Changes/Dify/2023-10-10-application-share-qrcode-by-charli117-in-https-github-com-langgenius-dify-pull-1|Application
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

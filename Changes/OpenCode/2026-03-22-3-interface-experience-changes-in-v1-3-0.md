@@ -4,20 +4,20 @@ date: '2026-03-22'
 description: 'OpenCode · 2026-03-22 · Interface Experience: 3 changes in v1.3.0 —
   Desktop App Improvements Workspace Switching : Fixed visual flickering when switching…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1168
+  lag_days: 2534
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 23f6e1e4f7a7142031a3e57b8e2656b3796ae21a08d93f979a7820886d367dcd
+machine_hash: 03134939dacedd8a2488a0af026dc911635d0dbc95c525c5ace26147fda5a69a
 product: opencode
 product_name: OpenCode
 record:
@@ -50,8 +50,8 @@ record:
   title: 3 Interface Experience changes in v1.3.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2
-  Interface Experience changes in rust-v0.116.0]]'
+- '[[Changes/Notion/2026-03-20-custom-skills-let-you-turn-any-repetitive-ai-task-into-an-easily-accessible-comm|Custom
+  skills for Notion AI]]'
 - '[[Changes/v0/2026-03-20-improved-git-sync-workflow-with-simplified-pr-menu|Improved
   git sync workflow with simplified PR menu]]'
 - '[[Changes/v0/2026-03-20-added-element-screenshot-attachment-for-design-mode-element-selection|Added
@@ -107,7 +107,7 @@ Source: https://opencode.ai/changelog/v1.3.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

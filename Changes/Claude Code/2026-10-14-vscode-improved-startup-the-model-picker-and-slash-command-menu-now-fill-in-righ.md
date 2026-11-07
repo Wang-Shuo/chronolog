@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-14 · Interface Experience: [VSCode] Improv
   the model picker and slash command menu now fill in right away in a new window on
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1374
+  lag_days: 2740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 215772479b46e96dd572ca3e19d250e131a4fb62126226d43f8885fec58c9699
+machine_hash: 1bf9186684978fd393a39bc69cf28543d97784713f6ad3e73c2b73a8c3eaba1f
 product: claude-code
 product_name: Claude Code
 record:
@@ -103,13 +103,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed exit to force-kill background commands still running 1.5 seconds after being…]]
-- Later: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-restore-a-deleted-project-yourself|Restore a deleted project yourself]]
+- Later: 2026-10-14 · Kimi Code · [[Changes/Kimi Code/2026-10-14-add-sticky-user-message-summaries-in-fullscreen-mode-when-a-user-message-scrolls|Add sticky user message summaries in fullscreen mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

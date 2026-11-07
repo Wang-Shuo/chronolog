@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-06-05 · Developer Workflow: 11 changes
   1.0.60 — Screen no longer stays blank after waking from sleep inside a terminal
   multiplexer'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2824
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cdda370e2503b880dc303977f0e7b7beb0f18ff4b65df199c420a5a0cbcc788e
+machine_hash: 5642f7d07bdb3d47c83a8c92fe2eb2f32a685d40027d52f4bc836b31fea6e13c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -67,12 +68,12 @@ record:
   title: 11 Developer Workflow changes in v1.0.60
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools:
-  explicitly listing Grep/Glob now provides the dedicated search tools…]]'
 - '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills:
   added \$ escape syntax to include a literal $ before a digit in command bodies]]'
 - '[[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6
   Developer Workflow changes in rust-v0.137.0]]'
+- '[[Changes/Kimi Code/2026-06-04-3-developer-workflow-changes-in-kimi-code-0-10-0|3
+  Developer Workflow changes in Kimi Code 0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
 source_type: github_releases
 theme: developer-workflow
@@ -135,14 +136,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6 Developer Workflow changes in rust-v0.137.0]]
-- Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-core-terminal-themes-now-refresh-after-live-terminal-reloads-without-stale-color|Core Terminal themes now refresh after live terminal reloads without stale colors…]]
+- Earlier: 2026-06-04 · Kimi Code · [[Changes/Kimi Code/2026-06-04-3-developer-workflow-changes-in-kimi-code-0-10-0|3 Developer Workflow changes in Kimi Code 0.10.0]]
+- Later: 2026-06-05 · Kimi Code · [[Changes/Kimi Code/2026-06-05-show-unknown-command-instead-of-too-many-arguments-when-an-invalid-subcommand-is|Show "unknown command" instead of "too many arguments" when an invalid subcommand…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

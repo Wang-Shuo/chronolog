@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-03-30 · Interface Experience: 2 change
   1.0.13 — Reduce CPU usage during streaming by optimizing spinner rendering and task
   polling'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1176
+  lag_days: 2542
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff3eb89aa849ada41670743233f10193f9daabfbf853e5649c083c7174900cd2
+machine_hash: a6afe496ae35055acb2d4acbeeff551779c2411936fd9a191cd0a7e734c2510b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
-  /skills menu to sort alphabetically for easier scanning]]'
 - '[[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface
   Experience changes in 1.13.3]]'
+- '[[Changes/Notion/2026-03-27-archived-pages-have-a-banner-showing-who-archived-them-and-when-and-they-re-hidd|Archived
+  pages have a banner showing who archived them and when, and they’re hidden…]]'
 - '[[Changes/OpenCode/2026-03-29-2-interface-experience-changes-in-v1-3-6-2|2 Interface
   Experience changes in v1.3.6 + 2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.13
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

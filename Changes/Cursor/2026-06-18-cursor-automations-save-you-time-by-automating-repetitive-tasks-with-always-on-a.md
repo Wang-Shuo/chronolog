@@ -5,20 +5,20 @@ description: 'Cursor · 2026-06-18 · Automation and Scheduling: Cursor Automati
   save you time by automating repetitive tasks with always-on agents. This release
   introduces…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 898
+  lag_days: 2465
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 92aa248426d1e2f047660236a7ac9b5b01c2bd7169226e14ecd19a99ec4d4173
+machine_hash: a17a67b3a6414e2cce9c738cd9c0b4c0f7c0cf4eb4dc80357ab8568c8b912842
 product: cursor
 product_name: Cursor
 record:
@@ -59,7 +59,8 @@ record:
     agents
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]]'
+- '[[Changes/Kimi Code/2026-06-17-restore-the-turn-counter-from-persisted-loop-events-on-resume-so-post-resume-tur|Restore
+  the turn counter from persisted loop events on resume so post-resume turns…]]'
 - '[[Changes/Cursor/2026-06-18-computer-use-tool-for-automations|Computer use tool
   for automations]]'
 - '[[Changes/Cursor/2026-06-18-new-github-triggers|New GitHub triggers]]'
@@ -97,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]]
+- Earlier: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-restore-the-turn-counter-from-persisted-loop-events-on-resume-so-post-resume-tur|Restore the turn counter from persisted loop events on resume so post-resume turns…]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-26496-make-auto-review-on-request-prompt-more-proactive-maja-openai|♯26496 Make auto-review on-request prompt more proactive @maja-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

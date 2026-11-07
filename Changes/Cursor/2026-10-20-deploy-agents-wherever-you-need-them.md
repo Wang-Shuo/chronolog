@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e3a9d9a54149d3f937f48390b4e558b253c481e7ddf34ff479c4b93c5ab3d8cb
+machine_hash: fcd5d065f499cd03dcab51c154495eac2d9b736ff2e2badeb04645c9e92a6a58
 product: cursor
 product_name: Cursor
 record:
@@ -50,8 +50,8 @@ record:
   title: Deploy agents wherever you need them
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-2-agent-mode-changes-in-v1-0-100|2 Agent
-  Mode changes in v1.0.100]]'
+- '[[Changes/Notion/2026-10-19-connect-your-chatgpt-plus-pro-or-go-plan-to-your-personal-notion-agent|Connect
+  your ChatGPT Plus, Pro, or Go plan to your personal Notion Agent]]'
 - '[[Changes/OpenHands/2026-10-19-3-agent-mode-changes-in-v1-28-0|3 Agent Mode changes
   in v1.28.0]]'
 - '[[Changes/OpenHands/2026-10-19-chore-bump-agent-server-to-1-56-0-by-all-hands-bot-in-https-github-com-openhands|chore:

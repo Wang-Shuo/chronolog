@@ -4,20 +4,20 @@ date: '2026-10-30'
 description: 'Claude Code · 2026-10-30 · Mobile and Desktop: 2 changes in v2.1.314
   — Updated the `/claude-api` skill: its Datadog setup for API tracing now sends the…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1326
+  lag_days: 2910
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c39a249cd2afc67bb8bcab82e864056ff5910e77c8e80b38f4c62087e2c12335
+machine_hash: f41ec082accc9bc6aa151b6ddf662ea0533fb541eb27fca6bdbbabea5f2db3bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

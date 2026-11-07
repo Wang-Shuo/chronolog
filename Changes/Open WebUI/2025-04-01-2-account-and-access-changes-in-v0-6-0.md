@@ -4,20 +4,21 @@ date: '2025-04-01'
 description: 'Open WebUI · 2025-04-01 · Account and Access: 2 changes in v0.6.0 —
   ✅ **LDAP Auth Config Fix**: Path to certificate file is now optional for LDAP setups…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 733
+  lag_days: 1708
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0e23e3624a3f0be5140bb26351e0f35c6c339818846054a2e6885b30cae7a60
+machine_hash: cf84b794f68a7d182c4300da35ff788aa79a92de48fe2755c0e493532cd80504
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +46,10 @@ record:
   title: 2 Account and Access changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-03-05-2-account-and-access-changes-in-v0-5-19|2 Account
-  and Access changes in v0.5.19]]'
 - '[[Changes/Dify/2025-03-11-update-login-py-by-albcunha-in-https-github-com-langgenius-dify-pull-15320|Update
   login.py]]'
+- "[[Changes/Notion/2025-03-26-sign-in-quickly-and-securely|Sign in quickly and securely
+  \U0001F4A8]]"
 - '[[Changes/Aider/2025-03-31-2-account-and-access-changes-in-v0-80-0|2 Account and
   Access changes in v0.80.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0|open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0]]'
@@ -100,7 +101,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

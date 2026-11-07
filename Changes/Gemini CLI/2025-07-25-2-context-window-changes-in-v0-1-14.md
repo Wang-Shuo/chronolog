@@ -4,20 +4,20 @@ date: '2025-07-25'
 description: 'Gemini CLI · 2025-07-25 · Context Window: 2 changes in Release v0.1.14
   — bug(ux): update context percentage when /clear command is run by @nsalerni in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 813
+  lag_days: 2137
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 46bc38a884826b22d35cce9d5986cee55d36db77065e66b08efd8d0f59188dda
+machine_hash: 7d88dc9bb2c2fa974fda546938e5e533045b5c3e1f47f7550e2fa8db72b139a1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

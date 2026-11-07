@@ -4,20 +4,19 @@ date: '2026-03-03'
 description: 'OpenCode · 2026-03-03 · Editor Experience: 2 changes in v1.2.16 — Desktop
   Mute inactive file tab icons'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1085
+  lag_days: 2669
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bcca6c9f27f397ac29855ed38f877ed2fd3c3e680c01216893a22c02dceebc29
+machine_hash: f4e0953e318ffa9a257364dcbf3c49730ee251a87d15fe4db2af01adafdc9e4a
 product: opencode
 product_name: OpenCode
 record:
@@ -97,7 +96,7 @@ Source: https://opencode.ai/changelog/v1.2.16
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

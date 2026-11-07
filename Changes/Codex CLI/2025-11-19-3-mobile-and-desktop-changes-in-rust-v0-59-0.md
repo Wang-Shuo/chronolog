@@ -4,20 +4,20 @@ date: '2025-11-19'
 description: 'Codex CLI · 2025-11-19 · Mobile and Desktop: 3 changes in 0.59.0 — tmp:
   drop sccache for windows 2 (#6775) — @jif'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 981
+  lag_days: 2565
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a719c57d8c4f0c8214df6a888bf5e18dac845eb2907c677657302ab053771f8
+machine_hash: f53813b2ec9a6526a8cc0b55f79befbfc01beee492fbcd6bab9ed5b403441b5b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.59.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

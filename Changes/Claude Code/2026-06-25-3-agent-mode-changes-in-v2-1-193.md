@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a1e8a9ed8d65bcdc189a545cc33f02d764fc2bdb672f2a36d9fddfd9c47cd98
+machine_hash: 7003e704da9cd35ad16f1ca757f02c6019a4e7ff6a4d3179bed58c7f9962b8df
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Agent Mode changes in v2.1.193
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-22-new-entries-in-the-sensitive-paths-list-vscode-and-cache-are-now-recognized-as-s|New
-  entries in the sensitive paths list]]'
+- '[[Changes/Kimi Code/2026-06-22-allow-long-running-foreground-commands-and-subagents-to-be-moved-into-background|Allow
+  long-running foreground commands and subagents to be moved into background…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-6-agent-mode-changes-in-v1-0-64|6 Agent
   Mode changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-4-agent-mode-changes-in-v1-0-65|4 Agent

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 55411e8475920b0fbcf1237e649dd5a125074f2d8b1bc678160eebc2460d74f9
+machine_hash: b037f668da124cca00866f70ceab99c1c14f4c00b1e9af05841d9222cd83320d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     API spend…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-93-model-support-changes-in-1-17-0|93 Model Support changes
-  in 1.17.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-enable-sonnet-5-in-models-menu-web-word|Enable
+  Sonnet 5 in models menu Web (Word)]]'
 - '[[Changes/Open WebUI/2026-08-25-56-model-support-changes-in-v0-11-1|56 Model Support
   changes in v0.11.1]]'
 - '[[Changes/OpenCode/2026-08-25-2-model-support-changes-in-v1-18-23|2 Model Support

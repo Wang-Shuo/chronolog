@@ -4,19 +4,20 @@ date: '2026-03-06'
 description: 'GitHub Copilot CLI · 2026-03-06 · Developer Workflow: 2 changes in 1.0.2
   — Type ''exit'' as a bare command to close the CLI'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1084
+  lag_days: 2733
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 36c1a64a9db5adde08e34d5e7f59e0e8c7008c5a46da0e686d111d85a116267c
+machine_hash: 2ffb38e3276d90144aa556c3f643ad1cc62d76873b527a7cd3ba1e6614ce4255
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

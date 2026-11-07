@@ -5,20 +5,21 @@ description: "Open WebUI · 2025-10-07 · Account and Access: 10 changes in v0.6
   — \U0001F517 OpenAI connections now support custom HTTP headers, enabling users
   to configure…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 922
+  lag_days: 1897
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 082d41611eca1de878cfe9ad0b7437a848830df67da4a2a32a49abf032f1bc50
+machine_hash: 17ae266236561b10657424f0a4fd082656d9e0f2fe54a3f30924ca279feac4c1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -157,7 +158,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.33
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

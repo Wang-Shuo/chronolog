@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d849c78decbc7174590e3141a69c19c6258a391b395bf3031757a615cff7a0dd
+machine_hash: b6c0e06e855e4cad862d7bfe3b8e37752c92aca93fd174727354fb6cfac18ab7
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: Subagent stream retry delay increased to reduce noise from transient failures
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved
-  reliability for longer-running agent sessions]]'
 - '[[Changes/Gemini CLI/2026-03-03-3-agent-mode-changes-in-v0-32-0|3 Agent Mode changes
   in v0.32.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-shell-command-output-on-windows-no-longer-renders-as-no-changes-detected-in-the|Shell
   command output on Windows no longer renders as "No changes detected" in the timeline]]'
+- '[[Changes/Notion/2026-03-03-custom-agents-now-support-minimax-m2-5-an-open-weight-model-that-s-up-to-10x-mor|Run
+  Custom Agents for less with MiniMax M2.5]]'
 source_release: '[[Releases/Cline/cline-2026-03-04-v3-70-0-github-293184978-91bc11b0|cline-2026-03-04-v3-70-0-github-293184978-91bc11b0]]'
 source_type: github_releases
 theme: agent-mode
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-shell-command-output-on-windows-no-longer-renders-as-no-changes-detected-in-the|Shell command output on Windows no longer renders as "No changes detected" in the timeline]]
+- Earlier: 2026-03-03 · Notion · [[Changes/Notion/2026-03-03-custom-agents-now-support-minimax-m2-5-an-open-weight-model-that-s-up-to-10x-mor|Run Custom Agents for less with MiniMax M2.5]]
 - Later: 2026-03-04 · Cursor · [[Changes/Cursor/2026-03-04-cursor-is-now-available-in-intellij-idea-pycharm-webstorm-and-other-jetbrains-id-2dc9cd|Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…]]
 <!-- chronolog:end -->
 

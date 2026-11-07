@@ -4,20 +4,20 @@ date: '2026-07-08'
 description: 'Codex CLI · 2026-07-08 · Context Window: 12 changes in 0.143.0 — #29249
   [codex] migrate environment context to model world state @pakrym-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1161
+  lag_days: 2485
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 424795d3a86d46e21c7a0084cc427b1ada20b3f74e6a2ad6822b22172aee4965
+machine_hash: 55ca296ab408aabdc492a730562b8dc08eeab3cf76a4ae779a1a2cce515e99a6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -143,7 +143,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

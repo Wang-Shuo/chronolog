@@ -3,20 +3,20 @@ card_id: replit-2026-08-07-c1c5fd
 date: '2026-08-07'
 description: 'Replit · 2026-08-07 · Enterprise and Administration: Teams and Enterprise'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1190
+  lag_days: 2397
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: be4c7df58a591bc38d524f630ce02857c813338869231851e033c98de0281558
+machine_hash: 2426f5def71860af908569342695349270ec7b668c29b257336dbb95aa19bb80
 product: replit
 product_name: Replit
 record:
@@ -49,9 +49,8 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Replit/2026-07-31-stay-signed-in-longer|Stay signed in longer]]'
-- '[[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting
-  today for ChatGPT Enterprise and Education users, long pastes are handled…]]'
+- '[[Changes/HeyGen/2026-08-07-why-it-matters|Why it matters]]'
+- '[[Changes/HeyGen/2026-08-07-why-it-matters-991e65|Why it matters]]'
 - '[[Changes/Lovable/2026-08-07-unlimited-email-invites-on-paid-plans|Unlimited email
   invites on paid plans]]'
 source_release: '[[Releases/Replit/replit-2026-08-07-2026-08-07-d8d80b64|replit-2026-08-07-2026-08-07-d8d80b64]]'
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

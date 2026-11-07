@@ -4,20 +4,20 @@ date: '2026-03-24'
 description: 'Gemini CLI · 2026-03-24 · Files and Data: docs: document npm deprecation
   warnings as safe to ignore by @h30s in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1034
+  lag_days: 2379
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: f5bbc162d749e8762f2b957875c7214d03f8d7a363199d425e24a77503b67919
+machine_hash: 1c4aea544df95c1f36bad004582d00b0000ad78c1d021a309c75818c92227aff
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 'docs: document npm deprecation warnings as safe to ignore'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-09-document-gh-host-http-proxy-https-proxy-no-color-and-no-proxy-environment-variab|Document
-  GH_HOST, HTTP_PROXY, HTTPS_PROXY, NO_COLOR, and NO_PROXY environment…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-summarize-and-explain-pdfs-with-copilot-in-microsoft-edge-web-microsoft-365-copi|Summarize
+  and explain PDFs with Copilot in Microsoft Edge…]]'
 - '[[Changes/Dify/2026-03-17-16-files-and-data-changes-in-1-13-1|16 Files and Data
   changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-docs-document-planning-workflows-with-conductor-example-by-jerop-in-https-github|docs:
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

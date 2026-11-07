@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 28ceb4fd77f60dc1fbce256730c85ae32941692662f742e21f44697b42f85f62
+machine_hash: d8ffa52820f0ab1167a89c9fb59cbd5eb956a2a7f50d0aa175127981fbf89f14
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Shell tool calls succeed even when the model omits the `description` parameter
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-05-19-gemini-responses-are-now-even-richer-more-dynamic-and-interactive|Gemini
-  responses are now even richer, more dynamic, and interactive]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-19-2-model-support-changes-in-v1-0-49|2 Model
-  Support changes in v1.0.49]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-openai-s-gpt-5-5-thinking-available-in-copilot-chat-android-windows-ios-mac-web|OpenAI''s
+  GPT 5.5 Thinking available in Copilot Chat Android, Windows, iOS, Mac…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-openai-s-gpt-5-5-instant-available-in-copilot-chat-android-windows-ios-mac-web-m|OpenAI''s
+  GPT‑5.5 Instant available in Copilot Chat Android, Windows, iOS, Mac…]]'
 - '[[Changes/Codex CLI/2026-05-20-23069-multiagent-trim-model-visible-description-cap-to-5-models-sayan-oai|♯23069
   multiagent: trim model-visible description, cap to 5 models @sayan-oai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1|github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1]]'

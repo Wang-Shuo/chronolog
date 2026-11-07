@@ -3,19 +3,20 @@ card_id: chatgpt-2023-05-24-9617fc
 date: '2023-05-24'
 description: 'ChatGPT · 2023-05-24 · Collaboration: Shared Links'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1594
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 241c0b3cf391969f0ca3519e2152ebb977195a4c99abb3cd97f4e6f674fa8ce8
+machine_hash: c5ddea0ca1b646ab188d6c0a790886d5f74cfbeb46bfa33423f3151568be9d7d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -40,6 +41,12 @@ record:
   theme_resolution: manual-semantic-rule-v1
   title: Shared Links
   type: change
+related_changes:
+- '[[Changes/Descript/2023-02-21-auto-published-quick-recordings-quick-recordings-are-now-automatically-published|Auto-published
+  Quick Recordings]]'
+- '[[Changes/Descript/2023-03-06-for-quick-recordings-the-copy-link-and-open-share-page-functionality-have-been-m|For
+  quick recordings, the copy link and open share page functionality have been…]]'
+- '[[Changes/Notion/2023-03-23-new-page-icons|New page icons]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -70,13 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Later: 2023-07-13 · Gemini · [[Changes/Gemini/2023-07-13-share-your-bard-conversations-with-others|Share your Bard conversations with others]]
+- Earlier: 2023-03-23 · Notion · [[Changes/Notion/2023-03-23-new-page-icons|New page icons]]
+- Later: 2023-05-31 · Notion · [[Changes/Notion/2023-05-31-import-projects-from-asana|Import projects from Asana]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

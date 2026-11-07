@@ -4,20 +4,20 @@ date: '2025-08-18'
 description: 'Gemini CLI · 2025-08-18 · Context Window: 5 changes in Release v0.1.22
   — /chat save command saves empty conversations with only system context by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 837
+  lag_days: 2161
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec80628d68009b41b427ec4753be378a14264cfc9d434b89e70b3c51798d8061
+machine_hash: 7f2e5f6fa9d55aba4fcbe98b01f9e4474ae34f0019320e0f5740db6be005b129
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.22
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

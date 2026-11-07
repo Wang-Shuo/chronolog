@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: de1f5e4abfcc2c74e42069b0387a617d33b6fc36a3ec1145f01c21356b6a45c4
+machine_hash: a10cbeeb70a931be778513ffdcd07041f17eb275e30050e8cf0ed857018a0463
 product: opencode
 product_name: OpenCode
 record:
@@ -43,11 +43,12 @@ record:
   title: 2 Agent Mode changes in v1.1.28
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-19-agents-platform-97d485|Agents Platform]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-mcp-server-management-when-swapping-between-custom-agents-with-agent|MCP
   server management when swapping between custom agents with /agent]]'
 - '[[Changes/OpenCode/2026-01-19-core-restore-persisted-model-and-agent-when-loading-acp-session|Core
   Restore persisted model and agent when loading ACP session]]'
+- '[[Changes/Notion/2026-01-20-your-agent-fits-in-your-pocket|Your Agent fits in your
+  pocket]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-20-v1-1-28-e6ef553d|opencode-2026-01-20-v1-1-28-e6ef553d]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -86,7 +87,7 @@ Source: https://opencode.ai/changelog/v1.1.28
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-core-restore-persisted-model-and-agent-when-loading-acp-session|Core Restore persisted model and agent when loading ACP session]]
+- Earlier: 2026-01-20 · Notion · [[Changes/Notion/2026-01-20-your-agent-fits-in-your-pocket|Your Agent fits in your pocket]]
 - Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-2-agent-mode-changes-in-rust-v0-88-0|2 Agent Mode changes in rust-v0.88.0]]
 <!-- chronolog:end -->
 

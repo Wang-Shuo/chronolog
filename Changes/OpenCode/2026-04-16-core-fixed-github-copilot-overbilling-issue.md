@@ -4,20 +4,19 @@ date: '2026-04-16'
 description: 'OpenCode · 2026-04-16 · Editor Experience: Core Fixed Github Copilot
   overbilling issue'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1129
+  lag_days: 2713
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a0d50f8a4310a9d236ae5fe7b415be6f3efefcfd2ae829a149ac04fd4c55d61
+machine_hash: 2bd5146a13bb57b1318364d6ce427aca33a052344177cfe7df02b81cc5d39994
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +41,7 @@ record:
   title: Core Fixed Github Copilot overbilling issue
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript
-  view footer now shows  (dump to scrollback) and v (open in editor)…]]'
+- '[[Changes/Descript/2026-04-16-underlord-https-help-descript-com-hc-en-us-articles-36803785502221-underlord-bet|Underlord…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A
   clear error message is displayed when the configured editor cannot be launched]]'
 - '[[Changes/Ollama/2026-04-16-hermes-and-github-copilot-cli-in-ollama-launch-added-both-integrations-which-can|Hermes
@@ -90,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

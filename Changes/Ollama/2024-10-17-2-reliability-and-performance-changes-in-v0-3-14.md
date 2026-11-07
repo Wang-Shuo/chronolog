@@ -5,20 +5,20 @@ description: 'Ollama · 2024-10-17 · Reliability and Performance: 2 changes in 
   — [Granite 3 MoE](https://ollama.com/library/granite3-moe): The IBM Granite 1B and
   3B…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 672
+  lag_days: 2159
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93f8bc6153e899bfd4bb9c1c9e2f468f65fe995325471936338fdf5cd03d37bd
+machine_hash: a0fe5a75838a30171457daa552ce08629b66654b1c7a0d8c666620c3e5532367
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Reliability and Performance changes in v0.3.14
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-10-07-2-reliability-and-performance-changes-in-v0-3-31|2
-  Reliability and Performance changes in v0.3.31]]'
 - '[[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability
   and Performance changes in v2.0.0]]'
+- '[[Changes/Descript/2024-10-10-improved-ui-responsiveness-when-in-a-room-with-only-1-participant|Improved
+  UI responsiveness when in a Room with only 1 participant]]'
 - '[[Changes/Dify/2024-10-14-2-reliability-and-performance-changes-in-0-9-2|2 Reliability
   and Performance changes in 0.9.2]]'
 source_release: '[[Releases/Ollama/ollama-2024-10-17-v0-3-14-github-180539218-dcf2c3f9|ollama-2024-10-17-v0-3-14-github-180539218-dcf2c3f9]]'
@@ -91,7 +91,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.3.14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

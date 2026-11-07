@@ -4,19 +4,20 @@ date: '2026-08-07'
 description: 'Codex CLI · 2026-08-07 · Collaboration: 10 changes in 0.147.0 — #35769
   Share the skills budget across host and executor catalogs @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1171
+  lag_days: 2765
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 64d8129baa19d0f7a9da4fe6a9cea3ea864e0311a14f3d4e5d16af4425bbe044
+machine_hash: efe296d529f086a041b72f1eb2857b61fb9b6f1b57c89e9ed2a74a07467a18c5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,10 +58,10 @@ record:
   title: 10 Collaboration changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-3-collaboration-changes-in-rust-v0-146-0|3 Collaboration
-  changes in rust-v0.146.0]]'
-- '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
-  between teams that you belong to directly in the app]]'
+- '[[Changes/HeyGen/2026-07-29-two-ai-hosts-share-a-real-studio-scene-reacting-to-each-other-rather-than-appear|Two
+  AI hosts share a real studio scene, reacting to each other rather than appearing…]]'
+- '[[Changes/Notion/2026-07-31-turn-feedback-into-tickets-for-your-engineering-team|Turn
+  feedback into tickets for your engineering team]]'
 - '[[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop
   the two bundles of the combined rollout package from invalidating each other''s…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2|codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2]]'
@@ -126,13 +127,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-02 · Cline · [[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop the two bundles of the combined rollout package from invalidating each other's…]]
-- Later: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The initial experience includes My Drive and files and folders shared directly with you]]
+- Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-admins-can-choose-whether-new-avatars-are-public-or-private-by-default-when-avat|Admins can choose whether new avatars are public or private by default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

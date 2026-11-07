@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ab77d3384236f89ac76d1a3a910a33432a2bfc2bf04f0187f768918f2596f330
+machine_hash: 8cb417ea5ba8d4dc6f243282de910ec91a779b20fc1e2c778b0aa91a746d0af4
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
   title: Desktop Keep the prompt input agent toggle in sync
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-23-3-agent-mode-changes-in-v1-0-74|3 Agent
-  Mode changes in v1.0.74]]'
 - '[[Changes/Runway/2026-07-23-agent-can-now-build-and-run-entire-workflows-for-you-just-describe-what-you-want|Agent
   Workflows]]'
 - '[[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode
   changes in v2.1.219]]'
+- '[[Changes/Kimi Code/2026-07-24-add-experimental-secondary-model-bindings-for-newly-spawned-subagents-including|Add
+  experimental secondary-model bindings for newly spawned subagents, including…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-24-v1-18-5-afa44289|opencode-2026-07-24-v1-18-5-afa44289]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode changes in v2.1.219]]
+- Earlier: 2026-07-24 · Kimi Code · [[Changes/Kimi Code/2026-07-24-add-experimental-secondary-model-bindings-for-newly-spawned-subagents-including|Add experimental secondary-model bindings for newly spawned subagents, including…]]
 - Later: 2026-07-27 · ElevenLabs · [[Changes/ElevenLabs/2026-07-27-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 

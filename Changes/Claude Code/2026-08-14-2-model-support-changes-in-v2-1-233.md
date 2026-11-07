@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e64b2801e6b7a42702474b657dd88c791b9d115fd7885dd3dbe9b5412b950d37
+machine_hash: d84deac95d0181ffcf5a9fb7bd2e12c35a7dbcedca4e6a2d7f5609e36a473834
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,7 +46,8 @@ record:
   title: 2 Model Support changes in v2.1.233
   type: change
 related_changes:
-- '[[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]'
+- '[[Changes/Kimi Code/2026-08-13-set-kimi-code-experimental-secondary-model-1-or-the-master-flag-kimi-code-experi|Set
+  KIMI_CODE_EXPERIMENTAL_SECONDARY_MODEL=1…]]'
 - '[[Changes/Lovable/2026-08-13-image-editing-with-openai-models-for-your-app-s-ai-features|Image
   editing with OpenAI models for your app''s AI features]]'
 - '[[Changes/OpenCode/2026-08-13-core-fix-xhigh-reasoning-effort-for-xai-models|Core

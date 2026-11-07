@@ -4,20 +4,20 @@ date: '2026-07-29'
 description: 'OpenHands · 2026-07-29 · Automation and Scheduling: chore: bump software-agent-sdk
   to 1.38.0 and automation to 1.4.1 by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 939
+  lag_days: 2506
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c89cc681993bca7a11581f715bee83ef2eedcedd2d017151245179884c30560e
+machine_hash: a95de28c9b651f8eba9db5c3ce031b4af33e5854e2413a2143c8cf3251ff615e
 product: openhands
 product_name: OpenHands
 record:
@@ -54,10 +54,10 @@ record:
   title: 'chore: bump software-agent-sdk to 1.38.0 and automation to 1.4.1'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation
-  and Scheduling changes in 1.16.0]]'
-- '[[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage):
-  implement main worker execution loop and egress action publisher]]'
+- '[[Changes/Kimi Code/2026-07-22-remove-references-to-the-non-existent-kimi-resume-command-from-the-scheduled-tas|Remove
+  references to the non-existent kimi resume command from the scheduled-task…]]'
+- '[[Changes/Notion/2026-07-24-notion-workers-run-custom-code-on-notion-s-infrastructure-to-sync-data-power-too|Notion
+  Workers run custom code on Notion''s infrastructure to sync data, power tools…]]'
 - '[[Changes/Open WebUI/2026-07-27-9-automation-and-scheduling-changes-in-v0-11-0|9
   Automation and Scheduling changes in v0.11.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c|openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

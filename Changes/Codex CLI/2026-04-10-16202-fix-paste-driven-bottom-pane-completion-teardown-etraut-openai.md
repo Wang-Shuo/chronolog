@@ -4,20 +4,19 @@ date: '2026-04-10'
 description: 'Codex CLI · 2026-04-10 · Editor Experience: #16202 Fix paste-driven
   bottom pane completion teardown @etraut-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1123
+  lag_days: 2707
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e0a96c4a9f7a9d67be08becf5b4e16b177ba3d85c09f17ae0b1d7a4aa22dad76
+machine_hash: 0bfd81f941d28e6be31c3366e5f8ee61fed60a7ec18edc6c66298f953c7b5cea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

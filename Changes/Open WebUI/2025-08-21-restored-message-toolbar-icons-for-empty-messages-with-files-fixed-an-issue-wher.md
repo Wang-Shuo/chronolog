@@ -5,20 +5,19 @@ description: "Open WebUI · 2025-08-21 · Editor Experience: \U0001F41B **Restor
   Toolbar Icons for Empty Messages with Files**: Fixed an issue where the edit, copy,
   and…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 891
+  lag_days: 2475
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: acca0f17dd2833bd60476e93faedb13ba228144a6d580ca6d21223246004c080
+machine_hash: 310c1f52f10eed8c6de6d7c58a539b2cc24568f636e96bad219f15bcd1be5a29
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,12 +50,11 @@ record:
   title: "\U0001F41B **Restored Message Toolbar Icons for Empty Messages with Files**"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-20-3-editor-experience-changes-in-rust-v0-23-0|3 Editor
-  Experience changes in rust-v0.23.0]]'
-- '[[Changes/Cline/2025-08-21-add-an-rpc-to-the-host-bridge-to-reveal-a-directory-in-the-ide-file-explorer-by|Add
-  an RPC to the host bridge to reveal a directory in the IDE file explorer]]'
 - '[[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full
   notebook]]'
+- '[[Changes/Descript/2025-08-21-other-editor-updates|Other editor updates]]'
+- '[[Changes/Descript/2025-08-21-new-in-editor-control-multiple-layers-at-once|New
+  in Editor—Control Multiple Layers at Once]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46|open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46]]'
 source_type: github_releases
 theme: editor-experience
@@ -99,14 +97,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full notebook]]
+- Earlier: 2025-08-21 · Descript · [[Changes/Descript/2025-08-21-new-in-editor-control-multiple-layers-at-once|New in Editor—Control Multiple Layers at Once]]
 - Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-6-editor-experience-changes-in-rust-v0-24-0|6 Editor Experience changes in rust-v0.24.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

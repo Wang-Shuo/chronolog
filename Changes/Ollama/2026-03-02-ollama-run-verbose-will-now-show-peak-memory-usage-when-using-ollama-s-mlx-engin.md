@@ -4,20 +4,20 @@ date: '2026-03-02'
 description: 'Ollama · 2026-03-02 · Reliability and Performance: `ollama run --verbose`
   will now show peak memory usage when using Ollama''s MLX engine'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1173
+  lag_days: 2660
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 984681e11bec4eae20a9fa87b70869ebd7dbc7fb6cbde765c62d81389de63ea6
+machine_hash: 0a22b07494f748c13ac4c7b4f969bb34c22d2a0a392a5e4f18f4550c9dd0fa38
 product: ollama
 product_name: Ollama
 record:
@@ -45,11 +45,10 @@ record:
     MLX engine'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-02-27-agent-performance-improvements|Agent performance improvements]]'
-- '[[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved
-  memory usage in long sessions with subagents by stripping heavy progress…]]'
 - '[[Changes/Open WebUI/2026-03-01-21-reliability-and-performance-changes-in-v0-8-6|21
   Reliability and Performance changes in v0.8.6]]'
+- '[[Changes/Descript/2026-03-02-cpu-overload-warnings|CPU overload warnings]]'
+- '[[Changes/HeyGen/2026-03-02-translate-speed|Translate (Speed)]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-02-v0-17-5-github-291735275-cda2bceb|ollama-2026-03-02-v0-17-5-github-291735275-cda2bceb]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-21-reliability-and-performance-changes-in-v0-8-6|21 Reliability and Performance changes in v0.8.6]]
+- Earlier: 2026-03-02 · HeyGen · [[Changes/HeyGen/2026-03-02-translate-speed|Translate (Speed)]]
 - Later: 2026-03-02 · Open WebUI · [[Changes/Open WebUI/2026-03-02-chatcontrols-memory-leak-the-chatcontrols-panel-no-longer-leaks-event-listeners|🧠 ChatControls memory leak. The ChatControls panel no longer leaks event…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

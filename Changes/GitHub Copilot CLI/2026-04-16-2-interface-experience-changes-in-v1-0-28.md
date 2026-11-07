@@ -4,20 +4,20 @@ date: '2026-04-16'
 description: 'GitHub Copilot CLI · 2026-04-16 · Interface Experience: 2 changes in
   1.0.28 — Rewind picker navigation simplified to arrow keys and Enter, removing the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1193
+  lag_days: 2559
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4fedb440f85ddce74a75632a5bf68711a58c8d177c7e675e3e88f64aa244815
+machine_hash: 5e0a10f202b3ccd1ae75c279dfa8a529e965296691f5037d90ecc8d2ae9d473b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,10 @@ record:
   title: 2 Interface Experience changes in v1.0.28
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-improved-the-extended-thinking-indicator-with-a-rotating-progress-hint|Improved
-  the extended-thinking indicator with a rotating progress hint]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-15-status-bar-shows-files-and-issues-hints-while-typing-and-help-hint-when-the-slas|Status
-  bar shows @files and ♯issues hints while typing, and /help hint…]]'
-- '[[Changes/Claude Code/2026-04-16-3-interface-experience-changes-in-v2-1-111|3 Interface
-  Experience changes in v2.1.111]]'
+- '[[Changes/Descript/2026-04-16-drive-media-in-the-media-sidebar|Drive media in the
+  media sidebar]]'
+- '[[Changes/Descript/2026-04-16-how-to-find-it|How to find it]]'
+- '[[Changes/Descript/2026-04-16-also-new-in-rooms|Also new in Rooms]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-16-v1-0-28-github-309609147-270e3f24|github-copilot-cli-2026-04-16-v1-0-28-github-309609147-270e3f24]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,14 +85,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.28
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-3-interface-experience-changes-in-v2-1-111|3 Interface Experience changes in v2.1.111]]
+- Earlier: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-also-new-in-rooms|Also new in Rooms]]
 - Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-3-interface-experience-changes-in-v2-1-113|3 Interface Experience changes in v2.1.113]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

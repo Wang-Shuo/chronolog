@@ -3,20 +3,20 @@ card_id: elevenlabs-2026-07-13-e321c3
 date: '2026-07-13'
 description: 'ElevenLabs · 2026-07-13 · Apps and Integrations: SDK Releases'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1208
+  lag_days: 2768
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d7c3b65753a5f5cad7052ba0248ec2ad5c4c9953efe8fb7cb1b810f40d477551
+machine_hash: 81ce1f9ebcbba99d5f3601e1a22b4f0f26f62ef758467a0391efc39217a4038a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,11 +41,12 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Replit/2026-07-10-integrations|Integrations]]'
 - '[[Changes/Claude Code/2026-07-11-2-apps-and-integrations-changes-in-v2-1-207|2
   Apps and Integrations changes in v2.1.207]]'
 - '[[Changes/Ollama/2026-07-11-2-apps-and-integrations-changes-in-v0-32-0|2 Apps and
   Integrations changes in v0.32.0]]'
+- '[[Changes/Kimi Code/2026-07-12-update-the-webbridge-install-page-link-opened-from-the-plugins-panel|Update
+  the WebBridge install page link opened from the /plugins panel]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-07-13-2026-07-13-a5dee32c|elevenlabs-2026-07-13-2026-07-13-a5dee32c]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -78,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-11 · Ollama · [[Changes/Ollama/2026-07-11-2-apps-and-integrations-changes-in-v0-32-0|2 Apps and Integrations changes in v0.32.0]]
+- Earlier: 2026-07-12 · Kimi Code · [[Changes/Kimi Code/2026-07-12-update-the-webbridge-install-page-link-opened-from-the-plugins-panel|Update the WebBridge install page link opened from the /plugins panel]]
 - Later: 2026-07-13 · Lovable · [[Changes/Lovable/2026-07-13-connect-klipy-in-one-click-no-api-key|Connect KLIPY in one click, no API key]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

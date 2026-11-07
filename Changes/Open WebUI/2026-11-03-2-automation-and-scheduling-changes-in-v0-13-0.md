@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-11-03 · Automation and Scheduling: 2 changes i
   — \U0001F310 **Browser tab for browser use and web app testing.** Open websites
   and local…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1036
+  lag_days: 2603
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28176ae3265ac9dcc33719f280146522d9da279202f56d0bbf38cdeeba2fffd1
+machine_hash: ced99f5e8d4deb53cd5d6690caae036b5de0ddbca690e9f3383491e24a863dee
 product: open-webui
 product_name: Open WebUI
 record:
@@ -120,7 +120,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.13.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

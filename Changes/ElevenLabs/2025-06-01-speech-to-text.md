@@ -4,20 +4,20 @@ date: '2025-06-01'
 description: 'ElevenLabs · 2025-06-01 · Voice and Audio: [Create transcript](https://elevenlabs.io/docs/api-reference/speech-to-text/convert)
   - Added `webhook` parameter for…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 692
+  lag_days: 2519
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e0883ba742b046ad4759fb579a4bd5e9d5c108d53b6cd753f94b856423396dd8
+machine_hash: 3605c52128f9e194290a4c3295b2553dfc2d111c8e50c905606dba9220f3496e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -78,13 +78,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-05-28 · Open WebUI · [[Changes/Open WebUI/2025-05-28-reliable-read-aloud-text-to-speech-read-aloud-now-works-seamlessly-across-messag|🔊 Reliable Read Aloud (Text-to-Speech)]]
-- Later: 2025-06-07 · ChatGPT · [[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|We're upgrading Advanced Voice in ChatGPT for paid users with significant…]]
+- Later: 2025-06-05 · Descript · [[Changes/Descript/2025-06-05-regenerate-video-beta|Regenerate video (beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-06-25'
 description: 'Dify · 2026-06-25 · Editor Experience: 3 changes in 1.15.0 — **Cleaner
   workflow editor** with collapsible panels (#37276)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1199
+  lag_days: 2783
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c3016d4eaee042c6beabe94674853ce3adbee60a44506cfa30f2d659dc461e8a
+machine_hash: 6977f25dbe7ba73802c8ded1633b08b0856c70604309823fb60e6a426f409488
 product: dify
 product_name: Dify
 record:
@@ -109,7 +108,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

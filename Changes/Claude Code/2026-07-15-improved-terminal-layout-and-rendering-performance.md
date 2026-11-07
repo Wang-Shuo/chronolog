@@ -4,20 +4,20 @@ date: '2026-07-15'
 description: 'Claude Code · 2026-07-15 · Interface Experience: Improved terminal layout
   and rendering performance'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1283
+  lag_days: 2649
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e5b4d651fcd54f933a488f95274ab468baec2ac23c6f5611e492ac0fbb7a1b4
+machine_hash: 27855e969870f76d88e1d1669be7f97cb974e29c9d8eefe9babc7037a14beda5
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,11 +50,10 @@ record:
   title: Improved terminal layout and rendering performance
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added
-  mouse-click support for multi-select menus and "Other" input rows in fullscreen
-  mode]]'
-- '[[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface
-  Experience changes in v2.1.210]]'
+- '[[Changes/Kimi Code/2026-07-14-web-add-session-export-run-export-or-pick-export-session-from-a-session-s-more-m|web:
+  Add session export: run /export or pick Export session from a session''s more…]]'
+- '[[Changes/Kimi Code/2026-07-14-preserve-goal-completion-summaries-and-show-untyped-llm-errors-without-an-intern|Preserve
+  goal completion summaries and show untyped LLM errors without an internal…]]'
 - '[[Changes/OpenCode/2026-07-14-2-interface-experience-changes-in-v1-18-1-1|2 Interface
   Experience changes in v1.18.1 + 1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
@@ -92,13 +91,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-14 · OpenCode · [[Changes/OpenCode/2026-07-14-2-interface-experience-changes-in-v1-18-1-1|2 Interface Experience changes in v1.18.1 + 1]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5 Interface Experience changes in v1.0.71]]
+- Later: 2026-07-15 · Kimi Code · [[Changes/Kimi Code/2026-07-15-kimi-p-now-stays-alive-by-default-while-background-tasks-are-pending-with-no-eff|kimi -p now stays alive by default while background tasks are pending, with no…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

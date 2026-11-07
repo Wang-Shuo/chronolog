@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-29 · Files and Data: 2 changes in v0.12.5 �
   **Negative relevance threshold.** The Relevance Threshold in Admin Settings > Documents
   now…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1253
+  lag_days: 2598
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 019b97dc48e095e04a0b8d1118f91fcf0074fa9338630da10b35725f82c05108
+machine_hash: d8b200cef0389f6e8f38fe3c0ea63b7dc40f1e94041221e9ce7d2e458acaac98
 product: open-webui
 product_name: Open WebUI
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Cursor · 2024-01-25 · Search and Browsing: Using @Web in chat wi
   the AI the ability to crawl the web! The tools it can use include a search engine
   and a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 308
+  lag_days: 1337
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a05396385508526042cefdefda4ca72e50ac49cd36e4541ee9a88f9de1873db
+machine_hash: ea3a8843de929363f35dc0390ea4a99f9ffe2c281f22e9a9aa749d2b045ecc7b
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Using @Web in chat will give the AI the ability to crawl the web!
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|Browsing
-  is temporarily disabled]]'
-- '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing
-  is rolling out to all Plus users]]'
 - '[[Changes/Dify/2023-11-21-current-version-adds-full-text-search-and-hybrid-search-functions-for-datasets-s|Current
   version adds full-text search and hybrid search functions for datasets…]]'
+- '[[Changes/Descript/2023-12-19-since-we-overhauled-our-ai-speaker-https-help-descript-com-hc-en-us-articles-173|New
+  AI Stock Speakers]]'
+- '[[Changes/Notion/2023-12-20-quickly-find-pages-with-better-search|Quickly find
+  pages with better search]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238|cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238]]'
 source_type: cursor_changelog
 theme: search-browsing
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2023-11-21 · Dify · [[Changes/Dify/2023-11-21-current-version-adds-full-text-search-and-hybrid-search-functions-for-datasets-s|Current version adds full-text search and hybrid search functions for datasets…]]
+- Earlier: 2023-12-20 · Notion · [[Changes/Notion/2023-12-20-quickly-find-pages-with-better-search|Quickly find pages with better search]]
 - Later: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-web-search-support-introducing-built-in-web-search-capabilities-via-rag-api-allo|🔍 Web Search Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

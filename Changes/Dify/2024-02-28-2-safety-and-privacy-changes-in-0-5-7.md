@@ -5,20 +5,20 @@ description: 'Dify · 2024-02-28 · Safety and Privacy: 2 changes in v0.5.7 — 
   DuckDuckGo Search Tool for Enhanced Privacy-Focused Search Functionality by @Yash-1511
   #2499'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 318
+  lag_days: 1310
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77176ad3b7539e2f2ffe6090307f8165660ad4fdc5450fe9d25a63f493d50e76
+machine_hash: b26de53d57cc200d17c9ec5f17f15a08bbbbe8d59d373e8a1f1dfadecdfbe8d1
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Safety and Privacy changes in 0.5.7
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input
-  box is now a password type]]'
 - '[[Changes/Ollama/2023-11-17-fix-permission-denied-issues-when-running-ollama-create-on-linux|Fix
   permission denied issues when running ollama create on Linux]]'
+- '[[Changes/Descript/2023-12-05-ai-speaker-authorization-has-been-simplified-so-you-can-upload-a-consent-stateme|AI
+  Speaker authorization has been simplified, so you can Upload a consent statement…]]'
 - '[[Changes/Gemini/2023-12-18-expanding-bard-extensions-to-new-languages|Expanding
   Bard Extensions to new languages]]'
 source_release: '[[Releases/Dify/dify-2024-02-28-0-5-7-github-143968174-dc5f7626|dify-2024-02-28-0-5-7-github-143968174-dc5f7626]]'
@@ -94,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

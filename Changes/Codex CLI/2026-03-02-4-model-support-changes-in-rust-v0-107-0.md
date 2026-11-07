@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2254ee405f99594ace587c72800b505b375b499495b9505ec62664348ea22c1f
+machine_hash: c12f366d6b20c1a6cfe4ae8fd1739cd02f8cde61df40c3c3ea90d8eaff9a30ff
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 ## Nearby in Model Support
 
 - Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-8-model-support-changes-in-v0-8-6|8 Model Support changes in v0.8.6]]
-- Later: 2026-03-02 · Ollama · [[Changes/Ollama/2026-03-02-qwen3-5-https-ollama-com-library-qwen3-5-the-small-qwen-3-5-model-series-is-now|Qwen3.5((source link) the small Qwen 3.5 model series…]]
+- Later: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-claude-sonnet-4-6-and-google-gemini-3-1-pro-now-in-underlord|Claude Sonnet 4.6 and Google Gemini 3.1 Pro now in Underlord]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

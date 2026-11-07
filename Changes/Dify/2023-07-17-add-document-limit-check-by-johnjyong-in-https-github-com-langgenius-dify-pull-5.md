@@ -4,20 +4,20 @@ date: '2023-07-17'
 description: 'Dify · 2023-07-17 · Files and Data: add document limit check by @JohnJyong
   in https://github.com/langgenius/dify/pull/570'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 53
+  lag_days: 1398
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a279e182f4a58b8d16831e3fbeca4cff993c687880a07ef45fd67e49a8dcc36
+machine_hash: b4841851fb5ab616ff7b259ae650ae5e8cbd6f8e3ddeb5ec8bdb443b211fd51f
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: add document limit check
   type: change
 related_changes:
-- '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes
-  in 0.2.2]]'
-- '[[Changes/Gemini/2023-06-07-bard-codes-for-you-for-improved-math-and-data-analysis|Bard
-  codes for you for improved math and data analysis]]'
+- '[[Changes/Descript/2023-06-13-change-layer-order-from-timeline-to-change-the-visual-layer-order-from-the-timel|Change
+  layer order from timeline]]'
+- '[[Changes/Descript/2023-06-13-flip-you-can-now-flip-videos-and-images-vertically-or-horizontally-https-help-de|Flip:
+  You can now flip videos and images vertically…]]'
 - '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
   interpreter is now rolling out in beta on web]]'
 source_release: '[[Releases/Dify/dify-2023-07-17-0-3-9-github-112429864-45e02f0c|dify-2023-07-17-0-3-9-github-112429864-45e02f0c]]'
@@ -78,13 +78,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
-- Later: 2023-08-23 · Dify · [[Changes/Dify/2023-08-23-4-files-and-data-changes-in-0-3-15|4 Files and Data changes in 0.3.15]]
+- Later: 2023-07-24 · Descript · [[Changes/Descript/2023-07-24-canvas-layer-order-hiding-layers|Canvas layer order & hiding layers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

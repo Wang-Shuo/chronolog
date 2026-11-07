@@ -4,20 +4,20 @@ date: '2025-09-04'
 description: 'Gemini CLI · 2025-09-04 · Safety and Privacy: 2 changes in Release v0.3.0
   — Limit dependabot PRs to security updates by @cornmander in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 872
+  lag_days: 1864
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0ffc1061b2e4dd1257f4c1fb913771a86fc4393cd39e84f359701a5cb376e4d
+machine_hash: a9514de1586ff025b0211fd5c598dce34929a6c90666ed301a8ada07a828d40f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-06-05'
 description: 'OpenCode · 2026-06-05 · Developer Workflow: Core Terminal themes now
   refresh after live terminal reloads without stale colors or broken highlighting.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2824
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08d6a037daef2c9228d756e3436345b0b4ef98a27691a3761a3e309f947748c6
+machine_hash: 1314383514547f3d177a956b863552bc7cad23ebf2aea9b405cf440406abfb65
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +43,12 @@ record:
     colors…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills:
-  added \$ escape syntax to include a literal $ before a digit in command bodies]]'
-- '[[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6
-  Developer Workflow changes in rust-v0.137.0]]'
+- '[[Changes/Kimi Code/2026-06-04-3-developer-workflow-changes-in-kimi-code-0-10-0|3
+  Developer Workflow changes in Kimi Code 0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11
   Developer Workflow changes in v1.0.60]]'
+- '[[Changes/Kimi Code/2026-06-05-show-unknown-command-instead-of-too-many-arguments-when-an-invalid-subcommand-is|Show
+  "unknown command" instead of "too many arguments" when an invalid subcommand…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-05-v1-16-2-1b5b7f0d|opencode-2026-06-05-v1-16-2-1b5b7f0d]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -85,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11 Developer Workflow changes in v1.0.60]]
+- Earlier: 2026-06-05 · Kimi Code · [[Changes/Kimi Code/2026-06-05-show-unknown-command-instead-of-too-many-arguments-when-an-invalid-subcommand-is|Show "unknown command" instead of "too many arguments" when an invalid subcommand…]]
 - Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-4-developer-workflow-changes-in-v1-16-0|4 Developer Workflow changes in v1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

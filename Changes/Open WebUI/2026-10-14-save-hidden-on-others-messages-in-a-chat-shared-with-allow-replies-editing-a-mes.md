@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-10-14 · Collaboration: \U0001F4BE **Save hidde
   others' messages.** In a chat shared with Allow replies, editing a message someone
   else wrote no…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1239
+  lag_days: 2833
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86150ce61bcbbeadf25506a68c4574838e2db87195f0d6ec55d339d2b151d2dd
+machine_hash: 72d863feffffb70cd5906df3991b75ad6d367fa606641c9f64e896e2d38a1495
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +50,9 @@ record:
     replies, editing…"
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-10-12-collaboration-changes-in-v2026-10-1|12 Collaboration
-  changes in v2026.10.1]]'
-- '[[Changes/OpenClaw/2026-10-12-home-notifications-creating-many-chats-no-longer-fills-home-s-notification-queue|Home
-  notifications]]'
+- '[[Changes/HeyGen/2026-10-13-brand-glossary-rebuilt|Brand Glossary, rebuilt]]'
+- '[[Changes/Synthesia/2026-10-13-make-refine-and-share-syren-videos-without-leaving-chatgpt-or-claude-using-the-d|Create
+  Syren videos in ChatGPT and Claude]]'
 - '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
   local session transcripts to also record each API request''s system prompt…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'
@@ -99,13 +99,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed local session transcripts to also record each API request's system prompt…]]
-- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration changes in rust-v0.163.0]]
+- Later: 2026-10-14 · Qoder · [[Changes/Qoder/2026-10-14-collaboration-through-conversation-accounts-with-collaboration-access-can-query|Collaboration through conversation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

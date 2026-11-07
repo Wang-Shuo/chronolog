@@ -4,20 +4,20 @@ date: '2026-09-18'
 description: 'Lovable · 2026-09-18 · Pricing Model: The [Firecrawl connector](https://docs.lovable.dev/integrations/firecrawl.md)
   now offers a **Managed by Lovable** option…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1373
+  lag_days: 2991
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 70e19e53ac6d12a23bb5ec435dcffac3b724a1152f83c8a0cae1e3c8e3c67bfb
+machine_hash: c15763f8beb8d82f9916b310136830621db34df9a68184505f3e1a9a91c1efee
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,10 @@ record:
   title: Use Firecrawl without a Firecrawl account
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-claude-code-on-the-web-changed-a-routine-s-on-hold-notice-when-your-subscription|Claude
-  Code on the web Changed a routine''s on-hold notice]]'
 - '[[Changes/Cline/2026-09-17-cline-pass-now-defaults-to-a-model-from-your-subscription-rather-than-a-free-one|Cline
   Pass now defaults to a model from your subscription rather than a free one]]'
+- '[[Changes/Descript/2026-09-17-checkout-speaks-your-currency|Checkout speaks your
+  currency]]'
 - '[[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode
   Added the session''s cost and token usage to the Account & usage dialog…]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-18-2026-09-18-bb95ac6d|lovable-2026-09-18-2026-09-18-bb95ac6d]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

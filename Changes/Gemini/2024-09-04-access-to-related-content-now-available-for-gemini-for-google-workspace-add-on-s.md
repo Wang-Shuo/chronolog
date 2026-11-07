@@ -4,20 +4,20 @@ date: '2024-09-04'
 description: 'Gemini · 2024-09-04 · Pricing Model: What: Users with a qualifying Gemini
   for Google Workspace add-on subscription can now access additional information on…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 629
+  lag_days: 2247
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 9f5622b802a63b50a0e8c79cf2625d34862d4a57b7b0288034b821e48f8f8116
+machine_hash: 460dd3713f588fc1d5ca661e46169616a9d57a3190a16876be9694357d5ca403
 product: gemini
 product_name: Gemini
 record:
@@ -49,8 +49,8 @@ record:
     subscribers
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-13-improved-token-and-cost-reporting-for-infinite-output|Improved
-  token and cost reporting for infinite output]]'
+- '[[Changes/Descript/2024-08-14-ai-usage-monitoring-in-settings|AI Usage monitoring
+  in Settings]]'
 - '[[Changes/Aider/2024-08-20-improved-cost-estimate-logic-for-caching|Improved cost
   estimate logic for caching]]'
 - '[[Changes/Dify/2024-09-03-4-pricing-model-changes-in-0-7-3|4 Pricing Model changes
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

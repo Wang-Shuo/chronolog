@@ -4,20 +4,20 @@ date: '2026-04-17'
 description: 'Claude Code · 2026-04-17 · Reliability and Performance: Improved `/ultrareview`:
   faster launch with parallelized checks, diffstat in the launch dialog, and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 2706
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c89700d82625198261601320748f680e4f0ca01215fce4a1230251814df247aa
+machine_hash: 6b5d7bfaf5ffd8bd0cb6dedaf183a006cf402ee9d256e0c370eca1e168045a26
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,9 @@ record:
   title: 'Improved `/ultrareview`: faster launch with parallelized checks, diffstat…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-14-reduced-memory-footprint-for-file-reads-edits-and-syntax-highlighting-by-loading|Reduced
-  memory footprint for file reads, edits, and syntax highlighting by loading…]]'
-- '[[Changes/Codex CLI/2026-04-15-17640-fix-stability-exec-server-jif-oai|♯17640 fix:
-  stability exec server @jif-oai]]'
+- '[[Changes/Descript/2026-04-16-new-transitions|New Transitions]]'
+- '[[Changes/Descript/2026-04-16-we-ve-made-some-backend-improvements-that-should-result-in-better-performance-fo|We’ve
+  made some backend improvements that should result in better performance…]]'
 - '[[Changes/Windsurf/2026-04-16-various-bug-fixes-and-performance-improvements-for-improving-windsurf-2-0-auth-e|Various
   bug fixes and performance improvements for improving Windsurf 2.0 auth experience]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

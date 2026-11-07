@@ -4,20 +4,20 @@ date: '2026-06-24'
 description: 'Claude Code · 2026-06-24 · Reliability and Performance: Reduced long-session
   memory growth from terminal output cache'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1287
+  lag_days: 2774
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f0d5d7e172459d70cc4a0472bf99ffb83f113971d8dea3b6a03f0d76630d4bf
+machine_hash: de469077338474568f8f1dab6949c5af6aa5ab0ba7759ed6b8956a134130b43d
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,10 @@ record:
   title: Reduced long-session memory growth from terminal output cache
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The
-  stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]'
 - '[[Changes/Codex CLI/2026-06-22-2-reliability-and-performance-changes-in-rust-v0-142-0|2
   Reliability and Performance changes in rust-v0.142.0]]'
+- '[[Changes/Kimi Code/2026-06-22-speed-up-session-snapshot-loading-with-a-direct-disk-reader-and-a-request-timeou|Speed
+  up session snapshot loading with a direct disk reader and a request timeout…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-show-per-model-token-totals-in-usage-and-speed-up-large-history-scans|Show
   per-model token totals in /usage and speed up large history scans]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

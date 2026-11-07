@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-08-25 · Interface Experience: 24 changes in v0
   — \U0001F4CD **Sidebar folders fetched once.** Refreshing the sidebar now asks for
   your folders…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1324
+  lag_days: 2690
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 36929d7f6241b5573a4dcccbd5b5bc26202a7f44a3990258b65729a0a264f752
+machine_hash: ece054ee437dec34affca22990a3a3d140fe45036ec28dc3a74bbc87afb50edf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -180,12 +180,12 @@ record:
   title: 24 Interface Experience changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-9-interface-experience-changes-in-1-17-0|9 Interface
-  Experience changes in 1.17.0]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-23954-add-trailing-space-to-autocomplete-suggestions-by-jone|SSR
   Agent Issue Fix (23954): Add trailing space to autocomplete suggestions]]'
 - '[[Changes/Lovable/2026-08-25-see-time-and-cost-while-lovable-works|See time and
   cost while Lovable works]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-simplified-design-for-the-microsoft-365-copilot-app-windows-mac-web-microsoft-36|Simplified
+  design for the Microsoft 365 Copilot app Windows, Mac…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'
 source_type: github_releases
 theme: interface-experience
@@ -283,14 +283,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-25 · Lovable · [[Changes/Lovable/2026-08-25-see-time-and-cost-while-lovable-works|See time and cost while Lovable works]]
+- Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-simplified-design-for-the-microsoft-365-copilot-app-windows-mac-web-microsoft-36|Simplified design for the Microsoft 365 Copilot app Windows, Mac…]]
 - Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

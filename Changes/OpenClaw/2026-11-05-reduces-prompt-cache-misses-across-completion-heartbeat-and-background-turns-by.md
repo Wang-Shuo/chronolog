@@ -4,20 +4,19 @@ date: '2026-11-05'
 description: 'OpenClaw · 2026-11-05 · Editor Experience: Reduces prompt-cache misses
   across completion, heartbeat and background turns by keeping tool definitions stable…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1332
+  lag_days: 2916
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e48d14518e73fa760d3b127285c97bd9d577aafd7b18850c00e46e96b672399
+machine_hash: 48a56b1981ee100b96568ee5ab13aeb9a964097a99f3856502ec4074ffe40051
 product: openclaw
 product_name: OpenClaw
 record:
@@ -44,12 +43,12 @@ record:
   title: Reduces prompt-cache misses across completion, heartbeat and background turns…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-feat-files-add-a-download-button-to-the-files-tab-ohe-3834-by-hieptl-in-https-gi|feat(files):
-  add a Download button to the Files tab (OHE-3834)]]'
-- '[[Changes/Dify/2026-11-04-3-editor-experience-changes-in-1-19-0|3 Editor Experience
-  changes in 1.19.0]]'
-- '[[Changes/Gemini CLI/2026-11-04-feat-cli-bridge-the-ide-companion-into-container-sandboxes-over-exec-stdio-by-el|feat(cli):
-  bridge the IDE companion into container sandboxes over exec stdio]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-copilot-cowork-supports-local-microsoft-edge-browser-use-web-microsoft-365-copil|Copilot
+  Cowork supports local Microsoft Edge browser use Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-copilot-new-tab-page-in-microsoft-edge-web-microsoft-365-copilot|Copilot
+  New Tab Page in Microsoft Edge Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-navigate-to-your-workbook-changes-directly-from-the-copilot-chat-pane-response-w|Navigate
+  to your workbook changes directly from the Copilot chat pane response…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-05-v2026-11-1-7d3de823|openclaw-2026-11-05-v2026-11-1-7d3de823]]'
 source_type: openclaw_changelog
 theme: editor-experience
@@ -92,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-11-04 · Gemini CLI · [[Changes/Gemini CLI/2026-11-04-feat-cli-bridge-the-ide-companion-into-container-sandboxes-over-exec-stdio-by-el|feat(cli): bridge the IDE companion into container sandboxes over exec stdio]]
+- Earlier: 2026-11-04 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-11-04-navigate-to-your-workbook-changes-directly-from-the-copilot-chat-pane-response-w|Navigate to your workbook changes directly from the Copilot chat pane response…]]
 - Later: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-chore-deps-bump-monaco-editor-from-0-56-0-to-0-57-0-in-the-monaco-group-by-depen|chore(deps): bump monaco-editor from 0.56.0 to 0.57.0 in the monaco group…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

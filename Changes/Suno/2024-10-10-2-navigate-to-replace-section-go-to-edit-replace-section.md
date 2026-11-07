@@ -4,20 +4,19 @@ date: '2024-10-10'
 description: 'Suno · 2024-10-10 · Editor Experience: 2 - Navigate to Replace Section:
   Go to Edit > Replace Section.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 576
+  lag_days: 2160
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1fa11d891318db0b8336d6ebdc479dc151d12abc583cb8ab34bc7c507ca996cd
+machine_hash: e6287a28ae92db30e4c63aef3064e2e36d30fd60d0ae529a088f72f40e6eabd4
 product: suno
 product_name: Suno
 record:
@@ -43,8 +42,7 @@ record:
   title: '2 - Navigate to Replace Section: Go to Edit > Replace Section'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience
-  changes in v0.58.0]]'
+- '[[Changes/Descript/2024-10-08-editor-updates|Editor Updates]]'
 - '[[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No
   more staring at loading spinners: Responses are now streamed into the editor…]]'
 - '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS
@@ -91,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

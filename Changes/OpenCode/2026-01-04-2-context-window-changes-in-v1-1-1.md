@@ -4,20 +4,20 @@ date: '2026-01-04'
 description: 'OpenCode · 2026-01-04 · Context Window: 2 changes in v1.1.1 — Core Check
   for context overflow mid-turn in finish-step'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 976
+  lag_days: 2300
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 46485af977a80ec1a7d157fc2c5d12fd22389631583f84a1903f4faf303cb8c4
+machine_hash: f74d65f6ba732dd0915d692f94cab0a944c3c5e1d2f7a1ce9b7ed3904f94e525
 product: opencode
 product_name: OpenCode
 record:
@@ -97,7 +97,7 @@ Source: https://opencode.ai/changelog/v1.1.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

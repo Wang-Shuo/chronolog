@@ -4,20 +4,19 @@ date: '2026-10-14'
 description: "Open WebUI · 2026-10-14 · Editor Experience: \U0001F4DA **Open attached
   knowledge from its preview.** Clicking the name in the preview of an attached knowledge…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1310
+  lag_days: 2894
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9ba913b1164121a2c90943fef6a9a9a35681b23cafa5e81991811274e910f158
+machine_hash: d32f8365245a4900e80d49b8994582fafe8543f7a11d65b79979ffa0209b39c1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,8 +48,8 @@ record:
     in the preview…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-synchronous-task-json-output-now-includes-failed-child-error-and-lifecycle-event|Synchronous
-  /task JSON output now includes failed child error and lifecycle events…]]'
+- '[[Changes/HeyGen/2026-10-13-chapters-in-the-submit-step|Chapters in the Submit
+  step]]'
 - '[[Changes/Claude Code/2026-10-14-3-editor-experience-changes-in-v2-1-300|3 Editor
   Experience changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor
@@ -99,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

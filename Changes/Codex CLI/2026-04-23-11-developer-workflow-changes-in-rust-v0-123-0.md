@@ -4,19 +4,20 @@ date: '2026-04-23'
 description: 'Codex CLI · 2026-04-23 · Developer Workflow: 11 changes in 0.123.0 —
   Prevented stale proxy environment variables from being restored from shell snapshots…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1132
+  lag_days: 2781
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5f1b3f2b874e25d5c71dee3e1b338896123b86b8c56d108804c0597f6a496ec1
+machine_hash: 05900b7e3c78f3992ac60c98a408a8a5b9666e78866ef58223b47d23051a658a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -136,7 +137,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.123.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-01-07'
 description: 'Codex CLI · 2026-01-07 · Editor Experience: Add app-server `thread/rollback`
   so IDE clients can undo the last N turns without rewriting history (#8454)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1030
+  lag_days: 2614
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 331c0bb9c8f627077781690a5a4409fa089ab69337f195a5b74257a852a233f6
+machine_hash: cd5c30383ef2a2b27a68286daf47734b8e17586a92feebaeb767b86d9b657ffb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +42,12 @@ record:
     without…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-05-terminal-expand-directory-on-tab-select-on-enter-in-tui-autocomplete|Terminal
-  Expand directory on Tab, select on Enter in TUI autocomplete]]'
 - '[[Changes/Cline/2026-01-06-added-experimental-support-for-background-edits-allows-editing-files-in-backgrou|Added
   experimental support for Background Edits…]]'
 - '[[Changes/Codex CLI/2026-01-06-3-editor-experience-changes-in-rust-v0-78-0|3 Editor
   Experience changes in rust-v0.78.0]]'
+- '[[Changes/Descript/2026-01-06-improved-more-cost-effective-underlord|Improved,
+  more cost-effective Underlord]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364|codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-3-editor-experience-changes-in-rust-v0-78-0|3 Editor Experience changes in rust-v0.78.0]]
+- Earlier: 2026-01-06 · Descript · [[Changes/Descript/2026-01-06-improved-more-cost-effective-underlord|Improved, more cost-effective Underlord]]
 - Later: 2026-01-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-07-file-edits-no-longer-hang-when-approving-multiple-concurrent-edits|File edits no longer hang when approving multiple concurrent edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

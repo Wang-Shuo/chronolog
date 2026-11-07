@@ -4,20 +4,19 @@ date: '2025-08-27'
 description: 'Codex CLI · 2025-08-27 · Editor Experience: 4 changes in 0.25.0 — TUI:
   mouse wheel alternate scrolling in transcript/diff views (#2686)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 897
+  lag_days: 2481
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 074af42a09a86f9df13f1b0f6a68475e09b1c415d4a00fbcb066f5cbe98e866c
+machine_hash: 414f07d649bc75c10834516a4f7b7d01dbf80607aba9f411022e687b5ec9c72b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +46,8 @@ record:
   title: 4 Editor Experience changes in rust-v0.25.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full
-  notebook]]'
+- '[[Changes/Descript/2025-08-21-new-in-editor-control-multiple-layers-at-once|New
+  in Editor—Control Multiple Layers at Once]]'
 - "[[Changes/Open WebUI/2025-08-21-restored-message-toolbar-icons-for-empty-messages-with-files-fixed-an-issue-wher|\U0001F41B
   Restored Message Toolbar Icons for Empty Messages with Files]]"
 - '[[Changes/Codex CLI/2025-08-26-6-editor-experience-changes-in-rust-v0-24-0|6 Editor
@@ -98,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.25.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

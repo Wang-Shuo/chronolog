@@ -4,20 +4,20 @@ date: '2026-10-15'
 description: 'Runway · 2026-10-15 · Apps and Integrations: Remove backgrounds automatically
   in Runway MCP with BiRefNet v2. It detects the foreground on its own, making it…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1302
+  lag_days: 2862
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32478b14805c41260e457475b996acbd7a29886a25c34be70f5d966b0de9ec78
+machine_hash: 3789ebd880ddd9f5034eeb05549ad4662e5e0d8e4d0833c8b0e2e3d9519845be
 product: runway
 product_name: Runway
 record:
@@ -44,10 +44,10 @@ record:
   title: BiRefNet v2 Background Removal
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-14-connect-your-app-to-bing-webmaster-tools|Connect your
-  app to Bing Webmaster Tools]]'
 - '[[Changes/Open WebUI/2026-10-14-2-apps-and-integrations-changes-in-v0-12-1|2 Apps
   and Integrations changes in v0.12.1]]'
+- '[[Changes/Qoder/2026-10-14-3-apps-and-integrations-changes-in-qoder-0-4-7|3 Apps
+  and Integrations changes in Qoder 0.4.7]]'
 - '[[Changes/Codex CLI/2026-10-15-15-apps-and-integrations-changes-in-rust-v0-163-0|15
   Apps and Integrations changes in rust-v0.163.0]]'
 source_release: '[[Releases/Runway/runway-2026-10-15-2026-10-15-birefnet-v2-background-removal-09a1f1fa|runway-2026-10-15-2026-10-15-birefnet-v2-background-removal-09a1f1fa]]'
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

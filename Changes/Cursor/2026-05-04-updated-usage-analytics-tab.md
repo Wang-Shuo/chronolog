@@ -4,20 +4,19 @@ date: '2026-05-04'
 description: 'Cursor · 2026-05-04 · Editor Experience: Admins can now filter usage
   by specific users, or break it down by product surface: clients, Cloud Agents…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1147
+  lag_days: 2731
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2151904d348bc23d10955f10e446d19140a176f1cf907bd7cd1b68e0e4577f4f
+machine_hash: a2c6e1bab1ca9aef2882d04df0efa385bb0492207d0911720b83101867272c73
 product: cursor
 product_name: Cursor
 record:
@@ -80,13 +79,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-powershell-tool-bare-e-g-git-diff-file-is-no-longer-mis-flagged-as-the-stop-pars|PowerShell tool: bare -- (e.g. git diff -- file) is no longer mis-flagged…]]
-- Later: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-4-editor-experience-changes-in-v1-0-41|4 Editor Experience changes in v1.0.41]]
+- Later: 2026-05-04 · Notion · [[Changes/Notion/2026-05-04-navigating-notion-on-mobile-just-got-easier-with-the-new-home-tab-now-your-home|A new home on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

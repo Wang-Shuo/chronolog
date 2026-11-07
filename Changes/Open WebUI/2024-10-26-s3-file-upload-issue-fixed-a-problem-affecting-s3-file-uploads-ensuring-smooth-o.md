@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-10-26 · Files and Data: **\U0001F4BC S3 File U
   Issue**: Fixed a problem affecting S3 file uploads, ensuring smooth operations for
   those who store…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 520
+  lag_days: 1865
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5aececabfd1a1560b4dd2bedfdd9640ab221bb57df98fbd72a380d6b5c6edb1f
+machine_hash: aaf521e94ee3e2cd0a1f9eca78cab40816ec912fe5b9098bd42a929a999d974a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,10 @@ record:
   title: "**\U0001F4BC S3 File Upload Issue**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-21-2-files-and-data-changes-in-0-10-0|2 Files and Data changes
-  in 0.10.0]]'
 - '[[Changes/Dify/2024-10-23-file-upload-corrections-resolved-multiple-issues-affecting-file-uploads-for-smoo|File
   Upload Corrections]]'
+- '[[Changes/Notion/2024-10-24-layouts-to-customize-your-page|Layouts to customize
+  your page]]'
 - "[[Changes/Open WebUI/2024-10-24-enhanced-knowledge-collection-now-you-can-reference-individual-files-from-a-know|\U0001F4DA
   Enhanced Knowledge Collection]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-26-v0-3-34-github-182069894-6839b1c4|open-webui-2024-10-26-v0-3-34-github-182069894-6839b1c4]]'
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

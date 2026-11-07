@@ -4,20 +4,20 @@ date: '2026-08-07'
 description: 'OpenCode · 2026-08-07 · Interface Experience: Desktop Language names
   now stay native in the locale picker.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1306
+  lag_days: 2672
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 079f39bed22992bafd36d8ad9d1155ce32b6ffbb0edf1682166964c0153cca4d
+machine_hash: 9fccb2dcd362ebe0ddbad70d6406fa0a8aa8a9a5670c7fa6d32025011cd23351
 product: opencode
 product_name: OpenCode
 record:
@@ -41,12 +41,12 @@ record:
   title: Desktop Language names now stay native in the locale picker
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6
-  Interface Experience changes in rust-v0.147.0]]'
 - '[[Changes/Google Antigravity/2026-08-07-you-can-now-copy-an-image-to-your-clipboard-from-an-artifact-or-the-file-viewer|Copy
   an image to your clipboard from an artifact or the file viewer, using the menu…]]'
 - '[[Changes/Google Antigravity/2026-08-07-2-interface-experience-changes-in-hub-v2-6-0-faster-long-conversations|2
   Interface Experience changes in HUB v2.6.0 — Faster long conversations…]]'
+- '[[Changes/HeyGen/2026-08-07-avatar-management-identity-selection-redesign|Avatar
+  management / identity-selection redesign]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-07-v1-18-15-fe89d58a|opencode-2026-08-07-v1-18-15-fe89d58a]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-2-interface-experience-changes-in-hub-v2-6-0-faster-long-conversations|2 Interface Experience changes in HUB v2.6.0 — Faster long conversations…]]
+- Earlier: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-avatar-management-identity-selection-redesign|Avatar management / identity-selection redesign]]
 - Later: 2026-08-07 · OpenHands · [[Changes/OpenHands/2026-08-07-feat-reorder-customize-navigation-by-devinvinson-in-https-github-com-openhands-o|feat: reorder Customize navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

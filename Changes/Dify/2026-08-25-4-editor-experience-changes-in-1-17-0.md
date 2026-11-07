@@ -4,20 +4,19 @@ date: '2026-08-25'
 description: 'Dify · 2026-08-25 · Editor Experience: 4 changes in v1.17.0 — **Workspace-level
   Skill management**: Skills are reusable, versioned capabilities packaged with…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2844
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 117dead492c0dad27fa3451d0827fe6a761e0e73bfaf6f847c46197ce05ebbe6
+machine_hash: 0d859d467df983665328f5ee86ac4b096926e0ee3a5a4bf0a2e8cc2751035aeb
 product: dify
 product_name: Dify
 record:
@@ -111,13 +110,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added the turn's completion time to the end-of-turn duration line…]]
-- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-12-editor-experience-changes-in-v0-11-1|12 Editor Experience changes in v0.11.1]]
+- Later: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-viva-engage-private-content-in-microsoft-365-copilot-web-microsoft-365-copilot|Viva Engage private content in Microsoft 365 Copilot Web (Microsoft 365 Copilot)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

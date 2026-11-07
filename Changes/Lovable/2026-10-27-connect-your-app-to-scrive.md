@@ -4,20 +4,20 @@ date: '2026-10-27'
 description: 'Lovable · 2026-10-27 · Apps and Integrations: You can now connect your
   Lovable app to [Scrive](https://docs.lovable.dev/integrations/scrive.md) for…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1314
+  lag_days: 2874
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c974e4931b6566032e40fd3d723f1614c072a7d84e80d9f76e03f87359df9e01
+machine_hash: ba0fdd0d2254fa4cfae19f76cb1977ef4d30fca2657b6a8c583f91a3dec229cc
 product: lovable
 product_name: Lovable
 record:
@@ -98,13 +98,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-27-interactive-and-sdk-autopilot-sessions-keep-waiting-for-attached-background-task|Interactive and SDK Autopilot sessions keep waiting for attached background tasks…]]
-- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-9-apps-and-integrations-changes-in-v2026-10-8|9 Apps and Integrations changes in v2026.10.8]]
+- Later: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-admins-can-create-and-deploy-custom-model-context-protocol-mcp-connectors-across|Admins can create and deploy custom Model Context Protocol (MCP) connectors across…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

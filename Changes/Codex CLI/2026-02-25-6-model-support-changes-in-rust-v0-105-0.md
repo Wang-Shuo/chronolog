@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9908e8c2acdc31f0780a479d0e66209a58a5250b7e1036d1f06835bfd7003bea
+machine_hash: 8f785ab1c707fa39ee5a65772245e9f3d74999f1dee4a9b25776069854ba7aee
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 6 Model Support changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-24-3-model-support-changes-in-v3-67-0|3 Model Support changes
-  in v3.67.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-24-streaming-response-size-counter-updates-continuously-during-tool-calls-and-reaso|Streaming
   response size counter updates continuously during tool calls…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-declarative-agents-upgraded-to-gpt-5-1-microsoft-365-copilot-extensibility|Declarative
+  agents upgraded to GPT-5.1 (Microsoft 365 Copilot extensibility)]]'
 - '[[Changes/Ollama/2026-02-24-2-model-support-changes-in-v0-17-1|2 Model Support
   changes in v0.17.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'

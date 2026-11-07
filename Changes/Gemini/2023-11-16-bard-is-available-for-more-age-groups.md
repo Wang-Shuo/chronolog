@@ -5,20 +5,20 @@ description: 'Gemini · 2023-11-16 · Interface Experience: What: Bard is expand
   access to teens in most countries around the world, starting with English. We’ve
   added…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 311
+  lag_days: 1677
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: d843c2b411377abab69c7f8886bab6573600f3e9a614d7e2c70ea44c35d659ca
+machine_hash: 916dfe70fe448c46f916909cc64f4cd19997a85124487a5a568a8a7508c02686
 product: gemini
 product_name: Gemini
 record:
@@ -58,12 +58,11 @@ record:
   title: Bard is available for more age groups
   type: change
 related_changes:
-- '[[Changes/Dify/2023-11-06-2-interface-experience-changes-in-0-3-29|2 Interface
-  Experience changes in 0.3.29]]'
 - '[[Changes/Cursor/2023-11-10-command-dot-you-can-now-use-the-command-dot-menu-to-have-command-k-fix-lint-erro|Command-dot:
   you can now use the Command-dot menu to have Command-K fix lint errors inline]]'
 - '[[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++
   improvements: Includes green highlights to see what Copilot++ has added…]]'
+- '[[Changes/Notion/2023-11-14-perfect-for-every-new-hire|Perfect for every new hire]]'
 source_release: '[[Releases/Gemini/gemini-2023-11-16-2023-11-16-942bdb18|gemini-2023-11-16-2023-11-16-942bdb18]]'
 source_type: gemini_changelog
 theme: interface-experience
@@ -92,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-11-12 · Cursor · [[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++ improvements: Includes green highlights to see what Copilot++ has added…]]
+- Earlier: 2023-11-14 · Notion · [[Changes/Notion/2023-11-14-perfect-for-every-new-hire|Perfect for every new hire]]
 - Later: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++ Improvements: We've spent some time improving the latency…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

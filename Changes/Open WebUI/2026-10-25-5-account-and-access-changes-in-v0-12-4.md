@@ -5,20 +5,21 @@ description: "Open WebUI · 2026-10-25 · Account and Access: 5 changes in v0.12
   \U0001F4E7 **LDAP default email domain.** Administrators can now set a default email
   domain in the…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1305
+  lag_days: 2280
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56477cccd49856871b35a8da5c4553219f9b384334ca50331f567304c651c5cb
+machine_hash: 17a9a3c3c87bc30f358a1cda330f9a036486647346b370f927c54632124de61d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -132,7 +133,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

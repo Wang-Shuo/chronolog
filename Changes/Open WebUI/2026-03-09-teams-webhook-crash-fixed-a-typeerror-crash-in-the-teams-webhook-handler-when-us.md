@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-03-09 · Collaboration: \U0001F4E8 **Teams webh
   crash.** Fixed a TypeError crash in the Teams webhook handler when user data is
   missing from the…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1020
+  lag_days: 2614
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36faeefc0a144af07b39ffef2ad0055387ae475b5d7021b1dc5babd885cd4987
+machine_hash: d1f445eddf5b60a462ad761ebb9458f908e8092a9fd08bc2873133451c2ebb70
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +45,8 @@ record:
     webhook handler…"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-03-01-individual-user-sharing-control-administrators-can-now-disable-individual-user-s|\U0001F510
-  Individual user sharing control. Administrators can now disable individual…]]"
+- '[[Changes/Notion/2026-03-05-this-feature-provides-more-granular-control-over-database-permissions-try-it-in|This
+  feature provides more granular control over database permissions]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-06-block-share-gist-for-emu-and-ghe-cloud-users-with-clear-error-messaging|Block
   /share gist for EMU and GHE Cloud users with clear error messaging]]'
 - '[[Changes/OpenCode/2026-03-08-core-allow-beta-channel-to-share-database-with-stable-channel|Core
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

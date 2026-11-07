@@ -4,20 +4,20 @@ date: '2026-02-13'
 description: 'OpenCode · 2026-02-13 · Apps and Integrations: Core Add tool.definition
   hook for plugins to modify tool description and parameters'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1058
+  lag_days: 2618
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a4bc90fec41fb2f3668b4e802c5c39261e41e2eda5433614a72bd6ec87135af
+machine_hash: 75b752300122ce4bd1b47b72c1bb77403e4cab9b70f81b008515caa94889db9e
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,11 @@ record:
     parameters
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-6-apps-and-integrations-changes-in-v0-8-0|6 Apps
-  and Integrations changes in v0.8.0]]'
 - '[[Changes/OpenCode/2026-02-12-core-use-promise-all-for-mcp-listtools-calls-to-improve-performance|Core
   Use Promise.all for MCP listTools calls to improve performance]]'
 - '[[Changes/OpenCode/2026-02-12-core-expose-tool-arguments-in-shell-hook-for-plugin-visibility|Core
   Expose tool arguments in shell hook for plugin visibility]]'
+- '[[Changes/HeyGen/2026-02-13-why-it-matters|Why it matters]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-13-v1-1-65-cd20b9cb|opencode-2026-02-13-v1-1-65-cd20b9cb]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -80,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-core-expose-tool-arguments-in-shell-hook-for-plugin-visibility|Core Expose tool arguments in shell hook for plugin visibility]]
+- Earlier: 2026-02-13 · HeyGen · [[Changes/HeyGen/2026-02-13-why-it-matters|Why it matters]]
 - Later: 2026-02-13 · Replit · [[Changes/Replit/2026-02-13-bitbucket-integration-improvements|Bitbucket integration improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

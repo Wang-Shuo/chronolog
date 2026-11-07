@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b9c26f87e5bc68eec5eb810f4ab9e32ecf638175c29762b54d4250d789fa49c3
+machine_hash: efdfe6cfdbc6e82d66f81ff1a368620b22df70b2924a19ca45ffdaeab8e00196
 product: aider
 product_name: Aider
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-07-25 · Ollama · [[Changes/Ollama/2024-07-25-4-model-support-changes-in-v0-3-0|4 Model Support changes in v0.3.0]]
-- Later: 2024-07-30 · Midjourney · [[Changes/Midjourney/2024-07-30-we-re-releasing-v6-1-of-our-midjourney-image-model-today|we’re releasing V6.1 of our Midjourney Image Model today!]]
+- Later: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-one-ai-tool-to-chat-search|One AI tool to chat & search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

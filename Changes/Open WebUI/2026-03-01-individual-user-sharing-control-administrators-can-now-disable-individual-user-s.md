@@ -4,19 +4,20 @@ date: '2026-03-01'
 description: "Open WebUI · 2026-03-01 · Collaboration: \U0001F510 **Individual user
   sharing control.** Administrators can now disable individual user sharing via the…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1012
+  lag_days: 2606
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9372a60160e7c38191f650b8e2d116ff8f6e1061d307fbcfdb3d6d611a9ee52b
+machine_hash: 354661c765af57fa4da74fd6f6b7514c3c9885f10c39bdab8675d68758df0e4a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,13 +93,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-02-26 · Midjourney · [[Changes/Midjourney/2026-02-26-today-we-are-removing-the-rooms-feature-from-the-website|An update on Rooms]]
-- Later: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-block-share-gist-for-emu-and-ghe-cloud-users-with-clear-error-messaging|Block /share gist for EMU and GHE Cloud users with clear error messaging]]
+- Later: 2026-03-05 · Notion · [[Changes/Notion/2026-03-05-this-feature-provides-more-granular-control-over-database-permissions-try-it-in|This feature provides more granular control over database permissions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

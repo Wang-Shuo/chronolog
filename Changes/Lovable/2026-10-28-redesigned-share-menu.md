@@ -4,20 +4,20 @@ date: '2026-10-28'
 description: 'Lovable · 2026-10-28 · Interface Experience: The [Share menu](https://docs.lovable.dev/features/share-project.md)
   in your project has a simpler layout. The…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1388
+  lag_days: 2754
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 39cd80befabe26d625a0ffb364efa262ab9fb6d45ad104b7d0297fa7a523d92e
+machine_hash: 8c5d08c23cf4df60d2429e1763f40a8a52a0dd2ce9e0b875a14ff27676f37d88
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,12 @@ record:
   title: Redesigned Share menu
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-27-on-linux-doctor-can-repair-a-managed-gateway-that-is-using-an-unsupported-node-v|On
-  Linux, Doctor can repair a managed Gateway that is using an unsupported Node…]]'
 - '[[Changes/OpenCode/2026-10-27-10-interface-experience-changes-in-v2-2-0|10 Interface
   Experience changes in v2.2.0]]'
 - '[[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface
   Experience changes in v1.34.0]]'
+- '[[Changes/Kimi Code/2026-10-28-2-interface-experience-changes-in-kimi-code-2-4-0|2
+  Interface Experience changes in Kimi Code 2.4.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-28-2026-10-28-4c2babff|lovable-2026-10-28-2026-10-28-4c2babff]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface Experience changes in v1.34.0]]
+- Earlier: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-2-interface-experience-changes-in-kimi-code-2-4-0|2 Interface Experience changes in Kimi Code 2.4.0]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-12-interface-experience-changes-in-rust-v0-166-0|12 Interface Experience changes in rust-v0.166.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

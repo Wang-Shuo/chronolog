@@ -4,20 +4,21 @@ date: '2025-05-02'
 description: 'Replit · 2025-05-02 · Account and Access: [Replit Auth](https://docs.replit.com/features/auth-and-identity/authentication.md)
   is out for all users! It''s a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 764
+  lag_days: 1739
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 41d29974c50dde0761173a864fe65f1ee14dfd43ecb156a47e3c43c765f69bb0
+machine_hash: a7169a9e1ea96c6e85bdffbc1bf637272c781820e2dd11a257d42f63976da70e
 product: replit
 product_name: Replit
 record:
@@ -73,8 +74,8 @@ record:
   title: Replit Auth
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-04-14-ldap-login-reliability-restored-resolved-a-critical-issue-where-some-ldap-setups|\U0001F6E0️
-  LDAP Login Reliability Restored]]"
+- '[[Changes/Descript/2025-04-15-you-ll-see-some-ui-differences-when-you-login|A new
+  look for login]]'
 - '[[Changes/OpenHands/2025-04-16-added-support-for-gitlab-api-calling-using-both-oauth-and-pat-tokens-by-malhotra|Added
   support for GitLab API calling using both OAuth and PAT tokens]]'
 - '[[Changes/Dify/2025-04-28-feat-add-interfaces-of-oauth-handler-methods-for-authorization-by-yeuoly-in-http|feat:
@@ -136,7 +137,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-06-19'
 description: 'v0 · 2026-06-19 · Interface Experience: View-only members can download
   a chat''s code as a ZIP from the project menu.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1257
+  lag_days: 2623
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 558c5d1564fc84e69aee10df5cc762ddbd633ada3644c2832c6825e4efab8da2
+machine_hash: 6c8a6e9e9dcf5420367124be231193014ca91b0f06fe5d9fdd020885dcfac6f0
 product: v0
 product_name: v0
 record:
@@ -42,8 +42,8 @@ record:
   title: View-only members can download a chat's code as a ZIP from the project menu
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier
-  pinning and sidebar organization]]'
+- '[[Changes/Kimi Code/2026-06-18-2-interface-experience-changes-in-kimi-code-0-18-0|2
+  Interface Experience changes in Kimi Code 0.18.0]]'
 - '[[Changes/Claude Code/2026-06-19-added-config-help-to-list-all-available-shorthand-keys-for-config-key-value|Added
   /config --help to list all available shorthand keys for /config key=value]]'
 - '[[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

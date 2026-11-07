@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 4431b71908979b93e30a601f8baab566c969078f503b8b6e8d3870a5f4163613
+machine_hash: d5e3b1ce262609364a570fc89734b70094185137ae5b3129b8740a88adb1c73e
 product: lovable
 product_name: Lovable
 record:
@@ -53,12 +53,12 @@ record:
   title: See images, videos, and files the agent works with in chat
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-132-agent-mode-changes-in-v2026-7-1|132 Agent Mode
-  changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode
   changes in v2.1.208]]'
 - '[[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode
   changes in v2.1.210]]'
+- '[[Changes/Kimi Code/2026-07-14-4-agent-mode-changes-in-kimi-code-0-24-0|4 Agent
+  Mode changes in Kimi Code 0.24.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-14-2026-07-14-0c63f428|lovable-2026-07-14-2026-07-14-0c63f428]]'
 source_type: lovable_changelog
 theme: agent-mode
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode changes in v2.1.210]]
+- Earlier: 2026-07-14 · Kimi Code · [[Changes/Kimi Code/2026-07-14-4-agent-mode-changes-in-kimi-code-0-24-0|4 Agent Mode changes in Kimi Code 0.24.0]]
 - Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode changes in v2.1.211]]
 <!-- chronolog:end -->
 

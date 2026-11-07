@@ -4,20 +4,20 @@ date: '2026-08-11'
 description: 'Google Antigravity · 2026-08-11 · Reliability and Performance: Antigravity
   2.7.1 introduces visual side-by-side previews for image diffs alongside…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1335
+  lag_days: 2822
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 53efa8fe5d4120217615b6587999619103e98b7d698e04fda4b060f6a22702b0
+machine_hash: 08251c188760d0ae3a57370a0a4db776f8810ed9bc2b570cb64e935d334169e6
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -47,8 +47,7 @@ record:
   title: Reliability, Performance Gains, and User Experience Polish
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-04-qwen3-5-is-faster-on-apple-gpus-the-mlx-engine-now-uses-the-model-s-mtp-head-for|Qwen3.5
-  is faster on Apple GPUs]]'
+- '[[Changes/Descript/2026-08-05-improved-timeline-performance|Improved timeline performance]]'
 - '[[Changes/Google Antigravity/2026-08-07-2-reliability-and-performance-changes-in-hub-v2-6-0-faster-long-conversations|2
   Reliability and Performance changes in HUB v2.6.0 — Faster long conversations…]]'
 - '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

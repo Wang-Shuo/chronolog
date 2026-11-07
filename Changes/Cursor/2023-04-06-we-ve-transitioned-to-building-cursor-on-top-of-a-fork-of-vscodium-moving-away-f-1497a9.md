@@ -4,20 +4,19 @@ date: '2023-04-06'
 description: 'Cursor · 2023-04-06 · Editor Experience: We''ve transitioned to building
   Cursor on top of a fork of VSCodium, moving away from our previous Codemirror-based…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 23
+  lag_days: 1607
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09b17aa5854c6d511d717e4de5032f5010f4daec43024680ad28a121d9e33593
+machine_hash: 10be61036df8fb2664931b47ea8e71a92a4bb939f126cc3ec8a750e4ba6df7f3
 product: cursor
 product_name: Cursor
 record:
@@ -102,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

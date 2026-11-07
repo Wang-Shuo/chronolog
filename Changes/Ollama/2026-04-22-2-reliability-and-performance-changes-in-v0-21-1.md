@@ -5,20 +5,20 @@ description: 'Ollama · 2026-04-22 · Reliability and Performance: 2 changes in 
   — **Faster MLX sampling** with fused top-P and top-K in a single sort pass, plus
   repeat…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1224
+  lag_days: 2711
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6cb8574f68bb4ac3dc1f13983b00f011aececa77cdfbe14aa38aee4b7cdef24
+machine_hash: ad3f35ffaa22ff070b8704bb2c893040bf46450ed3f4dfa7e9989e17df90677a
 product: ollama
 product_name: Ollama
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.21.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

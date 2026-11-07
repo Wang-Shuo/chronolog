@@ -4,19 +4,20 @@ date: '2026-08-10'
 description: 'GitHub Copilot CLI · 2026-08-10 · Developer Workflow: 4 changes in 1.0.79
   — Added a `worktreeBaseRef` setting that controls whether `/worktree`, `/worktree…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1241
+  lag_days: 2890
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 899b356ddb21d02de24e91d29998d8ce8f0e27896964e54bc2b823ca16541374
+machine_hash: a03d9d56d799db83b49763adf12c57b88a42e4164fa2909c9ed1ed49d831dc61
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -111,7 +112,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.79
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

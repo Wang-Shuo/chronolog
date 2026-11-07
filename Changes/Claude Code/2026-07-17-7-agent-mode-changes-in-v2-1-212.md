@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d864549903dd4418e0855035a841d7475f7127d53fa598b323828147f70a41b
+machine_hash: ce0d4409d962b0343af08a6389a5411e29383db41ad38b99eae51b6c2fba67a1
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,10 +61,10 @@ record:
   title: 7 Agent Mode changes in v2.1.212
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-15-core-stopped-subagents-from-launching-nested-subagents-by-default-with-a-configu|Core
-  Stopped subagents from launching nested subagents by default…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent
-  Mode changes in v1.0.71]]'
+- '[[Changes/Kimi Code/2026-07-16-web-keep-session-activity-indicators-in-sync-with-agent-work-and-prevent-duplica|web:
+  Keep session activity indicators in sync with agent work and prevent duplicate…]]'
+- '[[Changes/Notion/2026-07-16-your-agent-just-got-new-calendar-tools-to-show-and-manage-your-schedule-join-cal|Your
+  agent just got new calendar tools to show and manage your schedule]]'
 - '[[Changes/OpenCode/2026-07-16-desktop-fixed-custom-agent-selector-visibility-when-custom-agents-are-available|Desktop
   Fixed custom agent selector visibility when custom agents are available]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'

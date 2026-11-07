@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c265151f277e30a64314891e844f87338cfd818d91d15b8ce568b29bdd3e3a80
+machine_hash: d5c434c0bfbb611333094f42b900dc4bb414fd1247ab5999eb4c83cd3d38b8be
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 ## Nearby in Model Support
 
 - Earlier: 2026-07-16 · Cline · [[Changes/Cline/2026-07-16-add-gpt-5-6-chatgpt-subscription-models|Add GPT-5.6 ChatGPT subscription models]]
-- Later: 2026-07-16 · Ollama · [[Changes/Ollama/2026-07-16-2-model-support-changes-in-v0-32-1|2 Model Support changes in v0.32.1]]
+- Later: 2026-07-16 · Kimi Code · [[Changes/Kimi Code/2026-07-16-2-model-support-changes-in-kimi-code-0-26-0-2026-07-16-say-hi|2 Model Support changes in Kimi Code 0.26.0 (2026-07-16) Say hi…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

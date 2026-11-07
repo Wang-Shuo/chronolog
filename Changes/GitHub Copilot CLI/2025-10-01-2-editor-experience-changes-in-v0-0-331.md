@@ -4,20 +4,19 @@ date: '2025-10-01'
 description: 'GitHub Copilot CLI · 2025-10-01 · Editor Experience: 2 changes in 0.0.331
   — Improved the information density of file read/edit timeline events'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 932
+  lag_days: 2516
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 01ca99c4ff3c35a261d651419d9a86f7b9cb651a04b90fbac773f1d424ba6bf1
+machine_hash: 21664399f847c233492f36420fade46d97541222b62f66407e40ad7730f1ddd6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.331
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,21 @@ description: 'Claude Code · 2026-06-22 · Account and Access: 2 changes in v2.1
   — Added `claude mcp login <name>` and `claude mcp logout <name>` to authenticate
   MCP…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1180
+  lag_days: 2155
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d1369af47225228cc8181f736f61952d3e22b6bcf63efeb6bae7c503ef067bc
+machine_hash: 29117576ce0281646a773e0fb22a3d434f1d79e847925ec7725bfc5a3c89f1ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +47,10 @@ record:
   title: 2 Account and Access changes in v2.1.186
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-17-2-account-and-access-changes-in-v1-17-8|2 Account
-  and Access changes in v1.17.8]]'
 - '[[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257
   Support staging OAuth client ID overrides @apanasenko-oai]]'
+- '[[Changes/Kimi Code/2026-06-18-redesign-the-web-oauth-login-dialog-so-the-order-of-steps-is-unambiguous|Redesign
+  the web OAuth login dialog so the order of steps is unambiguous]]'
 - '[[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous
   users opening a shared or public chat are no longer redirected to sign…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
@@ -97,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.186
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

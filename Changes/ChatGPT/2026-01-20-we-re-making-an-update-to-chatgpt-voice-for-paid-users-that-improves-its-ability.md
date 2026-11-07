@@ -4,20 +4,20 @@ date: '2026-01-20'
 description: 'ChatGPT · 2026-01-20 · Voice and Audio: We’re making an update to ChatGPT
   Voice for paid users that improves its ability to follow user instructions, as well…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 925
+  lag_days: 2752
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b19e87d351cccb10efe93353cd64a83fd972ef76e6a59b7848a1d510ef2a862
+machine_hash: c7da31367a7dc433c961cebc4171e7dd0e4e5e182157aad796e3b3481275b76f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -83,13 +83,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-01-19 · ElevenLabs · [[Changes/ElevenLabs/2026-01-19-javascript-sdk|JavaScript SDK]]
-- Later: 2026-01-23 · Replit · [[Changes/Replit/2026-01-23-audio-support-in-ai-integrations|Audio support in AI integrations]]
+- Later: 2026-01-20 · HeyGen · [[Changes/HeyGen/2026-01-20-voice-delivery-controls-access-voice-director-voice-mirroring-and-enhance-voice|Voice delivery controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

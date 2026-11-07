@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-14 · Enterprise and Administration: \U0001F
   **Translated model prompt suggestions.** Editing the prompt suggestions of a model
   that uses the…"
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1258
+  lag_days: 2465
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8df27ed31e1ae48cb5af50b3aa247ee90a2c85f54ad139c5451fa7d170b13e22
+machine_hash: a4c8a94fce34bf023683f9b36fe99e0f765be5c0abc2fcd1fb0e74022336fc79
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,12 +60,10 @@ record:
     of a model…"
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-10-5-enterprise-and-administration-changes-in-v2026-10-1|5
-  Enterprise and Administration changes in v2026.10.1]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep
-  /allow-all available during startup while enterprise policy is still resolving]]'
-- '[[Changes/Google Antigravity/2026-10-12-when-antigravity-gets-a-specific-reason-for-an-error-such-as-a-model-your-admini|When
-  Antigravity gets a specific reason for an error, such as a model…]]'
+- '[[Changes/HeyGen/2026-10-13-request-more-capacity|Request more capacity]]'
+- '[[Changes/HeyGen/2026-10-13-member-usage-limits-and-requests|Member usage limits
+  and requests]]'
+- '[[Changes/HeyGen/2026-10-13-look-packs-over-the-api|Look Packs over the API]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -109,14 +107,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-12 · Google Antigravity · [[Changes/Google Antigravity/2026-10-12-when-antigravity-gets-a-specific-reason-for-an-error-such-as-a-model-your-admini|When Antigravity gets a specific reason for an error, such as a model…]]
+- Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-look-packs-over-the-api|Look Packs over the API]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-scim-cannot-delete-admins-an-identity-provider-can-no-longer-delete-administrato|👮 SCIM cannot delete admins. An identity provider can no longer delete…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

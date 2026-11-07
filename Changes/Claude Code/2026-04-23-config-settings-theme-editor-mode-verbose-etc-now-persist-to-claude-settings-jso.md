@@ -4,20 +4,19 @@ date: '2026-04-23'
 description: 'Claude Code · 2026-04-23 · Editor Experience: `/config` settings (theme,
   editor mode, verbose, etc.) now persist to `~/.claude/settings.json` and participate…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1136
+  lag_days: 2720
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c8fe3bc71e5a889cceae996576a80ea4ccd353dc16eddc3489d158ab9e54f19
+machine_hash: fed55d8d347c27ea9ef2c97488b1a5b995547fa4808ebfdd9d705a9c72a1d6e4
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +42,10 @@ record:
   title: '`/config` settings (theme, editor mode, verbose, etc.) now persist…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor
-  Experience changes in v2.1.116]]'
-- '[[Changes/OpenCode/2026-04-20-core-preserved-concurrent-edits-to-the-same-file-instead-of-letting-parallel-edi|Core
-  Preserved concurrent edits to the same file instead of letting parallel edits…]]'
+- '[[Changes/HeyGen/2026-04-21-you-recorded-a-90-minute-podcast-your-editor-needs-6-hours-to-pull-clips-your-au|You
+  recorded a 90-minute podcast]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-21-rich-bing-web-answer-cards-in-copilot-chat-windows-web-microsoft-365-copilot-cha|Rich
+  Bing web answer cards in Copilot Chat Windows, Web (Microsoft 365 Copilot chat)]]'
 - '[[Changes/Open WebUI/2026-04-21-5-editor-experience-changes-in-v0-9-0|5 Editor
   Experience changes in v0.9.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

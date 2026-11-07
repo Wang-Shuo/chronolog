@@ -4,20 +4,20 @@ date: '2026-08-12'
 description: 'Claude Code · 2026-08-12 · Apps and Integrations: 3 changes in v2.1.229
   — Documented `claude remote-control --continue` for resuming the most recent Remote…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1238
+  lag_days: 2798
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1040bd35567f0749e738062018e93f718eaad21b7ece5aee603428d372590dd7
+machine_hash: 98922146c3fc1303507d6a861c9b48bb53607af80d72c3b6a7f7f51d7c72157f
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.229
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-10-agent-integrations-for-workspace-published-apps|Agent
-  integrations for workspace-published apps]]'
 - '[[Changes/Lovable/2026-08-10-connect-mcp-servers-from-a-registry|Connect MCP servers
   from a registry]]'
 - '[[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2
   Apps and Integrations changes in v2.1.228]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-servicenow-connectors-support-role-based-permissions-web-microsoft-365-copilot-e|ServiceNow
+  connectors support role-based permissions…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -95,14 +95,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.229
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2 Apps and Integrations changes in v2.1.228]]
-- Later: 2026-08-12 · Lovable · [[Changes/Lovable/2026-08-12-unpublish-several-projects-at-once|Unpublish several projects at once]]
+- Earlier: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-servicenow-connectors-support-role-based-permissions-web-microsoft-365-copilot-e|ServiceNow connectors support role-based permissions…]]
+- Later: 2026-08-12 · Kimi Code · [[Changes/Kimi Code/2026-08-12-add-the-modern-web-guidance-plugin-to-the-bundled-plugin-marketplace-run-plugins|Add the Modern Web Guidance plugin to the bundled plugin marketplace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

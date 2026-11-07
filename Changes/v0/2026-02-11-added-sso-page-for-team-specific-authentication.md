@@ -4,20 +4,21 @@ date: '2026-02-11'
 description: 'v0 · 2026-02-11 · Account and Access: Added SSO page for team-specific
   authentication'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1049
+  lag_days: 2024
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b08bab0b66c1934ccd6bea5955c5434bee2e4f0a881fda288ae537cf3178c7e
+machine_hash: fe9110c71d222f8e6255f023c8abb0b870e0ebd7ee7a7689c4e624cfe1f267c1
 product: v0
 product_name: v0
 record:
@@ -41,8 +42,8 @@ record:
   title: Added SSO page for team-specific authentication
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core):
-  mock fetch in OAuth transport fallback tests]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-admins-can-set-up-connector-authentication-faster-with-a-simplified-experience-w|Admins
+  can set up connector authentication faster with a simplified experience…]]'
 - '[[Changes/OpenCode/2026-02-10-desktop-include-basic-authentication-in-app|Desktop
   Include basic authentication in app]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-2-account-and-access-changes-in-v0-0-407|2
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

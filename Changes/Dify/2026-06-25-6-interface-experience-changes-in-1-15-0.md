@@ -4,20 +4,20 @@ date: '2026-06-25'
 description: 'Dify · 2026-06-25 · Interface Experience: 6 changes in 1.15.0 — **Redesigned
   landing / onboarding** for an easier first-run experience (#37433, #37844, #37800)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1263
+  lag_days: 2629
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 74c23918b9a47602e1f3e1fa87d131d9b034619c318f882dbde19ca9755f23da
+machine_hash: 19ac2ad17269c5c2a1778b3ba2a720530206d31ac6a43da0de958fe6f1e272a1
 product: dify
 product_name: Dify
 record:
@@ -54,10 +54,10 @@ record:
   title: 6 Interface Experience changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-11-interface-experience-changes-in-v1-0-64|11
-  Interface Experience changes in v1.0.64]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-24-2-interface-experience-changes-in-v1-0-65|2
-  Interface Experience changes in v1.0.65]]'
+- '[[Changes/HeyGen/2026-06-24-the-result-is-a-ready-to-use-set-of-avatar-looks-that-actually-look-like-you-gen|The
+  result is a ready-to-use set of avatar looks that actually look like you…]]'
+- '[[Changes/Kimi Code/2026-06-24-7-interface-experience-changes-in-kimi-code-0-19-2|7
+  Interface Experience changes in Kimi Code 0.19.2]]'
 - '[[Changes/OpenCode/2026-06-24-2-interface-experience-changes-in-v1-17-10|2 Interface
   Experience changes in v1.17.10]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'
@@ -123,7 +123,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

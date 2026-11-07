@@ -4,19 +4,20 @@ date: '2026-05-29'
 description: 'Lovable · 2026-05-29 · Collaboration: Comment, share, and publish buttons
   now use matching styles, with refined avatars and a more polished layout.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1101
+  lag_days: 2695
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f93c78c8e5e037c6abc08ccb278cc0751671bd7f285bf81ee712e7a9bfbd092c
+machine_hash: e1d22226237503b0ce88acfed7129fba93b54eab6ff96171a91e19354eafa7ce
 product: lovable
 product_name: Lovable
 record:
@@ -43,11 +44,11 @@ record:
   title: More consistent project action buttons
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation
-  sharing]]'
 - '[[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration
   changes in rust-v0.131.0]]'
 - '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
+- '[[Changes/Kimi Code/2026-05-29-relocate-shared-tool-service-typing-to-the-tool-support-layer|Relocate
+  shared tool service typing to the tool support layer]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-29-2026-05-29-e3cfe151|lovable-2026-05-29-2026-05-29-e3cfe151]]'
 source_type: lovable_changelog
 theme: collaboration
@@ -74,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]
+- Earlier: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-relocate-shared-tool-service-typing-to-the-tool-support-layer|Relocate shared tool service typing to the tool support layer]]
 - Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-shared-chat-file-write-protection-access-to-a-file-through-a-shared-chat-now-onl|🔐 Shared-chat file write protection. Access to a file through a shared chat now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

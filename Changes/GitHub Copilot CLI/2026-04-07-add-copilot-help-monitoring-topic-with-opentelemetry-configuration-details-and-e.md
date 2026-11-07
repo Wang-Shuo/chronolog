@@ -4,20 +4,19 @@ date: '2026-04-07'
 description: 'GitHub Copilot CLI · 2026-04-07 · Editor Experience: Add `copilot help
   monitoring` topic with OpenTelemetry configuration details and examples'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1120
+  lag_days: 2704
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9c89979c01b8e880a3cb81ee8b741c00cb63f803a30e4b911023fbb3259b860
+machine_hash: 4ad5d2885e8e5f5f64aa85375adfc4fe3d068eb29983d4f3839cb11e7ce54dec
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

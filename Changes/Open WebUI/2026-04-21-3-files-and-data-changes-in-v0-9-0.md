@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-04-21 · Files and Data: 3 changes in v0.9.0 �
   **CSV feedback export.** Feedback history can now be exported as either JSON or
   CSV, making…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1062
+  lag_days: 2407
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39d3fb522a68fa897a8bdf038c1a9af02792fa260d751b2e29ff027bd4f3bca9
+machine_hash: 781ab38ff990426c2111c4942a8cfe29d90988132ae933c42344e2f65061ba38
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,10 +54,9 @@ record:
   title: 3 Files and Data changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan
-  tabs now get the same document behaviors as files]]'
 - '[[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor
   can now respond by creating interactive canvases]]'
+- '[[Changes/Descript/2026-04-16-locked-layers-https-help-descript-com-hc-en-us-articles-17461277756941-lock-laye|Locked…]]'
 - '[[Changes/ElevenLabs/2026-04-20-text-to-dialogue|Text to Dialogue]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a|open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a]]'
 source_type: github_releases
@@ -117,7 +116,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

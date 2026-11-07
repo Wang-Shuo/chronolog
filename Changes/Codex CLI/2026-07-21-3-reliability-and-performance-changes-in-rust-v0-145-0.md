@@ -4,20 +4,20 @@ date: '2026-07-21'
 description: 'Codex CLI · 2026-07-21 · Reliability and Performance: 3 changes in 0.145.0
   — #32106 Reduce startup latency for ancestor discovery @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1314
+  lag_days: 2801
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf2a25ff539fd61878b304bf33b4075a1cc2ee02d32a09cd2a59e6e1c8cdda55
+machine_hash: 90c45d8e4b37bd7846e014c9821200bd50fe96b39ac8d15dde26e9c2265e0dea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,13 +101,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added warnings when transcript writes are failing (e.g. disk full) or when session…]]
-- Later: 2026-07-23 · Ollama · [[Changes/Ollama/2026-07-23-expanded-gpu-support-with-cuda-on-windows-arm64-b200-support-through-cuda-12-and|Expanded GPU support with CUDA on Windows ARM64, B200 support through CUDA 12…]]
+- Later: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-improve-tui-performance-and-resume-speed-for-long-running-sessions|Improve TUI performance and resume speed for long-running sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

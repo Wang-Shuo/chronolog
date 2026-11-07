@@ -4,20 +4,20 @@ date: '2025-05-05'
 description: 'OpenHands · 2025-05-05 · Mobile and Desktop: Made small tweaks for mobile
   styles by @rbren in https://github.com/All-Hands-AI/OpenHands/pull/8228'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 783
+  lag_days: 2367
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: acd3011dcc022c6464d7879d0ae220dc783431fe2c663e4fe847ce13db45ae0d
+machine_hash: e78d1727fbae8afe89a78bbf1c05106693930fd710bbea0f22e9464ccccdbeb5
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Made small tweaks for mobile styles
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX
-  Improvements: Whether it’s fixing layout issues on mobile…]]'
+- '[[Changes/Descript/2025-04-10-updates-desktop-app-to-support-configuration-change|Updates
+  desktop app to support configuration change]]'
 - '[[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed
   failure of Docker containers to start on Windows]]'
 - '[[Changes/Windsurf/2025-04-29-reduced-errors-for-edit-tool-calls-for-windows|Reduced
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-04-29 · Windsurf · [[Changes/Windsurf/2025-04-29-reduced-errors-for-edit-tool-calls-for-windows|Reduced errors for edit tool calls for Windows]]
-- Later: 2025-05-13 · Ollama · [[Changes/Ollama/2025-05-13-improved-prompt-processing-speeds-of-qwen3-moe-on-macos|Improved prompt processing speeds of Qwen3 MoE on macOS]]
+- Later: 2025-05-06 · Descript · [[Changes/Descript/2025-05-06-screen-recorder-updates|Screen recorder updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

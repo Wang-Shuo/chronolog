@@ -5,20 +5,20 @@ description: 'Dify · 2025-09-29 · Context Window: Synced FileUploader context 
   props to fix inconsistent file parameters in cached variable view by @Woo0ood in
   #26199.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 879
+  lag_days: 2203
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4ea251fb64c814db16b1f707e0e0cc90ddbf4adabb62df156136a4e9a80c8f7
+machine_hash: cfbc4866f8cee4d7a89340d7d5fa13cb50db2731f6965674c44b92b3c34a9b39
 product: dify
 product_name: Dify
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-09-29 · Cline · [[Changes/Cline/2025-09-29-disk-ts-replace-uses-of-context-globalstorageuri-with-hostprovider-get-globalsto|disk.ts Replace uses of context.globalStorageUri…]]
-- Later: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-2-context-window-changes-in-rust-v0-44-0|2 Context Window changes in rust-v0.44.0]]
+- Later: 2025-09-30 · Z.ai API · [[Changes/Z.ai API/2025-09-30-the-update-also-expands-the-context-window-to-200k-improving-its-ability-to-hand|The update also expands the context window to 200K, improving its ability to handle…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

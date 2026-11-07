@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 3784402552252c63ab19afee883a8bd5374be30566f0b5f970cb7f30c26d8dc9
+machine_hash: 806220055e2eef31e0ceb8d74ffb26ac06365f82ff403c59a29e356b39f45e11
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -44,8 +44,8 @@ record:
   title: New Endpoints
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-03-add-infer-property-to-control-custom-agent-tool-visibility|Add
-  infer property to control custom agent tool visibility]]'
+- '[[Changes/Notion/2025-12-03-notion-agent-can-now-build-beautiful-forms-in-seconds|Agent
+  can build forms]]'
 - '[[Changes/Replit/2025-12-05-build-full-stack-mobile-apps-with-agent|Build full-stack
   mobile apps with Agent]]'
 - '[[Changes/ElevenLabs/2025-12-08-agents-platform|Agents Platform]]'

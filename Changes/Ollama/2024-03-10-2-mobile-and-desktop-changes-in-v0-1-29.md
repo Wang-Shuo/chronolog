@@ -5,20 +5,20 @@ description: 'Ollama · 2024-03-10 · Mobile and Desktop: 2 changes in v0.1.29 �
   now supports AMD graphics cards in preview on Windows and Linux. All the features
   are…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 362
+  lag_days: 1946
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2cd947a49141d07c5d22befc1e23663d70c58a6ce1c60bb3156263561f8026d
+machine_hash: 7478612e2a53ed5b71f6ded4edd60e5de195526a56279d42d189f75315b2f702
 product: ollama
 product_name: Ollama
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Mobile and Desktop changes in v0.1.29
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-21-quotes-will-now-be-trimmed-around-the-value-of-the-ollama-host-on-windows|Quotes
-  will now be trimmed around the value of the OLLAMA_HOST on Windows]]'
 - '[[Changes/Ollama/2024-02-22-reduced-likelihood-of-false-positive-windows-defender-alerts-on-windows|Reduced
   likelihood of false positive Windows Defender alerts on Windows]]'
+- '[[Changes/Notion/2024-02-26-take-actions-from-mobile-notifications|Take actions
+  from mobile notifications]]'
 - '[[Changes/Ollama/2024-03-01-2-mobile-and-desktop-changes-in-v0-1-28|2 Mobile and
   Desktop changes in v0.1.28]]'
 source_release: '[[Releases/Ollama/ollama-2024-03-10-v0-1-29-github-145649608-bc5ebf86|ollama-2024-03-10-v0-1-29-github-145649608-bc5ebf86]]'
@@ -93,7 +93,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.29
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

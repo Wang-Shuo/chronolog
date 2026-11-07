@@ -4,20 +4,19 @@ date: '2026-03-09'
 description: 'v0 · 2026-03-09 · Editor Experience: Improved the Custom Design System
   editor interface'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1091
+  lag_days: 2675
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f83da46e77596e514c61713a52b64d8ce8264c1841bf715568d57459f875340
+machine_hash: f74e4ffdf7ac2831098e43d48ccaa4ce7b74dad2e4d6c0e1b066d4924780f9ec
 product: v0
 product_name: v0
 record:
@@ -41,11 +40,11 @@ record:
   title: Improved the Custom Design System editor interface
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-07-2-editor-experience-changes-in-v1-2-21|2 Editor Experience
-  changes in v1.2.21]]'
 - '[[Changes/Open WebUI/2026-03-08-open-terminal-html-editing-users-can-now-edit-html-source-files-in-open-terminal|✏️
   Open Terminal HTML editing. Users can now edit HTML source files in Open…]]'
 - '[[Changes/ElevenLabs/2026-03-09-elevencreative-studio-cd704d|ElevenCreative Studio]]'
+- '[[Changes/Notion/2026-03-09-notion-ai-can-now-generate-and-edit-images-right-on-your-page-create-cover-image|Generate
+  images with Notion AI]]'
 source_release: '[[Releases/v0/v0-2026-03-09-2026-03-09-ae721d55|v0-2026-03-09-2026-03-09-ae721d55]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -75,14 +74,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-09 · ElevenLabs · [[Changes/ElevenLabs/2026-03-09-elevencreative-studio-cd704d|ElevenCreative Studio]]
+- Earlier: 2026-03-09 · Notion · [[Changes/Notion/2026-03-09-notion-ai-can-now-generate-and-edit-images-right-on-your-page-create-cover-image|Generate images with Notion AI]]
 - Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode: Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

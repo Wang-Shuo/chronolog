@@ -4,20 +4,19 @@ date: '2025-11-13'
 description: 'Dify · 2025-11-13 · Editor Experience: refactor(web): reuse the same
   edit-custom-collection-modal component, and fix the pop up error by @yangzheli in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 975
+  lag_days: 2559
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a22d3e61ec0bce42efefcccab99d1f0c3e16501b86437c9bd7ff7f028b7cf538
+machine_hash: 1fba8f4bdc7907ff682dddc614b63666ae109c3e82a941cca48254057386373d
 product: dify
 product_name: Dify
 record:
@@ -46,11 +45,10 @@ record:
     fix…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-enable-codebase-investigator-by-default-for-preview-by-silviojr-in-https-github|enable
-  codebase investigator by default for preview]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-12-3-editor-experience-changes-in-v0-0-355|3
   Editor Experience changes in v0.0.355]]'
 - '[[Changes/Ollama/2025-11-12-autocomplete|Autocomplete]]'
+- '[[Changes/Descript/2025-11-13-editor|Editor]]'
 source_release: '[[Releases/Dify/dify-2025-11-13-1-10-0-github-262130588-ef271481|dify-2025-11-13-1-10-0-github-262130588-ef271481]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-11-12 · Ollama · [[Changes/Ollama/2025-11-12-autocomplete|Autocomplete]]
+- Earlier: 2025-11-13 · Descript · [[Changes/Descript/2025-11-13-editor|Editor]]
 - Later: 2025-11-13 · Windsurf · [[Changes/Windsurf/2025-11-13-shortcuts|Shortcuts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Cursor · 2024-04-01 · Interface Experience: UPDATE (0.31.1–0.3
   Adds back in AI Review (alpha), fixes the "Cursor Settings" menu item, and fixes
   a bug…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 448
+  lag_days: 1814
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07e62f19ad23281116b7279f0eff0573bbe1dfb759849e476be25789b1ed83d3
+machine_hash: d8794fe403640f00a4d2ae3ad057891e6250940f81d8847b3a11ae52852161c7
 product: cursor
 product_name: Cursor
 record:
@@ -44,7 +44,7 @@ record:
   title: 'UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]'
+- '[[Changes/Descript/2024-03-12-color-rendering-issues|Color rendering issues]]'
 - "[[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|\U0001F504
   Sidebar UI Update]]"
 - '[[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

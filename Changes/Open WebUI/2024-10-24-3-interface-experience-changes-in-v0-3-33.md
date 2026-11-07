@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-10-24 · Interface Experience: 3 changes in v0.
   — **\U0001F4E4 Easy Chat Import via Drag & Drop**: Save time by simply dragging
   and dropping chat…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 654
+  lag_days: 2020
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b66d3f4cb1b9e5d0ee7e0d2645b24442cbed1f9afe1030da7a6f891c09834ad
+machine_hash: ed1be2b7d9b2758211e14ee10150f80ae4141d9b95b3b345d1ee3b1e293b841e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,12 +50,10 @@ record:
   title: 3 Interface Experience changes in v0.3.33
   type: change
 related_changes:
-- '[[Changes/Suno/2024-09-24-2-right-click-or-go-into-the-more-actions-menu|2 - Right
-  click or go into the More Actions menu]]'
-- "[[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|\U0001F527
-  KaTeX Rendering Improvement]]"
-- '[[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings
-  for completion menu colors]]'
+- '[[Changes/Descript/2024-10-10-updated-wording-on-mic-mute-tooltip-to-provide-clearer-instructions|Updated
+  wording on Mic mute tooltip to provide clearer instructions]]'
+- '[[Changes/Notion/2024-10-24-shortcut-to-notion-features|Shortcut to Notion features]]'
+- '[[Changes/Notion/2024-10-24-personalize-your-urls|Personalize your URLs]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-24-v0-3-33-github-181813159-9e2c88f7|open-webui-2024-10-24-v0-3-33-github-181813159-9e2c88f7]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,14 +93,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.33
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings for completion menu colors]]
+- Earlier: 2024-10-24 · Notion · [[Changes/Notion/2024-10-24-personalize-your-urls|Personalize your URLs]]
 - Later: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-feat-regenerate-history-switch-navigation-by-xuzuodong-in-https-github-com-langg|feat: regenerate history switch navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

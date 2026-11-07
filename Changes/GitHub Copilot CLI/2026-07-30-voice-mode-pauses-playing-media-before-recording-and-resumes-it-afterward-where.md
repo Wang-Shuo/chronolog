@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-07-30 · Voice and Audio: Voice mode pa
   playing media before recording and resumes it afterward, where supported (macOS
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1116
+  lag_days: 2943
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 050f73008d77f7e0fa7881dd5edfe91502fdcf292634b78b572d6dcf20f2b317
+machine_hash: 5bc3680eff8d9924a1ef4351b68e17d851193c174d8d4a78a194726a5473b309
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
     where…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-4-voice-and-audio-changes-in-v0-11-0|4 Voice and
-  Audio changes in v0.11.0]]'
-- '[[Changes/Dify/2026-07-28-returned-400-instead-of-500-when-file-field-is-missing-from-audio-to-text-endpoi|Returned
-  400 instead of 500 when file field is missing from audio-to-text…]]'
 - '[[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create
   and edit with your voice, anywhere on your desktop with Gemini on macOS]]'
+- '[[Changes/HeyGen/2026-07-29-full-script-editing-before-render-edit-any-line-and-the-voice-updates-automatica|Full
+  script editing before render: Edit any line and the voice updates automatically]]'
+- '[[Changes/HeyGen/2026-07-29-why-it-matters|Why it matters]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'
 source_type: github_releases
 theme: voice
@@ -89,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-29 · Gemini · [[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create and edit with your voice, anywhere on your desktop with Gemini on macOS]]
+- Earlier: 2026-07-29 · HeyGen · [[Changes/HeyGen/2026-07-29-why-it-matters|Why it matters]]
 - Later: 2026-07-30 · Runway · [[Changes/Runway/2026-07-30-elevenlabs-v3-is-now-available-on-runway-dev-generate-expressive-text-to-speech|Eleven v3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

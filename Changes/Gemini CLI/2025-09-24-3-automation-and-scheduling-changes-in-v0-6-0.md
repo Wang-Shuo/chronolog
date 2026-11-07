@@ -4,20 +4,20 @@ date: '2025-09-24'
 description: 'Gemini CLI · 2025-09-24 · Automation and Scheduling: 3 changes in Release
   v0.6.0 — feat(ui): Add confirmation dialog for disabling loop detection for current…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 631
+  lag_days: 2198
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9339fc0c70f5dd87667760a32c49ca03422d1bb3cd3f928876b202fee532110e
+machine_hash: 58d96c6a32630d5551ff3b76f27a22e2b71a3e2a3505b5a9d18d389d6bcea4d3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,9 +47,10 @@ record:
   title: 3 Automation and Scheduling changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-01-sound-effects|Sound Effects]]'
 - '[[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta|Gamma
   API: Automate your creative workflow (Beta)]]'
+- '[[Changes/Notion/2025-09-18-notion-ai-will-write-your-formulas|Notion AI will write
+  your formulas]]'
 - '[[Changes/Dify/2025-09-22-5-automation-and-scheduling-changes-in-1-9-0|5 Automation
   and Scheduling changes in 1.9.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c|gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c]]'
@@ -100,7 +101,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.6.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

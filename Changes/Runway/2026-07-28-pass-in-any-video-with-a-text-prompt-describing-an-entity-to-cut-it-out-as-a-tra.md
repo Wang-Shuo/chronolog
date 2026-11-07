@@ -4,20 +4,20 @@ date: '2026-07-28'
 description: 'Runway · 2026-07-28 · Multimodal Input: Pass in any video with a text
   prompt describing an entity to cut it out as a transparent webm video. You can also…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1043
+  lag_days: 2811
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0eddc2de0d85057cbfde756004b0cd605e74ea53b91ad5da51b7367f7708709c
+machine_hash: 606a7ea9f8d90f6969e298d421d3dbe6e2b58a7d8b34aedbd2f1b7f6a99b5072
 product: runway
 product_name: Runway
 record:
@@ -46,10 +46,10 @@ record:
   title: SAM3 Video Segmentation
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-19-multimodal-input-changes-in-v2026-7-1|19 Multimodal
-  Input changes in v2026.7.1]]'
-- '[[Changes/Runway/2026-07-14-aleph-2-0-is-now-available-through-the-runway-mcp-ask-your-agent-to-edit-videos|Aleph
-  2.0 in MCP]]'
+- '[[Changes/HeyGen/2026-07-23-the-video-agent-builds-a-complete-video-from-a-single-prompt-script-voiceover-av|The
+  Video Agent builds a complete video from a single prompt]]'
+- '[[Changes/Synthesia/2026-07-24-motion-graphics-now-translate-as-part-of-the-standard-video-translation-flow|Translate
+  motion graphics automatically]]'
 - "[[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|\U0001F5BC️
   Media types an extraction engine may handle. Administrators can now list…]]"
 source_release: '[[Releases/Runway/runway-2026-07-28-2026-07-28-sam3-video-segmentation-cd4b89d0|runway-2026-07-28-2026-07-28-sam3-video-segmentation-cd4b89d0]]'
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|🖼️ Media types an extraction engine may handle. Administrators can now list…]]
-- Later: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-ci-require-frontend-screenshot-video-and-checked-human-tested-box-by-all-hands-b|ci: require frontend screenshot/video and checked human-tested box]]
+- Later: 2026-07-29 · HeyGen · [[Changes/HeyGen/2026-07-29-turn-any-url-pdf-or-topic-into-a-publishable-two-host-video-episode-in-minutes|Turn any URL, PDF, or topic into a publishable two-host video episode in minutes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

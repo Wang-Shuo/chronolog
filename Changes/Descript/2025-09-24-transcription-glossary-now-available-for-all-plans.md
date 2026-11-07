@@ -1,0 +1,121 @@
+---
+card_id: descript-2025-09-24-850a0f
+date: '2025-09-24'
+description: 'Descript · 2025-09-24 · Voice and Audio: We''re pleased to announce
+  that we’ve returned the [Transcription…'
+diffusion:
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 2634
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: voice
+  tracked_products_count: 37
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 2f29256d6b3ca3340d21153f45e598e4eca02285839f4059fb5041484a9bea58
+product: descript
+product_name: Descript
+record:
+  card_id: descript-2025-09-24-850a0f
+  comparison: ''
+  date: '2025-09-24'
+  description: 'Descript — Release roundup—September 24th, 2025: We''re pleased to
+    announce that we’ve returned the [Transcription glossary](https://help.descript.com/hc/en-us/articles/10249407290637-Transcription-glossary)
+    as a feature for all plans. Previously, we limited this to Business and Enterprise
+    Drive users as part of Brand Studio, but after receiving feedback that users valued
+    this feature across all plan types, we''ve decided to make it universally available
+    again.'
+  evidence:
+  - quote: We're pleased to announce that we’ve returned the [Transcription glossary](https://help.descript.com/hc/en-us/articles/10249407290637-Transcription-glossary)
+      as a feature for all plans. Previously, we limited this to Business and Enterprise
+      Drive users as part of Brand Studio, but after receiving feedback that users
+      valued this feature across all plan types, we've decided to make it universally
+      available again.
+    source_release: https://feedback.descript.com/changelog/release-roundupseptember-24th-2025
+  - quote: If you’d like to automatically add words you correct frequently, there’s
+      a toggle available on the Transcription glossary panel. The Transcription glossary
+      still offers enhanced team-level features for Business and Enterprise plans,
+      while now providing essential functionality for all users.
+    source_release: https://feedback.descript.com/changelog/release-roundupseptember-24th-2025
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: descript
+  product_name: Descript
+  slug: transcription-glossary-now-available-for-all-plans
+  source_release: descript-2025-09-24-68d436f9a25ccc2773ae3774-f0a4507e
+  source_type: canny_changelog
+  theme: voice
+  title: Transcription glossary now available for all plans
+  type: change
+related_changes:
+- '[[Changes/Suno/2025-09-23-clearer-more-immersive-audio|Clearer, more immersive
+  audio]]'
+- '[[Changes/Descript/2025-09-24-audio-only-mode|Audio Only mode]]'
+- '[[Changes/Descript/2025-09-24-rooms-updates-lossless-wav-recording-audio-only-mode-and-camera-resolution-contr|Rooms
+  updates—Lossless WAV recording, Audio-only mode, and Camera resolution…]]'
+source_release: '[[Releases/Descript/descript-2025-09-24-68d436f9a25ccc2773ae3774-f0a4507e|descript-2025-09-24-68d436f9a25ccc2773ae3774-f0a4507e]]'
+source_type: canny_changelog
+theme: voice
+title: Transcription glossary now available for all plans
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Transcription glossary now available for all plans
+
+**Descript** · 2025-09-24 · [[Themes/voice|Voice and Audio]] · Launch · [Official source](https://feedback.descript.com/changelog/release-roundupseptember-24th-2025) · from [[Releases/Descript/descript-2025-09-24-68d436f9a25ccc2773ae3774-f0a4507e|Release roundup—September 24th, 2025]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> We're pleased to announce that we’ve returned the [Transcription glossary](https://help.descript.com/hc/en-us/articles/10249407290637-Transcription-glossary) as a feature for all plans. Previously, we limited this to Business and Enterprise Drive users as part of Brand Studio, but after receiving feedback that users valued this feature across all plan types, we've decided to make it universally available again.
+>
+> If you’d like to automatically add words you correct frequently, there’s a toggle available on the Transcription glossary panel. The Transcription glossary still offers enhanced team-level features for Business and Enterprise plans, while now providing essential functionality for all users.
+>
+> Source: https://feedback.descript.com/changelog/release-roundupseptember-24th-2025
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Descript/2025-09-24-what-s-improved|What's improved]] · Multimodal Input
+- [[Changes/Descript/2025-09-24-recovery-process-improvements|Recovery Process Improvements]] · Interface Experience
+- [[Changes/Descript/2025-09-24-turn-into-video-transform-still-images-into-dynamic-videos|Turn into video—Transform still Images into dynamic videos]] · Multimodal Input
+- [[Changes/Descript/2025-09-24-click-turn-into-video-button|Click "Turn into video" button]] · Multimodal Input
+- [[Changes/Descript/2025-09-24-image-generation-models|Image generation models]] · Image Generation
+- [[Changes/Descript/2025-09-24-audio-only-mode|Audio Only mode]] · Voice and Audio
+- [[Changes/Descript/2025-09-24-4-video-generation-changes-in-release-roundup-september-24th-2025|4 Video Generation changes in Release roundup—September 24th, 2025]] · Video Generation
+- [[Changes/Descript/2025-09-24-rooms-updates-lossless-wav-recording-audio-only-mode-and-camera-resolution-contr|Rooms updates—Lossless WAV recording, Audio-only mode, and Camera resolution…]] · Voice and Audio
+- [[Changes/Descript/2025-09-24-video-regenerate-beta-improvements|Video regenerate (beta) improvements]] · Voice and Audio
+- [[Changes/Descript/2025-09-24-new-media-generation-model-selection-in-settings|New media generation model selection in Settings]] · Model Support
+- [[Changes/Descript/2025-09-24-what-does-lossless-mean|What does lossless mean?]] · Voice and Audio
+- [[Changes/Descript/2025-09-24-these-new-controls-allow-you-to-optimize-for-your-internet-connection-by-selecti|These new controls allow you to optimize for your internet connection by selecting…]] · Interface Experience
+- [[Changes/Descript/2025-09-24-for-paid-subscribers|For paid subscribers]] · Pricing Model
+- [[Changes/Descript/2025-09-24-video-generation-models|Video generation models]] · Video Generation
+- [[Changes/Descript/2025-09-24-enhanced-file-recovery-for-all-descript-recorders|Enhanced file recovery for all Descript recorders]] · Voice and Audio
+- [[Changes/Descript/2025-09-24-lossless-wav-recording|Lossless WAV recording]] · Voice and Audio
+- [[Changes/Descript/2025-09-24-introducing-new-plans-and-usage-tracking-in-descript|Introducing new plans and usage tracking in Descript]] · Pricing Model
+- [[Changes/Descript/2025-09-24-5-other-changes-in-release-roundup-september-24th-2025|5 other changes in Release roundup—September 24th, 2025]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Voice and Audio
+
+- Earlier: 2025-09-23 · Suno · [[Changes/Suno/2025-09-23-clearer-more-immersive-audio|Clearer, more immersive audio]]
+- Later: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio changes in v3.31.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20descript-2025-09-24-850a0f&body=Card%3A%20Changes%2FDescript%2F2025-09-24-transcription-glossary-now-available-for-all-plans.md%0ACard%20ID%3A%20descript-2025-09-24-850a0f%0ASource%3A%20https%3A%2F%2Ffeedback.descript.com%2Fchangelog%2Frelease-roundupseptember-24th-2025%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

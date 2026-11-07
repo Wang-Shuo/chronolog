@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ecb3efcca3459bdee4873d9f9dab9ebde62d4e9a1850e65a835119d9e27c086d
+machine_hash: aa3c074af5dfdb921fac1b884d0f546b0a9971952a9ed2d6d1e460f986698b88
 product: cursor
 product_name: Cursor
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-plan-mode-with-auto-to-no-longer-prompt-for-bash-commands-the-static-ana|Changed plan mode with auto to no longer prompt for Bash commands the static…]]
-- Later: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-3-agent-mode-changes-in-v1-0-74|3 Agent Mode changes in v1.0.74]]
+- Later: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-3-agent-mode-changes-in-kimi-code-0-29-0|3 Agent Mode changes in Kimi Code 0.29.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

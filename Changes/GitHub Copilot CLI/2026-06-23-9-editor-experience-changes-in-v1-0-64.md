@@ -4,20 +4,19 @@ date: '2026-06-23'
 description: 'GitHub Copilot CLI · 2026-06-23 · Editor Experience: 9 changes in 1.0.64
   — Content exclusion no longer blocks every file when the rules service is unreachable…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1197
+  lag_days: 2781
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14fe9fe82f0259fb165f7d37653de673eb5919115358d4188584a55880fb55fc
+machine_hash: 7d112b4dee37d0d399fd002aaac256d229423a63f438f390437c24fdd9cb1da7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -133,7 +132,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

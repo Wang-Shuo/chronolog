@@ -4,20 +4,20 @@ date: '2023-11-30'
 description: 'Ollama · 2023-11-30 · Reliability and Performance: Improved progress
   bar when running `ollama pull` with a simpler design that displays a more consistent…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 350
+  lag_days: 1837
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 838581fc23dde38ed8e5bb7cf66a9ffb36e0fc857297dadc11cec92ff8b1d9a1
+machine_hash: ffad97c87ceb869096ccaf57340060bc7c88d8e053326c20c4aea99f1f80e8b2
 product: ollama
 product_name: Ollama
 record:
@@ -81,13 +81,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster Copilot++: a few hundred milliseconds faster, through various networking…]]
-- Later: 2023-12-14 · Ollama · [[Changes/Ollama/2023-12-14-this-release-adds-support-mixtral-and-other-models-based-on-its-mixture-of-exper|Ollama adds support Mixtral and other models based on its Mixture of Experts (MoE)…]]
+- Later: 2023-12-05 · Descript · [[Changes/Descript/2023-12-05-we-ve-fixed-several-bugs-related-to-the-new-wordless-media-in-the-script-that-sh|Descript fixes several bugs related to the new wordless media in the script…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

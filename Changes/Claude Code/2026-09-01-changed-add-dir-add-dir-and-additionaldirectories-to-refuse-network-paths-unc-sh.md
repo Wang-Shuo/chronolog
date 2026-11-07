@@ -4,20 +4,20 @@ date: '2026-09-01'
 description: 'Claude Code · 2026-09-01 · Mobile and Desktop: Changed `--add-dir`,
   `/add-dir`, and `additionalDirectories` to refuse network paths (UNC shares, `/net/<host>`…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1267
+  lag_days: 2851
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66d26c402ead06b098869002009250e92959ebaad94d618dd30457c765998028
+machine_hash: 550d01e79b1a83fcdae3cf6109d3d3820e7a0d1165706f83852ab8461115ab38
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,12 @@ record:
     paths…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-31-android-sdk|Android SDK]]'
 - "[[Changes/Open WebUI/2026-08-31-code-interpreter-starts-on-windows-the-built-in-code-interpreter-now-serves-its|\U0001F40D
   Code interpreter starts on Windows. The built-in code interpreter now serves…]]"
 - '[[Changes/OpenClaw/2026-08-31-installation-and-onboarding-a-clearer-path-from-download-to-a-first-useful-conve|Installation
   and Onboarding - A clearer path from download to a first useful…]]'
+- '[[Changes/Qoder/2026-08-31-improved-the-reliability-of-installation-and-updates-on-windows|Improved
+  the reliability of installation and updates on Windows]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -90,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-installation-and-onboarding-a-clearer-path-from-download-to-a-first-useful-conve|Installation and Onboarding - A clearer path from download to a first useful…]]
+- Earlier: 2026-08-31 · Qoder · [[Changes/Qoder/2026-08-31-improved-the-reliability-of-installation-and-updates-on-windows|Improved the reliability of installation and updates on Windows]]
 - Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-3-mobile-and-desktop-changes-in-v2026-8-2|3 Mobile and Desktop changes in v2026.8.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

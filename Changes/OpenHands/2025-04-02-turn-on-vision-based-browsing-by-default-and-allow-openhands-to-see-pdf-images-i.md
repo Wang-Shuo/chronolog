@@ -4,20 +4,20 @@ date: '2025-04-02'
 description: 'OpenHands · 2025-04-02 · Search and Browsing: Turn on vision-based browsing
   by default and allow OpenHands to see PDF / images in browser by @xingyaoww in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 741
+  lag_days: 1770
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 955f2667f73d0500b28ddc3d69ee185ee142b613758b0eec667ef07d6b8d67c7
+machine_hash: a7f7b13dcb60712a7e2298cae3c06ad842cecb3d6dcd65a9a0919eda3d2b36d5
 product: openhands
 product_name: OpenHands
 record:
@@ -53,12 +53,12 @@ record:
     images…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-20-web-search-retrieval-restored-resolved-a-critical-issue-that-broke-web-search-re|\U0001F50D
-  Web Search Retrieval Restored]]"
 - "[[Changes/Open WebUI/2025-02-27-full-context-mode-renamed-for-clarity-the-full-context-mode-toggle-in-web-search|\U0001F4DD
   \"Full Context Mode\" Renamed for Clarity]]"
 - '[[Changes/Dify/2025-03-11-for-a-more-detailed-dive-into-each-update-feel-free-to-browse-through-the-prs-we|For
   a more detailed dive into each update, feel free to browse through the PRs]]'
+- '[[Changes/Notion/2025-03-26-build-trust-with-verified-pages|Build trust with verified
+  pages]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-02-0-31-0-github-209939505-1b9e3a2d|openhands-2025-04-02-0-31-0-github-209939505-1b9e3a2d]]'
 source_type: github_releases
 theme: search-browsing
@@ -89,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-for-a-more-detailed-dive-into-each-update-feel-free-to-browse-through-the-prs-we|For a more detailed dive into each update, feel free to browse through the PRs]]
+- Earlier: 2025-03-26 · Notion · [[Changes/Notion/2025-03-26-build-trust-with-verified-pages|Build trust with verified pages]]
 - Later: 2025-04-07 · Open WebUI · [[Changes/Open WebUI/2025-04-07-2-search-and-browsing-changes-in-v0-6-2|2 Search and Browsing changes in v0.6.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

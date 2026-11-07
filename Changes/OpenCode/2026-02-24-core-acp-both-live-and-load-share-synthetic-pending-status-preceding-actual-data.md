@@ -4,19 +4,20 @@ date: '2026-02-24'
 description: 'OpenCode · 2026-02-24 · Collaboration: Core ACP both live and load share
   synthetic pending status preceding actual data'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1007
+  lag_days: 2601
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae56fdb9d6da84661d6b2d31ff75537576b480cf55cc86b1f71470ca9478672b
+machine_hash: 5a08cf10b14a411a3a11d1c3e8e8d8bbac98f33833084e26eacf85aa2f0f117d
 product: opencode
 product_name: OpenCode
 record:
@@ -44,11 +45,12 @@ record:
     data
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-02-17-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank
-  you so much for your help!]]'
-- '[[Changes/ElevenLabs/2026-02-23-music|Music]]'
 - '[[Changes/Lovable/2026-02-23-external-collaborator-visibility|External collaborator
   visibility]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-connect-copilot-with-monday-com-to-track-work-and-team-progress-web-microsoft-36|Connect
+  Copilot with Monday.com to track work and team progress…]]'
+- '[[Changes/Notion/2026-02-24-second-they-re-designed-for-teams-create-and-share-them-together-control-all-the|Second,
+  they’re designed for teams]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-24-v1-2-11-50dfe84c|opencode-2026-02-24-v1-2-11-50dfe84c]]'
 source_type: opencode_changelog
 theme: collaboration
@@ -85,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-23 · Lovable · [[Changes/Lovable/2026-02-23-external-collaborator-visibility|External collaborator visibility]]
+- Earlier: 2026-02-24 · Notion · [[Changes/Notion/2026-02-24-second-they-re-designed-for-teams-create-and-share-them-together-control-all-the|Second, they’re designed for teams]]
 - Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-12028-remove-feature-flag-collaboration-modes-aibrahim-oai|♯12028 remove feature flag collaboration modes @aibrahim-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

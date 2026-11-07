@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-30 · Voice and Audio: 12 changes in v2026.9.7
   can steer active work even when an older message is waiting as a follow-up. People
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1178
+  lag_days: 3005
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 611c912be4a28ae5f3a3fc0047c6976e3e6be780162920f8a4a61567c65195b2
+machine_hash: 2823eafef4d82b819fe1d3802211941f525332d84a98172f8ce0f8b41d4c7c62
 product: openclaw
 product_name: OpenClaw
 record:
@@ -187,7 +187,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-01-21 · Interface Experience: 3 changes in Rel
   v0.25.0 — [Skills] Foundation: Centralize management logic and feedback rendering
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1108
+  lag_days: 2474
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b7a5fdf3eef165e60220b519bd1b80fd384298d72272b73efbf1054b4d05186f
+machine_hash: 9bd24efadcabe9482ef5ace823d6a1bc663dbf2548e6586905469ca601dd3327
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Interface Experience changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
-  backspace to delete pasted text as a single token instead of one character…]]'
+- '[[Changes/HeyGen/2026-01-20-pronunciation-redesign-add-and-manage-glossaries-directly-in-the-panel-preview-p|Pronunciation
+  redesign: Add and manage glossaries directly in the panel]]'
 - '[[Changes/OpenCode/2026-01-20-3-interface-experience-changes-in-v1-1-28|3 Interface
   Experience changes in v1.1.28]]'
 - '[[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3
@@ -104,7 +104,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.25.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

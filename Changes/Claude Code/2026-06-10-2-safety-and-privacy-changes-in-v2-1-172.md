@@ -4,20 +4,20 @@ date: '2026-06-10'
 description: 'Claude Code · 2026-06-10 · Safety and Privacy: 2 changes in v2.1.172
   — Fixed `WebFetch(domain:*.example.com)` wildcard domain rules never matching subdomains…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1151
+  lag_days: 2143
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bdb0bc9e13861a4b72404b9442f9e3ce26e353e592cfaa3bdc239aad506e3d33
+machine_hash: 2a5b57e93a6bfc528653c554089a970180df3e84ccecb8b4b93db0b6abca5744
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.172
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-6-safety-and-privacy-changes-in-rust-v0-138-0|6
-  Safety and Privacy changes in rust-v0.138.0]]'
 - '[[Changes/Codex CLI/2026-06-09-5-safety-and-privacy-changes-in-rust-v0-139-0|5
   Safety and Privacy changes in rust-v0.139.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-pasted-images-no-longer-leak-into-the-main-prompt-after-a-permission-dialog-clos|Pasted
   images no longer leak into the main prompt after a permission dialog closes]]'
+- '[[Changes/Kimi Code/2026-06-09-fix-acp-slash-skill-routing-bootstrap-context-reads-file-and-permission-edge-cas|Fix
+  ACP slash skill routing, bootstrap context reads, file and permission edge…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
 theme: safety-privacy
@@ -92,14 +92,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-pasted-images-no-longer-leak-into-the-main-prompt-after-a-permission-dialog-clos|Pasted images no longer leak into the main prompt after a permission dialog closes]]
+- Earlier: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-fix-acp-slash-skill-routing-bootstrap-context-reads-file-and-permission-edge-cas|Fix ACP slash skill routing, bootstrap context reads, file and permission edge…]]
 - Later: 2026-06-10 · Cursor · [[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before you push]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

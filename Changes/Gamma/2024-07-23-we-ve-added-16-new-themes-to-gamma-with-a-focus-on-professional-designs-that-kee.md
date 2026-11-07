@@ -4,20 +4,19 @@ date: '2024-07-23'
 description: 'Gamma · 2024-07-23 · Editor Experience: We''ve added 16 new themes to
   Gamma, with a focus on professional designs that keep the focus on your content.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 497
+  lag_days: 2081
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bf624dc53622fed3f2a7dc9e1cd846bcf21de66198c098e8a9fb6a42397abfec
+machine_hash: 4c9eca9283ec75b68c59473df7eccfd2add0e971b8aad4970725e126fc9a0b38
 product: gamma
 product_name: Gamma
 record:
@@ -113,7 +112,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

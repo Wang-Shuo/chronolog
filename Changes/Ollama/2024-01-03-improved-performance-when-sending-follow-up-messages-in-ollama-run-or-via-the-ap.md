@@ -4,20 +4,20 @@ date: '2024-01-03'
 description: 'Ollama · 2024-01-03 · Reliability and Performance: Improved performance
   when sending follow up messages in `ollama run` or via the API.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 384
+  lag_days: 1871
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c19c62cceb9dbf7197b3c288623d8aabbf9f62697a6223056966c38f030ff68f
+machine_hash: cd23f60a1e3161e6443016354ba7a6cda4d0149b4146c149226f2c2e9865727c
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,10 @@ record:
     the API
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster
-  Copilot++: a few hundred milliseconds faster, through various networking…]]'
-- '[[Changes/Ollama/2023-11-30-improved-progress-bar-when-running-ollama-pull-with-a-simpler-design-that-displa|Improved
-  progress bar when running ollama pull with a simpler design that displays…]]'
+- '[[Changes/Descript/2023-12-05-general-updates|General Updates]]'
 - '[[Changes/Ollama/2023-12-14-this-release-adds-support-mixtral-and-other-models-based-on-its-mixture-of-exper|Ollama
   adds support Mixtral and other models based on its Mixture of Experts (MoE)…]]'
+- '[[Changes/Notion/2023-12-20-pages-load-15-20-faster|Pages load 15-20% faster]]'
 source_release: '[[Releases/Ollama/ollama-2024-01-03-v0-1-18-github-134950093-b924051a|ollama-2024-01-03-v0-1-18-github-134950093-b924051a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-12-14 · Ollama · [[Changes/Ollama/2023-12-14-this-release-adds-support-mixtral-and-other-models-based-on-its-mixture-of-exper|Ollama adds support Mixtral and other models based on its Mixture of Experts (MoE)…]]
+- Earlier: 2023-12-20 · Notion · [[Changes/Notion/2023-12-20-pages-load-15-20-faster|Pages load 15-20% faster]]
 - Later: 2024-01-04 · Dify · [[Changes/Dify/2024-01-04-2-reliability-and-performance-changes-in-0-4-3|2 Reliability and Performance changes in 0.4.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-06-17'
 description: 'ChatGPT · 2026-06-17 · Automation and Scheduling: Users can schedule
   work for specific times or broader windows, such as morning, afternoon, or evening.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 897
+  lag_days: 2464
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ca76e864288e98026843a86b38c62ebdde73f920211a69278498d965dcdbffb
+machine_hash: 9734bbbaaf10e769c2dbb6dd63c6b4a9ca627506653f3000748fcdd318d7caa9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
   title: Users can schedule work for specific times or broader windows, such as morning…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-use-natural-language-with-every-and-after-to-schedule-tasks-using-cron-expressio|Use
-  natural language with /every and /after to schedule tasks using cron…]]'
 - '[[Changes/Claude Code/2026-06-10-stopped-promoting-loop-in-remote-sessions-where-pending-loops-don-t-keep-the-con|Stopped
   promoting /loop in remote sessions, where pending loops don''t keep…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-every-and-after-can-now-schedule-slash-commands-e-g-every-1d-chronicle-standup|/every
   and /after can now schedule slash commands (e.g. /every 1d /chronicle standup)]]'
+- '[[Changes/Kimi Code/2026-06-15-do-not-carry-obsolete-legacy-loop-background-plan-yolo-or-unknown-experimental-f|Do
+  not carry obsolete legacy loop, background, plan, yolo, or unknown experimental…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-every-and-after-can-now-schedule-slash-commands-e-g-every-1d-chronicle-standup|/every and /after can now schedule slash commands (e.g. /every 1d /chronicle standup)]]
-- Later: 2026-06-18 · Cursor · [[Changes/Cursor/2026-06-18-computer-use-tool-for-automations|Computer use tool for automations]]
+- Earlier: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-do-not-carry-obsolete-legacy-loop-background-plan-yolo-or-unknown-experimental-f|Do not carry obsolete legacy loop, background, plan, yolo, or unknown experimental…]]
+- Later: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-restore-the-turn-counter-from-persisted-loop-events-on-resume-so-post-resume-tur|Restore the turn counter from persisted loop events on resume so post-resume turns…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

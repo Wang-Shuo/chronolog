@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc5e158cb66fe072500103593e9fb5a8c097987cc228370217b82fa0e7b81da7
+machine_hash: 175438ce0ed600272a7515237a934dbcbfaced1fa276d1f8da3369851d382c91
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved performance of opening recently-inactive background agent sessions…]]
-- Later: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-nemotron-3-ultra-https-ollama-com-library-nemotron-3-ultra-nvidia-nemotron-3-ult|Nemotron-3-Ultra((source link) NVIDIA Nemotron 3…]]
+- Later: 2026-06-02 · Kimi Code · [[Changes/Kimi Code/2026-06-02-3-agent-mode-changes-in-kimi-code-0-8-0|3 Agent Mode changes in Kimi Code 0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

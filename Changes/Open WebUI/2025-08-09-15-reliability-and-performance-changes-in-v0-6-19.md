@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-08-09 · Reliability and Performance: 15 change
   v0.6.19 — \U0001F5C2️ **Amazon S3 Vector Support**: You can now use Amazon S3 Vector
   as a…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 968
+  lag_days: 2455
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2fd7c1d075451f35d0383c91e80bba4cb3ba424ee7a0943b44e82b9b86866fe
+machine_hash: a3f993f069a5a8528fa2d5383fb9c6346351df21ede748448a8f903546b5db47
 product: open-webui
 product_name: Open WebUI
 record:
@@ -206,7 +206,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.19
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

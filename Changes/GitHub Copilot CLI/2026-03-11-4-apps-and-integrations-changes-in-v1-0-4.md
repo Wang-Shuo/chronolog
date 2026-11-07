@@ -4,20 +4,20 @@ date: '2026-03-11'
 description: 'GitHub Copilot CLI · 2026-03-11 · Apps and Integrations: 4 changes in
   1.0.4 — Custom agents from --plugin-dir plugins now load correctly in ACP mode'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1084
+  lag_days: 2644
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5385ca75736fbe4a4e1ec4786d00286f1932cd72766dc0c8f40fe04b89e18929
+machine_hash: ebe465d736bcad16475477a2505eccbf1b6841bba3d9fe73df977a56db862a9a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -99,13 +99,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.4
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-4-apps-and-integrations-changes-in-v0-33-0|4 Apps and Integrations changes in v0.33.0]]
-- Later: 2026-03-11 · v0 · [[Changes/v0/2026-03-11-added-one-click-marketplace-integration-installation-for-ios-app|Added one-click marketplace integration installation for iOS app]]
+- Later: 2026-03-11 · Notion · [[Changes/Notion/2026-03-11-notion-ai-can-now-search-your-salesforce-data-accounts-leads-opportunities-and-c|Search Salesforce accounts, leads, opportunities, and contacts in Notion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

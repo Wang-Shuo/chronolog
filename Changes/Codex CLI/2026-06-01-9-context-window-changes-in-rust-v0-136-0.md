@@ -4,20 +4,20 @@ date: '2026-06-01'
 description: 'Codex CLI · 2026-06-01 · Context Window: 9 changes in 0.136.0 — Remote
   execution setup now supports `CODEX_API_KEY` registration for approved OpenAI hosts…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1124
+  lag_days: 2448
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f455177d36952e6869a2106fa6c5b29b3fd852b71a71bfa7606af4ad89a0f84
+machine_hash: 244fb416b2649a5739386c40bb849623abca05d7d04b5772d34e7f4cba0127fb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,12 +61,12 @@ record:
   title: 9 Context Window changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-28-4-context-window-changes-in-rust-v0-135-0|4 Context
-  Window changes in rust-v0.135.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-2-context-window-changes-in-v1-0-55|2 Context
   Window changes in v1.0.55]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-context-window-changes-in-v1-0-56|2 Context
   Window changes in v1.0.56]]'
+- '[[Changes/Kimi Code/2026-05-29-4-context-window-changes-in-kimi-code-0-6-0|4 Context
+  Window changes in Kimi Code 0.6.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'
 source_type: github_releases
 theme: context-window
@@ -124,14 +124,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-context-window-changes-in-v1-0-56|2 Context Window changes in v1.0.56]]
+- Earlier: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-4-context-window-changes-in-kimi-code-0-6-0|4 Context Window changes in Kimi Code 0.6.0]]
 - Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-context-window-changes-in-v0-9-6|4 Context Window changes in v0.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

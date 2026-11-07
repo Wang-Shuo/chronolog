@@ -5,20 +5,20 @@ description: 'Replit · 2025-09-19 · Apps and Integrations: With Agent 3, Conne
   launched, allowing you to connect to third party services like GitHub, Notion, and
   more.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 911
+  lag_days: 2471
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: eaf3f8cf0df8c0cff08af1fb54564a704a5ed3ef328c30e5abee94e3503de212
+machine_hash: 18345eb8ae818659c190babf9b05913f7da6a51a7efdb2217443fc5f793fc13d
 product: replit
 product_name: Replit
 record:
@@ -47,12 +47,12 @@ record:
   title: Mobile connectors support
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-17-6-apps-and-integrations-changes-in-v0-5-3|6 Apps
-  and Integrations changes in v0.5.3]]'
 - '[[Changes/Open WebUI/2025-09-17-2-apps-and-integrations-changes-in-v0-6-29|2 Apps
   and Integrations changes in v0.6.29]]'
 - '[[Changes/Open WebUI/2025-09-17-onedrive-integration-was-fixed-after-recent-breakage-restoring-reliable-account|☁️
   OneDrive integration was fixed after recent breakage, restoring reliable account…]]'
+- '[[Changes/Notion/2025-09-18-notion-s-mcp-ecosystem-just-got-bigger|Notion’s MCP
+  ecosystem just got bigger]]'
 source_release: '[[Releases/Replit/replit-2025-09-19-2025-09-19-b0d6c042|replit-2025-09-19-2025-09-19-b0d6c042]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-onedrive-integration-was-fixed-after-recent-breakage-restoring-reliable-account|☁️ OneDrive integration was fixed after recent breakage, restoring reliable account…]]
+- Earlier: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-notion-s-mcp-ecosystem-just-got-bigger|Notion’s MCP ecosystem just got bigger]]
 - Later: 2025-09-20 · Cline · [[Changes/Cline/2025-09-20-feat-oca-ui-add-oca-provider-with-model-picker-and-auth-integration-by-nihar-ora|feat(oca-ui): add OCA provider with model picker and auth integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

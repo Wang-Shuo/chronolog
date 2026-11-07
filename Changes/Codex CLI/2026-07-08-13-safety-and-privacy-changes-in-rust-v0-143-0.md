@@ -4,20 +4,20 @@ date: '2026-07-08'
 description: 'Codex CLI · 2026-07-08 · Safety and Privacy: 13 changes in 0.143.0 —
   Updated OpenSSL, Hono, fast-uri, quick-xml, and crossbeam-epoch to address security…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1179
+  lag_days: 2171
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd31fff9b40cce78e1e0f0d4bb8cbea48c8bd36d337c055009a833569ba6818e
+machine_hash: 9d6ae03f0c6adf7c7d453308e49a83887576cf785daea49149c060f666f9bfdb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -65,8 +65,8 @@ record:
   title: 13 Safety and Privacy changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-8-safety-and-privacy-changes-in-v1-0-69|8
-  Safety and Privacy changes in v1.0.69]]'
+- '[[Changes/Kimi Code/2026-07-07-2-safety-and-privacy-changes-in-kimi-code-0-23-1|2
+  Safety and Privacy changes in Kimi Code 0.23.1]]'
 - '[[Changes/v0/2026-07-07-5-safety-and-privacy-changes-in-grouped-tool-approvals-richer-mcp|5
   Safety and Privacy changes in Grouped tool approvals, richer MCP…]]'
 - '[[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background
@@ -141,13 +141,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background task notifications now explicitly state that no human input has occurred…]]
-- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-on-desktop-work-can-use-local-files-and-desktop-apps-with-your-permission-the-bu-1e4d11|On desktop, Work can use local files and desktop apps with your permission]]
+- Later: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-security-login-activity-api-key-creation-email-changes|Security — login activity, API key creation, email changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

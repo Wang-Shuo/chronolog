@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4d1f8f3f1bd71090d20141bd018a88267fec2d162d753e989250359479223b1
+machine_hash: f3d88e8a57ca8ca1dc9edbe01da38d29a6299ae722ce0314c99a00150f361fb1
 product: openclaw
 product_name: OpenClaw
 record:
@@ -65,12 +65,12 @@ record:
   title: 7 Agent Mode changes in v2026.10.8
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-4-agent-mode-changes-in-rust-v0-165-0|4 Agent Mode
-  changes in rust-v0.165.0]]'
-- '[[Changes/Google Antigravity/2026-10-27-you-can-now-attach-files-of-any-type-such-as-videos-design-files-or-programs-up|Attach
-  files of any type, such as videos, design files, or programs, up to 20 MB]]'
 - '[[Changes/Google Antigravity/2026-10-27-3-agent-mode-changes-in-hub-v2-28-0-built-in-browser|3
   Agent Mode changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-learning-agent-in-microsoft-365-copilot-windows-microsoft-365-copilot|Learning
+  Agent in Microsoft 365 Copilot Windows (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-endpoints-declarative-agent-access-web-microsoft-365-copilot-extens|Work
+  IQ APIs - Endpoints]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|openclaw-2026-10-27-v2026-10-8-9d674f40]]'
 source_type: openclaw_changelog
 theme: agent-mode
@@ -126,7 +126,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.8
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-3-agent-mode-changes-in-hub-v2-28-0-built-in-browser|3 Agent Mode changes in HUB v2.28.0 — Built-in browser…]]
+- Earlier: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-endpoints-declarative-agent-access-web-microsoft-365-copilot-extens|Work IQ APIs - Endpoints]]
 - Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-2-agent-mode-changes-in-v2-2-0|2 Agent Mode changes in v2.2.0]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2024-07-27'
 description: 'OpenHands · 2024-07-27 · Apps and Integrations: 2 changes in 0.8.2 —
   chore(deps-dev): bump eslint-plugin-react from 7.34.4 to 7.35.0 in /frontend by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 492
+  lag_days: 2052
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37d2362b452dd1191ac440fd04e6b6aae79cb556ba7ac2f8c2f43d13b7ec6d8d
+machine_hash: 5b03ad34440a359bcdd9cc5cd14dca33e2480db0a78181dcd9b78e788b92cb1b
 product: openhands
 product_name: OpenHands
 record:
@@ -88,13 +88,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.2
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-3-apps-and-integrations-changes-in-0-6-15|3 Apps and Integrations changes in 0.6.15]]
-- Later: 2024-08-07 · Open WebUI · [[Changes/Open WebUI/2024-08-07-non-streaming-support-for-functions-plugin-fixed-a-functionality-issue-with-the|🔧 Non-Streaming Support for Functions Plugin]]
+- Later: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-more-new-features|More new features!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-06-29 · Safety and Privacy: Security: `claude
   list`/`get` no longer spawn `.mcp.json` servers that a repo self-approved via a
   committed…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1170
+  lag_days: 2162
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 247c2b36673c876dd5931d157722981d75737c04f5d582c44717ec6ea0194196
+machine_hash: f3405a0efb2bdf39e36150f3151ca31500cf49befe5a1fe79404ac1544bd5f54
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
     a repo…'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-14-safety-and-privacy-changes-in-1-15-0|14 Safety and
-  Privacy changes in 1.15.0]]'
 - '[[Changes/Google Antigravity/2026-06-25-3-safety-and-privacy-changes-in-hub-v2-2-1-antigravity-guide-audio|3
   Safety and Privacy changes in HUB v2.2.1 — Antigravity Guide, audio…]]'
 - '[[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed
   external plugins enabled only by project .claude/settings.json not requiring…]]'
+- '[[Changes/Kimi Code/2026-06-26-add-a-host-cli-option-so-kimi-web-host-can-expose-the-server-to-the-internet-wit|Add
+  a --host CLI option so kimi web --host can expose the server…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: safety-privacy
@@ -97,14 +97,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed external plugins enabled only by project .claude/settings.json not requiring…]]
+- Earlier: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-add-a-host-cli-option-so-kimi-web-host-can-expose-the-server-to-the-internet-wit|Add a --host CLI option so kimi web --host can expose the server…]]
 - Later: 2026-06-29 · Lovable · [[Changes/Lovable/2026-06-29-set-a-default-data-hosting-region-for-new-projects|Set a default data hosting region for new projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

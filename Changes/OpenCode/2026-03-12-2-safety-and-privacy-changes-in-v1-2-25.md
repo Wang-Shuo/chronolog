@@ -4,20 +4,20 @@ date: '2026-03-12'
 description: 'OpenCode · 2026-03-12 · Safety and Privacy: 2 changes in v1.2.25 — Core
   Brand ProviderID and ModelID types for improved type safety'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1061
+  lag_days: 2053
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c858bc222a20dc54d6f3b31d2d3d5fd38aad8142a7886ebb87b3a8a9f390df29
+machine_hash: 59b7bb16c7f04689083e029b318e47bc992ccc847f7fec259757550feeb917d8
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Safety and Privacy changes in v1.2.25
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-2-safety-and-privacy-changes-in-v1-0-4|2
-  Safety and Privacy changes in v1.0.4]]'
 - '[[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed
   voice mode silently failing on the macOS native binary for users whose…]]'
 - '[[Changes/Cline/2026-03-12-markdown-image-loading-now-requires-user-consent|Markdown
   image loading now requires user consent]]'
+- '[[Changes/Notion/2026-03-12-workspace-owners-can-now-set-a-workspace-wide-policy-for-ai-meeting-notes-audio|New
+  consent controls for AI Meeting Notes]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-12-v1-2-25-4fca2d35|opencode-2026-03-12-v1-2-25-4fca2d35]]'
 source_type: opencode_changelog
 theme: safety-privacy
@@ -93,14 +93,14 @@ Source: https://opencode.ai/changelog/v1.2.25
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-12 · Cline · [[Changes/Cline/2026-03-12-markdown-image-loading-now-requires-user-consent|Markdown image loading now requires user consent]]
+- Earlier: 2026-03-12 · Notion · [[Changes/Notion/2026-03-12-workspace-owners-can-now-set-a-workspace-wide-policy-for-ai-meeting-notes-audio|New consent controls for AI Meeting Notes]]
 - Later: 2026-03-12 · v0 · [[Changes/v0/2026-03-12-improved-snowflake-deployment-error-messages-for-permission-issues|Improved Snowflake deployment error messages for permission issues]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

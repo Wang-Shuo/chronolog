@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac9b9b968bd47da98d172d379a3298261438b8aff941c3d53e1cd01612453c28
+machine_hash: 2c4ea021c6052d7cc2d2742ea523348750b1f4aa7285256c60db0986f21568d1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 4 Agent Mode changes in rust-v0.144.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-10-agent-mode-changes-in-rust-v0-143-0|10 Agent
-  Mode changes in rust-v0.143.0]]'
+- '[[Changes/Notion/2026-07-08-your-favorite-agents-now-fit-in-your-pocket-put-them-to-work-from-anywhere|Meet
+  the Notion Agents iOS app]]'
 - '[[Changes/Runway/2026-07-08-agent-can-now-build-custom-skills-for-you-ask-it-to-create-one-from-scratch-or-t|Custom
   Agent Skills]]'
 - '[[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT
@@ -103,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT Work is an agent for longer, more involved tasks]]
-- Later: 2026-07-09 · OpenCode · [[Changes/OpenCode/2026-07-09-desktop-updated-sub-agent-task-rows-to-match-the-v2-session-design-more-closely|Desktop Updated sub-agent task rows to match the v2 session design more closely]]
+- Later: 2026-07-09 · Notion · [[Changes/Notion/2026-07-09-build-and-iterate-on-workers-with-your-team-or-share-one-so-teammates-can-connec|Build and iterate on Workers with your team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

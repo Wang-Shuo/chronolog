@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-14 · Interface Experience: 3 changes in v2
   — Added mouse support to the `/config` panel in fullscreen mode: the wheel scrolls
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1344
+  lag_days: 2710
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2511ea19a9ea405dc0f1e4713a3820b7d44e070b10627d362c4f3961b18b6ce
+machine_hash: 53abffe04d90e02ed70003027d4dca807be9f90a1c5af1f9578237a9d8a8d1d2
 product: claude-code
 product_name: Claude Code
 record:
@@ -103,13 +103,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-5-interface-experience-changes-in-v2026-9-4|5 Interface Experience changes in v2026.9.4]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude Code on the web Improved the routine detail page]]
+- Later: 2026-09-14 · Kimi Code · [[Changes/Kimi Code/2026-09-14-delete-sessions-from-the-session-picker-press-ctrl-x-on-a-session-then-y-to-conf|Delete sessions from the session picker: press Ctrl+X on a session, then y to confirm]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

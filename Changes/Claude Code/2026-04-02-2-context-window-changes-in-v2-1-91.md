@@ -4,20 +4,20 @@ date: '2026-04-02'
 description: 'Claude Code · 2026-04-02 · Context Window: 2 changes in v2.1.91 — Improved
   `/claude-api` skill guidance for agent design patterns including tool surface…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1064
+  lag_days: 2388
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8e08bdf605f89699e2b0eb5031d4fe28ad6737bf73ae60664bc02d585d385ed
+machine_hash: 9c26d854f9f17fb2a89bb82d7348bac63e5e6df9d899e32d29756f06ddc6c48e
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.91
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

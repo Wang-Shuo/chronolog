@@ -4,20 +4,20 @@ date: '2026-11-03'
 description: 'Ollama · 2026-11-03 · Search and Browsing: Cloud web search responses
   on `/api/chat` are now decoded correctly, including compressed responses'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1321
+  lag_days: 2350
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cbef70885222670424b52fa5097c05ce9ab2635066b58899d89c3b15efc3ff73
+machine_hash: 6e40a1e4694faf174b2f4e4d4c0cc53154538bd891d77a00113ef4e499fea1d0
 product: ollama
 product_name: Ollama
 record:
@@ -42,10 +42,10 @@ record:
   title: Cloud web search responses on `/api/chat` are now decoded correctly, including…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542
-  Add model-gated literature search to standalone web search @rhan-oai]]'
 - '[[Changes/OpenCode/2026-10-29-2-search-and-browsing-changes-in-v2-2-1|2 Search
   and Browsing changes in v2.2.1]]'
+- '[[Changes/Qoder/2026-10-30-device-connections-use-a-pairing-code-to-connect-to-other-qoder-devices-on-your|Device
+  connections: Use a pairing code to connect to other Qoder devices…]]'
 - '[[Changes/Google Antigravity/2026-11-03-typing-in-the-built-in-browser-s-address-bar-now-suggests-matching-pages-from-yo|Typing
   in the built-in browser''s address bar now suggests matching pages…]]'
 source_release: '[[Releases/Ollama/ollama-2026-11-03-v0-40-14-github-432169781-b3886e93|ollama-2026-11-03-v0-40-14-github-432169781-b3886e93]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

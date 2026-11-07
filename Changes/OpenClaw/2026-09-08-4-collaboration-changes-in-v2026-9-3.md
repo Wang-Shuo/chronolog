@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-09-08 · Collaboration: 4 changes in v2026.9.3 �
   web app makes current work easier to find and long conversations easier to move
   through…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1203
+  lag_days: 2797
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c9a1db14a4623e1da09ccfa1ebd093ca65a0275d6a46258e561cea1c9c4e5acd
+machine_hash: 54f53e95ec1b747f5c306d571ddb8b345576ac81f9b4018ff5782f3983bfe097
 product: openclaw
 product_name: OpenClaw
 record:
@@ -58,8 +59,8 @@ record:
   title: 4 Collaboration changes in v2026.9.3
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-exporting-a-resumed-session-with-share-or-share-gist-writes-the-whole-transcript|Exporting
-  a resumed session with --share or --share-gist writes the whole transcript…]]'
+- '[[Changes/Kimi Code/2026-09-04-web-add-tower-multi-agent-collaboration-mode-experimental-enabled-via-the-tower|web:
+  Add tower multi-agent collaboration mode (experimental), enabled…]]'
 - '[[Changes/OpenClaw/2026-09-05-9-collaboration-changes-in-v2026-9-2|9 Collaboration
   changes in v2026.9.2]]'
 - '[[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share
@@ -127,7 +128,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

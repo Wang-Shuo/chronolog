@@ -4,19 +4,20 @@ date: '2026-10-15'
 description: 'Codex CLI · 2026-10-15 · Collaboration: 4 changes in 0.163.0 — #51822
   Avoid sharing violations when repairing Windows runtime ACLs @johnl-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1240
+  lag_days: 2834
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69f0759345af194e66ca07a30cbd2d4c015f35a78f6fddb0feade0b954e9f434
+machine_hash: 58ac4de97496d1b361be19e965934d745ae33478c6f8d1db755df69ce7df0972
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +46,12 @@ record:
   title: 4 Collaboration changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-12-home-notifications-creating-many-chats-no-longer-fills-home-s-notification-queue|Home
-  notifications]]'
 - '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
   local session transcripts to also record each API request''s system prompt…]]'
 - "[[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|\U0001F4BE
   Save hidden on others' messages. In a chat shared with Allow replies, editing…]]"
+- '[[Changes/Qoder/2026-10-14-collaboration-through-conversation-accounts-with-collaboration-access-can-query|Collaboration
+  through conversation]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'
 source_type: github_releases
 theme: collaboration
@@ -99,14 +100,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|💾 Save hidden on others' messages. In a chat shared with Allow replies, editing…]]
+- Earlier: 2026-10-14 · Qoder · [[Changes/Qoder/2026-10-14-collaboration-through-conversation-accounts-with-collaboration-access-can-query|Collaboration through conversation]]
 - Later: 2026-10-15 · OpenCode · [[Changes/OpenCode/2026-10-15-session-sharing-has-been-discontinued|Session sharing has been discontinued]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

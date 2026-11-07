@@ -4,20 +4,20 @@ date: '2024-09-17'
 description: 'Gamma · 2024-09-17 · Presentation Creation: This makes it easy to instantly
   transform your entire gamma - for example, translate all cards to a different…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 97
+  lag_days: 1166
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dedcaccc154c80d59c84ffde0a995039652cbdab072e79f4b8cc4e7356d4d8ba
+machine_hash: f635148982a1e99234045c6381b9db9c6910b0f2a4dc7a814d3344bb470d4b2d
 product: gamma
 product_name: Gamma
 record:
@@ -49,6 +49,7 @@ related_changes:
   images from Google Slides and Google Docs]]'
 - '[[Changes/Gamma/2024-08-08-don-t-want-to-recreate-your-company-s-slide-or-brand-template-in-gamma-now-you-d|Don’t
   want to recreate your company’s slide or brand template in Gamma?]]'
+- '[[Changes/Descript/2024-09-10-ken-burns-animation|Ken Burns animation]]'
 source_release: '[[Releases/Gamma/gamma-2024-09-17-66e8c2879671b770e4bd40aa-353b449d|gamma-2024-09-17-66e8c2879671b770e4bd40aa-353b449d]]'
 source_type: gamma_changelog
 theme: presentation-creation
@@ -78,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Presentation Creation
 
-- Earlier: 2024-08-08 · Gamma · [[Changes/Gamma/2024-08-08-don-t-want-to-recreate-your-company-s-slide-or-brand-template-in-gamma-now-you-d|Don’t want to recreate your company’s slide or brand template in Gamma?]]
+- Earlier: 2024-09-10 · Descript · [[Changes/Descript/2024-09-10-ken-burns-animation|Ken Burns animation]]
 - Later: 2025-01-23 · Gamma · [[Changes/Gamma/2025-01-23-we-re-thrilled-to-introduce-a-new-feature-in-gamma-that-lets-you-scale-your-cont|Scale your content to fit!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

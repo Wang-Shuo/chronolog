@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-05-14 · Files and Data: File library is expanding
   Free and Go users, including to users in the European Economic Area (EEA) making
   it easier…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1085
+  lag_days: 2430
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b588bbabb267ed3f35021cc943e7a7e6ed6f6ba4d0b28f16d3e6fbbac97adcc
+machine_hash: 05427a0b6005af0e155199cf34821dbf70b4c31c8710948f11f05fe054fc8849
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -110,13 +110,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-elevenagents-6f8d80|ElevenAgents]]
-- Later: 2026-05-15 · ChatGPT · [[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal finances in ChatGPT]]
+- Later: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-bullet-points-in-canvas-text-clips|Bullet points in Canvas text clips]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

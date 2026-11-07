@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9b339d51e6b770a36273d4b72d1f2046fe265f6a856ab7e3f905e571e15fdb3
+machine_hash: da0af7172b8356ab4df06b13f86befd2bdf75580c8bd6f5172f5da8c9f4c886e
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -96,7 +96,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.5.0
 ## Nearby in Model Support
 
 - Earlier: 2026-07-31 · DeepSeek API · [[Changes/DeepSeek API/2026-07-31-deepseek-v4-flash-update|DeepSeek-V4-Flash Update]]
-- Later: 2026-07-31 · Lovable · [[Changes/Lovable/2026-07-31-opt-out-of-ai-model-training|Opt out of AI model training]]
+- Later: 2026-07-31 · Kimi Code · [[Changes/Kimi Code/2026-07-31-preserve-the-assistant-s-partial-output-when-a-turn-is-interrupted-with-esc-and|Preserve the assistant's partial output when a turn is interrupted with Esc…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

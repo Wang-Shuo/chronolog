@@ -4,20 +4,19 @@ date: '2025-10-15'
 description: 'GitHub Copilot CLI · 2025-10-15 · Editor Experience: Run `npm install
   -g @github/copilot@latest` to update!'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 946
+  lag_days: 2530
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 222b007e71bcfe9565f61996e9c99f0d1997f0a9f5954483e1dbdeabd95d0f1a
+machine_hash: d0e54cf3024e64f6712e6708756389b12edeecd4691cb6f6bef4420eb1a98d8a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

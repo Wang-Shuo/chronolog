@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-05 · Files and Data: 2 changes in v0.6.1 �
   **Mistral OCR Content Extraction Support**: Added native support for Mistral OCR
   as a…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 681
+  lag_days: 2026
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3295df4c655de3b3dae9a6aafa6db81035d32dac0d180fb82bbf023c48419fb9
+machine_hash: 1adf1e12873239c5403fe6565894683d28aca63a3e871009807bab398da08042
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

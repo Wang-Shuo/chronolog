@@ -696,6 +696,11 @@ def semantic_preclassification_override(
         r"\b(?:generate|extend|loop)\b.{0,35}\bvideos?\b", text, re.I,
     ):
         return "video-generation"
+    if product in {"heygen", "synthesia", "descript"} and "video-generation" in themes and re.search(
+        r"\b(?:video generation|(?:text|image)[ -]to[ -]video|AI avatars?|avatar videos?)\b|"
+        r"\b(?:generate|create)\b.{0,35}\bvideos?\b", text, re.I,
+    ):
+        return "video-generation"
     technical_memory_phrases = (
         "memory allocation",
         "memory issue",
@@ -1659,8 +1664,17 @@ class _ReleaseCards:
                 self.add("digest", items, {"theme": theme})
 
     def build(self, sections: list[dict[str, Any]]) -> list[dict[str, Any]]:
-        flat_list = self.release.get("source_type") in {"github_releases", "openclaw_changelog"}
+        flat_list = self.release.get("source_type") in {"github_releases", "openclaw_changelog", "kimi_code_changelog"}
         for section in sections:
+            if self.release.get("source_type") == "notion_changelog":
+                # Official Notion posts mix shipped features with explicit
+                # previews. Keep the latter in release evidence, not change cards.
+                if re.search(r"\bcoming soon\b", section["heading"], re.I):
+                    continue
+                section = {**section, "blocks": [block for block in section["blocks"]
+                           if not re.search(r"\bcoming soon\b", block["text"], re.I)]}
+                if re.fullmatch(r"(?:other )?(?:bug fixes|features)(?: & improvements)?", section["heading"], re.I):
+                    section = {**section, "kind": "generic"}
             if (self.release.get("source_type") == "midjourney_changelog"
                     and section["heading"].casefold() in {"up next", "coming soon", "what's next"}):
                 # Keep roadmaps in the source release, but do not publish them as

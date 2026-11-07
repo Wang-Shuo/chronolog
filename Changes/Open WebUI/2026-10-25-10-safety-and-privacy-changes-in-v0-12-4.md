@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-25 · Safety and Privacy: 10 changes in v0.1
   — \U0001FAD9 **Unavailable options hidden.** Options that cannot take effect are
   now hidden, such as…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1288
+  lag_days: 2280
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e947328d09f6da54c266be8eea32638b19396936e800e84cac39a14efcf4bd8c
+machine_hash: f983b6ba3a8d2cc55ad4cdf3ce2f5b288edd557cc1e0d891f610596cb7fb330b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -157,10 +157,10 @@ record:
   title: 10 Safety and Privacy changes in v0.12.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-15-safety-and-privacy-changes-in-rust-v0-164-0|15
-  Safety and Privacy changes in rust-v0.164.0]]'
 - '[[Changes/Dify/2026-10-23-11-safety-and-privacy-changes-in-1-18-0|11 Safety and
   Privacy changes in 1.18.0]]'
+- '[[Changes/Kimi Code/2026-10-23-fix-workspace-trust-failures-when-git-bash-is-unavailable-on-windows|Fix
+  workspace trust failures when Git Bash is unavailable on Windows]]'
 - '[[Changes/Windsurf/2026-10-23-electron-42-11-16-and-node-js-24-22-1-for-the-remote-server-with-the-october-202|Electron
   42.11.16 and Node.js 24.22.1 for the remote server, with the October 2026…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'
@@ -231,7 +231,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

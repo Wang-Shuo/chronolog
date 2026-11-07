@@ -4,20 +4,20 @@ date: '2026-07-28'
 description: 'Google Antigravity · 2026-07-28 · Safety and Privacy: 3 changes in HUB
   v2.4.3 — Preview tabs, MCP timeouts, file attachments, and performance fixes — Refined…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1199
+  lag_days: 2191
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29b0bbc22837a9085f2afefc9c38a9660b126e1963ea46ae7b67f4551d06d20e
+machine_hash: 70752f36e79ac13102655f33f2e11eed5be923b5b878fe8a66acde31def2ad0e
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -104,7 +104,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.4.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

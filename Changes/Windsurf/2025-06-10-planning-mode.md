@@ -4,20 +4,19 @@ date: '2025-06-10'
 description: 'Windsurf · 2025-06-10 · Editor Experience: Send messages to Cascade
   in Planning Mode, a setting that will let Cascade plan before making edits'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 819
+  lag_days: 2403
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6b18924e840e248cb8df48f387e459ab6d8756dc984909ca91f6c431a062a5c2
+machine_hash: 9c2d031072fa4de6b6bcd6fd4bfa7e8ef9e6b6646a79c56dc6586fe7ca3e41ef
 product: windsurf
 product_name: Windsurf
 record:
@@ -49,8 +48,7 @@ record:
   title: Planning Mode
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-06-visual-editor-image-management|Visual Editor image
-  management]]'
+- '[[Changes/Descript/2025-06-10-undo|Undo]]'
 - '[[Changes/Open WebUI/2025-06-10-3-editor-experience-changes-in-v0-6-14|3 Editor
   Experience changes in v0.6.14]]'
 - '[[Changes/OpenHands/2025-06-10-added-feature-flag-vscode-in-new-tab-for-opening-vscode-in-a-new-tab-by-tofarr-i|Added
@@ -97,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

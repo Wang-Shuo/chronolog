@@ -4,20 +4,20 @@ date: '2026-06-09'
 description: 'Codex CLI · 2026-06-09 · Automation and Scheduling: Plugin marketplace
   automation is more informative and responsive: `codex plugin marketplace list --json`…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 889
+  lag_days: 2456
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2392a97ee58d3233bffcba87fc5b70fb55341b3a5e694352da5ea7c94ab0bff1
+machine_hash: da7fd2e286a545a307014d5732470924d1b4742fec066d3556ffda7400d28632
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,8 +56,8 @@ record:
   title: Plugin marketplace automation is more informative and responsive
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental
-  schedule prompts with /every and /after]]'
+- '[[Changes/Kimi Code/2026-06-02-render-scheduled-reminders-distinctly-in-the-tui-expose-cron-fired-events-to-sdk|Render
+  scheduled reminders distinctly in the TUI, expose cron fired events to SDK…]]'
 - '[[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable
   wait() on local runs]]'
 - '[[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

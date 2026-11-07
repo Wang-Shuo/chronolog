@@ -4,20 +4,20 @@ date: '2026-02-19'
 description: 'OpenCode · 2026-02-19 · Safety and Privacy: 4 changes in v1.2.7 — Core
   Ensure explore subagent prompts for external directory permission instead of auto-denying'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1040
+  lag_days: 2032
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7021a25271f23de0cbc931616ab5add25b018be4e6c86e02564b2461100c128
+machine_hash: 65425ae320bc0f4965953f402751af7b21e05dc521d44206d2b407fe1d1c0e83
 product: opencode
 product_name: OpenCode
 record:
@@ -106,7 +106,7 @@ Source: https://opencode.ai/changelog/v1.2.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

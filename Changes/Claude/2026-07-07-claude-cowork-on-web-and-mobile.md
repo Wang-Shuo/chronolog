@@ -5,20 +5,20 @@ description: 'Claude · 2026-07-07 · Mobile and Desktop: Claude Cowork is now a
   on web and mobile in addition to desktop. We are rolling this capability out over
   the…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1211
+  lag_days: 2795
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: e03bfc6c1a3445367dead2da081c1fd54e59c69298ece99cbd188e20fc6fabf7
+machine_hash: 7e94bbd4f9c2988239f840ea058d9f8328ad1eb7e8d725f6a19580a7ac014758
 product: claude
 product_name: Claude
 record:
@@ -56,7 +56,8 @@ record:
   title: Claude Cowork on web and mobile
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]'
+- '[[Changes/Kimi Code/2026-07-06-3-mobile-and-desktop-changes-in-kimi-code-0-23-0|3
+  Mobile and Desktop changes in Kimi Code 0.23.0]]'
 - '[[Changes/Lovable/2026-07-06-lovable-desktop-app-is-now-on-windows|Lovable Desktop
   app is now on Windows]]'
 - '[[Changes/OpenCode/2026-07-06-14-mobile-and-desktop-changes-in-v1-17-14|14 Mobile
@@ -96,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

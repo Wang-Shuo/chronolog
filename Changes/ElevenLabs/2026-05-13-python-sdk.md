@@ -4,20 +4,20 @@ date: '2026-05-13'
 description: 'ElevenLabs · 2026-05-13 · Voice and Audio: [v2.47.0](https://github.com/elevenlabs/elevenlabs-python/releases/tag/v2.47.0)
   - Regenerated the SDK for the May…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1038
+  lag_days: 2865
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 347ce568b59a259c8a0e44d65e2c37d5bfbf2a29c60460d359c866d6f916901c
+machine_hash: 90be4498ccf73e4279a4219987be0bd7cf33ea1b19261cfdbb7c859e765b38c6
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -106,13 +106,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-vscode-voice-mode-the-wsl-error-now-suggests-installing-sox-libsox-fmt-pulse-for|VSCode Voice mode]]
-- Later: 2026-05-18 · ElevenLabs · [[Changes/ElevenLabs/2026-05-18-javascript-sdk|JavaScript SDK]]
+- Later: 2026-05-13 · HeyGen · [[Changes/HeyGen/2026-05-13-a-roll-b-roll-audio-captions-and-motion-graphics-are-no-longer-separate-steps-in|A-Roll, B-Roll, audio, captions, and motion graphics are no longer separate steps…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

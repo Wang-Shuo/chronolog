@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9e5b98ce30c394ae86854d66e566a61ac435074a468a09b3b892715c67c24ee
+machine_hash: a174bb493623a0554018e2d1bf74c215ca35dcaf0b7029f5214062a84c32fd67
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: Sub-agents can now spawn their own sub-agents (up to 5 levels deep)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-09-5-agent-mode-changes-in-rust-v0-139-0|5 Agent Mode
-  changes in rust-v0.139.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-3-agent-mode-changes-in-v1-0-61|3 Agent
   Mode changes in v1.0.61]]'
+- '[[Changes/Kimi Code/2026-06-09-2-agent-mode-changes-in-kimi-code-0-12-0|2 Agent
+  Mode changes in Kimi Code 0.12.0]]'
 - '[[Changes/Lovable/2026-06-09-publish-from-chat|Publish from chat]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-09 · Lovable · [[Changes/Lovable/2026-06-09-publish-from-chat|Publish from chat]]
-- Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-desktop-hidden-agents-no-longer-get-cycled-accidentally|Desktop Hidden agents no longer get cycled accidentally]]
+- Later: 2026-06-10 · Kimi Code · [[Changes/Kimi Code/2026-06-10-clarify-grouped-subagent-progress-with-active-status-breakdowns-and-elapsed-time|Clarify grouped subagent progress with active status breakdowns and elapsed time]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

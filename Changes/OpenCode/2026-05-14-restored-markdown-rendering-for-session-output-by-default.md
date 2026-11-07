@@ -4,20 +4,20 @@ date: '2026-05-14'
 description: 'OpenCode · 2026-05-14 · Interface Experience: Restored markdown rendering
   for session output by default'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1221
+  lag_days: 2587
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3e033e4625af4711236dfa6111a02e135206c4f22b531b3c0f357746967ce9a7
+machine_hash: bea1ce1a0e6f027ff965d28831f692c34a38c740e42add977d801b8f808700a6
 product: opencode
 product_name: OpenCode
 record:
@@ -43,11 +43,11 @@ record:
   title: Restored markdown rendering for session output by default
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-3-interface-experience-changes-in-3-4|3 Interface Experience
-  changes in 3.4]]'
-- '[[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support
   j/k keys for up/down navigation in the /diff view]]'
+- '[[Changes/Descript/2026-05-14-chat-history|Chat history]]'
+- '[[Changes/Descript/2026-05-14-workspaces-drive-sidebar-and-settings-redesigns|Workspaces,
+  Drive sidebar, and Settings redesigns]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-14-v1-14-50-ebcc357d|opencode-2026-05-14-v1-14-50-ebcc357d]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support j/k keys for up/down navigation in the /diff view]]
+- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-workspaces-drive-sidebar-and-settings-redesigns|Workspaces, Drive sidebar, and Settings redesigns]]
 - Later: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-auto-hide-the-menu-bar-on-linux-and-windows|Auto-hide the menu bar on Linux and Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

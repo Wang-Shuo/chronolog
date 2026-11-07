@@ -3,20 +3,20 @@ card_id: v0-2026-01-15-a389e9
 date: '2026-01-15'
 description: 'v0 · 2026-01-15 · Pricing Model: Updated v0 Max pricing'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1127
+  lag_days: 2745
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 402e14c78ea3cff7c484d1eb0bcace192f81efc9495590e2e58746f057cf347e
+machine_hash: e8d4f9da7163522845f502bb202808d77bef594ec019b00fd666c17e8d8b299b
 product: v0
 product_name: v0
 record:
@@ -41,9 +41,9 @@ record:
   title: Updated v0 Max pricing
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-26-credit-packs-holiday-sale|Credit packs holiday sale]]'
 - '[[Changes/OpenCode/2026-01-12-terminal-refactor-event-streaming-in-tui-to-use-sdk-instead-of-manual-rpc-subscr|Terminal
   Refactor event streaming in TUI to use SDK instead of manual RPC subscription]]'
+- '[[Changes/HeyGen/2026-01-13-avatar-4-default|Avatar 4 (default)]]'
 - '[[Changes/v0/2026-01-14-added-scope-selector-in-the-buy-credits-dialog|Added scope
   selector in the buy credits dialog]]'
 source_release: '[[Releases/v0/v0-2026-01-15-2026-01-15-3ad21b8a|v0-2026-01-15-2026-01-15-3ad21b8a]]'
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

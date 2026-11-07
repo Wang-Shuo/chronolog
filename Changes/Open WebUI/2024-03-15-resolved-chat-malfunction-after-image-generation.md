@@ -4,20 +4,20 @@ date: '2024-03-15'
 description: "Open WebUI · 2024-03-15 · Image Generation: \U0001F5E8️ Resolved chat
   malfunction after image generation."
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 5
+  lag_days: 263
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09eb3b3f825561a71b74d796540eef93a9dc0c2fc1048ca74244a89faabf8113
+machine_hash: 80ddd5d8623f9e902a3ed400592dd143fc5cea420a04c7a04f3d4449e0a29835
 product: open-webui
 product_name: Open WebUI
 record:
@@ -41,6 +41,7 @@ record:
   title: "\U0001F5E8️ Resolved chat malfunction after image generation"
   type: change
 related_changes:
+- '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]'
 - "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
   DALL-E Integration]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-03-15-v0-1-112-github-146850627-62e54ed0|open-webui-2024-03-15-v0-1-112-github-146850627-62e54ed0]]'
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

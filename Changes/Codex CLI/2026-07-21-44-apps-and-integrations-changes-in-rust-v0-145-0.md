@@ -4,20 +4,20 @@ date: '2026-07-21'
 description: 'Codex CLI · 2026-07-21 · Apps and Integrations: 44 changes in 0.145.0
   — Expanded `/import` to migrate Cursor and Claude Code settings, MCP servers, plugins…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1216
+  lag_days: 2776
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e740eab7a237cb75bc2139547b5b76046b43c7c5da8bc1763205f1c4667478f
+machine_hash: 1c0d5b19d21d1441780404f1998f26c46079a62a9ecab21856edf1a68e02f3ee
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -274,7 +274,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-07-26'
 description: 'Cline · 2025-07-26 · Context Window: Change the `CLAUDE_CODE_MAX_OUTPUT_TOKENS`
   by @BarreiroT in https://github.com/cline/cline/pull/5142'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 814
+  lag_days: 2138
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f20571d043366e803e8bd6b1d8065e434c855d76684fcd7357c79b7631c56cd
+machine_hash: 5321f9deb52fc78371f542196712e65009a01c9402a1dccc6852ae75290d53f7
 product: cline
 product_name: Cline
 record:
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

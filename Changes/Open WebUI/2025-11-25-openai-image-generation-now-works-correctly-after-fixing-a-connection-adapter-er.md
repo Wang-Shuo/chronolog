@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-11-25 · Image Generation: \U0001F5BC️ OpenAI
   generation now works correctly after fixing a connection adapter error caused by
   incorrect URL…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 625
+  lag_days: 883
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2809f75eb842dbc6a1d6fcceb2d5b2f746210f8e28d71e4dacb828cc092f660b
+machine_hash: c8d0ef2564a0310cd45c599c87794b636c2ea69d396332f9afc4b1fe9f738813
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
     adapter…"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
 - '[[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More
   messages, larger file uploads, and expanded image generation]]'
+- '[[Changes/Descript/2025-11-21-nano-banana-pro-now-available-for-image-generation|Nano
+  Banana Pro now available for image generation]]'
 - '[[Changes/Open WebUI/2025-11-24-4-image-generation-changes-in-v0-6-37|4 Image Generation
   changes in v0.6.37]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-11-25-v0-6-39-github-265081468-eef9ff80|open-webui-2025-11-25-v0-6-39-github-265081468-eef9ff80]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

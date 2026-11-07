@@ -4,20 +4,20 @@ date: '2023-05-25'
 description: 'Dify · 2023-05-25 · Apps and Integrations: 3 changes in Version 0.2.2
   — Feature/add test to nodejs sdk by @crazywoola in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 63
+  lag_days: 1623
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa3968f238888a97a9b5e3538773fcba40ce4d227bfc1313478f1d42506a7c0f
+machine_hash: 1c707cc23c6e6ddfa245d7d751d724e4732b83aab9a6b54bd19eb2a0df4bcaa2
 product: dify
 product_name: Dify
 record:
@@ -87,13 +87,13 @@ Source: https://github.com/langgenius/dify/releases/tag/0.2.2
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing Plugin]]
-- Later: 2023-06-09 · Cursor · [[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Show the AI documentation]]
+- Later: 2023-05-31 · Notion · [[Changes/Notion/2023-05-31-real-time-github-integration|Real-time GitHub integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

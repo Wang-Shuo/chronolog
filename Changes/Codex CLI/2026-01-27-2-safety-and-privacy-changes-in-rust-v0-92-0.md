@@ -4,20 +4,20 @@ date: '2026-01-27'
 description: 'Codex CLI · 2026-01-27 · Safety and Privacy: 2 changes in 0.92.0 — Windows
   sandbox logging now handles UTF-8 safely, preventing failures when truncating…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1017
+  lag_days: 2009
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9459c084cd739dfb6064687b7303d9fada05c098e20de0160bfdd293c790b3b0
+machine_hash: 316cb67faa82cc59773906e9cc937e6936bef0563e1842773152954bb1dcd58d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.92.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

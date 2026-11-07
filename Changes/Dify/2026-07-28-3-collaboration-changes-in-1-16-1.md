@@ -4,19 +4,20 @@ date: '2026-07-28'
 description: 'Dify · 2026-07-28 · Collaboration: 3 changes in v1.16.1 - Bug Fixes
   and Security Enhancements — **Workflow & Collaboration**'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1161
+  lag_days: 2755
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f059a293baad2be1d80c9c30b1505d039cd5b089fdc51ceca91eaa821dbca28e
+machine_hash: 32616260522fee5264d31a80e12a4ce79cc5e228ea9534a77aa8b196f51e8aaa
 product: dify
 product_name: Dify
 record:
@@ -107,7 +108,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

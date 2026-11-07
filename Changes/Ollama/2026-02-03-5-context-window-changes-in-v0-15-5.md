@@ -4,20 +4,20 @@ date: '2026-02-03'
 description: 'Ollama · 2026-02-03 · Context Window: 5 changes in v0.15.5 — Ollama
   will now set context limits for a set of models when using `ollama launch opencode`'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1006
+  lag_days: 2330
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69f4a976fde750d40c9f0ad8e4fae5695dd340eb229e5081edca43b84b257caa
+machine_hash: 95a8de37e0c50e4d8d485386188f33bc0f9c237200ef01b581658b2b78fc8855
 product: ollama
 product_name: Ollama
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.15.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

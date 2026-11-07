@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-07-29 · Interface Experience: 8 changes in 0.14
   — Improve terminal responsiveness and rendering, including nonblocking interrupts,
   keyboard…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1297
+  lag_days: 2663
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32cb3bd8f68c201b12c516f051bfbff29a0111760b9bd4716266b4243f91738a
+machine_hash: 6a625866466af211f2ea85d45a62767c0fa2b6ff70b146fd1e98b27349004416
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -123,13 +123,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-28 · OpenCode · [[Changes/OpenCode/2026-07-28-desktop-fixed-a-solid-cleanup-crash-that-could-break-navigation-in-the-desktop-a|Desktop Fixed a Solid cleanup crash that could break navigation in the desktop app]]
-- Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4 Interface Experience changes in v1.0.76]]
+- Later: 2026-07-29 · Kimi Code · [[Changes/Kimi Code/2026-07-29-add-a-customizable-footer-status-line-configured-via-status-line-in-tui-toml|Add a customizable footer status line, configured via status_line in tui.toml]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

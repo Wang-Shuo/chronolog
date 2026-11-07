@@ -5,19 +5,20 @@ description: 'Gamma · 2024-03-14 · Collaboration: We''ve gotten a lot of reque
   for speakers notes, and today they''re here! Access card notes via a new button
   in the top…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 295
+  lag_days: 1889
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fe646307755302a49f9befaf640d4d24c14e15db6a92fe97e3202b1f16a02e7c
+machine_hash: 930fbd28fc71da40d3efbd2b683d17cc220d095d5e996803d5cec6fff6cee5ca
 product: gamma
 product_name: Gamma
 record:
@@ -50,10 +51,10 @@ record:
   title: Card notes and Presenter View
   type: change
 related_changes:
-- '[[Changes/Runway/2024-01-26-share-custom-voices-with-a-workspace|Share Custom Voices
-  with workspace]]'
 - '[[Changes/Suno/2024-01-27-we-will-start-onboarding-this-team-on-monday-1-29-you-can-expect-response-times|We
   will start onboarding this team on Monday (1/29)]]'
+- '[[Changes/Synthesia/2024-02-06-we-are-excited-to-share-the-news-the-dialogue-feature-is-live-now-you-can-add-tw|Add
+  2+ avatars in the scene Dialogue Feature]]'
 - '[[Changes/Suno/2024-03-05-you-can-share-playlists-using-their-link-only-people-with-access-to-the-link-can|You
   can share playlists using their link]]'
 source_release: '[[Releases/Gamma/gamma-2024-03-14-65ef8eb1d159285eaf89f479-e3d4e484|gamma-2024-03-14-65ef8eb1d159285eaf89f479-e3d4e484]]'
@@ -85,13 +86,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-03-05 · Suno · [[Changes/Suno/2024-03-05-you-can-share-playlists-using-their-link-only-people-with-access-to-the-link-can|You can share playlists using their link]]
-- Later: 2024-03-31 · Open WebUI · [[Changes/Open WebUI/2024-03-31-webhook-support-now-compatible-with-google-chat-and-microsoft-teams|💬 Webhook Support: Now compatible with Google Chat and Microsoft Teams]]
+- Later: 2024-03-19 · Descript · [[Changes/Descript/2024-03-19-we-released-a-backend-hotfix-to-address-a-bug-causing-descript-share-pages-load|We released a backend hotfix to address a bug causing Descript Share pages load…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

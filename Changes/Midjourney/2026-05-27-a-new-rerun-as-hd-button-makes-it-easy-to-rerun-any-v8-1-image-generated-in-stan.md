@@ -4,20 +4,20 @@ date: '2026-05-27'
 description: 'Midjourney · 2026-05-27 · Interface Experience: A new Rerun as HD button
   makes it easy to rerun any V8.1 image generated in Standard Definition (SD) as High…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1234
+  lag_days: 2600
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f6de846d6c3d741c8403550c5753b9e1faad9123942b444c20b199f925f433ac
+machine_hash: cc74cc03356d641b69ee970ffcd225579563dbcb1daa1340c2f4cf805880c764
 product: midjourney
 product_name: Midjourney
 record:
@@ -67,10 +67,10 @@ record:
     in Standard…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-26-project-toolbar-navigation-improvements|Project toolbar
-  navigation improvements]]'
 - '[[Changes/Lovable/2026-05-26-project-view-pins-project-views-can-no-longer-be-customized-with-pins-the-toolba|Project
   view pins. Project views can no longer be customized with pins]]'
+- '[[Changes/Notion/2026-05-26-give-it-a-try-select-multiple-cells-open-the-cell-menu-select-merge-cells|Give
+  it a try: select multiple cells → open the cell menu → select Merge cells]]'
 - '[[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In
   fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-05-27-https-updates-midjourney-com-web-updates-5-254c7143|midjourney-2026-05-27-https-updates-midjourney-com-web-updates-5-254c7143]]'
@@ -125,7 +125,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

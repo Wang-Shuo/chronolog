@@ -5,20 +5,20 @@ description: 'Replit · 2026-07-24 · Pricing Model: Starting August 1, Replit C
   prices are lower across deployments, App Storage, and outbound data transfer. The
   new…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1317
+  lag_days: 2935
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 8636f95980b616f12a73608227595501aa623007ee118441b5f1360000fdc7cc
+machine_hash: 6e0a5886182d4637c9f16dbd6d2fa63e9ed9f6d64c70492f6df26ca44a9f358d
 product: replit
 product_name: Replit
 record:
@@ -48,12 +48,12 @@ record:
   title: Lower prices across Replit Cloud
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-21-canceled-plans-show-the-subscription-end-date-in-the-credit-balance-and-checkout|Canceled
-  plans show the subscription end date in the credit balance, and checkout…]]'
 - '[[Changes/Claude Code/2026-07-22-changed-server-managed-settings-so-benign-feature-and-cost-toggles-no-longer-tri|Changed
   server-managed settings so benign feature and cost toggles no longer trigger…]]'
 - '[[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing
   Model changes in Cursor Router]]'
+- '[[Changes/Notion/2026-07-24-now-you-can-track-your-workers-usage-in-the-credits-dashboard-alongside-your-oth|Now
+  you can track your Workers’ usage in the credits dashboard , alongside…]]'
 source_release: '[[Releases/Replit/replit-2026-07-24-2026-07-24-b0f18b89|replit-2026-07-24-2026-07-24-b0f18b89]]'
 source_type: replit_changelog
 theme: pricing-model
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing Model changes in Cursor Router]]
+- Earlier: 2026-07-24 · Notion · [[Changes/Notion/2026-07-24-now-you-can-track-your-workers-usage-in-the-credits-dashboard-alongside-your-oth|Now you can track your Workers’ usage in the credits dashboard , alongside…]]
 - Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-2-pricing-model-changes-in-v0-11-0|2 Pricing Model changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

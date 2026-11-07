@@ -4,20 +4,20 @@ date: '2024-07-04'
 description: 'Aider · 2024-07-04 · Reliability and Performance: 3 changes in Aider
   v0.42.0 — Performance release:'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 567
+  lag_days: 2054
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 667827f137ae7e703a09c9b904fb45ac9fe2d4b880f411304eb96d8c7db7075e
+machine_hash: 45d507720424d37012039a5cd48dd3c9be60a0f4dde04b616d4fc2366ed45fa7
 product: aider
 product_name: Aider
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Reliability and Performance changes in v0.42.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-14-2-reliability-and-performance-changes-in-0-6-11|2 Reliability
-  and Performance changes in 0.6.11]]'
+- '[[Changes/Notion/2024-06-18-plus-a-few-more-of-your-top-requests|Plus a few more
+  of your top requests.]]'
 - '[[Changes/Ollama/2024-06-22-3-reliability-and-performance-changes-in-v0-1-46|3
   Reliability and Performance changes in v0.1.46]]'
 - '[[Changes/Ollama/2024-07-02-5-reliability-and-performance-changes-in-v0-2-0|5 Reliability
@@ -83,13 +83,13 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.42.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-07-02 · Ollama · [[Changes/Ollama/2024-07-02-5-reliability-and-performance-changes-in-v0-2-0|5 Reliability and Performance changes in v0.2.0]]
-- Later: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-3-reliability-and-performance-changes-in-v0-3-8|3 Reliability and Performance changes in v0.3.8]]
+- Later: 2024-07-09 · Descript · [[Changes/Descript/2024-07-09-descript-for-web-is-officially-out-of-beta|Descript for Web is officially out of Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

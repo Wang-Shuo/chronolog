@@ -4,19 +4,20 @@ date: '2025-06-20'
 description: 'OpenHands · 2025-06-20 · Developer Workflow: **Git Ownership Errors**
   in containers by @llamantino in https://github.com/All-Hands-AI/OpenHands/pull/9136'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 825
+  lag_days: 2474
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78c4c6d79c93a00142e14a699f802a14f5cd43f10c6d1a1471bdf61dafc18820
+machine_hash: e715bd519f934730ba2b22e16f53f9720f1eb5b97ba6e62a22e1e11d7fdfc9e1
 product: openhands
 product_name: OpenHands
 record:
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

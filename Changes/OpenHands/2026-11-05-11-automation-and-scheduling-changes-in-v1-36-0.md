@@ -4,20 +4,20 @@ date: '2026-11-05'
 description: 'OpenHands · 2026-11-05 · Automation and Scheduling: 11 changes in v1.36.0
   — feat(automations): open templates without the missing-integration notice by @ak684…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1038
+  lag_days: 2605
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 963c3e757df3ffcf6567b94eb9e71257584aca61175635b1e41e66be7ca9fe31
+machine_hash: 450d32ef551f9eb283ff0ece8db409d176e1d3a1e8cd4f618555bb72ed6bbb1b
 product: openhands
 product_name: OpenHands
 record:
@@ -132,13 +132,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.36.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-keeps-the-windows-scheduled-task-available-during-update-recovery-until-the-gate|Keeps the Windows scheduled task available during update recovery until the Gateway…]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-in-the-every-schedule-manager-x-now-removes-the-highlighted-schedule-even-after|In the /every schedule manager, x now removes the highlighted schedule even after…]]
+- Later: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-cross-device-automations-use-the-slash-menu-in-a-connected-device-conversation-t|Cross-device automations: Use the slash menu in a connected-device conversation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

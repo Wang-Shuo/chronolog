@@ -5,20 +5,20 @@ description: 'Gemini · 2024-12-02 · Apps and Integrations: What: Over the comi
   more users around the world will be able to connect with more apps and services
   in 9…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 620
+  lag_days: 2180
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 20cb7058844d4ec46bf1e886eaaf76782617d44fd0fa5dd832b697f249b2d257
+machine_hash: bd04975b4a8afee1843b9cbbd42a5fd88d65b8632d6d463433916adf8a0b4d06
 product: gemini
 product_name: Gemini
 record:
@@ -56,8 +56,8 @@ record:
   title: 'Expanding Workspace extensions to more languages: Keep and Tasks'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-11-gitlab-tools-integration-amp-up-your-devops-with-the-integration-of-gitlab-tools|GitLab
-  Tools Integration]]'
+- '[[Changes/Descript/2024-11-19-you-can-add-status-page-updates-to-your-slack-workspace-using-the-the-subscribe|You
+  can add status page updates to your Slack workspace using the the Subscribe to Updates]]'
 - "[[Changes/Open WebUI/2024-11-19-functions-moved-to-admin-panel-as-functions-operate-as-advanced-plugins-they-are|\U0001F6E0️
   Functions Moved to Admin Panel]]"
 - '[[Changes/Dify/2024-11-25-feat-add-a-minimal-separator-between-pinned-apps-and-unpinned-apps-in-the-explor|feat:
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

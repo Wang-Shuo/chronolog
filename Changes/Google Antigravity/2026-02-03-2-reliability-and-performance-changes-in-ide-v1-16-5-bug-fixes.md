@@ -4,20 +4,20 @@ date: '2026-02-03'
 description: 'Google Antigravity · 2026-02-03 · Reliability and Performance: 2 changes
   in IDE v1.16.5 — Bug Fixes — Various bug fixes and performance improvements.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1146
+  lag_days: 2633
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 320bddf2d1634cf0d7d1e6dcf775c73e6e1d77c69ae4bf1916016ca7b0b1caf3
+machine_hash: 7831b3ee091ce9c09e4739d274285ef7e27014e157a1c1b95a9389d0eb4bcae8
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -87,7 +87,7 @@ Source: https://antigravity.google/releases?tab=ide&version=1.16.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

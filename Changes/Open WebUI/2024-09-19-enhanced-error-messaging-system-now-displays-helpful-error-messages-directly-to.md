@@ -5,20 +5,19 @@ description: "Open WebUI · 2024-09-19 · Editor Experience: **\U0001F9E0 Enhanc
   Messaging**: System now displays helpful error messages directly to users during
   chat…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 555
+  lag_days: 2139
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f5dac719e551d2c8407d58d17ce6860a322b5f1a26a30b2d50841843c4344fe
+machine_hash: e97ebcc104c6c45e8f4c124ff00af11c929f4db4d12aeca92df89ae1c0dcb96d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,13 +86,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-09-17 · Gamma · [[Changes/Gamma/2024-09-17-we-ve-introduced-a-powerful-new-ai-feature-for-pro-subscribers-that-lets-you-edi|We've introduced a powerful new AI feature for Pro subscribers that lets you edit…]]
-- Later: 2024-09-26 · Open WebUI · [[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|🏷️ Chat Rename Tab Update]]
+- Later: 2024-09-25 · Descript · [[Changes/Descript/2024-09-25-additional-editor-updates|Additional editor updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

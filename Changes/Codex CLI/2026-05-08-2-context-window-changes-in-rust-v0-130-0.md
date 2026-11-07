@@ -4,20 +4,20 @@ date: '2026-05-08'
 description: 'Codex CLI · 2026-05-08 · Context Window: 2 changes in 0.130.0 — Remote
   compaction now emits `response.processed` for v2 streams and avoids sending…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1100
+  lag_days: 2424
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e11a163e7be136e017038849a5a01e39024607310711d035c9000752e3995112
+machine_hash: 1fa0c5307519014e1f066be66ec636af5babfb3ef5a597d9683acce1c1d0e9f6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.130.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

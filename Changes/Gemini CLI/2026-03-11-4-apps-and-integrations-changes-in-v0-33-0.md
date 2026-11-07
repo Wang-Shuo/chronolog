@@ -4,20 +4,20 @@ date: '2026-03-11'
 description: 'Gemini CLI · 2026-03-11 · Apps and Integrations: 4 changes in Release
   v0.33.0 — feat(core): truncate large MCP tool output by @SandyTao520 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1084
+  lag_days: 2644
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e2a31d5a2723a72cdaa35b918aa8d8a3215dfcbc5c83f060550d86194b69613
+machine_hash: 63b20b40d7fd6a1fb0a97a495b4b55e4e1255fb18612225d375dca423626a093
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 4 Apps and Integrations changes in v0.33.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-11-apps-and-integrations-changes-in-rust-v0-113-0|11
-  Apps and Integrations changes in rust-v0.113.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-explainable-ai-with-deep-and-inline-citations-for-connectors-microsoft-365-copil|Explainable
+  AI with deep and inline citations for connectors (Microsoft 365 Copilot Chat)]]'
 - '[[Changes/Codex CLI/2026-03-11-8-apps-and-integrations-changes-in-rust-v0-114-0|8
   Apps and Integrations changes in rust-v0.114.0]]'
 - '[[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git-901313|New
@@ -105,7 +105,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.33.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

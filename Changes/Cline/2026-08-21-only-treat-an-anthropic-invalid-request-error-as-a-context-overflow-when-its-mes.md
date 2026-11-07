@@ -4,20 +4,20 @@ date: '2026-08-21'
 description: 'Cline · 2026-08-21 · Context Window: Only treat an Anthropic `invalid_request_error`
   as a context-overflow when its message says so. An unrelated invalid…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1205
+  lag_days: 2529
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 84e601c800030185aafcf82942439f6e223698f2d7fdceb4bb2f71b4334f4c45
+machine_hash: 1707f1c1a3b9f2a360bfc4ea40b6d549a03b3a9912b9f1452360f725a7cbde2d
 product: cline
 product_name: Cline
 record:
@@ -57,8 +57,8 @@ record:
   title: Only treat an Anthropic `invalid_request_error` as a context-overflow…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-19-design-systems-on-all-paid-plans|Design systems on
-  all paid plans]]'
+- '[[Changes/Notion/2026-08-19-manage-your-workers-connections-and-personal-access-tokens-from-the-new-develope|Your
+  Developer Portal, now in the sidebar]]'
 - '[[Changes/Codex CLI/2026-08-20-9-context-window-changes-in-rust-v0-149-0|9 Context
   Window changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-improved-the-reminder-shown-after-compaction-so-a-skill-s-original-arguments-are|Improved
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

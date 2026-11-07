@@ -4,19 +4,20 @@ date: '2026-09-16'
 description: 'OpenHands · 2026-09-16 · Developer Workflow: 5 changes in v1.19.0 —
   test: strengthen git tools submenu behavior by @aivong-openhands in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1278
+  lag_days: 2927
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 999f2236df62af6bf72ec0bbdf21c242592b2e3fa7dee80a874368850188989c
+machine_hash: 45d4adce4387378d9417f744e9139d9ae858d93a814c9e599c99691606920d15
 product: openhands
 product_name: OpenHands
 record:
@@ -47,10 +48,10 @@ record:
   title: 5 Developer Workflow changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-15-new-permissions-system-terminal-and-git-version-control-for-enterprise|New
-  Permissions System & Terminal and Git version control for Enterprise]]'
 - '[[Changes/Google Antigravity/2026-09-15-the-command-palette-now-opens-over-a-dimmed-backdrop-with-enter-and-exit-animati|The
   command palette now opens over a dimmed backdrop with enter and exit animations…]]'
+- '[[Changes/Kimi Code/2026-09-15-add-native-clipboard-support-on-linux-x11-so-copying-from-the-tui-no-longer-depe|Add
+  native clipboard support on Linux X11, so copying from the TUI no longer depends…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-6-developer-workflow-changes-in-v1-0-85|6
   Developer Workflow changes in v1.0.85]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'
@@ -109,7 +110,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.19.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

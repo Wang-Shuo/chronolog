@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'OpenClaw · 2026-09-23 · Context Window: 25 changes in v2026.9.6 — Dedicated
   compaction checkpoint links, history cards and branch or restore controls have been…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1238
+  lag_days: 2562
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0660c091bd209b89e5630a6dc20d6f66066070e435304c25293db33975a2ac93
+machine_hash: 5615910a9dfc477dead92c1179093937b025349d420145fae2b67618098f2063
 product: openclaw
 product_name: OpenClaw
 record:
@@ -213,12 +213,12 @@ record:
   title: 25 Context Window changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window
-  changes in v0.11.4]]'
 - '[[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window
   changes in v4.1.20]]'
 - '[[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context
   Window changes in rust-v0.156.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-new-copilot-notebooks-design-in-the-microsoft-365-copilot-app-web-microsoft-365|New
+  Copilot Notebooks design in the Microsoft 365 Copilot App…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-23-v2026-9-6-3f12c824|openclaw-2026-09-23-v2026-9-6-3f12c824]]'
 source_type: openclaw_changelog
 theme: context-window
@@ -319,14 +319,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context Window changes in rust-v0.156.0]]
+- Earlier: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-new-copilot-notebooks-design-in-the-microsoft-365-copilot-app-web-microsoft-365|New Copilot Notebooks design in the Microsoft 365 Copilot App…]]
 - Later: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-long-replies-on-local-models-llama-cpp-ollama-lm-studio-that-hit-the-output-toke|Long replies on local models (llama.cpp, Ollama, LM Studio) that hit…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

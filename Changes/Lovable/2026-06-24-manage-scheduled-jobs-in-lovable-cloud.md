@@ -4,20 +4,19 @@ date: '2026-06-24'
 description: 'Lovable · 2026-06-24 · Editor Experience: If your app uses Lovable Cloud,
   you can now manage scheduled jobs from the new…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1198
+  lag_days: 2782
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 602c0e3dd43fd284e281bfbdacf2f495ca4e4b388c8a938c848b2f60d389fd22
+machine_hash: 7758d6cd7d01b4ed4dcfefd9b5a482a263359ff1aee2c8c6adef19a99bf9d4c2
 product: lovable
 product_name: Lovable
 record:
@@ -55,12 +54,12 @@ record:
   title: Manage scheduled jobs in Lovable Cloud
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-29289-code-mode-preserve-initial-yield-at-completion-cconger|♯29289
-  code-mode: preserve initial yield at completion @cconger]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9
   Editor Experience changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add
   a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]'
+- '[[Changes/Kimi Code/2026-06-24-show-subcommand-suggestions-after-tab-completing-a-slash-command-name|Show
+  subcommand suggestions after Tab-completing a slash command name]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-24-2026-06-24-3a83c77f|lovable-2026-06-24-2026-06-24-3a83c77f]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -94,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]
+- Earlier: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-show-subcommand-suggestions-after-tab-completing-a-slash-command-name|Show subcommand suggestions after Tab-completing a slash command name]]
 - Later: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-desktop-kept-draft-prompt-state-per-tab|Desktop Kept draft prompt state per tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

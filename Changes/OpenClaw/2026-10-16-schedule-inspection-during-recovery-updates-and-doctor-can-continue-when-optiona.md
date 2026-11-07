@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc58b3a824b39f69b59aa29454054e9959fa22210b1bc6ab414c8b2e05d9c114
+machine_hash: a561c39d410f64dc01508dc7adb7e42ae6910eb9b1cca28559e0af873cfb9198
 product: openclaw
 product_name: OpenClaw
 record:
@@ -46,8 +46,8 @@ record:
   title: Schedule inspection during recovery
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-14-memory-reindex-rate-limits-reindexing-memories-from-the-admin-reindex-knowledge|\U0001F9EE
-  Memory reindex rate limits. Reindexing memories, from the admin Reindex…]]"
+- '[[Changes/Qoder/2026-10-14-remote-ssh-select-git-branches-in-remote-sessions-and-import-qoder-ide-task-hist|Remote
+  SSH: Select Git branches in remote sessions and import Qoder IDE task…]]'
 - '[[Changes/Codex CLI/2026-10-15-codex-can-run-independent-read-only-tools-in-parallel-including-skill-memory-and|Codex
   can run independent read-only tools in parallel, including skill, memory…]]'
 - "[[Changes/Open WebUI/2026-10-16-built-in-tools-turned-back-on-stay-on-a-built-in-tool-such-as-memory-that-is-off|\U0001F9F0

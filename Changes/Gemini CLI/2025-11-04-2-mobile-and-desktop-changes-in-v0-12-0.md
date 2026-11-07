@@ -4,20 +4,20 @@ date: '2025-11-04'
 description: 'Gemini CLI · 2025-11-04 · Mobile and Desktop: 2 changes in Release v0.12.0
   — run bom test on windows by @sehoon38 in…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 966
+  lag_days: 2550
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d9149d7e6f6aef3c7e1facc42ec72148d59f3620bbac8ecc5a9ce74d7d32aeb
+machine_hash: f97a403c630b60ec11dea8a85347d059e11da789a3950ed2ed0b8007c996edcb
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.12.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

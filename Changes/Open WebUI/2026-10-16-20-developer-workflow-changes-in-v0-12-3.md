@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-10-16 · Developer Workflow: 20 changes in v0.1
   — \U0001F4E1 **Much lighter streaming with Redis.** With Redis, a streaming reply
   is now stored…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1308
+  lag_days: 2957
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98fa316e951fe3f19201fa154144cf2ef3b9d48e618819d03c3838bb2fe22e1e
+machine_hash: db58c1f6ac4cd4bcdd9e4db4257ff6449e2375ab8734aea7222d72924ee1e766
 product: open-webui
 product_name: Open WebUI
 record:
@@ -258,7 +259,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

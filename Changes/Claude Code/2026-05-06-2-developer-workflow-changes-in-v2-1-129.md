@@ -4,19 +4,20 @@ date: '2026-05-06'
 description: 'Claude Code · 2026-05-06 · Developer Workflow: 2 changes in v2.1.129
   — Added `CLAUDE_CODE_PACKAGE_MANAGER_AUTO_UPDATE`: when set on Homebrew or WinGet…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1145
+  lag_days: 2794
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b9af2c4d2b274ea24c668d38f566424f2728663cb92ee95cff27efcec3433def
+machine_hash: df74eb1a4ba95941fa8245053b6442ad070bbb42305c38ddf91f883c4efc4295
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

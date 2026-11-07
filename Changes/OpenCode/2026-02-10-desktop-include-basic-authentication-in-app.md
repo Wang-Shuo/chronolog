@@ -4,20 +4,21 @@ date: '2026-02-10'
 description: 'OpenCode · 2026-02-10 · Account and Access: Desktop Include basic authentication
   in app'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1048
+  lag_days: 2023
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dbafc180aca0d1d1e0a11f0766797834344c5b3cc6c4ae5cc8edf3c459f21018
+machine_hash: 689203886ff9e352e60438253b9651fab8ce398131d079ba3a6c81cbaed1a18e
 product: opencode
 product_name: OpenCode
 record:
@@ -40,12 +41,12 @@ record:
   title: Desktop Include basic authentication in app
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-02-05-a-new-banner-encouraging-email-and-password-users-to-enable-two-factor-authentic|A
-  new banner encouraging email and password users to enable two-factor…]]'
 - '[[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode:
   Added support for remote sessions, allowing OAuth users to browse and resume…]]'
 - '[[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core):
   mock fetch in OAuth transport fallback tests]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-admins-can-set-up-connector-authentication-faster-with-a-simplified-experience-w|Admins
+  can set up connector authentication faster with a simplified experience…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-10-v1-1-54-df764791|opencode-2026-02-10-v1-1-54-df764791]]'
 source_type: opencode_changelog
 theme: account-access
@@ -87,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core): mock fetch in OAuth transport fallback tests]]
+- Earlier: 2026-02-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-02-10-admins-can-set-up-connector-authentication-faster-with-a-simplified-experience-w|Admins can set up connector authentication faster with a simplified experience…]]
 - Later: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-2-account-and-access-changes-in-v0-0-407|2 Account and Access changes in v0.0.407]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

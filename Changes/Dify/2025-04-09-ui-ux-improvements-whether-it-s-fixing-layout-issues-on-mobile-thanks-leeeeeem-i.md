@@ -5,20 +5,20 @@ description: 'Dify · 2025-04-09 · Mobile and Desktop: **UI/UX Improvements**: 
   it’s fixing layout issues on mobile (thanks, @LeeeeeeM in #16793!) or improving
   text…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 757
+  lag_days: 2341
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f33a98c5a891783b94ef537ab3d96ec7ac7758bc3a53564fbbdcd147b0fa447e
+machine_hash: e7b9b4ab4869c5497b4e48c27894041df9314e1af3124d2779ffe567bc171715
 product: dify
 product_name: Dify
 record:
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-03-24 · ElevenLabs · [[Changes/ElevenLabs/2025-03-24-core-app-signup-added-signup-endpoints-for-the-new-core-mobile-app|Core app signup: Added signup endpoints for the new Core mobile app]]
-- Later: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed failure of Docker containers to start on Windows]]
+- Later: 2025-04-10 · Descript · [[Changes/Descript/2025-04-10-updates-desktop-app-to-support-configuration-change|Updates desktop app to support configuration change]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

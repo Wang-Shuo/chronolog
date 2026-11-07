@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08beb5c536e90ac803024305792f10331c75642c659d112a86d5b84b2a0ef353
+machine_hash: 8c714a8bd659be723689612e8361dcfb774b128c265843a90f11ed70aa38c88c
 product: cline
 product_name: Cline
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved claude agents completed list to fill available vertical space]]
-- Later: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-2-agent-mode-changes-in-platform-api-v2-mcp-chat-tools|2 Agent Mode changes in Platform API v2, MCP chat tools…]]
+- Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-3-agent-mode-changes-in-kimi-code-0-20-0|3 Agent Mode changes in Kimi Code 0.20.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,19 +4,20 @@ date: '2025-09-12'
 description: 'Manus · 2025-09-12 · Collaboration: Collaborate with your team in real
   time, stay on the latest version, and keep work moving forward—all in one shared…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 842
+  lag_days: 2436
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a701a121e0e7096f0be24de4a9ef3bcff3df5b33e55b3d0ce0ef54f30cfa4584
+machine_hash: 1cebdba4982b89b9a269ee2666bc151064eed61be7ad4c5c08a0f30feaf83c60
 product: manus
 product_name: Manus
 record:
@@ -80,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

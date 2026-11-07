@@ -4,20 +4,19 @@ date: '2026-06-01'
 description: 'Codex CLI · 2026-06-01 · Editor Experience: 2 changes in 0.136.0 — #24928
   Wire task completion into thread-idle lifecycle @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2759
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6313fd0e550a237c9ef4b78fd8cd755f2814578a8aae865ab1eb277bec913a89
+machine_hash: 5e2a7c8294feb21f1b553c7ddc3858e7fb35b05284685144574f72e25da24b9e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -99,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

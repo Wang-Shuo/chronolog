@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-10-23 · Safety and Privacy: 15 changes in 0.164
   Set model, reasoning effort, speed, and permission profiles directly with inline
   `/model`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1286
+  lag_days: 2278
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad1673c91ea3a93b9fa51ceee6238129c64b5a9da9dee1d34bf97097de180186
+machine_hash: 11d9a93d5490add02ddacb1f7713c0a6a939b1d6125d457342636dad84c85cbc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -76,10 +76,10 @@ record:
   title: 15 Safety and Privacy changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-security-release-v2026-10-6-adds-remediations-for-the-emudhra-certificate-compro|Security
-  release: v2026.10.6 adds remediations for the eMudhra certificate compromise]]'
 - '[[Changes/OpenCode/2026-10-22-upgraded-the-bundled-bun-runtime-to-1-4-4|Upgraded
   the bundled Bun runtime to 1.4.4]]'
+- '[[Changes/Qoder/2026-10-22-dynamic-island-macos-view-task-progress-answer-questions-and-handle-permission-r|Dynamic
+  Island (macOS)]]'
 - '[[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety
   and Privacy changes in v2.1.310]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
@@ -161,7 +161,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

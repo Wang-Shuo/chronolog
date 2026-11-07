@@ -4,20 +4,20 @@ date: '2026-03-17'
 description: 'Gemini CLI · 2026-03-17 · Safety and Privacy: 3 changes in Release v0.34.0
   — Add extra safety checks for proto pollution by @jacob314 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1066
+  lag_days: 2058
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 557aebf8e44becb7a84dfb82169c6447f4ec03b6fdf20286770bf9524432973b
+machine_hash: 0a121ef3b72a42ba613fc8b1da8f96a536baeba52d5dcaa061f57d67ea053670
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-01-04'
 description: 'OpenCode · 2026-01-04 · Editor Experience: 2 changes in v1.1.1 — Core
   Fixed an issue in the codebase'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1027
+  lag_days: 2611
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1426d42d2e4c29c9f551eec0c3e3799d37513441d94350c311229e65774dd956
+machine_hash: 3b962deab41341620aaee653f7061e91ce417929d35086e5361370314e192745
 product: opencode
 product_name: OpenCode
 record:
@@ -97,7 +96,7 @@ Source: https://opencode.ai/changelog/v1.1.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

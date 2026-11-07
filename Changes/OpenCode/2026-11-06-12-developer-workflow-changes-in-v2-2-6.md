@@ -5,19 +5,20 @@ description: 'OpenCode · 2026-11-06 · Developer Workflow: 12 changes in v2.2.6
   Added Scroll on send in Settings. Choose Keep ( session.submit_scroll: "keep" )
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1329
+  lag_days: 2978
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f03acd0c4d4357ca25191176818a616affce52e7681881658093f240099b2483
+machine_hash: 3d58ff3a1b81529b8da365399d2ff8fc3717bcebfae8bcad7f64bdcd73788540
 product: opencode
 product_name: OpenCode
 record:
@@ -153,7 +154,7 @@ Source: https://opencode.ai/changelog/v2.2.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

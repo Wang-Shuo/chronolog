@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-09-04 · Interface Experience: Add Rece
   Created, Name, and classic None sorting to the split Sessions sidebar, with the
   selected…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1334
+  lag_days: 2700
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ceaa3cbb6cf849278f3a02c3d5e9f7e5445bba2ce37a2596317e94462384c96
+machine_hash: 6f53f43ea73da8ba57e3e2dd724bb572c58df0612a56beab7a1db4b9fb000e82
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     sidebar…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-14-interface-experience-changes-in-v2026-9-1|14 Interface
-  Experience changes in v2026.9.1]]'
+- '[[Changes/Qoder/2026-09-03-batch-tasks-archiving-multi-select-tasks-in-the-sidebar-to-archive-them-and-swit|Batch
+  tasks archiving]]'
 - '[[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface
   Experience changes in v2.1.261]]'
 - '[[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-04 · Codex CLI · [[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874 0.153 hotfix Show Astra in bundled model picker @rhan-oai]]
-- Later: 2026-09-04 · Lovable · [[Changes/Lovable/2026-09-04-new-ways-to-open-project-settings|New ways to open project settings]]
+- Later: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-a-new-home-experience|A new Home experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

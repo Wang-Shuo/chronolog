@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-08-14 · Reliability and Performance: 2 changes
   v0.3.13 — **\U0001F58B️ Minor Bug Fixes and Format Corrections**: Various minor
   fixes including typo…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 608
+  lag_days: 2095
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f7eb83a97a11df15ebc724c6c2b5fdf161799165d4ba04e57ff05bfc87fd726
+machine_hash: 1ef1c1a336b8b0dd785c321260ea65c05c25f07c2b1b9608a41e18faab1ce75d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.13
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

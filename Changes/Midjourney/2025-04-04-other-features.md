@@ -5,20 +5,20 @@ description: 'Midjourney · 2025-04-04 · Reliability and Performance: Upscaling
   editing and retexture will currently fall back to V6 models. We will update them
   in the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 841
+  lag_days: 2328
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fccd578965b3045f384b803e48cca1a07abab0543607a148e903c5201fc06e59
+machine_hash: 70bcfea9a749030805c0f4e495f9a213e5c4829cab5ab2c7ada7ef98ef6c8f9a
 product: midjourney
 product_name: Midjourney
 record:
@@ -55,8 +55,8 @@ record:
   title: Other features
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-24-2-reliability-and-performance-changes-in-1-1-3|2 Reliability
-  and Performance changes in 1.1.3]]'
+- '[[Changes/Descript/2025-03-25-smart-transitions-and-wordless-media|Smart transitions,
+  and Wordless media]]'
 - '[[Changes/Open WebUI/2025-04-01-3-reliability-and-performance-changes-in-v0-6-0|3
   Reliability and Performance changes in v0.6.0]]'
 - '[[Changes/Midjourney/2025-04-04-v7-launches-in-two-modes|V7 launches in two modes]]'
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

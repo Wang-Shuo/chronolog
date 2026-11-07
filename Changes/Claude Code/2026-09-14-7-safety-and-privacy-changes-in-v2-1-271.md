@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-14 · Safety and Privacy: 7 changes in v2.1
   — Fixed Bash permission checks missing the file that `fmt`, `column` and similar
   commands…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1247
+  lag_days: 2239
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eda6bef9c9bdb63f261d5816908a725812aa6a790333445e28cafccb45e25673
+machine_hash: 4f0f2e2fcfa9b53fd1549cb31232b4efd995b29bdd1a315d29269eb69a810a09
 product: claude-code
 product_name: Claude Code
 record:
@@ -125,13 +125,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i|If you make no changes to your Plugins settings, the default permission setting…]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-5-safety-and-privacy-changes-in-v2-1-273|5 Safety and Privacy changes in v2.1.273]]
+- Later: 2026-09-14 · Kimi Code · [[Changes/Kimi Code/2026-09-14-add-the-kimi-code-permission-mode-reminder-environment-variable-set-it-to-0-to-s|Add the KIMI_CODE_PERMISSION_MODE_REMINDER environment variable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

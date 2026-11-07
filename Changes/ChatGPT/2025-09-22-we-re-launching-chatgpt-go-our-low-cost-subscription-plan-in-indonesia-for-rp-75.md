@@ -4,20 +4,20 @@ date: '2025-09-22'
 description: 'ChatGPT · 2025-09-22 · Pricing Model: We''re launching ChatGPT Go, our
   low cost subscription plan, in Indonesia.For Rp 75.000/month, ChatGPT Go provides…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1012
+  lag_days: 2630
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 1af6c536b99c23bf8151978ba0c9fca29a1a449d5abc5dc809a8709f7840524c
+machine_hash: 58df8d07a7d8625e78d3779e2af739e30f0311d69ed76b7ad7749281d421ef0d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,11 +43,11 @@ record:
   title: ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia
   type: change
 related_changes:
-- '[[Changes/Replit/2025-08-29-organization-subscription-cancellation|Organization
-  subscription cancellation]]'
 - '[[Changes/Suno/2025-08-29-help-shape-suno-s-future-by-using-listen-rank-a-new-feature-to-rate-clips-by-oth|Listen
   and Rank, Earn Free Credits!]]'
 - '[[Changes/Lovable/2025-09-01-flexible-plan-management|Flexible plan management]]'
+- '[[Changes/Synthesia/2025-09-15-we-re-thrilled-to-announce-that-express-2-avatars-are-live-across-all-plans-with|Express-2
+  Avatars are here]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -77,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-09-01 · Lovable · [[Changes/Lovable/2025-09-01-flexible-plan-management|Flexible plan management]]
-- Later: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-switched-to-using-per-subscription-copilot-api-endpoints-in-accordance-with-gith|Switched to using per-subscription Copilot API endpoints in accordance…]]
+- Earlier: 2025-09-15 · Synthesia · [[Changes/Synthesia/2025-09-15-we-re-thrilled-to-announce-that-express-2-avatars-are-live-across-all-plans-with|Express-2 Avatars are here]]
+- Later: 2025-09-24 · Descript · [[Changes/Descript/2025-09-24-for-paid-subscribers|For paid subscribers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

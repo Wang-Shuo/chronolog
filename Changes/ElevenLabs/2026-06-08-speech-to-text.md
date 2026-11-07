@@ -4,20 +4,20 @@ date: '2026-06-08'
 description: 'ElevenLabs · 2026-06-08 · Voice and Audio: **Scribe v1 removal**: The
   `scribe_v1` model is deprecated and will be removed on July 9, 2026. Migrate to…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1064
+  lag_days: 2891
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: b6938e9c7e46d05747e0e95fffa1502b10389ee139579c56bd140f337ad4c92c
+machine_hash: 24646253d6036aefbada43c80bb089286531eb6ce20e5d32625117d4690e7112
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|With Design Mode in the Cursor browser, you can click, draw, or describe changes…]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-voice-runtime-download-dialog-no-longer-reopens-in-a-loop-after-an-install-failu|Voice runtime download dialog no longer reopens in a loop after an install failure]]
+- Later: 2026-06-08 · HeyGen · [[Changes/HeyGen/2026-06-08-unlike-most-video-tools-which-cut-the-audio-and-leave-the-video-jumping-at-every|Unlike most video tools, which cut the audio and leave the video jumping at every…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

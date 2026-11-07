@@ -5,20 +5,20 @@ description: 'Codex CLI · 2025-12-04 · Context Window: 3 changes in 0.65.0 —
   and context hygiene (#6242, #7483, #7545, #7431, #7483): history.jsonl is trimmed
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 945
+  lag_days: 2269
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d7b9be5ac032340821418927b7423832682b9a98db2b9c1ce09cf7829783c6a
+machine_hash: f2810b10d9a4972a7fd80c7eba12795de664b6453793e4f52c2d1bee16cee893
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,13 +94,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.65.0
 ## Nearby in Context Window
 
 - Earlier: 2025-12-04 · Cline · [[Changes/Cline/2025-12-04-2-context-window-changes-in-v3-40-0|2 Context Window changes in v3.40.0]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-general-fixes-parallel-tool-call-chat-now-returns-correctly-ghost-snapshot-token|General fixes: parallel tool-call chat now returns correctly, ghost snapshot tokens…]]
+- Later: 2025-12-05 · Descript · [[Changes/Descript/2025-12-05-youtube-import-has-been-turned-off|YouTube import has been turned off]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

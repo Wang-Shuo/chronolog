@@ -4,20 +4,20 @@ date: '2026-07-01'
 description: 'GitHub Copilot CLI · 2026-07-01 · Context Window: 2 changes in 1.0.68
   — Keep the footer model status in sync when reasoning effort or context tier changes'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1154
+  lag_days: 2478
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6451735fd7ec9f45abb2d477079706b03107ac36d94cc8e08109ecd0140d8a7a
+machine_hash: 6328df273bc049f4421eb5a8054f4554cd1451faa38f62efde92ebaaff9ea375
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,13 +90,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Context Window
 
 - Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents and context compaction now inherit the session's extended thinking…]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-test-pltf-1269-replace-test-should-naming-with-test-verb-noun-context-convention|test: PLTF-1269 replace test_should naming with test_verb_noun_context convention]]
+- Later: 2026-07-01 · Kimi Code · [[Changes/Kimi Code/2026-07-01-2-context-window-changes-in-kimi-code-0-21-0|2 Context Window changes in Kimi Code 0.21.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

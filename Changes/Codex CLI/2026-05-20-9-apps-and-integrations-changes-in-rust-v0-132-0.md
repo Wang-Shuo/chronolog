@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-05-20 · Apps and Integrations: 9 changes in 0.1
   — Multi-session TUI flows are more reliable: in-progress MCP calls stay marked as
   active…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1154
+  lag_days: 2714
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d5c43566932f7a71cd7039b0a06bc5ed64449628be7e92b2b7d7d93468408b6
+machine_hash: 269c513422a2072695bacd30f1060e2f7957c38677a759be410c935d74ef19a7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,12 +61,12 @@ record:
   title: 9 Apps and Integrations changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-05-19-daily-brief-is-your-personalized-overview-of-what-matters-today|Daily
-  Brief is your personalized overview of what matters today]]'
 - '[[Changes/Gemini/2026-05-19-gemini-can-connect-to-more-apps-starting-with-opentable-canva-and-instacart|Gemini
   can connect to more apps, starting with OpenTable, Canva, and Instacart]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-9-apps-and-integrations-changes-in-v1-0-49|9
   Apps and Integrations changes in v1.0.49]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-graph-api-enhancements-for-custom-connector-relevance-and-ux-web-microsoft-365-c|Graph
+  API enhancements for custom connector relevance and UX…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -123,14 +123,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.132.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-9-apps-and-integrations-changes-in-v1-0-49|9 Apps and Integrations changes in v1.0.49]]
+- Earlier: 2026-05-19 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-19-graph-api-enhancements-for-custom-connector-relevance-and-ux-web-microsoft-365-c|Graph API enhancements for custom connector relevance and UX…]]
 - Later: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4 Apps and Integrations changes in v1.0.51]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

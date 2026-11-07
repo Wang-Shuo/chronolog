@@ -4,19 +4,20 @@ date: '2026-09-09'
 description: 'ChatGPT · 2026-09-09 · Collaboration: 4 changes in Share files and folders
   from your Library — Share with specific people. Invite recipients and assign Viewer…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1204
+  lag_days: 2798
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c3bb25f2b0c50fe2775d61ac0416fed0a5f5e4935fc4b8d6a59b690284e5454
+machine_hash: 8312184a71295fb9eac3930f4f3c11845a3963db95aa635715ac458024e7b792
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -100,7 +101,7 @@ Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

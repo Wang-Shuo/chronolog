@@ -4,19 +4,20 @@ date: '2026-04-23'
 description: 'OpenCode · 2026-04-23 · Developer Workflow: 4 changes in v1.14.22 +
   1 — Core Fix project detection and caching for bare Git repos and worktrees.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1132
+  lag_days: 2781
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf8ec537de3646f655e7d4bf93aa4d6830722231691d378c11440530c7de1b0f
+machine_hash: a4159bc22654e0252ec080006b166971fa665b448d7ee68a7c8630924d419c2c
 product: opencode
 product_name: OpenCode
 record:
@@ -100,7 +101,7 @@ Source: https://opencode.ai/changelog/v1.14.22
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

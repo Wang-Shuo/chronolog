@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 27a3d74b4691b5dc05e32afdcb28f0ee6d10e12dfac6178dc12aa37f5c9b610e
+machine_hash: 1364194b01bc5fcc5aa96d5023ee235083b09fc0ee7c13fbb4dcc6b12ee17bdd
 product: opencode
 product_name: OpenCode
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Model Support changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-3-model-support-changes-in-rust-v0-137-0|3 Model
-  Support changes in rust-v0.137.0]]'
 - '[[Changes/Cline/2026-06-05-3-model-support-changes-in-v3-88-0|3 Model Support changes
   in v3.88.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-model-support-changes-in-v1-0-60|2 Model
   Support changes in v1.0.60]]'
+- '[[Changes/Kimi Code/2026-06-05-4-model-support-changes-in-kimi-code-0-11-0|4 Model
+  Support changes in Kimi Code 0.11.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-05-v1-16-0-b08173b2|opencode-2026-06-05-v1-16-0-b08173b2]]'
 source_type: opencode_changelog
 theme: model-support
@@ -95,7 +95,7 @@ Source: https://opencode.ai/changelog/v1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-model-support-changes-in-v1-0-60|2 Model Support changes in v1.0.60]]
+- Earlier: 2026-06-05 · Kimi Code · [[Changes/Kimi Code/2026-06-05-4-model-support-changes-in-kimi-code-0-11-0|4 Model Support changes in Kimi Code 0.11.0]]
 - Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-2-model-support-changes-in-v1-16-2|2 Model Support changes in v1.16.2]]
 <!-- chronolog:end -->
 

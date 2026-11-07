@@ -4,20 +4,20 @@ date: '2025-06-25'
 description: 'Dify · 2025-06-25 · Interface Experience: 4 changes in v1.5.0 — **Notion
   Pagination:** Easier navigation through extracted Notion data (#20919, @kazuya-awano).'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 898
+  lag_days: 2264
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d47245afd240a90e0fb15fa5d72c57257a98b765bfe48a85b15f6b59cd57ce97
+machine_hash: 377258ed9a6919ac3d94de475bf39fc6ce7550f99c3a415570476a02271e3293
 product: dify
 product_name: Dify
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Interface Experience changes in 1.5.0
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-06-17-if-you-wanna-switch-back-to-v6-1-go-under-the-web-settings-on-your-prompt-bar-or|If
-  you wanna switch back to V6.1 go under the web settings on your prompt bar…]]'
 - '[[Changes/Midjourney/2025-06-18-we-are-also-letting-you-animate-images-uploaded-from-outside-of-midjourney|We
   are also letting you animate images uploaded from outside of Midjourney]]'
 - '[[Changes/Midjourney/2025-06-19-when-saving-an-video-to-share-please-right-click-your-video-and-press-save-for-s|When
   saving an video to share, please right click your video and press…]]'
+- '[[Changes/Descript/2025-06-25-new-art-style-in-ai-video-maker-and-quick-design|New
+  art style in AI video maker and Quick design]]'
 source_release: '[[Releases/Dify/dify-2025-06-25-1-5-0-github-227620290-133307f4|dify-2025-06-25-1-5-0-github-227620290-133307f4]]'
 source_type: github_releases
 theme: interface-experience
@@ -99,14 +99,14 @@ Source: https://github.com/langgenius/dify/releases/tag/1.5.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-06-19 · Midjourney · [[Changes/Midjourney/2025-06-19-when-saving-an-video-to-share-please-right-click-your-video-and-press-save-for-s|When saving an video to share, please right click your video and press…]]
-- Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-2-interface-experience-changes-in-v0-85-0|2 Interface Experience changes in v0.85.0]]
+- Earlier: 2025-06-25 · Descript · [[Changes/Descript/2025-06-25-new-art-style-in-ai-video-maker-and-quick-design|New art style in AI video maker and Quick design]]
+- Later: 2025-06-26 · Descript · [[Changes/Descript/2025-06-26-panels-quick-access-for-panels-on-the-sidebar-like-project-and-elements|Panels - Quick access for panels on the sidebar like Project, and Elements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

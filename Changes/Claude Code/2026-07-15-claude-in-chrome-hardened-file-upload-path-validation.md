@@ -4,20 +4,20 @@ date: '2026-07-15'
 description: 'Claude Code · 2026-07-15 · Files and Data: Claude in Chrome: hardened
   file-upload path validation'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1147
+  lag_days: 2492
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f180bb38681c5440c61ffa1ffce8ef809202d187b7829a8498f88031529ed6ca
+machine_hash: dfbc7a72b343471842e2dca65aef9ce772eddca0f17ae751bd52d5aa361a8fa9
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,13 +82,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-13-files-and-data-changes-in-v2026-7-1|13 Files and Data changes in v2026.7.1]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add canvas support in the CLI for extension-driven interactions]]
+- Later: 2026-07-15 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-15-create-brand-kits-from-your-brand-guidelines-web-microsoft-365-copilot-app|Create brand kits from your brand guidelines Web (Microsoft 365 Copilot App)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

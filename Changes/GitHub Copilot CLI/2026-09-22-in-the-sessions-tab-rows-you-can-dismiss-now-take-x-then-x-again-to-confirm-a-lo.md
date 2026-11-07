@@ -4,20 +4,19 @@ date: '2026-09-22'
 description: 'GitHub Copilot CLI · 2026-09-22 · Editor Experience: In the Sessions
   tab, rows you can dismiss now take x then x again to confirm: a local session is…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1288
+  lag_days: 2872
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9982ca27ca5d6a1f6c38147ef85c32b4b303f03127a3fd2cbd3223b49d86c1ec
+machine_hash: 88e48d5c84d5cfae44dce6c34e0b587d79825a0b9cbf769005f5c3f45a628096
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

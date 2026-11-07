@@ -5,20 +5,20 @@ description: 'Cursor · 2026-06-10 · Safety and Privacy: You can now run Bugbot
   Security Review with /review before pushing code. /review prompts you to choose
   which…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1151
+  lag_days: 2143
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 75e7e0140ffb54fd690aed7872938eb1c31bc7a34010ab2ccc6711307bb1cd1a
+machine_hash: 16daa91af3eaf693c0a833f6eceb6c47229c7d3249a05b6eaebfcbf3f88f7a06
 product: cursor
 product_name: Cursor
 record:
@@ -64,10 +64,10 @@ record:
   title: Run Bugbot before you push
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-09-5-safety-and-privacy-changes-in-rust-v0-139-0|5
-  Safety and Privacy changes in rust-v0.139.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-pasted-images-no-longer-leak-into-the-main-prompt-after-a-permission-dialog-clos|Pasted
   images no longer leak into the main prompt after a permission dialog closes]]'
+- '[[Changes/Kimi Code/2026-06-09-fix-acp-slash-skill-routing-bootstrap-context-reads-file-and-permission-edge-cas|Fix
+  ACP slash skill routing, bootstrap context reads, file and permission edge…]]'
 - '[[Changes/Claude Code/2026-06-10-2-safety-and-privacy-changes-in-v2-1-172|2 Safety
   and Privacy changes in v2.1.172]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78|cursor-2026-06-10-bugbot-is-now-over-3x-faster-22-cheaper-and-finds-10-more-bugs-h-c1721c78]]'
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

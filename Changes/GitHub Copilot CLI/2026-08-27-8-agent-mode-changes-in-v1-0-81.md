@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 468ec54464523af338afec974099dae92fce25444771a151f75d9107a5a14659
+machine_hash: ef2efaf4789b521ebcb393da5bf44c481b550239e5d3e97250c25ae7c04dffe6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -129,7 +129,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.81
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-27 · Cursor · [[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|A live preview, right in the browser]]
-- Later: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-4-agent-mode-changes-in-v1-16-0|4 Agent Mode changes in v1.16.0]]
+- Later: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-4-agent-mode-changes-in-kimi-code-0-39-0|4 Agent Mode changes in Kimi Code 0.39.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

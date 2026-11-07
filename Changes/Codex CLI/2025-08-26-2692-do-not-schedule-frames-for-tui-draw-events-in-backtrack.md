@@ -4,20 +4,20 @@ date: '2025-08-26'
 description: 'Codex CLI · 2025-08-26 · Automation and Scheduling: #2692 do not schedule
   frames for Tui::Draw events in backtrack'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 602
+  lag_days: 2169
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d71ba51aabcf7739a0a33e3be11182cd3313410f4b6ea2c173b90bad7ccd354c
+machine_hash: 9005cc0d7b9295ec91004365beb405bfd15e33a8080d6807544325c7eb56bfd3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#2692 do not schedule frames for Tui::Draw events in backtrack'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-09-customizable-floating-quick-actions-with-tool-support-take-full-control-of-your|✍️
-  Customizable Floating Quick Actions with Tool Support]]'
 - '[[Changes/Gemini CLI/2025-08-12-2-automation-and-scheduling-changes-in-v0-1-19|2
   Automation and Scheduling changes in v0.1.19]]'
 - '[[Changes/Gemini CLI/2025-08-14-8-automation-and-scheduling-changes-in-v0-1-21|8
   Automation and Scheduling changes in v0.1.21]]'
+- '[[Changes/Notion/2025-08-19-create-and-manage-tasks-right-in-notion-calendar|Create
+  and manage tasks right in Notion Calendar]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-8-automation-and-scheduling-changes-in-v0-1-21|8 Automation and Scheduling changes in v0.1.21]]
+- Earlier: 2025-08-19 · Notion · [[Changes/Notion/2025-08-19-create-and-manage-tasks-right-in-notion-calendar|Create and manage tasks right in Notion Calendar]]
 - Later: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-loop-exit-conditions-fixed-loop-exit-condition-to-accept-variables-from-nodes-in|Loop Exit Conditions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

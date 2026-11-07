@@ -4,20 +4,20 @@ date: '2026-08-05'
 description: 'OpenHands · 2026-08-05 · Apps and Integrations: chore: bump @openhands/extensions
   to 0.16.0 by @hieptl in https://github.com/OpenHands/OpenHands/pull/16321'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1231
+  lag_days: 2791
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7991a8719532cd440a205ee8c51ad3c6f22e906311c6d12f3877aec85c464dd8
+machine_hash: aa73173526f0ed24727993f8147c37900976c3a9b652818d2d69d28f11d61571
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,11 @@ record:
   title: 'chore: bump @openhands/extensions to 0.16.0'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-2-apps-and-integrations-changes-in-v2-1-222|2
-  Apps and Integrations changes in v2.1.222]]'
-- '[[Changes/Cline/2026-08-05-map-reasoning-settings-onto-a-shared-path-across-ai-sdk-providers-so-effort-leve|Map
-  reasoning settings onto a shared path across AI SDK providers, so effort levels…]]'
 - '[[Changes/Cline/2026-08-05-2-apps-and-integrations-changes-in-v4-1-4|2 Apps and
   Integrations changes in v4.1.4]]'
+- '[[Changes/Descript/2026-08-05-api-integrations|API & integrations]]'
+- '[[Changes/Kimi Code/2026-08-05-4-apps-and-integrations-changes-in-kimi-code-0-33-0|4
+  Apps and Integrations changes in Kimi Code 0.33.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834|openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-2-apps-and-integrations-changes-in-v4-1-4|2 Apps and Integrations changes in v4.1.4]]
+- Earlier: 2026-08-05 · Kimi Code · [[Changes/Kimi Code/2026-08-05-4-apps-and-integrations-changes-in-kimi-code-0-33-0|4 Apps and Integrations changes in Kimi Code 0.33.0]]
 - Later: 2026-08-06 · Claude · [[Changes/Claude/2026-08-06-skill-and-plugin-security-scanning-beta|Skill and plugin security scanning (beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

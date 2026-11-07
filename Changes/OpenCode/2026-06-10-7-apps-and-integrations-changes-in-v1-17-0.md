@@ -4,20 +4,20 @@ date: '2026-06-10'
 description: 'OpenCode · 2026-06-10 · Apps and Integrations: 7 changes in v1.17.0
   — Core mcp add now works in non-interactive flows.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2735
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7678735b4dd9c86d3407439350740d4290c2b742ddab9523a04f32ff60ddd5d7
+machine_hash: 4ae107591140da62978de98ab4d8d8b9e05fd4a14eaf1155dd10097286e3e8ce
 product: opencode
 product_name: OpenCode
 record:
@@ -55,12 +55,12 @@ record:
   title: 7 Apps and Integrations changes in v1.17.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-09-8-apps-and-integrations-changes-in-rust-v0-139-0|8
-  Apps and Integrations changes in rust-v0.139.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-09-4-apps-and-integrations-changes-in-v1-0-61|4
-  Apps and Integrations changes in v1.0.61]]'
 - '[[Changes/Claude Code/2026-06-10-3-apps-and-integrations-changes-in-v2-1-172|3
   Apps and Integrations changes in v2.1.172]]'
+- '[[Changes/Kimi Code/2026-06-10-add-an-interrupt-hook-event-that-fires-when-the-user-interrupts-a-turn-e-g-press|Add
+  an Interrupt hook event that fires when the user interrupts a turn…]]'
+- '[[Changes/Kimi Code/2026-06-10-2-apps-and-integrations-changes-in-kimi-code-0-13-0|2
+  Apps and Integrations changes in Kimi Code 0.13.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-10-v1-17-0-776801ad|opencode-2026-06-10-v1-17-0-776801ad]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -109,14 +109,14 @@ Source: https://opencode.ai/changelog/v1.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-3-apps-and-integrations-changes-in-v2-1-172|3 Apps and Integrations changes in v2.1.172]]
+- Earlier: 2026-06-10 · Kimi Code · [[Changes/Kimi Code/2026-06-10-2-apps-and-integrations-changes-in-kimi-code-0-13-0|2 Apps and Integrations changes in Kimi Code 0.13.0]]
 - Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-2-apps-and-integrations-changes-in-v1-17-1|2 Apps and Integrations changes in v1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

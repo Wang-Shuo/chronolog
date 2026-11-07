@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-10-29 · Interface Experience: 12 changes in 0.1
   — Added keyboard-driven transcript selection with word, line, and page motions,
   integrated…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1389
+  lag_days: 2755
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 08d96136a47b92b857eb1e7117f5889d9a88d16853717222bab8406165a93fe5
+machine_hash: 6214f9dd54fb8da64300cf4eae521eff185cfeaf98258e6e6808713e034498b4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,10 +67,10 @@ record:
   title: 12 Interface Experience changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-10-interface-experience-changes-in-v2-2-0|10 Interface
-  Experience changes in v2.2.0]]'
 - '[[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface
   Experience changes in v1.34.0]]'
+- '[[Changes/Kimi Code/2026-10-28-2-interface-experience-changes-in-kimi-code-2-4-0|2
+  Interface Experience changes in Kimi Code 2.4.0]]'
 - '[[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
@@ -146,7 +146,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

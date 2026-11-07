@@ -4,19 +4,20 @@ date: '2026-10-27'
 description: 'OpenHands · 2026-10-27 · Collaboration: feat(conversation): label the
   share toggle "Share with Org users" in team orgs (OHE-3765) by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1252
+  lag_days: 2846
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f3dc2adf8063fca662f8d8b01aaf68d8a87aef3d1dc7428941801bb1a14c5749
+machine_hash: 6203bbec4d16a1f0063f7ea3313528b3d09f5526fd5b505f2cb76976d3107ab9
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +43,8 @@ record:
     orgs (OHE-3765)'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE
-  mode now offers Devin Cloud whenever your account has Cloud access, the same…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-use-copilot-chat-after-a-call-in-queues-app-windows-mac-teams|Use
+  Copilot Chat after a call in Queues app Windows, Mac (Teams)]]'
 - '[[Changes/OpenClaw/2026-10-27-malformed-microsoft-teams-message-html-no-longer-causes-the-parsing-stalls-that|Malformed
   Microsoft Teams message HTML no longer causes the parsing stalls…]]'
 - '[[Changes/OpenCode/2026-10-27-core-honor-shared-parallel-tool-call-and-service-tier-settings-for-groq|Core
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

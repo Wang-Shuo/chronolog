@@ -4,20 +4,19 @@ date: '2026-08-24'
 description: 'ElevenLabs · 2026-08-24 · Editor Experience: The [ElevenLabs CLI v1.0.0](https://github.com/elevenlabs/cli/releases/tag/v1.0.0)
   is now available. Every…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1259
+  lag_days: 2843
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bde7b40cd17f20fb053300a2cecfe2c95b9007c55dc6f357e0d099cf2369ea35
+machine_hash: 802c9907a647ebf1693255aa93664c4c23d902c5bce299cd86d7ec7367ef30a4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -99,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

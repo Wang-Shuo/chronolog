@@ -4,19 +4,20 @@ date: '2026-07-31'
 description: 'v0 · 2026-07-31 · Developer Workflow: Duplicating a Git-backed chat
   produces a working copy instead of one that fails to render.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1231
+  lag_days: 2880
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f86dd74d49989fa1b9f8e2c95034db3fc4e5ebf54f2aba30292be40d714237a
+machine_hash: 6a5c9f4fdf37dabff64ea1217db966a22eeef59beeee8335ab62d60436c4560d
 product: v0
 product_name: v0
 record:
@@ -45,10 +46,10 @@ record:
     fails to render
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-12-developer-workflow-changes-in-rust-v0-146-0|12
-  Developer Workflow changes in rust-v0.146.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2
   Developer Workflow changes in v1.0.76]]'
+- '[[Changes/Kimi Code/2026-07-30-add-the-secondary-model-slash-command-to-configure-the-secondary-model-used-by-s|Add
+  the /secondary_model slash command to configure the secondary model used…]]'
 - '[[Changes/Google Antigravity/2026-07-31-2-developer-workflow-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
   Developer Workflow changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 source_release: '[[Releases/v0/v0-2026-07-31-2026-07-31-9665255c|v0-2026-07-31-2026-07-31-9665255c]]'
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

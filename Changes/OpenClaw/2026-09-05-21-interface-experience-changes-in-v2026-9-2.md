@@ -4,20 +4,20 @@ date: '2026-09-05'
 description: 'OpenClaw · 2026-09-05 · Interface Experience: 21 changes in v2026.9.2
   — Setting up a local model now starts with the computer that will run it, and OpenClaw…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1335
+  lag_days: 2701
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e5fef3aaeb000bd82badd38428090726ca2731fdb80ba5fb9c343e550ad933f7
+machine_hash: ec9adaaaa7aae745a08d5016aae8aff6cecb53ebc815ac75efe4a325f096e514
 product: openclaw
 product_name: OpenClaw
 record:
@@ -179,10 +179,9 @@ record:
   title: 21 Interface Experience changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874
-  0.153 hotfix Show Astra in bundled model picker @rhan-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-add-recent-created-name-and-classic-none-sorting-to-the-split-sessions-sidebar-w|Add
   Recent, Created, Name, and classic None sorting to the split Sessions sidebar…]]'
+- '[[Changes/HeyGen/2026-09-04-a-new-home-experience|A new Home experience]]'
 - '[[Changes/Lovable/2026-09-04-new-ways-to-open-project-settings|New ways to open
   project settings]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'
@@ -284,7 +283,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

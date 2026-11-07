@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-05 · Enterprise and Administration: 4 changes
   v2026.9.2 — Successfully generated images remain visible when a later tool fails,
   and saved…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 2426
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43cbcd4b9cbed8753da63273b83e19eacf56a52ba435fb17b99afb969fbaa7fd
+machine_hash: ff3f38b4c3ea3a9e4801eb47f6d5f91c4d9cfa23c07f28bd59d234fb6c09e81d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -68,10 +68,9 @@ record:
   title: 4 Enterprise and Administration changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your
-  workspace adopts Lovable]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise
-  admins can pin sign-in to approved GitHub organizations…]]'
+- '[[Changes/HeyGen/2026-09-04-projects-page-organized-for-scale|Projects page, organized
+  for scale]]'
+- '[[Changes/HeyGen/2026-09-04-governance-for-admins|Governance for admins]]'
 - '[[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect
   your preview links]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'
@@ -139,7 +138,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 23326b32e8627a9ced2d36251dcf7c07f56610e57ab1c40056bce3da9bbbcf63
+machine_hash: 83c615051322103c71e8a4cf6a0ce40722d0080429aa5f921d0ccfffbf5170b9
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Memory and Personalization changes in 0.6.13
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-14-2-memory-and-personalization-changes-in-0-6-11|2 Memory
-  and Personalization changes in 0.6.11]]'
 - "[[Changes/Open WebUI/2024-06-17-editable-memories-adds-the-capability-to-modify-memories|\U0001F9E0
   Editable Memories: Adds the capability to modify memories]]"
+- '[[Changes/Notion/2024-06-18-unlock-your-company-s-memory|Unlock your company’s
+  memory]]'
 - '[[Changes/OpenHands/2024-07-05-ci-for-colima-modify-cpu-count-and-memory-by-smartmanoj-in-https-github-com-open|CI:
   For colima, modify CPU count and memory]]'
 source_release: '[[Releases/Dify/dify-2024-07-08-0-6-13-github-164437936-9fca9505|dify-2024-07-08-0-6-13-github-164437936-9fca9505]]'

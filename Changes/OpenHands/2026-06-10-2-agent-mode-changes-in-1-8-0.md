@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1eed358d77db69e03f9ac1ddd791ef154ac3172c6e4962890244f0859c1b3873
+machine_hash: 7aec1374024fc111cc0629a6733314ef868fc4f08cdbff30914570292d19f0f3
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Agent Mode changes in 1.8.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents
-  can now spawn their own sub-agents (up to 5 levels deep)]]'
+- '[[Changes/Kimi Code/2026-06-10-clarify-grouped-subagent-progress-with-active-status-breakdowns-and-elapsed-time|Clarify
+  grouped subagent progress with active status breakdowns and elapsed time]]'
 - '[[Changes/OpenCode/2026-06-10-desktop-hidden-agents-no-longer-get-cycled-accidentally|Desktop
   Hidden agents no longer get cycled accidentally]]'
 - '[[Changes/OpenCode/2026-06-10-let-subagents-use-their-own-configured-permissions-again|Let

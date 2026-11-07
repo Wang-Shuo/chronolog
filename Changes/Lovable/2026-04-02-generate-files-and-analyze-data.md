@@ -5,20 +5,20 @@ description: 'Lovable · 2026-04-02 · Files and Data: Lovable can now run code 
   [generate downloadable files](https://docs.lovable.dev/features/generate-files.md)
   directly…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1043
+  lag_days: 2388
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1f5489993d7a697fde8e5a63049b4560f2642249324f2c58382b1b4cfddd9777
+machine_hash: 048824b0fc64c47749c3025e06250b13834f3dc8fbbdb8e11b523c55ad319845
 product: lovable
 product_name: Lovable
 record:
@@ -51,12 +51,12 @@ record:
   title: Generate files and analyze data
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-docs-document-npm-deprecation-warnings-as-safe-to-ignore-by-h30s-in-https-github|docs:
-  document npm deprecation warnings as safe to ignore]]'
 - '[[Changes/Open WebUI/2026-03-25-2-files-and-data-changes-in-v0-8-11|2 Files and
   Data changes in v0.8.11]]'
 - '[[Changes/Dify/2026-03-27-4-files-and-data-changes-in-1-13-3|4 Files and Data changes
   in 1.13.3]]'
+- '[[Changes/HeyGen/2026-04-02-supported-file-types-ppt-pptx-pdf-max-50mb|Supported
+  file types: PPT, PPTX, PDF (max 50MB)]]'
 source_release: '[[Releases/Lovable/lovable-2026-04-02-2026-04-02-7ad85f39|lovable-2026-04-02-2026-04-02-7ad85f39]]'
 source_type: lovable_changelog
 theme: file-data
@@ -97,14 +97,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-4-files-and-data-changes-in-1-13-3|4 Files and Data changes in 1.13.3]]
-- Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan tabs now get the same document behaviors as files]]
+- Earlier: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-supported-file-types-ppt-pptx-pdf-max-50mb|Supported file types: PPT, PPTX, PDF (max 50MB)]]
+- Later: 2026-04-07 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-07-smarter-answers-with-embedded-image-understanding-windows-microsoft-365-copilot|Smarter answers with embedded image understanding…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

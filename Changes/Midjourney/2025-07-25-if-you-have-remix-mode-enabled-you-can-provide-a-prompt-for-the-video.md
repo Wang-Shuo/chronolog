@@ -4,20 +4,20 @@ date: '2025-07-25'
 description: 'Midjourney · 2025-07-25 · Multimodal Input: If you have remix mode enabled,
   you can provide a prompt for the video'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 675
+  lag_days: 2443
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef44710584033b3dc90a9daa441102071e1edebdbb58db374fbc855192a2f3c1
+machine_hash: e156755b4557b9dac445484aa564ecbf4418a2282d8c71183a6f5186f1d69020
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,8 +43,8 @@ record:
   title: If you have remix mode enabled, you can provide a prompt for the video
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add
-  vision capability to moonshot v1]]'
+- '[[Changes/Descript/2025-07-17-add-branding-to-video-pages-showcase-your-logo-and-drive-name-on-published-pages|Add
+  branding to video pages - Showcase your logo and Drive name on published…]]'
 - '[[Changes/Midjourney/2025-07-25-to-get-a-higher-quality-mp4-click-one-of-the-virtual-upscale-buttons-on-a-video|To
   get a higher-quality .mp4, click one of the virtual upscale buttons on a video]]'
 - '[[Changes/Midjourney/2025-07-25-to-animate-an-image-from-outside-of-midjourney-enter-the-image-url-at-the-start|To
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-07-16 · Cline · [[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add vision capability to moonshot v1]]
+- Earlier: 2025-07-17 · Descript · [[Changes/Descript/2025-07-17-add-branding-to-video-pages-showcase-your-logo-and-drive-name-on-published-pages|Add branding to video pages - Showcase your logo and Drive name on published…]]
 - Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core): Parse Multimodal MCP Tool responses]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

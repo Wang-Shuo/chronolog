@@ -4,20 +4,20 @@ date: '2026-07-13'
 description: 'OpenClaw · 2026-07-13 · Reliability and Performance: 38 changes in v2026.7.1
   — Usage information is easier to understand from both status views and the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1306
+  lag_days: 2793
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc8dd117a110a0ee280af34a992d23563c18770c585929e1dc37392a95377dad
+machine_hash: ff7d4146f739c6919faf98f98c29b4957bb1fb7132dd10e1a6697d0e5a3a7ebd
 product: openclaw
 product_name: OpenClaw
 record:
@@ -329,7 +329,7 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

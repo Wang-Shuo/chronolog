@@ -4,19 +4,20 @@ date: '2025-04-19'
 description: 'Cline · 2025-04-19 · Developer Workflow: 2 changes in v3.13.0 — Add
   command to jump to Cline''s chat input'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 763
+  lag_days: 2412
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0aae3c7419e5f43c03c2734239ead2397a181a0da75ed74eab46febf212a876
+machine_hash: 722ee97cbb604feeb8a724849b59fee09ac404ad1500183bed9a86eaa7154228
 product: cline
 product_name: Cline
 record:
@@ -90,7 +91,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.13.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

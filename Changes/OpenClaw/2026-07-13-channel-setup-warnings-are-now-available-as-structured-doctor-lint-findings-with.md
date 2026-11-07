@@ -4,20 +4,20 @@ date: '2026-07-13'
 description: 'OpenClaw · 2026-07-13 · Automation and Scheduling: Channel setup warnings
   are now available as structured Doctor lint findings with stable paths and repair…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 923
+  lag_days: 2490
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1f195a4cfa3b6de535e2437fd0e3b9423c72885da7406c01bc21c7fda8bc33ce
+machine_hash: 02c887931597669df59134b7467366e90be1ca4b04144c5ac15b191ba931e65c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -44,10 +44,10 @@ record:
   title: Channel setup warnings are now available as structured Doctor lint findings…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508
-  Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]'
 - '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work
   can also keep projects moving through Scheduled Tasks that run once, repeat…]]'
+- '[[Changes/Kimi Code/2026-07-12-keep-kimi-p-runs-alive-after-a-turn-ends-while-a-goal-is-still-active-or-a-cron|Keep
+  kimi -p runs alive after a turn ends while a goal is still active or a cron…]]'
 - '[[Changes/OpenClaw/2026-07-13-79-automation-and-scheduling-changes-in-v2026-7-1|79
   Automation and Scheduling changes in v2026.7.1]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
@@ -105,14 +105,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work can also keep projects moving through Scheduled Tasks that run once, repeat…]]
-- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation and Scheduling changes in 1.16.0]]
+- Earlier: 2026-07-12 · Kimi Code · [[Changes/Kimi Code/2026-07-12-keep-kimi-p-runs-alive-after-a-turn-ends-while-a-goal-is-still-active-or-a-cron|Keep kimi -p runs alive after a turn ends while a goal is still active or a cron…]]
+- Later: 2026-07-16 · Notion · [[Changes/Notion/2026-07-16-what-s-on-my-schedule-today|What’s on my schedule today?]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

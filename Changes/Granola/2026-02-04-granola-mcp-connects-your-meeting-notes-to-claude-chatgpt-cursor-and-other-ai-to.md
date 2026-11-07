@@ -5,20 +5,20 @@ description: 'Granola · 2026-02-04 · Meeting Notes: Granola MCP connects your 
   notes to Claude, ChatGPT, Cursor, and other AI tools via Model Context Protocol.
   Your…'
 diffusion:
-  first_in_tracked: '[[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New
-    in Granola: 29 meeting note templates, out of the box]]'
+  first_in_tracked: '[[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed
+    Sketch designs, Excalidraw drawings & Framer prototypes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 485
+  lag_days: 1681
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5b384add27e4e2504996bff40839259f0ed2745a9f6a7faedd58f9a16e7f8843
+machine_hash: 56be0e766f63da0fd0a2c560fdf13738934deaeb007146d151124ca576e439ca
 product: granola
 product_name: Granola
 record:
@@ -64,10 +64,10 @@ record:
   title: Introducing Granola MCP
   type: change
 related_changes:
-- '[[Changes/Granola/2025-07-24-new-for-meeting-notes-now-you-can-tweak-tone-change-length-or-make-precise-edits|New
-  for meeting notes]]'
-- '[[Changes/Granola/2025-09-30-recipes-are-saved-prompts-written-by-experts-that-work-with-your-meeting-notes-c|Introducing
-  Recipes, in the all-new Granola Chat]]'
+- '[[Changes/Notion/2025-11-17-get-the-full-context-from-meeting-summaries|Get the
+  full context from meeting summaries]]'
+- '[[Changes/Notion/2025-11-17-a-new-home-for-all-your-meetings|A new home for all
+  your meetings]]'
 - '[[Changes/Granola/2025-12-04-a-celebration-of-your-year-as-told-by-your-meeting-notes|Granola
   Crunched]]'
 source_release: '[[Releases/Granola/granola-2026-02-04-https-www-granola-ai-blog-granola-mcp-0d8b3ba3|granola-2026-02-04-https-www-granola-ai-blog-granola-mcp-0d8b3ba3]]'
@@ -97,13 +97,13 @@ type: change
 ## Nearby in Meeting Notes
 
 - Earlier: 2025-12-04 · Granola · [[Changes/Granola/2025-12-04-a-celebration-of-your-year-as-told-by-your-meeting-notes|Granola Crunched]]
-- Later: 2026-05-20 · Granola · [[Changes/Granola/2026-05-20-open-a-meeting-note-and-get-a-short-brief-who-you-re-meeting-what-you-discussed|New: Briefs prepare you for your next meeting as you join]]
+- Later: 2026-03-05 · Notion · [[Changes/Notion/2026-03-05-let-s-imagine-a-meetings-database-where-a-teammate-should-be-able-to-access-thei|Let’s imagine a meetings database where a teammate should be able to access…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-10-07 · Granola · [[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New in Granola: 29 meeting note templates, out of the box]]
+- Earliest same-theme entry in the tracked set: 2021-06-29 · Notion · [[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed Sketch designs, Excalidraw drawings & Framer prototypes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

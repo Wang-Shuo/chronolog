@@ -4,20 +4,20 @@ date: '2024-04-08'
 description: 'Dify · 2024-04-08 · Files and Data: The much-anticipated workflow feature
   is here: In a nutshell, workflow provides a visual canvas for defining complex tasks…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 319
+  lag_days: 1664
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 67f39c8044c7b6efdaf0e21bf691e93eafdf0570c12eab8e618df7f16207451a
+machine_hash: 97ac7f4b1a8bda055801ced929d7a296dc20ef7eb0c8f5f22f5e3915e590d065
 product: dify
 product_name: Dify
 record:
@@ -111,13 +111,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-04-04 · Open WebUI · [[Changes/Open WebUI/2024-04-04-chat-download-as-pdf-easily-download-chats-in-pdf-format|📄 Chat Download as PDF: Easily download chats in PDF format]]
-- Later: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-feat-added-code-interpreter-tool-by-yeuoly-in-3557|feat: Added Code Interpreter Tool by @Yeuoly in ♯3557]]
+- Later: 2024-04-09 · Descript · [[Changes/Descript/2024-04-09-descript-labs-new-canvas-selection-tools|Descript Labs: New Canvas selection tools]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-08-14'
 description: 'ChatGPT · 2026-08-14 · Voice and Audio: Switch between typing and dictation.
   The dictation button stays available after you add text or attachments, so you can…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1131
+  lag_days: 2958
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50c9a70933b683128b018d7631e3c01173244df6cbfa7ecc91a4bfb09df24b1e
+machine_hash: 5382815e42ac4b17a04f6035b4579f526c8e379d034ad055f99a68098f5bd839
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,8 @@ record:
   title: Switch between typing and dictation
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-10-tool-mode-and-edit-studio-now-let-you-export-gen-4-5-and-aleph-2-generations-as|ProRes
-  / PNG Sequence Export]]'
+- '[[Changes/HeyGen/2026-08-11-videos-that-look-and-sound-like-you-with-your-face-your-voice-and-your-market-kn|Videos
+  that look and sound like you, with your face, your voice, and your market…]]'
 - '[[Changes/Suno/2026-08-13-we-have-totally-overhauled-suno-studio-our-browser-based-generative-daw-with-fea|We
   have totally overhauled Suno Studio, our browser-based generative DAW…]]'
 - '[[Changes/Suno/2026-08-13-audio-effects-dial-in-your-mix-with-high-quality-audio-effects-including-sidecha|Audio
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

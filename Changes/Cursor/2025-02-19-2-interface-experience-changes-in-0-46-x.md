@@ -4,20 +4,20 @@ date: '2025-02-19'
 description: 'Cursor · 2025-02-19 · Interface Experience: 2 changes in Agent is ready
   and UI refresh — 0.46.3: Enhanced download reliability, fixed keybinding issue'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 772
+  lag_days: 2138
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 107183d81cd6bb744833a2ef81df38a704314a97e76a2c3cdd50f94f70c122b7
+machine_hash: 5350aac020d86da7b3935f5d672553e45a4bc182c6fe5915c56918419616f50c
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,10 @@ record:
   title: 2 Interface Experience changes in 0.46.x
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-05-redesigned-chat-input-ui-enjoy-a-sleeker-and-more-intuitive-message-input-with-i|\U0001F4AC
-  Redesigned Chat Input UI]]"
-- '[[Changes/Aider/2025-02-06-https-aider-chat-history-html|(source link)]]'
-- '[[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds
-  keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]'
+- '[[Changes/Descript/2025-02-11-add-scene-in-script-toolbar|Add scene in Script toolbar]]'
+- '[[Changes/Descript/2025-02-11-smart-transitions|Smart Transitions]]'
+- "[[Changes/Notion/2025-02-18-see-who-has-access-to-your-doc|See who has access to
+  your doc \U0001F440]]"
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -90,14 +89,14 @@ Source: https://cursor.com/changelog/0-46-x
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-02-09 · Cline · [[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]
+- Earlier: 2025-02-18 · Notion · [[Changes/Notion/2025-02-18-see-who-has-access-to-your-doc|See who has access to your doc 👀]]
 - Later: 2025-02-19 · OpenHands · [[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface Experience changes in 0.25.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

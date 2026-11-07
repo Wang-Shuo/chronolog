@@ -4,20 +4,20 @@ date: '2026-06-12'
 description: 'Claude Code · 2026-06-12 · Interface Experience: Added `wheelScrollAccelerationEnabled`
   setting to disable mouse-wheel scroll acceleration in fullscreen mode'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1250
+  lag_days: 2616
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 261eae25c3270e202eca694b3efdabd8f525d544858211127dc5872004c8ec09
+machine_hash: 63c2ff2de7fc63ed5af80af2171076e11bfe8a265ae645b71c48f6ba7a7e4b19
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,7 +42,7 @@ record:
   title: Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/Descript/2026-06-11-how-to-find-it|How to find it]]'
 - '[[Changes/Google Antigravity/2026-06-11-2-interface-experience-changes-in-hub-v2-1-4-quota-screen-redesign|2
   Interface Experience changes in HUB v2.1.4 — Quota Screen Redesign…]]'
 - '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
@@ -76,13 +76,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added footerLinksRegexes setting for regex-matched link badges in the footer row…]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-3-interface-experience-changes-in-v1-0-62|3 Interface Experience changes in v1.0.62]]
+- Later: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-wrap-long-command-and-skill-descriptions-in-the-autocomplete-menu-onto-a-second|Wrap long command and skill descriptions in the autocomplete menu onto a second line…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

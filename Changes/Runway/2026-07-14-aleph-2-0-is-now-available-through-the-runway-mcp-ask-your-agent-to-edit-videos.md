@@ -4,20 +4,20 @@ date: '2026-07-14'
 description: 'Runway · 2026-07-14 · Multimodal Input: Aleph 2.0 is now available through
   the Runway MCP. Ask your agent to edit videos, such as adding new elements to the…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1029
+  lag_days: 2797
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6dd0fca6986a9057523d0eab9e44668a3563cea34faa81ca0a6a26178872c457
+machine_hash: e20c99516a149722817fa1dfe729b67eaaf462d8d0eb7d487b9cb242d0c1b193
 product: runway
 product_name: Runway
 record:
@@ -56,9 +56,10 @@ record:
   title: Aleph 2.0 in MCP
   type: change
 related_changes:
-- '[[Changes/Runway/2026-06-18-trim-stitch-reorder-and-export-a-final-video-all-in-one-place|Studio]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear
-  queued tool images when vision is disabled]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-multimodal-capture-in-copilot-notebooks-iphone-ios-onenote|Multimodal
+  capture in Copilot Notebooks (iPhone) iOS (OneNote)]]'
+- '[[Changes/HeyGen/2026-07-08-video-translation-flow-re-design|Video Translation
+  Flow Re-Design]]'
 - '[[Changes/OpenClaw/2026-07-13-19-multimodal-input-changes-in-v2026-7-1|19 Multimodal
   Input changes in v2026.7.1]]'
 source_release: '[[Releases/Runway/runway-2026-07-14-2026-07-14-aleph-2-0-in-mcp-86d4db31|runway-2026-07-14-2026-07-14-aleph-2-0-in-mcp-86d4db31]]'
@@ -88,13 +89,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-19-multimodal-input-changes-in-v2026-7-1|19 Multimodal Input changes in v2026.7.1]]
-- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|🖼️ Media types an extraction engine may handle. Administrators can now list…]]
+- Later: 2026-07-23 · HeyGen · [[Changes/HeyGen/2026-07-23-the-video-agent-builds-a-complete-video-from-a-single-prompt-script-voiceover-av|The Video Agent builds a complete video from a single prompt]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

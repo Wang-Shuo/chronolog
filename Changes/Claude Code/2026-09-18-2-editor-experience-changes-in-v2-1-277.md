@@ -5,20 +5,19 @@ description: 'Claude Code · 2026-09-18 · Editor Experience: 2 changes in v2.1.
   — Removed the background Haiku auto-title request from `claude -p` runs launched
   outside an…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1284
+  lag_days: 2868
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2b399761093edbe75f7805c5a2d1c3eb2a5c577d5bfe40533d78c60c0c89fed
+machine_hash: a1ff7e30c482a3ede12393417474d13f919754a80be3605942c753480796e55e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +45,9 @@ record:
   title: 2 Editor Experience changes in v2.1.277
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-vscode-added-a-claudecode-lockeditorgroups-setting-to-stop-claude-from-locking-t|VSCode
-  Added a claudeCode.lockEditorGroups setting to stop Claude from locking…]]'
-- '[[Changes/Codex CLI/2026-09-17-2-editor-experience-changes-in-rust-v0-155-0|2 Editor
-  Experience changes in rust-v0.155.0]]'
+- '[[Changes/Descript/2026-09-17-we-ll-tell-you-if-we-lose-an-edit|We''ll tell you
+  if we lose an edit]]'
+- '[[Changes/Descript/2026-09-17-a-heads-up-about-grammarly|A heads-up about Grammarly]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-2-editor-experience-changes-in-v1-0-86|2
   Editor Experience changes in v1.0.86]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
@@ -101,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

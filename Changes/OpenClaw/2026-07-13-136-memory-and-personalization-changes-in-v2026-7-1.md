@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90769e3c794a154a9e8d5af06cc9932e0f8a8f9009a242f4ed75a96dd28340ec
+machine_hash: 4e9a4beea14160de5eecaecb52efb185d3b05e1adbc555cd8e48b16216f6cbf7
 product: openclaw
 product_name: OpenClaw
 record:
@@ -554,8 +554,8 @@ record:
   title: 136 Memory and Personalization changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-2-memory-and-personalization-changes-in-rust-v0-143-0|2
-  Memory and Personalization changes in rust-v0.143.0]]'
+- '[[Changes/Kimi Code/2026-07-08-progressive-tool-disclosure-select-tools-experimental-compaction-now-discards-th|Progressive
+  tool disclosure (select_tools, experimental)]]'
 - '[[Changes/Claude/2026-07-09-a-new-way-to-reflect-with-claude|A new way to reflect
   with Claude]]'
 - '[[Changes/Claude/2026-07-10-updated-memory-for-claude|Updated memory for Claude]]'

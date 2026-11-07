@@ -4,20 +4,20 @@ date: '2026-05-21'
 description: 'Codex CLI · 2026-05-21 · Context Window: 5 changes in 0.133.0 — Preserved
   raw code-mode exec output unless an explicit output token limit is requested. (#23564)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1113
+  lag_days: 2437
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a36a2c6dc05fe12c0aaa2e50a4abe8440c6192b7828f37a87cf469e43124eb4
+machine_hash: 5bb45f5b0c5c9d8d674e70eec948b9c404b878ef5a2cbe22afd667494a433d5e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,8 +49,8 @@ record:
   title: 5 Context Window changes in rust-v0.133.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-document-attachment-paths-are-included-in-context-so-the-agent-can-reference-pas|Document
-  attachment paths are included in context so the agent can reference pasted…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-implicit-grounding-in-outlook-microsoft-365-copilot-chat-windows-web-microsoft-3|Implicit
+  Grounding in Outlook Microsoft 365 Copilot Chat Windows…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-customizable-status-line-in-the-terminal-footer-displays-session-info-such-as-mo|Customizable
   status line in the terminal footer displays session info such as model…]]'
 - '[[Changes/OpenCode/2026-05-20-core-zed-editor-context-now-only-activates-inside-zed-terminals|Core
@@ -107,7 +107,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.133.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

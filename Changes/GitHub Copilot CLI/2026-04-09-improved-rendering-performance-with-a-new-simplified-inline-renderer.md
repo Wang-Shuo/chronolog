@@ -4,20 +4,20 @@ date: '2026-04-09'
 description: 'GitHub Copilot CLI · 2026-04-09 · Reliability and Performance: Improved
   rendering performance with a new simplified inline renderer'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1211
+  lag_days: 2698
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 406ac46d5b4bfaa36a05e556c0a9cc993f9dab3f93d5e7ffc974b67801096f1c
+machine_hash: 538514aea6936bf14cd0d16aae9fe79a1e596a75e338393746ee360a18dceeed
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: Improved rendering performance with a new simplified inline renderer
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce
-  memory usage by automatically shutting down shell sessions that are no longer…]]'
 - '[[Changes/Ollama/2026-04-07-mlx-improve-m5-performance-with-nax|mlx: Improve M5
   performance with NAX]]'
+- '[[Changes/HeyGen/2026-04-08-long-form-stability|Long-form stability]]'
 - '[[Changes/Claude Code/2026-04-09-fixed-a-memory-leak-where-remote-control-permission-handler-entries-were-retaine|Fixed
   a memory leak where Remote Control permission handler entries were retained…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d|github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d]]'
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

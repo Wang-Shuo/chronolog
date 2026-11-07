@@ -4,19 +4,20 @@ date: '2025-11-26'
 description: 'Dify · 2025-11-26 · Developer Workflow: 3 changes in v1.10.1 – Multi-Database
   Era Begins: MySQL Joins the Family — **Fixed a 500 error triggered when running…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 984
+  lag_days: 2633
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 510e923d41080134088ecb0031744c88914f1f2ac8164a8318b9d233e756078b
+machine_hash: a455062b1051daf0842e0dfa2a2590011fa3cfb33bb841ee5c1b9c003beeb899
 product: dify
 product_name: Dify
 record:
@@ -103,7 +104,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.10.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

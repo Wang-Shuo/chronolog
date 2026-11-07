@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7707d326932a38138e806f68c9c45b1d8ffa1721fc359a1d72fcb4119a0706f7
+machine_hash: 48bc85290791a40967c818fcd6a4ac0bb2f9d4586e661a9ddc8ee7feab3de431
 product: dify
 product_name: Dify
 record:
@@ -47,10 +47,9 @@ record:
   title: 3 Agent Mode changes in 1.3.0
   type: change
 related_changes:
-- '[[Changes/Replit/2025-04-18-streamlined-agent-progress-ux|Streamlined Agent progress
-  UX]]'
 - '[[Changes/ElevenLabs/2025-04-21-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-04-21-agents-platform-acb364|Agents Platform]]'
+- '[[Changes/Descript/2025-04-22-agent-underlord|Agent Underlord]]'
 source_release: '[[Releases/Dify/dify-2025-04-23-1-3-0-github-214141766-8d4f18a3|dify-2025-04-23-1-3-0-github-214141766-8d4f18a3]]'
 source_type: github_releases
 theme: agent-mode
@@ -95,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-04-21 · ElevenLabs · [[Changes/ElevenLabs/2025-04-21-agents-platform-acb364|Agents Platform]]
+- Earlier: 2025-04-22 · Descript · [[Changes/Descript/2025-04-22-agent-underlord|Agent Underlord]]
 - Later: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-improved-logic-to-prevent-agent-from-getting-stuck-by-rbren-in-https-github-com|Improved logic to prevent agent from getting stuck]]
 <!-- chronolog:end -->
 

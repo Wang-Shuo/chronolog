@@ -4,20 +4,20 @@ date: '2026-09-17'
 description: 'Lovable · 2026-09-17 · Apps and Integrations: You can now connect your
   Lovable app to the [Lovable…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1274
+  lag_days: 2834
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 75f7984066cd2fcb7b48868ba2aa11900a2b5932bd1e0e3133a822b1bd861542
+machine_hash: 6a5110ab87d6d83c8c220e9fe42f4863381e4080780370abba379d4d32207551
 product: lovable
 product_name: Lovable
 record:
@@ -62,12 +62,11 @@ record:
   title: Connect your app to the Lovable API
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-terminal-commands-that-succeed-without-printing-anything-git-add-a-on-a-clean-tr|Terminal
-  commands that succeed without printing anything…]]'
-- '[[Changes/Codex CLI/2026-09-17-24-apps-and-integrations-changes-in-rust-v0-155-0|24
-  Apps and Integrations changes in rust-v0.155.0]]'
+- '[[Changes/Descript/2026-09-17-zapier-out-in-public|Zapier, out in public]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-resuming-an-active-session-without-plugin-directory-discovery-or-working-directo|Resuming
   an active session without plugin-directory, discovery, or working-directory…]]'
+- '[[Changes/Kimi Code/2026-09-17-the-built-in-browser-plugin-now-appears-as-kimi-browser-extension-in-the-plugins|The
+  built-in browser plugin now appears as "Kimi Browser Extension" in the plugins…]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-17-2026-09-17-90228cca|lovable-2026-09-17-2026-09-17-90228cca]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -97,14 +96,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-resuming-an-active-session-without-plugin-directory-discovery-or-working-directo|Resuming an active session without plugin-directory, discovery, or working-directory…]]
+- Earlier: 2026-09-17 · Kimi Code · [[Changes/Kimi Code/2026-09-17-the-built-in-browser-plugin-now-appears-as-kimi-browser-extension-in-the-plugins|The built-in browser plugin now appears as "Kimi Browser Extension" in the plugins…]]
 - Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6 Apps and Integrations changes in v2.1.277]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

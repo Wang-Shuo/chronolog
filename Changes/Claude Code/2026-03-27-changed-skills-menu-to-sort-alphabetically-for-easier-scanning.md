@@ -4,20 +4,20 @@ date: '2026-03-27'
 description: 'Claude Code · 2026-03-27 · Interface Experience: Changed `/skills` menu
   to sort alphabetically for easier scanning'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1173
+  lag_days: 2539
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0129a223c1b49dc1502f7f074f9bf96f6d54403fa73d3b7cc8d69e5c606a4b42
+machine_hash: a79bd5895e72baefe50151cd26cf0611319c54fea76663dca9f99f292ad5a7af
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: Changed `/skills` menu to sort alphabetically for easier scanning
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-3-interface-experience-changes-in-rust-v0-117-0|3
-  Interface Experience changes in rust-v0.117.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3
-  Interface Experience changes in v1.0.12]]'
+- '[[Changes/Notion/2026-03-26-a-new-sidebar-built-for-focus|A new sidebar, built
+  for focus]]'
+- '[[Changes/Notion/2026-03-26-archive-pages-for-better-search-ai-results|Archive
+  pages for better search & AI results]]'
 - '[[Changes/OpenCode/2026-03-26-2-interface-experience-changes-in-v1-3-3|2 Interface
   Experience changes in v1.3.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-03-25 · Pricing Model: \U0001F4CA **Metrics ex
   interval configuration.** Administrators can now control OpenTelemetry metrics export
   frequency via…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1196
+  lag_days: 2814
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 51662319b282c892e1734c15d00434e24061dbee9c422ade0e59c26f97f69368
+machine_hash: 6a9ecbf414e85a909ece8a658472c79ea5cdfb25a532d20716a32af385307854
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,11 +50,11 @@ record:
     now control…"
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|Fast
-  (default): $1.50/M input, $7.50/M output tokens]]'
 - '[[Changes/Windsurf/2026-03-19-quota-billing|Quota Billing]]'
 - '[[Changes/Gemini CLI/2026-03-24-feat-telemetry-add-clearcut-instrumentation-for-ai-credits-billing-events-by-gsq|feat(telemetry):
   add Clearcut instrumentation for AI credits billing events]]'
+- '[[Changes/HeyGen/2026-03-25-sub-workspace-management-refreshed-ui-for-billing-setup-cleaner-management-of-av|Sub-workspace
+  management: Refreshed UI for billing setup, cleaner management…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69|open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69]]'
 source_type: github_releases
 theme: pricing-model
@@ -98,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-feat-telemetry-add-clearcut-instrumentation-for-ai-credits-billing-events-by-gsq|feat(telemetry): add Clearcut instrumentation for AI credits billing events]]
+- Earlier: 2026-03-25 · HeyGen · [[Changes/HeyGen/2026-03-25-sub-workspace-management-refreshed-ui-for-billing-setup-cleaner-management-of-av|Sub-workspace management: Refreshed UI for billing setup, cleaner management…]]
 - Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-3-pricing-model-changes-in-1-13-3|3 Pricing Model changes in 1.13.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

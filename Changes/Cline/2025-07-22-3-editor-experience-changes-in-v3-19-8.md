@@ -4,20 +4,19 @@ date: '2025-07-22'
 description: 'Cline · 2025-07-22 · Editor Experience: 3 changes in v3.19.8 — Add new
   RPCs to the host bridge diff service by @sjf in https://github.com/cline/cline/pull/4997'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 861
+  lag_days: 2445
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f87bf08e97abe54bd3fd5c235ade15f2b8c213c8cd0868a6ac5d03f2005fa48
+machine_hash: b9f9a7dbc7ba63f487d5953e6aa5cb4d5704960e9e9becb7bf2de9610a5f287f
 product: cline
 product_name: Cline
 record:
@@ -93,13 +92,13 @@ Source: https://github.com/cline/cline/releases/tag/v3.19.8
 ## Nearby in Editor Experience
 
 - Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-4-editor-experience-changes-in-v0-6-17|4 Editor Experience changes in v0.6.17]]
-- Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-19-editor-experience-changes-in-v0-1-14|19 Editor Experience changes in v0.1.14]]
+- Later: 2025-07-23 · Descript · [[Changes/Descript/2025-07-23-underlord-https-help-descript-com-hc-en-us-articles-36803785502221-is-ready-to-c|Underlord((source link) is ready…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

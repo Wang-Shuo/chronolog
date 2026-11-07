@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-19 · Reliability and Performance: 2 change
   v2.1.304 — Improved responsiveness and throughput when many subagents are running
   at the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1404
+  lag_days: 2891
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4c1cb7bd0a90958fc0060a71578c6a2b63be1671b738526889f97262432adc1
+machine_hash: dc3a17657f7e9ad918ebdc57f5eb015a757954e77a24174e8a84b7b2809620ea
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,13 +91,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-node-worker-memory-limits-node-workers-can-honor-their-configured-javascript-hea|Node worker memory limits]]
-- Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2 Reliability and Performance changes in v2.1.309]]
+- Later: 2026-10-19 · Notion · [[Changes/Notion/2026-10-19-they-can-work-on-tasks-for-up-to-24-hours-and-chats-load-up-to-50-faster-on-mobi|They can work on tasks for up to 24 hours]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

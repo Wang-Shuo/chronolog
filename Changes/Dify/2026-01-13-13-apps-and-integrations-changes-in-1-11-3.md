@@ -4,20 +4,20 @@ date: '2026-01-13'
 description: 'Dify · 2026-01-13 · Apps and Integrations: 13 changes in v1.11.3 — **MCP
   Tool Enhancements**: Added support for `embeddedResource` and made MCP tools display…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1027
+  lag_days: 2587
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eeb0ce88570b84a70f478e082da902020e1cdd02a1fc043d51f86362ded9db93
+machine_hash: da73507b51b603b7e44953b5c89b1af103faa9dd9e47469a2aa4f68aa5600dcf
 product: dify
 product_name: Dify
 record:
@@ -146,13 +146,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.3
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps and Integrations changes in v2.1.6]]
-- Later: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-terminal-actually-modify-opencode-config-when-adding-mcp-servers-with-mcp-add-co|Terminal Actually modify OpenCode config when adding MCP servers with mcp add command]]
+- Later: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-template-based-knowledge-ingestion-for-servicenow-knowledge-connector-web-micros|Template-based knowledge ingestion for ServiceNow Knowledge Connector…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

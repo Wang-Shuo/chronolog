@@ -4,20 +4,20 @@ date: '2024-02-02'
 description: 'Ollama · 2024-02-02 · Reliability and Performance: When making API requests,
   the new `keep_alive` parameter can be used to control how long a model stays…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 414
+  lag_days: 1901
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d390d992ebe1db098b457550944c57eeb3661330b491be3d29c0124fad913f06
+machine_hash: 63a40cd06a68e7537e4370dbb80a5a718562aa1e36028be5c2eb2df5e1efdf9c
 product: ollama
 product_name: Ollama
 record:
@@ -94,13 +94,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|"Apply Diffs" from chat should be a bit faster]]
-- Later: 2024-02-09 · Runway · [[Changes/Runway/2024-02-09-you-with-a-large-number-of-assets-have-significantly-faster-loading-times|Assets page is ~1.5x faster]]
+- Later: 2024-02-05 · Descript · [[Changes/Descript/2024-02-05-ai-action-updates|AI Action Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

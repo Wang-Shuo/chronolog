@@ -4,20 +4,20 @@ date: '2024-07-15'
 description: 'Dify · 2024-07-15 · Files and Data: Feat/delete file when clean document
   by @JohnJyong in https://github.com/langgenius/dify/pull/5882'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 417
+  lag_days: 1762
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55a6ade5c9884289b81ce16d84cef2cd79d440c545ba7f14d501c23b55d8fe96
+machine_hash: 982ecc48692ccb065533c61fc0bbdcc15e9ce535519aee036b8d7d2f44749c4f
 product: dify
 product_name: Dify
 record:
@@ -83,13 +83,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-07-02 · Ollama · [[Changes/Ollama/2024-07-02-processing-different-parts-of-a-document-simultaneously|Processing different parts of a document simultaneously]]
-- Later: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-2-files-and-data-changes-in-v0-3-9|2 Files and Data changes in v0.3.9]]
+- Later: 2024-07-16 · Descript · [[Changes/Descript/2024-07-16-file-upload-limits|File upload limits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

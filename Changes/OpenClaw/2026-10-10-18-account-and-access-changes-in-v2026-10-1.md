@@ -4,20 +4,21 @@ date: '2026-10-10'
 description: 'OpenClaw · 2026-10-10 · Account and Access: 18 changes in v2026.10.1
   — Supported direct Anthropic API-key conversations can keep reusing cached instructions…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1290
+  lag_days: 2265
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3dc4dd57dad35b0437875065e04fe1b0f61a3bec041a510d5ca205b7ec147f92
+machine_hash: 3b6e3095a5a1f047fe050d426fa8e5c379a2beb37b6726f4c20731204b3a02fb
 product: openclaw
 product_name: OpenClaw
 record:
@@ -229,7 +230,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

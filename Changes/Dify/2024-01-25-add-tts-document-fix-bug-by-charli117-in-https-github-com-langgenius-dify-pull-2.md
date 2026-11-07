@@ -4,20 +4,20 @@ date: '2024-01-25'
 description: 'Dify · 2024-01-25 · Files and Data: Add tts document&fix bug by @charli117
   in https://github.com/langgenius/dify/pull/2156'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 245
+  lag_days: 1590
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 304bb787d932aa1e02495f7f723fbfdb4f7eab7685aaf0407bebe81209a2f77f
+machine_hash: cae3cd256c2537552fe4cfd0aaea8c5b1b5ab8a21bf16a69a1e94c25d7157ad3
 product: dify
 product_name: Dify
 record:
@@ -42,8 +42,7 @@ record:
   title: Add tts document&fix bug
   type: change
 related_changes:
-- '[[Changes/Dify/2023-12-08-feat-remove-documents-limit-by-zxhlyh-in-https-github-com-langgenius-dify-pull-1|feat:
-  remove documents limit]]'
+- '[[Changes/Descript/2023-12-18-new-canvas-options|New Canvas Options]]'
 - '[[Changes/Dify/2023-12-19-unstructured-document-https-unstructured-io-github-io-unstructured-introduction|Unstructured
   Document((source link)]]'
 - '[[Changes/Dify/2024-01-19-delete-document-cache-embedding-by-johnjyong-in-https-github-com-langgenius-dify|delete
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

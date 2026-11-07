@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b9365d87efa4bbf43f25fa16cd28ca82211249c64c39804e50baf3cd99b0cac
+machine_hash: 0bdf5cc567810a7be90471edac95acc062d7ea0d92222f23a28c39b1dad44361
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,10 +55,11 @@ record:
   title: 6 Agent Mode changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-22-elevenagents-c51c4d|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-06-22-elevenagents-ee09f3|ElevenAgents]]'
 - '[[Changes/Google Antigravity/2026-06-22-new-entries-in-the-sensitive-paths-list-vscode-and-cache-are-now-recognized-as-s|New
   entries in the sensitive paths list]]'
+- '[[Changes/Kimi Code/2026-06-22-allow-long-running-foreground-commands-and-subagents-to-be-moved-into-background|Allow
+  long-running foreground commands and subagents to be moved into background…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: agent-mode
@@ -115,7 +116,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-22 · Google Antigravity · [[Changes/Google Antigravity/2026-06-22-new-entries-in-the-sensitive-paths-list-vscode-and-cache-are-now-recognized-as-s|New entries in the sensitive paths list]]
+- Earlier: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-allow-long-running-foreground-commands-and-subagents-to-be-moved-into-background|Allow long-running foreground commands and subagents to be moved into background…]]
 - Later: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-4-agent-mode-changes-in-v1-0-65|4 Agent Mode changes in v1.0.65]]
 <!-- chronolog:end -->
 

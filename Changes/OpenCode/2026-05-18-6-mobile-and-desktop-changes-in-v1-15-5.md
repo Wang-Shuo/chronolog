@@ -4,20 +4,20 @@ date: '2026-05-18'
 description: 'OpenCode · 2026-05-18 · Mobile and Desktop: 6 changes in v1.15.5 — Desktop
   Allow desktop notifications from the renderer'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1161
+  lag_days: 2745
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9cab7783d72c261463ffaf40874c2a8d2744e039a310e29343c5236d83c1151
+machine_hash: bd2cfae3d1d7c5bdbcd03c1b15d98fad50839159dedc28fb95ad1c1437c5fb08
 product: opencode
 product_name: OpenCode
 record:
@@ -106,7 +106,7 @@ Source: https://opencode.ai/changelog/v1.15.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

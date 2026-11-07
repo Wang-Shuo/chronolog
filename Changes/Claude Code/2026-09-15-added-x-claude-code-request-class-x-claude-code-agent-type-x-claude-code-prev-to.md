@@ -4,20 +4,20 @@ date: '2026-09-15'
 description: 'Claude Code · 2026-09-15 · Context Window: Added `x-claude-code-request-class`,
   `x-claude-code-agent-type`, `x-claude-code-prev-tool-durations`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1230
+  lag_days: 2554
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e4ed550af254be809e470fb1972d7cd4a0ace44ac0280bc46feb41fd6c7f0d72
+machine_hash: 75c85ffdc12804b9c17bb604be023380c3d6123cb1739b184d28b51ffca16160
 product: claude-code
 product_name: Claude Code
 record:
@@ -106,13 +106,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-09-14 · Ollama · [[Changes/Ollama/2026-09-14-runaway-repeat-token-detection-now-requires-100-repeat-tokens-for-reduced-false|Runaway repeat token detection now requires 100 repeat tokens for reduced false…]]
-- Later: 2026-09-15 · Runway · [[Changes/Runway/2026-09-15-you-can-now-mention-agent-directly-in-comments-on-any-asset-page-collaborate-and|Agent in Asset Comments]]
+- Later: 2026-09-15 · Notion · [[Changes/Notion/2026-09-15-run-a-skill-the-moment-you-need-it|Run a skill the moment you need it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

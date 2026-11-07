@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2548981b6227a8ef142d638781f1b28343d47158b105487e16094c5dfcf82b2e
+machine_hash: 7a8b3c8e0906c237c1a34e58d2575565c26d70820e01f88dcb987b759431e161
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,8 +56,8 @@ record:
   title: 3 Accessibility and Localization changes in v0.6.19
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-19-2-accessibility-and-localization-changes-in-v0-6-17|2
-  Accessibility and Localization changes in v0.6.17]]'
+- '[[Changes/Notion/2025-07-22-here-s-how-you-can-set-your-language|Here’s how you
+  can set your language]]'
 - '[[Changes/Dify/2025-07-23-refactor-centralize-email-internationalization-handling-by-laipz8200-in-https-gi|refactor:
   centralize email internationalization handling]]'
 - '[[Changes/Dify/2025-07-28-time-formatting-internationalization-the-time-formatting-feature-has-been-refact|Time

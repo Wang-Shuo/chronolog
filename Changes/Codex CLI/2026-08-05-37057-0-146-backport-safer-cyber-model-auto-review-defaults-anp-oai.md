@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 04895e00e8212b272ae4fa2b8a1feaf87d9cfd038f8a0f59b22b226c3cf060c0
+machine_hash: f569baa4f3d873e0fd6357de0485b00601c5f47e2fd516fab01135a3d047b185
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-explain-when-a-free-model-promotion-ends-requests-to-a-retired-free-model-now-sh|Explain when a free model promotion ends]]
-- Later: 2026-08-06 · ChatGPT · [[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840|Updates to GPT‑5.6 in ChatGPT]]
+- Later: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-two-more-models-to-choose-from|Two more models to choose from]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

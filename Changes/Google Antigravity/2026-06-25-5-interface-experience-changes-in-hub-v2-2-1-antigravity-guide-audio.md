@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-06-25 · Interface Experience: 5 change
   HUB v2.2.1 — Antigravity Guide, audio support, search improvements, and performance
   fixes…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1263
+  lag_days: 2629
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0151ba722e7af26a9f347c4f306c28c889282398889446746b4efddd2d272dc
+machine_hash: 99306237b8d29fd27c8772aa90643e8880fee509a61ae84b1789acef796cc0e6
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -55,8 +55,8 @@ record:
   title: 5 Interface Experience changes in HUB v2.2.1 — Antigravity Guide, audio…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-2-interface-experience-changes-in-v1-0-65|2
-  Interface Experience changes in v1.0.65]]'
+- '[[Changes/Kimi Code/2026-06-24-7-interface-experience-changes-in-kimi-code-0-19-2|7
+  Interface Experience changes in Kimi Code 0.19.2]]'
 - '[[Changes/OpenCode/2026-06-24-2-interface-experience-changes-in-v1-17-10|2 Interface
   Experience changes in v1.17.10]]'
 - '[[Changes/Dify/2026-06-25-6-interface-experience-changes-in-1-15-0|6 Interface
@@ -116,7 +116,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.2.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-06-02'
 description: "Open WebUI · 2024-06-02 · Interface Experience: **\U0001F5A5️ UI Enhancement**:
   Fixed the scrollbar overlapping issue with the message box in the user interface."
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 510
+  lag_days: 1876
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9df5b6fca9409f85e2c21f7d83079788cf49ccc4a1e57344bb0e2af6e4163019
+machine_hash: f44bc3d9afdc21fde2ce9ea92a37bd980d132ae4a88905d573a36419339194b2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,10 +42,9 @@ record:
   title: "**\U0001F5A5️ UI Enhancement**"
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-05-15-to-clear-the-chat-history-for-a-session-when-running-ollama-run-use-clear|To
-  clear the chat history for a session when running ollama run, use /clear]]'
 - "[[Changes/Open WebUI/2024-05-19-enhanced-sidebar-ui-model-files-documents-prompts-and-playground-merged-into-wor|\U0001F4C2
   Enhanced Sidebar UI]]"
+- '[[Changes/Descript/2024-05-22-automatic-speaker-detection|Automatic Speaker Detection]]'
 - '[[Changes/Dify/2024-05-27-improved-variable-assigner-supports-more-flexible-variable-selection-additionall|Improved
   Variable Assigner supports more flexible variable selection]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44|open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44]]'
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

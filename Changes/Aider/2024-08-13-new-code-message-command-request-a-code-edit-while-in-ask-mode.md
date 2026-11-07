@@ -4,20 +4,19 @@ date: '2024-08-13'
 description: 'Aider · 2024-08-13 · Editor Experience: New `/code <message>` command
   request a code edit while in `ask` mode.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 518
+  lag_days: 2102
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a8516249175360cb628897928f98ef76ab0b41c4a1e419adff78ab84c53da27e
+machine_hash: b874185aa127a7083721a08c1d89e2c7dee76b56d55ff91087d9fd4eb2e94f8e
 product: aider
 product_name: Aider
 record:
@@ -82,13 +81,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-diff-now-shows-diffs-of-all-changes-resulting-from-your-request-including-lint-a|/diff now shows diffs of all changes resulting from your request, including lint…]]
-- Later: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-deprecated-frontend-functions-removed-frontend-functions-that-were-migrated-to-b|🗑️ Deprecated Frontend Functions]]
+- Later: 2024-08-14 · Descript · [[Changes/Descript/2024-08-14-edit-for-clarity-now-more-or-less-intense|Edit for clarity now more (or less) intense]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

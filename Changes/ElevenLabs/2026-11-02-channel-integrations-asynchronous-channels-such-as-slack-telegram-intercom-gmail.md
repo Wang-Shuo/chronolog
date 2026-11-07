@@ -4,20 +4,20 @@ date: '2026-11-02'
 description: 'ElevenLabs · 2026-11-02 · Apps and Integrations: **Channel integrations**:
   Asynchronous channels such as Slack, Telegram, Intercom, Gmail, Salesforce and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1320
+  lag_days: 2880
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 34c9fc44a877b3199530b21024524889d18a9123d23452691048e6eb917eaeea
+machine_hash: 8172cea836c8436d2650f36298001cc71ac5984861984dec0fe365ecc1bab540
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -66,10 +66,10 @@ record:
     Intercom…'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-managed-policy-integration-use-covers-integrations-only|Managed
-  policy: integration.use covers integrations only]]'
 - '[[Changes/OpenCode/2026-10-30-tui-plugins-require-opentui-0-8|TUI plugins require
   OpenTUI 0.8]]'
+- '[[Changes/Qoder/2026-10-30-3-apps-and-integrations-changes-in-qoder-0-5-1|3 Apps
+  and Integrations changes in Qoder 0.5.1]]'
 - '[[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7
   Apps and Integrations changes in v2.1.316]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
@@ -133,7 +133,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

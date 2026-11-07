@@ -4,20 +4,20 @@ date: '2026-09-08'
 description: 'OpenClaw · 2026-09-08 · Files and Data: 2 changes in v2026.9.3 — Shared
   Slack and Teams uploads avoid an extra file-data copy at handoff, and cancelled…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1202
+  lag_days: 2547
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b7401f1f706591788121a0681b6bc3df3a61374399da1810e477cbd0da4ef67
+machine_hash: 26b9086225e94e941da21ba01b00635f75e64c74a243a1d52e5d5e0da08770b1
 product: openclaw
 product_name: OpenClaw
 record:
@@ -112,7 +112,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

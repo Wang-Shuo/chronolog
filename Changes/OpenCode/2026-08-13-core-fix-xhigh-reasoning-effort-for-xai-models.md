@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c756fc7b1cb9d9033a07db3130726c3f0f4ff5e3ff4c5ba95beda248f17ea1be
+machine_hash: 1d38d1aa1b536f9b282bcc8f4a01feb52357c4205789f592a336fb4f67e0659c
 product: opencode
 product_name: OpenCode
 record:
@@ -40,9 +40,9 @@ record:
   title: Core Fix xhigh reasoning effort for xai models
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-12-3-model-support-changes-in-v1-18-17|3 Model Support
-  changes in v1.18.17]]'
 - '[[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]'
+- '[[Changes/Kimi Code/2026-08-13-set-kimi-code-experimental-secondary-model-1-or-the-master-flag-kimi-code-experi|Set
+  KIMI_CODE_EXPERIMENTAL_SECONDARY_MODEL=1…]]'
 - '[[Changes/Lovable/2026-08-13-image-editing-with-openai-models-for-your-app-s-ai-features|Image
   editing with OpenAI models for your app''s AI features]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-13-v1-18-18-639628fe|opencode-2026-08-13-v1-18-18-639628fe]]'

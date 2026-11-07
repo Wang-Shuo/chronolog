@@ -5,20 +5,20 @@ description: 'Ollama · 2025-06-27 · Mobile and Desktop: A new version of Ollam
   macOS and Windows applications are now available. New improvements to the apps will
   be…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 836
+  lag_days: 2420
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: eb1031afe4d9c831e17ba2a3a6e7670fd522d937b1acbf28216e247ddf6cf8e0
+machine_hash: 763ec9fc3b25798516e47b7bcccaef5d1d444b063d7757971a211f91db177fe1
 product: ollama
 product_name: Ollama
 record:
@@ -56,7 +56,8 @@ record:
   title: A new version of Ollama's macOS and Windows applications are now available
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-13-workspace-quality-improvements|Workspace quality improvements]]'
+- '[[Changes/Descript/2025-06-26-if-you-re-on-desktop-we-also-release-an-update-that-requires-a-restart-it-fixes|If
+  you''re on Desktop, we also release an update that requires a restart]]'
 - '[[Changes/Lovable/2025-06-26-improvements|Improvements]]'
 - '[[Changes/Ollama/2025-06-27-5-mobile-and-desktop-changes-in-v0-9-4|5 Mobile and
   Desktop changes in v0.9.4]]'
@@ -98,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-06-24'
 description: 'OpenCode · 2026-06-24 · Interface Experience: 2 changes in v1.17.10
   — Desktop Added mobile bottom navigation.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1262
+  lag_days: 2628
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c78dc4af2588295d6be4817ca917a1b2ceb4b072bed78e28bb7a943a52f71ec2
+machine_hash: 5bb0aa14bb4e810be3f41018698441f2035c20105031d038a039c4e332518a12
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Interface Experience changes in v1.17.10
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface
-  Experience changes in v2.1.187]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-23-11-interface-experience-changes-in-v1-0-64|11
-  Interface Experience changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-2-interface-experience-changes-in-v1-0-65|2
   Interface Experience changes in v1.0.65]]'
+- '[[Changes/HeyGen/2026-06-24-the-result-is-a-ready-to-use-set-of-avatar-looks-that-actually-look-like-you-gen|The
+  result is a ready-to-use set of avatar looks that actually look like you…]]'
+- '[[Changes/Kimi Code/2026-06-24-7-interface-experience-changes-in-kimi-code-0-19-2|7
+  Interface Experience changes in Kimi Code 0.19.2]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-24-v1-17-10-f309a338|opencode-2026-06-24-v1-17-10-f309a338]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -89,14 +89,14 @@ Source: https://opencode.ai/changelog/v1.17.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-2-interface-experience-changes-in-v1-0-65|2 Interface Experience changes in v1.0.65]]
+- Earlier: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-7-interface-experience-changes-in-kimi-code-0-19-2|7 Interface Experience changes in Kimi Code 0.19.2]]
 - Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-6-interface-experience-changes-in-1-15-0|6 Interface Experience changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-11-19'
 description: 'Codex CLI · 2025-11-19 · Safety and Privacy: 7 changes in 0.59.0 — Windows
   Agent mode: Introduced Agent mode for native Windows. Codex can read files, write…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 948
+  lag_days: 1940
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a4baeb7cbec02a2a387748644e240bd3d0460ca842e6aabf94b93a0d769c030
+machine_hash: 7fb9dc46a94c61f6454aaee343e1e1502c891972c9f1f2114b084e6e8325ff24
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -124,7 +124,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.59.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

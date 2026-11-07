@@ -4,20 +4,20 @@ date: '2024-05-08'
 description: "Open WebUI · 2024-05-08 · Context Window: 2 changes in v0.1.124 — **\U0001F4DC
   Citations in RAG Feature**: Easily track the context fed to the LLM with added citations…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 370
+  lag_days: 1694
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b01672902514705e4d1047712e393aab5a56faf92ebbc24f1a019b0531202bf
+machine_hash: e097574cccf0507668e3676d6930cd281e76670dee8b8b015a69b923f38cb310
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.1.124
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

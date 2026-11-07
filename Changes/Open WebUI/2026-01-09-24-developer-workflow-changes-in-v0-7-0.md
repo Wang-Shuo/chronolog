@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-01-09 · Developer Workflow: 24 changes in v0.7
   \U0001F441️ Pending tool calls are now displayed during response generation, so
   users know which…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1028
+  lag_days: 2677
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f8382476e8b1cc3cea81d918b245ca32cb7c70abe387f6f55c56cd60df6e7b8f
+machine_hash: bf5637109580769776372d9cdbacd6d21c59aceb29cc51f55bc007274803ccc8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -250,7 +251,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

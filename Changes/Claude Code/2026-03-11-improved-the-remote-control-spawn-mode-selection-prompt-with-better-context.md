@@ -4,20 +4,20 @@ date: '2026-03-11'
 description: 'Claude Code · 2026-03-11 · Context Window: Improved the Remote Control
   spawn mode selection prompt with better context'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1042
+  lag_days: 2366
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f3084a215d5eb2071c086b569f2442044d527235c9aa813e3b24364dd10a5af
+machine_hash: 2b3b65e1328768f94e9b44d57cca1dfee6151f670275b9698ee08cb216d07900
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: Improved the Remote Control spawn mode selection prompt with better context
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-09-core-send-context-1m-2025-08-07-beta-header-to-gitlab-to-enable-1m-context-windo|Core
-  Send context-1m-2025-08-07 beta header to GitLab to enable 1M context window]]'
-- '[[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context
-  Window changes in rust-v0.113.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-scope-copilot-chat-prompts-to-teams-channels-with-context-iq-web-microsoft-365-c|Scope
+  Copilot Chat prompts to Teams channels with Context IQ…]]'
+- '[[Changes/Notion/2026-03-10-dashboard-views-are-a-new-database-view-for-better-visibility-and-context-this-l|Visualize
+  progress with dashboard views]]'
 - '[[Changes/Claude/2026-03-11-work-across-excel-and-powerpoint|Work across Excel
   and PowerPoint]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

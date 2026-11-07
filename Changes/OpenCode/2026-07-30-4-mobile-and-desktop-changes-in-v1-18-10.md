@@ -4,20 +4,20 @@ date: '2026-07-30'
 description: 'OpenCode · 2026-07-30 · Mobile and Desktop: 4 changes in v1.18.10 —
   Desktop Prevent adding the same attachment more than once.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1234
+  lag_days: 2818
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6c8a36f35ded42ba08098642f4bf4dad6646d3213db188a500338339974aec9
+machine_hash: ba2d45cfab5cda0429554c002caac0b199f674fb9d1797c80504039c7c6af5d8
 product: opencode
 product_name: OpenCode
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Mobile and Desktop changes in v1.18.10
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor
-  for iPad is now available on all paid plans]]'
 - '[[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]'
 - '[[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]'
+- '[[Changes/Notion/2026-07-30-try-it-by-going-to-settings-preferences-appearance-available-on-desktop-and-web|Try
+  it by going to Settings  Preferences  Appearance]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-30-v1-18-10-d6e57a7d|opencode-2026-07-30-v1-18-10-d6e57a7d]]'
 source_type: opencode_changelog
 theme: mobile-desktop
@@ -89,14 +89,14 @@ Source: https://opencode.ai/changelog/v1.18.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]
+- Earlier: 2026-07-30 · Notion · [[Changes/Notion/2026-07-30-try-it-by-going-to-settings-preferences-appearance-available-on-desktop-and-web|Try it by going to Settings  Preferences  Appearance]]
 - Later: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-improved-mobile-ui-with-native-pickers-and-no-keyboard-popup-on-load|Improved mobile UI with native pickers and no keyboard popup on load]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

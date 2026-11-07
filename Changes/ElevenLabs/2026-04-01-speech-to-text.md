@@ -3,20 +3,20 @@ card_id: elevenlabs-2026-04-01-017cfe
 date: '2026-04-01'
 description: 'ElevenLabs · 2026-04-01 · Voice and Audio: [Convert speech to text](https://elevenlabs.io/docs/api-reference/speech-to-text/convert)'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 996
+  lag_days: 2823
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ddf0045ea77895bdc03ab792c0f4227dc3a929c70ad860a2290c265ea0cad593
+machine_hash: 320ef4e178353649dc32ef658e671206872229127a3178801fce0b2573c1f1f7
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16114-remove-tui-voice-transcription-feature-etraut-openai|♯16114 Remove TUI voice transcription feature @etraut-openai]]
-- Later: 2026-04-07 · ElevenLabs · [[Changes/ElevenLabs/2026-04-07-speech-to-text|Speech to Text]]
+- Later: 2026-04-06 · Notion · [[Changes/Notion/2026-04-06-voice-input-for-notion-ai-is-now-on-desktop-whether-you-are-dictating-a-longer-p|Voice input on desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

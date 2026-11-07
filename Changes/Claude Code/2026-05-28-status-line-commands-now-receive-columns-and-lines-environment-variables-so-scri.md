@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-05-28 · Developer Workflow: Status line comma
   now receive `COLUMNS` and `LINES` environment variables so scripts can size output
   to the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1167
+  lag_days: 2816
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d37a4fe31176511f412e4525ef5f29e37b1da241d88520e8d07ab58508fcfbf
+machine_hash: 8922ace89bfb1f5bbac8302cc34b1efa1e84302d76464db918709e87cb22ad9c
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,8 +53,8 @@ record:
   title: Status line commands now receive `COLUMNS` and `LINES` environment variables…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core):
-  expose RAG snippets to local log file for debugging]]'
+- '[[Changes/Kimi Code/2026-05-27-3-developer-workflow-changes-in-kimi-code-0-4-0|3
+  Developer Workflow changes in Kimi Code 0.4.0]]'
 - '[[Changes/OpenCode/2026-05-27-3-developer-workflow-changes-in-v1-15-11|3 Developer
   Workflow changes in v1.15.11]]'
 - '[[Changes/Claude Code/2026-05-28-simplify-now-runs-a-cleanup-only-review-reuse-simplification-efficiency-altitude|/simplify
@@ -99,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

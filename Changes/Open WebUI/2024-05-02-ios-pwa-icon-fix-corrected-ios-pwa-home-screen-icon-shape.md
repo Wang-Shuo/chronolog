@@ -4,20 +4,20 @@ date: '2024-05-02'
 description: "Open WebUI · 2024-05-02 · Mobile and Desktop: **\U0001F4F1 iOS PWA Icon
   Fix**: Corrected iOS PWA home screen icon shape."
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 415
+  lag_days: 1999
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54f01187cb501b1828ecdea7b98f3a63c4483d69f36e867257fc6fdf44b606bf
+machine_hash: 6d814b1dbdafafc8cedc3445d0e3503279fd4d7f0029e6cdc3655a207aaddb73
 product: open-webui
 product_name: Open WebUI
 record:
@@ -83,13 +83,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-04-30 · Gemini · [[Changes/Gemini/2024-04-30-the-gemini-mobile-app-is-available-in-more-languages|The Gemini mobile app is available in more languages]]
-- Later: 2024-06-05 · Gemini · [[Changes/Gemini/2024-06-05-the-gemini-mobile-app-is-available-in-europe|The Gemini mobile app is available in Europe]]
+- Later: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-descript-for-web-is-here|Descript for Web is here]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

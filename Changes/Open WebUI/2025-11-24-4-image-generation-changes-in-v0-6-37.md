@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-11-24 · Image Generation: 4 changes in v0.6.37
   OpenAI image generation now supports additional API parameters including quality
   settings…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 624
+  lag_days: 882
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 996640bb29fc9bc96d6e555012cfe16b5519924d7e63717452113bf16c93d2bd
+machine_hash: 33fe7d993a6deeda36d8f1c37e3f11eea92b56382e8eba23f3cf384e2d3b3df2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,12 +57,12 @@ record:
   title: 4 Image Generation changes in v0.6.37
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-14-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
 - '[[Changes/ChatGPT/2025-10-28-more-messages-larger-file-uploads-and-expanded-image-generation|More
   messages, larger file uploads, and expanded image generation]]'
 - '[[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More
   messages, larger file uploads, and expanded image generation]]'
+- '[[Changes/Descript/2025-11-21-nano-banana-pro-now-available-for-image-generation|Nano
+  Banana Pro now available for image generation]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-11-24-v0-6-37-github-264669867-8b715894|open-webui-2025-11-24-v0-6-37-github-264669867-8b715894]]'
 source_type: github_releases
 theme: image-generation
@@ -121,14 +121,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.37
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-10-30 · ChatGPT · [[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+- Earlier: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-nano-banana-pro-now-available-for-image-generation|Nano Banana Pro now available for image generation]]
 - Later: 2025-11-25 · Open WebUI · [[Changes/Open WebUI/2025-11-25-openai-image-generation-now-works-correctly-after-fixing-a-connection-adapter-er|🖼️ OpenAI image generation now works correctly after fixing a connection adapter…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

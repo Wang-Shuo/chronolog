@@ -4,20 +4,20 @@ date: '2026-08-07'
 description: 'Replit · 2026-08-07 · Pricing Model: You can now move a project between
   team workspaces in the same billing account from the **Projects** list. The transfer…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1331
+  lag_days: 2949
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: b5633ed5495682ed4dc082469f4890b0c8e57db51abac740523b811c99ceb9fa
+machine_hash: ac8e966430e62a8fe7274eca18d4fa975e1087ad058fd4aa7260837e08c31a01
 product: replit
 product_name: Replit
 record:
@@ -46,11 +46,10 @@ record:
   title: Move projects between workspaces
   type: change
 related_changes:
-- '[[Changes/Replit/2026-07-31-billing|Billing]]'
-- '[[Changes/v0/2026-07-31-3-pricing-model-changes-in-claude-opus-5-direct-figma-inspection|3
-  Pricing Model changes in Claude Opus 5, direct Figma inspection…]]'
 - '[[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed
   fast mode to report on the stream when usage credits run out mid-session…]]'
+- '[[Changes/Descript/2026-08-05-plans-billing|Plans & billing]]'
+- '[[Changes/Descript/2026-08-05-underlord|Underlord]]'
 source_release: '[[Releases/Replit/replit-2026-08-07-2026-08-07-d8d80b64|replit-2026-08-07-2026-08-07-d8d80b64]]'
 source_type: replit_changelog
 theme: pricing-model
@@ -82,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed fast mode to report on the stream when usage credits run out mid-session…]]
+- Earlier: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-underlord|Underlord]]
 - Later: 2026-08-10 · Windsurf · [[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

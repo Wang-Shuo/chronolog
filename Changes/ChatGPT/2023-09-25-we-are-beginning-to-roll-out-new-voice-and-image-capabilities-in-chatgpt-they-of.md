@@ -5,20 +5,20 @@ description: 'ChatGPT · 2023-09-25 · Voice and Audio: We are beginning to roll
   new voice and image capabilities in ChatGPT. They offer a new, more intuitive type
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 77
+  lag_days: 1904
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bf71d43621ee6bea43273d451986bd52b06f590b8eff96eb052cecb7d6f9be45
+machine_hash: f36f44dae89ebd4623ab482435449570a5c2249878d0b78751ce845fee3f1014
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,10 +48,10 @@ record:
   title: We are beginning to roll out new voice and image capabilities in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-  link) support, which allows you…]]'
-- '[[Changes/Aider/2023-08-22-2-voice-and-audio-changes-in-v0-13-0|2 Voice and Audio
-  changes in v0.13.0]]'
+- '[[Changes/Descript/2023-08-22-using-overdub-regenerate-with-videos-overdub-https-help-descript-com-hc-en-us-ar|Using
+  Overdub & Regenerate with Videos]]'
+- '[[Changes/Descript/2023-08-22-layer-list-we-ve-made-a-number-of-improvements-to-the-layer-list-in-the-properti|Layer
+  list: We’ve made a number of improvements to the layer list…]]'
 - '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
   (Beta) is now rolling out to Plus users on iOS and Android]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7|chatgpt-2023-09-25-new-voice-and-image-capabilities-in-chatgpt-e8c88ec7]]'
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-08-22 · Aider · [[Changes/Aider/2023-08-22-2-voice-and-audio-changes-in-v0-13-0|2 Voice and Audio changes in v0.13.0]]
-- Later: 2023-11-21 · ChatGPT · [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT with voice is available to all users]]
+- Earlier: 2023-08-22 · Descript · [[Changes/Descript/2023-08-22-layer-list-we-ve-made-a-number-of-improvements-to-the-layer-list-in-the-properti|Layer list: We’ve made a number of improvements to the layer list…]]
+- Later: 2023-09-28 · Descript · [[Changes/Descript/2023-09-28-this-tool-can-be-used-to-address-problems-with-audio-drift-in-an-audio-or-video|This tool can be used to address problems with audio drift in an audio or video file…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

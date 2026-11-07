@@ -4,20 +4,20 @@ date: '2026-06-01'
 description: 'Lovable · 2026-06-01 · Safety and Privacy: Lovable can now [automatically
   fix eligible critical…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1142
+  lag_days: 2134
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 012413c9a51f74831d6bfd8cc97abace6ace140e0fa3762d93ff0f4cee7de492
+machine_hash: c37ca5e16ff0835c6a00c51ed0807e145cc633667fb42ef28eb602275ac8e0c8
 product: lovable
 product_name: Lovable
 record:
@@ -64,10 +64,10 @@ record:
   title: Automatic fixes for Basic scan findings
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core
-  Handled acp-next permission prompts correctly]]'
 - '[[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety
   and Privacy changes in v2.1.157]]'
+- '[[Changes/Synthesia/2026-05-29-members-on-free-and-restricted-licenses-can-now-edit-scripts-and-add-screen-reco|Let
+  free workspace members help you edit]]'
 - '[[Changes/Codex CLI/2026-06-01-11-safety-and-privacy-changes-in-rust-v0-136-0|11
   Safety and Privacy changes in rust-v0.136.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-01-2026-06-01-63e7e167|lovable-2026-06-01-2026-06-01-63e7e167]]'
@@ -112,7 +112,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -3,19 +3,20 @@ card_id: windsurf-2026-05-16-90528f
 date: '2026-05-16'
 description: 'Windsurf · 2026-05-16 · Collaboration: Restored conversation sharing'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1088
+  lag_days: 2682
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3304b0e27f6d7ad432aa7bf8934143a3b441111e274b2c93d731eae9b26f7bb7
+machine_hash: 94e88c08534192a724eb8e196ea2d7421eb69fc34e527979246c015d9d2980a3
 product: windsurf
 product_name: Windsurf
 record:
@@ -38,10 +39,10 @@ record:
   title: Restored conversation sharing
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core
-  Fixed HTTP API auth responses to match the previous wire format for empty…]]'
 - '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
   now available in Microsoft Teams]]'
+- '[[Changes/Descript/2026-05-14-the-descript-telethon-kicks-off-today-may-14-at-10-00-am-pt-https-www-youtube-co|The
+  Descript Telethon kicks off today, May 14 at 10:00 AM…]]'
 - '[[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake
   teams with multiple accounts can pick which account a chat connects…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-05-16-v2-3-9-a0bc6994|windsurf-2026-05-16-v2-3-9-a0bc6994]]'
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

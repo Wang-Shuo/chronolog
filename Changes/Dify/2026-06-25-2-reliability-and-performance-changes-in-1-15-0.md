@@ -4,20 +4,20 @@ date: '2026-06-25'
 description: 'Dify · 2026-06-25 · Reliability and Performance: 2 changes in 1.15.0
   — Reduced workflow startup latency for Chatflow (#36773) and lowered workflow termination…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1288
+  lag_days: 2775
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1419766dd17f88869da5ad1dc5001948f68581e26a640af509bcba69654b4a3c
+machine_hash: 37a808d03dafd7c5dcda1d89e11151f216a941a0f0440e1e58da0619e3596d24
 product: dify
 product_name: Dify
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-09-17'
 description: 'ChatGPT · 2025-09-17 · Reliability and Performance: 2 changes in Toggle
   thinking time in the message composer — Standard (new default, balancing speed and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1007
+  lag_days: 2494
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb1d40ed098c1510a857316c53db341adedeee20e9f1f2465e5dda4d84d101eb
+machine_hash: 3ac3748d2049cce188b7c14b1dffdb253ffe86d64e670939a4a36032dcadb4e7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -92,7 +92,7 @@ Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

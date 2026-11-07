@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-02-25 · Apps and Integrations: Sources from apps:
   a link to a Slack channel or Google Drive file or folder to add it directly as a
   project…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1070
+  lag_days: 2630
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a73d7ce2fea601efc4e164e33b64ead1a2a68ef9f0ff534bbc0b675454aaddf
+machine_hash: 6ae966468ab50e00e8bbcbbe0ac5a9c9ae163d525265f220708c256350276e9c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,10 +45,10 @@ record:
   title: Sources from apps
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-24-added-cline-sdk-api-interface-for-programmatic-access-to-cline-features-and-tool|Added
-  Cline SDK API interface for programmatic access to Cline features and tools…]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-24-block-third-party-mcp-servers-when-the-copilot-mcp-policy-does-not-allow-them|Block
-  third-party MCP servers when the Copilot MCP policy does not allow them]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-connect-copilot-with-azure-file-share-web-microsoft-365-copilot-extensibility|Connect
+  Copilot with Azure File Share Web (Microsoft 365 Copilot extensibility)]]'
+- '[[Changes/Notion/2026-02-24-integrate-custom-agents-with-slack-mail-calendar-mcp|Integrate
+  Custom Agents with Slack, Mail, Calendar, & MCP]]'
 - '[[Changes/OpenCode/2026-02-24-3-apps-and-integrations-changes-in-v1-2-11|3 Apps
   and Integrations changes in v1.2.11]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

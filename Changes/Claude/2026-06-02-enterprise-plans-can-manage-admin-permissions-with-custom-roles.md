@@ -4,20 +4,20 @@ date: '2026-06-02'
 description: 'Claude · 2026-06-02 · Enterprise and Administration: We extended the
   existing custom roles framework by adding admin permissions. Admin permissions give…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1124
+  lag_days: 2331
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d91dca3e176e16324d15a6309ae437054bffcdd4c68a183349140c52e472416b
+machine_hash: 5b1aa630d3304db13fcc0d7cc47ec884f3456461e3c2954b442a79b4192b4add
 product: claude
 product_name: Claude
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-2-enterprise-and-administration-changes-in-v0-9-6|2 Enterprise and Administration changes in v0.9.6]]
-- Later: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-admins-can-move-users-between-teams-through-the-dashboard-api-or-csv|Admins can move users between teams through the dashboard, API, or CSV]]
+- Later: 2026-06-02 · HeyGen · [[Changes/HeyGen/2026-06-02-heygen-has-moved-to-a-monthly-release-cadence-for-enterprise-explore-key-upcomin|HeyGen has moved to a monthly release cadence for enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

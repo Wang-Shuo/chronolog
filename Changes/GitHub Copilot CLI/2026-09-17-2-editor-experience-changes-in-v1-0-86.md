@@ -4,20 +4,19 @@ date: '2026-09-17'
 description: 'GitHub Copilot CLI · 2026-09-17 · Editor Experience: 2 changes in 1.0.86
   — Custom agents can opt into repository instruction files (AGENTS.md…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1283
+  lag_days: 2867
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 030b3c421ff5af616c5a999bf4469186b605b536e418c29551f1705941bf4f06
+machine_hash: 2cc2c999cbfe6a6d53b7787971add88e22926437658935d1c9db082e7b912ecc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +42,10 @@ record:
   title: 2 Editor Experience changes in v1.0.86
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-10-editor-experience-changes-in-v2-1-275|10 Editor
-  Experience changes in v2.1.275]]'
-- '[[Changes/Claude Code/2026-09-17-vscode-added-a-claudecode-lockeditorgroups-setting-to-stop-claude-from-locking-t|VSCode
-  Added a claudeCode.lockEditorGroups setting to stop Claude from locking…]]'
-- '[[Changes/Codex CLI/2026-09-17-2-editor-experience-changes-in-rust-v0-155-0|2 Editor
-  Experience changes in rust-v0.155.0]]'
+- '[[Changes/Descript/2026-09-17-collapse-a-panel|Collapse a panel]]'
+- '[[Changes/Descript/2026-09-17-we-ll-tell-you-if-we-lose-an-edit|We''ll tell you
+  if we lose an edit]]'
+- '[[Changes/Descript/2026-09-17-a-heads-up-about-grammarly|A heads-up about Grammarly]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-17-v1-0-86-github-391108341-867b13f9|github-copilot-cli-2026-09-17-v1-0-86-github-391108341-867b13f9]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,14 +82,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.86
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-2-editor-experience-changes-in-rust-v0-155-0|2 Editor Experience changes in rust-v0.155.0]]
+- Earlier: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-a-heads-up-about-grammarly|A heads-up about Grammarly]]
 - Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor Experience changes in v2.1.277]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

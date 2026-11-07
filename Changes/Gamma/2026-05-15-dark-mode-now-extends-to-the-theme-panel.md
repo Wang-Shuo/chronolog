@@ -5,20 +5,19 @@ description: 'Gamma · 2026-05-15 · Editor Experience: Your entire editing expe
   just got darker, in the best way. The theme panel in the editor now fully respects
   dark…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1158
+  lag_days: 2742
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 22c647d2abb411f3ba1c693e94198c21461f6ac6f9fe16d8ed83ef7fc6013f8a
+machine_hash: e52ecb46ec373edd17f42b76d68f7fb64668f53914bc07841a30c540e36e32bb
 product: gamma
 product_name: Gamma
 record:
@@ -47,9 +46,9 @@ record:
   title: Dark mode now extends to the theme panel
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]'
 - '[[Changes/OpenCode/2026-05-13-core-autocomplete-configured-mentions-in-prompts|Core
   Autocomplete configured @mentions in prompts]]'
+- '[[Changes/Descript/2026-05-14-improved-edit-reviews|Improved edit reviews]]'
 - '[[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg
   and ←-detach now preserve --allow-dangerously-skip-permissions…]]'
 source_release: '[[Releases/Gamma/gamma-2026-05-15-6a07a2d3b4c145e648b34b1b-8b82c948|gamma-2026-05-15-6a07a2d3b4c145e648b34b1b-8b82c948]]'
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

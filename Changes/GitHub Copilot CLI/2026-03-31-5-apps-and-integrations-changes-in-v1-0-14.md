@@ -4,20 +4,20 @@ date: '2026-03-31'
 description: 'GitHub Copilot CLI · 2026-03-31 · Apps and Integrations: 5 changes in
   1.0.14 — Allow SDK session participants to respond to elicitation requests via…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1104
+  lag_days: 2664
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a3bf0a2d2c106e422a2f5fe2f6f50ed3997d9aafd7ade7722b230718943f8c9
+machine_hash: 462881537a796727b62e0ae1c27ab2bac07dfe1c02c3489abe53bbf99211d4b8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

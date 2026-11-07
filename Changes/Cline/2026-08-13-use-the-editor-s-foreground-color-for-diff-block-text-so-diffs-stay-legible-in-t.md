@@ -4,20 +4,19 @@ date: '2026-08-13'
 description: 'Cline · 2026-08-13 · Editor Experience: Use the editor''s foreground
   color for diff block text, so diffs stay legible in themes where the previous hardcoded…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1248
+  lag_days: 2832
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a0236772f6b66be9b836efd7aec1e07f26a3ce978289bdda1e902d3bbf5af53
+machine_hash: 8817a68ad6a4e6f68fd11b99164659ebbf60e4dc23d2fc1491f085de5e5929fb
 product: cline
 product_name: Cline
 record:
@@ -43,12 +42,12 @@ record:
   title: Use the editor's foreground color for diff block text, so diffs stay legible…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-09-restore-the-view-changes-button-on-completion-rows-backed-by-sdk-checkpoints-so|Restore
-  the "View Changes" button on completion rows, backed by SDK checkpoints…]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-10-2-editor-experience-changes-in-v1-0-79|2
-  Editor Experience changes in v1.0.79]]'
 - '[[Changes/Cline/2026-08-11-remove-the-stale-double-check-completion-feature-tip|Remove
   the stale "Double-Check Completion" feature tip]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-parallel-content-and-identity-crawl-improves-content-freshness-web-microsoft-365|Parallel
+  content and identity crawl improves content freshness…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-sharepoint-authoritative-sites-windows-web-microsoft-365-sharepoint|SharePoint:
+  Authoritative Sites Windows, Web (Microsoft 365 SharePoint)]]'
 source_release: '[[Releases/Cline/cline-2026-08-13-v4-1-9-github-369742457-b48c0c59|cline-2026-08-13-v4-1-9-github-369742457-b48c0c59]]'
 source_type: github_releases
 theme: editor-experience
@@ -79,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-remove-the-stale-double-check-completion-feature-tip|Remove the stale "Double-Check Completion" feature tip]]
+- Earlier: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-sharepoint-authoritative-sites-windows-web-microsoft-365-sharepoint|SharePoint: Authoritative Sites Windows, Web (Microsoft 365 SharePoint)]]
 - Later: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-open-projects-from-links-in-the-command-palette|Open projects from links in the command palette]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

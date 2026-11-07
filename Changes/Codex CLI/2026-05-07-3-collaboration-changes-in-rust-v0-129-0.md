@@ -4,19 +4,20 @@ date: '2026-05-07'
 description: 'Codex CLI · 2026-05-07 · Collaboration: 3 changes in 0.129.0 — #20989
   core: share responses request builder with compact requests @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1079
+  lag_days: 2673
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 103cfb5024583f8e3498ee70e383f8bb12447aa82cc6cf22ddcee9df7132f697
+machine_hash: 8b4140d996a3975d00ab3dd4d1d74380038b2284f884ac6dd17cd419bbc95383
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +44,12 @@ record:
   title: 3 Collaboration changes in rust-v0.129.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-13-collaboration-changes-in-1-14-0|13 Collaboration changes
-  in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149
   Reduce the surface of collaboration modes @pakrym-oai]]'
 - '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
   can now create a team marketplace without connecting a repository first]]'
+- '[[Changes/Synthesia/2026-05-05-share-customizable-avatar-outfits-and-spaces-with-your-teammates-or-your-whole-w|Share
+  avatar outfits and spaces]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e|codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e]]'
 source_type: github_releases
 theme: collaboration
@@ -98,14 +99,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.129.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins can now create a team marketplace without connecting a repository first]]
+- Earlier: 2026-05-05 · Synthesia · [[Changes/Synthesia/2026-05-05-share-customizable-avatar-outfits-and-spaces-with-your-teammates-or-your-whole-w|Share avatar outfits and spaces]]
 - Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core Fixed HTTP API auth responses to match the previous wire format for empty…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

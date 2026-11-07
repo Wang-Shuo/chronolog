@@ -5,20 +5,20 @@ description: 'ChatGPT · 2025-07-17 · Voice and Audio: The Advanced Voice upgra
   we announced on June 7th are now rolling out to ChatGPT free users too. With the
   same…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 738
+  lag_days: 2565
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: cf8ce6a00bc01d13ee6cbc8895d5fa91a8ca3024b8a3b5031fdf12c1635e11f4
+machine_hash: c24bf1f6c8bde8ab02ef9cda342de5ecc5919bec093aa2ce0b0c0584953eeb40
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,9 +48,10 @@ record:
   title: Updates to Advanced Voice Mode for Free tier users
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-07-14-text-to-voice-f4167d|Text to Voice]]'
 - "[[Changes/Open WebUI/2025-07-14-audio-mime-type-registration-issues-with-audio-file-content-types-have-been-reso|\U0001F504
   Audio MIME Type Registration]]"
+- '[[Changes/Descript/2025-07-15-ducking-is-now-lower-audio-of-other-layers|Ducking
+  is now “Lower audio of other layers”]]'
 - '[[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record
   live conversations like team meetings or voice notes, and turn those…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562|chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562]]'
@@ -80,13 +81,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-07-16 · ChatGPT · [[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record live conversations like team meetings or voice notes, and turn those…]]
-- Later: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-voice|Voice]]
+- Later: 2025-07-17 · Descript · [[Changes/Descript/2025-07-17-brand-studio-allows-you-to-view-your-drive-s-custom-fonts-for-use-in-layout-pack|Brand studio allows you to view your Drive's custom fonts for use in layout packs…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbe70cbb310e1276c3103a908125d743e6ac19c9095aff9a5a9bb77b12a1fad4
+machine_hash: 63a11d127ee08537366c44f5f807f43eec601a77a8a1decc36eb6d6a2446b3a7
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Model Support changes in v1.15.11
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support
-  changes in v2.1.152]]'
 - '[[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor:
   decouple auto model description and configuration from releaseChannel]]'
+- '[[Changes/Kimi Code/2026-05-27-use-one-retry-classification-for-transient-llm-failures-across-regular-turns-and|Use
+  one retry classification for transient LLM failures across regular turns…]]'
 - '[[Changes/Lovable/2026-05-27-new-openai-image-models-for-ai-features-in-your-app|New
   OpenAI image models for AI features in your app]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-27-v1-15-11-11e93b8c|opencode-2026-05-27-v1-15-11-11e93b8c]]'

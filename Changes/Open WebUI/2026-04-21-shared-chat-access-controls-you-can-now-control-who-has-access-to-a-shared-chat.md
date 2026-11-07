@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-04-21 · Collaboration: \U0001F517 **Shared cha
   controls.** You can now control who has access to a shared chat by granting access
   to specific…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1063
+  lag_days: 2657
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e2e3f5f924119db84dfbf0468810c7bc7b0f116f16b3f73a26d07df49d43bac
+machine_hash: 84e896bf740605fd8b984ac8c990e2e0f04550ecc4b7a9c6fdd8fdd8689839ef
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +46,8 @@ record:
     access to a shared…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717
-  codex Refactor marketplace add into shared core flow @xli-oai]]'
+- '[[Changes/Descript/2026-04-16-announcing-the-descript-customer-obsession-hackathon-telethon-may-14-15|Announcing—the
+  Descript Customer Obsession Hackathon Telethon (May 14–15)]]'
 - '[[Changes/OpenCode/2026-04-18-core-stopped-share-sync-attempts-for-sessions-that-were-never-shared|Core
   Stopped share sync attempts for sessions that were never shared]]'
 - '[[Changes/Codex CLI/2026-04-20-18398-refactor-use-cloneable-async-channels-for-shared-receivers-bolinfest|♯18398
@@ -104,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

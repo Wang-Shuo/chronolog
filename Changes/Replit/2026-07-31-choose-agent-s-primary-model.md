@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1d480747c4d1ae1d45dc3f5e5de37f7cf5160910a2ba84b8f9bfde3cb7b63042
+machine_hash: 270eccdb03691f411696a695e7507ee2a67b431665dc5853fe9ff6e1efd19228
 product: replit
 product_name: Replit
 record:
@@ -63,10 +63,10 @@ record:
   title: Choose Agent's primary model
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-07-31-enterprise-sign-in-gemini-enterprise-accounts-and-workforce-identity-federation|Enterprise
-  sign-in: Gemini Enterprise accounts and Workforce Identity Federation]]'
 - '[[Changes/Google Antigravity/2026-07-31-3-model-support-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|3
   Model Support changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
+- '[[Changes/Kimi Code/2026-07-31-preserve-the-assistant-s-partial-output-when-a-turn-is-interrupted-with-esc-and|Preserve
+  the assistant''s partial output when a turn is interrupted with Esc…]]'
 - '[[Changes/Lovable/2026-07-31-opt-out-of-ai-model-training|Opt out of AI model training]]'
 source_release: '[[Releases/Replit/replit-2026-07-31-2026-07-31-9665255c|replit-2026-07-31-2026-07-31-9665255c]]'
 source_type: replit_changelog

@@ -4,20 +4,19 @@ date: '2024-11-05'
 description: 'Dify · 2024-11-05 · Editor Experience: chore: update type definition
   to resolve lint error in Base usage at text-editor.tsx by @Kota-Yamaguchi in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 602
+  lag_days: 2186
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24465fe1d3108b34b02f9c488e3527cbd2eb3f2753f673d00428ce6b90119d1b
+machine_hash: a1cd4f4274102efeb8bd1f93a765b11d979d012ccc7bf1e3ee51095d2fe9783b
 product: dify
 product_name: Dify
 record:
@@ -42,11 +41,10 @@ record:
   title: 'chore: update type definition to resolve lint error in Base usage at text-editor.tsx'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-10-23-today-we-re-testing-our-new-external-image-editor-image-retexturing-and-next-gen|today
-  we’re testing our new external image editor , image retexturing , and next-gen…]]'
 - '[[Changes/Midjourney/2024-10-23-the-image-editor|The image editor]]'
 - '[[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run
   aider --apply-clipboard-edits file-to-edit.js]]'
+- '[[Changes/Descript/2024-11-05-other-editor-tweaks|Other editor tweaks]]'
 source_release: '[[Releases/Dify/dify-2024-11-05-0-11-0-github-183549613-86c3ffa3|dify-2024-11-05-0-11-0-github-183549613-86c3ffa3]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-11-04 · Aider · [[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run aider --apply-clipboard-edits file-to-edit.js]]
+- Earlier: 2024-11-05 · Descript · [[Changes/Descript/2024-11-05-other-editor-tweaks|Other editor tweaks]]
 - Later: 2024-11-07 · Midjourney · [[Changes/Midjourney/2024-11-07-we-re-doing-a-community-contest-for-images-made-with-the-new-editor-please-share|Editor Showcase]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

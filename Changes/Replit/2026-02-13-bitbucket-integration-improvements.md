@@ -4,20 +4,20 @@ date: '2026-02-13'
 description: 'Replit · 2026-02-13 · Apps and Integrations: Enhanced Bitbucket import
   support makes it easier for you to migrate your repositories into Replit alongside…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1058
+  lag_days: 2618
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 565b3d65ca0dfbdf349d12c4a8ef71d83873ed05d19c081ea0cacb1e52c50a8c
+machine_hash: 8f2aebeacff1c06fb1a5204c9125771174cab8a1472b67e39164ce4b80f3ac70
 product: replit
 product_name: Replit
 record:
@@ -45,10 +45,9 @@ record:
   title: Bitbucket integration improvements
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-12-core-use-promise-all-for-mcp-listtools-calls-to-improve-performance|Core
-  Use Promise.all for MCP listTools calls to improve performance]]'
 - '[[Changes/OpenCode/2026-02-12-core-expose-tool-arguments-in-shell-hook-for-plugin-visibility|Core
   Expose tool arguments in shell hook for plugin visibility]]'
+- '[[Changes/HeyGen/2026-02-13-why-it-matters|Why it matters]]'
 - '[[Changes/OpenCode/2026-02-13-core-add-tool-definition-hook-for-plugins-to-modify-tool-description-and-paramet|Core
   Add tool.definition hook for plugins to modify tool description and parameters]]'
 source_release: '[[Releases/Replit/replit-2026-02-13-2026-02-13-6a679506|replit-2026-02-13-2026-02-13-6a679506]]'
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

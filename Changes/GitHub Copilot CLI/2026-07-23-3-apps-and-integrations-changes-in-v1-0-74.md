@@ -4,20 +4,20 @@ date: '2026-07-23'
 description: 'GitHub Copilot CLI · 2026-07-23 · Apps and Integrations: 3 changes in
   1.0.74 — Add support for Open Plugin Spec v1 plugin manifests and mcp.json configuration'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1218
+  lag_days: 2778
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49424d5539d108f18c5317ad7e3788292a704f0f4dea77950f66003fb1442908
+machine_hash: 885aa93905d14196dcf32b7a43f6c9b4f9b29c64b5cc0de19426fb246c34742c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Apps and Integrations changes in v1.0.74
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3
-  Apps and Integrations changes in v2.1.218]]'
+- '[[Changes/Kimi Code/2026-07-22-reconnect-a-dropped-mcp-server-connection-automatically-when-one-of-its-tools-is|Reconnect
+  a dropped MCP server connection automatically when one of its tools…]]'
 - '[[Changes/Lovable/2026-07-22-bulk-edit-your-shopify-catalog-in-one-approval|Bulk-edit
   your Shopify catalog in one approval]]'
 - '[[Changes/Lovable/2026-07-22-lovable-mcp-is-now-a-codex-plugin|Lovable MCP is now
@@ -99,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.74
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

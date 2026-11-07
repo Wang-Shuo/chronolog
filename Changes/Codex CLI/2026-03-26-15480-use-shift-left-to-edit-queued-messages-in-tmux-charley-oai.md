@@ -4,20 +4,19 @@ date: '2026-03-26'
 description: 'Codex CLI · 2026-03-26 · Editor Experience: #15480 Use Shift+Left to
   edit queued messages in tmux @charley-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1108
+  lag_days: 2692
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11b5fb1722ab8347d12e912e1c63351801bd394f794809a1f91428050b212744
+machine_hash: 49d645647fa8e9cad1334b0e9e82c67aad13a0d72a28e742ec629ed4d8e007ab
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +42,8 @@ record:
   title: '#15480 Use Shift+Left to edit queued messages in tmux @charley-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-3-editor-experience-changes-in-v2-1-83|3 Editor
-  Experience changes in v2.1.83]]'
+- '[[Changes/HeyGen/2026-03-25-members-tab-added-member-search-active-pending-member-filtering-and-the-ability|Members
+  tab: Added member search, active/pending member filtering, and the ability…]]'
 - '[[Changes/Ollama/2026-03-25-microsoft-visual-studio-code-now-directly-integrates-with-ollama-via-github-copi|Microsoft
   Visual Studio Code now directly integrates with Ollama via GitHub Copilot]]'
 - '[[Changes/Open WebUI/2026-03-25-4-editor-experience-changes-in-v0-8-11|4 Editor
@@ -101,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

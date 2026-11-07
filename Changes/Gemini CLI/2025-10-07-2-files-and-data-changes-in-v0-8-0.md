@@ -4,20 +4,20 @@ date: '2025-10-07'
 description: 'Gemini CLI · 2025-10-07 · Files and Data: 2 changes in Release v0.8.0
   — Document support for Google AI Pro and AI Ultra by @srithreepo in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 866
+  lag_days: 2211
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bae9dcd315ef242b2aa15b17de69fed5546be668ba727530e8686ac11cea7402
+machine_hash: 44a67a79cdde3baa14873c53e2e0510ac0569b195ffd78030c6214f93b034b5d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

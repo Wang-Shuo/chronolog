@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5dc82ac18541fa5f1a564094923de2d22095ce3c8606b5358a9b17f193a2e1fe
+machine_hash: 150cf8414b0e0651f39489fd409c17ec938a0bc8538adb4ab8d830a5b59ca6f5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: '[#3071] Use experimental reasoning summary'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support
-  changes in v0.6.26]]'
+- '[[Changes/Descript/2025-08-29-new-in-ai-speakers-eleven-labs-v3|New in AI Speakers—Eleven
+  Labs V3]]'
 - '[[Changes/Codex CLI/2025-09-02-2-model-support-changes-in-rust-v0-28-0|2 Model
   Support changes in rust-v0.28.0]]'
 - '[[Changes/OpenHands/2025-09-02-added-llm-risk-analyzer-by-xingyaoww-in-https-github-com-all-hands-ai-openhands|Added

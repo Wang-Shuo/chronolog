@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7fe6f93e5ac2faea57df947cdd5fcca724bd2de0391c3fbd3850b6e8a269a8b5
+machine_hash: cb2c08e4d004073052f5586d9d8616b4194a7bc47378fc3a4d639ed86e8aa624
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 4 Agent Mode changes in rust-v0.153.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-02-cursor-supports-self-hosted-machines-which-let-you-keep-tool-execution-entirely|Cursor
-  supports self-hosted machines, which let you keep tool execution entirely…]]'
 - '[[Changes/Google Antigravity/2026-09-02-introduced-the-boost-slash-command-to-enhance-thinking-effort-by-using-a-multi-a|Introduced
   the /boost slash command to enhance thinking effort by using…]]'
+- '[[Changes/Kimi Code/2026-09-02-3-agent-mode-changes-in-kimi-code-0-40-0|3 Agent
+  Mode changes in Kimi Code 0.40.0]]'
 - '[[Changes/Claude Code/2026-09-03-2-agent-mode-changes-in-v2-1-260|2 Agent Mode
   changes in v2.1.260]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f|codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f]]'

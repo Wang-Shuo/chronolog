@@ -4,19 +4,20 @@ date: '2026-02-10'
 description: 'OpenCode · 2026-02-10 · Developer Workflow: 13 changes in v1.1.54 —
   Core Fix terminal replay in application'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1060
+  lag_days: 2709
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1ce719e54cbc032a165539e1f74eea7e5493ee6a3cd52aaffa1168872354573
+machine_hash: 9a308d70862bf271397c9dd0ae4fdea0c86de0070bfd8f2bca9f5eac10ee4dad
 product: opencode
 product_name: OpenCode
 record:
@@ -144,7 +145,7 @@ Source: https://opencode.ai/changelog/v1.1.54
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

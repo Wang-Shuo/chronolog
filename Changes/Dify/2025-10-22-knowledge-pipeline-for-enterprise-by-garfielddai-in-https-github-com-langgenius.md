@@ -4,20 +4,20 @@ date: '2025-10-22'
 description: 'Dify · 2025-10-22 · Enterprise and Administration: knowledge-pipeline-for-enterprise
   by @GarfieldDai in https://github.com/langgenius/dify/pull/27240'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 901
+  lag_days: 2108
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2a53255aa2d9c25773854f39d954cf9a15ca86f90b83c60011b2662ebf0edf4
+machine_hash: 3e4783a0b9f0ff2bb13575764d8ed77388f2c579a631ddc56572df3c7495aad3
 product: dify
 product_name: Dify
 record:
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-10-17 · Replit · [[Changes/Replit/2025-10-17-teams-and-enterprise|Teams and Enterprise]]
-- Later: 2025-10-24 · Replit · [[Changes/Replit/2025-10-24-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2025-10-23 · Descript · [[Changes/Descript/2025-10-23-new-in-rooms-role-specific-invite-links|New in Rooms—Role specific invite links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

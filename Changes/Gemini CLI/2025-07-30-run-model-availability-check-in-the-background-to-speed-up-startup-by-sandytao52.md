@@ -4,20 +4,20 @@ date: '2025-07-30'
 description: 'Gemini CLI · 2025-07-30 · Reliability and Performance: Run model availability
   check in the background to speed up startup by @SandyTao520 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 958
+  lag_days: 2445
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7bfe5afa7f51ac24c692b67d796f9099e7c4ad8d12e1f04f2fb3ad48823d8e76
+machine_hash: ad3d7ae6af3c9dd5ddb4291995e89966e18b8ffd1d553a4ed7f6caf91afa773f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -101,13 +101,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability and Performance changes in 1.3]]
-- Later: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-2-reliability-and-performance-changes-in-v0-1-16|2 Reliability and Performance changes in v0.1.16]]
+- Later: 2025-07-31 · Descript · [[Changes/Descript/2025-07-31-avatars-new-ui-for-faster-access|Avatars: New UI for faster access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

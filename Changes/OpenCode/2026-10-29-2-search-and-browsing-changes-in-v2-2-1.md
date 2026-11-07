@@ -4,20 +4,20 @@ date: '2026-10-29'
 description: 'OpenCode · 2026-10-29 · Search and Browsing: 2 changes in v2.2.1 — Core
   Expose Console web search only when the workspace enables it.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1316
+  lag_days: 2345
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 33e8d9a9afa7bfa3874cd22c7e420ea5d806505b48ff97d3d89081d2ada76f52
+machine_hash: 97674db1d0fdb586f5d1a071b56cd8f9253f4d70352b6bec6e1b55397090cbc4
 product: opencode
 product_name: OpenCode
 record:
@@ -98,13 +98,13 @@ Source: https://opencode.ai/changelog/v2.2.1
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542 Add model-gated literature search to standalone web search @rhan-oai]]
-- Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-typing-in-the-built-in-browser-s-address-bar-now-suggests-matching-pages-from-yo|Typing in the built-in browser's address bar now suggests matching pages…]]
+- Later: 2026-10-30 · Qoder · [[Changes/Qoder/2026-10-30-device-connections-use-a-pairing-code-to-connect-to-other-qoder-devices-on-your|Device connections: Use a pairing code to connect to other Qoder devices…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

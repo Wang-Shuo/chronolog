@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-06-22 · Interface Experience: 4 changes in 0.14
   — Restored reliable Linux TUI rendering after suspending with `Ctrl+Z` and resuming
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2626
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1b2abf75b98b3749e82119723a8f368a0eb718d113423f33d6f108ea2201ccb
+machine_hash: 6a9b14bcf4875bb6695f935130639e50d1f01b67d7294fa33d4b7a7876fa0588
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -107,13 +107,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-view-only-members-can-download-a-chat-s-code-as-a-zip-from-the-project-menu|View-only members can download a chat's code as a ZIP from the project menu]]
-- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface Experience changes in v2.1.187]]
+- Later: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-stop-showing-unread-dots-on-cancelled-or-failed-sessions-in-the-web-sidebar|Stop showing unread dots on cancelled or failed sessions in the web sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

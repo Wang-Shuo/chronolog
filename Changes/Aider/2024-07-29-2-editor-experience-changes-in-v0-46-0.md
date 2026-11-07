@@ -4,20 +4,19 @@ date: '2024-07-29'
 description: 'Aider · 2024-07-29 · Editor Experience: 2 changes in Aider v0.46.0 —
   New `/ask <question>` command to ask about your code, without making any edits.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 503
+  lag_days: 2087
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 498bbb0604f1410ac58d5bdcb7734040c3ed55bddd7f2d6742b6ec782822fb4a
+machine_hash: 2c5341d93970d760157d88a3ece9c3e55489391e12333b14ad6c2363ead99439
 product: aider
 product_name: Aider
 record:
@@ -85,13 +84,13 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.46.0
 ## Nearby in Editor Experience
 
 - Earlier: 2024-07-28 · Cline · [[Changes/Cline/2024-07-28-open-in-the-editor-using-menu-bar-or-claude-dev-open-in-new-tab-in-command-palet|Open in the editor…]]
-- Later: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-2-editor-experience-changes-in-v0-47-0|2 Editor Experience changes in v0.47.0]]
+- Later: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-suggested-edits|Suggested edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

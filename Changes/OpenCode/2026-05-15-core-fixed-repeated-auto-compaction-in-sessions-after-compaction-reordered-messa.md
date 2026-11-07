@@ -4,20 +4,20 @@ date: '2026-05-15'
 description: 'OpenCode · 2026-05-15 · Context Window: Core Fixed repeated auto-compaction
   in sessions after compaction reordered messages.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1107
+  lag_days: 2431
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a451c99a53e23dd3ed4429fbe1c9b7658ff2d83a60f6d58809aec04b37ca619
+machine_hash: 5e89eb37ad915d3f36884769f46c42f0b6ee9f60f119ced3a98b8a6c3a63e0e9
 product: opencode
 product_name: OpenCode
 record:
@@ -45,10 +45,9 @@ record:
     messages
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-13-core-keep-recent-turns-after-compaction-instead-of-folding-them-into-the-summary|Core
-  Keep recent turns after compaction instead of folding them into the summary]]'
-- '[[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved
-  reactive compaction]]'
+- '[[Changes/Descript/2026-05-14-underlord-updates-context-chat-history-and-improved-edit-review|Underlord
+  updates—context, chat history, and improved edit review]]'
+- '[[Changes/Descript/2026-05-14-add-context|Add context]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context
   shows correct token limits for all models instead of always showing 128k]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-15-v1-14-51-75ffb50d|opencode-2026-05-15-v1-14-51-75ffb50d]]'
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

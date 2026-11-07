@@ -5,20 +5,20 @@ description: 'Replit · 2026-04-03 · Image Generation: Stock images and AI-gene
   images now appear in the Library sidebar. Previously, these images were created
   in your…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 754
+  lag_days: 1012
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 957bc42995f99979e0ba787224299af244dbfaba3fc3e740068fa22f99d48f67
+machine_hash: 97c8e36fbe630bf1923ab796fe9f48ca27677e16e1b2e9c3f3e2a57fc186092a
 product: replit
 product_name: Replit
 record:
@@ -50,12 +50,12 @@ record:
   title: Stock and AI-generated images in Library
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-16-added-image-generation-capability-to-the-plan-agent|Added
-  image generation capability to the Plan agent]]'
-- "[[Changes/Open WebUI/2026-03-25-rag-query-generation-robustness-the-rag-query-generation-web-search-and-image-ge|\U0001F50D
-  RAG query generation robustness. The RAG query generation, web search…]]"
 - '[[Changes/Codex CLI/2026-03-26-2-image-generation-changes-in-rust-v0-117-0|2 Image
   Generation changes in rust-v0.117.0]]'
+- '[[Changes/Notion/2026-03-26-generate-images-charts-slides-diagrams|Generate images,
+  charts, slides, diagrams]]'
+- '[[Changes/HeyGen/2026-04-02-image-generation-or-preservation|Image generation or
+  preservation]]'
 source_release: '[[Releases/Replit/replit-2026-04-03-2026-04-03-7b5eb8b0|replit-2026-04-03-2026-04-03-7b5eb8b0]]'
 source_type: replit_changelog
 theme: image-generation
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-2-image-generation-changes-in-rust-v0-117-0|2 Image Generation changes in rust-v0.117.0]]
+- Earlier: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-image-generation-or-preservation|Image generation or preservation]]
 - Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-tool-discovery-and-image-generation-are-now-enabled-by-default-with-higher-detai|Tool discovery and image generation are now enabled by default, with higher-detail…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0f734f0fd70cc1e9ef450c1bab162955ca328f8c483d121083100f6a6edb8ae
+machine_hash: 7572d085855fba65be9711c138837bcd46d1c2199d4827ffaad3a55e3146c0c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Agent Mode changes in v2.1.232
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-11-agent-sessions-now-live-inside-projects-so-you-can-start-a-session-directly-from|Projects
-  + Brand Kits in Agent]]'
 - '[[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved
   workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]'
 - '[[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced
   typing lag while the agent streams responses]]'
+- '[[Changes/Kimi Code/2026-08-12-show-the-live-work-progress-of-background-subagents-in-the-tasks-panel|Show
+  the live work progress of background subagents in the /tasks panel]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
 source_type: github_releases
 theme: agent-mode
@@ -103,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.232
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced typing lag while the agent streams responses]]
+- Earlier: 2026-08-12 · Kimi Code · [[Changes/Kimi Code/2026-08-12-show-the-live-work-progress-of-background-subagents-in-the-tasks-panel|Show the live work progress of background subagents in the /tasks panel]]
 - Later: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-2-agent-mode-changes-in-08-13-26|2 Agent Mode changes in 08.13.26]]
 <!-- chronolog:end -->
 

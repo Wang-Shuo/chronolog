@@ -4,20 +4,19 @@ date: '2025-07-26'
 description: 'Cline · 2025-07-26 · Editor Experience: Add an RPC to the host bridge
   to scroll the diff viewer. by @sjf in https://github.com/cline/cline/pull/5151'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 865
+  lag_days: 2449
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68ac93e64bcf33dd93f918f1c22b2a51b0e772dcc2e4b716756fa87bf9b0636e
+machine_hash: 0e54c64859e8d6d9fb1011c829d16535f00412dd584c45a32b20a3bbeee21b57
 product: cline
 product_name: Cline
 record:
@@ -43,10 +42,9 @@ record:
   title: Add an RPC to the host bridge to scroll the diff viewer
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-19-4-editor-experience-changes-in-v0-6-17|4 Editor
-  Experience changes in v0.6.17]]'
-- '[[Changes/Cline/2025-07-22-3-editor-experience-changes-in-v3-19-8|3 Editor Experience
-  changes in v3.19.8]]'
+- '[[Changes/Descript/2025-07-23-underlord-https-help-descript-com-hc-en-us-articles-36803785502221-is-ready-to-c|Underlord((source
+  link) is ready…]]'
+- '[[Changes/Descript/2025-07-23-prefer-the-old-way|Prefer the old way?]]'
 - '[[Changes/Gemini CLI/2025-07-25-19-editor-experience-changes-in-v0-1-14|19 Editor
   Experience changes in v0.1.14]]'
 source_release: '[[Releases/Cline/cline-2025-07-26-v3-20-2-github-235353730-e73811c6|cline-2025-07-26-v3-20-2-github-235353730-e73811c6]]'
@@ -86,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

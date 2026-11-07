@@ -4,20 +4,21 @@ date: '2026-02-10'
 description: 'Gemini CLI · 2026-02-10 · Account and Access: test(core): mock fetch
   in OAuth transport fallback tests by @jw409 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1048
+  lag_days: 2023
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3e4b03cdbd7a30e191cb21643b1ebc5e9f969a0fc9284d61643528fe9920417
+machine_hash: e06c2eb501b7238679fc22b5ba6e6898f586950b9b6d3ee46a065fd2f4bc420b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -87,13 +88,13 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode: Added support for remote sessions, allowing OAuth users to browse and resume…]]
-- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-desktop-include-basic-authentication-in-app|Desktop Include basic authentication in app]]
+- Later: 2026-02-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-02-10-admins-can-set-up-connector-authentication-faster-with-a-simplified-experience-w|Admins can set up connector authentication faster with a simplified experience…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

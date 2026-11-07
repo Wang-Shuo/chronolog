@@ -4,20 +4,20 @@ date: '2026-07-31'
 description: 'Google Antigravity · 2026-07-31 · Interface Experience: 2 changes in
   HUB v2.5.0 — Enterprise sign-in: Gemini Enterprise accounts and Workforce Identity…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1299
+  lag_days: 2665
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7665ce0685fd493b941ba5f0bdcbc019164d1d13b2f2480856a28b34f78033c6
+machine_hash: ad660749a4032c2da65b04f0750a768f8c5faed96638317fd55f4efebb19a13e
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -43,10 +43,10 @@ record:
   title: '2 Interface Experience changes in HUB v2.5.0 — Enterprise sign-in: Gemini…'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-28-desktop-fixed-a-solid-cleanup-crash-that-could-break-navigation-in-the-desktop-a|Desktop
-  Fixed a Solid cleanup crash that could break navigation in the desktop app]]'
 - '[[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8
   Interface Experience changes in rust-v0.146.0]]'
+- '[[Changes/Kimi Code/2026-07-29-add-a-customizable-footer-status-line-configured-via-status-line-in-tui-toml|Add
+  a customizable footer status line, configured via status_line in tui.toml]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4
   Interface Experience changes in v1.0.76]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02|google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02]]'
@@ -92,13 +92,13 @@ Source: https://antigravity.google/releases?tab=hub&version=2.5.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4 Interface Experience changes in v1.0.76]]
-- Later: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-3-interface-experience-changes-in-claude-opus-5-direct-figma-inspection|3 Interface Experience changes in Claude Opus 5, direct Figma inspection…]]
+- Later: 2026-07-31 · Kimi Code · [[Changes/Kimi Code/2026-07-31-reduce-frequent-full-screen-redraws-in-the-tui|Reduce frequent full-screen redraws in the TUI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

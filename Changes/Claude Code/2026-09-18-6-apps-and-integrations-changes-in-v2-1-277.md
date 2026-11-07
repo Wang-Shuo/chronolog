@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-18 · Apps and Integrations: 6 changes in v
   — Added `CLAUDE_GATEWAY_PROXY_IS_EGRESS_BOUNDARY=1` for Claude apps gateways whose
   only…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1275
+  lag_days: 2835
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df2ba24cffe35e100274108e0edefe242d6ebc75aae5b7661894f37f26d2c594
+machine_hash: dbbd6c3558593b804584bf2be0d727ad15c9a6f58d700c8ca9fb33a499f0da11
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,10 +58,10 @@ record:
   title: 6 Apps and Integrations changes in v2.1.277
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-24-apps-and-integrations-changes-in-rust-v0-155-0|24
-  Apps and Integrations changes in rust-v0.155.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-resuming-an-active-session-without-plugin-directory-discovery-or-working-directo|Resuming
   an active session without plugin-directory, discovery, or working-directory…]]'
+- '[[Changes/Kimi Code/2026-09-17-the-built-in-browser-plugin-now-appears-as-kimi-browser-extension-in-the-plugins|The
+  built-in browser plugin now appears as "Kimi Browser Extension" in the plugins…]]'
 - '[[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app
   to the Lovable API]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
@@ -115,13 +115,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-17 · Lovable · [[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app to the Lovable API]]
-- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-you-can-now-ask-btw-side-questions-about-photos-attached-to-the-current-message|Ask /btw side questions about photos attached to the current message when using…]]
+- Later: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-remote-control-automatically-sync-local-conversation-history-updated-within-the|Remote Control: Automatically sync local conversation history updated within…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

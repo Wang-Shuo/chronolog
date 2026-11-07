@@ -4,20 +4,19 @@ date: '2025-04-01'
 description: "Open WebUI · 2025-04-01 · Editor Experience: \U0001F9E0 **Prompt Autocompletion
   Disabled By Default**: Autocomplete suggestions while typing are now disabled unless…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 749
+  lag_days: 2333
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 523b7b096fabddec07d5dcfb2d7e52f1971ba4b06b55367cc502dfb6dc914a8c
+machine_hash: e5c8857d9d2a735bdea5c0f973b4c71513f3cdfd3f18ed587acde212c4992bd4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +44,7 @@ record:
   title: "\U0001F9E0 **Prompt Autocompletion Disabled By Default**"
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-25-added-edit-as-an-alias-for-the-editor-command|Added
-  /edit as an alias for the /editor command]]'
+- '[[Changes/Descript/2025-03-25-editor-updates|Editor updates]]'
 - '[[Changes/Lovable/2025-03-28-supabase-functions-now-get-deployed-when-updated-in-code-editor-also-supabase-fu|Supabase
   functions now get deployed when updated in code editor]]'
 - '[[Changes/Cline/2025-04-01-2-editor-experience-changes-in-v3-8-5|2 Editor Experience
@@ -96,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

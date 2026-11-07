@@ -4,20 +4,20 @@ date: '2024-10-28'
 description: 'Dify · 2024-10-28 · Reliability and Performance: **Improved File Handling
   in HTTP Requests:** Your HTTP requests within workflows are now more robust. Much…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 683
+  lag_days: 2170
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0df5c96c429082ec70d67682550974b0a61a184835fabcc23768349d82a82f19
+machine_hash: e722c4351107b12fd40a87e457f3a2f3a48be368ed89fcd53f96ee149bd4c928
 product: dify
 product_name: Dify
 record:
@@ -45,8 +45,7 @@ record:
   title: '**Improved File Handling in HTTP Requests:** Your HTTP requests within workflows…'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-23-2-reliability-and-performance-changes-in-0-10-1|2 Reliability
-  and Performance changes in 0.10.1]]'
+- '[[Changes/Notion/2024-10-24-a-few-more-improvements|A few more improvements]]'
 - '[[Changes/Open WebUI/2024-10-24-4-reliability-and-performance-changes-in-v0-3-33|4
   Reliability and Performance changes in v0.3.33]]'
 - "[[Changes/Open WebUI/2024-10-26-tool-parameters-issue-fixed-an-error-where-tools-were-not-functioning-correctly|\U0001F6E0️
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

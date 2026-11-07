@@ -5,19 +5,20 @@ description: 'Google Antigravity · 2026-09-15 · Developer Workflow: Enterprise
   Business accounts can now use the integrated terminal and Git version control in
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1277
+  lag_days: 2926
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 97f15a9e5577c776bd2bef56a8002c91c1d1f82fcfd8540ede7e7f57bee98326
+machine_hash: 811bcb1bc0404dd01fc989700f23d44f0eafdba69ed890bf2611a44783034389
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -48,10 +49,10 @@ record:
   title: New Permissions System & Terminal and Git version control for Enterprise
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-18-developer-workflow-changes-in-v2026-9-4|18 Developer
-  Workflow changes in v2026.9.4]]'
 - '[[Changes/OpenClaw/2026-09-11-you-can-now-answer-your-claw-s-questions-and-enter-secrets-from-the-terminal-wit|Answer
   your Claw’s questions and enter secrets from the terminal, with clearer…]]'
+- '[[Changes/Qoder/2026-09-12-file-review-reduced-cpu-usage-when-multiple-code-diffs-are-expanded-alongside-an|File
+  review: Reduced CPU usage when multiple code diffs are expanded alongside…]]'
 - '[[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer
   Workflow changes in v2.1.273]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-15-rel-hub-2-14-0-a79096fb|google-antigravity-2026-09-15-rel-hub-2-14-0-a79096fb]]'
@@ -89,13 +90,13 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer Workflow changes in v2.1.273]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-6-developer-workflow-changes-in-v1-0-85|6 Developer Workflow changes in v1.0.85]]
+- Later: 2026-09-15 · Kimi Code · [[Changes/Kimi Code/2026-09-15-add-native-clipboard-support-on-linux-x11-so-copying-from-the-tui-no-longer-depe|Add native clipboard support on Linux X11, so copying from the TUI no longer depends…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

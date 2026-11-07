@@ -4,20 +4,20 @@ date: '2023-03-18'
 description: 'Cursor · 2023-03-18 · Interface Experience: 2 changes in v0.1.2-0.1.3
   (2023-03-18) — Up and down arrow in prompt bar have been mapped to less annoying…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 68
+  lag_days: 1434
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be68b8f2a3e2f14056a3c8537e1b3bdc2d20d77bbfad460cfa2112bbde478b59
+machine_hash: 2b51271d9fa1cb00cb5aa6e787279ba1fb376810314a1eb1a8fa317f63b8d31a
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,11 @@ record:
   title: 2 Interface Experience changes in 0.1.2
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-  generating: Based on your feedback, we''ve added the ability to stop generating…]]'
 - '[[Changes/ChatGPT/2023-02-09-as-we-recently-announced-our-plus-plan-comes-with-early-access-to-new-experiment-0e68f2|As
   we recently announced, our Plus plan comes with early access to new, experimental…]]'
+- '[[Changes/Notion/2023-02-09-page-analytics|Page Analytics]]'
+- '[[Changes/Notion/2023-02-09-2-interface-experience-changes-in-notion-2-20-now-with-page|2
+  Interface Experience changes in Notion 2.20, now with page…]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875|cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -79,14 +80,14 @@ Source: https://cursor.com/changelog/0-1-2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-02-09 · ChatGPT · [[Changes/ChatGPT/2023-02-09-as-we-recently-announced-our-plus-plan-comes-with-early-access-to-new-experiment-0e68f2|As we recently announced, our Plus plan comes with early access to new, experimental…]]
+- Earlier: 2023-02-09 · Notion · [[Changes/Notion/2023-02-09-2-interface-experience-changes-in-notion-2-20-now-with-page|2 Interface Experience changes in Notion 2.20, now with page…]]
 - Later: 2023-03-23 · Cursor · [[Changes/Cursor/2023-03-23-3-interface-experience-changes-in-0-1-5|3 Interface Experience changes in 0.1.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: 'Dify · 2026-08-25 · Developer Workflow: 4 changes in v1.17.0 —
   backfill command is required for these migrations. Run `flask db upgrade` as part
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1256
+  lag_days: 2905
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c335daf8702e6e567a610a97db49c25968d92c7b3c50a1670d947c0fb557b33
+machine_hash: 253f506b7d68ce798379655bbded4cb394a7ca75065f5a52e7e794d445daebb1
 product: dify
 product_name: Dify
 record:
@@ -117,7 +118,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

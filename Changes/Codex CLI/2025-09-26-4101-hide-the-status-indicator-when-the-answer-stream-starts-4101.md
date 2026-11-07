@@ -4,20 +4,20 @@ date: '2025-09-26'
 description: 'Codex CLI · 2025-09-26 · Interface Experience: [#4101] hide the status
   indicator when the answer stream starts (#4101)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 991
+  lag_days: 2357
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 010f3835a17d969cfdcb60a653098ff66b5e3dfde47bff38a0fdb3bb95fe9214
+machine_hash: 5700ad21d7627cb9413223771b4041db9b35d704357750961e42dca088b62a56
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '[#4101] hide the status indicator when the answer stream starts (#4101)'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-22-feat-add-circular-scrolling-to-gotoanything-command-menu-by-lyzno1-in-https-gith|feat:
-  add circular scrolling to GotoAnything command menu]]'
+- '[[Changes/Descript/2025-09-24-these-new-controls-allow-you-to-optimize-for-your-internet-connection-by-selecti|These
+  new controls allow you to optimize for your internet connection by selecting…]]'
 - '[[Changes/Cline/2025-09-25-2-interface-experience-changes-in-v3-31-0|2 Interface
   Experience changes in v3.31.0]]'
 - '[[Changes/Open WebUI/2025-09-25-4-interface-experience-changes-in-v0-6-31|4 Interface
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-02-26'
 description: 'Gamma · 2025-02-26 · Files and Data: Sharing your ideas just got easier.
   You can now post directly to LinkedIn from Gamma—no need to export to PDF first!…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 643
+  lag_days: 1988
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 03918bbb4df884b0246e6a81228c5cbc869f20a0827aaae0240da9ed823b8096
+machine_hash: 7eacf7d7fd17e3b70e3c9b3c3aeb965cfb291aa5a87b26da1221e7505776d3c4
 product: gamma
 product_name: Gamma
 record:
@@ -56,12 +56,11 @@ record:
   title: "Post directly to LinkedIn \U0001F680"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-05-code-interpreter-models-can-now-execute-code-in-real-time-to-refine-their-answer|\U0001F5A5️
-  Code Interpreter]]"
-- '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas
-  sharing]]'
+- '[[Changes/Descript/2025-02-11-scene-toolbar|Scene toolbar]]'
 - "[[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|\U0001F40D
   Jupyter Notebook Support in Code Interpreter]]"
+- '[[Changes/Descript/2025-02-25-canvas-becomes-scene-editor|Canvas becomes Scene
+  Editor]]'
 source_release: '[[Releases/Gamma/gamma-2025-02-26-67b7ad7b8ae64eb7517299cc-0bb3e4de|gamma-2025-02-26-67b7ad7b8ae64eb7517299cc-0bb3e4de]]'
 source_type: gamma_changelog
 theme: file-data
@@ -88,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|🐍 Jupyter Notebook Support in Code Interpreter]]
+- Earlier: 2025-02-25 · Descript · [[Changes/Descript/2025-02-25-canvas-becomes-scene-editor|Canvas becomes Scene Editor]]
 - Later: 2025-02-27 · Ollama · [[Changes/Ollama/2025-02-27-granite-3-2-vision-https-ollama-com-library-granite3-2-vision-a-compact-and-effi|Granite-3.2-Vision((source link) A compact…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

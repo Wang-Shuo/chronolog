@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b4f5fbc57079010964dbec4af8559d129e003ff1aca1319ddea4f04912143922
+machine_hash: 8c798e4eb7b5a536ed433616c82c558fe62927fdc6d655a07c2aa6fb2519e1a8
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-29 · Cline · [[Changes/Cline/2026-06-29-4-model-support-changes-in-v4-0-2|4 Model Support changes in v4.0.2]]
-- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-25-model-support-changes-in-v0-10-0|25 Model Support changes in v0.10.0]]
+- Later: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-route-kimi-code-models-on-the-anthropic-compatible-protocol-through-the-beta-mes|Route Kimi Code models on the Anthropic-compatible protocol through the beta Messages API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

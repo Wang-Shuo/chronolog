@@ -4,19 +4,20 @@ date: '2023-03-27'
 description: 'Cursor · 2023-03-27 · Developer Workflow: Opens the terminal in your
   current folder'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 9
+  lag_days: 1658
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7270acbb156a7bed09c0e16ce37d719c501a71cd78520c4927911f4017c532c4
+machine_hash: 750a52e173dc8b44961c6cbebda24b147368423f5783f041b56a7973ac08dc6a
 product: cursor
 product_name: Cursor
 record:
@@ -39,6 +40,8 @@ record:
   title: Opens the terminal in your current folder
   type: change
 related_changes:
+- '[[Changes/Notion/2022-10-12-every-few-months-our-engineers-participate-in-a-week-long-bug-bash-to-keep-your|Every
+  few months, our engineers participate in a week-long “bug bash” to keep…]]'
 - '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
 - '[[Changes/Cursor/2023-03-23-terminal-no-longer-interferes-with-chat|Terminal no
   longer interferes with chat]]'
@@ -78,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

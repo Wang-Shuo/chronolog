@@ -4,19 +4,20 @@ date: '2026-09-10'
 description: 'Claude Code · 2026-09-10 · Developer Workflow: [Code Review] Added a
   note under the still-open findings list in follow-up reviews: resolving a finding''s…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1272
+  lag_days: 2921
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1aafd261a3409a40a91823a1a3befc52e2abc02ecdc78bfaf709625f7c57bf3a
+machine_hash: c6c6fe2fcb6d083f994ae2de924e38fc45132da2c97bdb1850395e5a7aa11e0b
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

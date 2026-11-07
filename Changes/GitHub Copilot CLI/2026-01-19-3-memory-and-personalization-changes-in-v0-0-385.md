@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a3004e628fec31a8b1e661af847a73e1f3f507ca32320be5a67a1c9e10b6a1a
+machine_hash: 0e4c1885b50aff12cb02234f7d6c9a4524753b317e7791f4e7aeb4adf4c4eb64
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.385
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-inject-repo-memories-in-the-prompt-and-add-memory-storage-tool-to-remember-facts|Inject repo memories in the prompt and add memory storage tool to remember facts…]]
-- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-9459-feat-personality-introduce-model-personality-config-dylan-hurd-oai|♯9459 feat(personality) introduce model_personality config @dylan-hurd-oai]]
+- Later: 2026-01-20 · Notion · [[Changes/Notion/2026-01-20-new-models-same-memory|New models, same memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

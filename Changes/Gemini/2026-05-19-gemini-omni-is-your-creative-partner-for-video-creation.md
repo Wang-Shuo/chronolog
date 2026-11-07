@@ -5,20 +5,20 @@ description: 'Gemini · 2026-05-19 · Multimodal Input: What: Gemini Omni helps 
   create and edit videos as easily as having a conversation. It’s like Nano Banana
   for…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 973
+  lag_days: 2741
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 20bdf6a00c4a2e009273bf2cdf538c91d59c3b2d523e3f2332df3afa999bafe7
+machine_hash: 0836d6a09d9331698fc6c7c1e652a000d014962e34aa959f3c9f8aca4356faa4
 product: gemini
 product_name: Gemini
 record:
@@ -60,12 +60,12 @@ record:
   title: Gemini Omni is your creative partner for video creation
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-13-llama3-2-vision-is-not-yet-supported|llama3.2-vision
-  is not yet supported]]'
-- '[[Changes/Runway/2026-05-13-work-with-an-ai-creative-partner-to-develop-and-produce-a-finished-video-describ|Runway
-  Agent]]'
 - '[[Changes/Ollama/2026-05-14-kimi-k2-6-with-vision-support|kimi-k2.6 (with vision
   support)]]'
+- '[[Changes/HeyGen/2026-05-18-the-thing-that-makes-a-video-feel-real-isn-t-just-the-camera-or-the-lighting-it|The
+  thing that makes a video feel real isn''t just the camera or the lighting]]'
+- '[[Changes/HeyGen/2026-05-18-look-at-the-camera-lean-in-stay-serious|"Look at the
+  camera, lean in, stay serious."]]'
 source_release: '[[Releases/Gemini/gemini-2026-05-19-2026-05-19-16a11edf|gemini-2026-05-19-2026-05-19-16a11edf]]'
 source_type: gemini_changelog
 theme: multimodal
@@ -102,14 +102,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-kimi-k2-6-with-vision-support|kimi-k2.6 (with vision support)]]
-- Later: 2026-05-21 · Runway · [[Changes/Runway/2026-05-21-get-the-video-you-need-from-the-video-you-already-have-edit-a-frame-the-way-you|Aleph 2.0 & Edit Studio]]
+- Earlier: 2026-05-18 · HeyGen · [[Changes/HeyGen/2026-05-18-look-at-the-camera-lean-in-stay-serious|"Look at the camera, lean in, stay serious."]]
+- Later: 2026-05-19 · HeyGen · [[Changes/HeyGen/2026-05-19-if-you-re-building-avatar-agents-localization-workflows-ai-video-tools-virtual-p|If you're building avatar agents, localization workflows, AI video tools, virtual…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

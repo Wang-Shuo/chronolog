@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'Cursor · 2026-09-23 · Safety and Privacy: 2 changes in Rollouts and
   Security Review — Security Review looks for injection across SQL, command, and template…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1256
+  lag_days: 2248
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86ea85b29bb9b37bce292df3ecf162b7713f2605e7ed81ad6f4fd671a2fb7841
+machine_hash: 70dceb4d3058dc29cc35f6d5b6b7f449177df091ee487490332c4005982a0ccc
 product: cursor
 product_name: Cursor
 record:
@@ -96,13 +96,13 @@ Source: https://cursor.com/changelog/rollouts-and-security-reviewer
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-12-safety-and-privacy-changes-in-v2-1-281|12 Safety and Privacy changes in v2.1.281]]
-- Later: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-redesigned-project-security-view|Redesigned project Security view]]
+- Later: 2026-09-23 · Kimi Code · [[Changes/Kimi Code/2026-09-23-harden-workspace-security-block-file-tools-from-accessing-files-outside-the-work|Harden workspace security]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

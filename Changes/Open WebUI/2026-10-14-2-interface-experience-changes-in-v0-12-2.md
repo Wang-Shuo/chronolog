@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-14 · Interface Experience: 2 changes in v0.
   — \U0001F9FE **Requested model in the audit log.** Audit log entries for chat and
   completion…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1374
+  lag_days: 2740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62d38447225aa00718cb877b752832a1289e2a9629abad32d6d6fda303efd1eb
+machine_hash: eb0d243c070dc00f3a641273a3b598c5ea9110c309f0e4b9eb5ab1803d43db59
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,8 +54,8 @@ record:
   title: 2 Interface Experience changes in v0.12.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-vscode-improved-startup-the-model-picker-and-slash-command-menu-now-fill-in-righ|VSCode
-  Improved startup]]'
+- '[[Changes/Kimi Code/2026-10-14-add-sticky-user-message-summaries-in-fullscreen-mode-when-a-user-message-scrolls|Add
+  sticky user message summaries in fullscreen mode]]'
 - '[[Changes/Lovable/2026-10-14-restore-a-deleted-project-yourself|Restore a deleted
   project yourself]]'
 - '[[Changes/Open WebUI/2026-10-14-7-interface-experience-changes-in-v0-12-1|7 Interface
@@ -107,7 +107,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

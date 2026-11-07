@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e66861be130f510e352452a4ba18bb9fa208523d6efab5010420b753d4d991a
+machine_hash: 11d694952ff429b423defb236611cac12b6de8b1fcf8ec3c8f5aad709287911a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,8 +54,8 @@ record:
   title: GPT-5.3 Instant Update
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model
-  Support changes in rust-v0.107.0]]'
+- '[[Changes/Descript/2026-03-02-claude-sonnet-4-6-and-google-gemini-3-1-pro-now-in-underlord|Claude
+  Sonnet 4.6 and Google Gemini 3.1 Pro now in Underlord]]'
 - '[[Changes/Ollama/2026-03-02-qwen3-5-https-ollama-com-library-qwen3-5-the-small-qwen-3-5-model-series-is-now|Qwen3.5((source
   link) the small Qwen 3.5 model series…]]'
 - "[[Changes/Open WebUI/2026-03-02-temporary-chat-params-preservation-model-parameters-are-now-correctly-saved-when|\U0001F4BE

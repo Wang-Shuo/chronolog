@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-11-03 · Multimodal Input: Generated images, musi
   video can wait behind a busy chat without reporting failure too early. Text and
   image…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1141
+  lag_days: 2909
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e3828395128feb3d6271e89e3d0d378d5d4b41951a0cf2b6b7d98f46d3476dc
+machine_hash: c1270827cedc8b82dade4d7bf2131e27b6223d5f8caabc4a4b619376cf534b58
 product: openclaw
 product_name: OpenClaw
 record:
@@ -57,8 +57,8 @@ record:
   title: Generated images, music and video can wait behind a busy chat without reporting…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video
-  to music: Studio''s video to music workflow uses Music v2.5 by default]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-multimodal-capture-in-copilot-notebooks-android-onenote|Multimodal
+  capture in Copilot Notebooks Android (OneNote)]]'
 - '[[Changes/OpenClaw/2026-10-27-oversized-macos-camera-clips-and-screen-recordings-now-return-an-error-instead-o|Oversized
   macOS camera clips and screen recordings now return an error instead…]]'
 - '[[Changes/ElevenLabs/2026-11-02-video-clip-background-removal-video-clips-have-a-remove-background-action-and-ri|Video
@@ -119,7 +119,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

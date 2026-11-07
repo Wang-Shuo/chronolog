@@ -4,20 +4,20 @@ date: '2023-10-20'
 description: 'Ollama · 2023-10-20 · Reliability and Performance: `ollama run` will
   now show more descriptive errors when encountering runtime issues (such as insufficient…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 309
+  lag_days: 1796
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee83c31b64424d6656fa6c7637c4ba55ceb7dd17a62f7f97ad48ff4c85357400
+machine_hash: f3e379d61c5bbcdfab202066ea06e154178c57b13928c63a10e885fc42ce8dd1
 product: ollama
 product_name: Ollama
 record:
@@ -45,12 +45,12 @@ record:
     issues…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources-c870a3|Indexing
-  should now be faster, more stable, and use less of your system resources]]'
 - '[[Changes/Ollama/2023-10-12-2-reliability-and-performance-changes-in-v0-1-2|2 Reliability
   and Performance changes in v0.1.2]]'
 - '[[Changes/Ollama/2023-10-13-improved-gpu-allocation-for-older-gpus-to-fix-out-of-memory-errors|Improved
   GPU allocation for older GPUs to fix "out of memory" errors]]'
+- '[[Changes/Descript/2023-10-17-a-major-advancement-in-speed-quality-of-ai-speech|A
+  major advancement in speed & quality of AI speech]]'
 source_release: '[[Releases/Ollama/ollama-2023-10-20-v0-1-4-github-125837077-2c3cf7e5|ollama-2023-10-20-v0-1-4-github-125837077-2c3cf7e5]]'
 source_type: github_releases
 theme: reliability-performance
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-10-13 · Ollama · [[Changes/Ollama/2023-10-13-improved-gpu-allocation-for-older-gpus-to-fix-out-of-memory-errors|Improved GPU allocation for older GPUs to fix "out of memory" errors]]
+- Earlier: 2023-10-17 · Descript · [[Changes/Descript/2023-10-17-a-major-advancement-in-speed-quality-of-ai-speech|A major advancement in speed & quality of AI speech]]
 - Later: 2023-10-27 · Ollama · [[Changes/Ollama/2023-10-27-2-reliability-and-performance-changes-in-v0-1-6|2 Reliability and Performance changes in v0.1.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

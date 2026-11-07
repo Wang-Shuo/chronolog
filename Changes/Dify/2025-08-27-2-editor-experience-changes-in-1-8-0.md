@@ -4,20 +4,19 @@ date: '2025-08-27'
 description: 'Dify · 2025-08-27 · Editor Experience: 2 changes in v1.8.0 - Async workflows
   meet multi-model management with OAuth-powered integrations. — **Import…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 897
+  lag_days: 2481
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a27ba94a95c8221280f5a8e6e2c2ab7e61835380df0f7a0ee7a99cf158335d2
+machine_hash: 63d3cb54e4af83dcb8a72c2dc07fc61eb8e5bcb5803e626c088ae493025b9e44
 product: dify
 product_name: Dify
 record:
@@ -100,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

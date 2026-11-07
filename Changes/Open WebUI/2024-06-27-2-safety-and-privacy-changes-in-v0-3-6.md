@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-06-27 · Safety and Privacy: 2 changes in v0.3.
   **\U0001F511 AUTOMATIC1111_API_AUTH Support**: Enhanced security for the AUTOMATIC1111
   API."
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 438
+  lag_days: 1430
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b36224be289240589723797d60678621eb91841329eae8d549f4d43952984e98
+machine_hash: 4981eb22a77d83e50a02b11bd1944ba0cb1a37957c5ac74e98a0c6c100828ecc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

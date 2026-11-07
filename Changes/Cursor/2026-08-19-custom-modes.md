@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cdb1b1a8d900963481da0e6d9d9f72b559fd0e11d0c165053df96186a124abd4
+machine_hash: 48647a7f326af417c7b0662a0ae51feaf87b76587bebd68b0952c789c125f66e
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: Custom modes
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-17-docs-agents-add-a-repository-map-clarifying-what-belongs-where-by-smolpaws-in-ht|docs(agents):
-  add a repository map clarifying what belongs where]]'
 - '[[Changes/Codex CLI/2026-08-18-12-agent-mode-changes-in-rust-v0-148-0|12 Agent
   Mode changes in rust-v0.148.0]]'
+- '[[Changes/Kimi Code/2026-08-18-2-agent-mode-changes-in-kimi-code-0-37-0|2 Agent
+  Mode changes in Kimi Code 0.37.0]]'
 - '[[Changes/Claude Code/2026-08-19-4-agent-mode-changes-in-v2-1-236|4 Agent Mode
   changes in v2.1.236]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1]]'

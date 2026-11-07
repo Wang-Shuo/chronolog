@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-09-09 · Search and Browsing: Experimental workt
   support lets you create isolated checkouts for new or forked sessions using `--worktree`
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1266
+  lag_days: 2295
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b7342fc64088693eef9808560c25765a08aba592f99150bf1d2def2f2a0d805d
+machine_hash: a85446a775dc5b297fad4a7eb4418dff7d1189d9888175ce0a7ddecb9009c714
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,8 +58,8 @@ record:
     or forked…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-2-search-and-browsing-changes-in-v2026-9-1|2 Search
-  and Browsing changes in v2026.9.1]]'
+- '[[Changes/HeyGen/2026-09-04-build-your-own-custom-look-pack|Build your own custom
+  Look Pack]]'
 - '[[Changes/OpenClaw/2026-09-05-4-search-and-browsing-changes-in-v2026-9-2|4 Search
   and Browsing changes in v2026.9.2]]'
 - '[[Changes/OpenClaw/2026-09-08-3-search-and-browsing-changes-in-v2026-9-3|3 Search
@@ -115,7 +115,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

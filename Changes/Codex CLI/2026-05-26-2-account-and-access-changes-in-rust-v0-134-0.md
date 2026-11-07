@@ -4,20 +4,21 @@ date: '2026-05-26'
 description: 'Codex CLI · 2026-05-26 · Account and Access: 2 changes in 0.134.0 —
   Improved MCP setup with per-server environment targeting and OAuth options for streamable…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1153
+  lag_days: 2128
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ffff0af9baa30c728999b1566ba07bae0bc95502fff1c2c67f5548bbef4942c8
+machine_hash: 32816f89278b9c0355a872c8b845f270721c066f71d68cb6bab44e16533760cf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,13 +89,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.134.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-2-account-and-access-changes-in-v1-0-52|2 Account and Access changes in v1.0.52]]
-- Later: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-core-digitalocean-inference-now-uses-your-oauth-token-directly-instead-of-creati|Core DigitalOcean inference now uses your OAuth token directly instead of creating a MAK]]
+- Later: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-4-account-and-access-changes-in-kimi-code-0-2-0|4 Account and Access changes in Kimi Code 0.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

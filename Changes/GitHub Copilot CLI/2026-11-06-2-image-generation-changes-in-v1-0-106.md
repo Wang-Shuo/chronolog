@@ -4,20 +4,20 @@ date: '2026-11-06'
 description: 'GitHub Copilot CLI · 2026-11-06 · Image Generation: 2 changes in 1.0.106
   — Generated images now save correctly on filesystems without hard-link support'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 971
+  lag_days: 1229
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ffd3730eddc80961fa43be6c638fd646c1667eb1c6a6ea5ae4a38469bfbe2a8c
+machine_hash: 8963a9fff57fc8f77de0c43bf8621acaa23914c6dd604d1eb08263d1311777aa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

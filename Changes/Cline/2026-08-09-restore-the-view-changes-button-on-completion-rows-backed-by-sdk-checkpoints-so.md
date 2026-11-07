@@ -4,20 +4,19 @@ date: '2026-08-09'
 description: 'Cline · 2026-08-09 · Editor Experience: Restore the "View Changes" button
   on completion rows, backed by SDK checkpoints, so you can review everything a task…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1244
+  lag_days: 2828
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 311836eddfa7c58a0e8d55c808d70faccf3fd385488030e162744e8d17bd58e5
+machine_hash: dcddd731e0866c3bc5f725278ac4b51245139d4ca61ca9e3a949212d8be9c711
 product: cline
 product_name: Cline
 record:
@@ -43,10 +42,9 @@ record:
   title: Restore the "View Changes" button on completion rows, backed by SDK checkpoints…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps):
-  bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]'
 - '[[Changes/Google Antigravity/2026-08-07-2-editor-experience-changes-in-hub-v2-6-0-faster-long-conversations|2
   Editor Experience changes in HUB v2.6.0 — Faster long conversations…]]'
+- '[[Changes/HeyGen/2026-08-07-proofread-version-clarity|Proofread version clarity]]'
 - '[[Changes/Runway/2026-08-07-leave-feedback-directly-on-an-image-or-video-with-the-new-comments-tab-pin-comme|Comments
   on Assets]]'
 source_release: '[[Releases/Cline/cline-2026-08-09-v4-1-7-github-367373350-886ff444|cline-2026-08-09-v4-1-7-github-367373350-886ff444]]'
@@ -91,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

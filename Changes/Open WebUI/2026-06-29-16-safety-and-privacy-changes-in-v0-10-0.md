@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-06-29 · Safety and Privacy: 16 changes in v0.1
   — \U0001F91D **Share folders with your team.** You can now share a folder and the
   chats inside it…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1170
+  lag_days: 2162
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb798b88f36fed4ba59a83fcc089372e8b470575c1754dd01b395bf9089dda36
+machine_hash: 973181843973b1e5c96ff34c2ef24d578d2e1dac2c2abd93446e6148dee3103c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -119,8 +119,8 @@ record:
   title: 16 Safety and Privacy changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed
-  external plugins enabled only by project .claude/settings.json not requiring…]]'
+- '[[Changes/Kimi Code/2026-06-26-add-a-host-cli-option-so-kimi-web-host-can-expose-the-server-to-the-internet-wit|Add
+  a --host CLI option so kimi web --host can expose the server…]]'
 - '[[Changes/Claude Code/2026-06-29-security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a|Security:
   claude mcp list/get no longer spawn .mcp.json servers that a repo…]]'
 - '[[Changes/Lovable/2026-06-29-set-a-default-data-hosting-region-for-new-projects|Set
@@ -212,7 +212,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

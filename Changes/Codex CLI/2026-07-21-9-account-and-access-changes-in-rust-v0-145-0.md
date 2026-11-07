@@ -5,20 +5,21 @@ description: 'Codex CLI · 2026-07-21 · Account and Access: 9 changes in 0.145.
   Prevented slow or conflicting MCP startup and authentication flows by enforcing
   startup…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1209
+  lag_days: 2184
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aad41126fd98fbd96a101f569c3d1f1ddc71f7c357a2c756367db1a2c0c77b44
+machine_hash: cd4206a148dd7d71818210b78085f990dc2e34a3bcb8e6188351b3c625713d5a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,10 +60,10 @@ record:
   title: 9 Account and Access changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-8-account-and-access-changes-in-1-16-0|8 Account and
-  Access changes in 1.16.0]]'
 - '[[Changes/Replit/2026-07-17-agent-suggests-connectors-when-several-fit|Agent suggests
   connectors when several fit]]'
+- '[[Changes/Kimi Code/2026-07-20-allow-acp-sessions-to-start-with-configured-non-oauth-model-credentials-instead|Allow
+  ACP sessions to start with configured non-OAuth model credentials instead…]]'
 - '[[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed
   the login-expiry warning to appear 3 days before expiry instead of 5]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
@@ -135,7 +136,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

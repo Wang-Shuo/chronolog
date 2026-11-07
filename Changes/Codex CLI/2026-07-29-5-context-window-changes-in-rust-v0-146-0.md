@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-07-29 · Context Window: 5 changes in 0.146.0 �
   more available skills under tight context budgets and warn when skill catalogs must
   be…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1182
+  lag_days: 2506
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b9eeb7f6937413f3a47a2498837bec77297810a3ce5c14102d1ff2daf5882d7
+machine_hash: 6462a49b47d75d51c2984320a1b247f5497b55f27735c030743abaf421512c77
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -110,13 +110,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 ## Nearby in Context Window
 
 - Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-refactor-agents-simplify-repository-context-by-lyzno1-in-https-github-com-langge|refactor(agents): simplify repository context]]
-- Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-restore-the-early-warning-when-unreclaimable-system-and-tool-context-nears-the-l|Restore the early warning when unreclaimable system and tool context nears…]]
+- Later: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-lists-in-context-iq-web-microsoft-365-copilot-chat|Lists in Context IQ Web (Microsoft 365 Copilot Chat)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

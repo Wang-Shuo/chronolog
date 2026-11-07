@@ -4,20 +4,20 @@ date: '2026-08-17'
 description: 'OpenHands · 2026-08-17 · Files and Data: 2 changes in v1.14.0 — feat(canvas):
   present structured error outcomes by @neubig in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1180
+  lag_days: 2525
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00a6251ff2732806269e76735ad020c6ef833b920059cc537e0f54fea619b2d2
+machine_hash: b123dbc940493a878be718b2492215e958dd14f5ae4a8205c64475589bdd428c
 product: openhands
 product_name: OpenHands
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.14.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -3,20 +3,19 @@ card_id: lovable-2025-02-12-c8d53d
 date: '2025-02-12'
 description: 'Lovable · 2025-02-12 · Editor Experience: [Introducing Visual Edits.](https://lovable.dev/blog/introducing-visual-edits)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 701
+  lag_days: 2285
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 98c87ab5c633c3388b2e8be0e97277c49dd86b99cec4b613a4b4933d78b6d1f8
+machine_hash: 6205a0b86f9557f25c763d6e97bd1f1572621f3869938c9c7a9779331d433874
 product: lovable
 product_name: Lovable
 record:
@@ -41,9 +40,9 @@ record:
   title: '[Introducing Visual Edits.](https://lovable.dev/blog/introducing-visual-edits)'
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-31-de-cluttered-diffs|De-cluttered diffs]]'
 - '[[Changes/Dify/2025-02-07-feat-prompt-editor-dark-theme-by-zxhlyh-in-https-github-com-langgenius-dify-pull|Feat/prompt
   editor dark theme]]'
+- '[[Changes/Descript/2025-02-11-editor-updates|Editor updates]]'
 - '[[Changes/Lovable/2025-02-12-visual-edits|Visual Edits]]'
 source_release: '[[Releases/Lovable/lovable-2025-02-12-2025-02-12-1a430007|lovable-2025-02-12-2025-02-12-1a430007]]'
 source_type: lovable_changelog
@@ -76,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-02-07 · Dify · [[Changes/Dify/2025-02-07-feat-prompt-editor-dark-theme-by-zxhlyh-in-https-github-com-langgenius-dify-pull|Feat/prompt editor dark theme]]
+- Earlier: 2025-02-11 · Descript · [[Changes/Descript/2025-02-11-editor-updates|Editor updates]]
 - Later: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-add-success-failure-indicators-for-file-read-edit-operations-by-neubig-in-https|Add success/failure indicators for file read/edit operations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

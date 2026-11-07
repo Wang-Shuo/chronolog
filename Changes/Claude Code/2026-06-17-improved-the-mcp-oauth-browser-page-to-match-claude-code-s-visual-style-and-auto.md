@@ -4,20 +4,21 @@ date: '2026-06-17'
 description: 'Claude Code · 2026-06-17 · Account and Access: Improved the MCP OAuth
   browser page to match Claude Code''s visual style and auto-close on success'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2150
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1e1915517cd74f6c0c7d2bf8226cdd29c6297a285298eabf056730724b0ba9d
+machine_hash: 768ba255ff92b36625450ccf10a0ae72bad25e5af0135ca3d16793fc14e8ec7a
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,13 +94,13 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-2-account-and-access-changes-in-v1-0-63|2 Account and Access changes in v1.0.63]]
-- Later: 2026-06-17 · Lovable · [[Changes/Lovable/2026-06-17-choose-your-interface-language|Choose your interface language]]
+- Later: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-prevent-the-web-login-dialog-from-closing-when-clicking-the-backdrop|Prevent the web login dialog from closing when clicking the backdrop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

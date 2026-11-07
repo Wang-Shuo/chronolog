@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-09-25 · Files and Data: Added retries for trans
   file-upload failures and increased the upload timeout to five minutes. (#47122,
   #47393)'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 2564
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e346ca940c24762f8ea0efe5d63f7d18d8e8e2b98cd24b9838e3463cad6deefb
+machine_hash: 2748148adb1b91d31fa520ebdd822a8b5aced514eb602410f83c247e60b57bf4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,13 +92,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved prompt-audit on Claude Code configuration]]
-- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-3-files-and-data-changes-in-v2026-9-7|3 Files and Data changes in v2026.9.7]]
+- Later: 2026-09-29 · Synthesia · [[Changes/Synthesia/2026-09-29-bring-webp-files-straight-into-the-editor-use-still-or-animated-webp-on-the-canv|Upload WebP images to your videos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

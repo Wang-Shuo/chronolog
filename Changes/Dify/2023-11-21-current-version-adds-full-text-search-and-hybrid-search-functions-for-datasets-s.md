@@ -4,20 +4,20 @@ date: '2023-11-21'
 description: 'Dify · 2023-11-21 · Search and Browsing: Current version adds `full-text
   search` and `hybrid search` functions for datasets, significantly improving search…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 243
+  lag_days: 1272
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ca010d021670fc441fcbf95a43f0b9f865f2de6fea53001772134e553436439
+machine_hash: 51ed1a31d0889d33ca165fb7ea07470ecb021682a81c9b6455b7e9362c358fed
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
     datasets…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search
-  History Improvements]]'
-- '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|Browsing
-  is temporarily disabled]]'
+- '[[Changes/Descript/2023-08-22-search-we-ve-updated-the-design-for-search-https-help-descript-com-hc-en-us-arti|Search:
+  We’ve updated the design…]]'
+- '[[Changes/Descript/2023-08-22-templates-in-addition-to-making-it-easier-to-apply-https-help-descript-com-hc-en|Templates:
+  In addition to making it easier…]]'
 - '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing
   is rolling out to all Plus users]]'
 source_release: '[[Releases/Dify/dify-2023-11-21-0-3-31-github-130614518-7f099d89|dify-2023-11-21-0-3-31-github-130614518-7f099d89]]'
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2023-09-27 · ChatGPT · [[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing is rolling out to all Plus users]]
-- Later: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using @Web in chat will give the AI the ability to crawl the web!]]
+- Later: 2023-12-19 · Descript · [[Changes/Descript/2023-12-19-since-we-overhauled-our-ai-speaker-https-help-descript-com-hc-en-us-articles-173|New AI Stock Speakers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

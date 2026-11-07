@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-04-23 · Reliability and Performance: 2 changes
   Release v0.39.0 — feat(test-utils): add memory usage integration test harness by
   @sripasg…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1225
+  lag_days: 2712
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 294ab444972154ad9de9b3c55c05323dce629a0cf838b0d9c63cefeb126968ef
+machine_hash: d510b5c924b6e926bbf78149c1c87e49e809324e78b364f694c6cb5489a470f5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.39.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

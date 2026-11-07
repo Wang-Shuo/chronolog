@@ -4,20 +4,20 @@ date: '2026-07-27'
 description: "Open WebUI · 2026-07-27 · Image Generation: \U0001F58C️ **Shared image
   checkpoint changes.** Only administrators can now change the instance-wide Automatic1111…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 869
+  lag_days: 1127
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0999e5c270fa7f8e26defa18f5908439ba80e47b39c6d64f91a6b5baadc6347a
+machine_hash: 62b10729b2d4021a2632dfcba220435e935bfb6b5110fcfdcb68a229572fea5e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -118,7 +118,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

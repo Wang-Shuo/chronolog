@@ -4,20 +4,20 @@ date: '2026-09-25'
 description: 'Claude Code · 2026-09-25 · Context Window: 2 changes in v2.1.283 — Improved
   the compaction spinner: its timer now starts when compaction begins and it counts…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1240
+  lag_days: 2564
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c92bbf0094ea725452ca2c4c6327a2f4d0cb7ce774286d0e73bb7483af5e204
+machine_hash: 84d782be3703edcca27b49d37a3953b7198da9ce018ad90267d23abdbda3652a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Context Window changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context
-  Window changes in rust-v0.156.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-new-copilot-notebooks-design-in-the-microsoft-365-copilot-app-web-microsoft-365|New
+  Copilot Notebooks design in the Microsoft 365 Copilot App…]]'
 - '[[Changes/OpenClaw/2026-09-23-25-context-window-changes-in-v2026-9-6|25 Context
   Window changes in v2026.9.6]]'
 - '[[Changes/Cline/2026-09-24-long-replies-on-local-models-llama-cpp-ollama-lm-studio-that-hit-the-output-toke|Long
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

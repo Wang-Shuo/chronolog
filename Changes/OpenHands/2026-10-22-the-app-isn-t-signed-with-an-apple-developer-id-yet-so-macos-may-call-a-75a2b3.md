@@ -4,20 +4,20 @@ date: '2026-10-22'
 description: 'OpenHands · 2026-10-22 · Mobile and Desktop: The app isn''t signed with
   an Apple Developer ID yet, so macOS may call a'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1318
+  lag_days: 2902
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56dac9fc1d3b1edc089ed622f3ddd25e72414fb157f8a6f3ccc83878610902c4
+machine_hash: 9a8d0529988fdbc5ca16fb1eedee93f90ab495177c2f5bc5fbdda172ee1b8dcc
 product: openhands
 product_name: OpenHands
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-431833|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-8-mobile-and-desktop-changes-in-rust-v0-164-0|8 Mobile and Desktop changes in rust-v0.164.0]]
+- Later: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-linux-desktop-support-added-a-linux-arm64-desktop-version-and-improved-compatibi|Linux desktop support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-05-09'
 description: 'Aider · 2025-05-09 · Context Window: 2 changes in Aider v0.83.0 — Added
   tracking of total tokens sent and received, now included in benchmark statistics.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 736
+  lag_days: 2060
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 700214034d8279c7d3e9cc600b83c30d8cd32163e6d345397112db281be8415c
+machine_hash: 01142e038ba3c053c7eb4b6f077be3eb11dd7d5d1e3e3b6888ed03ac37d5438e
 product: aider
 product_name: Aider
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.83.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

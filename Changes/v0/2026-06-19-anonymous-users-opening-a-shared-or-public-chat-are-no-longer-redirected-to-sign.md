@@ -4,20 +4,21 @@ date: '2026-06-19'
 description: 'v0 · 2026-06-19 · Account and Access: Anonymous users opening a shared
   or public chat are no longer redirected to sign in before the preview loads.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1177
+  lag_days: 2152
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b40856f7bcb706502fb5ba773b7d6ad885a136de9fd45dba939e52b1f7b81891
+machine_hash: c05db29c28d8799c8082338e58dcda97b31abca53ac80e16f40435db09c3f22b
 product: v0
 product_name: v0
 record:
@@ -44,12 +45,12 @@ record:
     to sign…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-17-choose-your-interface-language|Choose your interface
-  language]]'
 - '[[Changes/OpenCode/2026-06-17-2-account-and-access-changes-in-v1-17-8|2 Account
   and Access changes in v1.17.8]]'
 - '[[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257
   Support staging OAuth client ID overrides @apanasenko-oai]]'
+- '[[Changes/Kimi Code/2026-06-18-redesign-the-web-oauth-login-dialog-so-the-order-of-steps-is-unambiguous|Redesign
+  the web OAuth login dialog so the order of steps is unambiguous]]'
 source_release: '[[Releases/v0/v0-2026-06-19-2026-06-19-ff036602|v0-2026-06-19-2026-06-19-ff036602]]'
 source_type: v0_changelog
 theme: account-access
@@ -86,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257 Support staging OAuth client ID overrides @apanasenko-oai]]
+- Earlier: 2026-06-18 · Kimi Code · [[Changes/Kimi Code/2026-06-18-redesign-the-web-oauth-login-dialog-so-the-order-of-steps-is-unambiguous|Redesign the web OAuth login dialog so the order of steps is unambiguous]]
 - Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account and Access changes in v2.1.186]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

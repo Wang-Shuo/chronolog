@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-09-02 · Safety and Privacy: Permission
   again describe the specific action being requested instead of showing a generic
   title.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1235
+  lag_days: 2227
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2de99a9a6adec639e186cdc99489645f30f5ea213ac2aaecfb9c2bb35a176178
+machine_hash: 8912190e1d0fb3ca6b460a7084d63ae778a6e117d77ca1c8968a1572e691459f
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-4-safety-and-privacy-changes-in-v2-1-259|4 Safety and Privacy changes in v2.1.259]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-7-safety-and-privacy-changes-in-v2-1-260|7 Safety and Privacy changes in v2.1.260]]
+- Later: 2026-09-02 · Kimi Code · [[Changes/Kimi Code/2026-09-02-2-safety-and-privacy-changes-in-kimi-code-0-40-0|2 Safety and Privacy changes in Kimi Code 0.40.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

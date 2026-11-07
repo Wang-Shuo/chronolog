@@ -4,20 +4,20 @@ date: '2024-06-04'
 description: 'OpenHands · 2024-06-04 · Safety and Privacy: 2 changes in 0.6.1 — Restricted
   persistent sandbox to opendevin user only by @SmartManoj in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 415
+  lag_days: 1407
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b06368687f6a5aef5c46da5d63b81543812f47c0ed039fdda7cb46e81d83481a
+machine_hash: 227d61f379eb17220feb480565b99fc07a776e590d3c128632b4ecbf7fc13ca9
 product: openhands
 product_name: OpenHands
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.6.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

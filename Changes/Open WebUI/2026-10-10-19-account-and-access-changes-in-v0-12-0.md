@@ -5,20 +5,21 @@ description: "Open WebUI · 2026-10-10 · Account and Access: 19 changes in v0.1
   — \U0001F50F **Two-factor sign-in.** Administrators can require an authenticator
   app for every user…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1290
+  lag_days: 2265
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0097f4fd2d370844d8eb212caa72cd34f7c4deec463d4f61783c17e914e1aec7
+machine_hash: cad7998b8c0d9d31722df7ea072fd4b4641253ea468d151752abf509ecff29e8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -255,7 +256,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

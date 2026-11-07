@@ -4,20 +4,20 @@ date: '2026-08-26'
 description: 'Codex CLI · 2026-08-26 · Automation and Scheduling: #40436 Add a managed
   gate for in-app local automation @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 967
+  lag_days: 2534
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 447ee2702c16aba5b08269cdd3913c031eb20cd36b7c2eced1c6d09ae24a3dbf
+machine_hash: 49db2ce046dd334129fef6c0997eddd2143db5561f8da170c03b843d89c114f6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#40436 Add a managed gate for in-app local automation @copyberry'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Scheduled
-  tasks for Free users]]'
-- '[[Changes/Dify/2026-08-25-feat-workflow-support-human-input-in-loop-and-iteration-by-laipz8200-in-https-gi|feat(workflow):
-  support human input in loop and iteration]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-scheduling-with-copilot-chat-in-classic-outlook-for-windows-windows-outlook|Scheduling
+  with Copilot chat in classic Outlook for Windows Windows (Outlook)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-use-python-when-editing-with-copilot-in-excel-windows-mac-web-excel|Use
+  Python when Editing with Copilot in Excel Windows, Mac, Web (Excel)]]'
 - '[[Changes/Open WebUI/2026-08-25-11-automation-and-scheduling-changes-in-v0-11-1|11
   Automation and Scheduling changes in v0.11.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

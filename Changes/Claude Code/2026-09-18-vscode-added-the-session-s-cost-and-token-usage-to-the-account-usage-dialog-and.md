@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-18 · Pricing Model: [VSCode] Added the ses
   cost and token usage to the Account & usage dialog and the session manager where
   plan…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1373
+  lag_days: 2991
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: df745c3c7d4dd58cbf52681a320e2cb340831246948ee7a42d3699bb6f4a13e9
+machine_hash: 88c287853cb3697a335a71ddcc4a96ebf5ed04bf72c90ac592fa5bba8c73c672
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
     dialog…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-16-test-strengthen-llm-subscription-normalization-by-aivong-openhands-in-https-gith|test:
-  strengthen LLM subscription normalization]]'
 - '[[Changes/Claude Code/2026-09-17-claude-code-on-the-web-changed-a-routine-s-on-hold-notice-when-your-subscription|Claude
   Code on the web Changed a routine''s on-hold notice]]'
 - '[[Changes/Cline/2026-09-17-cline-pass-now-defaults-to-a-model-from-your-subscription-rather-than-a-free-one|Cline
   Pass now defaults to a model from your subscription rather than a free one]]'
+- '[[Changes/Descript/2026-09-17-checkout-speaks-your-currency|Checkout speaks your
+  currency]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: pricing-model
@@ -92,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-cline-pass-now-defaults-to-a-model-from-your-subscription-rather-than-a-free-one|Cline Pass now defaults to a model from your subscription rather than a free one]]
+- Earlier: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-checkout-speaks-your-currency|Checkout speaks your currency]]
 - Later: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-use-firecrawl-without-a-firecrawl-account|Use Firecrawl without a Firecrawl account]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

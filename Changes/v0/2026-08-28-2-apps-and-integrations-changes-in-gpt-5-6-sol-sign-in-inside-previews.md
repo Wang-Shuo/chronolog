@@ -4,20 +4,20 @@ date: '2026-08-28'
 description: 'v0 · 2026-08-28 · Apps and Integrations: 2 changes in GPT-5.6 Sol, sign-in
   inside previews, and zero-config AI Gateway for generated apps — Figma integrations…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1254
+  lag_days: 2814
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ffe0bef9e0fe8267cfae118c0dd13129ba4c6e4f02599e1e3d263eb1200fdc3
+machine_hash: 83509aecc03a739d39dd4ed06342dcd48de3da60fe4b6e7156a13d95126d5db6
 product: v0
 product_name: v0
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Apps and Integrations changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-28-connect-your-app-to-firebase-cloud-messaging|Connect
-  your app to Firebase Cloud Messaging]]'
+- '[[Changes/Qoder/2026-08-28-added-enterprise-policy-controls-for-extensions-and-mcp-servers|Added
+  enterprise policy controls for extensions and MCP servers]]'
 - '[[Changes/Replit/2026-08-28-customize-connectors|Customize connectors]]'
 - '[[Changes/Replit/2026-08-28-integrations|Integrations]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'
@@ -98,7 +98,7 @@ Source: https://v0.app/changelog#2026-08-28
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

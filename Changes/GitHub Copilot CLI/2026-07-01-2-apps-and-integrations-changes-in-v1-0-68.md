@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-07-01 · Apps and Integrations: 2 chang
   1.0.68 — The focused field in the /mcp config form is marked with a "❯ " chevron,
   not…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1196
+  lag_days: 2756
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb246e8f770df15a927b0186143562514f78fed76b6c5a8d442044ce0682cbc1
+machine_hash: 6455cdafdb79f07a10020ebb33b6ef6d0f7d94a8aafe326cbc3e66cb6d7cb6ca
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,13 +91,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added /dataviz skill for chart and dashboard design guidance with a runnable…]]
-- Later: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]
+- Later: 2026-07-01 · Kimi Code · [[Changes/Kimi Code/2026-07-01-plugins-can-now-provide-slash-commands-via-a-commands-field-in-their-manifest-re|Plugins can now provide slash commands via a commands field in their manifest…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

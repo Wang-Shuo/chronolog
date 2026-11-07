@@ -4,20 +4,21 @@ date: '2026-04-02'
 description: 'GitHub Copilot CLI · 2026-04-02 · Account and Access: 2 changes in 1.0.16
   — MCP server reconnects correctly with valid authentication when the working…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1099
+  lag_days: 2074
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 23f4088326728a880519514555b87e33c48aea460a0dda9d2cc65d7be282c103
+machine_hash: 952e959b45bbbe5ef0a3c55ce6793da0b7ece75f1ec45a1876f8e49ebb825bb8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.16
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

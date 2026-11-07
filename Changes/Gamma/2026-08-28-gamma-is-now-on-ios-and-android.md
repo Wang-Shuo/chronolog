@@ -5,20 +5,20 @@ description: 'Gamma · 2026-08-28 · Mobile and Desktop: Take Gamma with you usi
   native apps in the [App Store](https://apps.apple.com/us/app/gamma-app/id6768404578)
   and…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1263
+  lag_days: 2847
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5690d58ec4c3bdc5b7d760a3d9c61a06dca5f1f17c63ec0be64745d26de404aa
+machine_hash: 283344e99a32540f7b32ecd7062ea58e682037be2d6d4fd00f3568ed796888cc
 product: gamma
 product_name: Gamma
 record:
@@ -50,12 +50,12 @@ record:
   title: Gamma is now on iOS and Android
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811
-  Restrict macOS preference reads to full-disk policies @copyberry]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed
-  builds on Windows create their scratch caches on first run, so cargo, go…]]'
+- '[[Changes/Kimi Code/2026-08-27-web-improve-mobile-ui-styling|web: Improve mobile
+  UI styling]]'
 - '[[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat:
   add linux desktop installer build (CI + deb maintainer fix)]]'
+- '[[Changes/Qoder/2026-08-27-works-in-real-environments-with-browser-use-and-computer-use-qoder-can-operate-w|Works
+  in real environments]]'
 source_release: '[[Releases/Gamma/gamma-2026-08-28-6a91d076c7db3a7f05cc7f12-5820041f|gamma-2026-08-28-6a91d076c7db3a7f05cc7f12-5820041f]]'
 source_type: gamma_changelog
 theme: mobile-desktop
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat: add linux desktop installer build (CI + deb maintainer fix)]]
+- Earlier: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-works-in-real-environments-with-browser-use-and-computer-use-qoder-can-operate-w|Works in real environments]]
 - Later: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-desktop-archived-sessions-disappear-from-the-home-list-immediately|Desktop Archived sessions disappear from the Home list immediately]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

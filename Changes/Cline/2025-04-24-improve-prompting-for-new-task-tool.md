@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2c7617d553d5e7b95e91ddac23a128798c89cd2aba2e4c110a0d2fd582aa74a1
+machine_hash: 450dfaab077074fda95da389ecccbe6e3edbe3447042cea39624d0191c5b628a
 product: cline
 product_name: Cline
 record:
@@ -43,7 +43,7 @@ record:
   title: Improve prompting for new task tool
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-04-21-agents-platform-acb364|Agents Platform]]'
+- '[[Changes/Descript/2025-04-22-agent-underlord|Agent Underlord]]'
 - '[[Changes/Dify/2025-04-23-3-agent-mode-changes-in-1-3-0|3 Agent Mode changes in
   1.3.0]]'
 - '[[Changes/OpenHands/2025-04-23-improved-logic-to-prevent-agent-from-getting-stuck-by-rbren-in-https-github-com|Improved

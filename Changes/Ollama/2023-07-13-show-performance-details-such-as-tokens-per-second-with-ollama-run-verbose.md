@@ -4,20 +4,20 @@ date: '2023-07-13'
 description: 'Ollama · 2023-07-13 · Reliability and Performance: Show performance
   details, such as tokens per second with `ollama run --verbose`'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 210
+  lag_days: 1697
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 480c3510e4fcfa71b7d39b9ea687f67b6cee66a4ca8edc9a745497d601b82a2c
+machine_hash: 672acd4ff6b9e2abad2eeccc384dc0c4ee131282d76ac7e4af35d7cc219ab4b0
 product: ollama
 product_name: Ollama
 record:
@@ -51,8 +51,8 @@ record:
   title: Show performance details, such as tokens per second with `ollama run --verbose`
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames-db5eb1|More
-  robust handling of filepaths, to avoid 8.3 windows filenames]]'
+- '[[Changes/Descript/2023-07-10-updated-shortcut-modifier-for-playback-speed-changes|Updated
+  shortcut modifier for playback speed changes]]'
 - '[[Changes/Ollama/2023-07-11-much-faster-performance|Much faster performance]]'
 - '[[Changes/Aider/2023-07-12-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More
   robust handling of filepaths, to avoid 8.3 windows filenames]]'
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

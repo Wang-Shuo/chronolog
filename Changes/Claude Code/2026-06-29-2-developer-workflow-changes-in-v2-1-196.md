@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-06-29 · Developer Workflow: 2 changes in v2.1
   — Improved `/code-review` workflow: merged five cleanup finders into one, cutting
   token…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1199
+  lag_days: 2848
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72da60684b34ca2f360af6f9d2437098b3b43dc407707132153f91a2f09482af
+machine_hash: 90ce9e1eba9ff4108fbbf2f4b0eaa9f18d5aff735353daf145b2fec56e6d609e
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +45,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.196
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat:
-  add eval:inventory CLI command and reporting logic]]'
 - '[[Changes/Google Antigravity/2026-06-25-updated-the-permissions-request-dialog-to-display-a-clear-description-of-the-act|Updated
   the permissions request dialog to display a clear description of the action…]]'
 - '[[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow
   changes in v4.0.0]]'
+- '[[Changes/Kimi Code/2026-06-26-2-developer-workflow-changes-in-kimi-code-0-20-1|2
+  Developer Workflow changes in Kimi Code 0.20.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,14 +90,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.196
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow changes in v4.0.0]]
+- Earlier: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-2-developer-workflow-changes-in-kimi-code-0-20-1|2 Developer Workflow changes in Kimi Code 0.20.1]]
 - Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-42-developer-workflow-changes-in-v0-10-0|42 Developer Workflow changes in v0.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

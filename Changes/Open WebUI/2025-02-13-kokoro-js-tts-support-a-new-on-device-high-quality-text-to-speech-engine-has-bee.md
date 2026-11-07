@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-02-13 · Voice and Audio: **\U0001F3A4 Kokoro-J
   Support**: A new on-device, high-quality text-to-speech engine has been integrated,
   vastly…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 584
+  lag_days: 2411
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ef64e5957aba4e44d2a0dc8b852c9ab35ed80ebd4ca62c66b478faf02caacba3
+machine_hash: 0c8728a7fbf9ccaaf05db0123aaa10f754337562f932ba36c6d15b49663b7434
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,11 +47,12 @@ record:
   title: "**\U0001F3A4 Kokoro-JS TTS Support**"
   type: change
 related_changes:
-- '[[Changes/Replit/2024-12-27-build-notifications|Build notifications]]'
-- "[[Changes/Open WebUI/2025-01-05-audio-input-echo-cancellation-audio-input-now-features-echo-cancellation-enabled|\U0001F3A4
-  Audio Input Echo Cancellation]]"
 - '[[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio
   changes in v0.71.0]]'
+- '[[Changes/Descript/2025-01-28-auto-detect-transcription-language|Auto-detect transcription
+  language]]'
+- '[[Changes/Descript/2025-02-04-you-can-hear-a-before-and-after-sample-below-this-voice-was-trained-first-on-our|You
+  can hear a before and after sample below]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-13-v0-5-11-github-200072492-646a9b00|open-webui-2025-02-13-v0-5-11-github-200072492-646a9b00]]'
 source_type: github_releases
 theme: voice
@@ -86,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio changes in v0.71.0]]
+- Earlier: 2025-02-04 · Descript · [[Changes/Descript/2025-02-04-you-can-hear-a-before-and-after-sample-below-this-voice-was-trained-first-on-our|You can hear a before and after sample below]]
 - Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper (ChatGPT's voice-to-text feature) now shows a text preview of dictated text…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

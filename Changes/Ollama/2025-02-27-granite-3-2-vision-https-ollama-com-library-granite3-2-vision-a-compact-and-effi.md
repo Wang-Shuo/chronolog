@@ -4,20 +4,20 @@ date: '2025-02-27'
 description: 'Ollama · 2025-02-27 · Files and Data: [Granite-3.2-Vision](https://ollama.com/library/granite3.2-vision):
   A compact and efficient vision-language model…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 644
+  lag_days: 1989
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8234932e4e08b6304f7c298a641fb23bd603fa08b5837fe1724493ce83aa82dc
+machine_hash: 6bf25f0473d1c8cb211c05ab3bb929affb6b4f523cd788b3b863e5ef001084cd
 product: ollama
 product_name: Ollama
 record:
@@ -58,10 +58,10 @@ record:
   title: '[Granite-3.2-Vision](https://ollama.com/library/granite3.2-vision): A compact…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas
-  sharing]]'
 - "[[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|\U0001F40D
   Jupyter Notebook Support in Code Interpreter]]"
+- '[[Changes/Descript/2025-02-25-canvas-becomes-scene-editor|Canvas becomes Scene
+  Editor]]'
 - "[[Changes/Gamma/2025-02-26-sharing-your-ideas-just-got-easier-you-can-now-post-directly-to-linkedin-from-ga|Post
   directly to LinkedIn \U0001F680]]"
 source_release: '[[Releases/Ollama/ollama-2025-02-27-v0-5-13-github-202859377-86cdb825|ollama-2025-02-27-v0-5-13-github-202859377-86cdb825]]'
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

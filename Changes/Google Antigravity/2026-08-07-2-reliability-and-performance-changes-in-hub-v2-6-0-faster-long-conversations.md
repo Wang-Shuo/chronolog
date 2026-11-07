@@ -4,20 +4,20 @@ date: '2026-08-07'
 description: 'Google Antigravity · 2026-08-07 · Reliability and Performance: 2 changes
   in HUB v2.6.0 — Faster long conversations, more reliable hooks and subagents — Opening…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1331
+  lag_days: 2818
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 117a4702722ab184be30730fd9ce677207e4535b2266be5327425e90b863b5b9
+machine_hash: 577991f6ff6f334f4016a9485f1f377bb68db73d7abdff371f21a67544a72192
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Reliability and Performance changes in HUB v2.6.0 — Faster long conversations…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-07-31-2-reliability-and-performance-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
-  Reliability and Performance changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-resuming-a-long-session-is-dramatically-faster-and-far-lighter-on-memory-because|Resuming
   a long session is dramatically faster and far lighter on memory, because…]]'
 - '[[Changes/Ollama/2026-08-04-qwen3-5-is-faster-on-apple-gpus-the-mlx-engine-now-uses-the-model-s-mtp-head-for|Qwen3.5
   is faster on Apple GPUs]]'
+- '[[Changes/Descript/2026-08-05-improved-timeline-performance|Improved timeline performance]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-07-rel-hub-2-6-0-1cc55d28|google-antigravity-2026-08-07-rel-hub-2-6-0-1cc55d28]]'
 source_type: antigravity_changelog
 theme: reliability-performance
@@ -90,14 +89,14 @@ Source: https://antigravity.google/releases?tab=hub&version=2.6.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-qwen3-5-is-faster-on-apple-gpus-the-mlx-engine-now-uses-the-model-s-mtp-head-for|Qwen3.5 is faster on Apple GPUs]]
+- Earlier: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-improved-timeline-performance|Improved timeline performance]]
 - Later: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved performance: fewer event-loop stalls on file-not-found suggestions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

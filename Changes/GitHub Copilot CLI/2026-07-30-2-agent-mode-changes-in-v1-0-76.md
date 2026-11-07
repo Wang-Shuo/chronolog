@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed7dee84762bc1669e857e1fe777c54373e1962598dd660aca80de55b8747296
+machine_hash: 5ca8f2ed21a743854a22da25afea1e7eaccd1f68712ae69217b340682fef9542
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Agent Mode changes in v1.0.76
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and|A
-  full review surface]]'
-- '[[Changes/Cursor/2026-07-29-inbox|Inbox]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-enable-adaptive-card-refresh-in-custom-engine-agents-web-microsoft-365-copilot-e|Enable
+  adaptive card refresh in custom engine agents…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-sharepoint-list-support-in-agent-builder-windows-web-microsoft-365-copilot-exten|SharePoint
+  list support in Agent Builder Windows…]]'
 - '[[Changes/OpenHands/2026-07-29-feat-always-show-the-llm-selector-move-agent-profile-switching-to-the-tools-menu|feat:
   always show the LLM selector; move agent-profile switching to the tools menu]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'
@@ -92,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.76
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-feat-always-show-the-llm-selector-move-agent-profile-switching-to-the-tools-menu|feat: always show the LLM selector; move agent-profile switching to the tools menu]]
-- Later: 2026-07-30 · OpenHands · [[Changes/OpenHands/2026-07-30-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs: refresh AGENTS.md guidance]]
+- Later: 2026-07-30 · Kimi Code · [[Changes/Kimi Code/2026-07-30-2-agent-mode-changes-in-kimi-code-0-31-0|2 Agent Mode changes in Kimi Code 0.31.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

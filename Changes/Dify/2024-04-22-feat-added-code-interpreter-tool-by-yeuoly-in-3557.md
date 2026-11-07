@@ -4,20 +4,20 @@ date: '2024-04-22'
 description: 'Dify · 2024-04-22 · Files and Data: feat: Added Code Interpreter Tool
   by @Yeuoly in #3557'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 333
+  lag_days: 1678
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1c31a8ace5f17775105652a31660e39b6ebd26b89fd3d0eaae17b68daaac94f9
+machine_hash: 5269b9e7e8df338db918865b4268fbff494794b77ac035f89b4c001b4c194459
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat: Added Code Interpreter Tool by @Yeuoly in #3557'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-03-29-2-files-and-data-changes-in-0-5-11|2 Files and Data changes
-  in 0.5.11]]'
 - "[[Changes/Open WebUI/2024-04-04-chat-download-as-pdf-easily-download-chats-in-pdf-format|\U0001F4C4
   Chat Download as PDF: Easily download chats in PDF format]]"
 - '[[Changes/Dify/2024-04-08-the-much-anticipated-workflow-feature-is-here-in-a-nutshell-workflow-provides-a|The
   much-anticipated workflow feature is here]]'
+- '[[Changes/Descript/2024-04-09-descript-labs-new-canvas-selection-tools|Descript
+  Labs: New Canvas selection tools]]'
 source_release: '[[Releases/Dify/dify-2024-04-22-0-6-4-github-152123987-3926aab5|dify-2024-04-22-0-6-4-github-152123987-3926aab5]]'
 source_type: github_releases
 theme: file-data
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-the-much-anticipated-workflow-feature-is-here-in-a-nutshell-workflow-provides-a|The much-anticipated workflow feature is here]]
+- Earlier: 2024-04-09 · Descript · [[Changes/Descript/2024-04-09-descript-labs-new-canvas-selection-tools|Descript Labs: New Canvas selection tools]]
 - Later: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-2-files-and-data-changes-in-0-6-5|2 Files and Data changes in 0.6.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

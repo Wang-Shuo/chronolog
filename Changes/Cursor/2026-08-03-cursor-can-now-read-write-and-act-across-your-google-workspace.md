@@ -4,20 +4,20 @@ date: '2026-08-03'
 description: 'Cursor · 2026-08-03 · Apps and Integrations: Cursor can now read, write,
   and act across your Google Workspace.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1229
+  lag_days: 2789
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08cde6313457578ebf260da00e844690a68c4d09fb6c9c03d80cdaeab66f4198
+machine_hash: 29d53fe823e878643bd03f152e1c3e873e2a06559ea2936bab57753c85e683aa
 product: cursor
 product_name: Cursor
 record:
@@ -72,7 +72,8 @@ record:
   title: Google Workspace Plugins
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-31-lovable-mcp-updates|Lovable MCP updates]]'
+- '[[Changes/Notion/2026-07-31-post-a-recap-to-slack-or-email-with-decisions-and-next-steps|Post
+  a recap to Slack or email with decisions and next steps]]'
 - '[[Changes/Replit/2026-07-31-connect-more-mcp-servers|Connect more MCP servers]]'
 - '[[Changes/OpenCode/2026-08-01-stopped-mcp-sse-connections-from-getting-stuck-in-reconnect-loops-after-server-e|Stopped
   MCP SSE connections from getting stuck in reconnect loops after server error…]]'
@@ -121,7 +122,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-06-11'
 description: 'Dify · 2025-06-11 · Reliability and Performance: 5 changes in v1.4.2
   — We''ve packed v1.4.2 with usability upgrades, polished features, and stability…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 909
+  lag_days: 2396
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ca0263eb0034fd589d6086bceea2d735c7b502d4c05174005053212fe5fadd7
+machine_hash: 11ce351fd5a5938cd85276a86b5f9587e77351b3766fb85c0467f9c9e79bb0ad
 product: dify
 product_name: Dify
 record:
@@ -53,8 +53,7 @@ record:
   title: 5 Reliability and Performance changes in 1.4.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses
-  with parallel tool calls]]'
+- '[[Changes/Descript/2025-06-05-a-note-on-releases|A note on releases]]'
 - '[[Changes/Ollama/2025-06-09-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The
   macOS app is now a native application and starts much faster while requiring…]]'
 - "[[Changes/Open WebUI/2025-06-10-pinecone-vector-search-optimizations-applied-latest-best-practices-from-pinecone|\U0001F680
@@ -114,7 +113,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.4.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

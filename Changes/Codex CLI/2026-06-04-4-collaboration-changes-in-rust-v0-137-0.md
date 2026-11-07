@@ -4,19 +4,20 @@ date: '2026-06-04'
 description: 'Codex CLI · 2026-06-04 · Collaboration: 4 changes in 0.137.0 — Cancelling
   a submitted prompt before visible output now restores the draft, attachments, and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1107
+  lag_days: 2701
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7e2184420139a386213f8a6a76d27cbe739f9f7b0d117b34b7da68dbd9c5be5a
+machine_hash: e08e8f771f1d7ab4dffb1eab7a08effe43ba2603c5a92be3bf88724665f8f756
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -107,7 +108,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.137.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

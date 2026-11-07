@@ -4,20 +4,20 @@ date: '2026-04-13'
 description: 'Claude Code · 2026-04-13 · Automation and Scheduling: `/proactive` is
   now an alias for `/loop`'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 832
+  lag_days: 2399
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19425365fed100eff94828b2fb7624d3fd2f4b6f741b47f6c4d738742a2060a4
+machine_hash: bf163b8d34424de9c6253e23cbc9c21693d215b1e448c8b0a282135a07b0bf5c
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,11 +42,11 @@ record:
   title: '`/proactive` is now an alias for `/loop`'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-test-core-migrate-hook-tests-to-scheduler-by-abhipatel12-in-https-github-com-goo|test(core):
-  migrate hook tests to scheduler]]'
-- '[[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced
-  the browser automation tool surface and tightened the subagent to use…]]'
 - '[[Changes/Lovable/2026-04-02-project-comments|Project comments]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-07-edit-scheduled-prompts-for-copilot-windows-mac-web-microsoft-365-copilot-chat|Edit
+  scheduled prompts for Copilot Windows, Mac, Web (Microsoft 365 Copilot chat)]]'
+- '[[Changes/Z.ai API/2026-04-07-designed-for-long-horizon-tasks-glm-5-1-can-work-independently-for-up-to-8-hours|Designed
+  for long-horizon tasks, GLM-5.1 can work independently for up to 8 hours…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-project-comments|Project comments]]
+- Earlier: 2026-04-07 · Z.ai API · [[Changes/Z.ai API/2026-04-07-designed-for-long-horizon-tasks-glm-5-1-can-work-independently-for-up-to-8-hours|Designed for long-horizon tasks, GLM-5.1 can work independently for up to 8 hours…]]
 - Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-resume-continue-now-resurrects-unexpired-scheduled-tasks|--resume/--continue now resurrects unexpired scheduled tasks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

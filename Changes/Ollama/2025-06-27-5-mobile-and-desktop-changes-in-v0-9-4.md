@@ -4,20 +4,20 @@ date: '2025-06-27'
 description: 'Ollama · 2025-06-27 · Mobile and Desktop: 5 changes in v0.9.4 — [Download
   for macOS](https://github.com/ollama/ollama/releases/download/v0.9.4/Ollama.dmg)'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 836
+  lag_days: 2420
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18a1f52f59539d1a7493b545c9a0e097227161273dedb5676c8d4021d6a33584
+machine_hash: 39d1fad8e77d6a1fc1236d979756cdd96c1aa0e3a04ab9d3469df69b9a1d9279
 product: ollama
 product_name: Ollama
 record:
@@ -49,8 +49,9 @@ record:
   title: 5 Mobile and Desktop changes in v0.9.4
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-13-mobile-app-update|Mobile app update]]'
-- '[[Changes/Replit/2025-06-13-workspace-quality-improvements|Workspace quality improvements]]'
+- '[[Changes/Descript/2025-06-25-screen-recorder-on-windows|Screen recorder on Windows]]'
+- '[[Changes/Descript/2025-06-26-if-you-re-on-desktop-we-also-release-an-update-that-requires-a-restart-it-fixes|If
+  you''re on Desktop, we also release an update that requires a restart]]'
 - '[[Changes/Lovable/2025-06-26-improvements|Improvements]]'
 source_release: '[[Releases/Ollama/ollama-2025-06-27-v0-9-4-github-228091794-9150f1fe|ollama-2025-06-27-v0-9-4-github-228091794-9150f1fe]]'
 source_type: github_releases
@@ -100,7 +101,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.9.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

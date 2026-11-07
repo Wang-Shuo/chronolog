@@ -4,20 +4,20 @@ date: '2026-07-06'
 description: 'ElevenLabs · 2026-07-06 · Pricing Model: **Professional voice slot tracking**:
   Subscription-style models add optional…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1299
+  lag_days: 2917
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 68a83437d65df894d6ec07648ef2a8f9160f620910f0af98e922e9be6ffc3378
+machine_hash: 15f7768bf3c625990870ef43c7845a11eeee5cd38b84eba56b30bf2569a8834e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -60,8 +60,8 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-sdk-add-a-live-event-subscription-stream|SDK Add
-  a live event subscription stream]]'
+- '[[Changes/Kimi Code/2026-07-02-automatically-compress-oversized-images-before-they-reach-the-model-downsampling|Automatically
+  compress oversized images before they reach the model, downsampling…]]'
 - '[[Changes/Replit/2026-07-03-downgrade-from-pro-to-core-in-one-step|Downgrade from
   Pro to Core in one step]]'
 - '[[Changes/Replit/2026-07-03-billing|Billing]]'
@@ -111,7 +111,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-07-25'
 description: 'Midjourney · 2025-07-25 · Video Generation: You can now create looping
   videos 2) You can now make videos with a specific start and end images 3) Video…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 554
+  lag_days: 1738
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 616d57f872743bc2578ce2a8624bd841642bc9f6229da1d2ed1e466e6aaf8302
+machine_hash: 0a2cc2e39a833e3b10f15aeea2a5aa1ef216585ac93284647a9267ff4be3347f
 product: midjourney
 product_name: Midjourney
 record:
@@ -48,10 +48,9 @@ record:
     end…
   type: change
 related_changes:
-- '[[Changes/Runway/2024-12-19-add-a-middle-keyframe-in-addition-to-first-and-last-keyframes-for-more-control-o|Middle
-  keyframes in Gen-3 Alpha Turbo]]'
-- '[[Changes/Runway/2025-03-06-you-can-now-use-a-single-reference-image-in-gen-3-alpha-and-turbo-to-style-your|Restyle
-  Video]]'
+- '[[Changes/Descript/2025-04-29-the-process-is-simple-write-your-script-select-an-avatar-from-our-gallery-or-cre|The
+  process is simple]]'
+- '[[Changes/Descript/2025-05-20-avatar-update|Avatar update]]'
 - '[[Changes/Midjourney/2025-06-18-today-s-video-workflow-will-be-called-image-to-video|Today’s
   Video workflow will be called “Image-to-Video”]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-07-25-https-updates-midjourney-com-looping-and-end-frame-for-video-vid-41d087fb|midjourney-2025-07-25-https-updates-midjourney-com-looping-and-end-frame-for-video-vid-41d087fb]]'
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

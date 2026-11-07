@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-14 · Safety and Privacy: 6 changes in v2.1
   — Fixed tools of an MCP server named `constructor` or `toString` asking for permission
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1277
+  lag_days: 2269
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4fb2a71e99085935abec0ac742ce60dcbe5896d91b85c6a57b0a32021a1b9e9d
+machine_hash: 2c3f74816079808838c092775085c1a1186c4afed88f022db913f9afd63bbc2c
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,8 +58,7 @@ record:
   title: 6 Safety and Privacy changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-3-safety-and-privacy-changes-in-v1-0-97|3
-  Safety and Privacy changes in v1.0.97]]'
+- '[[Changes/HeyGen/2026-10-13-sso-join-controls|SSO join controls]]'
 - '[[Changes/OpenClaw/2026-10-13-3-safety-and-privacy-changes-in-v2026-10-3|3 Safety
   and Privacy changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety
@@ -123,7 +122,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

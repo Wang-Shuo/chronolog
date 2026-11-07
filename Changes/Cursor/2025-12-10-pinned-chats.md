@@ -4,20 +4,20 @@ date: '2025-12-10'
 description: 'Cursor · 2025-12-10 · Interface Experience: In the agent sidebar, pin
   chats at the top for future reference.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1066
+  lag_days: 2432
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f544ab8f3137b08614f2dbf01e6501fa048f6ee858ebb52899ea7ddc9ddf047f
+machine_hash: a0911104df9c2dc10b886e26715f65f8ef755992bec0d67352a3a05820f454d1
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +53,10 @@ record:
   title: Pinned chats
   type: change
 related_changes:
-- '[[Changes/v0/2025-12-04-you-can-now-easily-purchase-and-add-custom-domains-to-your-v0-projects-directly|Buy
-  Custom Domains]]'
 - '[[Changes/Codex CLI/2025-12-09-2-interface-experience-changes-in-rust-v0-66-0|2
   Interface Experience changes in rust-v0.66.0]]'
+- '[[Changes/Synthesia/2025-12-09-noticed-a-new-tab-on-the-sidebar-meet-ai-playground|Experiment
+  with media creation in AI Playground]]'
 - '[[Changes/Codex CLI/2025-12-10-4-interface-experience-changes-in-rust-v0-69-0|4
   Interface Experience changes in rust-v0.69.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 144cd10f911bfa4edc7deab4bdacde8e718f2a2366c61c151f474c95a43f1f6e
+machine_hash: a9d69fd596d6ee615888eef26cdef1b31261a4a830b2297a36ca4192c24e5684
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Changed screen reader mode to write new or changed lines without first pausing…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-46040-default-tui-animations-off-when-a-screen-reader-is-detected-etraut-openai|♯46040
-  Default TUI animations off when a screen reader is detected @etraut-openai]]'
 - '[[Changes/Claude Code/2026-09-23-improved-screen-reader-output-in-mcp-a-disabled-server-is-read-as-off-instead-of|Improved
   screen-reader output in /mcp]]'
 - '[[Changes/OpenClaw/2026-09-23-localization-maintenance-removes-entries-whose-interface-text-has-already-been-r|Localization
   maintenance removes entries whose interface text has already been…]]'
+- '[[Changes/Synthesia/2026-09-30-add-burned-in-captions-to-dubbed-videos-in-one-click-so-your-localized-content-s|Add
+  burned-in captions to dubbed videos]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-localization-maintenance-removes-entries-whose-interface-text-has-already-been-r|Localization maintenance removes entries whose interface text has already been…]]
+- Earlier: 2026-09-30 · Synthesia · [[Changes/Synthesia/2026-09-30-add-burned-in-captions-to-dubbed-videos-in-one-click-so-your-localized-content-s|Add burned-in captions to dubbed videos]]
 - Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-2-accessibility-and-localization-changes-in-v2-1-288|2 Accessibility and Localization changes in v2.1.288]]
 <!-- chronolog:end -->
 

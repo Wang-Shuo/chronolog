@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-23 · Interface Experience: 19 changes in v202
   — Conversations can be archived or restored directly from the sidebar with Undo,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1353
+  lag_days: 2719
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5763d3a5d1ce6dae8ddb653136c7fcb45cc378e151e32496bc416a577a7e2a1a
+machine_hash: 50636ad7346e0f690bb2db333705267f30b4d41f546070089b67c8e7bae7456c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -156,8 +156,8 @@ record:
   title: 19 Interface Experience changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface
-  Experience changes in v2.1.281]]'
+- '[[Changes/Kimi Code/2026-09-23-3-interface-experience-changes-in-kimi-code-2-1-0|3
+  Interface Experience changes in Kimi Code 2.1.0]]'
 - '[[Changes/Lovable/2026-09-23-one-project-menu-on-your-phone|One project menu on
   your phone]]'
 - '[[Changes/Lovable/2026-09-23-redesigned-projects-page|Redesigned Projects page]]'
@@ -256,7 +256,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

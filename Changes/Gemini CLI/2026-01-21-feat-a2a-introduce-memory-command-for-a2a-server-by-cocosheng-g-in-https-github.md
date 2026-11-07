@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 89860db297224dacbf93275ef725c5ea3f187f1640491272a83d949670816ae2
+machine_hash: 97ca177df9d296344275cf174fe3d77c5c6498f9f82bc8e45bf2d23c0720ac77
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,9 @@ record:
   title: 'feat(a2a): Introduce /memory command for a2a server'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-16-inject-repo-memories-in-the-prompt-and-add-memory-storage-tool-to-remember-facts|Inject
-  repo memories in the prompt and add memory storage tool to remember facts…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-3-memory-and-personalization-changes-in-v0-0-385|3
   Memory and Personalization changes in v0.0.385]]'
+- '[[Changes/Notion/2026-01-20-new-models-same-memory|New models, same memory]]'
 - '[[Changes/Codex CLI/2026-01-21-9459-feat-personality-introduce-model-personality-config-dylan-hurd-oai|♯9459
   feat(personality) introduce model_personality config @dylan-hurd-oai]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397|gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397]]'

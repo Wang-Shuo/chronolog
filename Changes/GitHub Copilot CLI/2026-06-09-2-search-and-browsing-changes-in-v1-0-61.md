@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-06-09 · Search and Browsing: 2 changes
   1.0.61 — Add /settings interactive dialog to browse and edit all user settings in
   one place'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1174
+  lag_days: 2203
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf7930aa3a0e0e64c8863013479b3bc8af4eeda3ee029b9c8b030394c677f145
+machine_hash: 71ff6df9b7bf78b9ecae1e25309bfbe2c1d12046ff316c024bd33c7d2a2597dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,13 +95,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.61
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-3-search-and-browsing-changes-in-rust-v0-139-0|3 Search and Browsing changes in rust-v0.139.0]]
-- Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-27501-codex-expand-hosted-web-search-citation-guidance-yuning-oai|♯27501 codex Expand hosted web search citation guidance @yuning-oai]]
+- Later: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-descript-api-cli-v0-11-0|Descript API CLI v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

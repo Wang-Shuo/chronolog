@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3cf241579ad24943640d1b4da2d688d4acd7e063a73c1b7b95ce80ef979bda94
+machine_hash: 67d76fa7a3eab11f1bce5d4c41f3eb9eb9da787921a972ca559de82bef6db6e4
 product: midjourney
 product_name: Midjourney
 record:
@@ -55,11 +55,11 @@ record:
   title: Use --preview to test new features
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug
-  now requires a description before submitting, and no longer uses…]]'
 - '[[Changes/Codex CLI/2026-06-15-4-model-support-changes-in-rust-v0-140-0|4 Model
   Support changes in rust-v0.140.0]]'
 - '[[Changes/ElevenLabs/2026-06-15-introducing-music-v2|Introducing Music v2]]'
+- '[[Changes/Kimi Code/2026-06-15-2-model-support-changes-in-kimi-code-0-15-0|2 Model
+  Support changes in Kimi Code 0.15.0]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-06-16-https-updates-midjourney-com-draft-mode-for-v8-1-and-new-feature-da647b3a|midjourney-2026-06-16-https-updates-midjourney-com-draft-mode-for-v8-1-and-new-feature-da647b3a]]'
 source_type: midjourney_changelog
 theme: model-support
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-introducing-music-v2|Introducing Music v2]]
-- Later: 2026-06-17 · Ollama · [[Changes/Ollama/2026-06-17-command-a-and-north-family-models-now-run-on-apple-silicon-with-the-mlx-engine|Command A and North family models now run on Apple Silicon with the MLX engine]]
+- Earlier: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-2-model-support-changes-in-kimi-code-0-15-0|2 Model Support changes in Kimi Code 0.15.0]]
+- Later: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-group-the-default-model-dropdown-in-web-settings-by-provider|Group the default model dropdown in web settings by provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

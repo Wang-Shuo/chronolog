@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-09-17 · Developer Workflow: 7 changes in v2.1
   — Improved Artifact tool errors: when you are not signed in to claude.ai the terminal
   now…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1279
+  lag_days: 2928
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6e581c6d06e30654b47c349bbc98b5f86c79cc27df769969e5f2d326077f46d0
+machine_hash: 8f29c8511bcca74bcd60ea7c73a4963fd43393d62584da39025f2ce539cdf162
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,8 +63,8 @@ record:
   title: 7 Developer Workflow changes in v2.1.274
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-15-the-command-palette-now-opens-over-a-dimmed-backdrop-with-enter-and-exit-animati|The
-  command palette now opens over a dimmed backdrop with enter and exit animations…]]'
+- '[[Changes/Kimi Code/2026-09-15-add-native-clipboard-support-on-linux-x11-so-copying-from-the-tui-no-longer-depe|Add
+  native clipboard support on Linux X11, so copying from the TUI no longer depends…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-6-developer-workflow-changes-in-v1-0-85|6
   Developer Workflow changes in v1.0.85]]'
 - '[[Changes/OpenHands/2026-09-16-5-developer-workflow-changes-in-v1-19-0|5 Developer
@@ -129,7 +130,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

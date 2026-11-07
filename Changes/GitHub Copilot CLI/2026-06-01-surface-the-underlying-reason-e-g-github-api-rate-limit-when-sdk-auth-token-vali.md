@@ -4,20 +4,21 @@ date: '2026-06-01'
 description: 'GitHub Copilot CLI · 2026-06-01 · Account and Access: Surface the underlying
   reason (e.g. GitHub API rate limit) when SDK auth-token validation fails, instead…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1159
+  lag_days: 2134
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 1c556fde3bc504db1ee7857f431b851d957b773c5b58e769f07d79391f2f9a71
+machine_hash: 003489122c0bb882b9aa13ba791d257fc7be7d50eb4e2c08f506ee08b83e5f0b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +45,10 @@ record:
   title: Surface the underlying reason (e.g. GitHub API rate limit) when SDK auth-token…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-2-account-and-access-changes-in-v1-0-52|2
-  Account and Access changes in v1.0.52]]'
 - '[[Changes/Codex CLI/2026-05-26-2-account-and-access-changes-in-rust-v0-134-0|2
   Account and Access changes in rust-v0.134.0]]'
+- '[[Changes/Kimi Code/2026-05-26-4-account-and-access-changes-in-kimi-code-0-2-0|4
+  Account and Access changes in Kimi Code 0.2.0]]'
 - '[[Changes/OpenCode/2026-05-27-core-digitalocean-inference-now-uses-your-oauth-token-directly-instead-of-creati|Core
   DigitalOcean inference now uses your OAuth token directly instead of creating a
   MAK]]'
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-09-25'
 description: 'OpenHands · 2026-09-25 · Automation and Scheduling: 3 changes in v1.24.0
   — feat(conversation): open shared automation conversations read-only on cloud by…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 997
+  lag_days: 2564
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2e1fa7027e06d06c5c7235b7a86f2c23da1190ec62885055ed52d373c732ab5
+machine_hash: a0eb91ca4b131513e6151314ead33f05f8885102a1d1ae028dd8b49be7413876
 product: openhands
 product_name: OpenHands
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Automation and Scheduling changes in v1.24.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-claude-tag-changed-the-routine-list-claude-gives-when-asked-in-a-slack-thread-to|Claude
-  Tag Changed the routine list Claude gives when asked in a Slack thread…]]'
 - '[[Changes/OpenClaw/2026-09-23-9-automation-and-scheduling-changes-in-v2026-9-6|9
   Automation and Scheduling changes in v2026.9.6]]'
 - '[[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore:
   consume SDK 1.49.5 and Automation 1.15.0]]'
+- '[[Changes/Qoder/2026-09-23-cloud-automations-create-scheduled-tasks-through-conversation-or-manual-configur|Cloud
+  automations: Create scheduled tasks through conversation or manual…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-25-v1-24-0-github-396708686-384650c4|openhands-2026-09-25-v1-24-0-github-396708686-384650c4]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -91,14 +91,14 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-23 · OpenHands · [[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore: consume SDK 1.49.5 and Automation 1.15.0]]
+- Earlier: 2026-09-23 · Qoder · [[Changes/Qoder/2026-09-23-cloud-automations-create-scheduled-tasks-through-conversation-or-manual-configur|Cloud automations: Create scheduled tasks through conversation or manual…]]
 - Later: 2026-09-28 · Manus · [[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi|Introducing Manus 2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

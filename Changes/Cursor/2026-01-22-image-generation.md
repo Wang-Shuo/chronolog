@@ -4,20 +4,20 @@ date: '2026-01-22'
 description: 'Cursor · 2026-01-22 · Image Generation: Generate images directly from
   Cursor''s agent. Describe the image in text or upload a reference to guide the underlying…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 683
+  lag_days: 941
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5866237044c5182b8151c27dab4eb4d88a9ad4d88a8553df9b69d0e077c7a73f
+machine_hash: 2c0b09413cc17924b337adb0c4feb2506080e0f345b915d51fc765a873b4caa9
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,10 @@ record:
   title: Image generation
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-10-new-experimental-support-for-image-generation-models-powered-by-mlx|New
-  experimental support for image generation models, powered by MLX]]'
 - '[[Changes/Ollama/2026-01-14-experimental-image-generation-models-are-available-for-macos-and-linux-cuda-in-o|Experimental
   image generation models are available for macOS and Linux…]]'
+- '[[Changes/Z.ai API/2026-01-14-we-ve-launched-glm-image-a-state-of-the-art-image-generation-model-built-on-a-mu|We’ve
+  launched GLM-Image, a state-of-the-art image generation model built…]]'
 - '[[Changes/Ollama/2026-01-16-2-image-generation-changes-in-v0-14-3|2 Image Generation
   changes in v0.14.3]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
@@ -104,13 +104,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-01-16 · Ollama · [[Changes/Ollama/2026-01-16-2-image-generation-changes-in-v0-14-3|2 Image Generation changes in v0.14.3]]
-- Later: 2026-02-12 · Ollama · [[Changes/Ollama/2026-02-12-image-generation-models-will-now-respect-the-ollama-load-timeout-variable|Image generation models will now respect the OLLAMA_LOAD_TIMEOUT variable]]
+- Later: 2026-01-26 · HeyGen · [[Changes/HeyGen/2026-01-26-smarter-decision-making-small-requests-quick-clips-avatar-tweaks-image-generatio|Smarter decision-making Small requests…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

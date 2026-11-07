@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-08-25 · Multimodal Input: 2 changes in v0.11.1
   **Clearer attachment failures.** A link that cannot be read now says so and names
   the…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1071
+  lag_days: 2839
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ae2a8317726e1cdb2c6108bc525079284fd1190c118169e7696ae647ef57758
+machine_hash: 1d5e402b0654f4b0108a357f7588a6c1ed02610b38ba23a379e50c5c2bc042f3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,8 +49,7 @@ record:
   title: 2 Multimodal Input changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-18-compose-and-blend-images-and-video-together-with-new-compositing-workflow-nodes|Compositing
-  Nodes]]'
+- '[[Changes/HeyGen/2026-08-20-why-it-matters|Why it matters]]'
 - '[[Changes/DeepSeek API/2026-08-21-deepseek-v4-flash-vision-exp-release|DeepSeek-V4-Flash-Vision-Exp
   Release]]'
 - '[[Changes/Dify/2026-08-25-3-multimodal-input-changes-in-1-17-0|3 Multimodal Input
@@ -115,7 +114,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-09-04 · Developer Workflow: 3 changes in v2.1
   — Added `bashOutputMaxChars` and `taskOutputMaxChars` settings to raise how much
   command…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1266
+  lag_days: 2915
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce8c7c090ede7e86a99c8a1405808142a528f589ec0057841dbf89e9c37e785a
+machine_hash: 040b984a70ce59328af35f21c1f71dca60d6826b5d77e5593eede5e62b9701c4
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +51,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.261
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved
-  deleting a background session whose worktree has unpushed commits]]'
 - '[[Changes/Codex CLI/2026-09-03-5-developer-workflow-changes-in-rust-v0-153-0|5
   Developer Workflow changes in rust-v0.153.0]]'
 - '[[Changes/OpenClaw/2026-09-03-11-developer-workflow-changes-in-v2026-9-1|11 Developer
   Workflow changes in v2026.9.1]]'
+- '[[Changes/Qoder/2026-09-03-clickable-terminal-links-http-https-links-in-the-terminal-now-open-directly|Clickable
+  terminal links: HTTP/HTTPS links in the terminal now open directly]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: developer-workflow
@@ -99,14 +100,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-11-developer-workflow-changes-in-v2026-9-1|11 Developer Workflow changes in v2026.9.1]]
+- Earlier: 2026-09-03 · Qoder · [[Changes/Qoder/2026-09-03-clickable-terminal-links-http-https-links-in-the-terminal-now-open-directly|Clickable terminal links: HTTP/HTTPS links in the terminal now open directly]]
 - Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-detect-the-herdr-terminal-multiplexer-instead-of-mistaking-it-for-tmux-so-the-ki|Detect the herdr terminal multiplexer instead of mistaking it for tmux, so the Kitty…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

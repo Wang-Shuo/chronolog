@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-09-16 · Mobile and Desktop: 4 changes 
   — Restore keyboard input and screen output on macOS and Linux when you return from
   an…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1282
+  lag_days: 2866
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 16bb4b34095fb0aec96f87d84d66d2819d890ed8ca0d0cf5788798234d79d7ce
+machine_hash: 1c9029f19f577362dbc32d6df282f04de029e52db9159616fb16b13bbc066b2a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -116,7 +116,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

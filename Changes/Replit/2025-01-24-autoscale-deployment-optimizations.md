@@ -4,20 +4,20 @@ date: '2025-01-24'
 description: 'Replit · 2025-01-24 · Reliability and Performance: Autoscale deployments
   are now more reliable and faster thanks to some behind-the-scenes improvements on…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 771
+  lag_days: 2258
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 79143b45458d3ed4e69d57a8deb4d7f2887af4271860a01e2dc40add3b53b723
+machine_hash: b055e4ea5d838a6d9745d722be6712b8b127df59bef412d645ae708e810bf775
 product: replit
 product_name: Replit
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]]
-- Later: 2025-02-04 · Gamma · [[Changes/Gamma/2025-02-04-now-you-can-multi-select-from-the-filmstrip-and-take-action-cut-copy-duplicate-a|Updated Filmstrip Experience]]
+- Later: 2025-02-04 · Descript · [[Changes/Descript/2025-02-04-these-upgrades-also-bring-faster-text-to-speech-generation-and-add-support-for-c|These upgrades also bring faster text-to-speech generation, and add support…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

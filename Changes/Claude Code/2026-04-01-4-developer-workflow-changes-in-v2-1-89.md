@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-04-01 · Developer Workflow: 4 changes in v2.1
   — Improved Bash tool to warn when a formatter/linter command modifies files you
   have…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1110
+  lag_days: 2759
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f336d3c076e8a12812864ed2064947ca877530b6b588b23c4df78808c8b20b2b
+machine_hash: ccf11db58200f60947f8187a4ceb4a2482ebb5a328b163305ec04338365c740a
 product: claude-code
 product_name: Claude Code
 record:
@@ -107,7 +108,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Windsurf · 2026-06-04 · Mobile and Desktop: Added a new command 
   Devin Desktop to rerun the migration from Windsurf. This will reset Devin Desktop
   settings…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1178
+  lag_days: 2762
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ac2b4729caba542afff2aa4e9921f474a91034ffee2bf6e2229a8172647541e5
+machine_hash: 23c2d1ffc4e943f3d58d38163a911a7666b17508fd81902a224625243fb97d36
 product: windsurf
 product_name: Windsurf
 record:
@@ -55,8 +55,8 @@ record:
   title: Added a new command for Devin Desktop to rerun the migration from Windsurf
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled
-  ripgrep: Local shell runs use the bundled platform rg binary without…]]'
+- '[[Changes/Kimi Code/2026-06-04-2-mobile-and-desktop-changes-in-kimi-code-0-10-0|2
+  Mobile and Desktop changes in Kimi Code 0.10.0]]'
 - '[[Changes/Ollama/2026-06-04-ollama-launch-hermes-desktop-now-launches-hermes-desktop-and-can-skip-rebuilding|ollama
   launch hermes-desktop now launches Hermes Desktop and can skip rebuilding…]]'
 - '[[Changes/Suno/2026-06-04-two-new-ios-updates-for-more-streamlined-creation|Two
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

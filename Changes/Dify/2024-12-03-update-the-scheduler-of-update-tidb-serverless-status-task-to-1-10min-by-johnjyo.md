@@ -4,20 +4,20 @@ date: '2024-12-03'
 description: 'Dify · 2024-12-03 · Automation and Scheduling: update the scheduler
   of update_tidb_serverless_status_task to 1/10min by @JohnJyong in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 336
+  lag_days: 1903
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c318b46cfd3d024dfe0a2a3bbaed0c9c7c7f10472084b99f29befd7ba88984e7
+machine_hash: 0ad607063eb53856c14f16bcc6d8c66f164810402aacd23bb018f89485122b97
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: update the scheduler of update_tidb_serverless_status_task to 1/10min
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-08-28-gemini-advanced-and-gemini-for-google-workspace-add-on-priority-access-introduci|Gemini
-  Advanced and Gemini for Google Workspace add-on priority access]]'
-- '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-  syntax error loop detection]]'
 - "[[Changes/Open WebUI/2024-09-19-enhanced-automatic1111-settings-users-can-now-configure-cfg-scale-sampler-and-sc|\U0001F527
   Enhanced AUTOMATIC1111 Settings]]"
+- '[[Changes/Notion/2024-10-24-automate-more-actions-with-formulas|Automate more actions
+  with formulas]]'
+- '[[Changes/Notion/2024-10-24-automations-can-now-send-emails|Automations can now
+  send emails]]'
 source_release: '[[Releases/Dify/dify-2024-12-03-0-13-0-github-188658250-1aa233f6|dify-2024-12-03-0-13-0-github-188658250-1aa233f6]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-enhanced-automatic1111-settings-users-can-now-configure-cfg-scale-sampler-and-sc|🔧 Enhanced AUTOMATIC1111 Settings]]
-- Later: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-structured-output-for-ollama-pass-structured-data-output-directly-to-ollama-unlo|✅ Structured Output for Ollama]]
+- Earlier: 2024-10-24 · Notion · [[Changes/Notion/2024-10-24-automations-can-now-send-emails|Automations can now send emails]]
+- Later: 2024-12-05 · Notion · [[Changes/Notion/2024-12-05-automate-1-000-workflows-with-webhook-actions|Automate 1,000+ workflows with webhook actions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

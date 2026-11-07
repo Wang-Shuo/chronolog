@@ -4,20 +4,20 @@ date: '2023-05-12'
 description: 'ChatGPT · 2023-05-12 · Apps and Integrations: In the “Plugins” dropdown,
   click “Plugin Store” to install and enable new plugins'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 50
+  lag_days: 1610
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d843d517f7bd489442ad902f07983c463e0eead0617df9dd29366283bc12be54
+machine_hash: 2bd07a8a03a8114fd7aa6b110b1e856fbfbdd36534ea315d680a5e51856138b2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +45,8 @@ record:
     plugins
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-  are announcing experimental support for AI plugins in ChatGPT]]'
+- '[[Changes/Notion/2023-04-27-slack-integration-2-0-save-messages-and-configure-notifications|Slack
+  integration 2.0: save messages and configure notifications]]'
 - '[[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|One-Click
   Extension Import from VS Code (beta)]]'
 - '[[Changes/ChatGPT/2023-05-12-plugins-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-use-third-party|Plugins:
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

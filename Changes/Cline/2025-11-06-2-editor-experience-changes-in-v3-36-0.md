@@ -4,20 +4,19 @@ date: '2025-11-06'
 description: 'Cline · 2025-11-06 · Editor Experience: 2 changes in v3.36.0 — Small
   timeout increase in diff.test by @canvrno in https://github.com/cline/cline/pull/7270'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 968
+  lag_days: 2552
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da2d615ce15a9657a4e577e7468794ddcedbe5f6aca657acc2223a005dc08f10
+machine_hash: 781c7b333a5587dc83acaa518e932927cf9964bc216d15dffe0f16cd264a7351
 product: cline
 product_name: Cline
 record:
@@ -43,8 +42,8 @@ record:
   title: 2 Editor Experience changes in v3.36.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-03-diff-hunk-lines-now-properly-fill-the-width-of-the-diff-box|Diff
-  hunk lines now properly fill the width of the diff box]]'
+- '[[Changes/Synthesia/2025-11-03-grow-completion-rate-for-every-video-you-create-with-amazing-new-feature-quizzes|Add
+  Quizzes to any Synthesia video]]'
 - '[[Changes/Windsurf/2025-11-04-editor-stability|Editor Stability]]'
 - '[[Changes/OpenHands/2025-11-05-removed-jupyter-tab-by-amanape-in-https-github-com-openhands-openhands-pull-1156|Removed
   Jupyter tab]]'
@@ -90,7 +89,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.36.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

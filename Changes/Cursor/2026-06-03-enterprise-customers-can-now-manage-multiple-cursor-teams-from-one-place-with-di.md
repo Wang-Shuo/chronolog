@@ -4,20 +4,20 @@ date: '2026-06-03'
 description: 'Cursor · 2026-06-03 · Safety and Privacy: Enterprise customers can now
   manage multiple Cursor teams from one place, with different security, governance…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1144
+  lag_days: 2136
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2249ec2312b8282c0e5650ad50fee88c4299ef8d62b49ea53b20f6b4fcbbffb3
+machine_hash: e8568a75926031cedae9a924064d8203c8d93c744dfdda9d6531201f16b722c5
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: Enterprise customers can now manage multiple Cursor teams from one place…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977|ChatGPT
-  rolls out Active sessions, a new security feature that helps users review…]]'
+- '[[Changes/Kimi Code/2026-06-02-add-approval-lifecycle-hook-events-for-observing-pending-and-completed-permissio|Add
+  approval lifecycle hook events for observing pending and completed permission prompts]]'
 - '[[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety
   and Privacy changes in v2.1.162]]'
 - '[[Changes/Cline/2026-06-03-update-vs-code-extension-dependencies-to-resolve-security-issues-in-xmldom-xmldo|Update
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

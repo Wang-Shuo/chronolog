@@ -4,19 +4,20 @@ date: '2026-11-04'
 description: 'Dify · 2026-11-04 · Developer Workflow: 2 changes in v1.19.0 - Trace
   Your Workflows, Layer by Layer — **Manage workspace Skills through OpenAPI and difyctl.**…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1327
+  lag_days: 2976
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d7c227f06f736bc4acfa302b360e5e68242b082dc4ccc5974d399e069c17bc8
+machine_hash: 89901c3bc143c462fc9dc97b1a8bbada824f169a2f96d9007991c0f9355a6fe2
 product: dify
 product_name: Dify
 record:
@@ -99,13 +100,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-18-developer-workflow-changes-in-v2026-10-10|18 Developer Workflow changes in v2026.10.10]]
-- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-3-developer-workflow-changes-in-v2026-11-1|3 Developer Workflow changes in v2026.11.1]]
+- Later: 2026-11-04 · Kimi Code · [[Changes/Kimi Code/2026-11-04-create-remote-sessions-in-ssh-docker-or-custom-command-environments|Create remote sessions in SSH, Docker, or custom-command environments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

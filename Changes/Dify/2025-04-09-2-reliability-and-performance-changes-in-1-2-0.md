@@ -4,20 +4,20 @@ date: '2025-04-09'
 description: 'Dify · 2025-04-09 · Reliability and Performance: 2 changes in v1.2.0
   — **OceanBase Hybrid Search**: Courtesy of @hsiong in #16652, this feature integrates…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 846
+  lag_days: 2333
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84e1403cf79f01fbefd94035cc94135e75d23a5b290fa666c4f53cc9fc89b5be
+machine_hash: c0550d629c2fd13a2d1cf041792d4b10c807d8434841c8a045d2d1f34d5cad94
 product: dify
 product_name: Dify
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.2.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

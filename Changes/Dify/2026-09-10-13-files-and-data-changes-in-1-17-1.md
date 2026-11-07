@@ -5,20 +5,20 @@ description: 'Dify · 2026-09-10 · Files and Data: 13 changes in v1.17.1 - Bug 
   and Improvements — This release fixes a cluster of extraction bugs that changed
   document…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1204
+  lag_days: 2549
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 261f30356fc05bd9578f348f18aae9176eb6bfe6f8538198d4b0d29f0b3016b3
+machine_hash: 865ed7334782d9409f41581ae4267d12d32c367b2bb300d206fce222fba903d8
 product: dify
 product_name: Dify
 record:
@@ -175,7 +175,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-05-03'
 description: 'Ollama · 2026-05-03 · Mobile and Desktop: 3 changes in v0.23.0 — Claude
   Desktop is now supported with Ollama Launch.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1146
+  lag_days: 2730
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a91e80b07c23c624511b50252b38730e7c4f0e9d954f633a276b143727a375df
+machine_hash: d297d996d67ac562e7d62854a93e9eaacb519ee9bb1b1e79dc14999e9abd31ab
 product: ollama
 product_name: Ollama
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.23.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

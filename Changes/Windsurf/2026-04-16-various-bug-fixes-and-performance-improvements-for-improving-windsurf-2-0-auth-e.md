@@ -4,20 +4,20 @@ date: '2026-04-16'
 description: 'Windsurf · 2026-04-16 · Reliability and Performance: Various bug fixes
   and performance improvements for improving Windsurf 2.0 auth experience.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1218
+  lag_days: 2705
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 882f8c8154ef28bcf16f455a3802acc1b608fd37e49e198419be3688af557c2b
+machine_hash: f772ba561b9cbf1866128dd7edaba72c6c4c277b5f92186846f6aaff4a0b5161
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,12 +43,11 @@ record:
     auth experience
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-closing-tabs-is-now-less-likely-to-glitch-the-file-tree-and-recovery-is-faster|Closing
-  tabs is now less likely to glitch the file tree, and recovery is faster]]'
-- '[[Changes/Claude Code/2026-04-14-reduced-memory-footprint-for-file-reads-edits-and-syntax-highlighting-by-loading|Reduced
-  memory footprint for file reads, edits, and syntax highlighting by loading…]]'
 - '[[Changes/Codex CLI/2026-04-15-17640-fix-stability-exec-server-jif-oai|♯17640 fix:
   stability exec server @jif-oai]]'
+- '[[Changes/Descript/2026-04-16-new-transitions|New Transitions]]'
+- '[[Changes/Descript/2026-04-16-we-ve-made-some-backend-improvements-that-should-result-in-better-performance-fo|We’ve
+  made some backend improvements that should result in better performance…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-16-v2-0-50-d2878ad2|windsurf-2026-04-16-v2-0-50-d2878ad2]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -76,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-17640-fix-stability-exec-server-jif-oai|♯17640 fix: stability exec server @jif-oai]]
+- Earlier: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-we-ve-made-some-backend-improvements-that-should-result-in-better-performance-fo|We’ve made some backend improvements that should result in better performance…]]
 - Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved /ultrareview: faster launch with parallelized checks, diffstat…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

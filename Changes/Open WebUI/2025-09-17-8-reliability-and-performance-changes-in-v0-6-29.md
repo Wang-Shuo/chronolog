@@ -4,20 +4,20 @@ date: '2025-09-17'
 description: 'Open WebUI · 2025-09-17 · Reliability and Performance: 8 changes in
   v0.6.29 — ⚡ Mermaid.js is now dynamically loaded on demand, significantly reducing…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1007
+  lag_days: 2494
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21ae586feafe949173fb6c069f42a92d92cc4042a28adf379fae8af7aca05bc4
+machine_hash: fd300a2ce0cb1e53fc914db98bcce7c138df1dbb9a869e884bcb4605230ddc47
 product: open-webui
 product_name: Open WebUI
 record:
@@ -135,7 +135,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.29
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

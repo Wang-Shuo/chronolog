@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-05-19 · Interface Experience: **\U0001F4C2 Enh
   Sidebar UI**: Model files, documents, prompts, and playground merged into Workspace
   for…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 496
+  lag_days: 1862
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c7dbe96fe763f462f046e66a36e6b194b7f70e4afb79206d22ed3cab5053527f
+machine_hash: 0bd44adcab6c4795808fb9afade0a6d501819fbe927077302d15196eb014f3a7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -98,13 +98,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-05-15 · Ollama · [[Changes/Ollama/2024-05-15-to-clear-the-chat-history-for-a-session-when-running-ollama-run-use-clear|To clear the chat history for a session when running ollama run, use /clear]]
-- Later: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-improved-variable-assigner-supports-more-flexible-variable-selection-additionall|Improved Variable Assigner supports more flexible variable selection]]
+- Later: 2024-05-22 · Descript · [[Changes/Descript/2024-05-22-automatic-speaker-detection|Automatic Speaker Detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

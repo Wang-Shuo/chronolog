@@ -4,20 +4,19 @@ date: '2026-11-04'
 description: 'Gemini CLI · 2026-11-04 · Editor Experience: feat(cli): bridge the IDE
   companion into container sandboxes over exec stdio by @elberthc-byte in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1331
+  lag_days: 2915
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 813321ae4dd33b491ff6aeea0ca07b902eaf27cad5fc453ee4bbf82ee34b8fa5
+machine_hash: e789af93dfa00a38be441dfa70b07bea26a0ad74729c0435d58ef74fdfe58c73
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -79,13 +78,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-3-editor-experience-changes-in-1-19-0|3 Editor Experience changes in 1.19.0]]
-- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-reduces-prompt-cache-misses-across-completion-heartbeat-and-background-turns-by|Reduces prompt-cache misses across completion, heartbeat and background turns…]]
+- Later: 2026-11-04 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-11-04-authoritative-content-management-for-microsoft-365-copilot-search-web-microsoft|Authoritative content management for Microsoft 365 Copilot Search…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

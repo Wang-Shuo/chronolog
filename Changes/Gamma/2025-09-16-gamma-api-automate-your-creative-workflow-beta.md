@@ -5,20 +5,20 @@ description: 'Gamma · 2025-09-16 · Automation and Scheduling: Turn one great g
   into hundreds, personalized for different audiences. Our new API (available in beta
   for…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 623
+  lag_days: 2190
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4f834b65ec7061f40b070186551208c99c491d9a001ca60454f6c989e0285832
+machine_hash: 171255a6b005c6fea30a81dfd8dd3e627540ec51781262e9b99eaf1fe5dc6c54
 product: gamma
 product_name: Gamma
 record:
@@ -92,13 +92,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2025-09-01 · ElevenLabs · [[Changes/ElevenLabs/2025-09-01-sound-effects|Sound Effects]]
-- Later: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-5-automation-and-scheduling-changes-in-1-9-0|5 Automation and Scheduling changes in 1.9.0]]
+- Later: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-notion-ai-will-write-your-formulas|Notion AI will write your formulas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

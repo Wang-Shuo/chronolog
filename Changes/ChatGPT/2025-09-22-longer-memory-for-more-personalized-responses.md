@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a92861720a1583fc33c1e2e27a4df155a4385e23b0b38b082d00acb14bfc5cf9
+machine_hash: 2865e8906165dc0ac8478f6b67176ca2c60f1bbeccab017671dadacbf2e8a25f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,12 +41,12 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/Claude/2025-09-11-claude-s-memory-on-team-plans-and-incognito-chats-for-free-pro-max-and-team-plan|Claude’s
-  memory on Team plans and incognito chats for free, Pro, Max, and Team plans]]'
 - '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization
   settings are now in Settings]]'
 - '[[Changes/Claude/2025-09-18-claude-s-memory-on-enterprise-plans|Claude’s memory
   on Enterprise plans]]'
+- '[[Changes/Notion/2025-09-18-personalize-your-agent-s-instructions-and-memory|Personalize
+  your Agent’s instructions and memory]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-09-18 · Claude · [[Changes/Claude/2025-09-18-claude-s-memory-on-enterprise-plans|Claude’s memory on Enterprise plans]]
+- Earlier: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-personalize-your-agent-s-instructions-and-memory|Personalize your Agent’s instructions and memory]]
 - Later: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New /review commands…]]
 <!-- chronolog:end -->
 

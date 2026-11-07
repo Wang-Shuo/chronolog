@@ -4,20 +4,20 @@ date: '2026-05-07'
 description: 'Codex CLI · 2026-05-07 · Reliability and Performance: 2 changes in 0.129.0
   — `/copy` works better in tmux, Alt+Enter and modified Delete/Backspace keys behave…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1239
+  lag_days: 2726
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5c9ee1ba0b215318d76b276add2e077c4f86413abe1ff478a0e86748a8f222a5
+machine_hash: b893616b167afa624b5e4d11cd37c093e0bc6b91b03ed9c8062e797596119e34
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.129.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

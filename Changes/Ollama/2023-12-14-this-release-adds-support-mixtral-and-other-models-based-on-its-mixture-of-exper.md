@@ -5,20 +5,20 @@ description: 'Ollama · 2023-12-14 · Reliability and Performance: This release 
   support Mixtral and other models based on its Mixture of Experts (MoE) architecture.
   Note…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 364
+  lag_days: 1851
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1f7b334e2c6398fdcfc9a8b629b718ec991d9f2947c0f14579bc86c94e166932
+machine_hash: 217ba0d03d490fe2569df367e841ddb897f34410fd3317a5d5fdd85f04193cb4
 product: ollama
 product_name: Ollama
 record:
@@ -58,12 +58,11 @@ record:
     (MoE)…
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-11-20-minor-performance-improvements-on-intel-macs|Minor
-  performance improvements on Intel Macs]]'
-- '[[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster
-  Copilot++: a few hundred milliseconds faster, through various networking…]]'
 - '[[Changes/Ollama/2023-11-30-improved-progress-bar-when-running-ollama-pull-with-a-simpler-design-that-displa|Improved
   progress bar when running ollama pull with a simpler design that displays…]]'
+- '[[Changes/Descript/2023-12-05-we-ve-fixed-several-bugs-related-to-the-new-wordless-media-in-the-script-that-sh|Descript
+  fixes several bugs related to the new wordless media in the script…]]'
+- '[[Changes/Descript/2023-12-05-general-updates|General Updates]]'
 source_release: '[[Releases/Ollama/ollama-2023-12-14-v0-1-16-github-133879039-fcdcc323|ollama-2023-12-14-v0-1-16-github-133879039-fcdcc323]]'
 source_type: github_releases
 theme: reliability-performance
@@ -93,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-11-30 · Ollama · [[Changes/Ollama/2023-11-30-improved-progress-bar-when-running-ollama-pull-with-a-simpler-design-that-displa|Improved progress bar when running ollama pull with a simpler design that displays…]]
-- Later: 2024-01-03 · Ollama · [[Changes/Ollama/2024-01-03-improved-performance-when-sending-follow-up-messages-in-ollama-run-or-via-the-ap|Improved performance when sending follow up messages in ollama run or via the API]]
+- Earlier: 2023-12-05 · Descript · [[Changes/Descript/2023-12-05-general-updates|General Updates]]
+- Later: 2023-12-20 · Notion · [[Changes/Notion/2023-12-20-pages-load-15-20-faster|Pages load 15-20% faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-11-14'
 description: 'Runway · 2024-11-14 · Pricing Model: We have released a number of updates
   to the Runway API that gives users more features, flexibility and control when…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 700
+  lag_days: 2318
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: fd345c418156c07bdc081ec11e9ee21891a9ac0db941661d2e01115bc118d630
+machine_hash: 9e45c6c5712fe80f25cbb6e8ad7a4f0fdc7b022a8ebfc721703360d8c1c8a982
 product: runway
 product_name: Runway
 record:
@@ -53,12 +53,12 @@ record:
   title: Runway API updates
   type: change
 related_changes:
-- '[[Changes/Runway/2024-09-20-workspace-analytics-now-contains-graphs-that-provide-an-overview-of-credit-usage|Credit
-  Analytics]]'
 - '[[Changes/Gemini/2024-10-21-access-to-imagen-3-now-available-for-google-workspace-customers|Access
   to Imagen 3 now available for Google Workspace customers]]'
 - '[[Changes/Gemini/2024-10-21-expanding-workspace-extensions-in-beta-for-google-workspace-customers-calendar-k|Expanding
   Workspace extensions in Beta for Google Workspace customers]]'
+- '[[Changes/Descript/2024-11-05-subscription-management-and-checkout-update|Subscription
+  management and checkout update]]'
 source_release: '[[Releases/Runway/runway-2024-11-14-2024-11-14-runway-api-updates-76969c7d|runway-2024-11-14-2024-11-14-runway-api-updates-76969c7d]]'
 source_type: runway_changelog
 theme: pricing-model
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-10-21 · Gemini · [[Changes/Gemini/2024-10-21-expanding-workspace-extensions-in-beta-for-google-workspace-customers-calendar-k|Expanding Workspace extensions in Beta for Google Workspace customers]]
+- Earlier: 2024-11-05 · Descript · [[Changes/Descript/2024-11-05-subscription-management-and-checkout-update|Subscription management and checkout update]]
 - Later: 2024-12-03 · ElevenLabs · [[Changes/ElevenLabs/2024-12-03-api|API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

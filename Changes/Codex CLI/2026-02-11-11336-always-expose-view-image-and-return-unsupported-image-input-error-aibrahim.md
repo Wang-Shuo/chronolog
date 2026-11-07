@@ -4,20 +4,20 @@ date: '2026-02-11'
 description: 'Codex CLI · 2026-02-11 · Multimodal Input: #11336 Always expose view_image
   and return unsupported image-input error @aibrahim-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 876
+  lag_days: 2644
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d66215674db6756e97b8789732bc67938efbbd613acbae0dbdc8c80c3faa635
+machine_hash: d698438eaeed24e8a2d5c9d86c9d1131879857a45e5c2f6db3d02eed6fa5e466
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
     @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-03-3-multimodal-input-changes-in-1-12-0|3 Multimodal Input
-  changes in 1.12.0]]'
 - '[[Changes/Ollama/2026-02-03-glm-ocr-https-ollama-com-library-glm-ocr-glm-ocr-is-a-multimodal-ocr-model-for-c|GLM-OCR((source
   link) GLM-OCR is a multimodal OCR model…]]'
+- '[[Changes/Descript/2026-02-10-2-multimodal-input-changes-in-release-roundup-february-10th-2026|2
+  Multimodal Input changes in Release roundup—February 10th, 2026]]'
 - '[[Changes/Gemini CLI/2026-02-10-perf-core-optimize-token-calculation-and-add-support-for-multimodal-tool-respons|perf(core):
   optimize token calculation and add support for multimodal tool responses]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
@@ -92,13 +92,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-perf-core-optimize-token-calculation-and-add-support-for-multimodal-tool-respons|perf(core): optimize token calculation and add support for multimodal tool responses]]
-- Later: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-text-file-type-detection-fix-typescript-and-other-text-files-that-were-mis-detec|📄 Text file type detection fix. TypeScript and other text files…]]
+- Later: 2026-02-11 · HeyGen · [[Changes/HeyGen/2026-02-11-pick-from-12-templates-that-automatically-add-visual-hooks-pulled-from-your-scri|Pick from 12 templates that automatically add visual hooks pulled from your script…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

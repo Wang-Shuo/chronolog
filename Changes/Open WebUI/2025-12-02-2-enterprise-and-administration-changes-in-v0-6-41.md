@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-12-02 · Enterprise and Administration: 2 chang
   v0.6.41 — \U0001F6E0️ Channel creators can now edit and delete their own group and
   DM channels…"
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 942
+  lag_days: 2149
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c448dd4792136eea019cfb2dea762a7fa43d230fb945e39ea3d3683798c38054
+machine_hash: 571bb2736c060bd50b733bf313e659c748799b58e82878042eb43cfe4dc93683
 product: open-webui
 product_name: Open WebUI
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.41
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

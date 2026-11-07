@@ -4,20 +4,20 @@ date: '2026-04-06'
 description: 'GitHub Copilot CLI · 2026-04-06 · Context Window: Slash command timeline
   entries now include the command name (e.g., "Review", "Plan") for better context'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1068
+  lag_days: 2392
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8c25b50baf7558c246cd857dcf0aa17550ca97ef34dcf3b8e4da2144bec50c0
+machine_hash: 58a522430c605259f950a8b91eb2d8025673b5e17b51fcc6d5311b3b96f2ddf7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

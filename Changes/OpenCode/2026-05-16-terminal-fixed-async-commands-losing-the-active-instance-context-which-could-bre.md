@@ -4,20 +4,20 @@ date: '2026-05-16'
 description: 'OpenCode · 2026-05-16 · Context Window: Terminal Fixed async commands
   losing the active instance context, which could break agent generation and GitHub-driven…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1108
+  lag_days: 2432
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d30127422feaf9e6879628aa566541b8d5ed9f5b7727e8df4a8f14ff2ad1a202
+machine_hash: a723cf04705419a6f4573fb5cda1840bc9b1ace77dfc0b2358f037d9d85c216a
 product: opencode
 product_name: OpenCode
 record:
@@ -59,8 +59,7 @@ record:
     break…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved
-  reactive compaction]]'
+- '[[Changes/Descript/2026-05-14-add-context|Add context]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context
   shows correct token limits for all models instead of always showing 128k]]'
 - '[[Changes/OpenCode/2026-05-15-core-fixed-repeated-auto-compaction-in-sessions-after-compaction-reordered-messa|Core
@@ -104,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

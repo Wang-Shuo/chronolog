@@ -4,20 +4,20 @@ date: '2025-05-16'
 description: 'Runway · 2025-05-16 · Multimodal Input: Gen-4 Image is now available
   via the Runway API, allowing anyone to integrate its powerful multimodal generation…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 605
+  lag_days: 2373
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f363d84ba454e135f0881b96f30699deac73b8f6c8ae30fcd4d659a81c8e9f3e
+machine_hash: da4408c8c3fde69809b4ed876525b8d52e4ae3704fbc30eec5b5e82c69603c33
 product: runway
 product_name: Runway
 record:
@@ -44,8 +44,8 @@ record:
   title: Gen-4 Image in Runway API
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-04-26-add-support-for-meta-s-llama-4-https-ollama-com-library-llama4-multimodal-models|Add
-  support for Meta''s Llama 4((source link) multimodal models]]'
+- '[[Changes/Descript/2025-05-08-in-order-to-resolve-an-issue-related-to-content-protection-the-screen-recorder-o|In
+  order to resolve an issue related to content protection, the Screen recorder…]]'
 - '[[Changes/Ollama/2025-05-13-2-multimodal-input-changes-in-v0-7-0|2 Multimodal Input
   changes in v0.7.0]]'
 - '[[Changes/Dify/2025-05-15-feat-api-add-image-multimodal-support-for-llmnode-by-quantumghost-in-https-githu|feat(api):
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-feat-api-add-image-multimodal-support-for-llmnode-by-quantumghost-in-https-githu|feat(api): Add image multimodal support for LLMNode]]
-- Later: 2025-05-21 · Ollama · [[Changes/Ollama/2025-05-21-support-for-alibaba-s-qwen-3-and-qwen-2-architectures-in-ollama-s-new-multimodal|Support for Alibaba's Qwen 3 and Qwen 2 architectures in Ollama's new multimodal…]]
+- Later: 2025-05-20 · Descript · [[Changes/Descript/2025-05-20-ai-video-maker-updates|AI video maker updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

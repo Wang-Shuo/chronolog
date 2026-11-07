@@ -4,20 +4,20 @@ date: '2026-09-16'
 description: 'GitHub Copilot CLI · 2026-09-16 · Pricing Model: /usage shows per-model
   AI Credit consumption in usage breakdowns'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1371
+  lag_days: 2989
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: b39c429ee84bb8aaa7c7bb07c39777f75db8aa9f5d99077efc73d602a8096d32
+machine_hash: ac30527935572939b3b49e66a967a01ecd22a7bc0fcf440cdc39054020d0de2d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: /usage shows per-model AI Credit consumption in usage breakdowns
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-10-share-your-lovable-invite-link-from-your-phone|Share
-  your Lovable invite link from your phone]]'
 - '[[Changes/OpenClaw/2026-09-11-3-pricing-model-changes-in-v2026-9-4|3 Pricing Model
   changes in v2026.9.4]]'
+- '[[Changes/Qoder/2026-09-12-creative-achievements-your-profile-now-includes-credits-and-activity-stats-along|Creative
+  achievements: Your profile now includes Credits and activity stats, along…]]'
 - '[[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added
   support for a multiplier above 1, up to 10, in the modelPricing managed…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-11 · Context Window: 2 changes in v2026.9.4 �
   reports now warn when totals may still be incomplete, so a temporary zero is less
   likely…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1226
+  lag_days: 2550
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5851e15ef4e009bdd54e4e20949482abb1401f05e30b3dddcee113dea794876f
+machine_hash: 89bc5dd47bfcd04f8ec3fb0f70867c211d7167ae5448bd852fe710b3b82bcbf3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -120,7 +120,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

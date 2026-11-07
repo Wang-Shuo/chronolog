@@ -4,20 +4,19 @@ date: '2025-05-05'
 description: 'OpenHands · 2025-05-05 · Editor Experience: Improved the display of
   the settings tab by @xingyaoww in https://github.com/All-Hands-AI/OpenHands/pull/8240'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 783
+  lag_days: 2367
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46e83c58b338155145299f57c0562dede169be442aad7bf1f710df1ddf352b38
+machine_hash: f14fedc497fce89f703705cc543db5b366e8a842469516a5a8ae9fa1ab7f6546
 product: openhands
 product_name: OpenHands
 record:
@@ -77,13 +76,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-04-30 · Midjourney · [[Changes/Midjourney/2025-04-30-improved-lightbox-editor-interface|Improved lightbox editor interface]]
-- Later: 2025-05-07 · OpenHands · [[Changes/OpenHands/2025-05-07-added-helpful-tips-to-changes-tab-zero-state-by-rbren-in-https-github-com-all-ha|Added helpful tips to Changes tab zero state]]
+- Later: 2025-05-06 · Descript · [[Changes/Descript/2025-05-06-rooms-bug-fixes|Rooms bug fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

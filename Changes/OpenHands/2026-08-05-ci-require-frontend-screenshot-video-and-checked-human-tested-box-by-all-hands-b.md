@@ -4,20 +4,20 @@ date: '2026-08-05'
 description: 'OpenHands · 2026-08-05 · Multimodal Input: ci: require frontend screenshot/video
   and checked human-tested box by @all-hands-bot in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1051
+  lag_days: 2819
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4047ea880d98439f5f01d67d6380e0f77869d3b74ddb981313dec5020966a30f
+machine_hash: e6f0c36c2914c3fb22dbc1121f71c58a7e1f131976808afaa2f162d1ec1d8644
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 'ci: require frontend screenshot/video and checked human-tested box'
   type: change
 related_changes:
-- '[[Changes/Runway/2026-07-14-aleph-2-0-is-now-available-through-the-runway-mcp-ask-your-agent-to-edit-videos|Aleph
-  2.0 in MCP]]'
-- "[[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|\U0001F5BC️
-  Media types an extraction engine may handle. Administrators can now list…]]"
 - '[[Changes/Runway/2026-07-28-pass-in-any-video-with-a-text-prompt-describing-an-entity-to-cut-it-out-as-a-tra|SAM3
   Video Segmentation]]'
+- '[[Changes/HeyGen/2026-07-29-turn-any-url-pdf-or-topic-into-a-publishable-two-host-video-episode-in-minutes|Turn
+  any URL, PDF, or topic into a publishable two-host video episode in minutes]]'
+- '[[Changes/HeyGen/2026-07-29-automatic-camera-coverage-wide-establishing-shot-per-host-close-ups-and-b-roll-c|Automatic
+  camera coverage]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834|openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834]]'
 source_type: github_releases
 theme: multimodal
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-07-28 · Runway · [[Changes/Runway/2026-07-28-pass-in-any-video-with-a-text-prompt-describing-an-entity-to-cut-it-out-as-a-tra|SAM3 Video Segmentation]]
-- Later: 2026-08-10 · Ollama · [[Changes/Ollama/2026-08-10-ollama-s-mlx-engine-provides-state-of-the-art-performance-on-apple-silicon-for-t|Ollama's MLX engine provides state-of-the-art performance on Apple Silicon…]]
+- Earlier: 2026-07-29 · HeyGen · [[Changes/HeyGen/2026-07-29-automatic-camera-coverage-wide-establishing-shot-per-host-close-ups-and-b-roll-c|Automatic camera coverage]]
+- Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-multilingual-embed-player|Multilingual embed player]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

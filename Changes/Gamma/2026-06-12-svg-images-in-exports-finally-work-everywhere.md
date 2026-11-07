@@ -4,20 +4,20 @@ date: '2026-06-12'
 description: 'Gamma · 2026-06-12 · Presentation Creation: The "red X" issue when opening
   Gamma exports in Google Slides or Keynote is fixed. SVG images now embed correctly…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 730
+  lag_days: 1799
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d7e7e130b5c130bc821e9f5f7194561440bd45d468c1676aad4db2b5f514e936
+machine_hash: 65f83df3637b52928a920a6407a8a1c7379bb8991f1114994ce778a151401b81
 product: gamma
 product_name: Gamma
 record:
@@ -83,13 +83,13 @@ type: change
 ## Nearby in Presentation Creation
 
 - Earlier: 2026-05-29 · Gamma · [[Changes/Gamma/2026-05-29-export-fixes-across-the-board|Export fixes across the board]]
-- Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-word-powerpoint-and-excel-document-reads-and-writes-now-use-the-intended-docx-pp|Word, PowerPoint, and Excel document reads and writes now use the intended .docx…]]
+- Later: 2026-06-16 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-16-use-copilot-to-get-a-detailed-and-contextual-explanation-for-shapes-and-images-w|Use Copilot to get a detailed and contextual explanation for shapes and images…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

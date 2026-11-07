@@ -4,20 +4,20 @@ date: '2026-02-02'
 description: 'ElevenLabs · 2026-02-02 · Voice and Audio: `NonStreamingOutputFormats`
   - Enum for non-streaming audio output formats including WAV variants'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 938
+  lag_days: 2765
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9e9d55e4971fc1cbd70b5ea246f2aacba06357f8e2b5f381624e17d96743f176
+machine_hash: 567d8bcb1431bd0008af2fc0ca73ee046620adef1f43c4b5c17c16444d8ff8f4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,11 +49,11 @@ record:
   title: New Schemas
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-25-desktop-add-state-to-pause-existing-audio-for-demo-menus-and-add-support-for-aud|Desktop
-  Add state to pause existing audio for demo menus and add support for audio…]]'
 - '[[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements
   to search response quality in Voice]]'
 - '[[Changes/ElevenLabs/2026-01-26-music|Music]]'
+- '[[Changes/HeyGen/2026-01-26-blueprint-first-creation-see-your-full-video-plan-before-anything-renders-avatar|Blueprint-first
+  creation See your full video plan before anything renders—avatar…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-02-2026-02-02-2180766f|elevenlabs-2026-02-02-2026-02-02-2180766f]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -96,14 +96,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-music|Music]]
-- Later: 2026-02-12 · ChatGPT · [[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|ChatGPT Voice Update]]
+- Earlier: 2026-01-26 · HeyGen · [[Changes/HeyGen/2026-01-26-blueprint-first-creation-see-your-full-video-plan-before-anything-renders-avatar|Blueprint-first creation See your full video plan before anything renders—avatar…]]
+- Later: 2026-02-06 · HeyGen · [[Changes/HeyGen/2026-02-06-5-audio-translation-is-now-unlimited|Audio translation is now unlimited]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 07f8379a37b5fc57ff7564277bf178657f3ba8c6036cd4230f33414c91cf32af
+machine_hash: dfd25d0f058bafad7d6b5c88abcaa9ca9ccc97e5ccfc9b25bd4909822df332dc
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,12 @@ record:
   title: Add GPT-5.4 to Codex allowed models list
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-add-support-for-gpt-5-4-model|Add support
-  for GPT-5.4 model]]'
 - '[[Changes/Ollama/2026-03-05-allow-thinking-levels-such-as-medium-to-correctly-interpreted-in-ollama-s-api-fo|Allow
   thinking levels such as "medium" to correctly interpreted in Ollama''s API…]]'
 - '[[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added
   GPT-5.4 models for ChatGPT subscription users]]'
+- '[[Changes/Notion/2026-03-06-gpt-5-4-is-now-available-in-notion-s-model-picker-this-is-openai-s-latest-and-mo|GPT-5.4
+  is now in Notion]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-06-v1-2-20-78c77e9c|opencode-2026-03-06-v1-2-20-78c77e9c]]'
 source_type: opencode_changelog
 theme: model-support
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-06 · Cline · [[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added GPT-5.4 models for ChatGPT subscription users]]
+- Earlier: 2026-03-06 · Notion · [[Changes/Notion/2026-03-06-gpt-5-4-is-now-available-in-notion-s-model-picker-this-is-openai-s-latest-and-mo|GPT-5.4 is now in Notion]]
 - Later: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-desktop-model-sticks-to-session-after-being-changed|Desktop Model sticks to session after being changed]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-06-25'
 description: 'Dify · 2026-06-25 · Context Window: 3 changes in 1.15.0 — refactor:
   streamline workflow context menu lifecycle by @lyzno1 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1148
+  lag_days: 2472
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc0013179138bbf183ad472a4979ea17435a35e77845f407059755e396eef388
+machine_hash: ae7e4ee9bb9442bed60074a8ffddacb3cc25b043328e6893ff865cff3240d240
 product: dify
 product_name: Dify
 record:
@@ -107,7 +107,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

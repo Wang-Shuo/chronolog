@@ -4,19 +4,20 @@ date: '2026-03-11'
 description: 'GitHub Copilot CLI · 2026-03-11 · Collaboration: Session export header
   renders each field on its own line in shared gists'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1022
+  lag_days: 2616
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74d51dc6dedeeee889ebabbaa8c755337a8560ce5c9cbecf7d099cfbbdd21c47
+machine_hash: 9beb49ecfcc531ecc8d7724be73a1028aa1a0c6b1b8e3e9a03a720a42853007f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

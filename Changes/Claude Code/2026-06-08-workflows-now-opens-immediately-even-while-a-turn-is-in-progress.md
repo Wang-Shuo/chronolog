@@ -4,20 +4,20 @@ date: '2026-06-08'
 description: 'Claude Code · 2026-06-08 · Automation and Scheduling: `/workflows` now
   opens immediately even while a turn is in progress'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 888
+  lag_days: 2455
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 400f87d02a109e029e747d5b0b4e7654e4b3f9bc3fc00bc489d2e56edba34882
+machine_hash: e87b990b20ac32981263b05c6e4279c0e42c8abc41cff2fcd32bfbea9d96ba7c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: '`/workflows` now opens immediately even while a turn is in progress'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-06-01-bulk-enable-or-disable-automations-automations-can-now-be-enabled-or-disabled-in|\U0001F518
-  Bulk enable or disable automations. Automations can now be enabled or disabled…]]"
 - '[[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental
   schedule prompts with /every and /after]]'
+- '[[Changes/Kimi Code/2026-06-02-render-scheduled-reminders-distinctly-in-the-tui-expose-cron-fired-events-to-sdk|Render
+  scheduled reminders distinctly in the TUI, expose cron fired events to SDK…]]'
 - '[[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable
   wait() on local runs]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

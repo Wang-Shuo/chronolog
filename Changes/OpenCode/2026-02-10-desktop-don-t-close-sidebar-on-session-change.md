@@ -4,20 +4,20 @@ date: '2026-02-10'
 description: 'OpenCode · 2026-02-10 · Interface Experience: Desktop Don''t close sidebar
   on session change'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1128
+  lag_days: 2494
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 685818f9132f5a6731eae9e20aa559379a03f30bbbdbde07c12bee276dd96262
+machine_hash: 65d97ce0b3dda38de60a0bc8f94d0a2d53f84d131194c0a06886410e6a77fe84
 product: opencode
 product_name: OpenCode
 record:
@@ -40,10 +40,9 @@ record:
   title: Desktop Don't close sidebar on session change
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates
-  to deep research]]'
-- '[[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved
-  terminal rendering performance]]'
+- '[[Changes/Descript/2026-02-10-save-scenes-as-layouts-now-easier-and-more-controllable|Save
+  scenes as Layouts - now easier and more controllable]]'
+- '[[Changes/Descript/2026-02-10-re-size-your-sidebar|Re-size your sidebar]]'
 - '[[Changes/Gemini CLI/2026-02-10-2-interface-experience-changes-in-v0-28-0|2 Interface
   Experience changes in v0.28.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-10-v1-1-56-fe69ed4e|opencode-2026-02-10-v1-1-56-fe69ed4e]]'
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

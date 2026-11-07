@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98b1c20af0c0ad0a256cb61a4310b0a1bb51070752c3ea54f6e1ac4bd31b903c
+machine_hash: c6b22f7de5d6b9d81af4a2c21cbb8dff83e349ffb1feb1ca565740e41cff4395
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.116.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-18-2-agent-mode-changes-in-v1-0-8|2 Agent Mode changes in v1.0.8]]
-- Later: 2026-03-20 · Replit · [[Changes/Replit/2026-03-20-empty-project-creation|Empty project creation]]
+- Later: 2026-03-19 · HeyGen · [[Changes/HeyGen/2026-03-19-video-agent|Video Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

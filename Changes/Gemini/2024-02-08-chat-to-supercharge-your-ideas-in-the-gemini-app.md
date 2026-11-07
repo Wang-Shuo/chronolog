@@ -5,20 +5,20 @@ description: 'Gemini · 2024-02-08 · Voice and Audio: What: Get help learning i
   ways, writing thank you notes, planning events, and more with Google AI on your
   phone…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 213
+  lag_days: 2040
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: da97dc11c52bf69577935344b0520f480a7f62c7036398cd52a06f841df9750a
+machine_hash: 4a5e24a5dc6635b63ad445309f8b0d44607af66e9687f5dfffa7b06b73ea59ef
 product: gemini
 product_name: Gemini
 record:
@@ -64,12 +64,12 @@ record:
   title: Chat to supercharge your ideas in the Gemini app
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-  are beginning to roll out new voice and image capabilities in ChatGPT]]'
-- '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
-  with voice is available to all users]]'
 - '[[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom
   Voices]]'
+- '[[Changes/Descript/2024-01-10-descript-for-web-beta-adds-video-audio-and-gif-exports|Descript
+  for Web (Beta) adds Video, Audio, and GIF exports]]'
+- '[[Changes/Descript/2024-01-10-white-glove-transcription-sunset|White Glove Transcription
+  Sunset]]'
 source_release: '[[Releases/Gemini/gemini-2024-02-08-2024-02-08-d9ed44d5|gemini-2024-02-08-2024-02-08-d9ed44d5]]'
 source_type: gemini_changelog
 theme: voice
@@ -101,14 +101,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-01-08 · Runway · [[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom Voices]]
+- Earlier: 2024-01-10 · Descript · [[Changes/Descript/2024-01-10-white-glove-transcription-sunset|White Glove Transcription Sunset]]
 - Later: 2024-02-19 · Dify · [[Changes/Dify/2024-02-19-5-voice-and-audio-changes-in-0-5-6|5 Voice and Audio changes in 0.5.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

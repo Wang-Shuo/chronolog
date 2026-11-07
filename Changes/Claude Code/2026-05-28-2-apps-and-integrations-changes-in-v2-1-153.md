@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-05-28 · Apps and Integrations: 2 changes in v
   — Added `skipLfs` option to `github`/`git` plugin marketplace sources to skip Git
   LFS…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1162
+  lag_days: 2722
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e749bdf14401cbc7bd202cb1965cdb0c7ac6a1284d1112627efbf8a7ad106bd
+machine_hash: 23198c9e753f46cf0273e3945990ea0392c14b2da6b7658d23bbdaabae4f957f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Apps and Integrations changes in v2.1.153
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-27-docs-extensions-clarify-env-var-sanitization-policy-for-mcp-and-ext-by-galz10-in|docs(extensions):
-  clarify env var sanitization policy for MCP and ext…]]'
+- '[[Changes/Kimi Code/2026-05-27-2-apps-and-integrations-changes-in-kimi-code-0-4-0|2
+  Apps and Integrations changes in Kimi Code 0.4.0]]'
 - '[[Changes/OpenCode/2026-05-27-3-apps-and-integrations-changes-in-v1-15-11|3 Apps
   and Integrations changes in v1.15.11]]'
 - '[[Changes/Claude/2026-05-28-enterprise-plans-can-manage-connector-access-with-custom-roles|Enterprise
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

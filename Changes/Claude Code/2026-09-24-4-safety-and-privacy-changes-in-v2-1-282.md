@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-24 · Safety and Privacy: 4 changes in v2.1
   — Fixed Bash permission rules with a mid-pattern `:*` being skipped in settings
   files…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1257
+  lag_days: 2249
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a216529b2b0303d92199fb02268c32fd55b9809d769b7e1590a58a3d944c368b
+machine_hash: 3ce20b5eb485b259ba23a8e40a6a04244c810800d169b14e865ac242e29260ab
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,7 +52,8 @@ record:
   title: 4 Safety and Privacy changes in v2.1.282
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-findings|Findings]]'
+- '[[Changes/Kimi Code/2026-09-23-harden-workspace-security-block-file-tools-from-accessing-files-outside-the-work|Harden
+  workspace security]]'
 - '[[Changes/Lovable/2026-09-23-redesigned-project-security-view|Redesigned project
   Security view]]'
 - '[[Changes/OpenClaw/2026-09-23-50-safety-and-privacy-changes-in-v2026-9-6|50 Safety
@@ -107,7 +108,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

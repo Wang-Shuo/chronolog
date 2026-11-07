@@ -4,20 +4,20 @@ date: '2023-01-09'
 description: 'ChatGPT · 2023-01-09 · Interface Experience: Stop generating: Based
   on your feedback, we''ve added the ability to stop generating ChatGPT''s response'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1366
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e2b50c83bb2f2f663dad79f0c264e2f46c87e72a41866257073a0593cafb01f
+machine_hash: 373eb35d6195ebf114aed86a9e09f83194933fea40a86375ab4b204dc0068631
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,6 +44,13 @@ record:
   title: 'Stop generating: Based on your feedback, we''ve added the ability to stop
     generating…'
   type: change
+related_changes:
+- '[[Changes/Notion/2022-05-03-one-property-default-add-items-from-database-b-to-database-a-without-creating-an|One
+  property (default)]]'
+- '[[Changes/Notion/2022-08-11-align-images-and-other-embedded-content|Align images
+  and other embedded content]]'
+- '[[Changes/Descript/2022-12-06-add-scenes-by-active-speaker-out-of-beta-use-this-feature-from-the-script-action|Add
+  scenes by active speaker out of beta]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3|chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -73,13 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Later: 2023-02-09 · ChatGPT · [[Changes/ChatGPT/2023-02-09-as-we-recently-announced-our-plus-plan-comes-with-early-access-to-new-experiment-0e68f2|As we recently announced, our Plus plan comes with early access to new, experimental…]]
+- Earlier: 2022-12-06 · Descript · [[Changes/Descript/2022-12-06-add-scenes-by-active-speaker-out-of-beta-use-this-feature-from-the-script-action|Add scenes by active speaker out of beta]]
+- Later: 2023-01-23 · Descript · [[Changes/Descript/2023-01-23-made-it-easier-to-apply-changes-from-one-scene-to-all-scenes-that-a-layer-spans|Made it easier to apply changes from one scene to all scenes that a layer spans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

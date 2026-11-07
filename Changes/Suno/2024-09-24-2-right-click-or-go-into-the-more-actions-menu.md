@@ -4,20 +4,20 @@ date: '2024-09-24'
 description: 'Suno · 2024-09-24 · Interface Experience: 2 - Right click or go into
   the More Actions menu'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 624
+  lag_days: 1990
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 58ebd5c903d0d737e1bdc7f757137206857d3b561b2c22745951dec167963a50
+machine_hash: c3129154f927e0298a7c5e1a8f9f02eeee0bde05ed0946af546c0e895fa9ac79
 product: suno
 product_name: Suno
 record:
@@ -76,13 +76,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-enhanced-latex-rendering-improved-rendering-for-latex-content-enhancing-clarity|📊 Enhanced LaTeX Rendering]]
-- Later: 2024-09-25 · Open WebUI · [[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|🔧 KaTeX Rendering Improvement]]
+- Later: 2024-09-25 · Descript · [[Changes/Descript/2024-09-25-using-remove-ignored-text-in-edit-for-clarity-will-now-close-the-underlord-sideb|Using Remove ignored text in Edit for clarity will now close the Underlord sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

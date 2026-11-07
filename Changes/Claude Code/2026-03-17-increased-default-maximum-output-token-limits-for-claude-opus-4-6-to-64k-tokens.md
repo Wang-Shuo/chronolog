@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1c69c2a5559822143e9b5275bb1840eb6618b5a6db83ae0737a8fb4effcfcaa
+machine_hash: ae626256bb60754721568bdef1e051249e937f9b3114b6efe7069f5ad4b272b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|Thinking – deeper reasoning for more complex tasks]]
-- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-18-model-support-changes-in-1-13-1|18 Model Support changes in 1.13.1]]
+- Later: 2026-03-17 · Descript · [[Changes/Descript/2026-03-17-ai-models-have-their-own-section-in-settings|AI Models have their own section in Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

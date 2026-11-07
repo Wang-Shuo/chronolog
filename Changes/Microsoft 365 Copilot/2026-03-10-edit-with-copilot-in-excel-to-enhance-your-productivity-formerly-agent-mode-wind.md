@@ -1,0 +1,101 @@
+---
+card_id: microsoft-365-copilot-2026-03-10-6ebf7e
+date: '2026-03-10'
+description: 'Microsoft 365 Copilot · 2026-03-10 · Agent Mode: Edit with Copilot in
+  Excel to build and change workbooks, using Excel tools like tables, charts, PivotTables…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 978
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 37
+evolves_from: []
+extractor_version: fallback-v5
+impact: paradigm-shift
+kind: launch
+machine_hash: 98aeecaad9f628630dd46b09fc37ffced982f9b0713b3c806f9c84b5713792f9
+product: microsoft-365-copilot
+product_name: Microsoft 365 Copilot
+record:
+  ai_generated: true
+  card_id: microsoft-365-copilot-2026-03-10-6ebf7e
+  comparison: ''
+  confidence: low
+  date: '2026-03-10'
+  description: 'Microsoft 365 Copilot — Microsoft 365 Copilot updates — 2026-03-10:
+    Edit with Copilot in Excel to build and change workbooks, using Excel tools like
+    tables, charts, PivotTables, and formulas to complete complex data tasks faster.'
+  evidence:
+  - quote: Edit with Copilot in Excel to build and change workbooks, using Excel tools
+      like tables, charts, PivotTables, and formulas to complete complex data tasks
+      faster.
+    source_release: https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#march-10-2026
+  extractor_version: fallback-v5
+  impact: paradigm-shift
+  kind: launch
+  product: microsoft-365-copilot
+  product_name: Microsoft 365 Copilot
+  slug: edit-with-copilot-in-excel-to-enhance-your-productivity-formerly-agent-mode-wind
+  source_release: microsoft-365-copilot-2026-03-10-2026-03-10-6ec3223f
+  source_type: m365_copilot_changelog
+  theme: agent-mode
+  title: Edit with Copilot in Excel to enhance your productivity (formerly Agent Mode)…
+  type: change
+related_changes:
+- '[[Changes/ElevenLabs/2026-03-09-elevencreative-studio|ElevenCreative Studio]]'
+- '[[Changes/ElevenLabs/2026-03-09-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Claude Code/2026-03-10-2-agent-mode-changes-in-v2-1-72|2 Agent Mode changes
+  in v2.1.72]]'
+source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-03-10-2026-03-10-6ec3223f|microsoft-365-copilot-2026-03-10-2026-03-10-6ec3223f]]'
+source_type: m365_copilot_changelog
+theme: agent-mode
+title: Edit with Copilot in Excel to enhance your productivity (formerly Agent Mode)…
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Edit with Copilot in Excel to enhance your productivity (formerly Agent Mode)…
+
+**Microsoft 365 Copilot** · 2026-03-10 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#march-10-2026) · from [[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-03-10-2026-03-10-6ec3223f|Microsoft 365 Copilot updates — 2026-03-10]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Edit with Copilot in Excel to build and change workbooks, using Excel tools like tables, charts, PivotTables, and formulas to complete complex data tasks faster.
+>
+> Source: https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#march-10-2026
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Microsoft 365 Copilot/2026-03-10-ask-copilot-directly-from-the-microsoft-edge-address-bar-web-microsoft-365-copil|Ask Copilot directly from the Microsoft Edge address bar…]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-03-10-scope-copilot-chat-prompts-to-teams-channels-with-context-iq-web-microsoft-365-c|Scope Copilot Chat prompts to Teams channels with Context IQ…]] · Context Window
+- [[Changes/Microsoft 365 Copilot/2026-03-10-expanded-ai-skill-inferencing-for-e3-and-e5-users-windows-web-microsoft-365-copi|Expanded AI skill inferencing for E3 and E5 users Windows…]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-03-10-summarize-and-explain-pdfs-with-copilot-in-microsoft-edge-web-microsoft-365-copi|Summarize and explain PDFs with Copilot in Microsoft Edge…]] · Files and Data
+- [[Changes/Microsoft 365 Copilot/2026-03-10-chat-history-filtering-experience-refresh-microsoft-365-copilot-chat|Chat History filtering experience refresh (Microsoft 365 Copilot Chat)]] · Interface Experience
+- [[Changes/Microsoft 365 Copilot/2026-03-10-connect-copilot-with-shortcut-to-manage-agile-development-workflows-web-microsof|Connect Copilot with Shortcut to manage agile development workflows…]] · Apps and Integrations
+- [[Changes/Microsoft 365 Copilot/2026-03-10-edit-images-in-powerpoint-with-designer-editor-windows-web-mac-powerpoint|Edit images in PowerPoint with Designer Editor Windows, Web, Mac (PowerPoint)]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-03-10-connect-copilot-to-amazon-s3-document-repositories-web-microsoft-365-copilot-ext|Connect Copilot to Amazon S3 document repositories…]] · Apps and Integrations
+- [[Changes/Microsoft 365 Copilot/2026-03-10-explainable-ai-with-deep-and-inline-citations-for-connectors-microsoft-365-copil|Explainable AI with deep and inline citations for connectors (Microsoft 365 Copilot Chat)]] · Apps and Integrations
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-2-agent-mode-changes-in-v2-1-72|2 Agent Mode changes in v2.1.72]]
+- Later: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-6-agent-mode-changes-in-v0-33-0|6 Agent Mode changes in v0.33.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20microsoft-365-copilot-2026-03-10-6ebf7e&body=Card%3A%20Changes%2FMicrosoft%20365%20Copilot%2F2026-03-10-edit-with-copilot-in-excel-to-enhance-your-productivity-formerly-agent-mode-wind.md%0ACard%20ID%3A%20microsoft-365-copilot-2026-03-10-6ebf7e%0ASource%3A%20https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fmicrosoft-365%2Fcopilot%2Frelease-notes%23march-10-2026%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

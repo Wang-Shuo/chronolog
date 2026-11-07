@@ -29,6 +29,8 @@ def test_project_configs_and_fixture_are_present():
         "suno_changelog", "runway_changelog", "midjourney_changelog", "gamma_changelog",
         "granola_changelog", "antigravity_changelog", "manus_changelog",
         "openclaw_changelog", "opencode_changelog",
+        "canny_changelog", "heygen_changelog", "synthesia_changelog", "notion_changelog",
+        "qoder_changelog", "kimi_code_changelog", "m365_copilot_changelog", "zai_changelog",
     }
     assert {"agent-mode", "context-window", "pricing-model"} <= {
         theme["slug"] for theme in themes["themes"]

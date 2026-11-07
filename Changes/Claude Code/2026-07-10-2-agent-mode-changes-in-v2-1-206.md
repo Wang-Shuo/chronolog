@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f7327bb45602229bc697767a5c0c09c44f6e4f85b094615793871b8c2e96b37
+machine_hash: 6801b19009c05ba3098c50e754d2f06c06e55a1698d724d71764df6d77485861
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Agent Mode changes in v2.1.206
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-4-agent-mode-changes-in-rust-v0-144-0|4 Agent Mode
-  changes in rust-v0.144.0]]'
+- '[[Changes/Notion/2026-07-09-build-and-iterate-on-workers-with-your-team-or-share-one-so-teammates-can-connec|Build
+  and iterate on Workers with your team]]'
 - '[[Changes/OpenCode/2026-07-09-desktop-updated-sub-agent-task-rows-to-match-the-v2-session-design-more-closely|Desktop
   Updated sub-agent task rows to match the v2 session design more closely]]'
 - '[[Changes/OpenHands/2026-07-09-feat-enterprise-agent-profiles-on-the-cloud-saas-backend-15044-by-simonrosenberg|feat(enterprise):

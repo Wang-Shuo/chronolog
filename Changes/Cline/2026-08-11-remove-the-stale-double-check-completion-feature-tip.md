@@ -4,20 +4,19 @@ date: '2026-08-11'
 description: 'Cline · 2026-08-11 · Editor Experience: Remove the stale "Double-Check
   Completion" feature tip.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1246
+  lag_days: 2830
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd39ed38ba8c217567d06240be0d858dd8e9abddc300b84f27e55a0458914803
+machine_hash: e454e91fb1647fd75d22ca6be56cd3019429f68c6fd9e15ec0466666bef7c1a7
 product: cline
 product_name: Cline
 record:
@@ -80,13 +79,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-2-editor-experience-changes-in-v1-0-79|2 Editor Experience changes in v1.0.79]]
-- Later: 2026-08-13 · Cline · [[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use the editor's foreground color for diff block text, so diffs stay legible…]]
+- Later: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-parallel-content-and-identity-crawl-improves-content-freshness-web-microsoft-365|Parallel content and identity crawl improves content freshness…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

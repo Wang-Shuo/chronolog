@@ -4,20 +4,20 @@ date: '2026-11-04'
 description: 'Dify · 2026-11-04 · Files and Data: 6 changes in v1.19.0 - Trace Your
   Workflows, Layer by Layer — Read PDFs inline, inspect source files with syntax…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1259
+  lag_days: 2604
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6979e4da3a3dae41eef1f1b73c75fe2f8a883391623652faa7d1fc55fe640bcf
+machine_hash: d1b67eec7f2666a6ecc720eee0d0d502c37644e63668c1a69ef58e7bc133ed75
 product: dify
 product_name: Dify
 record:
@@ -127,13 +127,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Files and Data
 
 - Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-feat-canvas-attribute-local-cloud-signup-entries-all-5962-by-malhotra5-in-https|feat(canvas): attribute local Cloud signup entries (ALL-5962)]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-2-files-and-data-changes-in-v1-0-106|2 Files and Data changes in v1.0.106]]
+- Later: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-take-documents-and-sites-further|Take Documents and Sites Further]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,21 @@ date: '2026-03-24'
 description: 'Gemini CLI · 2026-03-24 · Account and Access: docs(core): add authentication
   guide for remote subagents by @adamfweidman in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1090
+  lag_days: 2065
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b42c093beffe8c804c281812b9f0e1cd8f7d3a91bd405f0c961a14b088e2802a
+machine_hash: f8b7efad88df76ebf767e7aec12078159c0cff4ea5b47c46c187f99768644fb0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -98,13 +99,13 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-mcp-oauth-authentication-works-with-mcp-servers-like-the-atlassian-rovo-mcp-serv|MCP OAuth authentication works with MCP servers like the Atlassian Rovo MCP Server…]]
-- Later: 2026-03-24 · OpenCode · [[Changes/OpenCode/2026-03-24-added-poe-as-a-built-in-authentication-provider-with-oauth-and-api-key-support|Added Poe as a built-in authentication provider with OAuth and API key support]]
+- Later: 2026-03-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-24-faster-connector-authentication-setup-for-gong-github-and-monday-web-microsoft-3|Faster connector authentication setup for Gong, GitHub, and Monday…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

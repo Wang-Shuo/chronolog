@@ -3,20 +3,20 @@ card_id: suno-2024-02-22-e0a82d
 date: '2024-02-22'
 description: "Suno · 2024-02-22 · Music Generation: \U0001F680 Faster song generation"
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 61
+  lag_days: 1527
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 793023f38e8ee7fa2c5b49e181b35fc147065b09d436ce3585f1a51be5427f0b
+machine_hash: 745ba0c2aec0257dba4c952b062531e6344642a859bceea71117dbb4f827b913
 product: suno
 product_name: Suno
 record:
@@ -83,6 +83,8 @@ record:
   title: "\U0001F680 Faster song generation"
   type: change
 related_changes:
+- '[[Changes/Synthesia/2023-04-19-you-can-now-control-the-volume-of-music-and-videos-files-in-studio|AUDIO
+  controls are here!]]'
 - '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
   a Holiday Song   - A limited-time mode for the holidays…]]'
 - '[[Changes/Suno/2024-01-27-hope-everyone-is-having-a-great-weekend-we-released-some-quality-of-life-improve|Hope
@@ -143,7 +145,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

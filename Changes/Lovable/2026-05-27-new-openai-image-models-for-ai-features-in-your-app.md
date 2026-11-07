@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 202f4ceaa385e5de25e72f3b99bce044821684dfe26a6f76aa16c2e82b361f5e
+machine_hash: 84a7e25ed9d34a8cb30988c860b5f152ce0e4876671ef4578b395c99d863da61
 product: lovable
 product_name: Lovable
 record:
@@ -52,12 +52,12 @@ record:
   title: New OpenAI image models for AI features in your app
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes
-  in v3.85.0]]'
 - '[[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support
   changes in v2.1.152]]'
 - '[[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor:
   decouple auto model description and configuration from releaseChannel]]'
+- '[[Changes/Kimi Code/2026-05-27-use-one-retry-classification-for-transient-llm-failures-across-regular-turns-and|Use
+  one retry classification for transient LLM failures across regular turns…]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-27-2026-05-27-889fd52e|lovable-2026-05-27-2026-05-27-889fd52e]]'
 source_type: lovable_changelog
 theme: model-support
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor: decouple auto model description and configuration from releaseChannel]]
+- Earlier: 2026-05-27 · Kimi Code · [[Changes/Kimi Code/2026-05-27-use-one-retry-classification-for-transient-llm-failures-across-regular-turns-and|Use one retry classification for transient LLM failures across regular turns…]]
 - Later: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-3-model-support-changes-in-v1-15-11|3 Model Support changes in v1.15.11]]
 <!-- chronolog:end -->
 

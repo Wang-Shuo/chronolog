@@ -4,19 +4,20 @@ date: '2026-06-15'
 description: 'Codex CLI · 2026-06-15 · Developer Workflow: 6 changes in 0.140.0 —
   #26880 [codex] preserve fsmonitor for worktree Git reads @tamird'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1185
+  lag_days: 2834
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ed37e84f540d1b3b22511ef64f06cb1b528d0d56a639a7a1db7c1cf35729bd1
+machine_hash: 6a876d68f5872812bf2629d80173d539f6a1c8696ee5c4c7174a72515e814ac5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -113,13 +114,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved /doctor with consistent flat tree layout across all sections, clearer…]]
-- Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-3-developer-workflow-changes-in-v1-0-63|3 Developer Workflow changes in v1.0.63]]
+- Later: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-keep-tui-components-within-narrow-terminal-widths-by-wrapping-compacting-or-trun|Keep TUI components within narrow terminal widths by wrapping, compacting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

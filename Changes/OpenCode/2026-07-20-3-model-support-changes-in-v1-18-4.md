@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 636d79495837e9f75f57dc2018fdf99bfab10cdacfeb5fb2cc19255d369a2bf5
+machine_hash: c5377063b3ac3643583bf9e180744da982223453fe6a671310a172cb4847e3a0
 product: opencode
 product_name: OpenCode
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Model Support changes in v1.18.4
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes
-  in 1.16.0]]'
 - '[[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model
   Support changes in rust-v0.144.6]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve
   pasted prompt content when changing models through Ctrl+X /model]]'
+- '[[Changes/Kimi Code/2026-07-20-2-model-support-changes-in-kimi-code-0-28-0|2 Model
+  Support changes in Kimi Code 0.28.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-20-v1-18-4-528cd10f|opencode-2026-07-20-v1-18-4-528cd10f]]'
 source_type: opencode_changelog
 theme: model-support
@@ -92,7 +92,7 @@ Source: https://opencode.ai/changelog/v1.18.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve pasted prompt content when changing models through Ctrl+X /model]]
+- Earlier: 2026-07-20 · Kimi Code · [[Changes/Kimi Code/2026-07-20-2-model-support-changes-in-kimi-code-0-28-0|2 Model Support changes in Kimi Code 0.28.0]]
 - Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model Support changes in rust-v0.145.0]]
 <!-- chronolog:end -->
 

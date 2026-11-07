@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 41a4513ce6f2601ad4359cc0b3b17d497adbbbb5d82b0a218f8a81b16225e152
+machine_hash: 2e88be5d834bbdcdd84b794fe08e2c435db088d6fbb35a1b39db1b17fa290d3c
 product: claude
 product_name: Claude
 record:
@@ -47,8 +47,8 @@ record:
   title: Claude Haiku 5.5 launch
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-06-gemini-3-6-flash-is-deprecated-for-your-app-s-ai-features|Gemini
-  3.6 Flash is deprecated for your app''s AI features]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-regenerate-response-for-alternative-answers-web-microsoft-365-copilot|Regenerate
+  response for alternative answers Web (Microsoft 365 Copilot)]]'
 - '[[Changes/OpenHands/2026-10-06-7-model-support-changes-in-v1-25-0|7 Model Support
   changes in v1.25.0]]'
 - '[[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6

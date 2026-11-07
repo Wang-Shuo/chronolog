@@ -4,20 +4,19 @@ date: '2025-04-23'
 description: 'Dify · 2025-04-23 · Editor Experience: 2 changes in v1.3.0 — feat: edit
   question in Chat by @xuzuodong in https://github.com/langgenius/dify/pull/17961'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 771
+  lag_days: 2355
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 334a0a5f00d181ff310e24a88c1b98c8963197eabfb7637c84970fe31f256b51
+machine_hash: c173753ba144d283695f4fcc7c4b700d59ca985438a81f9936338d1a0f7daed0
 product: dify
 product_name: Dify
 record:
@@ -97,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.3.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

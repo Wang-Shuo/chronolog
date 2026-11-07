@@ -5,20 +5,19 @@ description: 'OpenClaw · 2026-09-23 · Editor Experience: 15 changes in v2026.9
   Use /export or /export-session without a path to download conversation Markdown
   from the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1289
+  lag_days: 2873
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 145b95ad9a806c2767e35dd57e8972c8e7a7983737325c1b38e748838caa4a94
+machine_hash: ceec491c81e5a2cee9f55223a33ee07f817d85657314919ff9986e056383f1ca
 product: openclaw
 product_name: OpenClaw
 record:
@@ -153,12 +152,12 @@ record:
   title: 15 Editor Experience changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor
-  Experience changes in rust-v0.156.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In
-  the Sessions tab, rows you can dismiss now take x then x again to confirm]]'
-- '[[Changes/Google Antigravity/2026-09-22-prompt-actions-in-interactive-widgets-and-html-artifacts-now-fill-in-and-focus-t|Prompt
-  actions in interactive widgets and HTML artifacts now fill in and focus…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-copilot-chat-pane-available-in-microsoft-forms-web-microsoft-365-copilot-chat|Copilot
+  chat pane available in Microsoft Forms Web (Microsoft 365 Copilot Chat)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-see-copilot-usage-in-show-changes-pane-windows-mac-web-excel|See
+  Copilot usage in show changes pane Windows, Mac, Web (Excel)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-sort-by-filter-for-outlook-mail-in-copilot-search-windows-web-microsoft-365-copi|"Sort
+  by" filter for Outlook Mail in Copilot search Windows, Web (Microsoft 365 Copilot)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-23-v2026-9-6-3f12c824|openclaw-2026-09-23-v2026-9-6-3f12c824]]'
 source_type: openclaw_changelog
 theme: editor-experience
@@ -239,14 +238,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-prompt-actions-in-interactive-widgets-and-html-artifacts-now-fill-in-and-focus-t|Prompt actions in interactive widgets and HTML artifacts now fill in and focus…]]
+- Earlier: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-sort-by-filter-for-outlook-mail-in-copilot-search-windows-web-microsoft-365-copi|"Sort by" filter for Outlook Mail in Copilot search Windows, Web (Microsoft 365 Copilot)]]
 - Later: 2026-09-23 · Runway · [[Changes/Runway/2026-09-23-runway-is-now-available-directly-inside-davinci-resolve-bring-runway-s-tools-int|DaVinci Resolve Plugin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

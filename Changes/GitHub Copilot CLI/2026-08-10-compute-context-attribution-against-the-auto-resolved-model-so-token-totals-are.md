@@ -4,20 +4,20 @@ date: '2026-08-10'
 description: 'GitHub Copilot CLI · 2026-08-10 · Context Window: Compute /context attribution
   against the Auto-resolved model so token totals are accurate for Free/Student…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1194
+  lag_days: 2518
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 844fb29fe0be2804dc2096fc70422cc933a30a32a41ef7284ac62d016b7751d4
+machine_hash: 3b0d693e2ed9895686ea3c02a95e96d048f42aabb4a7029d5224c2008deed158
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

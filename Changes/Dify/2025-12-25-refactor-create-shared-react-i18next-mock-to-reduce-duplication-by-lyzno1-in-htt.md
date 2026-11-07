@@ -4,19 +4,20 @@ date: '2025-12-25'
 description: 'Dify · 2025-12-25 · Collaboration: refactor: create shared react-i18next
   mock to reduce duplication by @lyzno1 in https://github.com/langgenius/dify/pull/29711'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 946
+  lag_days: 2540
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a9a17ba27596ec96599ae8597e702fe7dc9a7c4595c7fcaba7ab655e1e6dafa
+machine_hash: b034fbba10ff25b5b358a200a188492ae8218ea5bf397025fafc87408e931a6e
 product: dify
 product_name: Dify
 record:
@@ -97,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

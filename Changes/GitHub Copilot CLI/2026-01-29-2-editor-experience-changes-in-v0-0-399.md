@@ -4,20 +4,19 @@ date: '2026-01-29'
 description: 'GitHub Copilot CLI · 2026-01-29 · Editor Experience: 2 changes in 0.0.399
   — Improve `/diff` command with better visual indicators and scroll acceleration'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1052
+  lag_days: 2636
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73409c9d44784dd632cbfb204010754a4815a42a2a16de2cb202da853fd848db
+machine_hash: 73d779f5de1dce0abd5d0b30ac9ab2cda31f2732b4f2d00b12e5b71c4007334f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.399
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

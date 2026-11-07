@@ -4,19 +4,20 @@ date: '2026-07-27'
 description: 'Open WebUI · 2026-07-27 · Collaboration: 2 changes in v0.11.0 — ➗ **Malformed
   maths in a message.** Maths that fails to render is now shown as plain text…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1160
+  lag_days: 2754
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1a702d047abdb8ea4313bbcd9c0056f3e03c5488c7f5fb989507b71fb3d36db4
+machine_hash: ec203044335164c40a36deda994bbef7c90888aaca7e7fa5eed4ca0212ae6e1c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -111,7 +112,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2024-11-20'
 description: "Open WebUI · 2024-11-20 · Editor Experience: **\U0001F527 Usage Capability
   Selector**: Fixed the broken usage capabilities selector in the model editor."
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 617
+  lag_days: 2201
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e0a1eb26e47286cb99f4b93a04871e74e1c8ef0f27b9e1f0b4d14f52143c73ed
+machine_hash: e908a6066092c410a49a4365cc05e900ceff129e470a9bacb67cf4b0f1d28d51
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,8 +53,7 @@ record:
   title: "**\U0001F527 Usage Capability Selector**"
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-11-07-we-re-doing-a-community-contest-for-images-made-with-the-new-editor-please-share|Editor
-  Showcase]]'
+- '[[Changes/Descript/2024-11-19-editor-updates|Editor updates]]'
 - '[[Changes/Gemini/2024-11-19-priority-access-with-gemini-advanced-ask-gemini-to-remember-the-things-you-care|Priority
   access with Gemini Advanced]]'
 - "[[Changes/Open WebUI/2024-11-19-auto-selected-tools-in-model-editor-tools-enabled-through-the-model-editor-are-n|\U0001F527
@@ -96,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

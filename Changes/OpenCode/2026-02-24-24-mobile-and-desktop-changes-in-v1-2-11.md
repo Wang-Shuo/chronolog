@@ -4,20 +4,20 @@ date: '2026-02-24'
 description: 'OpenCode · 2026-02-24 · Mobile and Desktop: 24 changes in v1.2.11 —
   Core Normalize backslash paths in config rel() and file ignore on Windows'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1078
+  lag_days: 2662
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80564e61a6bb5078481e5de5d09af6072874a6746f54cf3e87f3379aea6884a8
+machine_hash: e2dd387a4c4622daeba863eeb62c45c6238d4f4ae31da1aebb021d8cf20014ec
 product: opencode
 product_name: OpenCode
 record:
@@ -185,7 +185,7 @@ Source: https://opencode.ai/changelog/v1.2.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

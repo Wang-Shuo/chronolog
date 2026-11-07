@@ -4,20 +4,20 @@ date: '2025-12-02'
 description: 'Codex CLI · 2025-12-02 · Mobile and Desktop: Execution gains an experimental
   “exp” model, unified exec pruning to limit session bloat, per-run custom…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 994
+  lag_days: 2578
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 88419eff65bf62e9fcd7f3b2f437a8ffbd37ac02b879a0538cc3d4b87cd515d8
+machine_hash: d65b63774e1583d3d246e538967f964a8b77c03e01e70b4ee51004ee47dce7e6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,10 +59,10 @@ record:
     session…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-26-improve-pty-resize-error-handling-for-windows-by-galz10-in-https-github-com-goog|Improve
-  pty resize error handling for Windows]]'
 - '[[Changes/ElevenLabs/2025-11-27-client|Client]]'
 - '[[Changes/ElevenLabs/2025-11-27-react|React]]'
+- '[[Changes/HeyGen/2025-11-30-for-course-creators-coaches-and-anyone-who-needs-to-move-fast-the-android-app-pu|For
+  course creators, coaches, and anyone who needs to move fast, the Android app…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -101,14 +101,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-react|React]]
+- Earlier: 2025-11-30 · HeyGen · [[Changes/HeyGen/2025-11-30-for-course-creators-coaches-and-anyone-who-needs-to-move-fast-the-android-app-pu|For course creators, coaches, and anyone who needs to move fast, the Android app…]]
 - Later: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-android-sdk|Android SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

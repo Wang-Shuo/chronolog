@@ -3,20 +3,20 @@ card_id: elevenlabs-2025-04-21-e79d25
 date: '2025-04-21'
 description: 'ElevenLabs · 2025-04-21 · Voice and Audio: Updated endpoint with changes:'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 651
+  lag_days: 2478
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9b2d807228203406c2dae93a70cf5b29c048346e7b44a48f9775d9b3c910d73c
+machine_hash: 561e3a93f123d6d9d9c4ddf07b17366a35c01327e83b12e569f352289616a365
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -83,13 +83,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-04-14 · Open WebUI · [[Changes/Open WebUI/2025-04-14-granular-voice-feature-permissions-per-user-group-admins-can-now-separately-mana|🛂 Granular Voice Feature Permissions Per User Group]]
-- Later: 2025-04-23 · Midjourney · [[Changes/Midjourney/2025-04-23-a-new-prompt-bar-for-v7|A new prompt bar for V7]]
+- Later: 2025-04-22 · Descript · [[Changes/Descript/2025-04-22-13-new-stock-speakers|13 New stock speakers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

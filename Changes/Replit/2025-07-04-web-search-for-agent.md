@@ -4,20 +4,20 @@ date: '2025-07-04'
 description: 'Replit · 2025-07-04 · Search and Browsing: Agent can now search the
   web and fetch up-to-date information with [Web…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 834
+  lag_days: 1863
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 376847f3d5f36faec4b58cf64fcd168a1c8198a1598185de6a3b887d744f22cb
+machine_hash: f569e5ca71842fe4d28944efd6de439f03ee28b0696fc8bc2aefa0ab05d3c021
 product: replit
 product_name: Replit
 record:
@@ -99,13 +99,13 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-bypass-webloader-now-works-as-expected-resolved-an-issue-where-the-bypass-webloa|🌐 Bypass Webloader Now Works as Expected]]
-- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-file-deletion-now-removes-related-vector-data-when-files-are-deleted-from-storag|🧑💻 File Deletion Now Removes Related Vector Data]]
+- Later: 2025-07-17 · Descript · [[Changes/Descript/2025-07-17-viewers-can-browse-brand-studio-but-cannot-make-changes|Viewers can browse Brand Studio but cannot make changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

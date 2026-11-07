@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 25e1abb9de0cb9151f8aba020a0dcf5497d9b046cc168b70e4f615e87a7ac263
+machine_hash: b9abc9086241a0250cfd6d6f190ad489002c142bc74d643272859f27fa1b744c
 product: replit
 product_name: Replit
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-3-agent-mode-changes-in-v0-13-0|3 Agent Mode changes in v0.13.0]]
-- Later: 2025-11-12 · ElevenLabs · [[Changes/ElevenLabs/2025-11-12-turn-and-conversation-configuration|Turn and Conversation Configuration]]
+- Later: 2025-11-10 · Notion · [[Changes/Notion/2025-11-10-notion-agent-can-now-read-csvs-to-find-insights-in-seconds-drop-in-any-csv-up-to|Agent now reads CSVs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

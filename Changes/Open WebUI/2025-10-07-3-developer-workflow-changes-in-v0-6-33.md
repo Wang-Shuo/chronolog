@@ -5,19 +5,20 @@ description: "Open WebUI · 2025-10-07 · Developer Workflow: 3 changes in v0.6.
   \U0001F6E0️ Functions admin interface received a comprehensive redesign with creator
   attribution…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 934
+  lag_days: 2583
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f3ca6dee0749f46788be37718884322f4f3764ed8fd2d047b40124506389c47
+machine_hash: 657186d5bbb455ae59f43821329ef3da9be2e0ef2c4233a4c8ca175b043504a6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -106,7 +107,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.33
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

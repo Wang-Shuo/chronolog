@@ -4,20 +4,20 @@ date: '2025-10-29'
 description: 'Cursor · 2025-10-29 · Interface Experience: Optimized text parsing for
   chat rendering.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1024
+  lag_days: 2390
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea62216541a9a34a7fc182fe3b3691b13e2b9995cde0a8b8fa85d36f55eadc65
+machine_hash: 61277a14899075a97cfdc32d8268d1cddbe84663867b42d86f682489fa1733fd
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,11 @@ record:
   title: Optimized text parsing for chat rendering
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-22-2-interface-experience-changes-in-v0-10-0|2 Interface
-  Experience changes in v0.10.0]]'
 - '[[Changes/Codex CLI/2025-10-23-tui-drop-citation-rendering-by-nornagon-openai-in-https-github-com-openai-codex|tui:
   drop citation rendering]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-code-repo-navigation|Code & Repo navigation]]'
+- '[[Changes/Descript/2025-10-28-drag-and-drop-now-works-from-brand-studio-and-editor-sidebar|Drag
+  and drop now works from Brand Studio and Editor sidebar]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -96,14 +96,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-code-repo-navigation|Code & Repo navigation]]
+- Earlier: 2025-10-28 · Descript · [[Changes/Descript/2025-10-28-drag-and-drop-now-works-from-brand-studio-and-editor-sidebar|Drag and drop now works from Brand Studio and Editor sidebar]]
 - Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-improve-rendering-of-todo-lists-by-scidomino-in-https-github-com-google-gemini-g|Improve rendering of ToDo lists]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

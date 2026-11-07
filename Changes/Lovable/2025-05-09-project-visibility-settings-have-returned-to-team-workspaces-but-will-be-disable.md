@@ -4,19 +4,20 @@ date: '2025-05-09'
 description: 'Lovable · 2025-05-09 · Collaboration: Project visibility settings have
   returned to team workspaces, but will be disabled for now'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 716
+  lag_days: 2310
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 793ac745d0205615fbc32be34da5e02ddf8490202966cee888212d0932081f42
+machine_hash: c2ea154cbea3d4cffdf461bd2798a4001430382859ab2867d378cbd378a12528
 product: lovable
 product_name: Lovable
 record:
@@ -42,10 +43,11 @@ record:
     disabled for now
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-06-teams-features|Teams Features]]'
 - '[[Changes/Windsurf/2025-05-06-teams-conversation-sharing|Teams: Conversation Sharing]]'
 - '[[Changes/Midjourney/2025-05-07-we-re-preparing-to-do-a-new-community-idea-ranking-activity-later-this-week-befo|Share
   your ideas!]]'
+- '[[Changes/Descript/2025-05-09-this-patch-addresses-more-issues-related-to-project-collaboration-and-viewing-pr|This
+  patch addresses more issues related to project collaboration and viewing projects]]'
 source_release: '[[Releases/Lovable/lovable-2025-05-09-2025-05-09-48bfa2be|lovable-2025-05-09-2025-05-09-48bfa2be]]'
 source_type: lovable_changelog
 theme: collaboration
@@ -73,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-05-07 · Midjourney · [[Changes/Midjourney/2025-05-07-we-re-preparing-to-do-a-new-community-idea-ranking-activity-later-this-week-befo|Share your ideas!]]
-- Later: 2025-05-14 · Granola · [[Changes/Granola/2025-05-14-introducing-the-next-chapter-for-granola-bringing-all-your-team-s-conversations|Granola 2.0: A second brain for your team]]
+- Earlier: 2025-05-09 · Descript · [[Changes/Descript/2025-05-09-this-patch-addresses-more-issues-related-to-project-collaboration-and-viewing-pr|This patch addresses more issues related to project collaboration and viewing projects]]
+- Later: 2025-05-13 · Notion · [[Changes/Notion/2025-05-13-top-teams-love-notion-ai|Top teams love Notion AI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

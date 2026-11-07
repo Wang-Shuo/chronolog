@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d818b9d41704d7447bcb79dd076c7471537c405b26bb826b4c7afa5d6e57f0a6
+machine_hash: 0b79a9ec2b38eb0fbbb9ab62d3d956c40ed7330d0d38e27dfd5cc8afa7f716b7
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-12-model-support-changes-in-v0-9-6|12 Model Support changes in v0.9.6]]
-- Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-2-model-support-changes-in-v2-1-162|2 Model Support changes in v2.1.162]]
+- Later: 2026-06-02 · HeyGen · [[Changes/HeyGen/2026-06-02-ai-governance-provides-a-centralized-place-for-admins-to-manage-how-ai-powered-f|AI Governance – Provides a centralized place for admins to manage how AI-powered…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9bf8e2550a4f8decc443bf2184fb010bdd2ba263ff3cbc48c97992be221bfe99
+machine_hash: 7f888304ba0db3be6b413983e8ff60e413b04f00dddaaa43d165b1cb141da9a0
 product: claude-code
 product_name: Claude Code
 record:

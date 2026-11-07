@@ -4,19 +4,20 @@ date: '2025-04-09'
 description: 'Dify · 2025-04-09 · Developer Workflow: 2 changes in v1.2.0 — Chore/code
   format and Repair commit_id 3254018d more deleted codes and Fix naming error ambiguity…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 753
+  lag_days: 2402
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 59ec077b83cb50699ed4c786fb594b96ba61eed445f519fd28f35595748d0962
+machine_hash: 67f1bec81c1e781782f544aea9d05ae8ffb938c8c8d09e5b97090e825e850570
 product: dify
 product_name: Dify
 record:
@@ -97,7 +98,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.2.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

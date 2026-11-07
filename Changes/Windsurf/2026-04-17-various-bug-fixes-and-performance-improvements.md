@@ -4,20 +4,20 @@ date: '2026-04-17'
 description: 'Windsurf · 2026-04-17 · Reliability and Performance: Various bug fixes
   and performance improvements'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 2706
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a1648e8ed162b539554e0c1cf6eefc5204b254e3c21ab163fe0fdcca47347a03
+machine_hash: f4d22220d955f06db776c7ce85e0425dd631e34018aa709a61e6dedaacc55d34
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,8 +40,8 @@ record:
   title: Various bug fixes and performance improvements
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-17640-fix-stability-exec-server-jif-oai|♯17640 fix:
-  stability exec server @jif-oai]]'
+- '[[Changes/Descript/2026-04-16-we-ve-made-some-backend-improvements-that-should-result-in-better-performance-fo|We’ve
+  made some backend improvements that should result in better performance…]]'
 - '[[Changes/Windsurf/2026-04-16-various-bug-fixes-and-performance-improvements-for-improving-windsurf-2-0-auth-e|Various
   bug fixes and performance improvements for improving Windsurf 2.0 auth experience]]'
 - '[[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

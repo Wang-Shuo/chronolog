@@ -4,20 +4,20 @@ date: '2026-09-08'
 description: 'Runway · 2026-09-08 · Video Generation: Runway now runs in a panel inside
   Adobe Premiere Pro and After Effects. Generate images and video with Runway''s full…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 964
+  lag_days: 2148
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7a31ca6a4b5f6ba0ed09ac193b28250edc94e3a46df8d2d1be08042cf92e4b35
+machine_hash: ea572d9415cd5346d962528034d97c100e01a3294c4a80f998ca396a5bf84884
 product: runway
 product_name: Runway
 record:
@@ -61,12 +61,12 @@ record:
   title: Introducing Runway Plugins for Adobe
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-05-minimax-hailuo-3-0-is-now-live-on-runway-dev-generate-video-from-text-image-or-v|MiniMax
-  Hailuo 3.0]]'
 - '[[Changes/Runway/2026-08-13-xai-s-grok-imagine-1-5-is-now-available-in-runway-mcp-as-grok-imagine-1-5-suppor|Grok
   Imagine 1.5 Video]]'
 - '[[Changes/Runway/2026-08-24-wan-3-0-is-now-available-in-runway-in-tool-mode-and-workflows-generate-near-stat|Wan
   3.0]]'
+- '[[Changes/Synthesia/2026-09-03-reassign-create-and-rename-speakers-in-a-dubbed-video-with-one-click-available-o|Adjust
+  speaker attribution for dubbed videos]]'
 source_release: '[[Releases/Runway/runway-2026-09-08-2026-09-08-introducing-runway-plugins-for-adobe-76126a4a|runway-2026-09-08-2026-09-08-introducing-runway-plugins-for-adobe-76126a4a]]'
 source_type: runway_changelog
 theme: video-generation
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-08-24 · Runway · [[Changes/Runway/2026-08-24-wan-3-0-is-now-available-in-runway-in-tool-mode-and-workflows-generate-near-stat|Wan 3.0]]
+- Earlier: 2026-09-03 · Synthesia · [[Changes/Synthesia/2026-09-03-reassign-create-and-rename-speakers-in-a-dubbed-video-with-one-click-available-o|Adjust speaker attribution for dubbed videos]]
 - Later: 2026-09-17 · Runway · [[Changes/Runway/2026-09-17-runway-is-now-available-as-a-plugin-in-grok-bot-sign-in-with-your-runway-account|Runway MCP for Grok Bot]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2024-05-26'
 description: 'Cursor · 2024-05-26 · Editor Experience: Accept partial completions
   with Copilot++'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 439
+  lag_days: 2023
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84fdb3bfec526777c002a0f7208b59aa9fbbb345d336865833cb03d872c48ce4
+machine_hash: 82118e244672454587de7df9ff0a7419e99755e1b8ad93a9ab0cb6c767605e08
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +44,8 @@ record:
   title: Accept partial completions with Copilot++
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved
-  reflection feedback to LLMs using the diff edit format]]'
+- '[[Changes/Descript/2024-05-22-welcome-to-version-90-of-descript|Welcome to version
+  90 of Descript]]'
 - '[[Changes/Midjourney/2024-05-24-how-does-it-work|How does it work?]]'
 - '[[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code
   1.89 into Cursor]]'
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

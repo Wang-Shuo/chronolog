@@ -4,20 +4,20 @@ date: '2026-10-07'
 description: 'Lovable · 2026-10-07 · Pricing Model: Workspace admins and owners on
   paid plans can now [set usage limits and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1392
+  lag_days: 3010
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: e2a2c0ad4944a387394f9aba894ae887d3401d8920362bc6c899dbd09324297a
+machine_hash: 87139a2c4f4880781c60d87913a33c7e9d720e7258b5aa774b3ce4a9d275d976
 product: lovable
 product_name: Lovable
 record:
@@ -60,12 +60,12 @@ record:
   title: Set credit usage limits and alerts for your workspace
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
-  the /usage-credits message shown to Team and Enterprise members whose…]]'
 - '[[Changes/OpenClaw/2026-10-03-9-pricing-model-changes-in-v2026-9-8|9 Pricing Model
   changes in v2026.9.8]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
   usage reflects the current billing period after quota resets]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-copilot-analytics-cowork-adoption-and-impact-web-viva-insights|Copilot
+  Analytics - Cowork adoption and impact Web (Viva Insights)]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-07-2026-10-07-b6b5dd50|lovable-2026-10-07-2026-10-07-b6b5dd50]]'
 source_type: lovable_changelog
 theme: pricing-model
@@ -95,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan usage reflects the current billing period after quota resets]]
+- Earlier: 2026-10-06 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-06-copilot-analytics-cowork-adoption-and-impact-web-viva-insights|Copilot Analytics - Cowork adoption and impact Web (Viva Insights)]]
 - Later: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-polish-bugs|POLISH & BUGS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

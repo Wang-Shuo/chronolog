@@ -5,20 +5,20 @@ description: 'Gemini · 2024-05-23 · Enterprise and Administration: What: Avail
   today, the new Gemini Education and Gemini Education Premium add-ons give Google
   Workspace…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 384
+  lag_days: 1591
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 830917863203baa1df389a58e91e45db11c543909baf65841b1c0f8817d1bc64
+machine_hash: 1ad637e555f1adcb81a92a46e719eb26f582dfffb3a2ccfdfc8c42e7eca655a5
 product: gemini
 product_name: Gemini
 record:
@@ -61,12 +61,12 @@ record:
     now…
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-22-feat-enterprise-sso-by-garfielddai-in-https-github-com-langgenius-dify-pull-3602|Feat/enterprise
-  sso]]'
 - "[[Changes/Open WebUI/2024-04-28-improved-admin-panel-admins-can-now-conveniently-check-users-chat-lists-and-last|\U0001F468\U0001F4BC
   Improved Admin Panel]]"
 - "[[Changes/Open WebUI/2024-05-02-super-admin-assignment-the-first-signup-is-automatically-assigned-a-super-admin|\U0001F451
   Super Admin Assignment]]"
+- '[[Changes/Descript/2024-05-07-new-security-tools-for-enterprise-admins|New Security
+  Tools for Enterprise Admins]]'
 source_release: '[[Releases/Gemini/gemini-2024-05-23-2024-05-23-e7c92409|gemini-2024-05-23-2024-05-23-e7c92409]]'
 source_type: gemini_changelog
 theme: enterprise-admin
@@ -96,14 +96,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-super-admin-assignment-the-first-signup-is-automatically-assigned-a-super-admin|👑 Super Admin Assignment]]
+- Earlier: 2024-05-07 · Descript · [[Changes/Descript/2024-05-07-new-security-tools-for-enterprise-admins|New Security Tools for Enterprise Admins]]
 - Later: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-update-enterprise-inquiry-link-to-point-to-chatflow-by-guchenhe-in-https-github|update enterprise inquiry link to point to chatflow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

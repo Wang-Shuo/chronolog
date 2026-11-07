@@ -5,20 +5,19 @@ description: 'Ollama · 2026-04-16 · Editor Experience: **Hermes and GitHub Cop
   CLI in `ollama launch`.** Added both integrations, which can now be configured in
   one…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1129
+  lag_days: 2713
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ad3128baf576fa97de61c511ee4fc5a509f10981cf19179a010404715263856
+machine_hash: e551ebae863368faa5d770fc154fd9f0ea277460f27b96e221640a48a4e1e564
 product: ollama
 product_name: Ollama
 record:
@@ -55,10 +54,9 @@ record:
   title: '**Hermes and GitHub Copilot CLI in `ollama launch`.** Added both integrations…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-15-show-a-clear-message-when-copilot-pro-trial-is-paused-instead-of-a-generic-polic|Show
-  a clear message when Copilot Pro trial is paused instead of a generic policy error]]'
 - '[[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript
   view footer now shows  (dump to scrollback) and v (open in editor)…]]'
+- '[[Changes/Descript/2026-04-16-underlord-https-help-descript-com-hc-en-us-articles-36803785502221-underlord-bet|Underlord…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A
   clear error message is displayed when the configured editor cannot be launched]]'
 source_release: '[[Releases/Ollama/ollama-2026-04-16-v0-21-0-github-310055812-cddcf12c|ollama-2026-04-16-v0-21-0-github-310055812-cddcf12c]]'
@@ -99,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

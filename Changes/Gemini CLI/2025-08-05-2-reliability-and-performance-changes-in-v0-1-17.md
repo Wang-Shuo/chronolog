@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2025-08-05 · Reliability and Performance: 2 changes
   Release v0.1.17 — Run model availability check in the background to speed up startup
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 964
+  lag_days: 2451
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31999cb33e11d0067c48c8343bfa12cad961cf1f71c97bea4e34f9d3ccfd4b2f
+machine_hash: 7ce8dc210b43b1b284d0d4c2bd83492e4256b91c561fc1367072cef860a01fad
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Reliability and Performance changes in v0.1.17
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability
-  and Performance changes in 1.3]]'
 - '[[Changes/Gemini CLI/2025-07-30-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
   model availability check in the background to speed up startup]]'
+- '[[Changes/Descript/2025-07-31-avatars-new-ui-for-faster-access|Avatars: New UI
+  for faster access]]'
 - '[[Changes/Gemini CLI/2025-08-02-2-reliability-and-performance-changes-in-v0-1-16|2
   Reliability and Performance changes in v0.1.16]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-05-v0-1-17-github-237516230-dacc1754|gemini-cli-2025-08-05-v0-1-17-github-237516230-dacc1754]]'
@@ -102,7 +102,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.17
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

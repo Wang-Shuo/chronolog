@@ -4,20 +4,20 @@ date: '2026-01-13'
 description: 'Dify · 2026-01-13 · Files and Data: 4 changes in v1.11.3 — **Batch Operations**:
   Introduced re-index operation in document batch operations by @fatelei in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 964
+  lag_days: 2309
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a18b697f25069c3e5f570f775776df917bd34f90251dda52bdcf1386172a4267
+machine_hash: 6ebf6b020f2e05c22face78f0d1c7a3aacd386ff81f2f3bfd836439919d9240e
 product: dify
 product_name: Dify
 record:
@@ -100,13 +100,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.3
 ## Nearby in Files and Data
 
 - Earlier: 2026-01-12 · ElevenLabs · [[Changes/ElevenLabs/2026-01-12-knowledge-base|Knowledge Base]]
-- Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-9020-fix-tui-document-paste-burst-state-machine-joshka-oai|♯9020 fix(tui): document paste-burst state machine @joshka-oai]]
+- Later: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-generate-office-documents-from-agents-in-copilot-studio-lite-windows-web-microso|Generate Office documents from agents in Copilot Studio lite Windows…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

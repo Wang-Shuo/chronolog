@@ -4,20 +4,20 @@ date: '2026-04-08'
 description: 'Gemini CLI · 2026-04-08 · Pricing Model: Docs: Update quotas and pricing
   by @jkcinouye in https://github.com/google-gemini/gemini-cli/pull/23835'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1210
+  lag_days: 2828
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: faf503db4f780ea5bb5ab2646caaccb1b13ee3c144a71dbaa940c1ae3947c97c
+machine_hash: 1a070ddcc8e66266a56fb0430155486de0ef21067b7dfe8e6e7ecde0c376c7d1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 'Docs: Update quotas and pricing'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-15934-add-usage-based-business-plan-types-bwanner-oai|♯15934
-  Add usage-based business plan types @bwanner-oai]]'
+- '[[Changes/HeyGen/2026-03-31-available-on-all-plans-credits-required|Available on:
+  All plans]]'
 - '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added
   per-model and cache-hit breakdown to /cost for subscription users]]'
 - '[[Changes/Windsurf/2026-04-06-updated-model-picker-with-pricing-context|Updated
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

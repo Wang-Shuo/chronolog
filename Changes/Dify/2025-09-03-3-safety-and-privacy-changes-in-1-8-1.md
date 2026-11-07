@@ -4,20 +4,20 @@ date: '2025-09-03'
 description: 'Dify · 2025-09-03 · Safety and Privacy: 3 changes in v1.8.1 — **Security/XSS**:
   Fixed XSS vulnerability in block-input and support-var-input components. (See…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 871
+  lag_days: 1863
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e8c209795f5e8ea33ad3ca1a710ca268fe744ec2104ad3200a9e32765a77cc4
+machine_hash: 5493cbcdcdfa2825560284e4f340acf0e7ab8f08d9a4f7dff183a79d22b39f65
 product: dify
 product_name: Dify
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.8.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

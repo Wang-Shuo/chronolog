@@ -5,19 +5,20 @@ description: 'Codex CLI · 2026-06-18 · Developer Workflow: 7 changes in 0.141.
   Terminal resize reflow is now always enabled, ignoring obsolete disabled settings.
   (#27794)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1188
+  lag_days: 2837
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2141018344dca709ddc87050c25dbf4a5281d1955f176f5de97ca2e2c4debc9b
+machine_hash: 1750d1b64ed8a955ce0ff5375a2ef7c918decd98b1a8e7acb22f17afb2c6dec9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,11 +54,11 @@ record:
   title: 7 Developer Workflow changes in rust-v0.141.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-6-developer-workflow-changes-in-rust-v0-140-0|6
-  Developer Workflow changes in rust-v0.140.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-16-3-developer-workflow-changes-in-v1-0-63|3
-  Developer Workflow changes in v1.0.63]]'
+- '[[Changes/Kimi Code/2026-06-16-3-developer-workflow-changes-in-kimi-code-0-16-0|3
+  Developer Workflow changes in Kimi Code 0.16.0]]'
 - '[[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]'
+- '[[Changes/Kimi Code/2026-06-17-skip-debug-tps-when-the-output-stream-is-too-short-to-measure-reliably|Skip
+  debug TPS when the output stream is too short to measure reliably]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: developer-workflow
@@ -108,14 +109,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.141.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]
+- Earlier: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-skip-debug-tps-when-the-output-stream-is-too-short-to-measure-reliably|Skip debug TPS when the output stream is too short to measure reliably]]
 - Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed the startup "setup issues" line under the logo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

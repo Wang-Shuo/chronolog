@@ -4,20 +4,20 @@ date: '2024-09-03'
 description: 'Dify · 2024-09-03 · Pricing Model: 4 changes in v0.7.3 — **Stock Price
   Query Tool**: Query stock prices from Alpha Vantage by @hwzhuhao in #7752.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 628
+  lag_days: 2246
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68335acc2bde33a7bde280e4ab500b7d67c530141215cbe5b6a57dcf110d4f1b
+machine_hash: b896ca9924732df997574ca1e2ccf6644aaf05883988282f1b50c1dd34030b5b
 product: dify
 product_name: Dify
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Pricing Model changes in 0.7.3
   type: change
 related_changes:
-- '[[Changes/Suno/2024-08-12-effective-immediately-all-pro-premier-creators-will-receive-50-free-credits-per|Pro
-  / Premier creators now get 50 credits per day]]'
 - '[[Changes/Aider/2024-08-13-improved-token-and-cost-reporting-for-infinite-output|Improved
   token and cost reporting for infinite output]]'
+- '[[Changes/Descript/2024-08-14-ai-usage-monitoring-in-settings|AI Usage monitoring
+  in Settings]]'
 - '[[Changes/Aider/2024-08-20-improved-cost-estimate-logic-for-caching|Improved cost
   estimate logic for caching]]'
 source_release: '[[Releases/Dify/dify-2024-09-03-0-7-3-github-173123686-c526228f|dify-2024-09-03-0-7-3-github-173123686-c526228f]]'
@@ -104,7 +104,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.7.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

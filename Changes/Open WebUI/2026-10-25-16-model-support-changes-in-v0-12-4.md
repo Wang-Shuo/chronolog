@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 30979ecb2a07cd14398b60908a38638a51bea2161cd491a09bb14715298dc32b
+machine_hash: cf67027adfee06f10af983700ee147a650a656ec3c2d14aa7ae0292403202b4a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -154,8 +154,8 @@ record:
   title: 16 Model Support changes in v0.12.4
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-23-the-model-includes-a-dflash-draft-for-speculative-decoding|The
-  model includes a DFlash draft for speculative decoding]]'
+- '[[Changes/Qoder/2026-10-23-2-model-support-changes-in-qoder-0-4-11|2 Model Support
+  changes in Qoder 0.4.11]]'
 - '[[Changes/Ollama/2026-10-24-d3-https-ollama-com-library-d3-brings-vllm-semantic-router-s-decision-models-to|d3((source
   link) brings vLLM Semantic Router''s decision models…]]'
 - '[[Changes/OpenClaw/2026-10-24-2-model-support-changes-in-v2026-10-7|2 Model Support

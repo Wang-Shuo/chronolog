@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-19 · Multimodal Input: The Browser sidebar ga
   a Download file button for the image, video, or document you are viewing, keeping
   its…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1096
+  lag_days: 2864
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 1ad75051913b52df1a6bdb206a7bb25bad41ccb0eaca3b397bf4ed3a8fc750bc
+machine_hash: c11eccf0ae0ecbfa198fcb97ca5580cadd40b9583c92471efb17f8fdda42fae9
 product: openclaw
 product_name: OpenClaw
 record:
@@ -68,9 +68,9 @@ record:
     document…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-the-bundled-video-frames-skill-and-its-helper-script-have-been-removed-if-you-us|The
-  bundled video-frames skill and its helper script have been removed]]'
-- '[[Changes/ElevenLabs/2026-09-14-music|Music]]'
+- '[[Changes/Descript/2026-09-17-looking-for-gabe-s-video-it-s-on-the-way-he-s-in-ny-this-week-at-podcast-movemen|Looking
+  for Gabe’s video?]]'
+- '[[Changes/Descript/2026-09-17-no-more-black-first-frame|No more black first frame]]'
 - '[[Changes/Runway/2026-09-17-convert-any-video-runway-made-or-not-to-25-30-48-60-120-or-59-94-fps-up-to-4k-an|Enhance
   Frame Rate]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'
@@ -128,13 +128,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-09-17 · Runway · [[Changes/Runway/2026-09-17-convert-any-video-runway-made-or-not-to-25-30-48-60-120-or-59-94-fps-up-to-4k-an|Enhance Frame Rate]]
-- Later: 2026-09-29 · Ollama · [[Changes/Ollama/2026-09-29-clef-27b-and-clef-flash-9b-are-multimodal-requests-can-now-include-images-alongs|Clef (27B) and Clef Flash (9B) are multimodal]]
+- Later: 2026-09-21 · Synthesia · [[Changes/Synthesia/2026-09-21-preview-an-avatar-s-animations-for-a-single-scene-from-the-editor-so-you-can-rev|Preview individual scenes with fully animated avatars]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

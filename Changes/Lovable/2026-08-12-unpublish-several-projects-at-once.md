@@ -4,20 +4,20 @@ date: '2026-08-12'
 description: 'Lovable · 2026-08-12 · Apps and Integrations: On the dashboard, you
   can now [unpublish several projects at…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1238
+  lag_days: 2798
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7abc24f150a171f58583cb591223c504831a3c3cf6eb4b55c397b9c5ee622830
+machine_hash: 8c6ba9362509ab257b7871b5a8b4f1f91d174421958cfe8488ce0d7663fabfbf
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +49,12 @@ record:
   title: Unpublish several projects at once
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-10-connect-mcp-servers-from-a-registry|Connect MCP servers
-  from a registry]]'
-- '[[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2
-  Apps and Integrations changes in v2.1.228]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-servicenow-connectors-support-role-based-permissions-web-microsoft-365-copilot-e|ServiceNow
+  connectors support role-based permissions…]]'
 - '[[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3
   Apps and Integrations changes in v2.1.229]]'
+- '[[Changes/Kimi Code/2026-08-12-add-the-modern-web-guidance-plugin-to-the-bundled-plugin-marketplace-run-plugins|Add
+  the Modern Web Guidance plugin to the bundled plugin marketplace]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-12-2026-08-12-e1f9d06e|lovable-2026-08-12-2026-08-12-e1f9d06e]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3 Apps and Integrations changes in v2.1.229]]
+- Earlier: 2026-08-12 · Kimi Code · [[Changes/Kimi Code/2026-08-12-add-the-modern-web-guidance-plugin-to-the-bundled-plugin-marketplace-run-plugins|Add the Modern Web Guidance plugin to the bundled plugin marketplace]]
 - Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4 Apps and Integrations changes in v2.1.232]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

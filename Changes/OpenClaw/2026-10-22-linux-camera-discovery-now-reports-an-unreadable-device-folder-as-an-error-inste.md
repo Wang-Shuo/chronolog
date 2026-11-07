@@ -4,20 +4,20 @@ date: '2026-10-22'
 description: 'OpenClaw · 2026-10-22 · Multimodal Input: Linux camera discovery now
   reports an unreadable device folder as an error instead of saying you have no cameras.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1129
+  lag_days: 2897
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 060a1ccc7e158bd675cc102f3d2c19a8ee97e3c4b1ec05d57faec3d050b58bea
+machine_hash: 77e39828564dc88dcff2cf22f4065a91cf94ea69f81a3d741b7319feb377069b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -43,10 +43,10 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-13-muse-wonder-meta-users-can-select-muse-wonder-with-text-and-image-input-and-max|Muse
-  Wonder. Meta users can select Muse Wonder with text and image input and max thinking]]'
 - '[[Changes/ElevenLabs/2026-10-19-video-to-music|Video to Music]]'
 - '[[Changes/ElevenLabs/2026-10-19-music|Music]]'
+- '[[Changes/Synthesia/2026-10-21-feature-synthesia-avatars-in-your-syren-videos-and-pick-preview-or-describe-your|Choose
+  Synthesia Avatars for your Syren videos]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-22-v2026-10-6-56379f53|openclaw-2026-10-22-v2026-10-6-56379f53]]'
 source_type: openclaw_changelog
 theme: multimodal
@@ -94,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-music|Music]]
+- Earlier: 2026-10-21 · Synthesia · [[Changes/Synthesia/2026-10-21-feature-synthesia-avatars-in-your-syren-videos-and-pick-preview-or-describe-your|Choose Synthesia Avatars for your Syren videos]]
 - Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video to music: Studio's video to music workflow uses Music v2.5 by default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

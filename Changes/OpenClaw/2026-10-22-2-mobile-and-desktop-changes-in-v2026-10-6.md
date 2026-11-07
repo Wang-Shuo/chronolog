@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-10-22 · Mobile and Desktop: 2 changes in v2026.1
   — Chats in the macOS, Linux, iOS, and Android apps can now pick up where they left
   off…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1318
+  lag_days: 2902
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c73c7261e9cc6855311577edf9f4298a45828fbbc0f4c1633f6987037422b2e0
+machine_hash: 4aafd65c921957405c3f0f7501f0ad047b295c114282c413942e8034b3fc00f8
 product: openclaw
 product_name: OpenClaw
 record:
@@ -108,7 +108,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

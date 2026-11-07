@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ca41fe76077747645080fb2ae45430b0f472d7cab0bf7f6f342c8c61818c516
+machine_hash: 689bf645029242ae80d26193d041728a811449904fccc736f3197bf7a7289716
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -92,7 +92,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.13.0
 ## Nearby in Model Support
 
 - Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-gpt-6-astra-is-now-available-in-the-model-picker-and-amazon-bedrock-catalogs-428|GPT-6-Astra is now available in the model picker and Amazon Bedrock catalogs]]
-- Later: 2026-09-09 · OpenCode · [[Changes/OpenCode/2026-09-09-added-the-astra-system-prompt-for-gpt-6-models|Added the Astra system prompt for GPT-6 models]]
+- Later: 2026-09-09 · Kimi Code · [[Changes/Kimi Code/2026-09-09-2-model-support-changes-in-kimi-code-0-42-0|2 Model Support changes in Kimi Code 0.42.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

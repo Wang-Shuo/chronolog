@@ -4,20 +4,20 @@ date: '2024-03-10'
 description: "Open WebUI · 2024-03-10 · Image Generation: \U0001F3A8 **DALL-E Integration**:
   Introduced DALL-E integration for image generation alongside automatic1111."
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 258
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ae28c7b18d6ba273e88b3490700a27f1b7834996ef32d171e10fa994366e042f
+machine_hash: a205d3e2cdc06f47fbc95328663e4e575b9ad9b1bcbe5984c520639abaea05e6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,6 +53,8 @@ record:
     theme: apps-integrations
   title: "\U0001F3A8 **DALL-E Integration**"
   type: change
+related_changes:
+- '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-03-10-v0-1-111-github-145741855-8cd6f3b9|open-webui-2024-03-10-v0-1-111-github-145741855-8cd6f3b9]]'
 source_type: github_releases
 theme: image-generation
@@ -83,13 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
+- Earlier: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 - Later: 2024-03-15 · Open WebUI · [[Changes/Open WebUI/2024-03-15-resolved-chat-malfunction-after-image-generation|🗨️ Resolved chat malfunction after image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

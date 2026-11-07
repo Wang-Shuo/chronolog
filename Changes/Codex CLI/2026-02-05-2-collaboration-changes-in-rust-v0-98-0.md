@@ -5,19 +5,20 @@ description: 'Codex CLI · 2026-02-05 · Collaboration: 2 changes in 0.98.0 — 
   collaboration mode naming and metadata across prompts, tools, protocol types, and
   TUI…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 988
+  lag_days: 2582
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9037bdab8a1e147b9bdfe915d6231cac7f3f2cac43725bebaf657db3a299ea7b
+machine_hash: 5010f5cc65dfc7aa7a6825572cf777fdb9a83266a153536d6775577d73a29334
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,13 +90,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.98.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added research preview agent teams feature for multi-agent collaboration…]]
-- Later: 2026-02-06 · Replit · [[Changes/Replit/2026-02-06-for-teams|For Teams]]
+- Later: 2026-02-06 · HeyGen · [[Changes/HeyGen/2026-02-06-have-feedback|Have feedback?]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

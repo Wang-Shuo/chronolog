@@ -4,20 +4,20 @@ date: '2026-07-09'
 description: 'Codex CLI · 2026-07-09 · Pricing Model: Usage-limit reset credits now
   show their type and expiration, and let you choose which credit to redeem. (#30488)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1302
+  lag_days: 2920
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4e1736b1583c38f3c96dfdd5bb471bec44df01c83ff2d87f23beaab1f2bde962
+machine_hash: 95d67eb3ec7d7758214bdc26f6a042443a73ee1ced22973834208a73f9972c2c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,9 +45,10 @@ record:
     choose…
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-07-deprecations|Deprecations]]'
 - '[[Changes/Codex CLI/2026-07-08-28593-codex-suppress-low-usage-remaining-warnings-when-credits-are-available-bro|♯28593
   codex suppress low usage remaining warnings when credits are available…]]'
+- '[[Changes/HeyGen/2026-07-08-billing-plan-switches-pauses-cancellations-resumptions|Billing
+  — plan switches, pauses, cancellations, resumptions]]'
 - '[[Changes/Cline/2026-07-09-add-a-clinepass-limit-reached-error-with-a-one-click-option-to-switch-to-cline-u|Add
   a ClinePass limit-reached error with a one-click option to switch to Cline…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96|codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96]]'
@@ -99,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

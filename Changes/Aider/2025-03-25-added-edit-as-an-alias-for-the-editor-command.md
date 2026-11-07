@@ -4,20 +4,19 @@ date: '2025-03-25'
 description: 'Aider · 2025-03-25 · Editor Experience: Added `/edit` as an alias for
   the `/editor` command.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 742
+  lag_days: 2326
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b760a9a8784983a8559f20d8c36ec9cf5819f28c68f6480116e8d15d2eaaf8ad
+machine_hash: c916dbc09bdda5165ddbf10d0e33d432bae60be066ff4570f1e55c82356abfbb
 product: aider
 product_name: Aider
 record:
@@ -77,13 +76,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]]
-- Later: 2025-03-28 · Lovable · [[Changes/Lovable/2025-03-28-supabase-functions-now-get-deployed-when-updated-in-code-editor-also-supabase-fu|Supabase functions now get deployed when updated in code editor]]
+- Later: 2025-03-25 · Descript · [[Changes/Descript/2025-03-25-editor-updates|Editor updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

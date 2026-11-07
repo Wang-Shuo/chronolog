@@ -4,20 +4,20 @@ date: '2024-06-28'
 description: 'Dify · 2024-06-28 · Mobile and Desktop: docs: Add notes for running
   Postgres Docker on Windows WSL2 Ubuntu … by @hikariming in…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 472
+  lag_days: 2056
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b00db04ee1730a1dd45a83b9443af37ab18ef7dcd9bb3b0a6034651733346613
+machine_hash: b5c4de88f3c81ff5444e29f2b99108131c0369f076306399a4b4dd466d6a7287
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: 'docs: Add notes for running Postgres Docker on Windows WSL2 Ubuntu …'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-05-mobile-view-improvements-the-ui-now-uses-dvh-dynamic-viewport-height-instead-of|\U0001F4F1
-  Mobile View Improvements]]"
 - '[[Changes/Ollama/2024-06-15-model-loading-on-windows-with-cuda-gpus-is-now-faster|Model
   loading on Windows with CUDA GPUs is now faster]]'
 - '[[Changes/Gemini/2024-06-18-the-gemini-mobile-app-launching-in-more-countries|The
   Gemini mobile app launching in more countries]]'
+- '[[Changes/Descript/2024-06-19-quick-recorder-upgrades-now-on-windows|Quick Recorder
+  upgrades now on Windows]]'
 source_release: '[[Releases/Dify/dify-2024-06-28-0-6-12-github-163007249-ac67daf7|dify-2024-06-28-0-6-12-github-163007249-ac67daf7]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-06-18 · Gemini · [[Changes/Gemini/2024-06-18-the-gemini-mobile-app-launching-in-more-countries|The Gemini mobile app launching in more countries]]
+- Earlier: 2024-06-19 · Descript · [[Changes/Descript/2024-06-19-quick-recorder-upgrades-now-on-windows|Quick Recorder upgrades now on Windows]]
 - Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and Desktop changes in 0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

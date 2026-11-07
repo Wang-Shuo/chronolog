@@ -5,19 +5,20 @@ description: 'Lovable · 2026-02-23 · Collaboration: Lovable now clearly indica
   when someone is outside your organization, both when inviting them and when viewing
   access…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1006
+  lag_days: 2600
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e28b971df04a103818724c4e5dcb497bc02f2e2cd8642444958ec1f325879b06
+machine_hash: e3540be179d2dcc7fbc146e21c56674d26b01055c173bf439cfcdd3c6a01520b
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +50,8 @@ record:
   title: External collaborator visibility
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-16-skills-sharing-permissions-administrators-can-now-control-skills-sharing-and-pub|\U0001F510
-  Skills sharing permissions. Administrators can now control skills sharing…]]"
+- '[[Changes/HeyGen/2026-02-17-videos-are-posted-right-back-into-the-thread-and-saved-to-your-heygen-workspace|Videos
+  are posted right back into the thread and saved to your HeyGen workspace]]'
 - '[[Changes/Midjourney/2026-02-17-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank
   you so much for your help!]]'
 - '[[Changes/ElevenLabs/2026-02-23-music|Music]]'
@@ -97,13 +98,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-02-23 · ElevenLabs · [[Changes/ElevenLabs/2026-02-23-music|Music]]
-- Later: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-core-acp-both-live-and-load-share-synthetic-pending-status-preceding-actual-data|Core ACP both live and load share synthetic pending status preceding actual data]]
+- Later: 2026-02-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-02-24-connect-copilot-with-monday-com-to-track-work-and-team-progress-web-microsoft-36|Connect Copilot with Monday.com to track work and team progress…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

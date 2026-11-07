@@ -4,20 +4,20 @@ date: '2026-07-08'
 description: 'Codex CLI · 2026-07-08 · Pricing Model: #28593 [codex] suppress low
   usage remaining warnings when credits are available @brooks-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1301
+  lag_days: 2919
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: afb2a25a61f851361c8d4d44724ac8c74da4ce7c4d1c263f1fd20b6bde6e2cc2
+machine_hash: 760dcf74070e83d56e1aa750158f74e7d3e07818f06da8557e47677076351ce6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,13 +93,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-deprecations|Deprecations]]
-- Later: 2026-07-09 · Cline · [[Changes/Cline/2026-07-09-add-a-clinepass-limit-reached-error-with-a-one-click-option-to-switch-to-cline-u|Add a ClinePass limit-reached error with a one-click option to switch to Cline…]]
+- Later: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-billing-plan-switches-pauses-cancellations-resumptions|Billing — plan switches, pauses, cancellations, resumptions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

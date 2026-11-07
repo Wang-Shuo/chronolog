@@ -4,20 +4,20 @@ date: '2026-09-05'
 description: 'OpenClaw · 2026-09-05 · Mobile and Desktop: 10 changes in v2026.9.2
   — You can adjust how long OpenClaw waits to combine a burst of messages without…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1271
+  lag_days: 2855
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa096f250f3c1815081fe9013ae958e1788dc9ed11d89434b453fbf1a5dac01f
+machine_hash: 6772cefd2c7eff91d6b8e678b37dfc3853814db5a25ea3b880bf75749c23db6e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -180,13 +180,13 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-04 · OpenCode · [[Changes/OpenCode/2026-09-04-desktop-increase-the-open-in-app-icon-size-for-better-visibility|Desktop Increase the open-in app icon size for better visibility]]
-- Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image]]
+- Later: 2026-09-05 · Qoder · [[Changes/Qoder/2026-09-05-installer-better-process-detection-and-install-recovery-on-windows|Installer: Better process detection and install recovery on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

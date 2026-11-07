@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-06-26 · Safety and Privacy: Fixed external pl
   enabled only by project `.claude/settings.json` not requiring explicit install consent
   on…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1167
+  lag_days: 2159
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 24546c66d73d6537c4264b2f63a06614613f1542df45a4e03279414fadf35392
+machine_hash: dfdcdd334c76229f48114d47d846c96b21c7a9efca63373e8d530cf5ded92d70
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-3-safety-and-privacy-changes-in-hub-v2-2-1-antigravity-guide-audio|3 Safety and Privacy changes in HUB v2.2.1 — Antigravity Guide, audio…]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a|Security: claude mcp list/get no longer spawn .mcp.json servers that a repo…]]
+- Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-add-a-host-cli-option-so-kimi-web-host-can-expose-the-server-to-the-internet-wit|Add a --host CLI option so kimi web --host can expose the server…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

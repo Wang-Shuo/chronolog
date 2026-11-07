@@ -4,20 +4,20 @@ date: '2026-06-15'
 description: 'Codex CLI · 2026-06-15 · Search and Browsing: #27501 [codex] Expand
   hosted web search citation guidance @yuning-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1180
+  lag_days: 2209
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14665794e2f0b9e15f52f4da228cb9a9d3668804437eb0fa795af862b5096c12
+machine_hash: 04c0b7a5791032102eba26c53bfca9033e83e285f543a4367b30f43955cd08ee
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,11 @@ record:
   title: '#27501 [codex] Expand hosted web search citation guidance @yuning-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-25702-codex-enable-parallel-standalone-web-search-calls-sayan-oai|♯25702
-  codex enable parallel standalone web search calls @sayan-oai]]'
 - '[[Changes/Codex CLI/2026-06-09-3-search-and-browsing-changes-in-rust-v0-139-0|3
   Search and Browsing changes in rust-v0.139.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-2-search-and-browsing-changes-in-v1-0-61|2
   Search and Browsing changes in v1.0.61]]'
+- '[[Changes/Descript/2026-06-11-descript-api-cli-v0-11-0|Descript API CLI v0.11.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
 source_type: github_releases
 theme: search-browsing
@@ -92,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-2-search-and-browsing-changes-in-v1-0-61|2 Search and Browsing changes in v1.0.61]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-2-search-and-browsing-changes-in-rust-v0-142-0|2 Search and Browsing changes in rust-v0.142.0]]
+- Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-descript-api-cli-v0-11-0|Descript API CLI v0.11.0]]
+- Later: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-add-an-all-sessions-picker-view-with-name-search-paginated-browsing-and-clipboar|Add an all-sessions picker view with name search, paginated browsing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

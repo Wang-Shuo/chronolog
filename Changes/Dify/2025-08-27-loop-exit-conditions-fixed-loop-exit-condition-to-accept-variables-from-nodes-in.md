@@ -4,20 +4,20 @@ date: '2025-08-27'
 description: 'Dify · 2025-08-27 · Automation and Scheduling: **Loop Exit Conditions**:
   Fixed loop exit condition to accept variables from nodes inside loops. Thanks to…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 603
+  lag_days: 2170
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a2a013df87f378cae91bf82b31d563342448cf75668b7837a4ffc8b8c80efb68
+machine_hash: bcbb7a0f81e3ccfd33a09035ec7efa9709dcd74e960afaad80b1c340358441b9
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: '**Loop Exit Conditions**'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-12-2-automation-and-scheduling-changes-in-v0-1-19|2
-  Automation and Scheduling changes in v0.1.19]]'
 - '[[Changes/Gemini CLI/2025-08-14-8-automation-and-scheduling-changes-in-v0-1-21|8
   Automation and Scheduling changes in v0.1.21]]'
+- '[[Changes/Notion/2025-08-19-create-and-manage-tasks-right-in-notion-calendar|Create
+  and manage tasks right in Notion Calendar]]'
 - '[[Changes/Codex CLI/2025-08-26-2692-do-not-schedule-frames-for-tui-draw-events-in-backtrack|♯2692
   do not schedule frames for Tui::Draw events in backtrack]]'
 source_release: '[[Releases/Dify/dify-2025-08-27-1-8-0-github-242787340-c7104f29|dify-2025-08-27-1-8-0-github-242787340-c7104f29]]'
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

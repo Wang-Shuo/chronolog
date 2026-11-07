@@ -4,20 +4,19 @@ date: '2026-02-27'
 description: 'Gemini CLI · 2026-02-27 · Editor Experience: feat(cli): include `/dir
   add` directories in @ autocomplete suggestions by @jasmeetsb in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1081
+  lag_days: 2665
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23efafacfee633bb5cebc0c37c45ee300e5e0c708c568a5daea5411d129cd1aa
+machine_hash: c2e701b38bc9f1bea0beedae6eb3ecef3a6bf057976eea2c6762327dbde193c3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

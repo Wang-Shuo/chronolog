@@ -5,19 +5,20 @@ description: 'OpenCode · 2026-05-30 · Developer Workflow: Terminal Wrapped inl
   tool rows now stay aligned, and failed inline tools can expand their error details
   in place.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1169
+  lag_days: 2818
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86193ed127d6ac2da79d7bbd41d67e1ddd5a759baf4afe8427c58da006fac6a8
+machine_hash: 8dd3df0205d7fcff146fb31a41ba14dd8c6ea4544529d447ae79d86452c57cdf
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +44,12 @@ record:
     can…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-28-4-developer-workflow-changes-in-v1-15-12|4 Developer
-  Workflow changes in v1.15.12]]'
 - '[[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer
   Workflow changes in v2.1.157]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4
   Developer Workflow changes in v1.0.56]]'
+- '[[Changes/Kimi Code/2026-05-29-support-querying-sessions-by-sessionid-or-workdir-in-listsessions-and-show-a-hel|Support
+  querying sessions by sessionId or workDir in listSessions, and show…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-30-v1-15-13-9e1a2e19|opencode-2026-05-30-v1-15-13-9e1a2e19]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -80,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4 Developer Workflow changes in v1.0.56]]
+- Earlier: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-support-querying-sessions-by-sessionid-or-workdir-in-listsessions-and-show-a-hel|Support querying sessions by sessionId or workDir in listSessions, and show…]]
 - Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-11-developer-workflow-changes-in-rust-v0-136-0|11 Developer Workflow changes in rust-v0.136.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

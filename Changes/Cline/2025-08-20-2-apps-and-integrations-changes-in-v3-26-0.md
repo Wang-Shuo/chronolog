@@ -4,20 +4,20 @@ date: '2025-08-20'
 description: 'Cline · 2025-08-20 · Apps and Integrations: 2 changes in v3.26.0 — refactor:
   migrate MCP settings watcher to chokidar by @celestial-vault in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 881
+  lag_days: 2441
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e53be0eea9ef4cd633c2131fdf31d010cee5646bf055a8a0488015db6593e62
+machine_hash: 00579d826a6a477df2d0e754ab7c51efdc994f9f64c296b8caea2ad061db6f17
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in v3.26.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-13-3-apps-and-integrations-changes-in-v0-1-20|3 Apps
-  and Integrations changes in v0.1.20]]'
 - '[[Changes/Gemini CLI/2025-08-14-41-apps-and-integrations-changes-in-v0-1-21|41
   Apps and Integrations changes in v0.1.21]]'
 - '[[Changes/Gemini CLI/2025-08-18-4-apps-and-integrations-changes-in-v0-1-22|4 Apps
   and Integrations changes in v0.1.22]]'
+- '[[Changes/Notion/2025-08-19-use-your-favorite-ai-tools-with-notion-s-mcp|Use your
+  favorite AI tools with Notion’s MCP]]'
 source_release: '[[Releases/Cline/cline-2025-08-20-v3-26-0-github-241074389-d79f2faa|cline-2025-08-20-v3-26-0-github-241074389-d79f2faa]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,14 +85,14 @@ Source: https://github.com/cline/cline/releases/tag/v3.26.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-4-apps-and-integrations-changes-in-v0-1-22|4 Apps and Integrations changes in v0.1.22]]
+- Earlier: 2025-08-19 · Notion · [[Changes/Notion/2025-08-19-use-your-favorite-ai-tools-with-notion-s-mcp|Use your favorite AI tools with Notion’s MCP]]
 - Later: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-5-apps-and-integrations-changes-in-rust-v0-23-0|5 Apps and Integrations changes in rust-v0.23.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

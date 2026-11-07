@@ -4,20 +4,19 @@ date: '2025-05-09'
 description: 'Aider · 2025-05-09 · Editor Experience: 2 changes in Aider v0.83.0 —
   Improved cost calculation using `litellm.completion_cost` where available.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 787
+  lag_days: 2371
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd1970e16ae676e5818e1c62c4811b3b429b7a0594400dd1b6a18ff3a0d8b610
+machine_hash: 2e51d9f1c346695886618dbe4cd6e36a4031341040d6ba64d244bce02b45072d
 product: aider
 product_name: Aider
 record:
@@ -43,10 +42,8 @@ record:
   title: 2 Editor Experience changes in v0.83.0
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-04-30-improved-lightbox-editor-interface|Improved lightbox
-  editor interface]]'
-- '[[Changes/OpenHands/2025-05-05-improved-the-display-of-the-settings-tab-by-xingyaoww-in-https-github-com-all-ha|Improved
-  the display of the settings tab]]'
+- '[[Changes/Descript/2025-05-06-rooms-bug-fixes|Rooms bug fixes]]'
+- '[[Changes/Descript/2025-05-06-editor-updates|Editor updates]]'
 - '[[Changes/OpenHands/2025-05-07-added-helpful-tips-to-changes-tab-zero-state-by-rbren-in-https-github-com-all-ha|Added
   helpful tips to Changes tab zero state]]'
 source_release: '[[Releases/Aider/aider-2025-05-09-v0-83-0-github-217725361-c9b2b84c|aider-2025-05-09-v0-83-0-github-217725361-c9b2b84c]]'
@@ -92,7 +89,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.83.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

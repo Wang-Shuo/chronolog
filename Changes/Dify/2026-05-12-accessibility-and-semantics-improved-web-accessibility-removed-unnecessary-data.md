@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 049fdf245acdf45a9c8be1fba1b588e7771b2893f0cd22884f0a0d1b7a0bd9ba
+machine_hash: 15415344ccf3dcec08a947206333ffb57dc371f890662c6a7b6ce5aa93ffc07a
 product: dify
 product_name: Dify
 record:
@@ -50,8 +50,8 @@ record:
   title: '**Accessibility and semantics**'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-17-improve-color-contrast-across-cli-themes-for-better-readability-and-accessibilit|Improve
-  color contrast across CLI themes for better readability and accessibility]]'
+- '[[Changes/Notion/2026-03-19-notion-academy-videos-and-certification-programs-are-now-live-in-6-new-languages|Notion
+  Academy videos and certification programs are now live in 6 new languages…]]'
 - '[[Changes/Dify/2026-04-29-2-accessibility-and-localization-changes-in-1-14-0|2
   Accessibility and Localization changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-05-07-tui-startup-and-accessibility-were-tightened-by-bounding-terminal-probes-clearin|TUI

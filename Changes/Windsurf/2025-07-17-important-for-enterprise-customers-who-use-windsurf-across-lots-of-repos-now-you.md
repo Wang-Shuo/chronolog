@@ -5,20 +5,20 @@ description: 'Windsurf · 2025-07-17 · Enterprise and Administration: Important
   enterprise customers who use Windsurf across lots of repos. Now, you can enforce
   ignore…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 804
+  lag_days: 2011
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 34489691d14840ee56bf698f0c1592daecefa9ff61c4aa4395404daeaaddbb12
+machine_hash: 8b1012f8e8248c64908b9d18737a40c231e868462c581c5c763821d34a8af0a9
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,11 +45,12 @@ record:
   title: Important for enterprise customers who use Windsurf across lots of repos
   type: change
 related_changes:
-- '[[Changes/Replit/2025-07-04-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Open WebUI/2025-07-14-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
 - '[[Changes/Midjourney/2025-07-16-we-re-starting-to-investigate-opening-up-an-enterprise-api-for-people-to-start-i|Enterprise
   API Survey]]'
+- '[[Changes/Descript/2025-07-17-looking-for-more-tutorials-head-to-learn-descript-https-web-descript-com-learn-d|Looking
+  for more tutorials?]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-07-17-v1-11-0-705f6ab2|windsurf-2025-07-17-v1-11-0-705f6ab2]]'
 source_type: windsurf_changelog
 theme: enterprise-admin
@@ -83,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-07-16 · Midjourney · [[Changes/Midjourney/2025-07-16-we-re-starting-to-investigate-opening-up-an-enterprise-api-for-people-to-start-i|Enterprise API Survey]]
+- Earlier: 2025-07-17 · Descript · [[Changes/Descript/2025-07-17-looking-for-more-tutorials-head-to-learn-descript-https-web-descript-com-learn-d|Looking for more tutorials?]]
 - Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-users-not-loading-in-groups-resolved-an-issue-where-user-list-was-not-displaying|🚑 Users Not Loading in Groups]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

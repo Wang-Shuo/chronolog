@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f135c646fc779285272fbf12b0e0b69ac35670054e13f60fa3ba81549bf17447
+machine_hash: afada49418e5572c4664d9b198cef6528a23f87732ecaa28ac39d4f4c69cd111
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
     templates …'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-03-a-run-whose-prompt-is-piped-over-stdin-now-treats-its-sessionend-hook-the-same-w|A
-  run whose prompt is piped over stdin now treats its sessionEnd hook the same way…]]'
 - '[[Changes/OpenHands/2026-08-03-3-agent-mode-changes-in-v1-9-0|3 Agent Mode changes
   in v1.9.0]]'
+- '[[Changes/Kimi Code/2026-08-05-run-the-cli-surfaces-interactive-tui-kimi-p-kimi-acp-kimi-export-kimi-provider-o|Run
+  the CLI surfaces…]]'
 - '[[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode
   changes in v2.1.223]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-08-06-v0-54-0-github-365923892-e13f24d6|gemini-cli-2026-08-06-v0-54-0-github-365923892-e13f24d6]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode changes in v2.1.223]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed the 200-subagent-per-session spawn cap]]
+- Later: 2026-08-06 · Kimi Code · [[Changes/Kimi Code/2026-08-06-web-subagent-tasks-show-their-model-and-thinking-level|web: Subagent tasks show their model and thinking level]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

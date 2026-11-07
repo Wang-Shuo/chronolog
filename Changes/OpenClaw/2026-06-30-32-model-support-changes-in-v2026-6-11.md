@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 142e6c6a56f1197b784b823876d43bb05c59888071d4fc0ce7c1e46026d6d022
+machine_hash: fee0d6c909fbf49c678d08880c495f3cca6ead0a26f9075d6c04e317153c2e5a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -185,10 +185,10 @@ record:
   title: 32 Model Support changes in v2026.6.11
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-add-claude-sonnet-5-as-a-supported-model|Add
-  Claude Sonnet 5 as a supported model]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-5-model-support-changes-in-v1-0-66|5 Model
   Support changes in v1.0.66]]'
+- '[[Changes/Kimi Code/2026-06-30-refresh-provider-model-lists-automatically-in-the-background-instead-of-only-at|Refresh
+  provider model lists automatically in the background instead of only…]]'
 - '[[Changes/Ollama/2026-06-30-tightened-gemma-4-moe-model-loading-in-the-mlx-engine|Tightened
   Gemma 4 MoE model loading in the MLX engine]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-06-30-v2026-6-11-23cb95a9|openclaw-2026-06-30-v2026-6-11-23cb95a9]]'

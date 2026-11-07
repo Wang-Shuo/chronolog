@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5565a3d6b670159bfd7b74b7bbf62b83a96abf34ac8f83105a059a6a9e444913
+machine_hash: f1b4136b4110be2b516671f393f8a789e0855703fd629efb8344ce6514d593fe
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,8 +42,8 @@ record:
   title: Pro Standard [Pro plans only]
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-3-model-support-changes-in-v1-0-61|3 Model
-  Support changes in v1.0.61]]'
+- '[[Changes/Kimi Code/2026-06-09-pass-through-xhigh-reasoning-effort-for-openai-compatible-chat-completions-reque|Pass
+  through xhigh reasoning effort for OpenAI-compatible chat completions requests]]'
 - '[[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans
   only]]'
 - '[[Changes/ChatGPT/2026-06-10-extra-high-pro-plans-only|Extra High Pro plans only]]'
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-3-model-support-changes-in-v1-0-61|3 Model Support changes in v1.0.61]]
+- Earlier: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-pass-through-xhigh-reasoning-effort-for-openai-compatible-chat-completions-reque|Pass through xhigh reasoning effort for OpenAI-compatible chat completions requests]]
 - Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]]
 <!-- chronolog:end -->
 

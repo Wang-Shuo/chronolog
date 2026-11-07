@@ -4,20 +4,19 @@ date: '2023-12-08'
 description: 'Dify · 2023-12-08 · Editor Experience: chore(deps): bump word-wrap from
   1.2.3 to 1.2.5 in /web by @dependabot in https://github.com/langgenius/dify/pull/1681'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 269
+  lag_days: 1853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce3138f5839475fa09e4b61c345f0eccc9a26052f8c40ed439d683c131e82051
+machine_hash: 84e7dc9050bd18603cfa59f63ceff230e9b340b8d0182a176ba02b6cd94c6fec
 product: dify
 product_name: Dify
 record:
@@ -44,12 +43,12 @@ record:
   title: 'chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter
-  Mode Beta: You can now enable Interpreter Mode in the "More" tab]]'
 - '[[Changes/Cursor/2023-11-30-more-reliable-copilot-changes-less-flashing-better-highlighting-of-what-s-new|More
   reliable Copilot++ changes: less flashing, better highlighting of what''s new]]'
 - '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter
   Followups]]'
+- '[[Changes/Descript/2023-12-06-sometimes-you-need-a-few-sometimes-you-need-a-few-tries-before-sometimes-you-nee|New
+  AI Action: Remove Retakes]]'
 source_release: '[[Releases/Dify/dify-2023-12-08-0-3-33-github-133127964-bf22df9f|dify-2023-12-08-0-3-33-github-133127964-bf22df9f]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-12-02 · Cursor · [[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter Followups]]
+- Earlier: 2023-12-06 · Descript · [[Changes/Descript/2023-12-06-sometimes-you-need-a-few-sometimes-you-need-a-few-tries-before-sometimes-you-nee|New AI Action: Remove Retakes]]
 - Later: 2023-12-14 · Cursor · [[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++ Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-02-12'
 description: 'OpenCode · 2026-02-12 · Mobile and Desktop: 3 changes in v1.1.62 — Desktop
   Project icons no longer unload unexpectedly'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1066
+  lag_days: 2650
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3fd73e3a3b17f199d09bcce0f3ff314a3df0942b27dd93c12763e6a135458438
+machine_hash: b48003bf7769348df7c14d1d65a1bdbecbe76c802a6ad50c725bd0e50b8f45a7
 product: opencode
 product_name: OpenCode
 record:
@@ -92,7 +92,7 @@ Source: https://opencode.ai/changelog/v1.1.62
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

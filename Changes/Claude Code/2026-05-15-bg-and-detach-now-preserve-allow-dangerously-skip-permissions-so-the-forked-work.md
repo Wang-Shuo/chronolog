@@ -4,20 +4,19 @@ date: '2026-05-15'
 description: 'Claude Code · 2026-05-15 · Editor Experience: `/bg` and `←`-detach now
   preserve `--allow-dangerously-skip-permissions`, so the forked worker keeps…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1158
+  lag_days: 2742
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a52e327cf1aaee6f969339d8164957348377d05e1dc92d9f22a17688bf9c380
+machine_hash: b0b2c31b2715e5e1671f911ac4e3204ea1d9a3cbdeb6a363ada1e2ee86c51016
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,11 +41,11 @@ record:
   title: '`/bg` and `←`-detach now preserve `--allow-dangerously-skip-permissions`…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved
-  PR tabs by adding clearer review states, better reviewer/thread visibility…]]'
-- '[[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]'
+- '[[Changes/Notion/2026-05-13-manage-all-connections-from-one-tab|Manage all connections
+  from one tab]]'
 - '[[Changes/OpenCode/2026-05-13-core-autocomplete-configured-mentions-in-prompts|Core
   Autocomplete configured @mentions in prompts]]'
+- '[[Changes/Descript/2026-05-14-improved-edit-reviews|Improved edit reviews]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-autocomplete-configured-mentions-in-prompts|Core Autocomplete configured @mentions in prompts]]
+- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-improved-edit-reviews|Improved edit reviews]]
 - Later: 2026-05-15 · Gamma · [[Changes/Gamma/2026-05-15-dark-mode-now-extends-to-the-theme-panel|Dark mode now extends to the theme panel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

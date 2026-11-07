@@ -4,20 +4,20 @@ date: '2026-04-02'
 description: 'Lovable · 2026-04-02 · Automation and Scheduling: You can now collaborate
   directly inside Lovable by leaving [comments and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 821
+  lag_days: 2388
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a905a163677c2ab1210414846cdac09b06375237fdd5193727b6c8cc854deed3
+machine_hash: 010b975180ca7a59d0aad21fcfcb6d27d994d64c918fbb133b3fab7ae90f6b20
 product: lovable
 product_name: Lovable
 record:
@@ -109,13 +109,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced the browser automation tool surface and tightened the subagent to use…]]
-- Later: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-proactive-is-now-an-alias-for-loop|/proactive is now an alias for /loop]]
+- Later: 2026-04-07 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-07-edit-scheduled-prompts-for-copilot-windows-mac-web-microsoft-365-copilot-chat|Edit scheduled prompts for Copilot Windows, Mac, Web (Microsoft 365 Copilot chat)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

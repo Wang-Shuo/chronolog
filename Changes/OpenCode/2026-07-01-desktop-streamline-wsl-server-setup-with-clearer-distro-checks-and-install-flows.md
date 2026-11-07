@@ -4,19 +4,20 @@ date: '2026-07-01'
 description: 'OpenCode · 2026-07-01 · Developer Workflow: Desktop Streamline WSL server
   setup with clearer distro checks and install flows'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1201
+  lag_days: 2850
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe06af02a2c70954516b6c4ce86eeb6ef43d1ebdb90cb98712354a12b6fe551b
+machine_hash: b254eaa330aa5378dcee9c339ce2e2156dfac6818d51970c9697e0e5051fb22c
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +43,10 @@ record:
     flows
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background
-  agents launched from claude agents now commit, push, and open a draft…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6
   Developer Workflow changes in v1.0.68]]'
+- '[[Changes/Kimi Code/2026-07-01-show-file-path-completions-when-typing-in-shell-mode|Show
+  file path completions when typing / in shell mode (!)]]'
 - '[[Changes/Open WebUI/2026-07-01-5-developer-workflow-changes-in-v0-10-2|5 Developer
   Workflow changes in v0.10.2]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-01-v1-17-13-e66684a1|opencode-2026-07-01-v1-17-13-e66684a1]]'
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

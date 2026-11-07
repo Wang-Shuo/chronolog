@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 981f86fa8343cadb954846fe6d8fb94f36d555fd69777a9f9b77e3e43ef02d7e
+machine_hash: 755c8177e7de23bfb206089caba01adf537125ff0c9cb92a7609db7b6d13a673
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,9 @@ record:
   title: 2 Agent Mode changes in v1.0.67
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-29-elevenagents-a80e26|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-06-29-elevenagents-d1c29a|ElevenAgents]]'
+- '[[Changes/Kimi Code/2026-06-29-add-kimi-code-custom-headers-for-custom-outbound-llm-request-headers-and-send-th|Add
+  KIMI_CODE_CUSTOM_HEADERS for custom outbound LLM request headers, and send…]]'
 - "[[Changes/Open WebUI/2026-06-29-client-user-agent-forwarded-to-model-backends-the-browser-s-user-agent-is-now-pa|\U0001FAAA
   Client User-Agent forwarded to model backends. The browser's User-Agent is now…]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f|github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f]]'

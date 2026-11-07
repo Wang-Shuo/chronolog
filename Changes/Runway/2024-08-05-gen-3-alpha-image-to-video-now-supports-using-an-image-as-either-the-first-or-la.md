@@ -4,20 +4,20 @@ date: '2024-08-05'
 description: 'Runway · 2024-08-05 · Video Generation: Gen-3 Alpha Image to Video now
   supports using an image as either the first or last frame of your video generation.'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 200
+  lag_days: 1384
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0fb544b07fc246cd13658e102ea3008d6a114b7c50257a2f6f7d0f16baaa1eb3
+machine_hash: 75a5918df298ffb90b18899982a0ba8a5abfdf433e8ba49adc6fdb522084be59
 product: runway
 product_name: Runway
 record:
@@ -44,8 +44,8 @@ record:
   title: Gen-3 Alpha last frame
   type: change
 related_changes:
-- '[[Changes/Runway/2024-02-21-motion-brush-can-now-be-used-on-gen-2-clips-that-are-being-extended-beyond-the-o|Use
-  Motion Brush on extended clips in Gen-2]]'
+- '[[Changes/Synthesia/2024-06-14-upload-a-pptx-to-ai-video-assistant-to-generate-a-draft-script-and-video-complet|Create
+  videos from PowerPoint with AI Video Assistant]]'
 - '[[Changes/Runway/2024-07-15-view-a-feed-of-gen-3-alpha-video-generations-in-the-runway-mobile-app|Mobile
   App Generation Feed]]'
 - '[[Changes/Runway/2024-07-29-use-any-image-as-the-first-frame-of-your-video-generation-either-on-its-own-or-w|Gen-3
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9420b9d6a335ad170cd46bc76fecb70dd68bba456c5547aa3e114b15fefe5235
+machine_hash: 3a9210c93151fab72e18ea969997c854c483ace37fb1c6a8beb6debbbd3fe202
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 'chore: bump agent-server to 1.57.0'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved
-  fork subagents launched together]]'
+- '[[Changes/Kimi Code/2026-10-21-compact-now-queues-while-the-agent-is-busy-instead-of-failing-with-an-error|/compact
+  now queues while the agent is busy instead of failing with an error]]'
 - '[[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed
   the /claude-api skill to build Managed Agents subagent teams…]]'
 - '[[Changes/OpenClaw/2026-10-22-3-agent-mode-changes-in-v2026-10-6|3 Agent Mode changes

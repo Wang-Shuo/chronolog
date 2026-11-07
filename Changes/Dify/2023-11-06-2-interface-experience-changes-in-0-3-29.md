@@ -4,20 +4,20 @@ date: '2023-11-06'
 description: 'Dify · 2023-11-06 · Interface Experience: 2 changes in v0.3.29 — feat:
   optimize completion model agent by @takatost in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 301
+  lag_days: 1667
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80fafad8ce5b721601a9cc74315ff76b3e9b65b9e4cde4513c119db50d1df1e6
+machine_hash: 488c23615ac8ade0634dd6a9a1cef398e95c37e8c4d835c14350066eda378a4e
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Interface Experience changes in 0.3.29
   type: change
 related_changes:
-- '[[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid
-  front end rendering]]'
+- '[[Changes/Descript/2023-10-16-new-keyboard-shortcut-forward-back-keyboard-shortcuts-for-navigating-between-com|New
+  Keyboard Shortcut]]'
 - '[[Changes/Cursor/2023-11-03-chat-scroll-we-got-rid-of-sticky-scroll-to-make-the-chat-easier-to-read|Chat
   scroll: we got rid of sticky scroll to make the chat easier to read]]'
 - '[[Changes/Cursor/2023-11-03-styling-tweaks-some-buttons-and-hints-should-look-nicer|Styling
@@ -91,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.29
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

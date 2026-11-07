@@ -4,20 +4,20 @@ date: '2024-02-13'
 description: 'Dify · 2024-02-13 · Reliability and Performance: pref: optimize add
   hit count query performance when dataset hit by @takatost in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 425
+  lag_days: 1912
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7de9aac3e8f27c3f7f6a719614ed13a1aa8b4e9a6610b86a3aeb410cbcf34268
+machine_hash: 1c90344ef86d0e8d82be18ca06e05d736c9444999596d07752814df0818819f8
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,9 @@ record:
   title: 'pref: optimize add hit count query performance when dataset hit'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|"Apply
-  Diffs" from chat should be a bit faster]]'
 - '[[Changes/Ollama/2024-02-02-when-making-api-requests-the-new-keep-alive-parameter-can-be-used-to-control-how|When
   making API requests, the new keep_alive parameter can be used to control how…]]'
+- '[[Changes/Descript/2024-02-05-ai-action-updates|AI Action Updates]]'
 - '[[Changes/Runway/2024-02-09-you-with-a-large-number-of-assets-have-significantly-faster-loading-times|Assets
   page is ~1.5x faster]]'
 source_release: '[[Releases/Dify/dify-2024-02-13-0-5-5-github-141734357-775b8760|dify-2024-02-13-0-5-5-github-141734357-775b8760]]'
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

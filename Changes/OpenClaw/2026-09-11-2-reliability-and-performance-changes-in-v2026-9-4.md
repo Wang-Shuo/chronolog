@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-11 · Reliability and Performance: 2 changes i
   — The Thinking menu now follows the effort levels offered by the selected model,
   so…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1366
+  lag_days: 2853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8440314ecd19cd8443c70712497689f1ddc9007f52907ea826177526dfc0082
+machine_hash: 1dae7fb98c03cf1a9d7b3fe9abb99ca570c085f576cecbe69a7c38ead317e077
 product: openclaw
 product_name: OpenClaw
 record:
@@ -120,7 +120,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

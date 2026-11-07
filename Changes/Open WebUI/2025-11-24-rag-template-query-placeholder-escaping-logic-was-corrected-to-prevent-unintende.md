@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-11-24 · Context Window: \U0001F4DD RAG templat
   placeholder escaping logic was corrected to prevent unintended replacements of context
   values…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 935
+  lag_days: 2259
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce8ad8c62aa71ed4cd349cd045becb4908eaba7937c5c66a55ad5fdfb1f8a6ab
+machine_hash: a1939a331eb2c345714eeb6f5dd9e6f3a3248673821db15ec9b59f30aca4ab39
 product: open-webui
 product_name: Open WebUI
 record:
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

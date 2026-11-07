@@ -4,20 +4,20 @@ date: '2026-02-09'
 description: 'ElevenLabs · 2026-02-09 · Reliability and Performance: **TTS Normalizer
   v3.1**: Upgraded the text normalizer to version 3.1, which includes improved accuracy…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1152
+  lag_days: 2639
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6f2ff3de706372ab6c30419cd88f2942d559a77097f78f05dbf3efaa330bb756
+machine_hash: 0767d2c3d3305bea78fd7112a9d1080cbc8fb5e01c194b91569966ade927c91f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-05 · Windsurf · [[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
-- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-core-memory-leak-fixed-in-platform-fetch-for-events|Core Memory leak fixed in platform fetch for events]]
+- Later: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-we-ve-also-updated-our-lip-sync-model-for-translated-videos-it-s-hella-good-now|Descript updates our lip sync model for translated videos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

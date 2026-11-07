@@ -4,20 +4,20 @@ date: '2026-10-26'
 description: 'Claude Code · 2026-10-26 · Safety and Privacy: Changed startup warnings
   about permission rules in settings files to show once per user until the rule changes'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1289
+  lag_days: 2281
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 498c6bcecce30a418940601d45c1848f7a90b2d1b0e90e2696194adffa0b2d13
+machine_hash: 487c5839167285f3e2dc40f55a947ffd55750b2e71390b7f9d374b3e8d054207
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     once per…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-11-safety-and-privacy-changes-in-1-18-0|11 Safety and
-  Privacy changes in 1.18.0]]'
+- '[[Changes/Kimi Code/2026-10-23-fix-workspace-trust-failures-when-git-bash-is-unavailable-on-windows|Fix
+  workspace trust failures when Git Bash is unavailable on Windows]]'
 - '[[Changes/Windsurf/2026-10-23-electron-42-11-16-and-node-js-24-22-1-for-the-remote-server-with-the-october-202|Electron
   42.11.16 and Node.js 24.22.1 for the remote server, with the October 2026…]]'
 - '[[Changes/Open WebUI/2026-10-25-10-safety-and-privacy-changes-in-v0-12-4|10 Safety
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

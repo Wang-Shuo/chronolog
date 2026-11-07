@@ -5,19 +5,20 @@ description: 'Dify · 2025-04-23 · Developer Workflow: 2 changes in v1.3.0 — 
   Workflow Optimization**: Speedier git checkouts by shaving off unnecessary layers
   — kudos…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 767
+  lag_days: 2416
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b95f5b06b0720a90cf5016aa0d0ae4f81472343dea09ed39b10d6d930377a55
+machine_hash: 8a8646a68254fc1b8305f1452a749f2a8965892c70541b670fe3a1f024a0c77b
 product: dify
 product_name: Dify
 record:
@@ -98,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.3.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

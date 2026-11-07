@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'ChatGPT · 2026-06-18 · Interface Experience: Easier pinning and sidebar
   organization: It’s now easier to keep important work close in ChatGPT. You can pin…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1256
+  lag_days: 2622
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eed5fa978be676af7a8c3e6d31fb7b932231624941714983847c28575bc7dbb7
+machine_hash: 36759e8999f92c560583c856fc0a0c2ae2621abf04ece208bbed024dda1d767d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -92,13 +92,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-streaming-of-long-paragraphs-text-now-appears-line-by-line-instead-of-w|Improved streaming of long paragraphs]]
-- Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-config-help-to-list-all-available-shorthand-keys-for-config-key-value|Added /config --help to list all available shorthand keys for /config key=value]]
+- Later: 2026-06-18 · Kimi Code · [[Changes/Kimi Code/2026-06-18-2-interface-experience-changes-in-kimi-code-0-18-0|2 Interface Experience changes in Kimi Code 0.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

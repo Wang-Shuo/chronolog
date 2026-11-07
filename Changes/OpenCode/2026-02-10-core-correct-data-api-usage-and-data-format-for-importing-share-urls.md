@@ -4,19 +4,20 @@ date: '2026-02-10'
 description: 'OpenCode · 2026-02-10 · Collaboration: Core Correct /data API usage
   and data format for importing share URLs'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 993
+  lag_days: 2587
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d7fccf4d66df02745085a3b9a79e3995b6f5a77306948a10e4224bb63dc201d
+machine_hash: 9e093e1dbefd2ddefff7d0fa7597f85c01fa58b7e95db304d5ba51ba5faea036
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +43,9 @@ record:
   title: Core Correct /data API usage and data format for importing share URLs
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added
-  research preview agent teams feature for multi-agent collaboration…]]'
 - '[[Changes/Codex CLI/2026-02-05-2-collaboration-changes-in-rust-v0-98-0|2 Collaboration
   changes in rust-v0.98.0]]'
+- '[[Changes/HeyGen/2026-02-06-have-feedback|Have feedback?]]'
 - '[[Changes/Replit/2026-02-06-for-teams|For Teams]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-10-v1-1-54-df764791|opencode-2026-02-10-v1-1-54-df764791]]'
 source_type: opencode_changelog
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

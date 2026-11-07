@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-08-25 · Automation and Scheduling: 11 changes 
   — \U0001F6A6 **Human in the loop tool approval.** Where an administrator has turned
   it on…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 966
+  lag_days: 2533
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7fc0399e789ac131ccf61658f06b4469af4b58afa546e92dab802ccfeefc8c5a
+machine_hash: ec957a871c7037867682f2e7314e2754da6ed12dde7e69dbca57d7d59e217d7d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -110,12 +110,12 @@ record:
   title: 11 Automation and Scheduling changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Share
-  scheduled tasks]]'
-- '[[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Scheduled
-  tasks for Free users]]'
 - '[[Changes/Dify/2026-08-25-feat-workflow-support-human-input-in-loop-and-iteration-by-laipz8200-in-https-gi|feat(workflow):
   support human input in loop and iteration]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-scheduling-with-copilot-chat-in-classic-outlook-for-windows-windows-outlook|Scheduling
+  with Copilot chat in classic Outlook for Windows Windows (Outlook)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-use-python-when-editing-with-copilot-in-excel-windows-mac-web-excel|Use
+  Python when Editing with Copilot in Excel Windows, Mac, Web (Excel)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -187,14 +187,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-feat-workflow-support-human-input-in-loop-and-iteration-by-laipz8200-in-https-gi|feat(workflow): support human input in loop and iteration]]
+- Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-use-python-when-editing-with-copilot-in-excel-windows-mac-web-excel|Use Python when Editing with Copilot in Excel Windows, Mac, Web (Excel)]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry|♯40436 Add a managed gate for in-app local automation @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

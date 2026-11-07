@@ -4,20 +4,19 @@ date: '2024-04-16'
 description: 'Dify · 2024-04-16 · Editor Experience: 3 changes in v0.6.3 — feat: Add
   workflow editor `shortcuts` (#3382) by @perzeuss in #3390'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 399
+  lag_days: 1983
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6a37ae683fab920096dd9ed926226bd08494f2c45ac2749bd5a73fde0ff5f25
+machine_hash: 85ce5dac51642a5541e4bef8fc6fc2674e2fb60969224a569a0639f17e96990e
 product: dify
 product_name: Dify
 record:
@@ -94,7 +93,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

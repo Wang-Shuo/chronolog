@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 91e1f65928dfe50f91b0b2d9548365f86dba7aa7360e47e033e6dfc18ec89f0d
+machine_hash: 54ea6e18c380309a2d1e315e6dba114952be527a770bbde1216b62507cd7d8ac
 product: ollama
 product_name: Ollama
 record:
@@ -45,11 +45,12 @@ record:
     models
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-26-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes
   in v3.54.0]]'
 - '[[Changes/Codex CLI/2026-01-27-2-model-support-changes-in-rust-v0-92-0|2 Model
   Support changes in rust-v0.92.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-copilot-chat-model-selector-now-offers-gpt-5-2-android-windows-ios-mac-web-micro|Copilot
+  Chat model selector now offers GPT-5.2 Android, Windows, iOS, Mac…]]'
 source_release: '[[Releases/Ollama/ollama-2026-01-27-v0-15-2-github-280117359-a3af3d94|ollama-2026-01-27-v0-15-2-github-280117359-a3af3d94]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-2-model-support-changes-in-rust-v0-92-0|2 Model Support changes in rust-v0.92.0]]
+- Earlier: 2026-01-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-27-copilot-chat-model-selector-now-offers-gpt-5-2-android-windows-ios-mac-web-micro|Copilot Chat model selector now offers GPT-5.2 Android, Windows, iOS, Mac…]]
 - Later: 2026-01-28 · Cline · [[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes in v3.55.0]]
 <!-- chronolog:end -->
 

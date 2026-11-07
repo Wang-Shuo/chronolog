@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 183dd7d49be1027383380031752974ec1269e6b359feba82fde76ffa2bd0d67a
+machine_hash: 010b123ce7b1f6cfaadf34b61cc3d3be2843bd67383c9a41a2fd625d77c986ef
 product: suno
 product_name: Suno
 record:
@@ -60,10 +60,10 @@ record:
   title: Introducing the v6 family of music models
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-09-2-model-support-changes-in-v1-18-30|2 Model Support
-  changes in v1.18.30]]'
 - '[[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat:
   enable LLM provider connections on cloud]]'
+- '[[Changes/Qoder/2026-09-09-2-model-support-changes-in-qoder-0-2-2|2 Model Support
+  changes in Qoder 0.2.2]]'
 - '[[Changes/Suno/2026-09-09-the-v6-family-of-models-enables-new-possibilities|The
   v6 family of models enables new possibilities]]'
 source_release: '[[Releases/Suno/suno-2026-09-09-e-introducing-v6-2635dba9|suno-2026-09-09-e-introducing-v6-2635dba9]]'
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat: enable LLM provider connections on cloud]]
+- Earlier: 2026-09-09 · Qoder · [[Changes/Qoder/2026-09-09-2-model-support-changes-in-qoder-0-2-2|2 Model Support changes in Qoder 0.2.2]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support changes in v2.1.268]]
 <!-- chronolog:end -->
 

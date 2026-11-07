@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-23 · Safety and Privacy: 50 changes in v2026.
   — If Node explicitly denies permission to start worker threads, OpenClaw can check
   SQLite…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1256
+  lag_days: 2248
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81a5dd30f4d3a28904dca033e3505799dd48fb9b4dcffb8a6787471b278c88da
+machine_hash: 5748099e7d5f4c4a31b0547969f37ce17c10f7f786b410780c66e9a4dc00aaaf
 product: openclaw
 product_name: OpenClaw
 record:
@@ -409,8 +409,9 @@ record:
   title: 50 Safety and Privacy changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-security-review|Security Review]]'
 - '[[Changes/Cursor/2026-09-23-findings|Findings]]'
+- '[[Changes/Kimi Code/2026-09-23-harden-workspace-security-block-file-tools-from-accessing-files-outside-the-work|Harden
+  workspace security]]'
 - '[[Changes/Lovable/2026-09-23-redesigned-project-security-view|Redesigned project
   Security view]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-23-v2026-9-6-3f12c824|openclaw-2026-09-23-v2026-9-6-3f12c824]]'
@@ -570,7 +571,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

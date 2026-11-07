@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-03 · Apps and Integrations: 4 changes in v
   — Added a text form of `/advisor` (`/advisor`, `/advisor <model>`, `/advisor off`)
   for…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2820
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3cafe3798462d5465393320eb4d7e2a6cf36492576d01aa71fdc11191ac036b5
+machine_hash: 13287b9ca0624d44ef1b6586290018d727907168486be800001bfc878fb3490a
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: 4 Apps and Integrations changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and
-  Integrations changes in v4.1.17]]'
+- '[[Changes/Kimi Code/2026-09-02-web-add-a-plugins-panel-to-settings-for-browsing-the-plugin-marketplace-and-inst|web:
+  Add a Plugins panel to Settings for browsing the plugin marketplace…]]'
 - '[[Changes/Suno/2026-09-02-copy-and-duplicate-plugins|Copy and duplicate plugins]]'
 - '[[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende-012cbd|Zendesk
   & OneNote Plugins in ChatGPT and Codex Beta]]'
@@ -108,7 +108,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

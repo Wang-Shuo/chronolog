@@ -4,19 +4,20 @@ date: '2026-11-06'
 description: 'Codex CLI · 2026-11-06 · Developer Workflow: 6 changes in 0.167.0 —
   `Ctrl+L` clears the terminal display while keeping earlier messages available through…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1329
+  lag_days: 2978
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0020aa584f588284f1b31fa60a98386b1d11fd1e5b689a553907c38cda391f6f
+machine_hash: 3ef7d0ab4e2378e4eb055726677a6e5c3860d8a84537db7ad54e6d9e89edf56f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +54,10 @@ record:
   title: 6 Developer Workflow changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-03-18-developer-workflow-changes-in-v2026-10-10|18 Developer
-  Workflow changes in v2026.10.10]]'
 - '[[Changes/Dify/2026-11-04-2-developer-workflow-changes-in-1-19-0|2 Developer Workflow
   changes in 1.19.0]]'
+- '[[Changes/Kimi Code/2026-11-04-create-remote-sessions-in-ssh-docker-or-custom-command-environments|Create
+  remote sessions in SSH, Docker, or custom-command environments]]'
 - '[[Changes/OpenClaw/2026-11-05-3-developer-workflow-changes-in-v2026-11-1|3 Developer
   Workflow changes in v2026.11.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
@@ -118,7 +119,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

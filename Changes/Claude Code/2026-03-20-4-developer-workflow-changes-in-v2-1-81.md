@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-03-20 · Developer Workflow: 4 changes in v2.1
   — Added `--bare` flag for scripted `-p` calls — skips hooks, LSP, plugin sync, and
   skill…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1098
+  lag_days: 2747
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 339644d8170d9e6cae19da0290c246f489ae2ba3618b29ce0efe602116a14a7d
+machine_hash: 71254c7de4ee5873bb51585c3084ee4dc61f175390899473672dc3bb54118795
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.81
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

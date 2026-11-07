@@ -4,20 +4,20 @@ date: '2024-09-30'
 description: 'Dify · 2024-09-30 · Apps and Integrations: 3 changes in v0.9.0 — Get
   ready for a feature-packed update! Version 0.9.0 brings major enhancements, new…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 557
+  lag_days: 2117
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 988072f8d0cba4258b62ee99696f31132d149ead412c2f97bc2d8151b81e2158
+machine_hash: d9ca74d3873cf8bdb50f70911dc77e16ca994522b6480c36b7b19fe9565efd92
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Apps and Integrations changes in 0.9.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-09-19-3-apps-and-integrations-changes-in-v0-3-22|3 Apps
-  and Integrations changes in v0.3.22]]'
 - '[[Changes/Dify/2024-09-20-python-sdk-add-knowledgebaseclient-and-the-corresponding-test-cases-by-twisker-i|Python
   SDK Add KnowledgeBaseClient and the corresponding test cases]]'
+- '[[Changes/Notion/2024-09-25-new-ai-connectors-beta-google-docs-sheets-slides|New
+  AI connectors BETA : Google Docs, Sheets, & Slides]]'
 - "[[Changes/Open WebUI/2024-09-26-ollama-embed-form-data-adjusted-the-integration-inaccuracies-in-the-embed-form-d|\U0001F4CB
   Ollama /embed Form Data]]"
 source_release: '[[Releases/Dify/dify-2024-09-30-0-9-0-github-177564351-208577ea|dify-2024-09-30-0-9-0-github-177564351-208577ea]]'
@@ -102,7 +102,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.9.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

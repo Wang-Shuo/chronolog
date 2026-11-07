@@ -4,20 +4,20 @@ date: '2025-03-11'
 description: 'Dify · 2025-03-11 · Reliability and Performance: **Stability & Reliability**:
   Tackled pesky bugs—be it with document extracts, chat components, or execution…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 817
+  lag_days: 2304
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eaf530ce6f7f95ffca5a6f8ebca00299ea36ec4e51f7a5827fba91a60fe25a04
+machine_hash: 083f6bfc295d0fe56a51316aeff998200ff8403205d093abf7b4da308484e58e
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,11 @@ record:
   title: '**Stability & Reliability**'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-03-05-general-reliability-enhancements-various-stability-improvements-across-the-webui|⚙️
-  General Reliability Enhancements]]'
-- '[[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability
-  and Performance changes in 0.47.x]]'
 - '[[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This
   release focuses mainly on stability and performance improvements to make…]]'
+- '[[Changes/Descript/2025-03-11-local-file-storage|Local file storage]]'
+- '[[Changes/Descript/2025-03-11-record-button-in-drive-view|Record button in Drive
+  view]]'
 source_release: '[[Releases/Dify/dify-2025-03-11-1-0-1-github-204980295-9e378bef|dify-2025-03-11-1-0-1-github-204980295-9e378bef]]'
 source_type: github_releases
 theme: reliability-performance
@@ -86,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This release focuses mainly on stability and performance improvements to make…]]
+- Earlier: 2025-03-11 · Descript · [[Changes/Descript/2025-03-11-record-button-in-drive-view|Record button in Drive view]]
 - Later: 2025-03-14 · Replit · [[Changes/Replit/2025-03-14-web-view-performance-improvements|Web View performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

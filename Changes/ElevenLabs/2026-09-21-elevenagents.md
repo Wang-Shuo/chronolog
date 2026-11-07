@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6a51e1e944c89de7896a4097886e8b5ea6737ffcab10dad007fb7e58f4523162
+machine_hash: 70c9ee91c87844adc6db7fc712710fe0251856d3677fa07c4943306ae0402de5
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -70,8 +70,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added
-  an Auto mode server row to /status showing whether this session''s auto…]]'
+- '[[Changes/Kimi Code/2026-09-19-the-agent-no-longer-assumes-the-current-working-directory-is-the-project-root|The
+  agent no longer assumes the current working directory is the project root]]'
 - '[[Changes/OpenClaw/2026-09-19-72-agent-mode-changes-in-v2026-9-5|72 Agent Mode
   changes in v2026.9.5]]'
 - '[[Changes/OpenClaw/2026-09-19-you-can-now-set-the-approval-reviewer-s-reasoning-and-optional-fast-mode-indepen|Set

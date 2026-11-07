@@ -4,19 +4,20 @@ date: '2025-07-11'
 description: 'Gemini CLI · 2025-07-11 · Developer Workflow: 2 changes in Release v0.1.10
   — Re-enable backticks in shell tool usage. by @NTaylorMullen in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 846
+  lag_days: 2495
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f16c252f0aab53a93f6c22e9987f56f911a68ee90ad093f89c2ec67349161b5
+machine_hash: 8593408f54c281dd3fea49898d6a44b1c6e2ec40474dd297d81c9b3445ecf426
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -93,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.10
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Replit · 2026-08-28 · Apps and Integrations: Enterprise organiza
   can now use custom OAuth configurations for connectors. For example, configure Gmail
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1254
+  lag_days: 2814
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d72ba8d7330401f0562585935f451469a8994714198706cd7098871779f46866
+machine_hash: f4ba10749fb7e91eadaff88099e2fcde962551ad845331a5c212d4ffaef27d86
 product: replit
 product_name: Replit
 record:
@@ -48,12 +48,12 @@ record:
   title: Customize connectors
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-08-28-build-more-with-gamma-s-api-and-connectors|Build more
-  with Gamma’s API and connectors]]'
 - '[[Changes/Lovable/2026-08-28-connect-your-app-to-gitlab-api|Connect your app to
   GitLab API]]'
 - '[[Changes/Lovable/2026-08-28-connect-your-app-to-firebase-cloud-messaging|Connect
   your app to Firebase Cloud Messaging]]'
+- '[[Changes/Qoder/2026-08-28-added-enterprise-policy-controls-for-extensions-and-mcp-servers|Added
+  enterprise policy controls for extensions and MCP servers]]'
 source_release: '[[Releases/Replit/replit-2026-08-28-2026-08-28-1fac4f32|replit-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-28 · Lovable · [[Changes/Lovable/2026-08-28-connect-your-app-to-firebase-cloud-messaging|Connect your app to Firebase Cloud Messaging]]
+- Earlier: 2026-08-28 · Qoder · [[Changes/Qoder/2026-08-28-added-enterprise-policy-controls-for-extensions-and-mcp-servers|Added enterprise policy controls for extensions and MCP servers]]
 - Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-2-apps-and-integrations-changes-in-gpt-5-6-sol-sign-in-inside-previews|2 Apps and Integrations changes in GPT-5.6 Sol, sign-in inside previews…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

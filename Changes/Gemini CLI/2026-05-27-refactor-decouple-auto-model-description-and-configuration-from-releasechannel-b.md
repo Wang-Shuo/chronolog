@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3f5585705fe4e9800271d48c7bbe4e12cb0d831c9922b0e31364e907e814e739
+machine_hash: 876dba5b8ad735188071ea8609922dbb1c56995d99a4dda06a102ddc9313f877
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 'refactor: decouple auto model description and configuration from releaseChannel'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-general-purpose-subagents-use-gpt-5-4-or-gpt-5-5-when-available|General-purpose
-  subagents use GPT-5.4 or GPT-5.5 when available]]'
-- '[[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes
-  in v3.85.0]]'
+- '[[Changes/Kimi Code/2026-05-26-3-model-support-changes-in-kimi-code-0-2-0|3 Model
+  Support changes in Kimi Code 0.2.0]]'
+- '[[Changes/Kimi Code/2026-05-26-2-model-support-changes-in-kimi-code-0-3-0|2 Model
+  Support changes in Kimi Code 0.3.0]]'
 - '[[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support
   changes in v2.1.152]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-27-v0-44-0-github-330514896-d104c1be|gemini-cli-2026-05-27-v0-44-0-github-330514896-d104c1be]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support changes in v2.1.152]]
-- Later: 2026-05-27 · Lovable · [[Changes/Lovable/2026-05-27-new-openai-image-models-for-ai-features-in-your-app|New OpenAI image models for AI features in your app]]
+- Later: 2026-05-27 · Kimi Code · [[Changes/Kimi Code/2026-05-27-use-one-retry-classification-for-transient-llm-failures-across-regular-turns-and|Use one retry classification for transient LLM failures across regular turns…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

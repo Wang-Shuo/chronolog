@@ -5,20 +5,20 @@ description: 'Dify · 2026-07-17 · Automation and Scheduling: 2 changes in v1.1
   — refactor(test): replace SimpleNamespace with typed mocks in schedule service tests
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 927
+  lag_days: 2494
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18d126f911c900ed415bfc0c2d3b01a3d42c6d6c050d5e74d11942c3c7147d3f
+machine_hash: 3b499ee841409ec12f82d6070ab206c885c1d0cc3db66a9f6ec54a05c258122f
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Automation and Scheduling changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work
-  can also keep projects moving through Scheduled Tasks that run once, repeat…]]'
 - '[[Changes/OpenClaw/2026-07-13-79-automation-and-scheduling-changes-in-v2026-7-1|79
   Automation and Scheduling changes in v2026.7.1]]'
 - '[[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel
   setup warnings are now available as structured Doctor lint findings…]]'
+- '[[Changes/Notion/2026-07-16-what-s-on-my-schedule-today|What’s on my schedule today?]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -101,14 +100,14 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel setup warnings are now available as structured Doctor lint findings…]]
+- Earlier: 2026-07-16 · Notion · [[Changes/Notion/2026-07-16-what-s-on-my-schedule-today|What’s on my schedule today?]]
 - Later: 2026-07-22 · Gemini CLI · [[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-12-11'
 description: 'Dify · 2025-12-11 · Automation and Scheduling: **Admin API Keys skip
   CSRF** — automation now flows smoother than espresso.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 709
+  lag_days: 2276
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c75e5fdbbcf023fbffb4b1fd76cc919055174c06b8fd673b8aae153ce76f3625
+machine_hash: e0ce0df9f82e4934cb1b85503f8599a74f167ae906e2dfb811ed5dd4f1a3709f
 product: dify
 product_name: Dify
 record:
@@ -41,12 +41,11 @@ record:
   title: '**Admin API Keys skip CSRF** — automation now flows smoother than espresso'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-revert-nightly-schedule-by-skeshive-in-https-github-com-google-gemini-gemini-cli|revert
-  nightly schedule]]'
 - '[[Changes/Gemini CLI/2025-11-07-feat-prevent-self-imports-and-fix-build-loop-by-mattkorwel-in-https-github-com-g|feat:
   Prevent self-imports and fix build loop]]'
 - '[[Changes/Dify/2025-11-13-2-automation-and-scheduling-changes-in-1-10-0|2 Automation
   and Scheduling changes in 1.10.0]]'
+- '[[Changes/HeyGen/2025-11-30-more-natural-movements|More natural movements]]'
 source_release: '[[Releases/Dify/dify-2025-12-11-1-11-0-github-269442254-945416fa|dify-2025-12-11-1-11-0-github-269442254-945416fa]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -88,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-2-automation-and-scheduling-changes-in-1-10-0|2 Automation and Scheduling changes in 1.10.0]]
+- Earlier: 2025-11-30 · HeyGen · [[Changes/HeyGen/2025-11-30-more-natural-movements|More natural movements]]
 - Later: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-02-11'
 description: 'Codex CLI · 2026-02-11 · Context Window: 6 changes in 0.99.0 — #10840
   Removed the "remote_compaction" feature flag @etraut-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1014
+  lag_days: 2338
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78c29d4034b3918bd06777d1db6a37ba2f8a51548c600cf8c1d6ef0211394949
+machine_hash: 306de7d75be0aa489e5fb79eb39fbd219bda5004c2f654464acbcacc60e4f71e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -119,7 +119,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

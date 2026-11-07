@@ -5,20 +5,20 @@ description: 'Open WebUI · 2025-05-19 · Enterprise and Administration: > **Loo
   for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?** – **[Speak with
   Our…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 745
+  lag_days: 1952
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd2ab307b3e907df645eb0b463f9cee2be3e2a4c83b425de551e34da653d0713
+machine_hash: 602122f7bba37a10c260ec6b3e0eda98821a6c0e3828e5b3c5619a09041f86f5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,8 +53,8 @@ record:
   title: '> **Looking for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?**'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-12-added-self-hosted-gitlab-or-enterprise-github-host-settings-for-local-installati|Added
-  self-hosted gitlab or enterprise github host settings for local installation]]'
+- '[[Changes/Notion/2025-05-13-find-anything-with-enterprise-search|Find anything
+  with enterprise search]]'
 - '[[Changes/Replit/2025-05-16-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2025-05-16-scim-for-enterprise-customers|SCIM for Enterprise customers]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-19-v0-6-10-github-219374495-760ea7a9|open-webui-2025-05-19-v0-6-10-github-219374495-760ea7a9]]'
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

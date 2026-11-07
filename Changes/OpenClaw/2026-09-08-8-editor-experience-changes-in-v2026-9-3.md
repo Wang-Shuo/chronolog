@@ -5,20 +5,19 @@ description: 'OpenClaw · 2026-09-08 · Editor Experience: 8 changes in v2026.9.
   Completed Swarms retain their child counts after cleanup and reload, with fully
   successful…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1274
+  lag_days: 2858
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ca93fffc022294bb4c73a7fcd442cb24df8a8103a5b096e8cc52ff9c132204f
+machine_hash: 51ae19b950543e7762dd056393a0b01fdfce1a32c6f4c2b5b6bb7f55b6117dfb
 product: openclaw
 product_name: OpenClaw
 record:
@@ -158,7 +157,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

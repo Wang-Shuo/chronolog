@@ -4,19 +4,20 @@ date: '2026-04-08'
 description: 'Gemini CLI · 2026-04-08 · Collaboration: Default enable narration for
   the team. by @gundermanc in https://github.com/google-gemini/gemini-cli/pull/24224'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1050
+  lag_days: 2644
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 89af08c8f34c4043ac33d88e61dbc66cece031f9a95106222eb284f87c09dc89
+machine_hash: 5832ef2253ae4648fac0b6fd24883de0d502bda383575c78c8254eb197e5df79
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -40,10 +41,10 @@ record:
   title: Default enable narration for the team
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-4-collaboration-changes-in-rust-v0-118-0|4 Collaboration
-  changes in rust-v0.118.0]]'
-- '[[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes
-  in 3.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-07-microsoft-365-copilot-chat-available-in-teams-chats-channels-and-meetings-window|Microsoft
+  365 Copilot Chat available in Teams chats, channels, and meetings…]]'
+- '[[Changes/Notion/2026-04-07-you-can-now-share-your-notion-ai-chats-as-a-read-only-link-share-a-helpful-respo|Share
+  Notion AI chats as a link]]'
 - '[[Changes/Cursor/2026-04-08-redesigned-bugbot-settings-and-split-personal-and-team-settings-into-clearer-sec|Redesigned
   Bugbot settings, and split personal and team settings into clearer sections]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

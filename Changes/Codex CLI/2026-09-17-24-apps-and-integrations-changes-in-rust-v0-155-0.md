@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-09-17 · Apps and Integrations: 24 changes in 0.
   — Added Touch ID verification for MCP requests in local TUI sessions on supported
   Macs…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1274
+  lag_days: 2834
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 837c179117ecd7ce14d8d1a4a1d8b959c035c273fe342396f1874c703de5d390
+machine_hash: f0f98552acd58d536c176c3468dc36c0b044dbb04a12c5134d6bd04c2b7395db
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -187,13 +187,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.155.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-terminal-commands-that-succeed-without-printing-anything-git-add-a-on-a-clean-tr|Terminal commands that succeed without printing anything…]]
-- Later: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-resuming-an-active-session-without-plugin-directory-discovery-or-working-directo|Resuming an active session without plugin-directory, discovery, or working-directory…]]
+- Later: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-zapier-out-in-public|Zapier, out in public]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

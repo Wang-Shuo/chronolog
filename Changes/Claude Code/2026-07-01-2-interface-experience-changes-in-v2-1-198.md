@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-07-01 · Interface Experience: 2 changes in v2
   — Keyboard shortcut hints now show opt/cmd instead of alt/super when connected from
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1269
+  lag_days: 2635
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e229ad1b3529206650dfd0023e29e3cef09caab6a0ae52afe261457897bdaf99
+machine_hash: d4067e46e8b3abbf146467609ea04048e607a514a1ce808bd2b6c1a9298e27c2
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

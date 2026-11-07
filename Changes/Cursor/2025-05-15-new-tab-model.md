@@ -5,20 +5,19 @@ description: 'Cursor · 2025-05-15 · Editor Experience: We’ve trained a new T
   that now can suggest changes across multiple files. The model excels particularly
   at…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 793
+  lag_days: 2377
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e98024c1eb47d7760eaf0bf5b118e7be90b2044ef4cf1b1fd6a1603c118e2f4a
+machine_hash: de6ca11a828da3c13c2bb13e51306495dcb69e7d70043fa502477a522486ec6a
 product: cursor
 product_name: Cursor
 record:
@@ -62,8 +61,7 @@ record:
   title: New Tab model
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-05-improved-the-display-of-the-settings-tab-by-xingyaoww-in-https-github-com-all-ha|Improved
-  the display of the settings tab]]'
+- '[[Changes/Descript/2025-05-06-editor-updates|Editor updates]]'
 - '[[Changes/OpenHands/2025-05-07-added-helpful-tips-to-changes-tab-zero-state-by-rbren-in-https-github-com-all-ha|Added
   helpful tips to Changes tab zero state]]'
 - '[[Changes/Aider/2025-05-09-2-editor-experience-changes-in-v0-83-0|2 Editor Experience
@@ -112,7 +110,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

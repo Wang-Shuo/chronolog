@@ -4,19 +4,20 @@ date: '2026-03-09'
 description: 'GitHub Copilot CLI · 2026-03-09 · Developer Workflow: 5 changes in 1.0.3
   — Add /restart command to hot restart the CLI while preserving your session'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1087
+  lag_days: 2736
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a1151505b9abda7fefb184ecd94ba31e8c56adf3c3703b8d759d8223ddeeaec
+machine_hash: 500b4b71168e62422a22850fea7f5b1eb268261a37cd19f313b4f865c4cd7d19
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -105,7 +106,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

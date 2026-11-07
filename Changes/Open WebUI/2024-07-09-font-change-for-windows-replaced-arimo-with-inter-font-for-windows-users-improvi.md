@@ -4,20 +4,20 @@ date: '2024-07-09'
 description: "Open WebUI · 2024-07-09 · Mobile and Desktop: **\U0001F504 Font Change
   for Windows**: Replaced Arimo with Inter font for Windows users, improving readability."
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 483
+  lag_days: 2067
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c87602a94c2bbf09d2523f039f51054c8d3ef879afebbdc41759cbdce924c557
+machine_hash: 0c37cb016d93216880b288f4f752e9ea3cd90f6f81ae5a8bd083ad3a8451e7c0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +44,11 @@ record:
   title: "**\U0001F504 Font Change for Windows**"
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and
-  Desktop changes in 0.7.0]]'
 - '[[Changes/Suno/2024-07-01-we-re-excited-to-present-suno-on-ios|We’re excited to
   present Suno on iOS]]'
 - '[[Changes/Dify/2024-07-08-ensure-sh-are-lf-style-so-that-they-can-be-used-directly-by-docker-for-windows-b|Ensure
   .sh are LF-style, so that they can be used directly by Docker for Windows]]'
+- '[[Changes/Descript/2024-07-09-desktop-preview|Desktop Preview]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-07-09-v0-3-8-github-164686549-1ca2b2b5|open-webui-2024-07-09-v0-3-8-github-164686549-1ca2b2b5]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -83,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-ensure-sh-are-lf-style-so-that-they-can-be-used-directly-by-docker-for-windows-b|Ensure .sh are LF-style, so that they can be used directly by Docker for Windows]]
-- Later: 2024-07-18 · Aider · [[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider is better at offering to add files to the chat on Windows]]
+- Earlier: 2024-07-09 · Descript · [[Changes/Descript/2024-07-09-desktop-preview|Desktop Preview]]
+- Later: 2024-07-17 · Notion · [[Changes/Notion/2024-07-17-use-notion-calendar-on-android|Use Notion Calendar on Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

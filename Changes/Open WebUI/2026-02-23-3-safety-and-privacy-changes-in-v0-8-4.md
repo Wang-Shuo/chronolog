@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-02-23 · Safety and Privacy: 3 changes in v0.8.
   \U0001F512 **Iframe sandbox security.** Embedded tools can no longer submit forms
   or access…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1044
+  lag_days: 2036
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7927bb7e52f1c010aba97a2a442bc697efd66dbc1aa1caa4071e4b31951e819e
+machine_hash: 964e7cf6e7fc97a8c5e6d3faa03977fc857f11460e237af3acf2b48dd0da33c8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

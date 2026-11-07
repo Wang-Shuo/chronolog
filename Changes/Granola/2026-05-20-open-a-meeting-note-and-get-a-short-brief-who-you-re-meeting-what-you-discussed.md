@@ -5,20 +5,20 @@ description: 'Granola · 2026-05-20 · Meeting Notes: Open a meeting note and ge
   short brief: who you''re meeting, what you discussed last time, and what matters
   now. Briefs…'
 diffusion:
-  first_in_tracked: '[[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New
-    in Granola: 29 meeting note templates, out of the box]]'
+  first_in_tracked: '[[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed
+    Sketch designs, Excalidraw drawings & Framer prototypes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 590
+  lag_days: 1786
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb7831f4372b1261ce27602bbedf27a454a7c88fd4d24d6c2d59a4a20cbb8b5e
+machine_hash: 2ab91efdd4b2401c27e3dec83264e5396cacde64a41b89af8d8f72398ae74928
 product: granola
 product_name: Granola
 record:
@@ -44,12 +44,11 @@ record:
   title: 'New: Briefs prepare you for your next meeting as you join'
   type: change
 related_changes:
-- '[[Changes/Granola/2025-09-30-recipes-are-saved-prompts-written-by-experts-that-work-with-your-meeting-notes-c|Introducing
-  Recipes, in the all-new Granola Chat]]'
-- '[[Changes/Granola/2025-12-04-a-celebration-of-your-year-as-told-by-your-meeting-notes|Granola
-  Crunched]]'
-- '[[Changes/Granola/2026-02-04-granola-mcp-connects-your-meeting-notes-to-claude-chatgpt-cursor-and-other-ai-to|Introducing
-  Granola MCP]]'
+- '[[Changes/Notion/2026-03-18-custom-instructions-let-you-define-exactly-how-ai-meeting-notes-makes-your-summa|Custom
+  instructions for AI Meeting Notes]]'
+- '[[Changes/Notion/2026-04-14-but-wait-there-s-more|But wait, there’s more]]'
+- '[[Changes/Notion/2026-04-14-customize-your-ai-meeting-notes-summary|Customize your
+  AI Meeting Notes summary]]'
 source_release: '[[Releases/Granola/granola-2026-05-20-https-www-granola-ai-blog-briefs-prepare-you-for-your-next-meeti-d5ebef5c|granola-2026-05-20-https-www-granola-ai-blog-briefs-prepare-you-for-your-next-meeti-d5ebef5c]]'
 source_type: granola_changelog
 theme: meeting-notes
@@ -76,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Meeting Notes
 
-- Earlier: 2026-02-04 · Granola · [[Changes/Granola/2026-02-04-granola-mcp-connects-your-meeting-notes-to-claude-chatgpt-cursor-and-other-ai-to|Introducing Granola MCP]]
-- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-retrying-a-meeting-transcript-from-summary-or-transcript-now-restores-all-availa|Retrying a meeting transcript from Summary or Transcript now restores all available pages]]
+- Earlier: 2026-04-14 · Notion · [[Changes/Notion/2026-04-14-customize-your-ai-meeting-notes-summary|Customize your AI Meeting Notes summary]]
+- Later: 2026-07-01 · Notion · [[Changes/Notion/2026-07-01-and-there-s-a-lot-more-ai-meeting-notes-now-include-speaker-labels-a-top-request|And there’s a lot more]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-10-07 · Granola · [[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New in Granola: 29 meeting note templates, out of the box]]
+- Earliest same-theme entry in the tracked set: 2021-06-29 · Notion · [[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed Sketch designs, Excalidraw drawings & Framer prototypes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

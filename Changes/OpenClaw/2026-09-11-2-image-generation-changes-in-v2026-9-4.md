@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-11 · Image Generation: 2 changes in v2026.9.4
   can generate and edit images with GPT Image 2.5 Flare or Sunburst through OpenAI
   or fal…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 915
+  lag_days: 1173
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 659172cdb7b639f676c6fd6cb47b8edbf617dfa07e92ae181041822f188117b7
+machine_hash: 9c0a0af15b08d3ba731e333933c009dcd23ff6c619c545b14fdb167076ee6c89
 product: openclaw
 product_name: OpenClaw
 record:
@@ -119,7 +119,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

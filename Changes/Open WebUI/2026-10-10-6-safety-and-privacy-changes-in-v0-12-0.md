@@ -5,20 +5,20 @@ description: 'Open WebUI · 2026-10-10 · Safety and Privacy: 6 changes in v0.12
   ☎️ **Realtime voice calls.** Administrators can now switch Call mode in the Voice
   calls…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1273
+  lag_days: 2265
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c431119d6934f85775b7588f6ecac5acd6a37f2e0e253719afd5d8a3f0457480
+machine_hash: b3329c4d269385f80d3dc64bd63746b8405be16213582a711e5ec9e54937990d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -155,7 +155,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

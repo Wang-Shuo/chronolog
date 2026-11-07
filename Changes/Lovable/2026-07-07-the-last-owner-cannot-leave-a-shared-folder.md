@@ -4,19 +4,20 @@ date: '2026-07-07'
 description: 'Lovable · 2026-07-07 · Collaboration: The only owner of a personal folder
   that is shared with others can no longer leave it. The **Leave folder** action is…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1140
+  lag_days: 2734
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 382d869bc6c138e60e35482a8ac8802ceaee15a928c277f3a87f7af2b2e929f2
+machine_hash: 946f7ed87936ac8bd5aae87b21faa9c4d43e37448b8505eb6bf0fd8de9d14f4d
 product: lovable
 product_name: Lovable
 record:
@@ -46,12 +47,12 @@ record:
   title: The last owner cannot leave a shared folder
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor
-  expands team marketplaces to support Team MCPs and organization groups]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration
   changes in v1.0.66]]'
 - '[[Changes/OpenClaw/2026-06-30-5-collaboration-changes-in-v2026-6-11|5 Collaboration
   changes in v2026.6.11]]'
+- '[[Changes/Notion/2026-07-01-your-agents-shouldn-t-be-stuck-in-one-off-chats-now-you-can-bring-multiple-agent|Your
+  agents shouldn’t be stuck in one-off chats]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-07-2026-07-07-3495f67b|lovable-2026-07-07-2026-07-07-3495f67b]]'
 source_type: lovable_changelog
 theme: collaboration
@@ -85,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-5-collaboration-changes-in-v2026-6-11|5 Collaboration changes in v2026.6.11]]
+- Earlier: 2026-07-01 · Notion · [[Changes/Notion/2026-07-01-your-agents-shouldn-t-be-stuck-in-one-off-chats-now-you-can-bring-multiple-agent|Your agents shouldn’t be stuck in one-off chats]]
 - Later: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-3-collaboration-changes-in-grouped-tool-approvals-richer-mcp|3 Collaboration changes in Grouped tool approvals, richer MCP…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

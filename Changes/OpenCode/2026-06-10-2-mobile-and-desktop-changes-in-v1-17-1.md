@@ -4,20 +4,20 @@ date: '2026-06-10'
 description: 'OpenCode · 2026-06-10 · Mobile and Desktop: 2 changes in v1.17.1 — Desktop
   The new desktop session flow now has a dedicated /new-session route with draft tabs…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1184
+  lag_days: 2768
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e106183150300fa49b5559b605ea86530fcdc04cc03c4d13daffdf49796b7a72
+machine_hash: d0e596def29e1de09bd636f4b4c83c17a43432db4810f926e01e6600f81b24fb
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Mobile and Desktop changes in v1.17.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater
-  on Windows now stops retrying within a session once claude.exe…]]'
 - '[[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4
   Mobile and Desktop changes in rust-v0.138.0]]'
+- '[[Changes/Kimi Code/2026-06-09-detect-git-bash-installed-through-scoop-and-other-git-shims-on-windows|Detect
+  Git Bash installed through Scoop and other Git shims on Windows]]'
 - '[[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable
   mouse tracking on Windows consoles that don''t fully support it]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-10-v1-17-1-fdb1f343|opencode-2026-06-10-v1-17-1-fdb1f343]]'
@@ -91,7 +91,7 @@ Source: https://opencode.ai/changelog/v1.17.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

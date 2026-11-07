@@ -5,20 +5,21 @@ description: 'ChatGPT · 2024-04-01 · Account and Access: We’re making it eas
   people to experience the benefits of AI without needing to sign up. Starting today,
   you…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 368
+  lag_days: 1343
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5081ea99802ae78696580ae5f39916440108e86e1000ea015aa59efa1ed4f44a
+machine_hash: a2c1343880f6f4dfaa35afdf5233976373d2f228da7e27d11fa085b44a8b6992
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,8 +51,8 @@ record:
   title: Start using ChatGPT instantly
   type: change
 related_changes:
-- '[[Changes/Dify/2023-10-10-feat-move-login-required-wrapper-outside-by-takatost-in-https-github-com-langgen|feat:
-  move login_required wrapper outside]]'
+- '[[Changes/Descript/2024-03-04-signing-in-with-the-wrong-email|Signing in with the
+  Wrong Email]]'
 - '[[Changes/Dify/2024-03-12-smtp-authentication-is-optional-by-lmagnien-in-https-github-com-langgenius-dify|SMTP
   authentication is optional]]'
 - '[[Changes/Dify/2024-03-29-authentication-is-only-applied-when-both-the-username-and-password-have-values-b|Authentication
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

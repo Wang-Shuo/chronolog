@@ -4,20 +4,20 @@ date: '2026-10-06'
 description: 'Lovable · 2026-10-06 · Apps and Integrations: The [Databricks connector](https://docs.lovable.dev/integrations/databricks.md)
   now lets you connect by signing…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1293
+  lag_days: 2853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6e9e58a8bdc15ef8861daaee037b2dde389b0d805a2ac9e9f03c722510082808
+machine_hash: 6c0c5c6fafcef1179c17d8e4452eb20f89874511bd946410d77e7755e8293fc4
 product: lovable
 product_name: Lovable
 record:
@@ -95,13 +95,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9 Apps and Integrations changes in v2.1.292]]
-- Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-chore-consume-extensions-0-27-0-by-henriquehirako-in-https-github-com-openhands|chore: consume Extensions 0.27.0]]
+- Later: 2026-10-06 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-06-seamless-search-and-chat-integration-windows-web-microsoft-365-copilot|Seamless Search and Chat Integration Windows, Web (Microsoft 365 Copilot)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

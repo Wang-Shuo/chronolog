@@ -4,20 +4,20 @@ date: '2026-06-25'
 description: 'Dify · 2026-06-25 · Automation and Scheduling: 2 changes in 1.15.0 —
   **Richer Human-in-the-Loop forms**'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 905
+  lag_days: 2472
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4e1df689dd37803a8d924eda2cd9860a71c35c39674d354f9e1c9ec9963aa6bc
+machine_hash: 67b6a72258a2033ba1e3fc40696903d8a6381e34c87e9eadbc30ba764e717144
 product: dify
 product_name: Dify
 record:
@@ -98,13 +98,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-handle-wakeup-misfires-with-a-graceful-message-when-no-self-paced-schedule-is-ac|Handle wakeup misfires with a graceful message when no self-paced schedule is active]]
-- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-6-automation-and-scheduling-changes-in-v0-10-0|6 Automation and Scheduling changes in v0.10.0]]
+- Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-add-a-hint-to-the-per-turn-step-limit-error-pointing-users-to-the-loop-control-m|Add a hint to the per-turn step limit error pointing users…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2024-09-12'
 description: 'Dify · 2024-09-12 · Editor Experience: editor can also create api key
   by @cuckootan in https://github.com/langgenius/dify/pull/8214'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 548
+  lag_days: 2132
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef50c537d989472cce3a2f62a019860183b1d1aa761906e93ba65f9ee64e8746
+machine_hash: e286fa6e29cc9a9bebe8a250301cfde06b4592c09db81ee87daabcfe9798f59a
 product: dify
 product_name: Dify
 record:
@@ -40,12 +39,11 @@ record:
   title: editor can also create api key
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You
-  can now edit Claude''s changes before accepting! When he edits or creates…]]'
-- "[[Changes/Open WebUI/2024-09-04-missing-chat-completion-response-headers-ensured-proper-return-of-proxied-respon|\U0001F504
-  Missing Chat Completion Response Headers]]"
 - '[[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude''s
   changes now appear in your file''s Timeline, allowing you to easily view…]]'
+- '[[Changes/Descript/2024-09-10-editor-updates|Editor updates]]'
+- '[[Changes/Descript/2024-09-10-edit-for-clarity-w-ai-speech|Edit for clarity w/
+  AI speech]]'
 source_release: '[[Releases/Dify/dify-2024-09-12-0-8-1-github-174827526-2c0e447a|dify-2024-09-12-0-8-1-github-174827526-2c0e447a]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-09-05 · Cline · [[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude's changes now appear in your file's Timeline, allowing you to easily view…]]
+- Earlier: 2024-09-10 · Descript · [[Changes/Descript/2024-09-10-edit-for-clarity-w-ai-speech|Edit for clarity w/ AI speech]]
 - Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

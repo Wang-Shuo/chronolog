@@ -4,19 +4,20 @@ date: '2024-10-23'
 description: 'Gamma · 2024-10-23 · Collaboration: View images your teammates have
   created in shared gammas'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 518
+  lag_days: 2112
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1bb099e3eda19695ef7db8c5672129c47ededd169ec06fb080ea41c9cfca871c
+machine_hash: 1fcc2134d9fa341d472d5a2f2a8ed5d90c1ff69ffac94aeb46782762522d0427
 product: gamma
 product_name: Gamma
 record:
@@ -42,10 +43,10 @@ record:
   title: View images your teammates have created in shared gammas
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-09-10-we-added-a-new-way-to-share-your-gamma-creations-you-can-now-download-any-of-you|We
-  added a new way to share your Gamma creations]]'
 - '[[Changes/Dify/2024-09-30-with-this-release-we-re-truly-showcasing-the-power-of-dify-we-appreciate-your-co|With
   this release, we’re truly showcasing the power of Dify!]]'
+- '[[Changes/Descript/2024-10-08-data-sharing-is-disabled-for-enterprise-drives|Data
+  sharing is disabled for Enterprise Drives]]'
 - '[[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New
   README and got a cool domain for the project (source link) (wip)]]'
 source_release: '[[Releases/Gamma/gamma-2024-10-23-67193a9920732f7ead00385b-f74bea0c|gamma-2024-10-23-67193a9920732f7ead00385b-f74bea0c]]'
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

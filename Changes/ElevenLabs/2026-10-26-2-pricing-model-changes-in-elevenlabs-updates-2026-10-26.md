@@ -4,20 +4,20 @@ date: '2026-10-26'
 description: 'ElevenLabs · 2026-10-26 · Pricing Model: 2 changes in ElevenLabs updates
   — 2026-10-26 — **Call duration and billing**: Call charges and stored call duration…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1411
+  lag_days: 3029
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bfabcc9aa723de1680e600f3f061c8852328f65224984a748305ea368c2a4919
+machine_hash: 3459951922642589583c478727a16ec554984bc1bd98dc9ea90f70fb8bff8817
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Pricing Model changes in ElevenLabs updates — 2026-10-26
   type: change
 related_changes:
-- '[[Changes/v0/2026-10-16-members-with-a-scheduled-ending-or-cancelled-premium-subscription-keep-their-rem|Members
-  with a scheduled-ending or cancelled Premium subscription keep…]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete
-  usage reporting no longer shows partial status or phantom unattributed…]]'
+- '[[Changes/Notion/2026-10-19-your-credits-go-about-10-further|Your credits go about
+  10× further]]'
 - '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
   payments in Vietnam]]'
+- '[[Changes/Synthesia/2026-10-21-set-a-monthly-credit-limit-for-every-user-on-your-enterprise-plan-so-spend-stays|Set
+  per-user limits with Credit controls]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: elevenlabs_changelog
 theme: pricing-model
@@ -106,14 +106,14 @@ Source: https://elevenlabs.io/docs/changelog/2026/10/26
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-21 · ChatGPT · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
+- Earlier: 2026-10-21 · Synthesia · [[Changes/Synthesia/2026-10-21-set-a-monthly-credit-limit-for-every-user-on-your-enterprise-plan-so-spend-stays|Set per-user limits with Credit controls]]
 - Later: 2026-10-26 · Gamma · [[Changes/Gamma/2026-10-26-clearer-credit-balances|Clearer credit balances]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

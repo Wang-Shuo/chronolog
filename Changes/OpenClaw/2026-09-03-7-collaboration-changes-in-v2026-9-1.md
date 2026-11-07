@@ -4,19 +4,20 @@ date: '2026-09-03'
 description: 'OpenClaw · 2026-09-03 · Collaboration: 7 changes in v2026.9.1 — Skills
   are becoming something a team can own without turning the host into a ticket queue…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1198
+  lag_days: 2792
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b96eede662cc11f62980ce3da711cab6fe4a75a4f062f5249b210f6832060818
+machine_hash: 4093862a229af5bd86c7654ebbd6950f28a4bfc125368e3300866a544e8cb0fc
 product: openclaw
 product_name: OpenClaw
 record:
@@ -152,7 +153,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

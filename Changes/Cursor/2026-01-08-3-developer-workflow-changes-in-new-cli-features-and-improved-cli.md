@@ -4,19 +4,20 @@ date: '2026-01-08'
 description: 'Cursor · 2026-01-08 · Developer Workflow: 3 changes in New CLI Features
   and Improved CLI Performance — Added agent models command, -list-models flag, and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1027
+  lag_days: 2676
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99905c5fcde33c36abfad635d3c1f969a9d22a0dbb12525b8156ad561acee3bc
+machine_hash: 749c3e38d49eec0481b78fc3db42ac5a0f911bd256883e11593cb11e5f8e41e9
 product: cursor
 product_name: Cursor
 record:
@@ -104,7 +105,7 @@ Source: https://cursor.com/changelog/cli-jan-08-2026
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

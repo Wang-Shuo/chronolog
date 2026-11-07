@@ -4,20 +4,20 @@ date: '2026-03-17'
 description: 'Dify · 2026-03-17 · Interface Experience: 7 changes in v1.13.1 — **Breaking
   change:** HITL email content now uses markdown rendering before delivery.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1163
+  lag_days: 2529
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5107a61b04d7c189144dab444172b03a85c951859445fa10118c1e4e5604282c
+machine_hash: 0cbfe496c75ceb494986bfd0374161445d576997724ebcfdbac90a24b5455fec
 product: dify
 product_name: Dify
 record:
@@ -58,12 +58,11 @@ record:
   title: 7 Interface Experience changes in 1.13.1
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-16-improved-sidebar-design-based-on-user-feedback|Improved
-  sidebar design based on user feedback]]'
-- '[[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy
-  now accepts an optional index: /copy N copies the Nth-latest assistant response]]'
 - '[[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface
   Experience changes in v2.1.78]]'
+- '[[Changes/Descript/2026-03-17-translation-and-regenerate|Translation and regenerate]]'
+- '[[Changes/Descript/2026-03-17-the-redesigned-color-adjustments-settings-are-now-in-the-properties-panel-instea|The
+  redesigned Color adjustments settings are now in the Properties panel instead…]]'
 source_release: '[[Releases/Dify/dify-2026-03-17-1-13-1-github-297876307-84187197|dify-2026-03-17-1-13-1-github-297876307-84187197]]'
 source_type: github_releases
 theme: interface-experience
@@ -121,14 +120,14 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface Experience changes in v2.1.78]]
+- Earlier: 2026-03-17 · Descript · [[Changes/Descript/2026-03-17-the-redesigned-color-adjustments-settings-are-now-in-the-properties-panel-instea|The redesigned Color adjustments settings are now in the Properties panel instead…]]
 - Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-3-interface-experience-changes-in-v0-34-0|3 Interface Experience changes in v0.34.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

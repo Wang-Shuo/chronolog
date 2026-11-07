@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a811562dc3b8534b01b0d22a52d3effcaf30b392ebb62f5c57723ac88cb9998d
+machine_hash: 53520fab6775265f920818e714ceecb6abc481cddf3412117bb95998cf8793e8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,12 +52,12 @@ record:
     now carry…"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return|Improved
-  subagent results]]'
 - '[[Changes/Dify/2026-08-25-53-agent-mode-changes-in-1-17-0|53 Agent Mode changes
   in 1.17.0]]'
 - '[[Changes/Gemini CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0|8 Agent Mode changes
   in v0.57.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-work-iq-apis-unified-rest-endpoint-for-agents-and-workflows-developer-web-micros|Work
+  IQ APIs – Unified REST Endpoint for Agents and Workflows Developer…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'
 source_type: github_releases
 theme: agent-mode
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0|8 Agent Mode changes in v0.57.0]]
+- Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-work-iq-apis-unified-rest-endpoint-for-agents-and-workflows-developer-web-micros|Work IQ APIs – Unified REST Endpoint for Agents and Workflows Developer…]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent Mode changes in rust-v0.150.0]]
 <!-- chronolog:end -->
 

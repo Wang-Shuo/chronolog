@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a47383a7aaef3a3961ca6ec4dbfb9ec988ffc42ce871b237e3c44b560809da6f
+machine_hash: 28ef3722701203723a79ae30114a71a765b0393e58c6272367ed752b3f76d1ef
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,7 +43,8 @@ record:
   title: 2 Model Support changes in v1.0.65
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-22-dubbing|Dubbing]]'
+- '[[Changes/Kimi Code/2026-06-22-detect-the-real-image-format-from-file-contents-when-reading-media-so-a-mismatch|Detect
+  the real image format from file contents when reading media, so a mismatched…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-7-model-support-changes-in-v1-0-64|7 Model
   Support changes in v1.0.64]]'
 - '[[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5

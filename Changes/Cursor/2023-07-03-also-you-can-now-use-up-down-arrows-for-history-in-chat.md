@@ -4,20 +4,20 @@ date: '2023-07-03'
 description: 'Cursor · 2023-07-03 · Interface Experience: (Also, you can now use up/down
   arrows for history in chat.)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 175
+  lag_days: 1541
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46c11ccbf0997e8d9c5d59fa9f61588fbfa1514a381b4aa4d3f4eef7f4efae8e
+machine_hash: ed0dd85d24cbeefe4a43b8588bdec08d5c2cbe28784402cb84c552dfadabe922
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: (Also, you can now use up/down arrows for history in chat.)
   type: change
 related_changes:
-- '[[Changes/Dify/2023-05-30-chore-input-area-highlight-and-moblie-hide-tooltip-by-iamjoel-in-https-github-co|chore:
-  input area highlight and moblie hide tooltip]]'
 - '[[Changes/Cursor/2023-06-24-the-chat-has-been-revamped-you-can-now-use-symbols-to-show-files-code-docs-to-th|Chat
   v2]]'
+- '[[Changes/Descript/2023-06-26-updated-the-icons-in-the-quick-actions-https-help-descript-com-hc-en-us-articles|Updated
+  the icons in the Quick…]]'
 - '[[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
   ergonomics]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f|cursor-2023-07-03-0-2-39-https-cursor-com-changelog-0-2-39-cbfe6a5f]]'
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

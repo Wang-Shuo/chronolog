@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'GitHub Copilot CLI · 2026-06-30 · Context Window: Keep session-store
   searches and context lookups responsive'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1153
+  lag_days: 2477
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a995a50ed7c931f69c4d6d69358d87d6af1945754aa9a4cca66cb05b1daf139
+machine_hash: 01aa625ff152abbf62193f19090986d6ad566a9c448b4f1a98b457326a05113b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Keep session-store searches and context lookups responsive
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-3-context-window-changes-in-1-15-0|3 Context Window changes
-  in 1.15.0]]'
-- '[[Changes/Google Antigravity/2026-06-25-improved-readability-of-context-pills-by-truncating-long-labels-and-adding-hover|Improved
-  readability of context pills by truncating long labels and adding hover…]]'
+- '[[Changes/Kimi Code/2026-06-26-2-context-window-changes-in-kimi-code-0-20-1|2 Context
+  Window changes in Kimi Code 0.20.1]]'
+- '[[Changes/Kimi Code/2026-06-29-2-context-window-changes-in-kimi-code-0-20-2|2 Context
+  Window changes in Kimi Code 0.20.2]]'
 - '[[Changes/Open WebUI/2026-06-29-3-context-window-changes-in-v0-10-0|3 Context Window
   changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

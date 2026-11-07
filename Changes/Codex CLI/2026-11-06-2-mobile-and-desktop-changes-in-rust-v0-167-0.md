@@ -4,20 +4,20 @@ date: '2026-11-06'
 description: 'Codex CLI · 2026-11-06 · Mobile and Desktop: 2 changes in 0.167.0 —
   Opt into macOS or Windows system proxy settings from `/experimental` (#58157).'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1333
+  lag_days: 2917
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: caa8d72f4c39d5c168628a9d06b1b15fea87c4eb37ab334674a7688d93582dbb
+machine_hash: f27fcd6cef21754d580e03e42a672427080fd3633d9cffec475b0baf19866dd1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,13 +94,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-2-mobile-and-desktop-changes-in-v1-36-0|2 Mobile and Desktop changes in v1.36.0]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-8-mobile-and-desktop-changes-in-v1-0-106|8 Mobile and Desktop changes in v1.0.106]]
+- Later: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-3-mobile-and-desktop-changes-in-release-roundup-november-6-2026|3 Mobile and Desktop changes in Release roundup—November 6, 2026]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

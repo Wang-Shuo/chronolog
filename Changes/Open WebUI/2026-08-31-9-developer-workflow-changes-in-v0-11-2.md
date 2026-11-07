@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-08-31 · Developer Workflow: 9 changes in v0.11
   \U0001F524 **Choice of interface font.** Interface settings now offer a font family
   field where you…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1262
+  lag_days: 2911
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec11aa2c90e92f88f33c1b0440fe2cfb676308341c5eb79c2b595dc7b1d84abd
+machine_hash: 16ae48ca05fd5c3ec2e09519a2efcfcc38b5a21f357199df11c2e5b27bb71c66
 product: open-webui
 product_name: Open WebUI
 record:
@@ -146,7 +147,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

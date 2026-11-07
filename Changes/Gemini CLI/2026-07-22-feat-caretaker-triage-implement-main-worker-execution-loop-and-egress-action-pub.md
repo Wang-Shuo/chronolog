@@ -4,20 +4,20 @@ date: '2026-07-22'
 description: 'Gemini CLI · 2026-07-22 · Automation and Scheduling: feat(caretaker-triage):
   implement main worker execution loop and egress action publisher by @chadd28 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 932
+  lag_days: 2499
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ddaeb2b46f8e346405eff33ecda70e8e7fa68918dc7147737d2281569d0ad4f5
+machine_hash: eab067396adf5335b0fda7318d2a9f640dac0766209c2b34c634ca58b09c198f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,9 @@ record:
     action publisher'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-79-automation-and-scheduling-changes-in-v2026-7-1|79
-  Automation and Scheduling changes in v2026.7.1]]'
 - '[[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel
   setup warnings are now available as structured Doctor lint findings…]]'
+- '[[Changes/Notion/2026-07-16-what-s-on-my-schedule-today|What’s on my schedule today?]]'
 - '[[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation
   and Scheduling changes in 1.16.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-07-22-v0-52-0-github-358318142-b2659718|gemini-cli-2026-07-22-v0-52-0-github-358318142-b2659718]]'
@@ -82,13 +81,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation and Scheduling changes in 1.16.0]]
-- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-9-automation-and-scheduling-changes-in-v0-11-0|9 Automation and Scheduling changes in v0.11.0]]
+- Later: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-remove-references-to-the-non-existent-kimi-resume-command-from-the-scheduled-tas|Remove references to the non-existent kimi resume command from the scheduled-task…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

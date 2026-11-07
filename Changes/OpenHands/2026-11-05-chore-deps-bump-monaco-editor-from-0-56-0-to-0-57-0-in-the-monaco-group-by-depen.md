@@ -4,20 +4,19 @@ date: '2026-11-05'
 description: 'OpenHands · 2026-11-05 · Editor Experience: chore(deps): bump monaco-editor
   from 0.56.0 to 0.57.0 in the monaco group by @dependabot[bot] in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1332
+  lag_days: 2916
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8febcbf58cc357f58f940727000238e905d1204982a5151522f9ce7203c146f4
+machine_hash: 611004e26777716b1aea76efba3aa460113d55d603388c16ee1366cd3f788ca3
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +41,10 @@ record:
   title: 'chore(deps): bump monaco-editor from 0.56.0 to 0.57.0 in the monaco group…'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-3-editor-experience-changes-in-1-19-0|3 Editor Experience
-  changes in 1.19.0]]'
-- '[[Changes/Gemini CLI/2026-11-04-feat-cli-bridge-the-ide-companion-into-container-sandboxes-over-exec-stdio-by-el|feat(cli):
-  bridge the IDE companion into container sandboxes over exec stdio]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-copilot-new-tab-page-in-microsoft-edge-web-microsoft-365-copilot|Copilot
+  New Tab Page in Microsoft Edge Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-navigate-to-your-workbook-changes-directly-from-the-copilot-chat-pane-response-w|Navigate
+  to your workbook changes directly from the Copilot chat pane response…]]'
 - '[[Changes/OpenClaw/2026-11-05-reduces-prompt-cache-misses-across-completion-heartbeat-and-background-turns-by|Reduces
   prompt-cache misses across completion, heartbeat and background turns…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c|openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c]]'
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

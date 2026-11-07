@@ -5,20 +5,20 @@ description: 'ChatGPT · 2025-12-16 · Image Generation: We’ve introduced a ne
   improved version of ChatGPT Images, powered by our best image generation model yet.
   With…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 646
+  lag_days: 904
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 80ed6efcfc43abe5f5f85108741005d3f41d2402ab204429261b4a9797a6d5ee
+machine_hash: 5a63016a6826fab9d1863b7b06231dd981b53d6d24f48bf0ba3464e453a6b196
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,11 +72,12 @@ record:
   title: ChatGPT Images on Web and Mobile (iOS & Android)
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-26-ai-powered-image-generation-in-visual-edits|AI-powered
-  image generation in Visual edits]]'
-- '[[Changes/Lovable/2025-11-26-all-new-visual-edits|All new Visual edits]]'
+- '[[Changes/Synthesia/2025-11-26-we-just-added-image-generation-to-synthesia-try-the-latest-genai-models-they-re|Create
+  any images with FLUX.2 & Nanobanana Pro]]'
 - "[[Changes/Open WebUI/2025-12-02-image-generation-in-temporary-chats-was-fixed-by-correctly-handling-local-chat-s|\U0001F3A8
   Image generation in temporary chats was fixed by correctly handling local chat…]]"
+- '[[Changes/Descript/2025-12-04-flux-2-pro-now-available-for-image-generation|Flux
+  2 Pro now available for image generation]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-16-chatgpt-images-on-web-and-mobile-ios-android-bd6b2208|chatgpt-2025-12-16-chatgpt-images-on-web-and-mobile-ios-android-bd6b2208]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -103,14 +104,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-image-generation-in-temporary-chats-was-fixed-by-correctly-handling-local-chat-s|🎨 Image generation in temporary chats was fixed by correctly handling local chat…]]
+- Earlier: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-flux-2-pro-now-available-for-image-generation|Flux 2 Pro now available for image generation]]
 - Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-4-image-generation-changes-in-v0-6-42|4 Image Generation changes in v0.6.42]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

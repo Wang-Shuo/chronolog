@@ -4,20 +4,20 @@ date: '2026-07-31'
 description: 'Google Antigravity · 2026-07-31 · Safety and Privacy: 2 changes in HUB
   v2.5.0 — Enterprise sign-in: Gemini Enterprise accounts and Workforce Identity…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1202
+  lag_days: 2194
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a1a45befe485e61af47f9d7421ae506c6b8aaeef55d9d214405ef0aee786881f
+machine_hash: e2c860d2954a5a49861fa9b6068702227947bea974412d01ddbdaa6aa7372953
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -93,13 +93,13 @@ Source: https://antigravity.google/releases?tab=hub&version=2.5.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-safety-and-privacy-changes-in-v1-0-77|2 Safety and Privacy changes in v1.0.77]]
-- Later: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-3-safety-and-privacy-changes-in-v1-0-78|3 Safety and Privacy changes in v1.0.78]]
+- Later: 2026-07-31 · Kimi Code · [[Changes/Kimi Code/2026-07-31-web-order-permission-modes-from-safest-to-most-permissive-across-settings-surfac|web: Order permission modes from safest to most permissive across settings surfaces…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

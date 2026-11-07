@@ -5,20 +5,20 @@ description: 'Manus · 2025-11-18 · Apps and Integrations: Manus can now perfor
   directly in your browser, autonomously. It securely works alongside you in your
   active…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 971
+  lag_days: 2531
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1dabd6010dc47b20055ff19895d13ab5aac19b770287278738a9c1e0c089c497
+machine_hash: 7d11d8d3afa9b1a7410bd139e60469fe2c9658dc6cf8cac2c5acf5c42440799c
 product: manus
 product_name: Manus
 record:
@@ -45,9 +45,10 @@ record:
   title: Introducing Manus Browser Operator
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-14-3-apps-and-integrations-changes-in-v0-15-0|3 Apps
-  and Integrations changes in v0.15.0]]'
-- '[[Changes/Replit/2025-11-16-azure-marketplace-integration|Azure Marketplace integration]]'
+- '[[Changes/Notion/2025-11-17-the-figma-notion-mcp-integration-is-live-here-s-a-demo-that-connects-figma-make|The
+  Figma × Notion MCP integration is live!]]'
+- '[[Changes/Notion/2025-11-17-search-private-slack-messages|Search private Slack
+  messages]]'
 - '[[Changes/Cline/2025-11-18-feat-upgrade-sap-ai-sdk-js-packages-major-version-by-yuvalman-in-https-github-co|feat:
   upgrade sap ai-sdk-js packages major version]]'
 source_release: '[[Releases/Manus/manus-2025-11-18-4wnf3goshawkzvgiwlyess-4e21fea2|manus-2025-11-18-4wnf3goshawkzvgiwlyess-4e21fea2]]'
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

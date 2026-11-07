@@ -4,20 +4,20 @@ date: '2023-06-26'
 description: 'Aider · 2023-06-26 · Pricing Model: Enables display of cost info based
   on OpenAI advertised pricing.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 193
+  lag_days: 1811
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 8e9900dec864e7daff2985d813ee4f92696a4d3e4cd2cbe9718ad85374195c27
+machine_hash: a40d9d54493ee614f79eba65950fad6847d8959f032ca995ed24c92a77d5ab46
 product: aider
 product_name: Aider
 record:
@@ -43,7 +43,8 @@ record:
   title: Enables display of cost info based on OpenAI advertised pricing
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]'
+- '[[Changes/Notion/2023-04-27-extended-free-access-for-startups-including-unlimited-ai|Extended
+  free access for startups — including unlimited AI]]'
 - '[[Changes/Dify/2023-06-14-feat-add-gpt-3-5-turbo-16k-support-and-update-openai-gpt-3-5-turbo-embedding-ada|feat:
   add gpt-3.5-turbo-16k support and update openai gpt-3.5-turbo & Embedding Ada…]]'
 - '[[Changes/Aider/2023-06-25-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

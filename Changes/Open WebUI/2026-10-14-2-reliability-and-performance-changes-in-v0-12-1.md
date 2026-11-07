@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-14 · Reliability and Performance: 2 changes
   v0.12.1 — \U0001F50D **Faster one-word chat search.** Searching your chats for a
   single word is now…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1399
+  lag_days: 2886
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24e7c5ab5a5c946a517f019ca57ff684d3e95808cc61260e6a89a8c2527b1e3c
+machine_hash: 6d74fe6c78a2772a5f6d27cb4f1871448b20978eef1b9974872c28ab1894a3b2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

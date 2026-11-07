@@ -4,20 +4,20 @@ date: '2026-03-12'
 description: 'Cline · 2026-03-12 · Apps and Integrations: Hooks: reintroduced feature
   toggle'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1085
+  lag_days: 2645
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf155481f763baddfd2cf9aa73d732ddcb0983bb2822644f87a100dba833b6ed
+machine_hash: e32a0e47832c2b93b399b3a58dd05798a746a3d5afc58472b65f490b16412bc5
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: 'Hooks: reintroduced feature toggle'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-4-apps-and-integrations-changes-in-v1-0-4|4
-  Apps and Integrations changes in v1.0.4]]'
+- '[[Changes/Notion/2026-03-11-notion-ai-can-now-search-your-salesforce-data-accounts-leads-opportunities-and-c|Search
+  Salesforce accounts, leads, opportunities, and contacts in Notion]]'
 - '[[Changes/v0/2026-03-11-added-one-click-marketplace-integration-installation-for-ios-app|Added
   one-click marketplace integration installation for iOS app]]'
 - '[[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-04-10 · Interface Experience: 10 changes in 0.1
   — Resume flows are more stable: the picker no longer flashes false empty states,
   uses…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1187
+  lag_days: 2553
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d930192b76c5c0db1bf66fd06d3530f856dca08b0a42d774bcb12e45d634a4c
+machine_hash: ebc89ba6f9401445d3c0f5a6594edd9a6ac4fedfb687b28335e5df85b42d775c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -141,7 +141,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

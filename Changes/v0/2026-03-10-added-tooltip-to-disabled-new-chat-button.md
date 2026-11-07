@@ -4,20 +4,20 @@ date: '2026-03-10'
 description: 'v0 · 2026-03-10 · Interface Experience: Added tooltip to disabled New
   Chat button'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1156
+  lag_days: 2522
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9083fa3d5991f73728f7913ec2da06fbff7703b5cddad459fc49cf0a7c94b6c2
+machine_hash: 93a0646f8760541774dd6ecd78f30be5a847fd540d98bd2ad8f4dd72d2d3c960
 product: v0
 product_name: v0
 record:
@@ -45,12 +45,12 @@ record:
   title: Added tooltip to disabled New Chat button
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-09-desktop-fix-sidebar-workspace-container-sizing-to-prevent-content-overflow|Desktop
-  Fix sidebar workspace container sizing to prevent content overflow]]'
 - '[[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|Added
   w key in /copy to write the focused selection directly to a file…]]'
 - '[[Changes/Codex CLI/2026-03-10-4-interface-experience-changes-in-rust-v0-113-0|4
   Interface Experience changes in rust-v0.113.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-chat-history-filtering-experience-refresh-microsoft-365-copilot-chat|Chat
+  History filtering experience refresh (Microsoft 365 Copilot Chat)]]'
 source_release: '[[Releases/v0/v0-2026-03-10-2026-03-10-6ec3223f|v0-2026-03-10-2026-03-10-6ec3223f]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-4-interface-experience-changes-in-rust-v0-113-0|4 Interface Experience changes in rust-v0.113.0]]
+- Earlier: 2026-03-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-10-chat-history-filtering-experience-refresh-microsoft-365-copilot-chat|Chat History filtering experience refresh (Microsoft 365 Copilot Chat)]]
 - Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface Experience changes in v2.1.73]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

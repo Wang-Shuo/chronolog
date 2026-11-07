@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-11-05 · Multimodal Input: Prevents oversized Mac
   clips and screen recordings from disconnecting the node, returning a size error
   instead.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1143
+  lag_days: 2911
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43b9757fdf20bab1ea9f23c14374a817ea55bd168c367438958a181eb2879586
+machine_hash: ade48d25eb5b0cfdb47909f6a3a71db0da79e9a9cc78ceeb5c7eb9e051e32f87
 product: openclaw
 product_name: OpenClaw
 record:
@@ -92,12 +92,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-stop-serializing-the-entire-prompt-history-into-every-agent-llm-gateway-response|Stop serializing the entire prompt history into every Agent LLM gateway response chunk]]
+- Later: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-hand-over-your-brand-guidelines-get-back-a-layout-pack|Hand over your brand guidelines]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

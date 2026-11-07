@@ -4,20 +4,20 @@ date: '2023-12-08'
 description: 'Dify · 2023-12-08 · Pricing Model: 3 changes in v0.3.33 — feat:billing
   by @GarfieldDai in https://github.com/langgenius/dify/pull/1679'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 358
+  lag_days: 1976
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa1fd5eec6aeb76d871b17568986e3d481dea66d18ec2aa79897ec25610811be
+machine_hash: 0fa16cf468adfbfa61e23f7273e299abec61dfe657ddb987611b33709a41c80e
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Pricing Model changes in 0.3.33
   type: change
 related_changes:
-- '[[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing-5f5b32|Enables
-  display of cost info based on OpenAI advertised pricing]]'
+- '[[Changes/Descript/2023-08-15-squadcast-is-now-part-of-descript-which-means-if-you-re-a-descript-subscriber-yo|Remote
+  Recording now in Descript]]'
 - '[[Changes/Dify/2023-08-23-feat-record-price-unit-in-messages-by-takatost-in-https-github-com-langgenius-di|feat:
   record price unit in messages]]'
 - '[[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++
@@ -94,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.33
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1461ec5d0c5112f18c29029273b19d967ef0b74e5197ffb011b5c37a8672d5b
+machine_hash: 3a27e35d850568fb42b1147513cc937e79ef79fc82d7ce7d91cf8fc4ea457fc4
 product: opencode
 product_name: OpenCode
 record:
@@ -135,7 +135,7 @@ Source: https://opencode.ai/changelog/v2.2.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-4-memory-and-personalization-changes-in-v2026-10-8|4 Memory and Personalization changes in v2026.10.8]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-2-memory-and-personalization-changes-in-rust-v0-166-0|2 Memory and Personalization changes in rust-v0.166.0]]
+- Later: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-web-sessions-now-unload-from-memory-after-30-minutes-idle-and-resume-transparent|Web sessions now unload from memory after 30 minutes idle and resume transparently…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

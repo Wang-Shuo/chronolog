@@ -4,20 +4,20 @@ date: '2026-05-28'
 description: 'Claude Code · 2026-05-28 · Context Window: Claude now reserves the multiple-choice
   question prompt for decisions it genuinely cannot make itself, instead of…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1120
+  lag_days: 2444
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52b5f2082e52d8af1313cd1b949bd631e013434e6bfb058df5bab4a56aae7d04
+machine_hash: 5427b0f70743e631fc10d0c405a1c36a47559942bb425953062c63ff4c06ad3b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     genuinely…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-4-context-window-changes-in-v1-0-52|4 Context
-  Window changes in v1.0.52]]'
-- '[[Changes/Codex CLI/2026-05-26-5-context-window-changes-in-rust-v0-134-0|5 Context
-  Window changes in rust-v0.134.0]]'
+- '[[Changes/Kimi Code/2026-05-26-2-context-window-changes-in-kimi-code-0-2-0|2 Context
+  Window changes in Kimi Code 0.2.0]]'
 - '[[Changes/Claude Code/2026-05-27-added-pluginsuggestionmarketplaces-managed-setting-admins-can-allowlist-org-mark|Added
   pluginSuggestionMarketplaces managed setting]]'
+- '[[Changes/Kimi Code/2026-05-27-route-session-tagged-log-entries-exclusively-to-the-session-sink-instead-of-dupl|Route
+  session-tagged log entries exclusively to the session sink instead…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: context-window
@@ -87,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-added-pluginsuggestionmarketplaces-managed-setting-admins-can-allowlist-org-mark|Added pluginSuggestionMarketplaces managed setting]]
+- Earlier: 2026-05-27 · Kimi Code · [[Changes/Kimi Code/2026-05-27-route-session-tagged-log-entries-exclusively-to-the-session-sink-instead-of-dupl|Route session-tagged log entries exclusively to the session sink instead…]]
 - Later: 2026-05-28 · Cline · [[Changes/Cline/2026-05-28-show-prompt-cache-support-for-qwen-3-7-max-in-the-cline-provider|Show prompt-cache support for Qwen 3.7 Max in the Cline provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f9a015cfc580825134fdd22658a649c97568e0198b904561d14b219a462c7b5b
+machine_hash: a2fd1dc2718dcd3198db13c786ebedb033f9b7acd4571d605280d15977e30288
 product: replit
 product_name: Replit
 record:
@@ -56,11 +56,11 @@ record:
   title: Contribute to your company codebase with Cloud Agents
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-core-add-opt-in-scheduled-prompts-through-schedule-agent-tools-and-experimental|Core
-  Add opt-in scheduled prompts through /schedule , agent tools…]]'
-- '[[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode
-  changes in v2.1.314]]'
+- '[[Changes/Kimi Code/2026-10-30-a-single-file-read-by-the-agent-now-returns-at-most-100-000-characters-or-about|A
+  single file read by the agent now returns at most 100,000 characters or about…]]'
 - '[[Changes/OpenCode/2026-10-30-guided-claude-agent-setup|Guided Claude Agent Setup]]'
+- '[[Changes/Qoder/2026-10-30-2-agent-mode-changes-in-qoder-0-5-1|2 Agent Mode changes
+  in Qoder 0.5.1]]'
 source_release: '[[Releases/Replit/replit-2026-10-30-2026-10-30-8c94fa6c|replit-2026-10-30-2026-10-30-8c94fa6c]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-guided-claude-agent-setup|Guided Claude Agent Setup]]
+- Earlier: 2026-10-30 · Qoder · [[Changes/Qoder/2026-10-30-2-agent-mode-changes-in-qoder-0-5-1|2 Agent Mode changes in Qoder 0.5.1]]
 - Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-agent-mode-changes-in-v2-1-316|2 Agent Mode changes in v2.1.316]]
 <!-- chronolog:end -->
 

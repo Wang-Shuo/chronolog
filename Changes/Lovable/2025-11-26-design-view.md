@@ -5,20 +5,20 @@ description: 'Lovable · 2025-11-26 · Image Generation: The new Design view pro
   a dedicated panel where you can seamlessly switch between your project''s design
   tools…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 626
+  lag_days: 884
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7154ec5aa86086ea2795b29ed699aa0404cbea5469f079cc7799e61d062ddef8
+machine_hash: 85e0502da0f50941935086d9f112727cbfa2e112a046093693e65f9d4b3feef6
 product: lovable
 product_name: Lovable
 record:
@@ -48,8 +48,8 @@ record:
   title: Design view**
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-30-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
+- '[[Changes/Descript/2025-11-21-nano-banana-pro-now-available-for-image-generation|Nano
+  Banana Pro now available for image generation]]'
 - '[[Changes/Open WebUI/2025-11-24-4-image-generation-changes-in-v0-6-37|4 Image Generation
   changes in v0.6.37]]'
 - "[[Changes/Open WebUI/2025-11-25-openai-image-generation-now-works-correctly-after-fixing-a-connection-adapter-er|\U0001F5BC️
@@ -97,13 +97,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-11-25 · Open WebUI · [[Changes/Open WebUI/2025-11-25-openai-image-generation-now-works-correctly-after-fixing-a-connection-adapter-er|🖼️ OpenAI image generation now works correctly after fixing a connection adapter…]]
-- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-image-generation-in-temporary-chats-was-fixed-by-correctly-handling-local-chat-s|🎨 Image generation in temporary chats was fixed by correctly handling local chat…]]
+- Later: 2025-11-26 · Synthesia · [[Changes/Synthesia/2025-11-26-we-just-added-image-generation-to-synthesia-try-the-latest-genai-models-they-re|Create any images with FLUX.2 & Nanobanana Pro]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

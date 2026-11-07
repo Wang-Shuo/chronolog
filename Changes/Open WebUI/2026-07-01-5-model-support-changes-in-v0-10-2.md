@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0f61b80a18ea5f6a3ab0841f510e564436aa46141d61dd5a4bb1096df503ea5
+machine_hash: 1a845c1cb30f0d3021ad59772ac412855ffaca3d742d7dc0ba61813c4fdb5188
 product: open-webui
 product_name: Open WebUI
 record:
@@ -64,12 +64,12 @@ record:
   title: 5 Model Support changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/Claude/2026-07-01-model-entitlements-for-enterprise-plans-beta|Model
-  entitlements for Enterprise plans (beta)]]'
-- '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support
-  changes in v2.1.198]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add
   support for the kimi-k2.7-code model]]'
+- '[[Changes/Kimi Code/2026-07-01-merge-consecutive-user-turns-for-strict-providers-gemini-vertex-fixing-an-http-4|Merge
+  consecutive user turns for strict providers (Gemini/Vertex), fixing an HTTP…]]'
+- '[[Changes/Notion/2026-07-01-more-models-without-the-lock-in|More models, without
+  the lock-in]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
 source_type: github_releases
 theme: model-support
@@ -118,7 +118,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add support for the kimi-k2.7-code model]]
+- Earlier: 2026-07-01 · Notion · [[Changes/Notion/2026-07-01-more-models-without-the-lock-in|More models, without the lock-in]]
 - Later: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-core-force-reasoning-mode-for-openai-compatible-reasoning-models-so-reasoning-se|Core Force reasoning mode for OpenAI-compatible reasoning models so reasoning…]]
 <!-- chronolog:end -->
 

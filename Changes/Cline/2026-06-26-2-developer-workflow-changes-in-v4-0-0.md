@@ -4,19 +4,20 @@ date: '2026-06-26'
 description: 'Cline · 2026-06-26 · Developer Workflow: 2 changes in v4.0.0 — Simplify
   terminal execution through the SDK run-commands path, including clearer non-interactive…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1196
+  lag_days: 2845
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3316652a2ae36b70adb0d5821d915276e5e00beaab3aa6c52b4b6e4e9ab4e2c2
+machine_hash: 471f941f12b0fb1f85c8c2d1a71e1080a46c6d41f80857e44fa8b5073fd740e4
 product: cline
 product_name: Cline
 record:
@@ -89,13 +90,13 @@ Source: https://github.com/cline/cline/releases/tag/v4.0.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-updated-the-permissions-request-dialog-to-display-a-clear-description-of-the-act|Updated the permissions request dialog to display a clear description of the action…]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer Workflow changes in v2.1.196]]
+- Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-2-developer-workflow-changes-in-kimi-code-0-20-1|2 Developer Workflow changes in Kimi Code 0.20.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

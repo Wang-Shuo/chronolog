@@ -5,20 +5,19 @@ description: 'Google Antigravity · 2026-10-27 · Editor Experience: 2 changes i
   v2.28.0 — Built-in browser and attachments of any file type — Antigravity now has
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1323
+  lag_days: 2907
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be5f6f29cdd89b358090f6e936ecf751ec866d5099546caa08e6866a0dae8c24
+machine_hash: 2401fbe16aac6e41b725e61562391081ab668da120911ea2f07381ec6aa433bb
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -96,13 +95,13 @@ Source: https://antigravity.google/releases?tab=hub&version=2.28.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud sessions Added a Bash editor with colors, line numbers and a Copy button…]]
-- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-the-control-ui-now-reconnects-when-a-visible-tab-has-lost-contact-but-still-show|The Control UI now reconnects when a visible tab has lost contact but still shows…]]
+- Later: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-web-link-as-a-reference-in-copilot-notebooks-web-microsoft-365-copilot-app|Web Link as a Reference in Copilot Notebooks Web (Microsoft 365 Copilot app)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-01-21'
 description: 'Claude Code · 2026-01-21 · Reliability and Performance: Improved UI
   rendering performance with React Compiler'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1133
+  lag_days: 2620
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7361bbfc9794c117296f318b0c29c6a75a3e1a36b00916419d0012c219297dc5
+machine_hash: c8817efd1590b460c90da1a7b192cda4e33a64ba01872e9664869fd1c72b25a6
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,9 @@ record:
   title: Improved UI rendering performance with React Compiler
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-16-glm-4-7-flash-https-ollama-com-library-glm-4-7-flash-as-the-strongest-model-in-t|GLM-4.7-Flash((source
-  link) As the strongest model…]]'
 - '[[Changes/Midjourney/2026-01-20-improved-scroll-anchoring-and-grid-performance|Improved
   scroll anchoring and grid performance]]'
+- '[[Changes/Notion/2026-01-20-more-improvements|More improvements]]'
 - '[[Changes/OpenCode/2026-01-20-terminal-fix-message-history-cleanup-to-prevent-memory-leaks-in-tui|Terminal
   Fix message history cleanup to prevent memory leaks in TUI]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b|claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b]]'
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

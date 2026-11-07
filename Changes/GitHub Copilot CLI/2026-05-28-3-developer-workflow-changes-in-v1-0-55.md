@@ -4,19 +4,20 @@ date: '2026-05-28'
 description: 'GitHub Copilot CLI · 2026-05-28 · Developer Workflow: 3 changes in 1.0.55
   — Cell-based terminal renderer is now enabled for all users by default'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1167
+  lag_days: 2816
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5199419897a0a25940324a530fd0765e38edd896f8386c898f4d37133603fc2
+machine_hash: 2fba7579933bff16461ade70355d3a7ef91f60548c39f6ee856355a49ad86c08
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,13 +98,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.55
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-codex-doctor-now-reports-richer-environment-git-terminal-app-server-and-thread-i|codex doctor now reports richer environment, Git, terminal, app-server, and thread…]]
-- Later: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-4-developer-workflow-changes-in-v1-15-12|4 Developer Workflow changes in v1.15.12]]
+- Later: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-2-developer-workflow-changes-in-kimi-code-0-5-0|2 Developer Workflow changes in Kimi Code 0.5.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

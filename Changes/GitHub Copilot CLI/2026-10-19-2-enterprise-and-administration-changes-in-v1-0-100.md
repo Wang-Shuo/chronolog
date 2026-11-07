@@ -4,20 +4,20 @@ date: '2026-10-19'
 description: 'GitHub Copilot CLI · 2026-10-19 · Enterprise and Administration: 2 changes
   in 1.0.100 — Enterprise-managed ask permissions in Assisted mode now allow safe…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1263
+  lag_days: 2470
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4473392c23f8e43113a84e0188f5301131c0541b23a19c38d4536d3ee59f0ebf
+machine_hash: bcd712b964ce03f1e3dec222f0c894f1a20324e240c8b26d34466c1a1dd877a1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.100
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-03-11 · Interface Experience: 2 changes in v2
   — Added `modelOverrides` setting to map model picker entries to custom provider
   model IDs…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1157
+  lag_days: 2523
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a843966d96775111524622d40c5dc9f2b1f9a42d58daa8464665770f650bab61
+machine_hash: 84749e11ea10c5fafb02ca58276f0b117d6cd5e9481164dfa40ef3d8a6a85431
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v2.1.73
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|Added
-  w key in /copy to write the focused selection directly to a file…]]'
 - '[[Changes/Codex CLI/2026-03-10-4-interface-experience-changes-in-rust-v0-113-0|4
   Interface Experience changes in rust-v0.113.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-chat-history-filtering-experience-refresh-microsoft-365-copilot-chat|Chat
+  History filtering experience refresh (Microsoft 365 Copilot Chat)]]'
 - '[[Changes/v0/2026-03-10-added-tooltip-to-disabled-new-chat-button|Added tooltip
   to disabled New Chat button]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

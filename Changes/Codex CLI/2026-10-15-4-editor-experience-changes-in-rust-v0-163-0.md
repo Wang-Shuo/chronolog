@@ -4,20 +4,19 @@ date: '2026-10-15'
 description: 'Codex CLI · 2026-10-15 · Editor Experience: 4 changes in 0.163.0 — `codex
   exec` no longer prints the same file diff again after an unrelated command. (#53444)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1311
+  lag_days: 2895
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a36e1d69501a13a2101c83bfb4fa27a55d3bd257dc70a339d7e70a59253a178
+machine_hash: 6d16425407dfdf1c2108a9ee4f8988cab5c15750de099ead4ec15b0eaa37e04b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -110,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

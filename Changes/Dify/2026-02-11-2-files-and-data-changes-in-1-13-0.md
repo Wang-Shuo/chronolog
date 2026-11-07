@@ -4,20 +4,20 @@ date: '2026-02-11'
 description: 'Dify · 2026-02-11 · Files and Data: 2 changes in 1.13.0 - Human-in-the-Loop
   and Workflow Execution Upgrades — refactor: document_indexing_update_task split…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 993
+  lag_days: 2338
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4365f9bbfdfcd6be3b463e48ee992c9218080f70912033b743d0d61aeebf405
+machine_hash: ec72b9adac24fb2e2cd630cda206d7bce3362a4b4f285b0310373be66caa49ae
 product: dify
 product_name: Dify
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

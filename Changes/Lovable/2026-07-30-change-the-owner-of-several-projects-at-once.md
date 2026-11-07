@@ -4,20 +4,19 @@ date: '2026-07-30'
 description: 'Lovable · 2026-07-30 · Editor Experience: On the dashboard, workspace
   owners and admins can now [change the owner of several projects at…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1234
+  lag_days: 2818
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a099db2eb2c5bd9237b5e013f84c9d127dcb40689888d36411ac584dc1b60071
+machine_hash: fdcb37b572b042f54b05df8c04f06bbf32e85fd8738a7bb0a87e6385a27e3fd6
 product: lovable
 product_name: Lovable
 record:
@@ -62,12 +61,12 @@ record:
   title: Change the owner of several projects at once
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-29-feat-allow-overwriting-a-secret-value-from-the-edit-form-by-hieptl-in-https-gith|feat:
-  allow overwriting a secret value from the edit form]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-ctrl-g-opens-your-editor-to-edit-ask-user-freeform-answers-without-closing-the-p|Ctrl+G
   opens your editor to edit ask_user freeform answers without closing the prompt]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-editor-experience-changes-in-v1-0-76|2
   Editor Experience changes in v1.0.76]]'
+- '[[Changes/Kimi Code/2026-07-30-remove-the-blocking-block-timeout-wait-from-the-taskoutput-tool-so-checking-a-ba|Remove
+  the blocking block/timeout wait from the TaskOutput tool so checking…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-30-2026-07-30-760d02f2|lovable-2026-07-30-2026-07-30-760d02f2]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -97,14 +96,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-editor-experience-changes-in-v1-0-76|2 Editor Experience changes in v1.0.76]]
+- Earlier: 2026-07-30 · Kimi Code · [[Changes/Kimi Code/2026-07-30-remove-the-blocking-block-timeout-wait-from-the-taskoutput-tool-so-checking-a-ba|Remove the blocking block/timeout wait from the TaskOutput tool so checking…]]
 - Later: 2026-07-30 · OpenCode · [[Changes/OpenCode/2026-07-30-2-editor-experience-changes-in-v1-18-10|2 Editor Experience changes in v1.18.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

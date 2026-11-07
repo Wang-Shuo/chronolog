@@ -4,20 +4,19 @@ date: '2024-11-19'
 description: 'Gemini · 2024-11-19 · Editor Experience: What: Starting today, you can
   ask Gemini to remember your interests and preferences, whether it’s about your work…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 616
+  lag_days: 2200
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 619c4cba3682658681ec6b54b4b9d1621ad4828f61a54e16472b6f3dff9710df
+machine_hash: 939011a9d8304d9a0108e7827699720ee5e987e36c64ccc9718df44ae747f084
 product: gemini
 product_name: Gemini
 record:
@@ -71,12 +70,11 @@ record:
   title: Priority access with Gemini Advanced
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run
-  aider --apply-clipboard-edits file-to-edit.js]]'
 - '[[Changes/Dify/2024-11-05-chore-update-type-definition-to-resolve-lint-error-in-base-usage-at-text-editor|chore:
   update type definition to resolve lint error in Base usage at text-editor.tsx]]'
 - '[[Changes/Midjourney/2024-11-07-we-re-doing-a-community-contest-for-images-made-with-the-new-editor-please-share|Editor
   Showcase]]'
+- '[[Changes/Descript/2024-11-19-editor-updates|Editor updates]]'
 source_release: '[[Releases/Gemini/gemini-2024-11-19-2024-11-19-4886b34b|gemini-2024-11-19-2024-11-19-4886b34b]]'
 source_type: gemini_changelog
 theme: editor-experience
@@ -105,14 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-11-07 · Midjourney · [[Changes/Midjourney/2024-11-07-we-re-doing-a-community-contest-for-images-made-with-the-new-editor-please-share|Editor Showcase]]
+- Earlier: 2024-11-19 · Descript · [[Changes/Descript/2024-11-19-editor-updates|Editor updates]]
 - Later: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-auto-selected-tools-in-model-editor-tools-enabled-through-the-model-editor-are-n|🔧 Auto-Selected Tools in Model Editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

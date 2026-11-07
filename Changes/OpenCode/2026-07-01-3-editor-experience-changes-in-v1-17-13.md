@@ -4,20 +4,19 @@ date: '2026-07-01'
 description: 'OpenCode · 2026-07-01 · Editor Experience: 3 changes in v1.17.13 — Desktop
   Keep desktop tabs scoped to each window so windows restore their own tab sets'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1205
+  lag_days: 2789
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dde50434f20812d47b861c907a5c256ce968de7e35ff84c0ce7170e8c3c8c639
+machine_hash: 34b989d93dfb4d5c0a6a0b4a6e0eb45fedb4fd860898c50ce2acfbb45024a181
 product: opencode
 product_name: OpenCode
 record:
@@ -47,10 +46,10 @@ record:
   title: 3 Editor Experience changes in v1.17.13
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-desktop-autocomplete-configured-references-in-prompts|Desktop
-  Autocomplete configured references in prompts]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2
-  Editor Experience changes in v1.0.68]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-copilot-search-matches-on-people-s-department-web-microsoft-365-copilot-app|Copilot
+  Search Matches on People''s Department Web (Microsoft 365 Copilot app)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-onenote-copilot-notebooks-available-in-onenote-on-web-web-onenote|OneNote:
+  Copilot Notebooks available in OneNote on Web Web (OneNote)]]'
 - '[[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor
   Experience changes in v0.10.2]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-01-v1-17-13-e66684a1|opencode-2026-07-01-v1-17-13-e66684a1]]'
@@ -90,13 +89,13 @@ Source: https://opencode.ai/changelog/v1.17.13
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor Experience changes in v0.10.2]]
-- Later: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]
+- Later: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-2-editor-experience-changes-in-kimi-code-0-22-0|2 Editor Experience changes in Kimi Code 0.22.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

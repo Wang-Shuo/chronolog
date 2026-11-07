@@ -4,20 +4,20 @@ date: '2024-10-06'
 description: 'Gemini · 2024-10-06 · Apps and Integrations: What: Over the coming days,
   Gemini will connect to more apps and services, letting you set reminders with Google…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 563
+  lag_days: 2123
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4d10fac24458211f61fea1833f9099efc86df5f7f7204cfbeab58ed7624d6ad1
+machine_hash: 877c53120fad1901607a9f23d8c78d728dae7b7321d1d135e70ef1fb7e401b94
 product: gemini
 product_name: Gemini
 record:
@@ -51,8 +51,8 @@ record:
   title: Gemini can access helpful information from more apps and services
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-20-python-sdk-add-knowledgebaseclient-and-the-corresponding-test-cases-by-twisker-i|Python
-  SDK Add KnowledgeBaseClient and the corresponding test cases]]'
+- '[[Changes/Notion/2024-09-25-new-ai-connectors-beta-google-docs-sheets-slides|New
+  AI connectors BETA : Google Docs, Sheets, & Slides]]'
 - "[[Changes/Open WebUI/2024-09-26-ollama-embed-form-data-adjusted-the-integration-inaccuracies-in-the-embed-form-d|\U0001F4CB
   Ollama /embed Form Data]]"
 - '[[Changes/Dify/2024-09-30-3-apps-and-integrations-changes-in-0-9-0|3 Apps and Integrations
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

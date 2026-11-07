@@ -4,19 +4,20 @@ date: '2024-09-30'
 description: 'Dify · 2024-09-30 · Collaboration: With this release, we’re truly showcasing
   the power of Dify! We appreciate your continued support—explore the new features…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 495
+  lag_days: 2089
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1f3a7e9e73ae4b0ec48d4b6d1b377670b27d5c9415b38ace64cfbff2e28f29ee
+machine_hash: a93708c4a85bedfa280943d10c848be358a9dd8884f42232e6139a6a53ee0874
 product: dify
 product_name: Dify
 record:
@@ -47,12 +48,11 @@ record:
   title: With this release, we’re truly showcasing the power of Dify!
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-27-2-collaboration-changes-in-0-8-2|2 Collaboration
-  changes in 0.8.2]]'
 - '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
   is now default-on and available to all Pro/Business users by hitting cmd+I]]'
 - '[[Changes/Gamma/2024-09-10-we-added-a-new-way-to-share-your-gamma-creations-you-can-now-download-any-of-you|We
   added a new way to share your Gamma creations]]'
+- '[[Changes/Notion/2024-09-25-suggests-how-it-can-help|Suggests how it can help]]'
 source_release: '[[Releases/Dify/dify-2024-09-30-0-9-0-github-177564351-208577ea|dify-2024-09-30-0-9-0-github-177564351-208577ea]]'
 source_type: github_releases
 theme: collaboration
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-09-10 · Gamma · [[Changes/Gamma/2024-09-10-we-added-a-new-way-to-share-your-gamma-creations-you-can-now-download-any-of-you|We added a new way to share your Gamma creations]]
-- Later: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New README and got a cool domain for the project (source link) (wip)]]
+- Earlier: 2024-09-25 · Notion · [[Changes/Notion/2024-09-25-suggests-how-it-can-help|Suggests how it can help]]
+- Later: 2024-10-08 · Descript · [[Changes/Descript/2024-10-08-data-sharing-is-disabled-for-enterprise-drives|Data sharing is disabled for Enterprise Drives]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

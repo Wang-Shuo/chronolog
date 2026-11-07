@@ -4,20 +4,20 @@ date: '2023-09-09'
 description: 'Dify · 2023-09-09 · Files and Data: feat: optimize high load sql query
   of document segment by @takatost in https://github.com/langgenius/dify/pull/1078'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 107
+  lag_days: 1452
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bac9897bb667a9877ab2c1425042c5a55733a8f0c88c65ba1d5edf9ed04985d9
+machine_hash: bc4a861efcdc2ccf206d14183d24875e0c6cd8e08c948d42621f4372a534eddd
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 'feat: optimize high load sql query of document segment'
   type: change
 related_changes:
-- '[[Changes/Dify/2023-07-17-add-document-limit-check-by-johnjyong-in-https-github-com-langgenius-dify-pull-5|add
-  document limit check]]'
+- '[[Changes/Descript/2023-07-24-canvas-layer-order-hiding-layers|Canvas layer order
+  & hiding layers]]'
 - '[[Changes/Dify/2023-08-23-4-files-and-data-changes-in-0-3-15|4 Files and Data changes
   in 0.3.15]]'
 - '[[Changes/Dify/2023-08-31-document-limit-by-johnjyong-in-https-github-com-langgenius-dify-pull-999|document
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

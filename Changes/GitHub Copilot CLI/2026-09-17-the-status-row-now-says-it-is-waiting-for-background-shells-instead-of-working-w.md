@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-09-17 · Developer Workflow: The status
   now says it is waiting for background shells, instead of "Working", when a turn
   ends while…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1279
+  lag_days: 2928
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 212bbe682352f4ed93c1ed41d544bda34e46882e4bdec42e81a3fc59dd29c511
+machine_hash: 022d938c2d0686c3ad6bf8b9ae0c6c8677aa492c5a161c123c5b4c304eb7ae4e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,13 +86,13 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-15-developer-workflow-changes-in-rust-v0-155-0|15 Developer Workflow changes in rust-v0.155.0]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved /ultrareview when there's nothing to review]]
+- Later: 2026-09-17 · Kimi Code · [[Changes/Kimi Code/2026-09-17-render-mermaid-code-blocks-as-diagrams-in-the-terminal-turn-it-off-under-setting|Render mermaid code blocks as diagrams in the terminal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

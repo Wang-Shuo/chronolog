@@ -4,20 +4,20 @@ date: '2024-09-30'
 description: 'Dify · 2024-09-30 · Reliability and Performance: 4 changes in v0.9.0
   — **Llama3.2**: Now available with Fireworks and Groq providers for improved performance…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 655
+  lag_days: 2142
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b88f67ccf8a7e0965e76ae1c9b01f0713b2f18a8374f7f2d81a541c971397a1d
+machine_hash: 0d8f5a0e891160da59673272e62d380624582ddbc2aa89a71bd3232e7ae64ab8
 product: dify
 product_name: Dify
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.9.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

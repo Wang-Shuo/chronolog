@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d2407c8e3ac5e81a46df2853144ce33cef592a9328a66c61d3bd895702e5109
+machine_hash: f1d2f7a4e1defeeb256332d5d6c1a281ecbe5807ee872e428e0cf84183f26f5d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in rust-v0.79.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-05-core-filter-out-empty-messages-and-reasoning-for-anthropic-api-compatibility|Core
-  Filter out empty messages and reasoning for Anthropic API compatibility]]'
 - '[[Changes/Cline/2026-01-06-3-model-support-changes-in-v3-47-0|3 Model Support changes
   in v3.47.0]]'
 - '[[Changes/Codex CLI/2026-01-06-5-model-support-changes-in-rust-v0-78-0|5 Model
   Support changes in rust-v0.78.0]]'
+- '[[Changes/Descript/2026-01-06-choose-the-best-model-for-the-job|Choose the best
+  model for the job]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364|codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364]]'
 source_type: github_releases
 theme: model-support
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.79.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-5-model-support-changes-in-rust-v0-78-0|5 Model Support changes in rust-v0.78.0]]
+- Earlier: 2026-01-06 · Descript · [[Changes/Descript/2026-01-06-choose-the-best-model-for-the-job|Choose the best model for the job]]
 - Later: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-3-model-support-changes-in-v0-23-0|3 Model Support changes in v0.23.0]]
 <!-- chronolog:end -->
 

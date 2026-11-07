@@ -4,20 +4,20 @@ date: '2026-05-19'
 description: 'Dify · 2026-05-19 · Reliability and Performance: **Knowledge-base stability**
   — fixed knowledge hit-testing rendering, empty knowledge creation, recommended…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1251
+  lag_days: 2738
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 691352db888c3c8b3d9560a8ee9e20832513f5fc2f07f88fdf37fefe43d4e535
+machine_hash: 2056f20dd72a6fc14a28b48d1bb17abbc652b744a6ddfd21b63f666b35ec99ac
 product: dify
 product_name: Dify
 record:
@@ -49,8 +49,8 @@ record:
   title: '**Knowledge-base stability** — fixed knowledge hit-testing rendering, empty…'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2
-  Reliability and Performance changes in v0.30.0]]'
+- '[[Changes/HeyGen/2026-05-18-face-hands-posture-gaze-energy-the-same-script-can-become-a-polished-business-up|Face,
+  hands, posture, gaze, energy]]'
 - '[[Changes/Lovable/2026-05-18-speed-tab-the-standalone-speed-tab-has-been-removed-speed-and-lighthouse-checks|Speed
   tab. The standalone Speed tab has been removed]]'
 - '[[Changes/OpenCode/2026-05-18-desktop-speed-up-large-session-timelines|Desktop
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

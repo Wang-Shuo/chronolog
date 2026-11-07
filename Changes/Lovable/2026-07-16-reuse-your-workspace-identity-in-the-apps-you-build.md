@@ -4,20 +4,20 @@ date: '2026-07-16'
 description: 'Lovable · 2026-07-16 · Apps and Integrations: Apps you build for your
   team can now [recognize the signed-in Lovable user…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1211
+  lag_days: 2771
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 93f9bfe4587bf126df7cdfac1769dfc17c25344d95a52785729f8fe1d50db443
+machine_hash: f80f36742a2adc9651f5479b9d6dd0663fb33e9efa792d685c432a97f298cc19
 product: lovable
 product_name: Lovable
 record:
@@ -57,8 +57,8 @@ record:
   title: Reuse your workspace identity in the apps you build
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2
-  Apps and Integrations changes in v2.1.211]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-access-agents-with-model-context-protocol-in-office-apps-web-microsoft-365-copil|Access
+  agents with Model Context Protocol in Office apps…]]'
 - '[[Changes/Suno/2026-07-15-tap-the-icon-and-find-suno-in-your-imessage-app-extensions|Tap
   the + icon and find Suno in your iMessage app extensions]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

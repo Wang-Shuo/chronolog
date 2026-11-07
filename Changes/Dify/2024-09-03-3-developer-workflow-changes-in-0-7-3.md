@@ -4,19 +4,20 @@ date: '2024-09-03'
 description: 'Dify · 2024-09-03 · Developer Workflow: 3 changes in v0.7.3 — **Remove
   Useless Debug Information**: Cleaned up unnecessary debug info by @erigo in #7647.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 535
+  lag_days: 2184
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85c8c0856e6e9ab4f762d78648038185d913bd01849c820fc77a859c5e702e59
+machine_hash: 4e2f13e4b1e006a5e0a7232f9f29f713eb13f2cb34d501525b51a7c15e15c4eb
 product: dify
 product_name: Dify
 record:
@@ -98,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.7.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

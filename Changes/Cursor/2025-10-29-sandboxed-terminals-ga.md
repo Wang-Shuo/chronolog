@@ -5,20 +5,20 @@ description: 'Cursor · 2025-10-29 · Safety and Privacy: Launched in beta in 1.
   terminals are now GA for macOS. We now run agent commands in the secure sandbox
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 927
+  lag_days: 1919
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5e1b52a080ff0eb02ec2521dcba4e82a15c03012f3de882d7f35105ff8e0966e
+machine_hash: 9513ed794ad3ffafc6fc7aff360469cd8383cc2fc7c1a6ab7b1a6ef21c0241c5
 product: cursor
 product_name: Cursor
 record:
@@ -52,12 +52,12 @@ record:
   title: Sandboxed Terminals (GA)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-22-ensure-that-environment-variables-are-expanded-before-running-path-permission-ch|Ensure
-  that environment variables are expanded before running path permission checks]]'
 - '[[Changes/Codex CLI/2025-10-23-2-safety-and-privacy-changes-in-rust-v0-48-0|2 Safety
   and Privacy changes in rust-v0.48.0]]'
 - '[[Changes/Codex CLI/2025-10-25-5536-added-model-summary-and-risk-assessment-for-commands-that-violate-sandbox-p|♯5536
   — Added model summary and risk assessment for commands that violate sandbox policy]]'
+- '[[Changes/Descript/2025-10-28-permission-changes-now-take-effect-immediately-without-needing-to-refresh|Permission
+  changes now take effect immediately without needing to refresh]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -108,14 +108,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-10-25 · Codex CLI · [[Changes/Codex CLI/2025-10-25-5536-added-model-summary-and-risk-assessment-for-commands-that-violate-sandbox-p|♯5536 — Added model summary and risk assessment for commands that violate sandbox policy]]
+- Earlier: 2025-10-28 · Descript · [[Changes/Descript/2025-10-28-permission-changes-now-take-effect-immediately-without-needing-to-refresh|Permission changes now take effect immediately without needing to refresh]]
 - Later: 2025-10-29 · OpenHands · [[Changes/OpenHands/2025-10-29-3-safety-and-privacy-changes-in-0-60-0|3 Safety and Privacy changes in 0.60.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

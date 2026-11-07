@@ -4,20 +4,19 @@ date: '2025-10-29'
 description: 'Gemini CLI · 2025-10-29 · Editor Experience: 5 changes in Release v0.11.0
   — feat: Do not add trailing space on directory autocomplete by @rmedranollamas in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 960
+  lag_days: 2544
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10e627178804a024137477bc074b4cf1e3baf791bb8299cab2f52ece829c27ec
+machine_hash: 082de2c0e3dd593852c07a9324296e180531d548a1be78e33a4f0ad55faa9cc7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -51,8 +50,8 @@ record:
   title: 5 Editor Experience changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-22-added-quit-as-an-alias-of-exit-fixes-https-github-com-github-copilot-cli-issues|Added
-  /quit as an alias of /exit…]]'
+- '[[Changes/Descript/2025-10-23-edit-image-and-video-from-the-media-library|Edit
+  image and video from the media library]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-2-editor-experience-changes-in-v0-0-350|2
   Editor Experience changes in v0.0.350]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-3-editor-experience-changes-in-v0-0-351|3
@@ -111,7 +110,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

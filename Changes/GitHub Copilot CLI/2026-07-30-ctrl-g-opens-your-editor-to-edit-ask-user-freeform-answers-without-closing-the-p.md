@@ -4,20 +4,19 @@ date: '2026-07-30'
 description: 'GitHub Copilot CLI · 2026-07-30 · Editor Experience: Ctrl+G opens your
   editor to edit ask_user freeform answers without closing the prompt'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1234
+  lag_days: 2818
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 814e07daecd47e32cfe4551aa426a8fd0379231087198bf72eda89f4854f3daa
+machine_hash: 954c0094c1f4d525e3ada12801f34579287de01c4b8f5dcb8b150cdbf9c95ca0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +42,10 @@ record:
     the prompt
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-07-28-added-preview-temporary-tabs-to-the-auxiliary-pane-allowing-files-to-open-in-a-t|Added
-  preview (temporary) tabs to the auxiliary pane, allowing files to open…]]'
-- '[[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor
-  Experience changes in rust-v0.146.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-plan-and-build-solutions-on-sharepoint-with-copilot-in-sharepoint-web-microsoft|Plan
+  and build solutions on SharePoint with Copilot in SharePoint…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-floating-copilot-icon-in-file-previewer-for-onedrive-web-microsoft-365-sharepoin|Floating
+  Copilot icon in File Previewer for OneDrive Web (Microsoft 365 SharePoint)]]'
 - '[[Changes/OpenHands/2026-07-29-feat-allow-overwriting-a-secret-value-from-the-edit-form-by-hieptl-in-https-gith|feat:
   allow overwriting a secret value from the edit form]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-77-github-362775700-9504fbee|github-copilot-cli-2026-07-30-v1-0-77-github-362775700-9504fbee]]'
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

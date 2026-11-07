@@ -4,20 +4,20 @@ date: '2026-06-10'
 description: 'OpenCode · 2026-06-10 · Interface Experience: Desktop Restore the device
   attachment picker'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1248
+  lag_days: 2614
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e808145f0b297c05b91a640fe612419fee5a889f5e9fc287f39e09dadc382b98
+machine_hash: 6b44dbe88ed91884b170091e4e6728ea2c173d1079f153c026e6c187d2556bd6
 product: opencode
 product_name: OpenCode
 record:
@@ -40,8 +40,8 @@ record:
   title: Desktop Restore the device attachment picker
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2
-  Interface Experience changes in v1.0.61]]'
+- '[[Changes/Kimi Code/2026-06-09-2-interface-experience-changes-in-kimi-code-0-12-0|2
+  Interface Experience changes in Kimi Code 0.12.0]]'
 - '[[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]'
 - '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
   updating the model picker to make it easier to choose the balance of speed…]]'
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,19 @@ description: 'Claude Code · 2026-04-15 · Editor Experience: 2 changes in v2.1.
   — Write tool now informs the model when you edit the proposed content in the IDE
   diff…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1128
+  lag_days: 2712
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c9fb3076a743232a5b9ec72afd890c7dd60332c8a6d9a484fbd2a4c948a24e6
+machine_hash: 4aa179a0173020797bbdd5bfd0d41f5030791388fe6f0468b3b6f76e563dbf52
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.110
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

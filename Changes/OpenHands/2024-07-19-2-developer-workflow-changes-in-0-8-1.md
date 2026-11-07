@@ -4,19 +4,20 @@ date: '2024-07-19'
 description: 'OpenHands · 2024-07-19 · Developer Workflow: 2 changes in 0.8.1 — [Arch]
   Add tests for `EventStreamRuntime` and fix bash parsing by @xingyaoww in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 489
+  lag_days: 2138
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3266723bf10a35d550c5619c81be60b44fd013d4ef2a28e68b004bec658c5d8a
+machine_hash: d8500658c22535ea41fa0e355bc2f957167884871042688a88051d0ef46cfcd9
 product: openhands
 product_name: OpenHands
 record:
@@ -91,7 +92,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

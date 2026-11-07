@@ -4,20 +4,20 @@ date: '2025-05-15'
 description: 'Dify · 2025-05-15 · Multimodal Input: feat(api): Add image multimodal
   support for LLMNode by @QuantumGhost in https://github.com/langgenius/dify/pull/17372'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 604
+  lag_days: 2372
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1ac578dbeb4bd12f4d318104ee7bf6f0d0500d5be611c253253821f4bcb4babd
+machine_hash: c55a973b03beb55e77b97472578152d8e5cf737822e2ccd34700cda8293c0d19
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,9 @@ record:
   title: 'feat(api): Add image multimodal support for LLMNode'
   type: change
 related_changes:
-- '[[Changes/Replit/2025-03-28-deeplearningai-course-launch|DeepLearningAI course
-  launch]]'
-- '[[Changes/Ollama/2025-04-26-add-support-for-meta-s-llama-4-https-ollama-com-library-llama4-multimodal-models|Add
-  support for Meta''s Llama 4((source link) multimodal models]]'
+- '[[Changes/Descript/2025-05-06-new-in-home-ai-video-maker|New in Home—AI video maker]]'
+- '[[Changes/Descript/2025-05-08-in-order-to-resolve-an-issue-related-to-content-protection-the-screen-recorder-o|In
+  order to resolve an issue related to content protection, the Screen recorder…]]'
 - '[[Changes/Ollama/2025-05-13-2-multimodal-input-changes-in-v0-7-0|2 Multimodal Input
   changes in v0.7.0]]'
 source_release: '[[Releases/Dify/dify-2025-05-15-1-4-0-github-218877198-a895b1ee|dify-2025-05-15-1-4-0-github-218877198-a895b1ee]]'
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ddc6e40f8ebddad65172e59a35fc3e5ac416700166e95e3a6a074d15b404488f
+machine_hash: e47342e0327e028a7fcb2e546c337ef9fb355bfdf65df01211fd8a1298a7938f
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Model Support changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-06-17-we-re-starting-a-new-research-project-to-explore-the-origins-of-beauty-basically|We''re
-  starting a new research project to explore the origins of beauty.]]'
 - "[[Changes/Open WebUI/2024-06-17-markdown-support-in-model-descriptions-you-can-now-format-model-descriptions-wit|\U0001F4DD
   Markdown Support in Model Descriptions]]"
+- '[[Changes/Notion/2024-06-18-now-with-gpt-4|Now with GPT-4]]'
 - '[[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes
   in v0.39.0]]'
 source_release: '[[Releases/Aider/aider-2024-06-24-v0-40-0-github-162152845-1b3b3617|aider-2024-06-24-v0-40-0-github-162152845-1b3b3617]]'

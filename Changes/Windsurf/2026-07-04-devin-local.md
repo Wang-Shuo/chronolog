@@ -4,20 +4,19 @@ date: '2026-07-04'
 description: 'Windsurf · 2026-07-04 · Editor Experience: Edits produced in autonomous
   mode now produce reviewable diffs.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1208
+  lag_days: 2792
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 3dd9290602ae0a36b7f8610b5bf1b50f69691ec3393f559d96e4d649ef35842e
+machine_hash: 726cb8b61ee075a120060f0879f7f58e2e3500b0ab5fa2b7e57498604d1b4f73
 product: windsurf
 product_name: Windsurf
 record:
@@ -55,12 +54,12 @@ record:
   title: Devin Local
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2
-  Editor Experience changes in v1.0.68]]'
-- '[[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor
-  Experience changes in v0.10.2]]'
 - '[[Changes/OpenCode/2026-07-01-3-editor-experience-changes-in-v1-17-13|3 Editor
   Experience changes in v1.17.13]]'
+- '[[Changes/Kimi Code/2026-07-02-2-editor-experience-changes-in-kimi-code-0-22-0|2
+  Editor Experience changes in Kimi Code 0.22.0]]'
+- '[[Changes/Kimi Code/2026-07-02-remove-duplicate-newline-shortcut-handling-from-the-prompt-editor|Remove
+  duplicate newline-shortcut handling from the prompt editor]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-04-v3-4-22-cbfcfc79|windsurf-2026-07-04-v3-4-22-cbfcfc79]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -97,14 +96,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-3-editor-experience-changes-in-v1-17-13|3 Editor Experience changes in v1.17.13]]
-- Later: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-3-editor-experience-changes-in-v1-17-14|3 Editor Experience changes in v1.17.14]]
+- Earlier: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-remove-duplicate-newline-shortcut-handling-from-the-prompt-editor|Remove duplicate newline-shortcut handling from the prompt editor]]
+- Later: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-web-align-the-markdown-diff-code-block-with-the-design-system-code-text-keeps-th|web: Align the markdown diff code block with the design system: code text keeps…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

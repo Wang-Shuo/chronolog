@@ -4,20 +4,19 @@ date: '2023-12-31'
 description: 'Cursor · 2023-12-31 · Editor Experience: You can now use chat and cmd-k
   in the aux window without too many problems.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 292
+  lag_days: 1876
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16ac1f8e1a669d7249adf9169856ca98a57a3c472cd46d22fe51e158191463f0
+machine_hash: 61cb42dde99e11bf5d79422ce9527355c7338af6401db50468c4865f512eeeb6
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +40,7 @@ record:
   title: Aux Window Fixes
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE
-  (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]'
+- '[[Changes/Notion/2023-12-20-upgrades-to-web-publishing|Upgrades to web publishing]]'
 - '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple
   Command-K, Copilot++ UI]]'
 - '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS
@@ -80,7 +78,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

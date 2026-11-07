@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e572b6a5a89c7898b70d919cd1009ca3d8c1efa8dd9693a93dca803df8e74495
+machine_hash: 7286cb01d551adee1e0e16eb4cad7707f100675941e0c9e7ec3c4ef22ddebc62
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Agent Mode changes in v2.2.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-27-you-can-now-attach-files-of-any-type-such-as-videos-design-files-or-programs-up|Attach
-  files of any type, such as videos, design files, or programs, up to 20 MB]]'
-- '[[Changes/Google Antigravity/2026-10-27-3-agent-mode-changes-in-hub-v2-28-0-built-in-browser|3
-  Agent Mode changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-learning-agent-in-microsoft-365-copilot-windows-microsoft-365-copilot|Learning
+  Agent in Microsoft 365 Copilot Windows (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-endpoints-declarative-agent-access-web-microsoft-365-copilot-extens|Work
+  IQ APIs - Endpoints]]'
 - '[[Changes/OpenClaw/2026-10-27-7-agent-mode-changes-in-v2026-10-8|7 Agent Mode changes
   in v2026.10.8]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-27-v2-2-0-f60b51f1|opencode-2026-10-27-v2-2-0-f60b51f1]]'

@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-03-16 · Developer Workflow: 4 changes 
   — Kill command validation no longer incorrectly blocks some legitimate commands.
   e.g…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1094
+  lag_days: 2743
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97b39aca74ab888f53ede865d253f21afeb1715643c487513288885d5c506675
+machine_hash: be4a885aa5fbccb0c9f8424aef4689e89d72fc7c3b062f97d86a89f8fb978052
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -107,7 +108,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Dify · 2024-06-04 · Files and Data: 3 changes in v0.6.10 — **D
   Rename Support**: You can now rename documents in datasets by @iamjoel in #4732
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 376
+  lag_days: 1721
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31a9bc8648e5b14458890e2bc3cf1b6e8712ed6e8b70feb3ff541183e212fbce
+machine_hash: cae335d5569cac9a44bcd9d5480f395141bcf1a369a5ef82256eafad9da92942
 product: dify
 product_name: Dify
 record:
@@ -46,12 +46,11 @@ record:
   title: 3 Files and Data changes in 0.6.10
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-19-powerpoint-support-rag-pipeline-now-supports-powerpoint-documents|\U0001F5A5️
-  PowerPoint Support: RAG pipeline now supports PowerPoint documents]]"
-- '[[Changes/Gemini/2024-05-21-exclusive-to-gemini-advanced-data-analysis|Exclusive
-  to Gemini Advanced: Data Analysis]]'
-- '[[Changes/Dify/2024-05-27-rag-document-segmentation-configurable-max-segmentation-tokens-length-for-rag-do|RAG
-  Document Segmentation]]'
+- '[[Changes/Descript/2024-06-04-canvas-selection-tools-and-improved-toolbars|Canvas
+  selection tools and improved toolbars]]'
+- '[[Changes/Descript/2024-06-04-the-new-blank-slate|The New Blank Slate]]'
+- '[[Changes/Descript/2024-06-04-new-timeline-and-canvas-tools|New Timeline and Canvas
+  tools]]'
 source_release: '[[Releases/Dify/dify-2024-06-04-0-6-10-github-158857109-2981a4ee|dify-2024-06-04-0-6-10-github-158857109-2981a4ee]]'
 source_type: github_releases
 theme: file-data
@@ -90,14 +89,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-rag-document-segmentation-configurable-max-segmentation-tokens-length-for-rag-do|RAG Document Segmentation]]
+- Earlier: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-new-timeline-and-canvas-tools|New Timeline and Canvas tools]]
 - Later: 2024-06-04 · Open WebUI · [[Changes/Open WebUI/2024-06-04-quick-access-to-documentation-you-can-now-easily-access-open-webui-documents-via|❓ Quick Access to Documentation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

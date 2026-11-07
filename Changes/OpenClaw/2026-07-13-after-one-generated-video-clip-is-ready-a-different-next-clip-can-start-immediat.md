@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-07-13 · Video Generation: After one generated vi
   clip is ready, a different next clip can start immediately instead of waiting several
   extra…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 907
+  lag_days: 2091
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 70ae1d31f576a6520a1807f07002fbaa04200a52e2d797b4d883bbf8dfe1dfed
+machine_hash: 390d3cdd9f6a1f9ebf1a3cd68ca27ac397b22305b5ec5142b884966b60934412
 product: openclaw
 product_name: OpenClaw
 record:
@@ -46,10 +46,10 @@ record:
     immediately…
   type: change
 related_changes:
-- '[[Changes/Runway/2026-04-07-use-anything-text-image-video-or-audio-to-generate-or-edit-videos-with-seedance|Seedance
-  2.0]]'
 - '[[Changes/Runway/2026-06-30-generate-and-edit-video-with-gemini-omni-flash-now-in-runway-start-with-a-prompt|Gemini
   Omni Flash]]'
+- '[[Changes/Synthesia/2026-06-30-generate-and-edit-video-from-text-image-and-audio-with-gemini-omni-flash-google|Early
+  access: Gemini Omni Flash live in Synthesia]]'
 - '[[Changes/Runway/2026-07-09-studio-s-timeline-editor-now-lives-inside-agent-so-you-can-generate-assemble-ref|Timeline
   in Agent]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
@@ -114,7 +114,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

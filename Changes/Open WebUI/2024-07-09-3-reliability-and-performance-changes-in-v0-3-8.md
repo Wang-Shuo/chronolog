@@ -4,20 +4,20 @@ date: '2024-07-09'
 description: 'Open WebUI · 2024-07-09 · Reliability and Performance: 3 changes in
   v0.3.8 — **⏰ OpenAI Streaming Timeout**: Resolved issues with OpenAI streaming response…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 572
+  lag_days: 2059
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78b3820935eea229a730b494f6a51003182649316120bad33bf99bfe58552141
+machine_hash: fb220a666c9270087f8a81b4295ff81419a6074fdbf2a2ac8c950749ff9981db
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Reliability and Performance changes in v0.3.8
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-06-22-3-reliability-and-performance-changes-in-v0-1-46|3
-  Reliability and Performance changes in v0.1.46]]'
 - '[[Changes/Ollama/2024-07-02-5-reliability-and-performance-changes-in-v0-2-0|5 Reliability
   and Performance changes in v0.2.0]]'
 - '[[Changes/Aider/2024-07-04-3-reliability-and-performance-changes-in-v0-42-0|3 Reliability
   and Performance changes in v0.42.0]]'
+- '[[Changes/Descript/2024-07-09-descript-for-web-is-officially-out-of-beta|Descript
+  for Web is officially out of Beta]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-07-09-v0-3-8-github-164686549-1ca2b2b5|open-webui-2024-07-09-v0-3-8-github-164686549-1ca2b2b5]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,14 +92,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.8
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-07-04 · Aider · [[Changes/Aider/2024-07-04-3-reliability-and-performance-changes-in-v0-42-0|3 Reliability and Performance changes in v0.42.0]]
+- Earlier: 2024-07-09 · Descript · [[Changes/Descript/2024-07-09-descript-for-web-is-officially-out-of-beta|Descript for Web is officially out of Beta]]
 - Later: 2024-07-11 · Ollama · [[Changes/Ollama/2024-07-11-glm4-models-will-no-longer-fail-to-load-from-out-of-memory-errors|glm4 models will no longer fail to load from out of memory errors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

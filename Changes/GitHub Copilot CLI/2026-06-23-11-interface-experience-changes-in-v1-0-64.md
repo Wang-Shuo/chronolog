@@ -4,20 +4,20 @@ date: '2026-06-23'
 description: 'GitHub Copilot CLI · 2026-06-23 · Interface Experience: 11 changes in
   1.0.64 — Add mouse click and double-click selection to paginated lists'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1261
+  lag_days: 2627
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 70c27b12adf2fc12b39e9e759f3ac0efda0ba6c825641e8d7d73b8a6c44d2991
+machine_hash: 504acd03391c7ce4753266b68f8cf428d479e024e7af74f0c77b523afc782035
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -64,10 +64,10 @@ record:
   title: 11 Interface Experience changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-19-view-only-members-can-download-a-chat-s-code-as-a-zip-from-the-project-menu|View-only
-  members can download a chat''s code as a ZIP from the project menu]]'
 - '[[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4
   Interface Experience changes in rust-v0.142.0]]'
+- '[[Changes/Kimi Code/2026-06-22-stop-showing-unread-dots-on-cancelled-or-failed-sessions-in-the-web-sidebar|Stop
+  showing unread dots on cancelled or failed sessions in the web sidebar]]'
 - '[[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface
   Experience changes in v2.1.187]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
@@ -143,7 +143,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

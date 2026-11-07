@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-06-03 · Safety and Privacy: 4 changes in v2.1
   — `claude agents --json` now includes `waitingFor` showing what a waiting session
   is…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1144
+  lag_days: 2136
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ecd2f7be1f89379c3eb0f44a9ac40e0ecbd258b609b70deb42c858f38007ea0
+machine_hash: 49a6f8de88a9cb1b3a1ba40ceb2134b00944e573742cd4a1d2cd377061a048c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
   title: 4 Safety and Privacy changes in v2.1.162
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-01-scheduled-security-scans-enterprise|Scheduled security
-  scans (Enterprise)]]'
-- '[[Changes/Open WebUI/2026-06-01-7-safety-and-privacy-changes-in-v0-9-6|7 Safety
-  and Privacy changes in v0.9.6]]'
 - '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977|ChatGPT
   rolls out Active sessions, a new security feature that helps users review…]]'
+- '[[Changes/HeyGen/2026-06-02-we-ve-introduced-a-new-workspace-controls-section-for-admins-bringing-workspace|We''ve
+  introduced a new Workspace Controls section for admins, bringing workspace…]]'
+- '[[Changes/Kimi Code/2026-06-02-add-approval-lifecycle-hook-events-for-observing-pending-and-completed-permissio|Add
+  approval lifecycle hook events for observing pending and completed permission prompts]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
 theme: safety-privacy
@@ -102,14 +102,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.162
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-02 · ChatGPT · [[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977|ChatGPT rolls out Active sessions, a new security feature that helps users review…]]
+- Earlier: 2026-06-02 · Kimi Code · [[Changes/Kimi Code/2026-06-02-add-approval-lifecycle-hook-events-for-observing-pending-and-completed-permissio|Add approval lifecycle hook events for observing pending and completed permission prompts]]
 - Later: 2026-06-03 · Cline · [[Changes/Cline/2026-06-03-update-vs-code-extension-dependencies-to-resolve-security-issues-in-xmldom-xmldo|Update VS Code extension dependencies to resolve security issues…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

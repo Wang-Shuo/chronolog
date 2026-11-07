@@ -4,20 +4,20 @@ date: '2026-09-05'
 description: 'Ollama · 2026-09-05 · Reliability and Performance: This release also
   improves structured output performance on Apple Silicon, adds support for…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1360
+  lag_days: 2847
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6fe69ad99eefb231676a442d7ab2cc4cc9441cb26bb0f36ed4b02460c91602b4
+machine_hash: 1bde2098f35d19b8652753086bf5c1b22a84eba6caeddb6f2f0a6a9cac7806b5
 product: ollama
 product_name: Ollama
 record:
@@ -46,9 +46,10 @@ record:
     adds…
   type: change
 related_changes:
-- '[[Changes/Suno/2026-09-02-wavetable-fidelity|Wavetable fidelity]]'
 - '[[Changes/OpenClaw/2026-09-03-on-linux-managed-local-model-and-embedding-services-are-preferred-as-the-out-of|On
   Linux, managed local model and embedding services are preferred…]]'
+- '[[Changes/Qoder/2026-09-03-faster-app-startup-and-smoother-streaming-in-long-sessions|Faster
+  app startup and smoother streaming in long sessions]]'
 - '[[Changes/Claude Code/2026-09-04-improved-streaming-performance-already-rendered-blocks-are-no-longer-re-checked|Improved
   streaming performance]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-05-v0-34-0-github-383028723-ab16dad6|ollama-2026-09-05-v0-34-0-github-383028723-ab16dad6]]'
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

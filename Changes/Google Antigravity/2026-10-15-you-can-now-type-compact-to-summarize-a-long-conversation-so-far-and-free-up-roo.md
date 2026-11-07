@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d1b3588fa612d46b28396f23c4830d8f125e9820214c115187c71043878475ad
+machine_hash: e1d72ad807ffc30a43e79a1599c273cf80cffd96c9b67f17c2d150e72bd831b1
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,10 +46,10 @@ record:
     the agent…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode
-  changes in v2.1.300]]'
-- '[[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A
-  compact sibling, Nemotron 3.5…]]'
+- '[[Changes/Qoder/2026-10-14-interactive-visualizations-agent-responses-in-local-tasks-can-now-display-intera|Interactive
+  visualizations: Agent responses in local tasks can now display…]]'
+- '[[Changes/Qoder/2026-10-14-agent-teams-now-available-in-the-personal-edition-create-your-own-agent-team-wit|Agent
+  Teams: Now available in the personal edition]]'
 - '[[Changes/Codex CLI/2026-10-15-14-agent-mode-changes-in-rust-v0-163-0|14 Agent
   Mode changes in rust-v0.163.0]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-10-15-rel-hub-2-24-0-5fa4845f|google-antigravity-2026-10-15-rel-hub-2-24-0-5fa4845f]]'

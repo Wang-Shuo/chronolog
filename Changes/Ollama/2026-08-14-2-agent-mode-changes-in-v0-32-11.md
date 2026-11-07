@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c95f6b20f8aab3b2525a68a5570e6c2206397acb51150345173562659811688
+machine_hash: 93a881b02a3b56e999dbed99177aaca51230beca08a67c0e48ede5c2ac9b77ff
 product: ollama
 product_name: Ollama
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Agent Mode changes in v0.32.11
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using|More
-  resilient agent runs]]'
+- '[[Changes/Kimi Code/2026-08-13-3-agent-mode-changes-in-kimi-code-0-36-0|3 Agent
+  Mode changes in Kimi Code 0.36.0]]'
 - '[[Changes/OpenHands/2026-08-13-chore-enforce-typed-openhands-typescript-client-for-agent-server-api-calls-no-ad|chore:
   enforce typed @openhands/typescript-client for agent-server API calls…]]'
 - '[[Changes/Claude Code/2026-08-14-improved-claude-self-hosted-runner-session-start-time-the-session-branch-is-now|Improved

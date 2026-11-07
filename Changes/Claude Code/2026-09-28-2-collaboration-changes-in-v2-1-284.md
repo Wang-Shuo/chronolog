@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-09-28 · Collaboration: 2 changes in v2.1.284 
   retries after a dropped connection mid-response to share one budget with the rest
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1223
+  lag_days: 2817
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf01968100fc55a4e10b519bf71146ad84e6a0801cd8c6ac22a73f8f50c61cfe
+machine_hash: 48048be2c65feb26f3c99ccf1aae56a8148c2256f27dcc4ee257ed36466042cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +46,8 @@ record:
   title: 2 Collaboration changes in v2.1.284
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-16-collaboration-changes-in-v2026-9-6|16 Collaboration
-  changes in v2026.9.6]]'
+- '[[Changes/Qoder/2026-09-23-a-new-space-for-human-and-agent-collaboration|A New
+  Space for Human and Agent Collaboration]]'
 - '[[Changes/Midjourney/2026-09-24-a-few-updates-to-share-with-you-today|A few updates
   to share with you today]]'
 - '[[Changes/Codex CLI/2026-09-25-47411-apply-shared-network-policy-throughout-embedded-codex-startup-acrognale-oa|♯47411
@@ -104,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

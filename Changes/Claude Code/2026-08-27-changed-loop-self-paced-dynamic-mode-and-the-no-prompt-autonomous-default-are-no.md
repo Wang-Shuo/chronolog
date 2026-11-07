@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'Claude Code · 2026-08-27 · Automation and Scheduling: Changed `/loop`:
   self-paced dynamic mode and the no-prompt autonomous default are now always available…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 968
+  lag_days: 2535
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 126838d3e833c73b254d1f71bd9ef1cca1747ba7fba51eb8e31b0c81c362ce5c
+machine_hash: fe595fd8e85597e5ccfab2ff588046fd05926bea418566b0030ae0b1ac47e0c7
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 'Changed `/loop`: self-paced dynamic mode and the no-prompt autonomous default…'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-feat-workflow-support-human-input-in-loop-and-iteration-by-laipz8200-in-https-gi|feat(workflow):
-  support human input in loop and iteration]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-use-python-when-editing-with-copilot-in-excel-windows-mac-web-excel|Use
+  Python when Editing with Copilot in Excel Windows, Mac, Web (Excel)]]'
 - '[[Changes/Open WebUI/2026-08-25-11-automation-and-scheduling-changes-in-v0-11-1|11
   Automation and Scheduling changes in v0.11.1]]'
 - '[[Changes/Codex CLI/2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry|♯40436
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

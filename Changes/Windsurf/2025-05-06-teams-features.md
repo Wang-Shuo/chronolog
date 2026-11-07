@@ -3,19 +3,20 @@ card_id: windsurf-2025-05-06-e1d7f2
 date: '2025-05-06'
 description: 'Windsurf · 2025-05-06 · Collaboration: 1.8.0 changelog banner'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 713
+  lag_days: 2307
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 26a2442cdc92b07fa643d3a8f48eb871d0a17f0bd1b00bbc362addc71ced8ea3
+machine_hash: 24460cbc0b3df83e46ffdf1711dd91381823a624826b0bc089fa96057d2d929b
 product: windsurf
 product_name: Windsurf
 record:
@@ -80,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

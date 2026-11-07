@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: expansion
-machine_hash: f849cb5090d2ab9c960f4b9a129bca426dec355efd9c67e3db737a0d862eba5b
+machine_hash: ca7d82ba7e450068a59080e1ca38af13e3c0a4c43fe909c074641b16f9d5ddef
 product: gemini
 product_name: Gemini
 record:
@@ -67,12 +67,11 @@ record:
     18+ in the US
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-13-feat-add-agents-md-support-by-saoudrizwan-in-https-github-com-cline-cline-pull-7|feat:
-  add AGENTS.md support]]'
-- '[[Changes/Codex CLI/2025-11-13-6510-feat-shell-command-tool-29364f3a9|♯6510 — feat:
-  shell_command tool (29364f3a9)]]'
-- '[[Changes/Dify/2025-11-13-these-trigger-features-are-only-available-for-workflows-chatflow-agent-and-basic|These
-  trigger features are only available for Workflows]]'
+- '[[Changes/Notion/2025-11-17-agent-analyzes-comments-and-csvs|Agent analyzes comments
+  and CSVs]]'
+- '[[Changes/Notion/2025-11-17-place-it-on-the-map-view|Place it on the map view]]'
+- '[[Changes/Notion/2025-11-17-with-notion-3-0-you-met-your-notion-agent-our-biggest-update-yet|With
+  Notion 3.0, you met your Notion Agent—our biggest update yet]]'
 source_release: '[[Releases/Gemini/gemini-2025-11-18-2025-11-18-3d75836f|gemini-2025-11-18-2025-11-18-3d75836f]]'
 source_type: gemini_changelog
 theme: agent-mode
@@ -105,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-these-trigger-features-are-only-available-for-workflows-chatflow-agent-and-basic|These trigger features are only available for Workflows]]
+- Earlier: 2025-11-17 · Notion · [[Changes/Notion/2025-11-17-with-notion-3-0-you-met-your-notion-agent-our-biggest-update-yet|With Notion 3.0, you met your Notion Agent—our biggest update yet]]
 - Later: 2025-11-18 · Google Antigravity · [[Changes/Google Antigravity/2025-11-18-google-antigravity|Google Antigravity]]
 <!-- chronolog:end -->
 

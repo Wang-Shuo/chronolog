@@ -4,20 +4,20 @@ date: '2025-05-20'
 description: 'Gemini · 2025-05-20 · Image Generation: What: Experience a new level
   of image generation with Imagen 4, our most capable text-to-image model yet! Simply…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 436
+  lag_days: 694
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d8d766f6d6b0a1551223828d16e6654afdcb5ede1cd9b92a07ffd58a56507441
+machine_hash: ee29810dcb949348792d84bbf32667312c96fcfd788798f8ca0c10e86e5076f6
 product: gemini
 product_name: Gemini
 record:
@@ -55,12 +55,11 @@ record:
   title: Image generation just got an upgrade
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|ChatGPT
-  Image Library]]'
 - "[[Changes/Open WebUI/2025-05-06-openai-image-generation-issues-resolved-resolved-broken-image-output-when-using|\U0001F58C️
   OpenAI Image Generation Issues Resolved]]"
 - '[[Changes/Manus/2025-05-16-manus-doesn-t-just-generate-images-it-understands-your-intent-plans-a-solution-a|Manus
   image generation]]'
+- '[[Changes/Descript/2025-05-20-improved-image-generation|Improved image generation]]'
 source_release: '[[Releases/Gemini/gemini-2025-05-20-2025-05-20-3970ada9|gemini-2025-05-20-2025-05-20-3970ada9]]'
 source_type: gemini_changelog
 theme: image-generation
@@ -98,14 +97,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-05-16 · Manus · [[Changes/Manus/2025-05-16-manus-doesn-t-just-generate-images-it-understands-your-intent-plans-a-solution-a|Manus image generation]]
+- Earlier: 2025-05-20 · Descript · [[Changes/Descript/2025-05-20-improved-image-generation|Improved image generation]]
 - Later: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-image-generation-with-allowed-file-extensions-now-works-reliably-ensure-seamless|🖼️ Image Generation with Allowed File Extensions Now Works Reliably]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

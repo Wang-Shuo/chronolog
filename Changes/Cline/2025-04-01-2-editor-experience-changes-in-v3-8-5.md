@@ -4,20 +4,19 @@ date: '2025-04-01'
 description: 'Cline · 2025-04-01 · Editor Experience: 2 changes in v3.8.5 — Add task
   feedback telemetry (thumbs up/down on task completion)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 749
+  lag_days: 2333
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68bf49e99de30a52f82e7b83d60d5cafdeab9826bfe27e8a6dac65586f6d131d
+machine_hash: e43b894990b2e9c18407545938a8970dd96a4102a795dcc1cf4b17e78bb95d47
 product: cline
 product_name: Cline
 record:
@@ -42,9 +41,9 @@ record:
   title: 2 Editor Experience changes in v3.8.5
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]]'
 - '[[Changes/Aider/2025-03-25-added-edit-as-an-alias-for-the-editor-command|Added
   /edit as an alias for the /editor command]]'
+- '[[Changes/Descript/2025-03-25-editor-updates|Editor updates]]'
 - '[[Changes/Lovable/2025-03-28-supabase-functions-now-get-deployed-when-updated-in-code-editor-also-supabase-fu|Supabase
   functions now get deployed when updated in code editor]]'
 source_release: '[[Releases/Cline/cline-2025-04-01-v3-8-5-github-209483266-bf57367b|cline-2025-04-01-v3-8-5-github-209483266-bf57367b]]'
@@ -88,7 +87,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.8.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

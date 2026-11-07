@@ -5,20 +5,20 @@ description: 'Cursor · 2025-05-15 · Apps and Integrations: Inline Edit (Cmd/Ct
   has gotten a UI refresh and new options for full file edits (⌘⇧⏎) and sending to
   agent…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 784
+  lag_days: 2344
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: aa11738e835b67c2bd3f18359d7801097391524264fd1cb845d79023a1917d12
+machine_hash: c732960a953b7de13aa48ad7aad89e47631ab7e2cb195741aba7a880de7e87cf
 product: cursor
 product_name: Cursor
 record:
@@ -66,10 +66,10 @@ record:
   title: Refreshed Inline Edit (Cmd/Ctrl+K) with Agent integration
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-05-10-external-reranker-integration-functionality-restored-external-reranker-integrati|\U0001F916
-  External Reranker Integration Functionality Restored]]"
 - '[[Changes/OpenHands/2025-05-12-2-apps-and-integrations-changes-in-0-38-0|2 Apps
   and Integrations changes in 0.38.0]]'
+- '[[Changes/Notion/2025-05-13-search-across-even-more-tools|Search across even more
+  tools …]]'
 - '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub
   connector for deep research]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
@@ -116,7 +116,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

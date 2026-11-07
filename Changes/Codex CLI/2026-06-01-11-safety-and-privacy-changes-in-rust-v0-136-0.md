@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-06-01 · Safety and Privacy: 11 changes in 0.136
   Windows admins get an alpha `codex sandbox setup --elevated` provisioning path,
   plus…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1142
+  lag_days: 2134
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ece8aa47223ec147a4dc370d03f15bfff0ef7828d2f05cd88b54ae3c039628a8
+machine_hash: 60f9f3a2bbbc6c63d7b3c3780fc5f36155d9bcac8ddedd50369087a644e65f06
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,12 +66,12 @@ record:
   title: 11 Safety and Privacy changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-28-7-safety-and-privacy-changes-in-rust-v0-135-0|7
-  Safety and Privacy changes in rust-v0.135.0]]'
 - '[[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core
   Handled acp-next permission prompts correctly]]'
 - '[[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety
   and Privacy changes in v2.1.157]]'
+- '[[Changes/Synthesia/2026-05-29-members-on-free-and-restricted-licenses-can-now-edit-scripts-and-add-screen-reco|Let
+  free workspace members help you edit]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'
 source_type: github_releases
 theme: safety-privacy
@@ -133,14 +133,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety and Privacy changes in v2.1.157]]
+- Earlier: 2026-05-29 · Synthesia · [[Changes/Synthesia/2026-05-29-members-on-free-and-restricted-licenses-can-now-edit-scripts-and-add-screen-reco|Let free workspace members help you edit]]
 - Later: 2026-06-01 · Lovable · [[Changes/Lovable/2026-06-01-automatic-fixes-for-basic-scan-findings|Automatic fixes for Basic scan findings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

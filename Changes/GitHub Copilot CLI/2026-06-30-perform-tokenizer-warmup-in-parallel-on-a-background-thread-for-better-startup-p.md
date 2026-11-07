@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'GitHub Copilot CLI · 2026-06-30 · Reliability and Performance: Perform
   tokenizer warmup in parallel on a background thread for better startup performance'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1293
+  lag_days: 2780
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a23a8063a16d18da6faa5cd81eb4dc8068ebf7260f5bed229425cc8cf9607bcb
+machine_hash: cebe48f5de8f99e3b027e86c9d0035bdd0b4b79f32637e6e7d31f19bbab6618a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     performance
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-25-optimized-file-watching-notifications-to-prevent-visual-flickering-and-improve-p|Optimized
-  file watching notifications to prevent visual flickering and improve…]]'
 - '[[Changes/Ollama/2026-06-25-llm-size-mmproj-offload-by-projector-memory-by-dhiltgen-in-https-github-com-olla|llm:
   size mmproj offload by projector memory]]'
+- '[[Changes/Kimi Code/2026-06-29-upgrade-web-markdown-renderer-dependencies-katex-markstream-vue-shiki-for-bug-fi|Upgrade
+  web markdown renderer dependencies (katex, markstream-vue, shiki) for bug…]]'
 - '[[Changes/Open WebUI/2026-06-29-6-reliability-and-performance-changes-in-v0-10-0|6
   Reliability and Performance changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

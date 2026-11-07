@@ -4,20 +4,20 @@ date: '2024-02-14'
 description: 'Gamma · 2024-02-14 · Reliability and Performance: Search Performance.
   Faster search from your Home screen or using CMD + K from anywhere in the app.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 426
+  lag_days: 1913
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9cb862c668e13e90d2a071b2a6fb23b4596a0e36187b0eacfaead43c85dbcd88
+machine_hash: be1937f38eac3070500e9060bcafac32cacbf3591879968e7287075cd1bdaa17
 product: gamma
 product_name: Gamma
 record:
@@ -52,8 +52,7 @@ record:
   title: Search Performance
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-02-when-making-api-requests-the-new-keep-alive-parameter-can-be-used-to-control-how|When
-  making API requests, the new keep_alive parameter can be used to control how…]]'
+- '[[Changes/Descript/2024-02-05-ai-action-updates|AI Action Updates]]'
 - '[[Changes/Runway/2024-02-09-you-with-a-large-number-of-assets-have-significantly-faster-loading-times|Assets
   page is ~1.5x faster]]'
 - '[[Changes/Dify/2024-02-13-pref-optimize-add-hit-count-query-performance-when-dataset-hit-by-takatost-in-ht|pref:
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

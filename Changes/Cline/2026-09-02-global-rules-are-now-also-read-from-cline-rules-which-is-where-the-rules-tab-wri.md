@@ -4,19 +4,20 @@ date: '2026-09-02'
 description: 'Cline · 2026-09-02 · Developer Workflow: Global rules are now also read
   from `~/Cline/Rules`, which is where the Rules tab writes them on WSL and headless…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1264
+  lag_days: 2913
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c7b692747079cfa734a8ee7b952714491e494dd4c1b94cebfc09e4341a6daa7
+machine_hash: 14fa7939f389e1df1a6bc4f2b1b0e559ef2b89f34a839f567cd4bcbc16168f4e
 product: cline
 product_name: Cline
 record:
@@ -105,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

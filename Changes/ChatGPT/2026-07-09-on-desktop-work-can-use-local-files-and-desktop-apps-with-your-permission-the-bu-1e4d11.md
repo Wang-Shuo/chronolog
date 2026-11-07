@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-07-09 · Safety and Privacy: On desktop, Work can 
   local files and desktop apps with your permission. The built-in browser lets ChatGPT
   gather…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1180
+  lag_days: 2172
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6c07f8b0e0db962b02efe47407bc639614acd812209dc09e4ace48ab26234310
+machine_hash: 464b00bf95a93700e9de02ccff1c51df00e9fef40453d2644a132aa10dc9d6a5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,12 +69,11 @@ record:
   title: On desktop, Work can use local files and desktop apps with your permission
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-07-5-safety-and-privacy-changes-in-grouped-tool-approvals-richer-mcp|5
-  Safety and Privacy changes in Grouped tool approvals, richer MCP…]]'
-- '[[Changes/Claude Code/2026-07-08-background-task-notifications-now-explicitly-state-that-no-human-input-has-occur|Background
-  task notifications now explicitly state that no human input has occurred…]]'
 - '[[Changes/Codex CLI/2026-07-08-13-safety-and-privacy-changes-in-rust-v0-143-0|13
   Safety and Privacy changes in rust-v0.143.0]]'
+- '[[Changes/HeyGen/2026-07-08-security-login-activity-api-key-creation-email-changes|Security
+  — login activity, API key creation, email changes]]'
+- '[[Changes/HeyGen/2026-07-08-why-it-matters-d8b8a5|Why it matters]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810|chatgpt-2026-07-09-the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together-90482810]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -105,14 +104,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-13-safety-and-privacy-changes-in-rust-v0-143-0|13 Safety and Privacy changes in rust-v0.143.0]]
+- Earlier: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-why-it-matters-d8b8a5|Why it matters]]
 - Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-4-safety-and-privacy-changes-in-rust-v0-144-0|4 Safety and Privacy changes in rust-v0.144.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6d7169cbd5d98ed9aeae7286613d065e9e47ee20fb9ff19e3569e62ad064bfd
+machine_hash: 7ca51a358704233159862b4bb88df8ac1a77b498093f35da62b146556ec3f10f
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-accessibility-and-localization-changes-in-1-18-0|3 Accessibility and Localization changes in 1.18.0]]
-- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-improved-ui-accessibility-screen-reader-and-keyboard-users-can-now-move-through|♿ Improved UI accessibility. Screen reader and keyboard users can now move…]]
+- Later: 2026-10-27 · Synthesia · [[Changes/Synthesia/2026-10-27-dub-videos-into-up-to-20-languages-straight-from-your-own-systems-with-the-new-l|Dub videos at scale with the Localization API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

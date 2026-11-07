@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-07-14 · Mobile and Desktop: \U0001F4F7 **Seaml
   iPhone Image Uploads**: Effortlessly upload photos from iPhones and other devices
   using HEIC…"
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 853
+  lag_days: 2437
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e673e85d29e7e2797f01c10c39dcbd135d7478f3853cc06c2b7642f2271702b7
+machine_hash: ecaa8807f4c3775371eb7962cc7dde5ab27cefdf371d4ea890912184f411e039
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,9 @@ record:
   title: "\U0001F4F7 **Seamless iPhone Image Uploads**"
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-07-02-3-mobile-and-desktop-changes-in-v0-9-5|3 Mobile and
-  Desktop changes in v0.9.5]]'
 - '[[Changes/Codex CLI/2025-07-10-thanks-to-pchuri-so-that-when-running-codex-installed-via-npm-process-platform-a|Thanks
   to @pchuri so that when running Codex installed via npm…]]'
+- '[[Changes/Notion/2025-07-10-lots-of-improvements|Lots of improvements!]]'
 - '[[Changes/Gemini CLI/2025-07-11-don-t-enforce-leading-slash-since-that-s-not-true-on-windows-by-scidomino-in-htt|Don''t
   enforce leading slash since that''s not true on Windows]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-14-v0-6-16-github-232298341-b0885edf|open-webui-2025-07-14-v0-6-16-github-232298341-b0885edf]]'
@@ -94,13 +93,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-don-t-enforce-leading-slash-since-that-s-not-true-on-windows-by-scidomino-in-htt|Don't enforce leading slash since that's not true on Windows]]
-- Later: 2025-07-16 · ChatGPT · [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]]
+- Later: 2025-07-15 · Descript · [[Changes/Descript/2025-07-15-new-in-labs-upload-from-mobile|New in Labs—Upload from Mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

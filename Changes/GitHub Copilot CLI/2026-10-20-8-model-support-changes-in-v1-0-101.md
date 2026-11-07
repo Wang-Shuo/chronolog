@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9cc1bec0ddd0290ac0e583013dcb50a2ef588d5599e48648529d0831569a8ec0
+machine_hash: 6c47485a1787269433f1dbae76c4a7595083a58f9af8c58a42425018339d52ac
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -63,12 +63,12 @@ record:
   title: 8 Model Support changes in v1.0.101
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-18-4-model-support-changes-in-v2026-10-5|4 Model Support
-  changes in v2026.10.5]]'
 - '[[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support
   changes in v2.1.304]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-3-model-support-changes-in-v1-0-100|3 Model
   Support changes in v1.0.100]]'
+- "[[Changes/Notion/2026-10-19-meet-auto-our-upgraded-model-router|Meet Auto, our
+  upgraded model router \U0001F500]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-20-v1-0-101-github-418747415-a1bf6298|github-copilot-cli-2026-10-20-v1-0-101-github-418747415-a1bf6298]]'
 source_type: github_releases
 theme: model-support
@@ -120,7 +120,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.101
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-3-model-support-changes-in-v1-0-100|3 Model Support changes in v1.0.100]]
+- Earlier: 2026-10-19 · Notion · [[Changes/Notion/2026-10-19-meet-auto-our-upgraded-model-router|Meet Auto, our upgraded model router 🔀]]
 - Later: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-seedream-5-pro-and-seedance-2-5-for-your-app-s-ai-features|Seedream 5 Pro and Seedance 2.5 for your app's AI features]]
 <!-- chronolog:end -->
 

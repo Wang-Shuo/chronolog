@@ -4,20 +4,19 @@ date: '2025-08-26'
 description: 'Codex CLI · 2025-08-26 · Editor Experience: 6 changes in 0.24.0 — Edit/resume
   conversation (esc-esc) from previous messages (#2607)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 896
+  lag_days: 2480
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5eeedfbdad01e78f8b75be6b69fe6ad0d225b2b99bc11580c895e05bdfeaf35e
+machine_hash: ebddacb2b2e290b875f5b0847a711ae3ee188c31f1fcd1ccd41dfda8b72ddb49
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,10 +49,9 @@ record:
   title: 6 Editor Experience changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-21-add-an-rpc-to-the-host-bridge-to-reveal-a-directory-in-the-ide-file-explorer-by|Add
-  an RPC to the host bridge to reveal a directory in the IDE file explorer]]'
-- '[[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full
-  notebook]]'
+- '[[Changes/Descript/2025-08-21-other-editor-updates|Other editor updates]]'
+- '[[Changes/Descript/2025-08-21-new-in-editor-control-multiple-layers-at-once|New
+  in Editor—Control Multiple Layers at Once]]'
 - "[[Changes/Open WebUI/2025-08-21-restored-message-toolbar-icons-for-empty-messages-with-files-fixed-an-issue-wher|\U0001F41B
   Restored Message Toolbar Icons for Empty Messages with Files]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
@@ -114,7 +112,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.24.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

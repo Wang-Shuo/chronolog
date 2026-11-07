@@ -5,20 +5,19 @@ description: "Open WebUI · 2024-06-10 · Editor Experience: **\U0001F50D Editab
   Query Prompt**: You can now edit the search query generation prompt, offering more
   control…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 454
+  lag_days: 2038
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 96f532c7454c8a27f95392731be57cc27045bd6f52198f0b74e2892a1248cb5d
+machine_hash: 6b18a4dab1f2a72b7006cebc32aa0776bfa2117dd135c43d2ebcf8073529b806
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,13 +86,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on Cursor Prediction with a new UI]]
-- Later: 2024-06-18 · Gamma · [[Changes/Gamma/2024-06-18-want-your-ai-images-to-have-a-consistent-look-and-feel-you-can-now-add-and-edit|AI image style keywords are now editable in the theme editor]]
+- Later: 2024-06-11 · Notion · [[Changes/Notion/2024-06-11-use-the-desktop-app-to-pin-pages-that-you-use-frequently-like-a-to-do-list-to-th|Use the desktop app to pin pages that you use frequently (like a to-do list)…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

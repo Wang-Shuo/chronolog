@@ -5,20 +5,19 @@ description: 'Claude Code · 2026-07-07 · Editor Experience: Changed left arrow
   no longer close the background tasks, diff, and workflow detail views — press Esc
   instead'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1211
+  lag_days: 2795
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f0e19aa85d407cbd6840d3c559150b1180e7b116d5e772d67b277de1cd735d8
+machine_hash: fd22f166b35587b224d2ee77019be53670263e526a2b1a49b29c77358b347f26
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +44,9 @@ record:
   title: Changed left arrow to no longer close the background tasks, diff, and workflow…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-01-3-editor-experience-changes-in-v1-17-13|3 Editor
-  Experience changes in v1.17.13]]'
 - '[[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]'
+- '[[Changes/Kimi Code/2026-07-06-web-align-the-markdown-diff-code-block-with-the-design-system-code-text-keeps-th|web:
+  Align the markdown diff code block with the design system: code text keeps…]]'
 - '[[Changes/OpenCode/2026-07-06-3-editor-experience-changes-in-v1-17-14|3 Editor
   Experience changes in v1.17.14]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-05-13'
 description: 'GitHub Copilot CLI · 2026-05-13 · Interface Experience: Support j/k
   keys for up/down navigation in the /diff view'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1220
+  lag_days: 2586
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a8cc5a12ec51060b6525a49d493b78333cb0f8a1279d848a326a319daadf36e7
+machine_hash: 3ab4bee91a6517474989e4fd01f4cac3efc64299003d4a05d8d1115d0a27ccf7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]
-- Later: 2026-05-14 · OpenCode · [[Changes/OpenCode/2026-05-14-restored-markdown-rendering-for-session-output-by-default|Restored markdown rendering for session output by default]]
+- Later: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-chat-history|Chat history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

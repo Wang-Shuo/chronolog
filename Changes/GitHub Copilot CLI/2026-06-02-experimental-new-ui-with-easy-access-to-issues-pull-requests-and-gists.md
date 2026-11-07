@@ -4,19 +4,20 @@ date: '2026-06-02'
 description: 'GitHub Copilot CLI · 2026-06-02 · Developer Workflow: `/experimental`
   new UI with easy access to issues, pull requests, and gists'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1172
+  lag_days: 2821
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: baf50b246c4e538c528c4edf65daab3d988227159a1c637f27dae716c3781909
+machine_hash: 620e4f46b2771813489af85a711474dfd9acd584a85be015786893910c66f29f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,13 +84,13 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-161|2 Developer Workflow changes in v2.1.161]]
-- Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools: explicitly listing Grep/Glob now provides the dedicated search tools…]]
+- Later: 2026-06-02 · Kimi Code · [[Changes/Kimi Code/2026-06-02-3-developer-workflow-changes-in-kimi-code-0-8-0|3 Developer Workflow changes in Kimi Code 0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-05-12 · Voice and Audio: 2 changes in Release 
   — feat(ui): added microphone and updated placeholder for voice mode by @devr0306
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1037
+  lag_days: 2864
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1f62857a62d9de503db840390555d8e2e4f4a289ebafc429c416ea036f36b9e
+machine_hash: d5b66040afcda6741a13fc8f23a12c97348a045c442275b6b0aca5e7c0f9b7e4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

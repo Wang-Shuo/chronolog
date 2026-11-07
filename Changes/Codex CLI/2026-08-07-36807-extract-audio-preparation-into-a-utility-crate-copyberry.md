@@ -4,20 +4,20 @@ date: '2026-08-07'
 description: 'Codex CLI · 2026-08-07 · Voice and Audio: #36807 Extract audio preparation
   into a utility crate @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1124
+  lag_days: 2951
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: defbe140d68f218094062508efc61095ef1776c65ab190a4602b1510dc6aa3b1
+machine_hash: 45e3ea0a6e3a8d1103509489fd6bd8b27a241098d7b3d702f199c9df114a8f35
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-dictate-with-fewer-interruptions-if-dictation-fails-because-of-a-connection-issu|Dictate with fewer interruptions]]
-- Later: 2026-08-10 · ElevenLabs · [[Changes/ElevenLabs/2026-08-10-python-sdk|Python SDK]]
+- Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-proofread-timeline-view-cleanup|Proofread timeline view cleanup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

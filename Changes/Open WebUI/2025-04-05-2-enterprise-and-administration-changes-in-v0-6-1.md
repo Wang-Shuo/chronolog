@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-05 · Enterprise and Administration: 2 chang
   v0.6.1 — \U0001F4C4 **RAG Prompt Improved and More Coherent**: Default RAG system
   prompt has been…"
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 701
+  lag_days: 1908
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6eb54790582b5b33afc12748acabd02bc271510b5e0678af9a93282c014abf4f
+machine_hash: 4fdeb96ed22ca171eeb01a053a3c3299d972b5e367975277e3ebf3a6d0bc1b07
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,9 @@ record:
   title: 2 Enterprise and Administration changes in v0.6.1
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-18-ci-deploy-enterprise-by-garearc-in-https-github-com-langgenius-dify-pull-15699|Ci/deploy
-  enterprise]]'
 - '[[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced
   visibility of auto-run controls configured by team admins, clarifying…]]'
+- '[[Changes/Notion/2025-03-26-level-up-your-admin-controls|Level up your admin controls]]'
 - '[[Changes/Open WebUI/2025-04-01-2-enterprise-and-administration-changes-in-v0-6-0|2
   Enterprise and Administration changes in v0.6.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-05-v0-6-1-github-210564056-66ebd388|open-webui-2025-04-05-v0-6-1-github-210564056-66ebd388]]'
@@ -96,7 +95,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

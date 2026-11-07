@@ -4,20 +4,20 @@ date: '2026-06-23'
 description: 'GitHub Copilot CLI · 2026-06-23 · Multimodal Input: Clear queued tool
   images when vision is disabled'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1008
+  lag_days: 2776
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d1c164541c43298040e45facee690379e4b01fc47ebba815a0504406e1c66327
+machine_hash: a0b26d44c1cd8557f5fbb8bf773f748f9edec3de786edeaaa9a26924f420df43
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Clear queued tool images when vision is disabled
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-06-01-youtube-short-link-transcripts-pasting-a-youtu-be-short-link-into-a-chat-now-loa|\U0001F4FA
-  YouTube short link transcripts. Pasting a \"youtu.be\" short link into a chat…]]"
-- '[[Changes/Ollama/2026-06-03-gemma-4-12b-https-ollama-com-library-gemma4-12b-high-performance-multimodal-inte|Gemma
-  4 12B((source link)]]'
+- '[[Changes/HeyGen/2026-06-08-the-result-is-a-clean-continuous-video-from-footage-you-already-have-with-no-re|The
+  result is a clean, continuous video from footage you already have, with no…]]'
+- '[[Changes/Descript/2026-06-11-rooms-viewer-defaults-and-business-producer-slots|Rooms:
+  viewer defaults and Business producer slots]]'
 - '[[Changes/Runway/2026-06-18-trim-stitch-reorder-and-export-a-final-video-all-in-one-place|Studio]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
@@ -91,13 +91,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-06-18 · Runway · [[Changes/Runway/2026-06-18-trim-stitch-reorder-and-export-a-final-video-all-in-one-place|Studio]]
-- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-19-multimodal-input-changes-in-v2026-7-1|19 Multimodal Input changes in v2026.7.1]]
+- Later: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-support-the-anthropic-compatible-protocol-for-kimi-code-including-video-input|Support the Anthropic-compatible protocol for Kimi Code, including video input]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

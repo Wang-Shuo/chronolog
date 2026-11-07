@@ -4,20 +4,20 @@ date: '2026-10-18'
 description: 'Ollama · 2026-10-18 · Context Window: 2 changes in v0.40.7 — thinking,
   or when the history contains another provider''s compaction items'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1263
+  lag_days: 2587
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 735494f0d14d8f30e4579c271485951ba9d4a3dc3962c83687f9ea334d8e6336
+machine_hash: 3cb58f74b1130f0cb0abcf9d54d55f902fae7d5cd968edc323bde5f03e615979
 product: ollama
 product_name: Ollama
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.40.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

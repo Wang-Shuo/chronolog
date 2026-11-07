@@ -4,20 +4,20 @@ date: '2024-10-21'
 description: 'Dify · 2024-10-21 · Reliability and Performance: 2 changes in v0.10.0
   — **Azure OpenAI Fixes**: Resolved key issues with max token calculations for improved…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 676
+  lag_days: 2163
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55ff5cd7198fbae3bc2851bff73a61bbc1c5d2d1e39564b32e115cb7af708c96
+machine_hash: 963a8f41d50440b6af79a2b8f83251c5376a5bf7f3fa358366984a8894d2a3f0
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Reliability and Performance changes in 0.10.0
   type: change
 related_changes:
-- '[[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability
-  and Performance changes in v2.0.0]]'
+- '[[Changes/Descript/2024-10-10-improved-ui-responsiveness-when-in-a-room-with-only-1-participant|Improved
+  UI responsiveness when in a Room with only 1 participant]]'
 - '[[Changes/Dify/2024-10-14-2-reliability-and-performance-changes-in-0-9-2|2 Reliability
   and Performance changes in 0.9.2]]'
 - '[[Changes/Ollama/2024-10-17-2-reliability-and-performance-changes-in-v0-3-14|2
@@ -95,7 +95,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.10.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

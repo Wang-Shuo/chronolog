@@ -4,20 +4,20 @@ date: '2026-10-29'
 description: 'OpenCode · 2026-10-29 · Context Window: 2 changes in v2.2.1 — Core Preserve
   more context headroom when fitting tool output into the context window.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1274
+  lag_days: 2598
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d564f14b74d6fd1ee426fd77c4e65d5e4a4592497917893428ba2d4718712ec7
+machine_hash: ffa6b04e33daf64c7bdba3733a58533892be4e8b12f21cf89dd6973ec1fefc06
 product: opencode
 product_name: OpenCode
 record:
@@ -105,7 +105,7 @@ Source: https://opencode.ai/changelog/v2.2.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

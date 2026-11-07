@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'OpenClaw · 2026-09-23 · Automation and Scheduling: 9 changes in v2026.9.6
   — Chat and sidebar updates avoid some layout stalls, and opening a conversation…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 995
+  lag_days: 2562
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc268fe408eaf2fb569b068c655f3fc279cdcb50aa78f78a627be1932913703e
+machine_hash: d02ad3e7024b957a09174071c694df316bdff696a58f66db55003273bb1938db
 product: openclaw
 product_name: OpenClaw
 record:
@@ -178,7 +178,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

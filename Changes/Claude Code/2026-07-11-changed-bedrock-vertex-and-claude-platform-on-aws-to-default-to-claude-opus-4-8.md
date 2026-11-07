@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90689604e516e1be1b238f2185302a5bbe326d848dcb24ce1aa22d10b0d25216
+machine_hash: 5404354f65952386c33645c82c1d41e5cf0e93b5a8f838fa53e1bf3e38b9bee1
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     Opus 4.8
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-09-2-model-support-changes-in-v1-17-16|2 Model Support
-  changes in v1.17.16]]'
 - '[[Changes/Claude Code/2026-07-10-improved-code-review-findings-quality-on-claude-opus-4-8-across-all-effort-level|Improved
   /code-review findings quality on claude-opus-4-8 across all effort levels]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-4-model-support-changes-in-v1-0-70|4 Model
   Support changes in v1.0.70]]'
+- '[[Changes/Kimi Code/2026-07-10-keep-image-heavy-sessions-within-provider-request-size-limits-oversized-images-m|Keep
+  image-heavy sessions within provider request-size limits]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-4-model-support-changes-in-v1-0-70|4 Model Support changes in v1.0.70]]
+- Earlier: 2026-07-10 · Kimi Code · [[Changes/Kimi Code/2026-07-10-keep-image-heavy-sessions-within-provider-request-size-limits-oversized-images-m|Keep image-heavy sessions within provider request-size limits]]
 - Later: 2026-07-11 · Cline · [[Changes/Cline/2026-07-11-add-more-models-to-the-gcp-vertex-provider-plus-a-free-form-entry-option-in-the|Add more models to the GCP Vertex provider, plus a free-form entry option…]]
 <!-- chronolog:end -->
 

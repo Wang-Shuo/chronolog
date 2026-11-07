@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 549c0a4b5c58b1f80a6540bae3f5d16841c410253d3822447c905e482dc716c6
+machine_hash: f5de674f3e0f2e169a3cc3e7b0a3b3b79943ebfc946880571a7bf3edf11be015
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     harness…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-01-5-model-support-changes-in-v0-10-2|5 Model Support
-  changes in v0.10.2]]'
-- '[[Changes/OpenCode/2026-07-01-core-force-reasoning-mode-for-openai-compatible-reasoning-models-so-reasoning-se|Core
-  Force reasoning mode for OpenAI-compatible reasoning models so reasoning…]]'
 - '[[Changes/Cline/2026-07-02-generalize-the-model-capability-warning-so-it-applies-more-broadly|Generalize
   the model capability warning so it applies more broadly]]'
+- '[[Changes/Kimi Code/2026-07-02-when-large-images-are-compressed-tell-the-model-the-original-and-delivered-image|When
+  large images are compressed, tell the model the original and delivered image details]]'
+- '[[Changes/Kimi Code/2026-07-02-2-model-support-changes-in-kimi-code-0-22-0|2 Model
+  Support changes in Kimi Code 0.22.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-201-github-348791299-ee865ada|claude-code-2026-07-03-v2-1-201-github-348791299-ee865ada]]'
 source_type: github_releases
 theme: model-support
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-02 · Cline · [[Changes/Cline/2026-07-02-generalize-the-model-capability-warning-so-it-applies-more-broadly|Generalize the model capability warning so it applies more broadly]]
-- Later: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|GPT-5.5 Instant Mini in ChatGPT]]
+- Earlier: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-2-model-support-changes-in-kimi-code-0-22-0|2 Model Support changes in Kimi Code 0.22.0]]
+- Later: 2026-07-03 · Kimi Code · [[Changes/Kimi Code/2026-07-03-2-model-support-changes-in-kimi-code-0-22-2|2 Model Support changes in Kimi Code 0.22.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

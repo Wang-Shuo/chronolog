@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-13 · Enterprise and Administration: \U0001F
   **Frontend Web Loader Engine Configuration**: Admins can now set preferred web loader
   engine for RAG…"
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 709
+  lag_days: 1916
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d23aec406d02771dfb77f1e3fc9f1c71540309b3b560eee6b2ce252780288a48
+machine_hash: 2a971e236dc529a14cd74a18e62cc90d06e6ba96de716ae0b958a34259d53a84
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,7 @@ record:
   title: "\U0001F9F0 **Frontend Web Loader Engine Configuration**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced
-  visibility of auto-run controls configured by team admins, clarifying…]]'
+- '[[Changes/Notion/2025-03-26-level-up-your-admin-controls|Level up your admin controls]]'
 - '[[Changes/Open WebUI/2025-04-01-2-enterprise-and-administration-changes-in-v0-6-0|2
   Enterprise and Administration changes in v0.6.0]]'
 - '[[Changes/Open WebUI/2025-04-05-2-enterprise-and-administration-changes-in-v0-6-1|2
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

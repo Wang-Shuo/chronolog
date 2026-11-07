@@ -4,20 +4,20 @@ date: '2026-05-21'
 description: 'Runway · 2026-05-21 · Multimodal Input: Get the video you need from
   the video you already have. Edit a frame the way you want, and Aleph 2.0 — our upgraded…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 975
+  lag_days: 2743
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 72fd65c69c5145f0a2faa5bc5bb4354faa82e6959a96b83f92b128eb1b109549
+machine_hash: c87c4c4f3f6a7be920ed9d2c92fdc544d831bc16a3e6b495d267200fadc6a69d
 product: runway
 product_name: Runway
 record:
@@ -56,12 +56,12 @@ record:
   title: Aleph 2.0 & Edit Studio
   type: change
 related_changes:
-- '[[Changes/Runway/2026-05-13-work-with-an-ai-creative-partner-to-develop-and-produce-a-finished-video-describ|Runway
-  Agent]]'
-- '[[Changes/Ollama/2026-05-14-kimi-k2-6-with-vision-support|kimi-k2.6 (with vision
-  support)]]'
+- '[[Changes/HeyGen/2026-05-18-look-at-the-camera-lean-in-stay-serious|"Look at the
+  camera, lean in, stay serious."]]'
 - '[[Changes/Gemini/2026-05-19-gemini-omni-is-your-creative-partner-for-video-creation|Gemini
   Omni is your creative partner for video creation]]'
+- '[[Changes/HeyGen/2026-05-19-if-you-re-building-avatar-agents-localization-workflows-ai-video-tools-virtual-p|If
+  you''re building avatar agents, localization workflows, AI video tools, virtual…]]'
 source_release: '[[Releases/Runway/runway-2026-05-21-2026-05-21-aleph-2-0-edit-studio-263627e6|runway-2026-05-21-2026-05-21-aleph-2-0-edit-studio-263627e6]]'
 source_type: runway_changelog
 theme: multimodal
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-gemini-omni-is-your-creative-partner-for-video-creation|Gemini Omni is your creative partner for video creation]]
+- Earlier: 2026-05-19 · HeyGen · [[Changes/HeyGen/2026-05-19-if-you-re-building-avatar-agents-localization-workflows-ai-video-tools-virtual-p|If you're building avatar agents, localization workflows, AI video tools, virtual…]]
 - Later: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-music-5f1ccf|Music]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

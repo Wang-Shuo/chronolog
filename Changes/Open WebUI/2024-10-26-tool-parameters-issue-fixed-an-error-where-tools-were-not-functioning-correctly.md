@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-10-26 · Reliability and Performance: **\U0001F
   Tool Parameters Issue**: Fixed an error where tools were not functioning correctly
   when required…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 681
+  lag_days: 2168
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c06839524b72d79b18a1e462ca4a87caec84cb99147f37757009e1e35427f898
+machine_hash: 1237454ad252865241f2932c5c7d24cc082c3ff75ce10cfeb11e24820b17f2b8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,9 @@ record:
   title: "**\U0001F6E0️ Tool Parameters Issue**"
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-10-21-sending-follow-on-requests-to-vision-models-will-now-be-much-faster|Sending
-  follow on requests to vision models will now be much faster]]'
 - '[[Changes/Dify/2024-10-23-2-reliability-and-performance-changes-in-0-10-1|2 Reliability
   and Performance changes in 0.10.1]]'
+- '[[Changes/Notion/2024-10-24-a-few-more-improvements|A few more improvements]]'
 - '[[Changes/Open WebUI/2024-10-24-4-reliability-and-performance-changes-in-v0-3-33|4
   Reliability and Performance changes in v0.3.33]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-26-v0-3-35-github-182094418-98702ef0|open-webui-2024-10-26-v0-3-35-github-182094418-98702ef0]]'
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

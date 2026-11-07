@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-19 · Pricing Model: Changed auto mode for 
   API and Enterprise users, and on Bedrock, Vertex, Foundry and gateways, to default
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1374
+  lag_days: 2992
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 60e768bb046341019aed6a6687e7e0069e9341c6a53771e85a8b1b5f6f1d3c27
+machine_hash: cc416b25d27b4c51c85d3681af52554a45c3fe8a3bd77b069af81d753352ff16
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,8 +59,8 @@ record:
   title: Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-cline-pass-now-defaults-to-a-model-from-your-subscription-rather-than-a-free-one|Cline
-  Pass now defaults to a model from your subscription rather than a free one]]'
+- '[[Changes/Descript/2026-09-17-checkout-speaks-your-currency|Checkout speaks your
+  currency]]'
 - '[[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode
   Added the session''s cost and token usage to the Account & usage dialog…]]'
 - '[[Changes/Lovable/2026-09-18-use-firecrawl-without-a-firecrawl-account|Use Firecrawl
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

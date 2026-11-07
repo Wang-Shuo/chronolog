@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'OpenCode · 2026-03-26 · Reliability and Performance: Core Skip snapshotting
   files larger than 2MB to improve performance'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1197
+  lag_days: 2684
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a632677aa0088a2833f64ad7ea0ef1f5b5830bfc5e1a094e2eab51b8b3d35fa
+machine_hash: 77435a4947bbf7b9975fecc9ca3df5374b8b21825b7675b77273d3afa3ff3e6f
 product: opencode
 product_name: OpenCode
 record:
@@ -41,12 +41,12 @@ record:
   title: Core Skip snapshotting files larger than 2MB to improve performance
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-2-reliability-and-performance-changes-in-v2-1-84|2
-  Reliability and Performance changes in v2.1.84]]'
 - '[[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved
   scroll performance with large transcripts by replacing WASM yoga-layout…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-cli-no-longer-crashes-with-out-of-memory-errors-when-running-shell-commands-that|CLI
   no longer crashes with out-of-memory errors when running shell commands…]]'
+- '[[Changes/Notion/2026-03-26-this-month-we-have-a-champagne-problem-our-engineers-are-shipping-faster-than-ev|This
+  month, we have a champagne problem]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-26-v1-3-3-b585fa38|opencode-2026-03-26-v1-3-3-b585fa38]]'
 source_type: opencode_changelog
 theme: reliability-performance
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-cli-no-longer-crashes-with-out-of-memory-errors-when-running-shell-commands-that|CLI no longer crashes with out-of-memory errors when running shell commands…]]
+- Earlier: 2026-03-26 · Notion · [[Changes/Notion/2026-03-26-this-month-we-have-a-champagne-problem-our-engineers-are-shipping-faster-than-ev|This month, we have a champagne problem]]
 - Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-2-reliability-and-performance-changes-in-1-13-3|2 Reliability and Performance changes in 1.13.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

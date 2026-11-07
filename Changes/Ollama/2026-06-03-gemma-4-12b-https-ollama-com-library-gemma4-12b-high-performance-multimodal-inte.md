@@ -4,20 +4,20 @@ date: '2026-06-03'
 description: 'Ollama · 2026-06-03 · Multimodal Input: [Gemma 4 12B](https://ollama.com/library/gemma4:12b):
   high-performance multimodal intelligence that runs directly on…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 988
+  lag_days: 2756
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9837f8db2109db6267e7b1d3819a85501f6fb19b06ae9513b6be3596af7a94b3
+machine_hash: c00fa3394daa6f4a2bd103925b8825f24df20c3065e5e098bb7f0de787defbd0
 product: ollama
 product_name: Ollama
 record:
@@ -53,11 +53,11 @@ record:
   title: '[Gemma 4 12B](https://ollama.com/library/gemma4:12b)'
   type: change
 related_changes:
-- '[[Changes/Runway/2026-05-21-get-the-video-you-need-from-the-video-you-already-have-edit-a-frame-the-way-you|Aleph
-  2.0 & Edit Studio]]'
 - '[[Changes/ElevenLabs/2026-05-25-music-5f1ccf|Music]]'
 - "[[Changes/Open WebUI/2026-06-01-youtube-short-link-transcripts-pasting-a-youtu-be-short-link-into-a-chat-now-loa|\U0001F4FA
   YouTube short link transcripts. Pasting a \"youtu.be\" short link into a chat…]]"
+- '[[Changes/HeyGen/2026-06-02-3-multimodal-input-changes-in-june-2026-enterprise-releases|3
+  Multimodal Input changes in June 2026 Enterprise Releases]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-03-v0-30-3-github-333844544-2ef6ad44|ollama-2026-06-03-v0-30-3-github-333844544-2ef6ad44]]'
 source_type: github_releases
 theme: multimodal
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-youtube-short-link-transcripts-pasting-a-youtu-be-short-link-into-a-chat-now-loa|📺 YouTube short link transcripts. Pasting a "youtu.be" short link into a chat…]]
-- Later: 2026-06-18 · Runway · [[Changes/Runway/2026-06-18-trim-stitch-reorder-and-export-a-final-video-all-in-one-place|Studio]]
+- Earlier: 2026-06-02 · HeyGen · [[Changes/HeyGen/2026-06-02-3-multimodal-input-changes-in-june-2026-enterprise-releases|3 Multimodal Input changes in June 2026 Enterprise Releases]]
+- Later: 2026-06-08 · HeyGen · [[Changes/HeyGen/2026-06-08-upload-a-video-mp4-mov-or-webm-and-it-detects-and-removes|Upload a video (MP4, MOV, or WEBM), and it detects and removes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

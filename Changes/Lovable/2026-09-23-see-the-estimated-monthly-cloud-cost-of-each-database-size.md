@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'Lovable · 2026-09-23 · Pricing Model: Before you change your project''s
   database size, the **Manage instance** dialog now shows an [estimated monthly Cloud…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1378
+  lag_days: 2996
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 676da93377505b9e8d7db6448a4678bb0521cfe002e451126c44dc70de9a26cc
+machine_hash: 89031aee0b06d9d816539f68b710cdc92c3fe0a975b2974c0ce7381bddbfed76
 product: lovable
 product_name: Lovable
 record:
@@ -93,13 +93,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For the next 10 days, we're including usage credits so teams can try Rollouts…]]
-- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-8-pricing-model-changes-in-v2026-9-6|8 Pricing Model changes in v2026.9.6]]
+- Later: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-github-copilot-ai-cost-dashboard-in-insights-web-microsoft-365-copilot|GitHub Copilot AI cost dashboard in Insights Web (Microsoft 365 Copilot)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

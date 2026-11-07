@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-22 · Apps and Integrations: 2 changes in v
   — Improved the error when a hooks module is nested too deep to load: it now names
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1309
+  lag_days: 2869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b35a92a2b0d379d97e5b9be6bda82dac5447ad6c60ba061fe28b44e7ea76a21c
+machine_hash: 57566377d4b644e94d19874317ef77a9319ef0b73bdf6738678b5d125215ffbd
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.309
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-20-2-apps-and-integrations-changes-in-v1-29-0|2 Apps
-  and Integrations changes in v1.29.0]]'
 - '[[Changes/Claude Code/2026-10-21-3-apps-and-integrations-changes-in-v2-1-307|3
   Apps and Integrations changes in v2.1.307]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-21-2-apps-and-integrations-changes-in-v1-0-102|2
   Apps and Integrations changes in v1.0.102]]'
+- '[[Changes/Kimi Code/2026-10-21-3-apps-and-integrations-changes-in-kimi-code-2-3-0|3
+  Apps and Integrations changes in Kimi Code 2.3.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,14 +91,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.309
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-21-2-apps-and-integrations-changes-in-v1-0-102|2 Apps and Integrations changes in v1.0.102]]
+- Earlier: 2026-10-21 · Kimi Code · [[Changes/Kimi Code/2026-10-21-3-apps-and-integrations-changes-in-kimi-code-2-3-0|3 Apps and Integrations changes in Kimi Code 2.3.0]]
 - Later: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-reuse-cached-local-mcp-tool-snapshots-across-registered-git-worktrees-in-one-rep|Reuse cached local MCP tool snapshots across registered Git worktrees in one repository]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

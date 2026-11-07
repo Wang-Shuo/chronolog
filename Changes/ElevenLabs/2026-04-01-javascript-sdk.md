@@ -4,20 +4,20 @@ date: '2026-04-01'
 description: 'ElevenLabs · 2026-04-01 · Multimodal Input: [v2.41.0](https://github.com/elevenlabs/elevenlabs-js/releases/tag/v2.41.0)
   - Added support for the…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 925
+  lag_days: 2693
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4d4f21024d56bde08b89832c6f2d352d40c709d7cea1e10c1f93117eaf58a35c
+machine_hash: 4b3af580cc24d1a5545f673c00fcddfb65a7f4bdf04262aa11d449e1d1defd57
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -51,10 +51,12 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-23-packages|Packages]]'
-- '[[Changes/ElevenLabs/2026-03-23-javascript-sdk|JavaScript SDK]]'
 - "[[Changes/Open WebUI/2026-03-25-tool-binary-response-handling-tool-servers-can-now-return-binary-data-such-as-im|\U0001F3EE
   Tool binary response handling. Tool servers can now return binary data such…]]"
+- '[[Changes/HeyGen/2026-03-31-you-can-now-enhance-any-video-to-4k-directly-inside-heygen|Enhance
+  any video to 4K directly inside HeyGen]]'
+- '[[Changes/HeyGen/2026-03-31-enhance-any-video-from-any-resolution-up-to-4k|Enhance
+  any video from any resolution up to 4K]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-01-2026-04-01-d4336c3f|elevenlabs-2026-04-01-2026-04-01-d4336c3f]]'
 source_type: elevenlabs_changelog
 theme: multimodal
@@ -95,14 +97,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-tool-binary-response-handling-tool-servers-can-now-return-binary-data-such-as-im|🏮 Tool binary response handling. Tool servers can now return binary data such…]]
-- Later: 2026-04-07 · ElevenLabs · [[Changes/ElevenLabs/2026-04-07-packages|Packages]]
+- Earlier: 2026-03-31 · HeyGen · [[Changes/HeyGen/2026-03-31-enhance-any-video-from-any-resolution-up-to-4k|Enhance any video from any resolution up to 4K]]
+- Later: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-avatar-shot-lets-you-place-your-digital-twin-in-any-cinematic-scene-powered-by-s|Avatar Shot lets you place your Digital Twin in any cinematic scene]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

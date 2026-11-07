@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 681d99ac74e230bbebdb7f6ec8c16aaa4b41ef029db9d6905ce9648535c59672
+machine_hash: 4d4c0c2f2fb5842db83024ab3a1ddbad7fef4555fac78e91df8363a5796f1daf
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -151,7 +151,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-12 · OpenCode · [[Changes/OpenCode/2026-08-12-3-model-support-changes-in-v1-18-17|3 Model Support changes in v1.18.17]]
-- Later: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-image-editing-with-openai-models-for-your-app-s-ai-features|Image editing with OpenAI models for your app's AI features]]
+- Later: 2026-08-13 · Kimi Code · [[Changes/Kimi Code/2026-08-13-set-kimi-code-experimental-secondary-model-1-or-the-master-flag-kimi-code-experi|Set KIMI_CODE_EXPERIMENTAL_SECONDARY_MODEL=1…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

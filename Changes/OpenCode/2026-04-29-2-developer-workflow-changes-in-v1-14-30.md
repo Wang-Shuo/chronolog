@@ -4,19 +4,20 @@ date: '2026-04-29'
 description: 'OpenCode · 2026-04-29 · Developer Workflow: 2 changes in v1.14.30 —
   Terminal Added a quick toggle for paste summaries.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1138
+  lag_days: 2787
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 156af36418c8b1377c391b165084ae686c7855c3264eee03ed6f739d2fc02d14
+machine_hash: fbee6daca2251f5e6625f68b011b3e00972005909506b597f92f28a94ae37e3a
 product: opencode
 product_name: OpenCode
 record:
@@ -89,7 +90,7 @@ Source: https://opencode.ai/changelog/v1.14.30
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

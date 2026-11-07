@@ -4,20 +4,20 @@ date: '2026-10-15'
 description: 'Codex CLI · 2026-10-15 · Interface Experience: 8 changes in 0.163.0
   — #52184 Preserve side conversations across thread navigation @etraut-openai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1375
+  lag_days: 2741
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a6e14fc71bca594247cc34445a7549217ac2bb9dc6c09589aa1aa82a2623f55
+machine_hash: ab7f66184627ba5fbb41766051e8605b1d00bad5da74f546a3b57c963fc20598
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -124,7 +124,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

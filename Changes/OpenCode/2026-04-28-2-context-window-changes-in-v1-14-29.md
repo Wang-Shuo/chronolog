@@ -4,20 +4,20 @@ date: '2026-04-28'
 description: 'OpenCode · 2026-04-28 · Context Window: 2 changes in v1.14.29 — Terminal
   Zed context polling stays responsive.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1090
+  lag_days: 2414
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6e96d6cd25bdfab57fcfaaa2bcaa990af2b87fa21347172062605e6196347a61
+machine_hash: d869f935a4068448cce23f6e91d778a07e0afe07ee618a941d10d79fd522f7bb
 product: opencode
 product_name: OpenCode
 record:
@@ -92,7 +92,7 @@ Source: https://opencode.ai/changelog/v1.14.29
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

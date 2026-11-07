@@ -4,20 +4,20 @@ date: '2026-09-19'
 description: 'Ollama · 2026-09-19 · Mobile and Desktop: Ollama''s macOS app will now
   no longer reopen windows you''ve closed when activating it'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1285
+  lag_days: 2869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db3bc6d1c8b1dd57087978b6e9725a31bee2e90c54ed545f4048da445b480926
+machine_hash: 0dccd9311d2a8797560028865aaf32bd9b4ac2d88b4599cc572b9156e1d67a4e
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
     it
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-2-mobile-and-desktop-changes-in-rust-v0-155-0|2
-  Mobile and Desktop changes in rust-v0.155.0]]'
-- '[[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude
-  Code on the web Changed the admin Claude Code setting labeled…]]'
+- '[[Changes/Kimi Code/2026-09-18-rename-the-kimi-install-app-subcommand-to-kimi-install-desktop-the-old-name-keep|Rename
+  the kimi install-app subcommand to kimi install-desktop]]'
+- '[[Changes/Qoder/2026-09-18-sites-choose-a-template-and-build-a-website-through-conversation-preview-publish|Sites:
+  Choose a template and build a website through conversation]]'
 - '[[Changes/Google Antigravity/2026-09-19-file-and-network-sandboxing-on-windows-are-now-supported|File
   and network sandboxing on Windows are now supported]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-19-v0-34-3-github-391835331-b8a80fbd|ollama-2026-09-19-v0-34-3-github-391835331-b8a80fbd]]'
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,19 @@ description: 'OpenClaw · 2026-09-01 · Editor Experience: 5 changes in v2026.8.
   Beam transcript shares now use shorter readable links while keeping existing catalog
   links…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1267
+  lag_days: 2851
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4b8cb1433acb326b42fad151bfc963d73e4dca5f0f686cccb8ba16e657a495db
+machine_hash: 66b0b8fd8127fbc564edd1f1f3414b16e906e4f272a8836e54b6d19c2e2de939
 product: openclaw
 product_name: OpenClaw
 record:
@@ -134,7 +133,7 @@ Source: https://docs.openclaw.ai/releases/2026.8.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

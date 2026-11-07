@@ -4,20 +4,20 @@ date: '2026-03-12'
 description: 'OpenCode · 2026-03-12 · Presentation Creation: Core Adjust skill presentation
   to reduce token usage'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 638
+  lag_days: 1707
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a68f45107a9e3844db7510b0c7da4c68bfd1aa0b19b51c95e8f04f0d3a225b0
+machine_hash: 40f11b1c8746f4a1cfc50b22ff667d3c9b3d910b281f51be3efaf9f629c45f15
 product: opencode
 product_name: OpenCode
 record:
@@ -41,12 +41,12 @@ record:
   title: Core Adjust skill presentation to reduce token usage
   type: change
 related_changes:
-- "[[Changes/Gamma/2025-08-29-automatically-send-your-gamma-to-google-drive-trigger-notifications-in-slack-whe|\U0001F680
-  Automatically send your Gamma to Google Drive, trigger notifications in Slack…]]"
-- '[[Changes/Gamma/2025-09-16-creating-presentations-used-to-mean-staring-at-blank-pages-fighting-with-layouts|Creating
-  presentations used to mean staring at blank pages, fighting with layouts…]]'
-- '[[Changes/Manus/2025-12-04-google-s-nano-banana-pro-is-now-integrated-into-manus-slides-look-for-the-icon-t|Nano
-  Banana Pro Now in Slides]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-generate-powerpoint-grounded-on-a-copilot-page-web-microsoft-loop|Generate
+  PowerPoint grounded on a Copilot page Web (Microsoft Loop)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-steer-presentation-length-tone-style-and-images-with-copilot-web-windows-mac-pow|Steer
+  presentation length, tone, style, and images with Copilot Web, Windows…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-use-copilot-to-get-a-detailed-and-contextual-explanation-web-windows-mac-powerpo|Use
+  Copilot to get a detailed and contextual explanation Web, Windows, Mac (PowerPoint)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-12-v1-2-25-4fca2d35|opencode-2026-03-12-v1-2-25-4fca2d35]]'
 source_type: opencode_changelog
 theme: presentation-creation
@@ -87,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Presentation Creation
 
-- Earlier: 2025-12-04 · Manus · [[Changes/Manus/2025-12-04-google-s-nano-banana-pro-is-now-integrated-into-manus-slides-look-for-the-icon-t|Nano Banana Pro Now in Slides]]
-- Later: 2026-05-15 · Gamma · [[Changes/Gamma/2026-05-15-your-fonts-travel-with-your-cards-now|Your fonts travel with your cards now]]
+- Earlier: 2026-02-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-02-24-use-copilot-to-get-a-detailed-and-contextual-explanation-web-windows-mac-powerpo|Use Copilot to get a detailed and contextual explanation Web, Windows, Mac (PowerPoint)]]
+- Later: 2026-03-26 · Notion · [[Changes/Notion/2026-03-26-finally-a-proper-presentation-mode|Finally, a proper presentation mode!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

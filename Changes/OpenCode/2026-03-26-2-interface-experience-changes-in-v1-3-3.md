@@ -5,20 +5,20 @@ description: 'OpenCode · 2026-03-26 · Interface Experience: 2 changes in v1.3.
   Desktop Move message navigation from cmd+arrow to cmd+opt+[ / cmd+opt+] to preserve
   native…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1172
+  lag_days: 2538
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5e2287c8f3e6cd60c764eea751be4da375d46a929f2b235a31c3da5b441ea14
+machine_hash: 1891002f9a4eb2710ba0d876b8dcfafd60af90ae94226270919f4d9f904d4dd7
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Interface Experience changes in v1.3.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved
-  @-mention file autocomplete performance on large repositories]]'
-- '[[Changes/Codex CLI/2026-03-26-3-interface-experience-changes-in-rust-v0-117-0|3
-  Interface Experience changes in rust-v0.117.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3
-  Interface Experience changes in v1.0.12]]'
+- '[[Changes/Notion/2026-03-26-so-let-s-start-with-the-fundamentals-like-a-new-dashboard-view-for-your-database|So
+  let’s start with the fundamentals, like a new dashboard view for your databases…]]'
+- '[[Changes/Notion/2026-03-26-a-new-sidebar-built-for-focus|A new sidebar, built
+  for focus]]'
+- '[[Changes/Notion/2026-03-26-archive-pages-for-better-search-ai-results|Archive
+  pages for better search & AI results]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-26-v1-3-3-b585fa38|opencode-2026-03-26-v1-3-3-b585fa38]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -89,14 +89,14 @@ Source: https://opencode.ai/changelog/v1.3.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3 Interface Experience changes in v1.0.12]]
+- Earlier: 2026-03-26 · Notion · [[Changes/Notion/2026-03-26-archive-pages-for-better-search-ai-results|Archive pages for better search & AI results]]
 - Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed /skills menu to sort alphabetically for easier scanning]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-12-21 · Search and Browsing: 3 changes in v0.6
   — \U0001F5C4️ PostgreSQL null byte insertion failures when attaching web pages or
   processing…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1004
+  lag_days: 2033
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4db5752d699b9b7b4457fd046a4910fb0cc8b3ac7449c850b3c3aad7979cf73a
+machine_hash: 0b5a7bfc4acd36e54858170a71e613d49300e2fae7c4ce0ea5c54df1c2b4f228
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,12 +55,12 @@ record:
   title: 3 Search and Browsing changes in v0.6.42
   type: change
 related_changes:
-- '[[Changes/Replit/2025-11-26-better-search-rankings-for-custom-domains|Better search
-  rankings for Custom Domains]]'
 - "[[Changes/Open WebUI/2025-12-02-web-search-domain-filtering-was-corrected-to-properly-block-results-when-any-res|\U0001F6E1️
   Web search domain filtering was corrected to properly block results when any…]]"
 - '[[Changes/Gamma/2025-12-17-want-your-site-to-show-up-in-search-results-now-you-can-enable-indexing-to-help|Want
   your site to show up in search results?]]'
+- "[[Changes/HeyGen/2025-12-19-heygen-moves-fast-until-now-keeping-track-of-those-changes-could-be-a-challenge|We're
+  Starting a Changelog \U0001F4E3]]"
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'
 source_type: github_releases
 theme: search-browsing
@@ -111,14 +111,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.42
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-12-17 · Gamma · [[Changes/Gamma/2025-12-17-want-your-site-to-show-up-in-search-results-now-you-can-enable-indexing-to-help|Want your site to show up in search results?]]
+- Earlier: 2025-12-19 · HeyGen · [[Changes/HeyGen/2025-12-19-heygen-moves-fast-until-now-keeping-track-of-those-changes-could-be-a-challenge|We're Starting a Changelog 📣]]
 - Later: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-4-search-and-browsing-changes-in-rust-v0-79-0|4 Search and Browsing changes in rust-v0.79.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

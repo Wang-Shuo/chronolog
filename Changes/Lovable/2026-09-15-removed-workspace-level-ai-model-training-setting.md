@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9dead5f7c81daac133f979b196fa601f7d7f0c0c1f5c088eb6c59fa9b09d46ba
+machine_hash: 531ac704d933d40f8d49a02c7f0066903bc3dd892f2d084d38e295095862c5aa
 product: lovable
 product_name: Lovable
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed /bug and /feedback reports to include only model-behavior params…]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-13-model-support-changes-in-v1-0-85|13 Model Support changes in v1.0.85]]
+- Later: 2026-09-15 · Notion · [[Changes/Notion/2026-09-15-browse-every-model-and-see-which-is-best-for-the-job|Browse every model, and see which is best for the job]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

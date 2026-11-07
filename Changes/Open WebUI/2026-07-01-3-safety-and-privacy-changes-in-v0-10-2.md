@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-07-01 · Safety and Privacy: 3 changes in v0.10
   \U0001F6E1️ **Security Advisory**: This release includes security and access-control
   fixes. We…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1172
+  lag_days: 2164
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ca6cbe28767f3d8d4e8477062a32984f3df2f7ad9eb96bd7cdf136bda33b2e6
+machine_hash: 4c236e0d44992bb813ea905f5e9a1d02f8bca0d32de4bbae36b4b894f402d3b4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,12 +55,12 @@ record:
   title: 3 Safety and Privacy changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-6-safety-and-privacy-changes-in-v2026-6-11|6 Safety
-  and Privacy changes in v2026.6.11]]'
 - '[[Changes/OpenCode/2026-06-30-sdk-add-session-permission-request-create-and-fetch-endpoints|SDK
   Add session permission request create and fetch endpoints]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4
   Safety and Privacy changes in v1.0.68]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-edit-capability-for-selecting-permission-reading-option-for-existing-servicenow|Edit
+  capability for selecting permission reading option for existing ServiceNow…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
 source_type: github_releases
 theme: safety-privacy
@@ -105,14 +105,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4 Safety and Privacy changes in v1.0.68]]
+- Earlier: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-edit-capability-for-selecting-permission-reading-option-for-existing-servicenow|Edit capability for selecting permission reading option for existing ServiceNow…]]
 - Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|Changed the "default" permission mode to "Manual" across the CLI, --help, VS Code…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

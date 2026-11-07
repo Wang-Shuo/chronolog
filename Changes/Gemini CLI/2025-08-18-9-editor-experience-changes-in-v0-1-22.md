@@ -5,20 +5,19 @@ description: 'Gemini CLI · 2025-08-18 · Editor Experience: 9 changes in Releas
   — [ide-mode] Suggest the extension name in the installation messages by @chrstnb
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 888
+  lag_days: 2472
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd84da90eb604bec3a7165d0882e1392f27d267043fa375a7015963823ce6976
+machine_hash: 4391eb0694d1dfdedec3126a61080e13aa70dd9b15ab730ab35085ebc31e3168
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -62,8 +61,8 @@ record:
   title: 9 Editor Experience changes in v0.1.22
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-13-ide-mode-update-installation-logic-and-nudge-by-chrstnb-in-https-github-com-goog|ide-mode
-  Update installation logic and nudge]]'
+- '[[Changes/Descript/2025-08-14-your-generated-clip-replaces-the-original-image-in-the-scene-editor-and-appears|Your
+  generated clip replaces the original image in the scene editor and appears…]]'
 - '[[Changes/Gemini CLI/2025-08-14-35-editor-experience-changes-in-v0-1-21|35 Editor
   Experience changes in v0.1.21]]'
 - '[[Changes/Cline/2025-08-16-adjust-position-of-focus-chain-edit-button-by-canvrno-in-https-github-com-cline|Adjust
@@ -128,7 +127,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.22
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

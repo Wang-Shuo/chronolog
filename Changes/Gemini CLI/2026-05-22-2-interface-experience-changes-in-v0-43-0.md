@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-05-22 · Interface Experience: 2 changes in Rel
   v0.43.0 — refactor(cli): migrate core tools to native ToolDisplay property and fix
   UI…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1229
+  lag_days: 2595
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31c70ace7deb5fbc57c4ad4bccb5a6505231c48e5885acf7b575b93fdaaf570f
+machine_hash: edf0891b035d0412cafb8b471da37b6692f150738690a489db6557b3a914e2b4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

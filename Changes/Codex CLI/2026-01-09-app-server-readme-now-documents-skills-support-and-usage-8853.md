@@ -4,20 +4,20 @@ date: '2026-01-09'
 description: 'Codex CLI · 2026-01-09 · Files and Data: App-server README now documents
   skills support and usage. (#8853)'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 960
+  lag_days: 2305
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6811d24249ddf1b1f8ccd3df2fe70b2a72f643a98e1b0806532de7b5c48ab659
+machine_hash: e87d39c0d1f487b4779c132e79a31029fedd4b7e4ccef002680a5ddd082d713e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: App-server README now documents skills support and usage
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-12-21-6-files-and-data-changes-in-v0-6-42|6 Files and
-  Data changes in v0.6.42]]'
+- '[[Changes/Z.ai API/2025-12-22-the-update-brings-open-source-sota-performance-on-major-coding-and-reasoning-ben|The
+  update brings open-source SOTA performance on major coding and reasoning…]]'
 - '[[Changes/Dify/2025-12-25-add-file-upload-enabled-check-and-new-i18n-message-by-halogen22-in-https-github|Add
   file upload enabled check and new i18n message]]'
 - '[[Changes/Cline/2026-01-09-revert-8341-due-to-regressions-in-diff-view-document-truncation-see-8423-8429|Revert
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

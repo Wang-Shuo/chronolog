@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-03-05 · Context Window: 3 changes in v2.1.69 
   `InstructionsLoaded` hook event that fires when CLAUDE.md or `.claude/rules/*.md`
   files…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1036
+  lag_days: 2360
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2707ecedebcf952d96cfc966b867143a5da174e310d84b118ffe166fd5138db0
+machine_hash: 7f688d6e8d31cd7f2cfb33f41db601e7d3e0ee99d3c010f4984f7677c1564258
 product: claude-code
 product_name: Claude Code
 record:
@@ -107,7 +107,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-10-21'
 description: 'ChatGPT · 2026-10-21 · Pricing Model: You can now use MoMo to pay for
   ChatGPT Go, Plus, and Pro subscriptions purchased on chatgpt.com in Vietnam.Subscriptions…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1406
+  lag_days: 3024
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 36244482636b7a58b8e9585e53e027c8ef6e2bbdb1945048687bffd29a86ede1
+machine_hash: 17655999b8c471fb7f224e56a2e34be5db32a221f7e87d6cb32824d7e87506ef
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: MoMo payments in Vietnam
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-16-review-publish-requests-and-findings-in-the-action-center|Review
-  publish requests and findings in the Action center]]'
 - '[[Changes/v0/2026-10-16-members-with-a-scheduled-ending-or-cancelled-premium-subscription-keep-their-rem|Members
   with a scheduled-ending or cancelled Premium subscription keep…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete
   usage reporting no longer shows partial status or phantom unattributed…]]'
+- '[[Changes/Notion/2026-10-19-your-credits-go-about-10-further|Your credits go about
+  10× further]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-21-momo-payments-in-vietnam-cb7c2ee9|chatgpt-2026-10-21-momo-payments-in-vietnam-cb7c2ee9]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete usage reporting no longer shows partial status or phantom unattributed…]]
-- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2 Pricing Model changes in ElevenLabs updates — 2026-10-26]]
+- Earlier: 2026-10-19 · Notion · [[Changes/Notion/2026-10-19-your-credits-go-about-10-further|Your credits go about 10× further]]
+- Later: 2026-10-21 · Synthesia · [[Changes/Synthesia/2026-10-21-set-a-monthly-credit-limit-for-every-user-on-your-enterprise-plan-so-spend-stays|Set per-user limits with Credit controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

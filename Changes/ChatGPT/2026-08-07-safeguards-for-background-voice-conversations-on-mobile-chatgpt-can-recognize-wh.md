@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-08-07 · Voice and Audio: Safeguards for backgroun
   conversations. On mobile, ChatGPT can recognize when a background Voice conversation
   no…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1124
+  lag_days: 2951
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fba7912e5f4de858f16ede30955f3def5da5e212966d5ff2b11d0612cc3a56e1
+machine_hash: 2561fe2257554ec472124f093ced6b08b0da82af7713a041ffa1399851969d04
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,8 @@ record:
   title: Safeguards for background Voice conversations
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-03-voices-78649b|Voices]]'
-- '[[Changes/ElevenLabs/2026-08-03-text-to-speech|Text to Speech]]'
+- '[[Changes/Descript/2026-08-05-and-there-s-even-more|And there''s even more]]'
+- '[[Changes/Descript/2026-08-05-smoother-jump-cuts|Smoother jump cuts]]'
 - '[[Changes/ChatGPT/2026-08-07-start-voice-conversations-faster-improved-connection-times-make-it-quicker-to-be|Start
   Voice conversations faster]]'
 scope: iOS and Android
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-03 · ElevenLabs · [[Changes/ElevenLabs/2026-08-03-text-to-speech|Text to Speech]]
+- Earlier: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-smoother-jump-cuts|Smoother jump cuts]]
 - Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-gpt-live-in-chatgpt-voice-now-supports-file-uploads-and-projects-you-can-now-upl|Files and Projects in ChatGPT Voice]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-01-12'
 description: 'OpenCode · 2026-01-12 · Pricing Model: Terminal Refactor event streaming
   in TUI to use SDK instead of manual RPC subscription'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1124
+  lag_days: 2742
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d4e2d077565ffacbdf68db54d4d55ee980130ddefdbdedf5c51a59ee235b74cd
+machine_hash: 6bc55af2580332d53e75208e69a2e9177c1410bcb37554c83bdf3a1080370586
 product: opencode
 product_name: OpenCode
 record:
@@ -53,10 +53,10 @@ record:
     subscription
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-3-pricing-model-changes-in-1-11-2|3 Pricing Model changes
-  in 1.11.2]]'
 - '[[Changes/Replit/2025-12-26-gift-cards|Gift cards]]'
 - '[[Changes/Replit/2025-12-26-credit-packs-holiday-sale|Credit packs holiday sale]]'
+- '[[Changes/Descript/2026-01-06-better-ai-credit-efficiency-and-reasoning|Better
+  AI-credit efficiency and reasoning]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-12-v1-1-14-f21e2f20|opencode-2026-01-12-v1-1-14-f21e2f20]]'
 source_type: opencode_changelog
 theme: pricing-model
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-12-26 · Replit · [[Changes/Replit/2025-12-26-credit-packs-holiday-sale|Credit packs holiday sale]]
-- Later: 2026-01-14 · v0 · [[Changes/v0/2026-01-14-added-scope-selector-in-the-buy-credits-dialog|Added scope selector in the buy credits dialog]]
+- Earlier: 2026-01-06 · Descript · [[Changes/Descript/2026-01-06-better-ai-credit-efficiency-and-reasoning|Better AI-credit efficiency and reasoning]]
+- Later: 2026-01-13 · HeyGen · [[Changes/HeyGen/2026-01-13-avatar-4-default|Avatar 4 (default)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: 'Aider 路 2023-10-20 路 Developer Workflow: 3 changes in v0.15.0 鈥
   support for `.aiderignore` file, which instructs aider to ignore parts of the git
   repo.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 216
+  lag_days: 1865
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7753c7aea2accbf32725609b253b7296be11286181d47a4d499d1f2892b3ebb2
+machine_hash: d6dc4329412a4cd7380b4c584184b244853f9cd39d6d2c7d2edc8e7293a375e7
 product: aider
 product_name: Aider
 record:
@@ -94,7 +95,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.15.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 路 Cursor 路 [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 路 Descript 路 [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

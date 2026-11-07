@@ -5,20 +5,20 @@ description: 'Runway · 2026-09-17 · Video Generation: Runway is now available 
   plugin in Grok Bot. Sign in with your Runway account to generate images and video
   directly…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 973
+  lag_days: 2157
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d0dafc0c0a847aa4df2ff0649eadd5cca7032108884266ef46add7acce66dcb7
+machine_hash: 901f5c3f8dfb192b713d31d949b976c65761c2b96c85046267c182ac63010c73
 product: runway
 product_name: Runway
 record:
@@ -58,10 +58,10 @@ record:
   title: Runway MCP for Grok Bot
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-13-xai-s-grok-imagine-1-5-is-now-available-in-runway-mcp-as-grok-imagine-1-5-suppor|Grok
-  Imagine 1.5 Video]]'
 - '[[Changes/Runway/2026-08-24-wan-3-0-is-now-available-in-runway-in-tool-mode-and-workflows-generate-near-stat|Wan
   3.0]]'
+- '[[Changes/Synthesia/2026-09-03-reassign-create-and-rename-speakers-in-a-dubbed-video-with-one-click-available-o|Adjust
+  speaker attribution for dubbed videos]]'
 - '[[Changes/Runway/2026-09-08-runway-now-runs-in-a-panel-inside-adobe-premiere-pro-and-after-effects-generate|Introducing
   Runway Plugins for Adobe]]'
 source_release: '[[Releases/Runway/runway-2026-09-17-2026-09-17-runway-mcp-for-grok-bot-c4458f21|runway-2026-09-17-2026-09-17-runway-mcp-for-grok-bot-c4458f21]]'
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

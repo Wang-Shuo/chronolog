@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-05-08 · Multimodal Input: WSL2: image paste f
   Windows clipboard now works via a PowerShell fallback when xclip/wl-paste cannot
   read image…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 962
+  lag_days: 2730
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc679b2195b0ce78e9b5b0954be48dda9bb74a71b7c77acc004008dc269c40cb
+machine_hash: 035ae07b475c22776edca6db925142bbd2e797a6ca25be58421dc2bc2b5b5b41
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,10 @@ record:
   title: 'WSL2: image paste from Windows clipboard now works via a PowerShell fallback…'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-01-music|Music]]'
-- '[[Changes/ElevenLabs/2026-04-07-packages|Packages]]'
+- '[[Changes/HeyGen/2026-04-21-2-multimodal-input-changes-in-introducing-instant-highlights-v2|2
+  Multimodal Input changes in Introducing Instant Highlights v2]]'
+- '[[Changes/HeyGen/2026-04-21-we-rebuilt-instant-highlights-from-the-ground-up-upload-any-long-form-video-incl|We
+  rebuilt Instant Highlights from the ground up]]'
 - "[[Changes/Open WebUI/2026-04-21-persistent-chat-payload-efficiency-persisted-chats-now-use-server-side-history-l|\U0001F680
   Persistent chat payload efficiency. Persisted chats now use server-side…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
@@ -81,13 +83,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-persistent-chat-payload-efficiency-persisted-chats-now-use-server-side-history-l|🚀 Persistent chat payload efficiency. Persisted chats now use server-side…]]
-- Later: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-llama3-2-vision-is-not-yet-supported|llama3.2-vision is not yet supported]]
+- Later: 2026-05-13 · HeyGen · [[Changes/HeyGen/2026-05-13-heygen-is-now-natively-integrated-with-openai-codex-bringing-a-complete-video-cr|HeyGen is now natively integrated with OpenAI Codex, bringing a complete video…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

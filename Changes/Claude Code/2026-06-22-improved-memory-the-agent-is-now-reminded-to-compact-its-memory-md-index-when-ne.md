@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c0fbcc16874dd97ca54505fc336de9b8de2d704a0df04aef82375f2d2058d6e4
+machine_hash: 11117ebf1071e6b556391c5d9b532f444e359281d80f65603a2812ae80be255c
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-06-18 · Cursor · [[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou|Delete memory files in the UI, or prompt your automation to delete outdated memories…]]
-- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-5-memory-and-personalization-changes-in-v0-10-0|5 Memory and Personalization changes in v0.10.0]]
+- Later: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-read-large-text-files-in-bounded-memory-and-read-tail-lines-without-scanning-who|Read large text files in bounded memory and read tail lines without scanning whole files]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

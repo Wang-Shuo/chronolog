@@ -5,20 +5,20 @@ description: 'ElevenLabs · 2026-03-23 · Reliability and Performance: The first
   candidate for v1.0.0 of the ElevenAgents client SDKs is now available. This is a
   major…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1194
+  lag_days: 2681
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 18b1c5f8c03b4fbe9cdac4ea64d78f0084167fe102f4fcf7a9de468e5f251d74
+machine_hash: ca7dd87a95d5b7463f8852a2979dbce6d005e22d04a8df93d24326648284cef4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -147,13 +147,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-providers-models-xai-responses-api-improved-xai-reasoning-models-performance-in|Providers & Models xAI Responses API]]
-- Later: 2026-03-24 · OpenCode · [[Changes/OpenCode/2026-03-24-2-reliability-and-performance-changes-in-v1-3-2-1|2 Reliability and Performance changes in v1.3.2 + 1]]
+- Later: 2026-03-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-24-summarize-and-explain-actions-in-pdf-reader-web-microsoft-365-copilot-chat|Summarize and Explain actions in PDF reader Web (Microsoft 365 Copilot Chat)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

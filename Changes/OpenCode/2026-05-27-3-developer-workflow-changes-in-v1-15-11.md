@@ -4,19 +4,20 @@ date: '2026-05-27'
 description: 'OpenCode · 2026-05-27 · Developer Workflow: 3 changes in v1.15.11 —
   Terminal Made the prompt resize with terminal width and added prompt size config.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1166
+  lag_days: 2815
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4662d1956edd616f9efab2c8ffa39db25e04ce059c52a9cffb43ab6ca03547b5
+machine_hash: 15ca44a147ca8dca6b942acdef8a5b505e594916681ed521dbdc018bab1c4d61
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +45,12 @@ record:
   title: 3 Developer Workflow changes in v1.15.11
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer
-  Workflow changes in v2.1.152]]'
 - '[[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added
   /reload-skills command to re-scan skill directories without restarting the session]]'
 - '[[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core):
   expose RAG snippets to local log file for debugging]]'
+- '[[Changes/Kimi Code/2026-05-27-3-developer-workflow-changes-in-kimi-code-0-4-0|3
+  Developer Workflow changes in Kimi Code 0.4.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-27-v1-15-11-11e93b8c|opencode-2026-05-27-v1-15-11-11e93b8c]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -89,14 +90,14 @@ Source: https://opencode.ai/changelog/v1.15.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core): expose RAG snippets to local log file for debugging]]
+- Earlier: 2026-05-27 · Kimi Code · [[Changes/Kimi Code/2026-05-27-3-developer-workflow-changes-in-kimi-code-0-4-0|3 Developer Workflow changes in Kimi Code 0.4.0]]
 - Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-simplify-now-runs-a-cleanup-only-review-reuse-simplification-efficiency-altitude|/simplify now runs a cleanup-only review…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

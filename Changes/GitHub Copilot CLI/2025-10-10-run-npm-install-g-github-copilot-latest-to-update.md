@@ -4,20 +4,19 @@ date: '2025-10-10'
 description: 'GitHub Copilot CLI · 2025-10-10 · Editor Experience: Run `npm install
   -g @github/copilot@latest` to update!'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 941
+  lag_days: 2525
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb323c44906ed9a94c6efac1b76d213ba05ef7a207b366edb2f81447716d7ca8
+machine_hash: f2c63a12860babe4627733f40f7f49c793ef0c41a238a8d1d1ac5f96031e868a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +42,10 @@ record:
   title: Run `npm install -g @github/copilot@latest` to update!
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-10-07-tab-characters-are-now-preserved-when-pasting-code-or-formatted-text-into-the-ch|⌨️
-  Tab characters are now preserved when pasting code or formatted text…]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-08-2-editor-experience-changes-in-v0-0-337|2
   Editor Experience changes in v0.0.337]]'
+- '[[Changes/Descript/2025-10-09-cancel-and-restart-buttons-added-to-editor-and-screen-recorder|Cancel
+  and restart buttons added to Editor and Screen recorder]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-09-2-editor-experience-changes-in-v0-0-338|2
   Editor Experience changes in v0.0.338]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-10-v0-0-339-github-253741849-b9e06a2b|github-copilot-cli-2025-10-10-v0-0-339-github-253741849-b9e06a2b]]'
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

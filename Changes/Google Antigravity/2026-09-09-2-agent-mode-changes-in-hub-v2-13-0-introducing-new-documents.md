@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c30ecd0bcdd872864afbcca84cdee5ed9a4f86953c4ec038cdc3f4fe7c4d7ce2
+machine_hash: 0ce907f938b935bc4d0a24f791917036a131c28ef405399d0a582d1b80c539bb
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -94,7 +94,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.13.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-agent-mode-changes-in-rust-v0-154-0|6 Agent Mode changes in rust-v0.154.0]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-improved-auto-mode-denials-the-message-claude-receives-now-names-the-rule-that-b|Improved auto mode denials]]
+- Later: 2026-09-09 · Kimi Code · [[Changes/Kimi Code/2026-09-09-2-agent-mode-changes-in-kimi-code-0-42-0|2 Agent Mode changes in Kimi Code 0.42.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f6fe99df3f8f130f7da51ec4dde0ed88717f4812fec32a2084472137b295d918
+machine_hash: 75014b59735756edd052eec09459427cc2d9b904a764522396b58f9a2ae51e4d
 product: ollama
 product_name: Ollama
 record:
@@ -44,8 +44,8 @@ record:
   title: A new `ollama launch` command to use Ollama's models with Claude Code, Codex…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling
-  out age prediction]]'
+- '[[Changes/Notion/2026-01-20-first-round-of-2026-updates-is-in-this-release-helps-notion-fit-into-your-world|First
+  round of 2026 updates is in!]]'
 - '[[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model
   Support changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-6-model-support-changes-in-v0-25-0|6 Model Support

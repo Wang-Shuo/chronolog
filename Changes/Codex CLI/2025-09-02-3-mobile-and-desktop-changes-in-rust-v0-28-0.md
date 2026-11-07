@@ -4,20 +4,20 @@ date: '2025-09-02'
 description: 'Codex CLI · 2025-09-02 · Mobile and Desktop: 3 changes in 0.28.0 — Leverage
   Windows 11 ARM for Windows ARM builds (#3062)'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 903
+  lag_days: 2487
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 08a060e4794d8c99d8124c8cdbb1e5737dca5b98ed9eb0bcf4aa7f81d04dec04
+machine_hash: bc4f3282ae31d72ef7fb6acf519eade4ca8ad15c584716a4bfe0c44faceedae6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.28.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

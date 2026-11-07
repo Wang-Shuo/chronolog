@@ -3,20 +3,20 @@ card_id: replit-2025-01-03-8c46c3
 date: '2025-01-03'
 description: 'Replit · 2025-01-03 · Enterprise and Administration: Teams and Enterprise'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 609
+  lag_days: 1816
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e472920461e221d960d6e8b2b71dabd1e50a63fd5b406bcd78f338278a8357ba
+machine_hash: 74391a4683f248017b1a0d627a39090d84f9534ab1ecc9bcc735668a1afcd7ea
 product: replit
 product_name: Replit
 record:
@@ -49,8 +49,8 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds
-  support for reading .pdf and .docx files…]]'
+- '[[Changes/Descript/2024-09-25-new-powers-for-enterprise-drive-admins|New powers
+  for Enterprise Drive admins]]'
 - '[[Changes/Dify/2024-12-03-feat-remove-github-star-and-community-links-if-it-is-enterprise-version-by-douxc|Feat:
   remove github star and community links if it is enterprise version]]'
 - '[[Changes/Replit/2024-12-27-teams-and-enterprise|Teams and Enterprise]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

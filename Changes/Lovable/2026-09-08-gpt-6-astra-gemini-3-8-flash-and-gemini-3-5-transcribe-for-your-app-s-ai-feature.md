@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 37bf4da7b2420ebc58c9fc21f3b0fddcc20f34edb6ce2095e61eb0d32cfbcbaa
+machine_hash: c43ffd7e82d11392efd34ca270e694513b42cbb8f3780fa4470c88d32a1093ba
 product: lovable
 product_name: Lovable
 record:
@@ -59,12 +59,12 @@ record:
     features
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-04-allow-codex-oauth-model-filtering-to-recognize-integer-gpt-versions-like-gpt-6|Allow
-  Codex OAuth model filtering to recognize integer GPT versions like gpt-6]]'
 - '[[Changes/Ollama/2026-09-05-ollama-models-can-now-be-used-directly-in-chatgpt-desktop-so-you-can-keep-your-e|Ollama
   models can now be used directly in ChatGPT Desktop, so you can keep…]]'
 - '[[Changes/OpenClaw/2026-09-05-17-model-support-changes-in-v2026-9-2|17 Model Support
   changes in v2026.9.2]]'
+- '[[Changes/Qoder/2026-09-05-custom-byok-endpoints-personal-plan-byok-now-supports-custom-base-urls-for-any-o|Custom
+  BYOK endpoints]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-08-2026-09-08-ea9aff6b|lovable-2026-09-08-2026-09-08-ea9aff6b]]'
 source_type: lovable_changelog
 theme: model-support
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-17-model-support-changes-in-v2026-9-2|17 Model Support changes in v2026.9.2]]
+- Earlier: 2026-09-05 · Qoder · [[Changes/Qoder/2026-09-05-custom-byok-endpoints-personal-plan-byok-now-supports-custom-base-urls-for-any-o|Custom BYOK endpoints]]
 - Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-15-model-support-changes-in-v2026-9-3|15 Model Support changes in v2026.9.3]]
 <!-- chronolog:end -->
 

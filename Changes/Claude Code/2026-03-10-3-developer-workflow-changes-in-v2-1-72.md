@@ -4,19 +4,20 @@ date: '2026-03-10'
 description: 'Claude Code · 2026-03-10 · Developer Workflow: 3 changes in v2.1.72
   — Added `ExitWorktree` tool to leave an `EnterWorktree` session'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1088
+  lag_days: 2737
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a9509225899aba11b44aeb4b3f0b52595f1da5539034384a3317c165514760f
+machine_hash: ca07efeb8c392b9d239ff7fbc14547a7f00feaa8993f402c4d579acea6622b88
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

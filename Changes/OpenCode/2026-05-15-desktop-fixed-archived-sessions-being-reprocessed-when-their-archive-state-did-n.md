@@ -4,20 +4,20 @@ date: '2026-05-15'
 description: 'OpenCode · 2026-05-15 · Mobile and Desktop: Desktop Fixed archived sessions
   being reprocessed when their archive state did not change.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1158
+  lag_days: 2742
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2cacf54af683d517ec19ccdcdc34bc55feb76a5beece5ef110b347369f02e69
+machine_hash: f3f1d1a7fe0826a6dbb28f4c03622f414d94e8648e394d268857e4e589b979be
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
     did not change
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated
-  images will continue to appear in the Images tab]]'
+- '[[Changes/Descript/2026-05-14-mobile-join-is-now-blocked-in-rooms-attempting-to-join-a-room-https-help-descrip|Mobile
+  join is now blocked in Rooms. Attempting to join…]]'
 - '[[Changes/Suno/2026-05-14-the-mobile-app-just-got-better|The mobile app just got
   better]]'
 - '[[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2024-12-27'
 description: "Open WebUI · 2024-12-27 · Collaboration: **\U0001F58A️ Typing Indicators
   in Channels**: Know exactly who’s typing in real-time within your channels, enhancing…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 583
+  lag_days: 2177
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f2b4ec7f44005f78f4087abac9e978cbadb7c2072869cb449232370089598c1
+machine_hash: 0b705d5b162da090d23b49c9e51204918f082e6374a95fa2fe5be73fbed5407c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,9 +44,9 @@ record:
   title: "**\U0001F58A️ Typing Indicators in Channels**"
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip
-  suggesting files that share names with files already in chat]]'
 - '[[Changes/Midjourney/2024-12-11-tips|Tips]]'
+- '[[Changes/Synthesia/2024-12-17-you-share-your-feedback-and-we-work-on-turning-it-into-helpful-ui-updates-today|10
+  improvements and fixes based on your feedback]]'
 - '[[Changes/Open WebUI/2024-12-25-2-collaboration-changes-in-v0-5-0|2 Collaboration
   changes in v0.5.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-27-v0-5-2-github-192450026-62830850|open-webui-2024-12-27-v0-5-2-github-192450026-62830850]]'
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

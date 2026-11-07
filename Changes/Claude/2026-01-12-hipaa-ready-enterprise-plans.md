@@ -5,20 +5,20 @@ description: 'Claude · 2026-01-12 · Enterprise and Administration: We now offe
   HIPAA-ready version of Claude that is available for organizations with Enterprise
   plans…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 983
+  lag_days: 2190
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8da4fdf98d8de1365151be047763a17e595ea2c6d494b35228c3e22c13e2e377
+machine_hash: 255932357bbed4a9d26a23051a9d185f38cd6076ccc7ae5eda228cf4e54a0fec
 product: claude
 product_name: Claude
 record:
@@ -80,13 +80,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
-- Later: 2026-01-16 · Windsurf · [[Changes/Windsurf/2026-01-16-admins-can-now-manage-windsurf-restrictions-via-windows-group-policy|Admins can now manage Windsurf restrictions via Windows Group Policy]]
+- Later: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-admin-control-to-customize-ai-disclaimers-in-copilot-chat-windows-web-microsoft|Admin control to customize AI disclaimers in Copilot Chat Windows…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

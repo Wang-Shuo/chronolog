@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-06-29 · Automation and Scheduling: 6 changes i
   — \U0001F4CB **Clone automations.** Automations now have a Clone option in their
   menu, so you…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 909
+  lag_days: 2476
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5dfdadc2ea09e009001820c757a6acc156f40d903cfca997f5267aa5aeabc146
+machine_hash: 95451ee2b81394facc406db5573da23b7ed025bc7bf4415ec351b3a5c642e08e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,12 +63,12 @@ record:
   title: 6 Automation and Scheduling changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-add-loop-alias-for-the-every-command|Add
-  /loop alias for the /every command]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-handle-wakeup-misfires-with-a-graceful-message-when-no-self-paced-schedule-is-ac|Handle
   wakeup misfires with a graceful message when no self-paced schedule is active]]'
 - '[[Changes/Dify/2026-06-25-2-automation-and-scheduling-changes-in-1-15-0|2 Automation
   and Scheduling changes in 1.15.0]]'
+- '[[Changes/Kimi Code/2026-06-26-add-a-hint-to-the-per-turn-step-limit-error-pointing-users-to-the-loop-control-m|Add
+  a hint to the per-turn step limit error pointing users…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -129,14 +129,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-2-automation-and-scheduling-changes-in-1-15-0|2 Automation and Scheduling changes in 1.15.0]]
+- Earlier: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-add-a-hint-to-the-per-turn-step-limit-error-pointing-users-to-the-loop-control-m|Add a hint to the per-turn step limit error pointing users…]]
 - Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr auto now starts a self-paced loop that fixes one thing per run and paces itself…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

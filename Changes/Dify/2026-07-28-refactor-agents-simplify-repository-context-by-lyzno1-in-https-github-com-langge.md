@@ -4,20 +4,20 @@ date: '2026-07-28'
 description: 'Dify · 2026-07-28 · Context Window: refactor(agents): simplify repository
   context by @lyzno1 in https://github.com/langgenius/dify/pull/39583'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1181
+  lag_days: 2505
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f73db8c8dc2cee312add371a8bda2c17526cd961697a8f99dc2eb0fcec0b07bf
+machine_hash: 60ccdbdebdd927025fac1839607682f0b76c1971c26e53304236b68d298f0bc4
 product: dify
 product_name: Dify
 record:
@@ -109,7 +109,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-06-10 · Safety and Privacy: 4 changes in v0.6.
   \U0001F511 **Support for Secret Key File**: Now you can specify 'WEBUI_SECRET_KEY_FILE'
   for more…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 786
+  lag_days: 1778
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c0f67a69f97175687af731b069e9e367a972d3f1d7c5d287767ee64985e61ec
+machine_hash: b99d31a411e3e91b3a9f00a79260789cd4909ce8060f7bf7c3407418e532de5b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -116,7 +116,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

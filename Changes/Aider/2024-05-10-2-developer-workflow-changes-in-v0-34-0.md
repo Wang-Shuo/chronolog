@@ -4,19 +4,20 @@ date: '2024-05-10'
 description: 'Aider · 2024-05-10 · Developer Workflow: 2 changes in v0.34.0 — Updated
   prompting to use more natural phrasing about files, the git repo, etc. Removed reliance…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 419
+  lag_days: 2068
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ceb12ae65d99edcf1b90f2048da17391632e9c4fb3eaeb72846d032f4ccb356e
+machine_hash: 939a6c2c099f0df97d6577010ab914c298ed30d9bfca6a27dda30be4f589f2f0
 product: aider
 product_name: Aider
 record:
@@ -89,7 +90,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.34.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

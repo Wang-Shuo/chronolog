@@ -4,20 +4,20 @@ date: '2024-11-05'
 description: 'Dify · 2024-11-05 · Context Window: 2 changes in v0.11.0 — add PROMPT_GENERATION_MAX_TOKENS
   and CODE_GENERATION_MAX_TOKENS in docker enviromment by @XiaoLey in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 551
+  lag_days: 1875
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2bcbb81e0006f4309b94bc6d7e99cc62863dfdc12473f13737d495f80c644c35
+machine_hash: 0035b8852b0d93905da81b23940ce012396bb66b3dd403477741c5d1653b9d8e
 product: dify
 product_name: Dify
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

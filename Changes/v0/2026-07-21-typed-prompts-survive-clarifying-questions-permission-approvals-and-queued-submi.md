@@ -4,20 +4,20 @@ date: '2026-07-21'
 description: 'v0 · 2026-07-21 · Safety and Privacy: Typed prompts survive clarifying
   questions, permission approvals, and queued submissions instead of being cleared.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1192
+  lag_days: 2184
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e48256bbbed9d3fa8fabfa510b2e27fdd7a93002ed830335c3eea246fd48a00
+machine_hash: ebe51885f9fb4e2fcd34667ad4936cb1f6c8bf90fe7d18444e17f9752974c100
 product: v0
 product_name: v0
 record:
@@ -45,8 +45,8 @@ record:
   title: Typed prompts survive clarifying questions, permission approvals, and queued…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-4-safety-and-privacy-changes-in-v1-0-72|4
-  Safety and Privacy changes in v1.0.72]]'
+- '[[Changes/Kimi Code/2026-07-20-fix-running-subagents-not-observing-permission-mode-switches-made-after-they-sta|Fix
+  running subagents not observing permission mode switches made after they started]]'
 - '[[Changes/Claude Code/2026-07-21-fixed-remote-control-sessions-not-showing-a-pending-permission-prompt-or-dialog|Fixed
   Remote Control sessions not showing a pending permission prompt or dialog…]]'
 - '[[Changes/Codex CLI/2026-07-21-17-safety-and-privacy-changes-in-rust-v0-145-0|17
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

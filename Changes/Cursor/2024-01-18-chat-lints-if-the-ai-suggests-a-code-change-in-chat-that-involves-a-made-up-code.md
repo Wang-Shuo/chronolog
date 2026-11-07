@@ -4,20 +4,19 @@ date: '2024-01-18'
 description: 'Cursor · 2024-01-18 · Editor Experience: Chat lints: If the AI suggests
   a code change in chat that involves a made up code symbol, we''ll underline it…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 310
+  lag_days: 1894
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fc94b48ad0ef00a8cd970f39bb0a490d5a74e7b884883324373eb3816a15dd9
+machine_hash: bdf16f08498c408e40ad0fd580dd8303172abd1a2a5a7c164ba718e312a65331
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +45,8 @@ record:
     up code…'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements
-  to unified diff editing format]]'
+- '[[Changes/Descript/2024-01-16-introducing-our-newest-ai-action-edit-for-clarity-https-help-descript-com-hc-en|Introducing
+  our newest AI Action, Edit…]]'
 - '[[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More
   chat symbol links]]'
 - '[[Changes/Cursor/2024-01-18-apply-button-we-ve-added-some-polish-to-the-apply-codeblock-experience-in-chat|Apply
@@ -83,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-01-08 · Aider · [[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements to unified diff editing format]]
+- Earlier: 2024-01-16 · Descript · [[Changes/Descript/2024-01-16-introducing-our-newest-ai-action-edit-for-clarity-https-help-descript-com-hc-en|Introducing our newest AI Action, Edit…]]
 - Later: 2024-01-19 · Dify · [[Changes/Dify/2024-01-19-add-feature-request-copilot-by-guchenhe-in-https-github-com-langgenius-dify-pull|add feature request copilot]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

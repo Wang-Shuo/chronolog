@@ -5,20 +5,20 @@ description: 'ChatGPT · 2025-07-24 · Search and Browsing: Pro users can now co
   to Canva and Notion for both chat search and deep research.Note this feature is
   currently…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 854
+  lag_days: 1883
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf7990bb717a3588283855fceb1644b54b76ee228b58224dd13736bf572d8bd3
+machine_hash: c2ebbc97db2440f75d3fdb868220727306426b48d5f5c4495467ce7c16a2d345
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,8 +56,9 @@ record:
   title: Canva and Notion connectors (Pro)
   type: change
 related_changes:
-- '[[Changes/Replit/2025-07-04-gallery|Gallery]]'
 - '[[Changes/Replit/2025-07-04-web-search-for-agent|Web Search for Agent]]'
+- '[[Changes/Descript/2025-07-17-viewers-can-browse-brand-studio-but-cannot-make-changes|Viewers
+  can browse Brand Studio but cannot make changes]]'
 - "[[Changes/Open WebUI/2025-07-19-file-deletion-now-removes-related-vector-data-when-files-are-deleted-from-storag|\U0001F9D1\U0001F4BB
   File Deletion Now Removes Related Vector Data]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-24-canva-and-notion-connectors-pro-0091bf22|chatgpt-2025-07-24-canva-and-notion-connectors-pro-0091bf22]]'
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-08-20'
 description: 'Codex CLI · 2026-08-20 · Editor Experience: 5 changes in 0.149.0 — #38837
   Share editor keymaps across TUI composer components @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1255
+  lag_days: 2839
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3520186a13713e4b36976e3be96b4d1b93acd418b81009d3b5b8fbcd94a30bc8
+machine_hash: 1c0dc5b5cef8883cda16d12b60ee61bfc9386ca3d9ec9ae6c0e8fe5c0cacd4e5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +47,11 @@ record:
   title: 5 Editor Experience changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-pull-requests|Pull requests]]'
 - '[[Changes/ElevenLabs/2026-08-17-elevencreative|ElevenCreative]]'
 - '[[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828
   Track running unified exec processes at turn completion @copyberry]]'
+- '[[Changes/Kimi Code/2026-08-18-web-the-browser-tab-title-now-shows-the-current-workspace-directory-name|web:
+  The browser tab title now shows the current workspace directory name]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'
 source_type: github_releases
 theme: editor-experience
@@ -106,14 +106,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828 Track running unified exec processes at turn completion @copyberry]]
+- Earlier: 2026-08-18 · Kimi Code · [[Changes/Kimi Code/2026-08-18-web-the-browser-tab-title-now-shows-the-current-workspace-directory-name|web: The browser tab title now shows the current workspace directory name]]
 - Later: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-hovering-over-a-file-s-comment-count-pill-now-previews-all-comments-on-that-file|Hovering over a file's comment count pill now previews all comments on that file…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

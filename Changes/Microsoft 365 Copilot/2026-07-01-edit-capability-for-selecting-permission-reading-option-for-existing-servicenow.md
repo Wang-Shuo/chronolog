@@ -1,0 +1,127 @@
+---
+card_id: microsoft-365-copilot-2026-07-01-9b5865
+date: '2026-07-01'
+description: 'Microsoft 365 Copilot · 2026-07-01 · Safety and Privacy: Earlier admins
+  had to create new connections to adopt to the hierarchical permissions for ServiceNow…'
+diffusion:
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 2164
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: safety-privacy
+  tracked_products_count: 37
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: f17d67adbe5d3f21f12e2fcd8b1371cf230d5c899554f0963a5a16d3a3d50de4
+product: microsoft-365-copilot
+product_name: Microsoft 365 Copilot
+record:
+  ai_generated: true
+  card_id: microsoft-365-copilot-2026-07-01-9b5865
+  comparison: ''
+  confidence: low
+  date: '2026-07-01'
+  description: 'Microsoft 365 Copilot — Microsoft 365 Copilot updates — 2026-07-01:
+    Earlier admins had to create new connections to adopt to the hierarchical permissions
+    for ServiceNow Knowledge & Catalog Copilot Connectors as the edit capability was
+    missing. Now, admins can easily edit their existing connections to switch between
+    the permission handling option i.e. Simple vs Advanced to quickly adopt to the
+    hierarchical permission feature.'
+  evidence:
+  - quote: Earlier admins had to create new connections to adopt to the hierarchical
+      permissions for ServiceNow Knowledge & Catalog Copilot Connectors as the edit
+      capability was missing. Now, admins can easily edit their existing connections
+      to switch between the permission handling option i.e. Simple vs Advanced to
+      quickly adopt to the hierarchical permission feature.
+    source_release: https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#july-01-2026
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: microsoft-365-copilot
+  product_name: Microsoft 365 Copilot
+  slug: edit-capability-for-selecting-permission-reading-option-for-existing-servicenow
+  source_release: microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f
+  source_type: m365_copilot_changelog
+  theme: safety-privacy
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v2
+  title: Edit capability for selecting permission reading option for existing ServiceNow…
+  type: change
+related_changes:
+- '[[Changes/OpenClaw/2026-06-30-6-safety-and-privacy-changes-in-v2026-6-11|6 Safety
+  and Privacy changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-sdk-add-session-permission-request-create-and-fetch-endpoints|SDK
+  Add session permission request create and fetch endpoints]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4
+  Safety and Privacy changes in v1.0.68]]'
+source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f|microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f]]'
+source_type: m365_copilot_changelog
+theme: safety-privacy
+title: Edit capability for selecting permission reading option for existing ServiceNow…
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Edit capability for selecting permission reading option for existing ServiceNow…
+
+**Microsoft 365 Copilot** · 2026-07-01 · [[Themes/safety-privacy|Safety and Privacy]] · Launch · [Official source](https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#july-01-2026) · from [[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f|Microsoft 365 Copilot updates — 2026-07-01]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Earlier admins had to create new connections to adopt to the hierarchical permissions for ServiceNow Knowledge & Catalog Copilot Connectors as the edit capability was missing. Now, admins can easily edit their existing connections to switch between the permission handling option i.e. Simple vs Advanced to quickly adopt to the hierarchical permission feature.
+>
+> Source: https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#july-01-2026
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Microsoft 365 Copilot/2026-07-01-create-presentations-with-work-iq-using-agent-mode-in-copilot-in-powerpoint-wind|Create presentations with Work IQ using Agent Mode in Copilot in PowerPoint…]] · Agent Mode
+- [[Changes/Microsoft 365 Copilot/2026-07-01-copilot-analytics-all-licensed-user-page-copilot-dashboard-web-viva-insights|Copilot Analytics: "All"- licensed user page Copilot dashboard Web (Viva Insights)]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-07-01-mai-image-2-efficient-is-now-available-in-copilot-in-powerpoint-windows-mac-web|MAI‑Image‑2‑Efficient is now available in Copilot in PowerPoint Windows, Mac…]] · Presentation Creation
+- [[Changes/Microsoft 365 Copilot/2026-07-01-metadata-understanding-support-for-queries-scoped-to-sharepoint-document-librari|Metadata understanding support for queries scoped to SharePoint document libraries…]] · Files and Data
+- [[Changes/Microsoft 365 Copilot/2026-07-01-view-long-running-agent-tasks-in-windows-taskbar-windows-microsoft-365-copilot-a|View long running agent tasks in Windows taskbar Windows (Microsoft 365 Copilot app)]] · Agent Mode
+- [[Changes/Microsoft 365 Copilot/2026-07-01-mind-maps-in-copilot-notebooks-windows-web-microsoft-365-copilot-app|Mind maps in Copilot Notebooks Windows, Web (Microsoft 365 Copilot app)]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-07-01-quickly-launch-the-microsoft-365-copilot-app-on-your-ios-device-ios-microsoft-36|Quickly launch the Microsoft 365 Copilot app on your iOS device…]] · Mobile and Desktop
+- [[Changes/Microsoft 365 Copilot/2026-07-01-apply-brand-kit-and-style-to-visual-creations-in-copilot-chat-windows-mac-web-mi|Apply brand kit and style to visual creations in Copilot chat Windows, Mac…]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-07-01-copilot-search-matches-on-people-s-department-web-microsoft-365-copilot-app|Copilot Search Matches on People's Department Web (Microsoft 365 Copilot app)]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-07-01-share-agents-to-teams-web-microsoft-365-copilot-studio|Share agents to Teams Web (Microsoft 365 Copilot Studio)]] · Agent Mode
+- [[Changes/Microsoft 365 Copilot/2026-07-01-reuse-content-and-style-from-existing-powerpoint-presentations-with-copilot-in-p|Reuse content and style from existing PowerPoint presentations with Copilot…]] · Presentation Creation
+- [[Changes/Microsoft 365 Copilot/2026-07-01-open-word-excel-and-powerpoint-and-pdf-files-in-copilot-chat-windows-mac-web-mic|Open Word, Excel, and PowerPoint, and PDF files in Copilot Chat Windows, Mac…]] · Presentation Creation
+- [[Changes/Microsoft 365 Copilot/2026-07-01-enable-watermarks-for-ai-generated-content-for-microsoft-365-copilot-android-win|Enable watermarks for AI-generated content for Microsoft 365 Copilot Android…]] · Mobile and Desktop
+- [[Changes/Microsoft 365 Copilot/2026-07-01-onenote-copilot-notebooks-available-in-onenote-on-web-web-onenote|OneNote: Copilot Notebooks available in OneNote on Web Web (OneNote)]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-07-01-copilot-notebook-in-onenote-for-iphone-and-ipad-ios-onenote|Copilot Notebook in OneNote for iPhone and iPad iOS (OneNote)]] · Mobile and Desktop
+- [[Changes/Microsoft 365 Copilot/2026-07-01-reference-a-teams-meeting-or-chat-when-creating-a-presentation-with-agent-mode-i|Reference a Teams meeting or chat when creating a presentation with Agent Mode…]] · Agent Mode
+- [[Changes/Microsoft 365 Copilot/2026-07-01-copilot-chat-in-outlook-expands-to-reason-over-inbox-calendar-and-enterprise-dat|Copilot Chat in Outlook expands to reason over inbox, calendar, and enterprise data…]] · Mobile and Desktop
+- [[Changes/Microsoft 365 Copilot/2026-07-01-scheduled-prompts-for-agents-windows-mac-web-microsoft-365-copilot-app|Scheduled prompts for Agents Windows, Mac, Web (Microsoft 365 Copilot app)]] · Agent Mode
+- [[Changes/Microsoft 365 Copilot/2026-07-01-multimodal-capture-in-copilot-notebooks-iphone-ios-onenote|Multimodal capture in Copilot Notebooks (iPhone) iOS (OneNote)]] · Multimodal Input
+- [[Changes/Microsoft 365 Copilot/2026-07-01-create-word-documents-from-copilot-notebooks-windows-web-microsoft-365-copilot-a|Create Word documents from Copilot Notebooks Windows, Web (Microsoft 365 Copilot app)]] · Files and Data
+- [[Changes/Microsoft 365 Copilot/2026-07-01-real-time-voice-interactions-with-audio-overview-web-word|Real-time voice interactions with Audio Overview Web (Word)]] · Voice and Audio
+- [[Changes/Microsoft 365 Copilot/2026-07-01-create-excel-spreadsheets-from-copilot-notebooks-windows-web-microsoft-365-copil|Create Excel spreadsheets from Copilot Notebooks Windows…]] · Files and Data
+- [[Changes/Microsoft 365 Copilot/2026-07-01-create-powerpoint-presentations-from-copilot-notebooks-windows-web-microsoft-365|Create PowerPoint presentations from Copilot Notebooks Windows…]] · Presentation Creation
+- [[Changes/Microsoft 365 Copilot/2026-07-01-generated-files-inherit-sensitivity-labels-android-windows-ios-mac-web-microsoft|Generated files inherit sensitivity labels Android, Windows, iOS, Mac…]] · Mobile and Desktop
+- [[Changes/Microsoft 365 Copilot/2026-07-01-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated survey insights with Copilot Highlights Web (Viva Glint)]] · Reliability and Performance
+- [[Changes/Microsoft 365 Copilot/2026-07-01-customize-employee-self-service-agent-landing-page-web-microsoft-365-copilot-app|Customize employee self-service agent landing page Web (Microsoft 365 Copilot app)]] · Agent Mode
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4 Safety and Privacy changes in v1.0.68]]
+- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-3-safety-and-privacy-changes-in-v0-10-2|3 Safety and Privacy changes in v0.10.2]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20microsoft-365-copilot-2026-07-01-9b5865&body=Card%3A%20Changes%2FMicrosoft%20365%20Copilot%2F2026-07-01-edit-capability-for-selecting-permission-reading-option-for-existing-servicenow.md%0ACard%20ID%3A%20microsoft-365-copilot-2026-07-01-9b5865%0ASource%3A%20https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fmicrosoft-365%2Fcopilot%2Frelease-notes%23july-01-2026%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -4,19 +4,20 @@ date: '2026-09-21'
 description: 'Open WebUI · 2026-09-21 · Collaboration: 4 changes in v0.11.4 — ✴️ **Lighter
   shared note editing.** Notes written by several people at once no longer echo…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1216
+  lag_days: 2810
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1cb06fb68ae4d6dda79bcd2542ced17f797dbe34d04be7c56c5a6f32ca416968
+machine_hash: 1fb65c4cf502132e26c10f0a1463ce2981019cd190a6b4bf0270cab172da5c13
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,8 +64,7 @@ record:
   title: 4 Collaboration changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354
-  Extract shared footer hint wrapping in the TUI @copyberry]]'
+- '[[Changes/Descript/2026-09-17-captions-redesigned|Captions, redesigned]]'
 - '[[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed
   /ultrareview in non-interactive sessions to refuse when the repository has…]]'
 - '[[Changes/OpenClaw/2026-09-19-14-collaboration-changes-in-v2026-9-5|14 Collaboration
@@ -129,7 +129,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-10-27 · Developer Workflow: 2 changes in v2026.1
   — When a terminal hangup interrupts Doctor repair, Doctor attempts to restore the
   managed…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1319
+  lag_days: 2968
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: abb788e15fc5cbc6804491defa701082fabc326034bca906166a6e3c1a0fd778
+machine_hash: 5134c14763937f8f4c4b4a386c177da8b630cfa3e7ba3d5aa0771f6d3f078f98
 product: openclaw
 product_name: OpenClaw
 record:
@@ -103,7 +104,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.8
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

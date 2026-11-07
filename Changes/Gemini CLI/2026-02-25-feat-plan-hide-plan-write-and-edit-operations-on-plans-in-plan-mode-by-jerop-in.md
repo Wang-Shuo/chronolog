@@ -4,20 +4,19 @@ date: '2026-02-25'
 description: 'Gemini CLI · 2026-02-25 · Editor Experience: feat(plan): hide plan write
   and edit operations on plans in Plan Mode by @jerop in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1079
+  lag_days: 2663
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64a61f5f0d6e4c4c3f2419ae7decf999878f8b121fb2333577903f517903041c
+machine_hash: 26e6320f2064684024b48a367b1a042b75b83c55331ce9a59af4dab9bbeda00b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -98,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

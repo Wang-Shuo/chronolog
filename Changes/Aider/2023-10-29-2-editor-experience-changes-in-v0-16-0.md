@@ -4,20 +4,19 @@ date: '2023-10-29'
 description: 'Aider · 2023-10-29 · Editor Experience: 2 changes in v0.16.0 — Switched
   from "edit block" to "search/replace block", which reduced malformed edit blocks…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 229
+  lag_days: 1813
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19488dbfee018db37b027471966c29054f44224b4eb00b769261c845a77579b8
+machine_hash: 4fd1624555c125782bb43df02e7871e6bae8ed533db4e1f20739144ff0cf605f
 product: aider
 product_name: Aider
 record:
@@ -91,7 +90,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.16.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

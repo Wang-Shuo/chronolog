@@ -4,20 +4,20 @@ date: '2025-12-11'
 description: 'Dify · 2025-12-11 · Files and Data: 5 changes in v1.11.0 - Your knowledge
   base just went from mono to full HD — Add comprehensive API/controller tests for…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 931
+  lag_days: 2276
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10a00920f810dcaa3e7b66a0de52c6ddd47883583415a58e6dfeb27ee9dd4442
+machine_hash: 867c3d0de9b359ce07b5f0e9ff6abeb2027bf7983ba86ab2dfad86788f5c1dc7
 product: dify
 product_name: Dify
 record:
@@ -118,7 +118,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-10-22'
 description: 'GitHub Copilot CLI · 2026-10-22 · Developer Workflow: Clicking a completed
   response code block copies its original code when enabled.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1314
+  lag_days: 2963
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5200c7463712e6584629f37e0004507536facd7f620daf8adce4ee1b1da3d83d
+machine_hash: 948c454d9474113ca8dbe5924a8ee05df8a8f72b15709010ea43d479bb9310a7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +44,8 @@ record:
   title: Clicking a completed response code block copies its original code when enabled
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer
-  Workflow changes in v2.1.307]]'
+- '[[Changes/Kimi Code/2026-10-21-2-developer-workflow-changes-in-kimi-code-2-3-0|2
+  Developer Workflow changes in Kimi Code 2.3.0]]'
 - '[[Changes/Ollama/2026-10-21-flint-is-an-apache-2-0-licensed-40b-parameter-mixture-of-experts-model-with-appr|Flint
   is an Apache 2.0-licensed, 40B-parameter mixture-of-experts model…]]'
 - '[[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

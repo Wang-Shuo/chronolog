@@ -4,20 +4,19 @@ date: '2025-11-05'
 description: 'OpenHands · 2025-11-05 · Editor Experience: Removed Jupyter tab by @amanape
   in https://github.com/OpenHands/OpenHands/pull/11563'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 967
+  lag_days: 2551
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5336f885baf201963a3a7cdf51f74d12ae0afe0fd2255f8c807382cdb0054f3c
+machine_hash: 9bb6e903eae334f9233afd580c6e6acc3df6fa0d00c804ad94b29359a7b4f9a4
 product: openhands
 product_name: OpenHands
 record:
@@ -41,10 +40,10 @@ record:
   title: Removed Jupyter tab
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-11-03-ever-made-the-perfect-edit-to-an-ai-image-only-to-lose-track-of-it-we-heard-you|Ever
-  made the perfect edit to an AI image, only to lose track of it?]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-diff-hunk-lines-now-properly-fill-the-width-of-the-diff-box|Diff
   hunk lines now properly fill the width of the diff box]]'
+- '[[Changes/Synthesia/2025-11-03-grow-completion-rate-for-every-video-you-create-with-amazing-new-feature-quizzes|Add
+  Quizzes to any Synthesia video]]'
 - '[[Changes/Windsurf/2025-11-04-editor-stability|Editor Stability]]'
 source_release: '[[Releases/OpenHands/openhands-2025-11-05-0-61-0-github-260040608-a8779d3b|openhands-2025-11-05-0-61-0-github-260040608-a8779d3b]]'
 source_type: github_releases
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

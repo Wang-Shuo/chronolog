@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 63fca7b4ad21ab71aacaf206fb8968c4827cae61e5f131939bc5af0b255d3920
+machine_hash: 14a804d13fc97c9fc121644edd3c057592e49b163d5ee76f0f2f12dc5df7d168
 product: opencode
 product_name: OpenCode
 record:
@@ -41,10 +41,10 @@ record:
   title: Core Improved default reasoning depth for Meta models
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
-  the Bash/PowerShell tool message when a command hits its timeout…]]'
 - '[[Changes/OpenCode/2026-07-14-desktop-fixed-spacing-between-model-provider-sections-in-settings|Desktop
   Fixed spacing between model provider sections in Settings]]'
+- '[[Changes/Kimi Code/2026-07-15-the-per-step-llm-retry-limit-is-raised-from-3-to-10-attempts-so-transient-provid|The
+  per-step LLM retry limit is raised from 3 to 10 attempts, so transient provider…]]'
 - '[[Changes/Lovable/2026-07-15-gpt-5-6-and-gemini-text-to-speech-models-for-your-app-s-ai-features|GPT-5.6
   and Gemini text-to-speech models for your app''s AI features]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-15-v1-18-2-1cf399ef|opencode-2026-07-15-v1-18-2-1cf399ef]]'

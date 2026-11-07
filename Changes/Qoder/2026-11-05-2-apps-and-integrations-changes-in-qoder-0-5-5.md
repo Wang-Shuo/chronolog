@@ -1,0 +1,107 @@
+---
+card_id: qoder-2026-11-05-d534f4
+date: '2026-11-05'
+description: 'Qoder · 2026-11-05 · Apps and Integrations: 2 changes in Qoder 0.5.5
+  — **Word plugin**: Adds a Word plugin for opening, editing, and saving DOCX files
+  in…'
+diffusion:
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 2883
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 37
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 4547512625f65a279a46a1978e617da4f448eb72cdec53e4528e168fc88a7eec
+product: qoder
+product_name: Qoder
+record:
+  card_id: qoder-2026-11-05-d534f4
+  comparison: ''
+  date: '2026-11-05'
+  description: 'Qoder — Qoder 0.5.5: 2 Apps and Integrations changes'
+  evidence:
+  - quote: '**Word plugin**: Adds a Word plugin for opening, editing, and saving DOCX
+      files in Qoder, with conversation-based assistance for working on document content.'
+    source_release: https://changelog.qoder.com/app#0.5.5
+  - quote: '**Plugin creation**: Adds the built-in Plugin Creator to improve conversational
+      plugin creation, customization, and packaging, combining Skills, commands, Agents,
+      Hooks, MCP, and related capabilities.'
+    source_release: https://changelog.qoder.com/app#0.5.5
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: qoder
+  product_name: Qoder
+  slug: 2-apps-and-integrations-changes-in-qoder-0-5-5
+  source_release: qoder-2026-11-05-0-5-5-119bdeb6
+  source_type: qoder_changelog
+  theme: apps-integrations
+  title: 2 Apps and Integrations changes in Qoder 0.5.5
+  type: change
+related_changes:
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-user-can-use-hubspot-connector-in-researcher-web-microsoft-365-copilot-extensibi|User
+  can use HubSpot Connector in Researcher Web (Microsoft 365 Copilot extensibility)]]'
+- '[[Changes/OpenClaw/2026-11-05-5-apps-and-integrations-changes-in-v2026-11-1|5 Apps
+  and Integrations changes in v2026.11.1]]'
+- '[[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps
+  and Integrations changes in v1.36.0]]'
+source_release: '[[Releases/Qoder/qoder-2026-11-05-0-5-5-119bdeb6|qoder-2026-11-05-0-5-5-119bdeb6]]'
+source_type: qoder_changelog
+theme: apps-integrations
+title: 2 Apps and Integrations changes in Qoder 0.5.5
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 2 Apps and Integrations changes in Qoder 0.5.5
+
+**Qoder** · 2026-11-05 · [[Themes/apps-integrations|Apps and Integrations]] · Digest · [Official source](https://changelog.qoder.com/app#0.5.5) · from [[Releases/Qoder/qoder-2026-11-05-0-5-5-119bdeb6|Qoder 0.5.5]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> **Word plugin**: Adds a Word plugin for opening, editing, and saving DOCX files in Qoder, with conversation-based assistance for working on document content.
+
+> **Plugin creation**: Adds the built-in Plugin Creator to improve conversational plugin creation, customization, and packaging, combining Skills, commands, Agents, Hooks, MCP, and related capabilities.
+
+Source: https://changelog.qoder.com/app#0.5.5
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Qoder/2026-11-05-local-extension-installation-install-plugins-and-skills-by-dragging-or-pasting-f|Local extension installation: Install plugins and Skills by dragging or pasting files]] · Safety and Privacy
+- [[Changes/Qoder/2026-11-05-ssh-and-wsl-improves-connection-management-and-workspace-creation-including-dire|SSH and WSL: Improves connection management and workspace creation, including…]] · Account and Access
+- [[Changes/Qoder/2026-11-05-cross-device-automations-use-the-slash-menu-in-a-connected-device-conversation-t|Cross-device automations: Use the slash menu in a connected-device conversation…]] · Automation and Scheduling
+- [[Changes/Qoder/2026-11-05-enterprise-approval-controls-enterprise-policies-can-restrict-full-access-and-au|Enterprise approval controls]] · Enterprise and Administration
+- [[Changes/Qoder/2026-11-05-model-selection-new-tasks-can-default-to-an-available-free-official-model-when-t|Model selection: New tasks can default to an available free official model…]] · Pricing Model
+- [[Changes/Qoder/2026-11-05-2-collaboration-changes-in-qoder-0-5-5|2 Collaboration changes in Qoder 0.5.5]] · Collaboration
+- [[Changes/Qoder/2026-11-05-take-documents-and-sites-further|Take Documents and Sites Further]] · Files and Data
+- [[Changes/Qoder/2026-11-05-sites-design-canvas-adjust-site-page-content-and-layout-on-a-design-canvas-and-u|Sites design canvas]] · Files and Data
+- [[Changes/Qoder/2026-11-05-4-other-changes-in-qoder-0-5-5|4 other changes in Qoder 0.5.5]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps and Integrations changes in v1.36.0]]
+- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-12-apps-and-integrations-changes-in-rust-v0-167-0|12 Apps and Integrations changes in rust-v0.167.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20qoder-2026-11-05-d534f4&body=Card%3A%20Changes%2FQoder%2F2026-11-05-2-apps-and-integrations-changes-in-qoder-0-5-5.md%0ACard%20ID%3A%20qoder-2026-11-05-d534f4%0ASource%3A%20https%3A%2F%2Fchangelog.qoder.com%2Fapp%230.5.5%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

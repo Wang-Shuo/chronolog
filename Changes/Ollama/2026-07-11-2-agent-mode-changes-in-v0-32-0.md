@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 96a9202753892e733edfadabc0114d6edb1fcc2feca3bd9d3f7bd407ae4a97c0
+machine_hash: 782f3f494f98f7aabf82c4783c2c6154234bf9936d822b3f03fd9eea3a4f9b2e
 product: ollama
 product_name: Ollama
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.32.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc|Auto mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]]
-- Later: 2026-07-13 · Codex CLI · [[Changes/Codex CLI/2026-07-13-2-agent-mode-changes-in-rust-v0-144-2|2 Agent Mode changes in rust-v0.144.2]]
+- Later: 2026-07-12 · Kimi Code · [[Changes/Kimi Code/2026-07-12-2-agent-mode-changes-in-kimi-code-0-23-6|2 Agent Mode changes in Kimi Code 0.23.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

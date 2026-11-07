@@ -5,20 +5,20 @@ description: 'Gamma · 2026-10-26 · Presentation Creation: PowerPoint exports b
   preserve custom fonts in multilingual text, equations, and table emoji and layouts.
   Tall…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 866
+  lag_days: 1935
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6a6c3114ee8170d16e05ba8b35d026d44481e7b3b4eaeb820af3f69d70f07985
+machine_hash: cc841608ba234de5f59cda85979015f9fde9a2f26544db4537d162f01731ceba
 product: gamma
 product_name: Gamma
 record:
@@ -47,12 +47,12 @@ record:
   title: Exports that stay closer to your design
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-08-28-work-with-gamma-directly-in-slack|Work with Gamma directly
-  in Slack]]'
-- '[[Changes/Gamma/2026-08-28-better-exports-with-more-control|Better exports, with
-  more control]]'
-- '[[Changes/OpenClaw/2026-09-05-progress-mode-can-stay-quiet-about-routine-tool-calls-while-keeping-the-updates|Progress
-  mode can stay quiet about routine tool calls while keeping the updates…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-reference-files-saved-in-sharepoint-libraries-and-onedrive-folders-when-creating|Reference
+  files saved in SharePoint libraries and OneDrive folders when creating…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-create-custom-skills-in-copilot-in-powerpoint-windows-powerpoint|Create
+  custom skills in Copilot in PowerPoint Windows (PowerPoint)]]'
+- '[[Changes/Synthesia/2026-10-23-bring-a-powerpoint-deck-into-synthesia-and-choose-redesign-it-as-a-dynamic-syren|Turn
+  PowerPoint decks into Syren videos]]'
 source_release: '[[Releases/Gamma/gamma-2026-10-26-6adfa60dfb9f73d63d1f52fd-593d6949|gamma-2026-10-26-6adfa60dfb9f73d63d1f52fd-593d6949]]'
 source_type: gamma_changelog
 theme: presentation-creation
@@ -83,13 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Presentation Creation
 
-- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-progress-mode-can-stay-quiet-about-routine-tool-calls-while-keeping-the-updates|Progress mode can stay quiet about routine tool calls while keeping the updates…]]
+- Earlier: 2026-10-23 · Synthesia · [[Changes/Synthesia/2026-10-23-bring-a-powerpoint-deck-into-synthesia-and-choose-redesign-it-as-a-dynamic-syren|Turn PowerPoint decks into Syren videos]]
+- Later: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-insights-new-copilot-metrics-available-web-microsoft-365-copilot|Insights - New Copilot Metrics Available Web (Microsoft 365 Copilot)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

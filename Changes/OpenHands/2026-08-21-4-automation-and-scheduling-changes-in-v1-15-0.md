@@ -4,20 +4,20 @@ date: '2026-08-21'
 description: 'OpenHands · 2026-08-21 · Automation and Scheduling: 4 changes in v1.15.0
   — feat(automations): install a catalog entry that ships a script bundle by @VascoSch92…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 962
+  lag_days: 2529
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1bec59687c42613711714f5356337eb5b3aea8bf91114b7b39db32966f8000e3
+machine_hash: a651676770582d600c6ebf21e2721c70bef54da18953d89cf5dbc24928d99fae
 product: openhands
 product_name: OpenHands
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.15.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

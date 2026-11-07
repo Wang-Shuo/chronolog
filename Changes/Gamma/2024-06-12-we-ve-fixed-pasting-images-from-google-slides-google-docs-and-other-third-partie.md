@@ -4,20 +4,20 @@ date: '2024-06-12'
 description: 'Gamma · 2024-06-12 · Presentation Creation: We''ve fixed pasting images
   from Google Slides, Google Docs, and other third parties.'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1069
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56afc74f4a59030d7af6f1aa68bf933bd6298773d286302a35598317120d68f9
+machine_hash: bb73ccbe7e86664852bf375c13e230775b00e26170884b6b2ffde8eea67a98be
 product: gamma
 product_name: Gamma
 record:
@@ -41,6 +41,12 @@ record:
   theme: presentation-creation
   title: Paste images from Google Slides and Google Docs
   type: change
+related_changes:
+- '[[Changes/Notion/2022-05-10-bring-files-from-pitch-amplitude-grid-hex-into-notion|Bring
+  files from Pitch, Amplitude, GRID & Hex into Notion]]'
+- '[[Changes/Descript/2022-11-15-new-properties-panel-https-help-descript-com-hc-en-us-articles-10327905838349-pr|New
+  properties…]]'
+- '[[Changes/Descript/2023-08-10-scene-stepping|Scene stepping]]'
 source_release: '[[Releases/Gamma/gamma-2024-06-12-666a1f02ec546fb08b578f1b-d3911583|gamma-2024-06-12-666a1f02ec546fb08b578f1b-d3911583]]'
 source_type: gamma_changelog
 theme: presentation-creation
@@ -67,13 +73,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Presentation Creation
 
+- Earlier: 2023-08-10 · Descript · [[Changes/Descript/2023-08-10-scene-stepping|Scene stepping]]
 - Later: 2024-08-08 · Gamma · [[Changes/Gamma/2024-08-08-don-t-want-to-recreate-your-company-s-slide-or-brand-template-in-gamma-now-you-d|Don’t want to recreate your company’s slide or brand template in Gamma?]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

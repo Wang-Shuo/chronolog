@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 2bdcfd3d174c8cb89350f4c2d2b5175dba6a68e327079667ebe37e9e5f153d32
+machine_hash: 28fd059f031e84747ed68eb2282f8c3ca35f99ded90470453e0e384811632fda
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,11 @@ record:
   title: Improved hook configuration error
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ-e47512|To
-  take engineering tasks from start to finish, agents need a development…]]'
-- '[[Changes/ElevenLabs/2026-05-13-packages|Packages]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-13-resume-supports-copilot-cloud-agent-sessions-where-the-agent-hasn-t-pushed-any-c|--resume
-  supports Copilot cloud agent sessions where the agent hasn''t pushed any…]]'
+- '[[Changes/Notion/2026-05-13-agents-hall-of-fame|Agents “hall of fame”]]'
+- '[[Changes/Notion/2026-05-13-use-your-notion-agents-in-any-app-alpha|Use your Notion
+  Agents in any app (Alpha)]]'
+- '[[Changes/Notion/2026-05-13-orchestrate-all-your-team-s-agents-alpha|Orchestrate
+  all your team’s agents (Alpha)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-resume-supports-copilot-cloud-agent-sessions-where-the-agent-hasn-t-pushed-any-c|--resume supports Copilot cloud agent sessions where the agent hasn't pushed any…]]
-- Later: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-for-difficult-coding-and-agentic-tasks|For difficult coding and agentic tasks]]
+- Earlier: 2026-05-13 · Notion · [[Changes/Notion/2026-05-13-orchestrate-all-your-team-s-agents-alpha|Orchestrate all your team’s agents (Alpha)]]
+- Later: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-agent-templates-renamed-to-prompt-templates-the-label-in-the-underlord-panel-has|Agent templates renamed to "prompt templates." The label in the Underlord panel…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

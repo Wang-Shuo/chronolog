@@ -4,20 +4,20 @@ date: '2026-08-13'
 description: 'Cline · 2026-08-13 · Safety and Privacy: Fix the Claude Code provider
   being unusable for agentic work: it now runs its own native tools instead of receiving…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1215
+  lag_days: 2207
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d3a2d4256509af48878f1e439a0772c9f66b95632e486aa52cb4c0ac96529a4f
+machine_hash: ed40833071a3772437656865045b5c2decd5fb2bcb675b568ff331593bd11a4a
 product: cline
 product_name: Cline
 record:
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-9-safety-and-privacy-changes-in-v2-1-232|9 Safety and Privacy changes in v2.1.232]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-3-safety-and-privacy-changes-in-v2-1-233|3 Safety and Privacy changes in v2.1.233]]
+- Later: 2026-08-13 · Kimi Code · [[Changes/Kimi Code/2026-08-13-show-project-mcp-launch-targets-in-the-workspace-trust-prompt-default-to-declini|Show project MCP launch targets in the workspace trust prompt, default to declining…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

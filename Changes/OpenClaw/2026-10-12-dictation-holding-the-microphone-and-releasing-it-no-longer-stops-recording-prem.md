@@ -4,20 +4,20 @@ date: '2026-10-12'
 description: 'OpenClaw · 2026-10-12 · Voice and Audio: Dictation. Holding the microphone
   and releasing it no longer stops recording prematurely. You can keep speaking, then…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1190
+  lag_days: 3017
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16b7141de77da29f3ea70b172b69679c72e8c2e2882f770c054faf6ef0f5cfa0
+machine_hash: cb8287ad4821731e6079d8404755a10e9ca1164194e804838461dcb31441c82e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -92,13 +92,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-speech-to-text-f7d11e|Speech to Text]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude Tag Added support for Slack voice clips in Claude in Slack]]
+- Later: 2026-10-13 · Descript · [[Changes/Descript/2026-10-13-search-finally-finds-the-file-you-named-final-final-v3-enterprise-teams-can-get|Search finally finds the file you named “final final v3.” Enterprise teams can get…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

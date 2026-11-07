@@ -4,20 +4,20 @@ date: '2025-12-18'
 description: 'Codex CLI · 2025-12-18 · Automation and Scheduling: #7961 refactor TUI
   event loop to enable dropping + recreating crossterm event stream'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 716
+  lag_days: 2283
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24b93736e47034a4372be93bf4353021ceb9b2cc964a5f5d940ab5847b5314f9
+machine_hash: 35cf234e7dc5069bae9888922918abcca9401f89e504a91e26a919cf99778844
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,7 @@ record:
     event stream'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-13-2-automation-and-scheduling-changes-in-1-10-0|2 Automation
-  and Scheduling changes in 1.10.0]]'
+- '[[Changes/HeyGen/2025-11-30-more-natural-movements|More natural movements]]'
 - '[[Changes/Dify/2025-12-11-admin-api-keys-skip-csrf-automation-now-flows-smoother-than-espresso|Admin
   API Keys skip CSRF — automation now flows smoother than espresso]]'
 - '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
@@ -99,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

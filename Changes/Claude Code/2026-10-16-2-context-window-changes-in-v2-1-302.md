@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-16 · Context Window: 2 changes in v2.1.302
   an `Idle compaction` row to `/config` for turning idle compaction off or back on;
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1261
+  lag_days: 2585
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b6e46562530d20d77e2a97314abbe49285097fe9b26802b56393a135cbf23b4
+machine_hash: eb03dba0be57a159029a12eb6405545a3efb8b6af6f81ca0152489d38a9c093c
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.302
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

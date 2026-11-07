@@ -4,20 +4,19 @@ date: '2024-02-14'
 description: 'Gamma · 2024-02-14 · Editor Experience: Contributor Block. Edit the
   Contributors displayed by simply toggling on/off individual names.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 337
+  lag_days: 1921
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 42a10bc6757615971bb3e1afb3670940665de995f652ed7434bb687b863f45ee
+machine_hash: 851fbe48b578d95644a3e217d01d9e2b9883d586d0a17a915a1725c4f8b5955b
 product: gamma
 product_name: Gamma
 record:
@@ -44,8 +43,7 @@ record:
   title: Contributor Block
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I
-  to Heal]]'
+- '[[Changes/Descript/2024-02-05-editor-updates|Editor Updates]]'
 - '[[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|Copilot++
   quality of life improvements…]]'
 - '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI
@@ -81,13 +79,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-02-09 · Cursor · [[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI Previews: this is an experimental new code reading feature]]
-- Later: 2024-02-23 · Cursor · [[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS Code 1.86.2]]
+- Later: 2024-02-20 · Descript · [[Changes/Descript/2024-02-20-editor-updates|Editor Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

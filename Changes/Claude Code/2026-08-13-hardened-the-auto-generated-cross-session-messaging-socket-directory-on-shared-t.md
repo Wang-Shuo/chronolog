@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-08-13 · Collaboration: Hardened the auto-gene
   cross-session messaging socket directory on shared `/tmp`: a pre-planted symlink
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1177
+  lag_days: 2771
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0539c788136586ec00d560331a168622a0a193e07511993fd9dde3d5afa7c15
+machine_hash: 6865136531a206093847d096e874f8498196108e4d2a25999d33ed81236f3d22
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +48,10 @@ record:
     `/tmp`
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop
-  the two bundles of the combined rollout package from invalidating each other''s…]]'
 - '[[Changes/Codex CLI/2026-08-07-10-collaboration-changes-in-rust-v0-147-0|10 Collaboration
   changes in rust-v0.147.0]]'
+- '[[Changes/HeyGen/2026-08-07-admins-can-choose-whether-new-avatars-are-public-or-private-by-default-when-avat|Admins
+  can choose whether new avatars are public or private by default]]'
 - '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
   initial experience includes My Drive and files and folders shared directly with
   you]]'
@@ -102,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

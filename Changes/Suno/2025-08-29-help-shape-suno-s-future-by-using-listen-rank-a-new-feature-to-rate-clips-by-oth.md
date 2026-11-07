@@ -5,20 +5,20 @@ description: 'Suno · 2025-08-29 · Pricing Model: Help shape Suno''s future by 
   Listen & Rank, a new feature to rate clips by other creators and get rewarded for
   sharing…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 988
+  lag_days: 2606
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 59002741ceb9c9a8d0c3fa5b3c4dc0819680a07acec4db5bd23ebe142151d742
+machine_hash: 12ec1f4ec174be6b11d4028b5bb4a6ede016280f9a48b8b10369e5b502ed05f6
 product: suno
 product_name: Suno
 record:
@@ -65,10 +65,10 @@ record:
   title: Listen and Rank, Earn Free Credits!
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT
-  launches ChatGPT Go, a new low-cost subscription plan]]'
 - '[[Changes/Gemini CLI/2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https|Update
   quota-and-pricing.md to clarify billing]]'
+- '[[Changes/Synthesia/2025-08-18-we-re-introducing-credits-instead-of-minutes-and-this-is-great-news|Introducing
+  credits instead of minutes]]'
 - '[[Changes/Replit/2025-08-29-organization-subscription-cancellation|Organization
   subscription cancellation]]'
 source_release: '[[Releases/Suno/suno-2025-08-29-e-listen-and-rank-earn-free-credits-f4e90e7d|suno-2025-08-29-e-listen-and-rank-earn-free-credits-f4e90e7d]]'
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

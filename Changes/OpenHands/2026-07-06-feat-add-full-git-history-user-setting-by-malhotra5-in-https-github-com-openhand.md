@@ -4,19 +4,20 @@ date: '2026-07-06'
 description: 'OpenHands · 2026-07-06 · Developer Workflow: feat: Add full Git history
   user setting by @malhotra5 in https://github.com/OpenHands/OpenHands/pull/14950'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1206
+  lag_days: 2855
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bae0c6986ebdee0de66358d822c11bbf882cdcff96ce0536628bb371233acfce
+machine_hash: 65a212f39189c2130cee982c799972ae7c20cbb2faa6fb5d32b71e0009d4b9d8
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +43,8 @@ record:
   title: 'feat: Add full Git history user setting'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude
-  agents session rows now show pull-request links as bare ♯N without…]]'
+- '[[Changes/Kimi Code/2026-07-03-enrich-path-from-the-user-s-login-shell-at-startup-so-shell-commands-find-user-i|Enrich
+  PATH from the user''s login shell at startup, so shell commands find…]]'
 - '[[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed
   /review pr back to a fast single-pass review]]'
 - '[[Changes/OpenCode/2026-07-06-3-developer-workflow-changes-in-v1-17-14|3 Developer
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

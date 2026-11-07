@@ -4,20 +4,20 @@ date: '2026-09-01'
 description: 'OpenClaw · 2026-09-01 · Voice and Audio: 9 changes in v2026.8.2 — v2026.8.2
   adds a Home button to the Control UI that opens your personal Home agent beside…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1149
+  lag_days: 2976
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 714da62dd8ddf8a2c8ea6aa53677d6a2e5c056c0b5cecdda01b5c093ce95f70a
+machine_hash: d92c4406566c2d0520796abdfda1865651d4c8c35e5a63e68bcb4a76e88ba1a2
 product: openclaw
 product_name: OpenClaw
 record:
@@ -158,13 +158,13 @@ Source: https://docs.openclaw.ai/releases/2026.8.2
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-2-voice-and-audio-changes-in-v2026-8-1|2 Voice and Audio changes in v2026.8.1]]
-- Later: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-added-drag-and-drop-and-improved-support-for-attaching-audio-files-to-conversati|Added drag-and-drop and improved support for attaching audio files to conversations…]]
+- Later: 2026-09-01 · Synthesia · [[Changes/Synthesia/2026-09-01-browse-featured-voices-filter-by-language-or-accent-and-preview-instantly-all-in|Find the right voice faster with the refreshed voice picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

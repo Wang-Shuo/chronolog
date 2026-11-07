@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3e9e60b6266ec9599dfcd627956cef2491ed328c252e97b963541e0070de5c2a
+machine_hash: 740a6618eecb889fa31e100fbf0c4402b09b7a20d24763b54b913e67f2347a5c
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-changed-auto-mode-on-bedrock-vertex-and-foundry-to-use-the-local-classifier-by-d|Changed auto mode on Bedrock, Vertex and Foundry to use the local classifier…]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-2-agent-mode-changes-in-v1-0-85|2 Agent Mode changes in v1.0.85]]
+- Later: 2026-09-15 · Kimi Code · [[Changes/Kimi Code/2026-09-15-reduce-event-loop-stalls-and-gc-churn-in-sessions-with-many-concurrent-subagents|Reduce event-loop stalls and GC churn in sessions with many concurrent subagents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

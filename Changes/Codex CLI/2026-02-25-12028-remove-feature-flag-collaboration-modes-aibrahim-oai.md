@@ -4,19 +4,20 @@ date: '2026-02-25'
 description: 'Codex CLI · 2026-02-25 · Collaboration: #12028 remove feature flag collaboration
   modes @aibrahim-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1008
+  lag_days: 2602
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d235293c1f42fd5b59e681d4aca2c1acd4b054c93b55e27cef2ad1bc369024d5
+machine_hash: edbe089529ac897d19376741db8e614399be92116ad15944e395e519a45764d8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,9 +41,10 @@ record:
   title: '#12028 remove feature flag collaboration modes @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-23-music|Music]]'
-- '[[Changes/Lovable/2026-02-23-external-collaborator-visibility|External collaborator
-  visibility]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-connect-copilot-with-monday-com-to-track-work-and-team-progress-web-microsoft-36|Connect
+  Copilot with Monday.com to track work and team progress…]]'
+- '[[Changes/Notion/2026-02-24-second-they-re-designed-for-teams-create-and-share-them-together-control-all-the|Second,
+  they’re designed for teams]]'
 - '[[Changes/OpenCode/2026-02-24-core-acp-both-live-and-load-share-synthetic-pending-status-preceding-actual-data|Core
   ACP both live and load share synthetic pending status preceding actual data]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
@@ -94,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

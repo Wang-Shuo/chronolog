@@ -5,19 +5,20 @@ description: "Open WebUI · 2025-02-18 · Collaboration: **\U0001F4E5 Download B
   for SVG Diagrams**: SVG diagrams generated within chat can now be downloaded instantly,
   making it…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 636
+  lag_days: 2230
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b4ae03e36a98b354c2f5770c541505fa88a4e49b316afe035be221955355098
+machine_hash: 5150c8908fc991c03f0229f9ea49d4c4f076f0c613f023bf93f5ac6e1bed556e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +47,12 @@ record:
   title: "**\U0001F4E5 Download Button for SVG Diagrams**"
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-03-the-team-took-some-time-to-recharge-but-updates-keep-coming|The
-  team took some time to recharge, but updates keep coming]]'
 - "[[Changes/Open WebUI/2025-01-05-clone-shared-chats-effortlessly-clone-shared-chats-to-save-time-and-streamline-c|\U0001F504
   Clone Shared Chats]]"
 - '[[Changes/Gamma/2025-01-23-gamma-now-offers-social-formats-in-addition-to-standard-presentations-and-docume|Introducing
   social content]]'
+- '[[Changes/Descript/2025-02-04-if-you-prefer-to-opt-out-you-can-let-us-know-by-submitting-a-ticket-to-our-suppo|If
+  you prefer to opt out you can let us know by submitting a ticket to our support…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-18-v0-5-13-github-200829556-33b45e61|open-webui-2025-02-18-v0-5-13-github-200829556-33b45e61]]'
 source_type: github_releases
 theme: collaboration
@@ -83,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-01-23 · Gamma · [[Changes/Gamma/2025-01-23-gamma-now-offers-social-formats-in-addition-to-standard-presentations-and-docume|Introducing social content]]
+- Earlier: 2025-02-04 · Descript · [[Changes/Descript/2025-02-04-if-you-prefer-to-opt-out-you-can-let-us-know-by-submitting-a-ticket-to-our-suppo|If you prefer to opt out you can let us know by submitting a ticket to our support…]]
 - Later: 2025-02-28 · Dify · [[Changes/Dify/2025-02-28-we-are-glad-to-share-that-we-re-launching-dify-v1-0-0|We are glad to share that we're launching Dify v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

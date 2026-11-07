@@ -4,20 +4,20 @@ date: '2026-07-31'
 description: 'Google Antigravity · 2026-07-31 · Mobile and Desktop: Improved mobile
   UI with native pickers and no keyboard popup on load.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1235
+  lag_days: 2819
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b596b5882945c581e7da3b793510b888109bbeec02c8b6df2db2a6bf465ab05f
+machine_hash: 2b19c0a68936c624960b16f4294a6b8b4f80f26df05b3f3e735d59d88c11b37d
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -42,8 +42,9 @@ record:
   title: Improved mobile UI with native pickers and no keyboard popup on load
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]'
 - '[[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]'
+- '[[Changes/Notion/2026-07-30-try-it-by-going-to-settings-preferences-appearance-available-on-desktop-and-web|Try
+  it by going to Settings  Preferences  Appearance]]'
 - '[[Changes/OpenCode/2026-07-30-4-mobile-and-desktop-changes-in-v1-18-10|4 Mobile
   and Desktop changes in v1.18.10]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02|google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02]]'
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

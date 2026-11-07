@@ -4,20 +4,20 @@ date: '2026-01-14'
 description: 'Claude Code · 2026-01-14 · Safety and Privacy: 2 changes in v2.1.7 —
   Added ability to provide feedback when accepting permission prompts'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1004
+  lag_days: 1996
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44904001d4241e4214492ab1cb2315244ad996a50e0b60b525c046fab4ccb64d
+machine_hash: 1deea54a1bb9a50738acf6caca6085cae6ebf9adf609436f03c82e9097ba6d3c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.7
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-provide-inline-feedback-when-rejecting-tool-permission-requests-so-agents-don-t|Provide
-  inline feedback when rejecting tool permission requests so agents don''t have…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-simplified-servicenow-tickets-setup-with-per-table-acl-rules-web-microsoft-365-c|Simplified
+  ServiceNow tickets setup with per-table ACL rules…]]'
 - '[[Changes/OpenCode/2026-01-13-terminal-add-fullscreen-view-to-permission-prompt|Terminal
   Add fullscreen view to permission prompt]]'
 - '[[Changes/OpenCode/2026-01-13-2-safety-and-privacy-changes-in-v1-1-16|2 Safety
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

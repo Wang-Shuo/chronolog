@@ -5,20 +5,19 @@ description: 'Gamma · 2024-09-17 · Editor Experience: We''ve introduced a powe
   new AI feature for Pro subscribers that lets you edit your entire gamma at once.
   Now you…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 553
+  lag_days: 2137
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9e5c6774b72410ff43266fe6c18396bf014300a660b3c37f013de23c543a7e12
+machine_hash: d84a86f52e9835ac8344a660beb48a2eb56e7c715cc1e3cc48223ef3949a8128
 product: gamma
 product_name: Gamma
 record:
@@ -50,8 +49,8 @@ record:
     you edit…
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude''s
-  changes now appear in your file''s Timeline, allowing you to easily view…]]'
+- '[[Changes/Descript/2024-09-10-edit-for-clarity-w-ai-speech|Edit for clarity w/
+  AI speech]]'
 - '[[Changes/Dify/2024-09-12-editor-can-also-create-api-key-by-cuckootan-in-https-github-com-langgenius-dify|editor
   can also create api key]]'
 - '[[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

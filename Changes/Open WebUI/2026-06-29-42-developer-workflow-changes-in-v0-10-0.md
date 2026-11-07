@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-06-29 · Developer Workflow: 42 changes in v0.1
   — \U0001F5A5️ **Open WebUI Computer agent support.** Open WebUI can now connect
   to Open WebUI…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1199
+  lag_days: 2848
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5532846adca4f2e65b9519dd2f3301f319e5a6c0cacd7dbe0c414482750a628b
+machine_hash: b6e8e19388c0d236477017b78d3699f16aa298e9f3bb08a18c23c8b0e045be19
 product: open-webui
 product_name: Open WebUI
 record:
@@ -274,10 +275,10 @@ record:
   title: 42 Developer Workflow changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-25-updated-the-permissions-request-dialog-to-display-a-clear-description-of-the-act|Updated
-  the permissions request dialog to display a clear description of the action…]]'
 - '[[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow
   changes in v4.0.0]]'
+- '[[Changes/Kimi Code/2026-06-26-2-developer-workflow-changes-in-kimi-code-0-20-1|2
+  Developer Workflow changes in Kimi Code 0.20.1]]'
 - '[[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer
   Workflow changes in v2.1.196]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
@@ -419,7 +420,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

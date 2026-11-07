@@ -4,20 +4,20 @@ date: '2026-08-10'
 description: 'Ollama · 2026-08-10 · Multimodal Input: 2 changes in v0.32.7 — **Muse
   Glimmer**, Meta''s newest open model and the first released by Meta Superintelligence…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1056
+  lag_days: 2824
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 33ed172fe078145d9d187bb2c947192c733ab7431f569b85319bc3a3492ec9d6
+machine_hash: b1f4eaa4837a94fc783ab74628090160534b5ae7a756001630d252f1e92d0624
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Multimodal Input changes in v0.32.7
   type: change
 related_changes:
-- '[[Changes/Runway/2026-07-28-pass-in-any-video-with-a-text-prompt-describing-an-entity-to-cut-it-out-as-a-tra|SAM3
-  Video Segmentation]]'
-- '[[Changes/OpenHands/2026-08-05-ci-require-frontend-screenshot-video-and-checked-human-tested-box-by-all-hands-b|ci:
-  require frontend screenshot/video and checked human-tested box]]'
+- '[[Changes/HeyGen/2026-08-07-script-customization-on-ppt-pdf-to-video|Script customization
+  on PPT / PDF to video]]'
+- '[[Changes/HeyGen/2026-08-07-caption-clarity-in-download-modal|Caption clarity in
+  download modal]]'
 - '[[Changes/Ollama/2026-08-10-ollama-s-mlx-engine-provides-state-of-the-art-performance-on-apple-silicon-for-t|Ollama''s
   MLX engine provides state-of-the-art performance on Apple Silicon…]]'
 source_release: '[[Releases/Ollama/ollama-2026-08-10-v0-32-7-github-367834672-50368457|ollama-2026-08-10-v0-32-7-github-367834672-50368457]]'
@@ -85,13 +85,13 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.32.7
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-08-10 · Ollama · [[Changes/Ollama/2026-08-10-ollama-s-mlx-engine-provides-state-of-the-art-performance-on-apple-silicon-for-t|Ollama's MLX engine provides state-of-the-art performance on Apple Silicon…]]
-- Later: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-python-sdk|Python SDK]]
+- Later: 2026-08-10 · Synthesia · [[Changes/Synthesia/2026-08-10-meet-new-eu-and-california-transparency-rules-with-automatic-c2pa-metadata-conte|Stay compliant with Content Credentials and AI labels]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

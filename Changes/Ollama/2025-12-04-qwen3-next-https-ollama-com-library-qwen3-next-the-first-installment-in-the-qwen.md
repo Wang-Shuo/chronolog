@@ -4,20 +4,20 @@ date: '2025-12-04'
 description: 'Ollama · 2025-12-04 · Reliability and Performance: [Qwen3-Next](https://ollama.com/library/qwen3-next):
   The first installment in the Qwen3-Next series with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1085
+  lag_days: 2572
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2fe1b4029d15b160a75ba830d6ffc5487ba2b76853308236f9dd56c5e47379d8
+machine_hash: c621b49c851203075efb9b98be7bdc493d1ac8d8745cbdc494a3c268132c3202
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,12 @@ record:
   title: '[Qwen3-Next](https://ollama.com/library/qwen3-next): The first installment…'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat:
-  update Cerebras models and speed]]'
 - '[[Changes/Open WebUI/2025-12-02-4-reliability-and-performance-changes-in-v0-6-41|4
   Reliability and Performance changes in v0.6.41]]'
 - '[[Changes/Codex CLI/2025-12-04-2-reliability-and-performance-changes-in-rust-v0-65-0|2
   Reliability and Performance changes in rust-v0.65.0]]'
+- '[[Changes/Descript/2025-12-04-get-a-creative-plan-before-underlord-starts-editing|Get
+  a creative plan before Underlord starts editing]]'
 source_release: '[[Releases/Ollama/ollama-2025-12-04-v0-13-2-github-267303329-800834f9|ollama-2025-12-04-v0-13-2-github-267303329-800834f9]]'
 source_type: github_releases
 theme: reliability-performance
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-2-reliability-and-performance-changes-in-rust-v0-65-0|2 Reliability and Performance changes in rust-v0.65.0]]
+- Earlier: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-get-a-creative-plan-before-underlord-starts-editing|Get a creative plan before Underlord starts editing]]
 - Later: 2025-12-05 · Replit · [[Changes/Replit/2025-12-05-connect-third-party-services-faster|Connect third-party services faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

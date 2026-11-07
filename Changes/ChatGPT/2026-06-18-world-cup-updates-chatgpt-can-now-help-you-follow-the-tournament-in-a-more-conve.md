@@ -4,19 +4,20 @@ date: '2026-06-18'
 description: 'ChatGPT · 2026-06-18 · Collaboration: World Cup updates: ChatGPT can
   now help you follow the tournament in a more conversational way. Ask about schedules…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1121
+  lag_days: 2715
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 978a34c9c9a69009a96e646becbbda990550340c64114cf37162a953485908bf
+machine_hash: 1ee82a6e93fc1753bbe14dd691c958a0220f3cea6a3aaf1a9f970af457d797ba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +47,10 @@ record:
   title: World Cup updates
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245
-  image: add shared data URL preparation utilities @fjord-oai]]'
 - '[[Changes/Lovable/2026-06-15-clearer-inbox-notifications|Clearer inbox notifications]]'
 - '[[Changes/Lovable/2026-06-16-cleaner-preview-links|Cleaner preview links]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-connect-15five-data-to-surface-team-priorities-and-recognition-web-microsoft-365|Connect
+  15Five data to surface team priorities and recognition…]]'
 scope: Web, iOS, and Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -86,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-cleaner-preview-links|Cleaner preview links]]
+- Earlier: 2026-06-16 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-16-connect-15five-data-to-surface-team-priorities-and-recognition-web-microsoft-365|Connect 15Five data to surface team priorities and recognition…]]
 - Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-4-collaboration-changes-in-annotations-mode-in-form-questions|4 Collaboration changes in Annotations mode, in-form questions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

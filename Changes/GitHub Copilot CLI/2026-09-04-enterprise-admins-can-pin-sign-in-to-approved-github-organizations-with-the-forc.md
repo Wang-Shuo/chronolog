@@ -4,20 +4,20 @@ date: '2026-09-04'
 description: 'GitHub Copilot CLI · 2026-09-04 · Enterprise and Administration: Enterprise
   admins can pin sign-in to approved GitHub organizations with the forceLoginOrgs…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1218
+  lag_days: 2425
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 21fa1b4d7f5cf76abc9007a650209c67684b9298abd61e49a8e0e26ab5e7e9cc
+machine_hash: 3a2c104dcf998e9d0bf5fe4c75a5063871a00dc70d2b3ca4f279a009f4101d78
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,13 +97,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-03 · Lovable · [[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your workspace adopts Lovable]]
-- Later: 2026-09-04 · Lovable · [[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect your preview links]]
+- Later: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-projects-page-organized-for-scale|Projects page, organized for scale]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

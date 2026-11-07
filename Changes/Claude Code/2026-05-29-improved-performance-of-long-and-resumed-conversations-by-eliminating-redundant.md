@@ -4,20 +4,20 @@ date: '2026-05-29'
 description: 'Claude Code · 2026-05-29 · Reliability and Performance: Improved performance
   of long and resumed conversations by eliminating redundant message-rendering…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1261
+  lag_days: 2748
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86cd8998df7395b3983eaaae3306cc5b0ee8cc6eb341e294cbd85200d4c7f6aa
+machine_hash: 7887da8f91909f97a7ecc615c9bc9605085a451994c201b3e0c068953a0de10f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Improved performance of long and resumed conversations by eliminating redundant…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude
-  Code now shows a one-time notice when your npm global install can''t auto-update]]'
 - '[[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed
   the /effort slider labels…]]'
+- '[[Changes/Kimi Code/2026-05-28-offload-large-base64-media-payloads-from-wire-jsonl-into-external-blob-files-to|Offload
+  large base64 media payloads from wire.jsonl into external blob files…]]'
 - '[[Changes/Lovable/2026-05-28-improvements-and-bug-fixes|Improvements and bug fixes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

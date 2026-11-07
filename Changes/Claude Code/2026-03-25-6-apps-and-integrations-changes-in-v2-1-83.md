@@ -4,20 +4,20 @@ date: '2026-03-25'
 description: 'Claude Code · 2026-03-25 · Apps and Integrations: 6 changes in v2.1.83
   — Added `CwdChanged` and `FileChanged` hook events for reactive environment management…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1098
+  lag_days: 2658
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce586c79319e657e22a025b4962e371448222de7beb97cbaaf5706203f5fdc56
+machine_hash: b93de81685ebc18bff36d3227d42cf7de8948fd8095e46d408a01b15043bf071
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,10 @@ record:
   title: 6 Apps and Integrations changes in v2.1.83
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-23-6-apps-and-integrations-changes-in-v1-0-11|6
-  Apps and Integrations changes in v1.0.11]]'
-- '[[Changes/Gemini CLI/2026-03-24-5-apps-and-integrations-changes-in-v0-35-0|5 Apps
-  and Integrations changes in v0.35.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-search-aha-features-and-ideas-in-copilot-with-a-connector-web-microsoft-365-copi|Search
+  Aha! features and ideas in Copilot with a connector…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-connect-copilot-to-smartsheet-for-project-and-task-management-web-microsoft-365|Connect
+  Copilot to Smartsheet for project and task management…]]'
 - '[[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google
   Drive app unification]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
@@ -115,7 +115,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

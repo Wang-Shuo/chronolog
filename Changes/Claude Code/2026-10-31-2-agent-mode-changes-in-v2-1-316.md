@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f47e46ed19b174cab0c46ab6ece31e8e7642ace340038eb104a4b4d23970d78
+machine_hash: 69fb01e83693d0e1fd62c678f11f4c48f31c9a15c5bd8e2f4988e7ae9eb6af7d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,7 +46,8 @@ record:
   title: 2 Agent Mode changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-guided-claude-agent-setup|Guided Claude Agent Setup]]'
+- '[[Changes/Qoder/2026-10-30-2-agent-mode-changes-in-qoder-0-5-1|2 Agent Mode changes
+  in Qoder 0.5.1]]'
 - '[[Changes/Replit/2026-10-30-contribute-to-your-company-codebase-with-cloud-agents|Contribute
   to your company codebase with Cloud Agents]]'
 - '[[Changes/Replit/2026-10-30-message-and-create-chats-with-agent|Message and create

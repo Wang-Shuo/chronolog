@@ -4,20 +4,21 @@ date: '2025-06-16'
 description: "Open WebUI · 2025-06-16 · Account and Access: 2 changes in v0.6.15 —
   \U0001F6E1️ **Trusted Header Email Matching is Now Case-Insensitive**: Fixed a critical…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 809
+  lag_days: 1784
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f7eee806024d5be6c0fe9dfbbbdb0a9cbe8eb159deeaceaaad6d48a586333e1
+machine_hash: 1aa8452f4caf4acf5b5a35b3b32ff609384de99e384ca6ed4bdacdb5443064d8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -103,7 +104,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.15
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

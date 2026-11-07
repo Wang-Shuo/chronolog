@@ -4,20 +4,21 @@ date: '2025-03-31'
 description: 'Aider · 2025-03-31 · Account and Access: 2 changes in Aider v0.80.0
   — OpenRouter OAuth integration:'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 732
+  lag_days: 1707
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72255fd697b6fa28db1999050305d5f94d213e222f925f97de327d616694e76c
+machine_hash: 3901c9a4bd638d40a572a56857cdb15276df485367431d32613e33babb32149a
 product: aider
 product_name: Aider
 record:
@@ -42,12 +43,12 @@ record:
   title: 2 Account and Access changes in v0.80.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-13-oauth-debug-logs-username-claim-fixes-debug-logs-have-been-added-for-oauth-role|\U0001F527
-  OAuth Debug Logs & Username Claim Fixes]]"
 - '[[Changes/Open WebUI/2025-03-05-2-account-and-access-changes-in-v0-5-19|2 Account
   and Access changes in v0.5.19]]'
 - '[[Changes/Dify/2025-03-11-update-login-py-by-albcunha-in-https-github-com-langgenius-dify-pull-15320|Update
   login.py]]'
+- "[[Changes/Notion/2025-03-26-sign-in-quickly-and-securely|Sign in quickly and securely
+  \U0001F4A8]]"
 source_release: '[[Releases/Aider/aider-2025-03-31-v0-80-0-github-209238246-56764716|aider-2025-03-31-v0-80-0-github-209238246-56764716]]'
 source_type: github_releases
 theme: account-access
@@ -84,14 +85,14 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.80.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-update-login-py-by-albcunha-in-https-github-com-langgenius-dify-pull-15320|Update login.py]]
+- Earlier: 2025-03-26 · Notion · [[Changes/Notion/2025-03-26-sign-in-quickly-and-securely|Sign in quickly and securely 💨]]
 - Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-2-account-and-access-changes-in-v0-6-0|2 Account and Access changes in v0.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

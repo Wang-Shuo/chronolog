@@ -5,20 +5,20 @@ description: 'Dify · 2025-08-27 · Files and Data: 4 changes in v1.8.0 - Async 
   meet multi-model management with OAuth-powered integrations. — **Document Sorting
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 825
+  lag_days: 2170
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6717daa2a8b06d225048611bd2a6a7eea3d9521933a72d2c49d07f0ab001c1c5
+machine_hash: 43a1378cf3bc8c69001be227033f41c71cf5ccd10dc2601db03166cb2b172fc4
 product: dify
 product_name: Dify
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

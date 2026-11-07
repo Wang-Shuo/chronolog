@@ -5,20 +5,20 @@ description: 'v0 · 2026-05-15 · Interface Experience: 2 changes in Claude Opus
   Fast, agent browser screenshots, and more — The project picker dropdown loads on
   open…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1222
+  lag_days: 2588
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07fbfbbb2efb9db99236f7710d9d0cc96a4e79498a15f157f98e56528d1c2a1c
+machine_hash: ffbce1f585f3510b33bcc8a7de27fd638f7eff9517f1ccde2aaccbfab479b0fa
 product: v0
 product_name: v0
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Interface Experience changes in Claude Opus 4.7 Fast, agent browser…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support
-  j/k keys for up/down navigation in the /diff view]]'
+- '[[Changes/Descript/2026-05-14-workspaces-drive-sidebar-and-settings-redesigns|Workspaces,
+  Drive sidebar, and Settings redesigns]]'
 - '[[Changes/OpenCode/2026-05-14-restored-markdown-rendering-for-session-output-by-default|Restored
   markdown rendering for session output by default]]'
 - '[[Changes/OpenCode/2026-05-15-auto-hide-the-menu-bar-on-linux-and-windows|Auto-hide
@@ -99,7 +99,7 @@ Source: https://v0.app/changelog#2026-05-15
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

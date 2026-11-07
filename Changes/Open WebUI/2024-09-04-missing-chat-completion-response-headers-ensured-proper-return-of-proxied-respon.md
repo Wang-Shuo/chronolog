@@ -5,20 +5,19 @@ description: "Open WebUI · 2024-09-04 · Editor Experience: **\U0001F504 Missin
   Completion Response Headers**: Ensured proper return of proxied response headers
   during chat…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 540
+  lag_days: 2124
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fc0ab32d7a45fb51745147447278affc806d6976e4524710ce472fb762fb093
+machine_hash: b430d36d44f72de87067fa5c98d5e6e35a8058789a8b140a662f3eef9f1dd809
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +43,9 @@ record:
   title: "**\U0001F504 Missing Chat Completion Response Headers**"
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-08-16-we-re-releasing-a-new-web-editor-today|We''re releasing
-  a new web editor today!]]'
 - '[[Changes/Dify/2024-08-19-3-editor-experience-changes-in-0-7-1|3 Editor Experience
   changes in 0.7.1]]'
+- '[[Changes/Descript/2024-08-27-general-editor-updates|General Editor updates]]'
 - '[[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You
   can now edit Claude''s changes before accepting! When he edits or creates…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-04-v0-3-17-github-173470375-c2cf3822|open-webui-2024-09-04-v0-3-17-github-173470375-c2cf3822]]'
@@ -90,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

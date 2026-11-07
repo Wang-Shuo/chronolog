@@ -4,20 +4,19 @@ date: '2026-06-13'
 description: 'GitHub Copilot CLI · 2026-06-13 · Editor Experience: 2 changes in 1.0.62
   — Press `/` on the Issues or Pull Requests tab to search GitHub with server-side…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1187
+  lag_days: 2771
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b6ae93afb5e085ac83657f8684498b89d4251cd3b044eda878764838a27d7497
+machine_hash: 1d4d8018a6c88a19def221ca256884e95b28ab6b453b228988710c175cde1b09
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +42,12 @@ record:
   title: 2 Editor Experience changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-10-the-3-1-series-builds-on-the-devin-desktop-rebrand-with-a-smoother-agent-editor|The
-  3.1 series builds on the Devin Desktop rebrand with a smoother Agent/Editor…]]'
-- '[[Changes/Gamma/2026-06-12-the-editor-got-a-reliability-sweep|The editor got a
-  reliability sweep]]'
 - '[[Changes/Gamma/2026-06-12-a-smoother-editing-and-presenting-experience|A smoother
   editing and presenting experience]]'
+- '[[Changes/Kimi Code/2026-06-12-find-slash-commands-by-their-aliases-in-autocomplete-typing-clear-now-suggests-n|Find
+  slash commands by their aliases in autocomplete]]'
+- '[[Changes/Synthesia/2026-06-12-a-set-of-small-but-satisfying-editor-improvements-to-resizing-trimming-stock-sea|10
+  improvements to your Editor experience]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: editor-experience
@@ -95,14 +94,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.62
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-12 · Gamma · [[Changes/Gamma/2026-06-12-a-smoother-editing-and-presenting-experience|A smoother editing and presenting experience]]
+- Earlier: 2026-06-12 · Synthesia · [[Changes/Synthesia/2026-06-12-a-set-of-small-but-satisfying-editor-improvements-to-resizing-trimming-stock-sea|10 improvements to your Editor experience]]
 - Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-2-editor-experience-changes-in-rust-v0-140-0|2 Editor Experience changes in rust-v0.140.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

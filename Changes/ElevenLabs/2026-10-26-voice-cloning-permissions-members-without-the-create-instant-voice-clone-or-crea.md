@@ -4,20 +4,20 @@ date: '2026-10-26'
 description: 'ElevenLabs · 2026-10-26 · Safety and Privacy: **Voice cloning permissions**:
   Members without the **Create instant voice clone** or **Create professional voice…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1289
+  lag_days: 2281
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5be0a98eb9c9a91cc89e7747f62d31bd4756d43e0c11d32c87424a7cc49bf19b
+machine_hash: 23bdd34ee11c4147b3875f17b3c23f2cb2a28e15c28a94940ed2d3187f057ba5
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -102,13 +102,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-26 · Cline · [[Changes/Cline/2026-10-26-starting-or-resuming-a-cloud-sandbox-shows-a-progress-card-with-the-repo-branch|Starting or resuming a cloud sandbox shows a progress card with the repo, branch…]]
-- Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]
+- Later: 2026-10-26 · Kimi Code · [[Changes/Kimi Code/2026-10-26-merge-the-two-repeated-permission-mode-notice-lines-in-the-swarm-and-goal-start|Merge the two repeated permission-mode notice lines in the swarm and goal start…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

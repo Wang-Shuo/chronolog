@@ -4,19 +4,20 @@ date: '2026-09-24'
 description: 'Midjourney · 2026-09-24 · Collaboration: A few updates to share with
   you today'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 2813
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ec00d8286e0a673ab72c0dd38abc8f731b5e8fea037e658a7c3d919fc3e82af
+machine_hash: 78aab6a9be7e093f692c941f6e65a68447724a27244d190b12df63572343f46f
 product: midjourney
 product_name: Midjourney
 record:
@@ -42,11 +43,11 @@ record:
   title: A few updates to share with you today
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-test-strengthen-shared-utility-behavior-by-aivong-openhands-in-https-github-com|test:
-  strengthen shared utility behavior]]'
 - '[[Changes/Cursor/2026-09-23-team-rules|Team rules]]'
 - '[[Changes/OpenClaw/2026-09-23-16-collaboration-changes-in-v2026-9-6|16 Collaboration
   changes in v2026.9.6]]'
+- '[[Changes/Qoder/2026-09-23-a-new-space-for-human-and-agent-collaboration|A New
+  Space for Human and Agent Collaboration]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-09-24-https-updates-midjourney-com-edit-updates-thumbnail-previews-and-1be82b98|midjourney-2026-09-24-https-updates-midjourney-com-edit-updates-thumbnail-previews-and-1be82b98]]'
 source_type: midjourney_changelog
 theme: collaboration
@@ -75,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-16-collaboration-changes-in-v2026-9-6|16 Collaboration changes in v2026.9.6]]
+- Earlier: 2026-09-23 · Qoder · [[Changes/Qoder/2026-09-23-a-new-space-for-human-and-agent-collaboration|A New Space for Human and Agent Collaboration]]
 - Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-47411-apply-shared-network-policy-throughout-embedded-codex-startup-acrognale-oa|♯47411 Apply shared network policy throughout embedded Codex startup @acrognale-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

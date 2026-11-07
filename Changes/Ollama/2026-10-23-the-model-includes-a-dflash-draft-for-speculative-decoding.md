@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8442cbd38fda4ef504c3a40c189949167b43dfad5a96684c456ea27043032678
+machine_hash: 902fe6e0eb3874f8047cd6647131b2c8d64c6a8ddad835fe781544ae3af73fb3
 product: ollama
 product_name: Ollama
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-operations-archive-storage-supports-configurable-s3-addressing-style-the-api-ima|Operations: archive storage supports configurable S3 addressing style]]
-- Later: 2026-10-24 · Ollama · [[Changes/Ollama/2026-10-24-d3-https-ollama-com-library-d3-brings-vllm-semantic-router-s-decision-models-to|d3((source link) brings vLLM Semantic Router's decision models…]]
+- Later: 2026-10-23 · Qoder · [[Changes/Qoder/2026-10-23-2-model-support-changes-in-qoder-0-4-11|2 Model Support changes in Qoder 0.4.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2024-11-25'
 description: 'Dify · 2024-11-25 · Apps and Integrations: feat: add a minimal separator
   between pinned apps and unpinned apps in the explore page by @kurokobo in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 613
+  lag_days: 2173
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cf0484f669a1a2a32927a059452dcd0b3269a6898b508c1081a7f874747c30c
+machine_hash: 9792b9d0a5aa93fa7174d22023caeabcaaea2dac2032f84d4ced44adbf80e258
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
     explore page'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-05-3-apps-and-integrations-changes-in-0-11-0|3 Apps and
-  Integrations changes in 0.11.0]]'
 - '[[Changes/Dify/2024-11-11-gitlab-tools-integration-amp-up-your-devops-with-the-integration-of-gitlab-tools|GitLab
   Tools Integration]]'
+- '[[Changes/Descript/2024-11-19-you-can-add-status-page-updates-to-your-slack-workspace-using-the-the-subscribe|You
+  can add status page updates to your Slack workspace using the the Subscribe to Updates]]'
 - "[[Changes/Open WebUI/2024-11-19-functions-moved-to-admin-panel-as-functions-operate-as-advanced-plugins-they-are|\U0001F6E0️
   Functions Moved to Admin Panel]]"
 source_release: '[[Releases/Dify/dify-2024-11-25-0-12-0-github-187239779-b9caba2f|dify-2024-11-25-0-12-0-github-187239779-b9caba2f]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

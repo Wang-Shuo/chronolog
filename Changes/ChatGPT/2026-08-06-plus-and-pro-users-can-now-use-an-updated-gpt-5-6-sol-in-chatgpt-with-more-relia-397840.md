@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e828f294183aa246d37256e816803c0fb0a521243e91d06c04a8d99b7af1d431
+machine_hash: 617ec30e7397ac970d188fe6f500faaf6575152baff3d9cb45b32ce1b774e34d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,12 +55,12 @@ record:
   title: Updates to GPT‑5.6 in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-05-5-model-support-changes-in-v4-1-4|5 Model Support changes
-  in v4.1.4]]'
-- '[[Changes/Cline/2026-08-05-explain-when-a-free-model-promotion-ends-requests-to-a-retired-free-model-now-sh|Explain
-  when a free model promotion ends]]'
 - '[[Changes/Codex CLI/2026-08-05-37057-0-146-backport-safer-cyber-model-auto-review-defaults-anp-oai|♯37057
   0.146 Backport safer cyber-model auto-review defaults @anp-oai]]'
+- '[[Changes/Descript/2026-08-05-two-more-models-to-choose-from|Two more models to
+  choose from]]'
+- '[[Changes/Descript/2026-08-05-a-solstice-a-red-moon-and-a-slew-of-new-descript-features-early-summer-had-it-al|A
+  solstice, a red moon, and a slew of new Descript features—early summer had it all]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-06-updates-to-gpt-5-6-in-chatgpt-29572055|chatgpt-2026-08-06-updates-to-gpt-5-6-in-chatgpt-29572055]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-05 · Codex CLI · [[Changes/Codex CLI/2026-08-05-37057-0-146-backport-safer-cyber-model-auto-review-defaults-anp-oai|♯37057 0.146 Backport safer cyber-model auto-review defaults @anp-oai]]
+- Earlier: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-a-solstice-a-red-moon-and-a-slew-of-new-descript-features-early-summer-had-it-al|A solstice, a red moon, and a slew of new Descript features—early summer had it all]]
 - Later: 2026-08-06 · Cline · [[Changes/Cline/2026-08-06-2-model-support-changes-in-v4-1-6|2 Model Support changes in v4.1.6]]
 <!-- chronolog:end -->
 

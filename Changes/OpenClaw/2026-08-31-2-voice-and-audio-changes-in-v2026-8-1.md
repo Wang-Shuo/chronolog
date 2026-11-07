@@ -4,20 +4,20 @@ date: '2026-08-31'
 description: 'OpenClaw · 2026-08-31 · Voice and Audio: 2 changes in v2026.8.1 — Native
   Apps - iPhone, iPad, Android, macOS, and Wear OS bring voice, attachments, model…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1148
+  lag_days: 2975
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2051d2d6ac1b0c24b0c7853e2d0362afa055d593fd40a76f7b90c27f9032a9a
+machine_hash: 736ee74d7d27c87bd1d6a33603f03d9f616ddbffe48306f04d28133f855131cd
 product: openclaw
 product_name: OpenClaw
 record:
@@ -97,7 +97,7 @@ Source: https://docs.openclaw.ai/releases/2026.8.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'Codex CLI · 2026-06-04 · Interface Experience: 2 changes in 0.137.0
   — #25400 Allow paste in searchable selection menus @charliemarsh-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1242
+  lag_days: 2608
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8be81d608abc6d81a2ce1953501147108cc955a8319dc153b7112cdb4ba4c6ac
+machine_hash: 19fc49acf66867684119a69c3a9bb9d79f04eb7c6cf9dc575427777a6b6469a0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Interface Experience changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface
-  Experience changes in v2.1.161]]'
 - '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking
   a slash command in the autocomplete menu now fills it into your prompt…]]'
+- '[[Changes/Kimi Code/2026-06-03-2-interface-experience-changes-in-kimi-code-0-9-0|2
+  Interface Experience changes in Kimi Code 0.9.0]]'
 - '[[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface
   Experience changes in v2.1.163]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece|codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece]]'
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.137.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

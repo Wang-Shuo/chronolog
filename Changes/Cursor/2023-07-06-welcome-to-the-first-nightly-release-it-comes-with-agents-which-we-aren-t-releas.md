@@ -13,12 +13,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9bb45746d1b842f2b957e2e7a0606e56912e1734b60adac7bdb85e31a59261cd
+machine_hash: 90a59029d763411c1e8bff7107f7e677a65d4c0b19e508871cd95694e8efd4aa
 product: cursor
 product_name: Cursor
 record:
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry among the 37 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

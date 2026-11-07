@@ -5,19 +5,20 @@ description: "Open WebUI · 2024-10-24 · Collaboration: **\U0001F4C1 Folders Su
   for Chats**: Organize your chats better by grouping them into folders. Drag and
   drop chats between…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 519
+  lag_days: 2113
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0fdb6c47e42622faccf4bf64a1e94de5db824406793eae4adb73e3d31e97694a
+machine_hash: e47a76f555a81c39612bfabe60fe710389bc8d6000c19720ed8f0b3991752885
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +48,8 @@ record:
     grouping them into folders"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-30-with-this-release-we-re-truly-showcasing-the-power-of-dify-we-appreciate-your-co|With
-  this release, we’re truly showcasing the power of Dify!]]'
+- '[[Changes/Descript/2024-10-08-data-sharing-is-disabled-for-enterprise-drives|Data
+  sharing is disabled for Enterprise Drives]]'
 - '[[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New
   README and got a cool domain for the project (source link) (wip)]]'
 - '[[Changes/Gamma/2024-10-23-view-images-your-teammates-have-created-in-shared-gammas|View
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

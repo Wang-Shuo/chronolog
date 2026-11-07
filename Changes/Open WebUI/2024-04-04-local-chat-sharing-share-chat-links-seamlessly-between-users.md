@@ -4,19 +4,20 @@ date: '2024-04-04'
 description: "Open WebUI · 2024-04-04 · Collaboration: \U0001F5E8️ **Local Chat Sharing**:
   Share chat links seamlessly between users."
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 316
+  lag_days: 1910
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ddcf65665988bb79d390946cabe25604a4b0d7529e95bd1b9145c7dd82a1b24
+machine_hash: 26f5908cfcb174cad5c22e1738e38f3d3e90be8478b001b6981fce44e969b96b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,10 +43,10 @@ record:
     users"
   type: change
 related_changes:
-- '[[Changes/Suno/2024-03-05-you-can-share-playlists-using-their-link-only-people-with-access-to-the-link-can|You
-  can share playlists using their link]]'
 - '[[Changes/Gamma/2024-03-14-we-ve-gotten-a-lot-of-requests-for-speakers-notes-and-today-they-re-here-access|Card
   notes and Presenter View]]'
+- '[[Changes/Descript/2024-03-19-we-released-a-backend-hotfix-to-address-a-bug-causing-descript-share-pages-load|We
+  released a backend hotfix to address a bug causing Descript Share pages load…]]'
 - "[[Changes/Open WebUI/2024-03-31-webhook-support-now-compatible-with-google-chat-and-microsoft-teams|\U0001F4AC
   Webhook Support: Now compatible with Google Chat and Microsoft Teams]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-04-04-v0-1-117-github-149699471-c32be5ac|open-webui-2024-04-04-v0-1-117-github-149699471-c32be5ac]]'
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

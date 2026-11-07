@@ -4,19 +4,20 @@ date: '2025-08-01'
 description: 'Claude · 2025-08-01 · Collaboration: Enabled project permissions and
   sharing for Team and Enterprise plans. See Organization-wide sharing for more information.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 800
+  lag_days: 2394
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b47165b72eab8ac6dbd393cfd75fd7e98d729ff0ff8348b1f07f4ddd5cfaaf46
+machine_hash: 874bf824e2d14ae0b39ebd61c68f3d09228caed431a8126405b5051e5759f636
 product: claude
 product_name: Claude
 record:
@@ -42,12 +43,12 @@ record:
   title: Project Sharing
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-07-19-user-group-add-remove-endpoints-effortlessly-add-or-remove-users-from-groups-wit|\U0001F465
-  User Group Add/Remove Endpoints]]"
 - '[[Changes/Cline/2025-07-22-move-duplicated-code-for-loading-the-protobuf-descriptor-set-into-a-shared-util|Move
   duplicated code for loading the protobuf descriptor set into a shared util file]]'
 - '[[Changes/Cline/2025-07-31-refactor-setup-e2e-tests-to-use-shared-mock-server-by-abeatrix-in-https-github-c|refactor:
   setup e2e tests to use shared mock server]]'
+- '[[Changes/Descript/2025-07-31-quick-share-multi-track-support|Quick Share & multi-track
+  support]]'
 source_release: '[[Releases/Claude/claude-2025-08-01-2025-08-01-3bbceb1a|claude-2025-08-01-2025-08-01-3bbceb1a]]'
 source_type: claude_changelog
 theme: collaboration
@@ -74,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-refactor-setup-e2e-tests-to-use-shared-mock-server-by-abeatrix-in-https-github-c|refactor: setup e2e tests to use shared mock server]]
+- Earlier: 2025-07-31 · Descript · [[Changes/Descript/2025-07-31-quick-share-multi-track-support|Quick Share & multi-track support]]
 - Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

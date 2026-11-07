@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 968971c40e9162be0b344325dc8b71ed135a021a7990d2d5206eae0ff27c05ad
+machine_hash: b578a561bbaab8a44b0a0d7255112766d2b13f2986652c17e40cd7e6665c4711
 product: openclaw
 product_name: OpenClaw
 record:
@@ -53,12 +53,12 @@ record:
   title: 4 Agent Mode changes in v2026.11.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-03-you-can-now-work-directly-in-a-folder-on-another-computer-connected-to-openclaw|Work
-  directly in a folder on another computer connected to OpenClaw]]'
-- '[[Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0|3 Agent Mode changes
-  in v1.35.0]]'
-- '[[Changes/Dify/2026-11-04-14-agent-mode-changes-in-1-19-0|14 Agent Mode changes
-  in 1.19.0]]'
+- '[[Changes/Kimi Code/2026-11-04-3-agent-mode-changes-in-kimi-code-2-5-0|3 Agent
+  Mode changes in Kimi Code 2.5.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-sharepoint-list-agent-web-microsoft-365-copilot|SharePoint
+  list agent Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-agents-usage-report-web-microsoft-365-admin-center|Agents
+  usage report Web (Microsoft 365 admin center)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-05-v2026-11-1-7d3de823|openclaw-2026-11-05-v2026-11-1-7d3de823]]'
 source_type: openclaw_changelog
 theme: agent-mode
@@ -109,7 +109,7 @@ Source: https://docs.openclaw.ai/releases/2026.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-14-agent-mode-changes-in-1-19-0|14 Agent Mode changes in 1.19.0]]
+- Earlier: 2026-11-04 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-11-04-agents-usage-report-web-microsoft-365-admin-center|Agents usage report Web (Microsoft 365 admin center)]]
 - Later: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-2-agent-mode-changes-in-v1-36-0|2 Agent Mode changes in v1.36.0]]
 <!-- chronolog:end -->
 

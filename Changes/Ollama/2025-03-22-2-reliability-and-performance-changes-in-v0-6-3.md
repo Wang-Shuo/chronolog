@@ -5,20 +5,20 @@ description: 'Ollama · 2025-03-22 · Reliability and Performance: 2 changes in 
   — New sliding window attention optimizations for Gemma 3, improving inference speed
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 828
+  lag_days: 2315
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 573ac055660d3c176a4a7ebe0012734727b1d11cf370fa2503876249e9d5c117
+machine_hash: 5e9dbddf0411564c87f5e9e14cf5666c1a51fce14d4bde6212afbcef9b708971
 product: ollama
 product_name: Ollama
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.6.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

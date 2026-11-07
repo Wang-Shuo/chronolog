@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'Codex CLI · 2026-06-04 · Context Window: 3 changes in 0.137.0 — Shared
   prompts, context fragments, and skills plumbing moved into dedicated crates/extension…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1127
+  lag_days: 2451
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b6e4be28a9eea36eb8b1b45b33a081662e2537722d691b1b9268e712ed7bed2
+machine_hash: bf02eeb6763abf3a042e07d3d7eddaee5d02095d6ef1f3d3512e654b4b83270e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Context Window changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-01-4-context-window-changes-in-v0-9-6|4 Context Window
-  changes in v0.9.6]]'
+- '[[Changes/Kimi Code/2026-06-02-append-the-current-todo-list-as-markdown-to-compaction-summaries-before-writing|Append
+  the current todo list as markdown to compaction summaries before writing them…]]'
 - '[[Changes/Gemini CLI/2026-06-03-feat-context-complete-simplification-work-by-joshualitt-in-https-github-com-goog|feat(context):
   Complete simplification work]]'
 - '[[Changes/Ollama/2026-06-03-the-llama-cpp-backend-now-includes-cached-prompt-tokens-in-token-accounting-impr|The
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.137.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-03-25 · Reliability and Performance: 3 change
   v2.1.83 — Improved Bedrock SDK cold-start latency by overlapping profile fetch with
   other…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1196
+  lag_days: 2683
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7292b62fb4a5558de1eee1f8c2a7645813781d3281a6117dbf4efc3e99591006
+machine_hash: 9c8d4b11774bf3d7243eb043526e53856cd8344895aa1f19b92373e99a6258b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Reliability and Performance changes in v2.1.83
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-22-providers-models-xai-responses-api-improved-xai-reasoning-models-performance-in|Providers
-  & Models xAI Responses API]]'
 - '[[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0
   Release Candidate]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-summarize-and-explain-actions-in-pdf-reader-web-microsoft-365-copilot-chat|Summarize
+  and Explain actions in PDF reader Web (Microsoft 365 Copilot Chat)]]'
 - '[[Changes/OpenCode/2026-03-24-2-reliability-and-performance-changes-in-v1-3-2-1|2
   Reliability and Performance changes in v1.3.2 + 1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

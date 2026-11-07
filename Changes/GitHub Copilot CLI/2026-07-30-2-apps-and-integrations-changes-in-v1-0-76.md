@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-07-30 · Apps and Integrations: 2 chang
   1.0.76 — Add enable/disable controls in /plugins for plugins, instructions, agents,
   LSP…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1225
+  lag_days: 2785
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 589b431cce46cadfc8043df3416319d26dc56ac69eb38bc70812100133d9c118
+machine_hash: 97bd788ace144d51eeaffa1ef023a602e35af24eb17e238a668b6a64eab039c2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Apps and Integrations changes in v1.0.76
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign
-  in with ChatGPT]]'
-- '[[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47
-  Apps and Integrations changes in rust-v0.146.0]]'
+- '[[Changes/Kimi Code/2026-07-29-2-apps-and-integrations-changes-in-kimi-code-0-30-0|2
+  Apps and Integrations changes in Kimi Code 0.30.0]]'
 - '[[Changes/Lovable/2026-07-29-app-chat-connectors-amazon-redshift-and-microsoft-fabric|App
   + chat connectors: Amazon Redshift and Microsoft Fabric]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-admins-can-now-edit-user-mappings-and-query-filters-for-servicenow-connector-web|Admins
+  can now edit user mappings and query filters for ServiceNow Connector…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'
 source_type: github_releases
 theme: apps-integrations
@@ -93,14 +93,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.76
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-29 · Lovable · [[Changes/Lovable/2026-07-29-app-chat-connectors-amazon-redshift-and-microsoft-fabric|App + chat connectors: Amazon Redshift and Microsoft Fabric]]
-- Later: 2026-07-30 · OpenHands · [[Changes/OpenHands/2026-07-30-feat-enable-disable-an-installed-mcp-server-from-its-card-by-hieptl-in-https-git|feat: enable/disable an installed MCP server from its card]]
+- Earlier: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-admins-can-now-edit-user-mappings-and-query-filters-for-servicenow-connector-web|Admins can now edit user mappings and query filters for ServiceNow Connector…]]
+- Later: 2026-07-30 · Kimi Code · [[Changes/Kimi Code/2026-07-30-plugins-can-contribute-system-prompt-instructions-through-systemprompt-or-system|Plugins can contribute system prompt instructions through systemPrompt…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-09-25 · Image Generation: \U0001F3A8 Image gen
   model selection was centralized to enable dynamic model override in function calls,
   allowing…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 564
+  lag_days: 822
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 02bff919a8080625606c7b54967c8e30a565e4c220b6232dee43904091784019
+machine_hash: 6914c39cc0f3c0284796891521e2301cd0c5ae577037217cbadd17dd59fd319a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,12 +61,11 @@ record:
     model override…"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-09-09-azure-openai-image-generation-is-now-supported-with-configurations-for-images-op|\U0001F3A8
-  Azure OpenAI image generation is now supported, with configurations…]]"
 - '[[Changes/Open WebUI/2025-09-17-models-can-now-be-configured-with-default-features-web-search-image-generation-a|⚙️
   Models can now be configured with default features (Web Search, Image Generation)…]]'
 - '[[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More
   messages, larger file uploads, and expanded image generation]]'
+- '[[Changes/Descript/2025-09-24-image-generation-models|Image generation models]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead|open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead]]'
 source_type: github_releases
 theme: image-generation
@@ -110,14 +109,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+- Earlier: 2025-09-24 · Descript · [[Changes/Descript/2025-09-24-image-generation-models|Image generation models]]
 - Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag|Remove image generation, so ChatGPT won’t have the ability to create or edit images]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

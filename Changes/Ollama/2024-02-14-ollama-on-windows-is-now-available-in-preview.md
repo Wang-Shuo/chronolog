@@ -4,20 +4,20 @@ date: '2024-02-14'
 description: 'Ollama · 2024-02-14 · Mobile and Desktop: Ollama on Windows is now available
   in preview.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 337
+  lag_days: 1921
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e1922993bd31ab9eff26e0dc19ec83a1953cefd74b8dbf962198fefe850a7332
+machine_hash: 9794209d9ca1cf9f39194f1a46ce13fada60b8b5b8e8b30658f2f80c32ff682a
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: Ollama on Windows is now available in preview
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-10-13-ollama-for-macos-will-now-always-update-to-the-latest-version-even-if-earlier-up|Ollama
-  for macOS will now always update to the latest version, even if earlier…]]'
 - '[[Changes/Dify/2023-12-08-feat-fe-mobile-responsive-next-by-yuhao1118-in-https-github-com-langgenius-dify|feat:
   fe mobile responsive next]]'
 - '[[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent
   false auto-commits on Windows, by @ctoth]]'
+- '[[Changes/Descript/2024-02-05-quick-recorder-gets-a-major-upgrade-on-macos|Quick
+  Recorder gets a major upgrade on MacOS]]'
 source_release: '[[Releases/Ollama/ollama-2024-02-14-v0-1-25-github-141928935-8637dd0a|ollama-2024-02-14-v0-1-25-github-141928935-8637dd0a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-01-04 · Aider · [[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent false auto-commits on Windows, by @ctoth]]
-- Later: 2024-02-21 · Ollama · [[Changes/Ollama/2024-02-21-quotes-will-now-be-trimmed-around-the-value-of-the-ollama-host-on-windows|Quotes will now be trimmed around the value of the OLLAMA_HOST on Windows]]
+- Earlier: 2024-02-05 · Descript · [[Changes/Descript/2024-02-05-quick-recorder-gets-a-major-upgrade-on-macos|Quick Recorder gets a major upgrade on MacOS]]
+- Later: 2024-02-20 · Descript · [[Changes/Descript/2024-02-20-quick-recorder-issues-when-using-screen-time-on-macos|Quick Recorder issues when using Screen Time on MacOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

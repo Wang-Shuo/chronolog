@@ -4,20 +4,20 @@ date: '2026-05-18'
 description: 'Lovable · 2026-05-18 · Image Generation: **GPT-Image-2 for premium image
   generation.** When generating images at premium quality, Lovable now uses GPT-Image-2…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 799
+  lag_days: 1057
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 541221589a8a844aac50c41b2058953bd3f1756e69df208cd4c9f23991cdf3d6
+machine_hash: 4ae6db8eea35b3e09d152b810b84758ca2047bc80047c9c5a022c4b8d802f458
 product: lovable
 product_name: Lovable
 record:
@@ -77,10 +77,10 @@ record:
   title: Improvements and bug fixes
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-07-cleaner-image-generation-layout-in-the-mlx-runner|Cleaner
-  image generation layout in the MLX runner]]'
 - '[[Changes/Open WebUI/2026-05-10-2-image-generation-changes-in-v0-9-5|2 Image Generation
   changes in v0.9.5]]'
+- '[[Changes/Descript/2026-05-14-gpt-image-2-in-image-generation|GPT Image 2 in image
+  generation]]'
 - '[[Changes/Gamma/2026-05-15-brainstorm-generate-and-edit-images-in-chat|Brainstorm,
   generate, and edit images in chat]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-18-2026-05-18-640aaf83|lovable-2026-05-18-2026-05-18-640aaf83]]'
@@ -148,7 +148,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

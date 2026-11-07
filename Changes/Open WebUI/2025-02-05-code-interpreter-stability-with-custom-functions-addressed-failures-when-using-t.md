@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-02-05 · Reliability and Performance: **\U0001F
   Code Interpreter Stability with Custom Functions**: Addressed failures when using
   the Code…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 783
+  lag_days: 2270
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 241c51828a31cb2b243737fdbf7712f06c14dd373756301e50b75fe3367cdd13
+machine_hash: e37d4036c66f8d9da59dd59695a51de2caea45c11f9b5ce9084da9980179b497
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,9 +45,9 @@ record:
   title: "**\U0001F4BB Code Interpreter Stability with Custom Functions**"
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-24-autoscale-deployment-optimizations|Autoscale deployment
-  optimizations]]'
 - '[[Changes/Replit/2025-01-24-better-zips|Better Zips]]'
+- '[[Changes/Descript/2025-02-04-these-upgrades-also-bring-faster-text-to-speech-generation-and-add-support-for-c|These
+  upgrades also bring faster text-to-speech generation, and add support…]]'
 - '[[Changes/Gamma/2025-02-04-now-you-can-multi-select-from-the-filmstrip-and-take-action-cut-copy-duplicate-a|Updated
   Filmstrip Experience]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-05-v0-5-10-github-198699440-6d5fd1f8|open-webui-2025-02-05-v0-5-10-github-198699440-6d5fd1f8]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-05-27'
 description: 'Gemini CLI · 2026-05-27 · Apps and Integrations: docs(extensions): clarify
   env var sanitization policy for MCP and ext… by @galz10 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1161
+  lag_days: 2721
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da9b1cf48d0a82b23f0e5abb6faa46b441ebd366bb3875b0a699a75cd3265b2d
+machine_hash: 9cca3bd93419ff5c70e425bca9a2a7b1e43d9fff4e980ebc233fb99aa6232d13
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -83,13 +83,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4 Apps and Integrations changes in v2.1.152]]
-- Later: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-3-apps-and-integrations-changes-in-v1-15-11|3 Apps and Integrations changes in v1.15.11]]
+- Later: 2026-05-27 · Kimi Code · [[Changes/Kimi Code/2026-05-27-2-apps-and-integrations-changes-in-kimi-code-0-4-0|2 Apps and Integrations changes in Kimi Code 0.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

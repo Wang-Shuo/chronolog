@@ -4,20 +4,20 @@ date: '2026-05-15'
 description: 'ChatGPT · 2026-05-15 · Files and Data: We’re starting to roll out a
   new personal finance experience in ChatGPT. Pro users in the United States can securely…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1086
+  lag_days: 2431
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a739a39d775bcafd3fd6d3682e30927794df8ecb1c1e21e75ecaa03f4556ebc2
+machine_hash: 0b8e36b23e232a6187041d541adbf148c9fdbed8f0bc5213bbaa0215b3f17693
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,11 +66,11 @@ record:
   title: Personal finances in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-12-document-indexing-skip-empty-documents-before-vector-embedding-and-validate-miss|Document
-  indexing — skip empty documents before vector embedding and validate…]]'
 - '[[Changes/ElevenLabs/2026-05-13-elevenagents-6f8d80|ElevenAgents]]'
 - '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File
   library is expanding to Free and Go users, including to users in the European…]]'
+- '[[Changes/Descript/2026-05-14-bullet-points-in-canvas-text-clips|Bullet points
+  in Canvas text clips]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb|chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -97,14 +97,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File library is expanding to Free and Go users, including to users in the European…]]
+- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-bullet-points-in-canvas-text-clips|Bullet points in Canvas text clips]]
 - Later: 2026-05-15 · Replit · [[Changes/Replit/2026-05-15-export-canvas-frames-as-pngs|Export Canvas frames as PNGs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

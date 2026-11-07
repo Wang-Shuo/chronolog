@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5a19de1f4b9ef1ea4afc302aad8d24e7a544298d52e76ee774e06bb59fd1be61
+machine_hash: 8c406cad6c9292f4a7ea1c605207ac7d5aafaa07b62790013510087ccc6e8e7b
 product: replit
 product_name: Replit
 record:
@@ -50,12 +50,11 @@ record:
   title: Autonomy level control for Agent
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-09-16-gamma-agent-your-ai-design-partner-that-does-it-all|Gamma
-  Agent: Your AI design partner that does it all]]'
-- '[[Changes/Gemini CLI/2025-09-17-feat-core-only-summarize-long-tool-output-for-shell-command-by-sandytao520-in-ht|feat(core):
-  Only summarize long tool output for shell command]]'
-- '[[Changes/Codex CLI/2025-09-18-2-agent-mode-changes-in-rust-v0-39-0|2 Agent Mode
-  changes in rust-v0.39.0]]'
+- '[[Changes/Notion/2025-09-18-make-it-cute-no-really|Make it cute (no, really)]]'
+- '[[Changes/Notion/2025-09-18-anything-you-can-do-in-notion-your-agent-can-do-across-dozens-of-pages-at-once|Anything
+  you can do in Notion, your Agent can do (across dozens of pages at once)]]'
+- '[[Changes/Notion/2025-09-18-notion-3-0-is-here-we-ve-rebuilt-notion-ai-from-the-ground-up-as-agents|Notion
+  3.0 is here! We’ve rebuilt Notion AI from the ground up as Agents]]'
 source_release: '[[Releases/Replit/replit-2025-09-19-2025-09-19-b0d6c042|replit-2025-09-19-2025-09-19-b0d6c042]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-09-18 · Codex CLI · [[Changes/Codex CLI/2025-09-18-2-agent-mode-changes-in-rust-v0-39-0|2 Agent Mode changes in rust-v0.39.0]]
+- Earlier: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-notion-3-0-is-here-we-ve-rebuilt-notion-ai-from-the-ground-up-as-agents|Notion 3.0 is here! We’ve rebuilt Notion AI from the ground up as Agents]]
 - Later: 2025-09-22 · ElevenLabs · [[Changes/ElevenLabs/2025-09-22-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 

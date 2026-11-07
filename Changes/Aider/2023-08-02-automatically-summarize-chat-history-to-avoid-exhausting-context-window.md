@@ -4,20 +4,20 @@ date: '2023-08-02'
 description: 'Aider · 2023-08-02 · Context Window: Automatically summarize chat history
   to avoid exhausting context window.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 90
+  lag_days: 1414
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2024367cd4915272c99a17e75a35c3b6e21bb8ffe2ca6a7ad882382de8ca3503
+machine_hash: b13451c39e2cfe1bd9c094e56c5e7303ff9b0146459eba613c059658d17f29d0
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
   title: Automatically summarize chat history to avoid exhausting context window
   type: change
 related_changes:
-- '[[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips-d31722|Graceful
-  handling of context window exhaustion, including helpful tips]]'
+- '[[Changes/Descript/2023-07-10-edit-word-gaps-from-the-script|Edit Word Gaps from
+  the Script]]'
 - '[[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced
   context controls only show up if you have indexed your codebase]]'
 - '[[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|More
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

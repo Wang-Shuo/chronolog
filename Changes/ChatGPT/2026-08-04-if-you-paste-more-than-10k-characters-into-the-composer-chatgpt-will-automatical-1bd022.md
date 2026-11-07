@@ -4,20 +4,20 @@ date: '2026-08-04'
 description: 'ChatGPT · 2026-08-04 · Context Window: If you paste more than 10k characters
   into the composer, ChatGPT will automatically convert the content into an…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1188
+  lag_days: 2512
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df98c7aa1f4c8d6d133a2bff353baa33a4f5fe46e0949de716f393088e9754a5
+machine_hash: 0308aa05f43321a96c0ead65559e7a8fcade790e234ef37f096b6bdf149a88b8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,10 +54,10 @@ record:
   title: If you paste more than 10k characters into the composer, ChatGPT will automatically…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-refactor-agents-simplify-repository-context-by-lyzno1-in-https-github-com-langge|refactor(agents):
-  simplify repository context]]'
-- '[[Changes/Codex CLI/2026-07-29-5-context-window-changes-in-rust-v0-146-0|5 Context
-  Window changes in rust-v0.146.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-lists-in-context-iq-web-microsoft-365-copilot-chat|Lists
+  in Context IQ Web (Microsoft 365 Copilot Chat)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-take-screenshot-in-copilot-windows-microsoft-365-copilot-chat|Take
+  Screenshot in Copilot Windows (Microsoft 365 Copilot Chat)]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-restore-the-early-warning-when-unreclaimable-system-and-tool-context-nears-the-l|Restore
   the early warning when unreclaimable system and tool context nears…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a|chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a]]'
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

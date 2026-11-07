@@ -4,19 +4,20 @@ date: '2025-12-09'
 description: 'Codex CLI · 2025-12-09 · Developer Workflow: 2 changes in 0.66.0 — Unified
   exec & shell stability: status line shows clearer progress, Windows unified-exec…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 997
+  lag_days: 2646
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c5ee52927fa754c5e8c0aac69802cb866b5ce641bf12ea5d14c0964c5e9a417
+machine_hash: a2c19dc4b643b03ff961781c1283ce20d501f158a18fa84aeda9f7c2cf7fdb3b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -98,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.66.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

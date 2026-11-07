@@ -4,20 +4,21 @@ date: '2026-10-19'
 description: 'GitHub Copilot CLI · 2026-10-19 · Account and Access: 3 changes in 1.0.100
   — Catalog search reports proxy authentication requirements for CONNECT proxy…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1299
+  lag_days: 2274
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67f6825c146dbdeb981253fbe825a7eba39b7ff9d0f6c87a7b3fdf4a1b10324f
+machine_hash: 323ae91b9c8464acb9e6d3fc00595ae5ad01b14aa0e86ead29d1517c474b66b6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -107,7 +108,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.100
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

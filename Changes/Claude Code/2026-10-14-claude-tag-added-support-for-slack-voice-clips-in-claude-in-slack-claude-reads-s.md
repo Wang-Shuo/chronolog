@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-14 · Voice and Audio: [Claude Tag] Added s
   for Slack voice clips in Claude in Slack: Claude reads Slack''s transcript of a
   clip when…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1192
+  lag_days: 3019
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bce8319527bbddac0ae66aee8fa97c90040616e58124a35d42e619fbbdb7575a
+machine_hash: bdf156ab304f5caf79f5d0705e94229c2474445dba46a3fd820f85aa0ae80c91
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,11 @@ record:
   title: '[Claude Tag] Added support for Slack voice clips in Claude in Slack'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-12-voices-e71bd5|Voices]]'
-- '[[Changes/ElevenLabs/2026-10-12-speech-to-text-f7d11e|Speech to Text]]'
-- '[[Changes/OpenClaw/2026-10-12-dictation-holding-the-microphone-and-releasing-it-no-longer-stops-recording-prem|Dictation.
-  Holding the microphone and releasing it no longer stops recording prematurely]]'
+- '[[Changes/HeyGen/2026-10-13-auto-in-the-ai-studio-voice-engine-menu|Auto in the
+  AI Studio voice engine menu]]'
+- '[[Changes/HeyGen/2026-10-13-good-to-know|Good to know]]'
+- '[[Changes/HeyGen/2026-10-13-improve-voice-language-and-accent|Improve Voice: Language
+  and accent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: voice
@@ -89,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-dictation-holding-the-microphone-and-releasing-it-no-longer-stops-recording-prem|Dictation. Holding the microphone and releasing it no longer stops recording prematurely]]
-- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-voice-on-android-chrome-voice-calls-and-dictation-on-android-chrome-no-longer-go|📱 Voice on Android Chrome. Voice calls and dictation on Android Chrome no longer…]]
+- Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-improve-voice-language-and-accent|Improve Voice: Language and accent]]
+- Later: 2026-10-14 · HeyGen · [[Changes/HeyGen/2026-10-14-create-your-voice-from-a-short-recording|Create your voice from a short recording]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

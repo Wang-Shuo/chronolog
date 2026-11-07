@@ -4,20 +4,20 @@ date: '2025-07-28'
 description: 'ElevenLabs · 2025-07-28 · Voice and Audio: **Improved voice generation**:
   Enhanced voice creation endpoints with:'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 749
+  lag_days: 2576
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7be129ccc409a236314ca467dd274e91a66b5b7c1eeca4d6a778a3fd47c2c1ff
+machine_hash: 597983dfd4d5c0eac6a3d485d72497e8a2bdaf98a04e3b28f9b62432652118ea
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-2-voice-and-audio-changes-in-1-7-0|2 Voice and Audio changes in 1.7.0]]
-- Later: 2025-08-04 · ElevenLabs · [[Changes/ElevenLabs/2025-08-04-voice-management|Voice Management]]
+- Later: 2025-07-31 · Descript · [[Changes/Descript/2025-07-31-transcription-glossary-moves-to-brand-studio-business-enterprise-only|Transcription Glossary moves to Brand Studio (Business & Enterprise only)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

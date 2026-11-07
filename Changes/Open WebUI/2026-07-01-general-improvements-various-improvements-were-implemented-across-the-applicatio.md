@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-07-01 · Reliability and Performance: \U0001F50
   improvements.** Various improvements were implemented across the application to
   enhance…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1294
+  lag_days: 2781
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 993cf8c495211834818a3910b8643d2bdec39bed16c98836b5b5b7f090b20132
+machine_hash: ce737699cf7457ccd3008ccfc8362fce94c26375a3c45b2982364d0c807358b0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,12 +55,12 @@ record:
     across…"
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-30-faster-ai-responses-in-your-app-with-openai-priority-processing|Faster
-  AI responses in your app with OpenAI priority processing]]'
 - '[[Changes/Ollama/2026-06-30-2-reliability-and-performance-changes-in-v0-31-1|2
   Reliability and Performance changes in v0.31.1]]'
 - '[[Changes/OpenClaw/2026-06-30-4-reliability-and-performance-changes-in-v2026-6-11|4
   Reliability and Performance changes in v2026.6.11]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated
+  survey insights with Copilot Highlights Web (Viva Glint)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -99,14 +99,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-4-reliability-and-performance-changes-in-v2026-6-11|4 Reliability and Performance changes in v2026.6.11]]
+- Earlier: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated survey insights with Copilot Highlights Web (Viva Glint)]]
 - Later: 2026-07-01 · Runway · [[Changes/Runway/2026-07-01-nano-banana-2-lite-is-now-available-in-runway-create-images-at-warp-speed-withou|Nano Banana 2 Lite]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

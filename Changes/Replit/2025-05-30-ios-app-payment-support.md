@@ -5,20 +5,20 @@ description: 'Replit · 2025-05-30 · Mobile and Desktop: iOS users can now purc
   Replit Core and set up payment methods directly through the Replit Mobile App. This
   makes…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 808
+  lag_days: 2392
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e9b1014a55f477f4cb93f8754f2c4faca5ffaf75b7535d0114592957a5d7bc16
+machine_hash: c677137571da92b230b2ac34de35396f261c8b83f6ef3c8cd52abf83a969773d
 product: replit
 product_name: Replit
 record:
@@ -47,10 +47,9 @@ record:
   title: iOS app payment support
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-29-reduced-errors-for-edit-tool-calls-for-windows|Reduced
-  errors for edit tool calls for Windows]]'
 - '[[Changes/OpenHands/2025-05-05-made-small-tweaks-for-mobile-styles-by-rbren-in-https-github-com-all-hands-ai-op|Made
   small tweaks for mobile styles]]'
+- '[[Changes/Descript/2025-05-06-screen-recorder-updates|Screen recorder updates]]'
 - '[[Changes/Ollama/2025-05-13-improved-prompt-processing-speeds-of-qwen3-moe-on-macos|Improved
   prompt processing speeds of Qwen3 MoE on macOS]]'
 source_release: '[[Releases/Replit/replit-2025-05-30-2025-05-30-a19846cf|replit-2025-05-30-2025-05-30-a19846cf]]'
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

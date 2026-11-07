@@ -4,20 +4,20 @@ date: '2025-07-14'
 description: 'Granola · 2025-07-14 · Meeting Notes: Team Folders: a new way to share
   context quickly with your team and ask questions across meeting notes.'
 diffusion:
-  first_in_tracked: '[[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New
-    in Granola: 29 meeting note templates, out of the box]]'
+  first_in_tracked: '[[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed
+    Sketch designs, Excalidraw drawings & Framer prototypes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 280
+  lag_days: 1476
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4746abe25f9470747b1f2a0357c095eef56d0c3a88d02a81791aca5704b3cd5e
+machine_hash: 915341117470e1d6fe7681908c2b5965bf8d5b1776608503b98ea93d74e1257a
 product: granola
 product_name: Granola
 record:
@@ -56,6 +56,9 @@ record:
 related_changes:
 - '[[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New
   in Granola: 29 meeting note templates, out of the box]]'
+- '[[Changes/Notion/2025-02-18-workflows-in-one-click|Workflows in one click]]'
+- '[[Changes/Notion/2025-05-13-leave-the-note-taking-to-us-with-ai-meeting-notes|Leave
+  the note-taking to us, with AI meeting notes]]'
 source_release: '[[Releases/Granola/granola-2025-07-14-https-www-granola-ai-updates-say-hello-to-team-folders-e172cb54|granola-2025-07-14-https-www-granola-ai-updates-say-hello-to-team-folders-e172cb54]]'
 source_type: granola_changelog
 theme: meeting-notes
@@ -82,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Meeting Notes
 
-- Earlier: 2024-10-07 · Granola · [[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New in Granola: 29 meeting note templates, out of the box]]
+- Earlier: 2025-05-13 · Notion · [[Changes/Notion/2025-05-13-leave-the-note-taking-to-us-with-ai-meeting-notes|Leave the note-taking to us, with AI meeting notes]]
 - Later: 2025-07-24 · Granola · [[Changes/Granola/2025-07-24-new-for-meeting-notes-now-you-can-tweak-tone-change-length-or-make-precise-edits|New for meeting notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-10-07 · Granola · [[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New in Granola: 29 meeting note templates, out of the box]]
+- Earliest same-theme entry in the tracked set: 2021-06-29 · Notion · [[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed Sketch designs, Excalidraw drawings & Framer prototypes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

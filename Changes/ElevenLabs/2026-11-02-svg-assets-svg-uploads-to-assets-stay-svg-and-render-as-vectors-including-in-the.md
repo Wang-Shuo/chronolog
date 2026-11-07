@@ -4,20 +4,19 @@ date: '2026-11-02'
 description: 'ElevenLabs · 2026-11-02 · Editor Experience: **SVG assets**: SVG uploads
   to Assets stay SVG and render as vectors, including in the image editor. Scripts…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1329
+  lag_days: 2913
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf38b5fd9d2ccadbeecfdea145f86caf84c9d23b399881b0c6759edf106eeb3f
+machine_hash: e5846c1fd0bee57b6ee822c16cf498c81df7c769406f6924848759302e0cbbeb
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -123,7 +122,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

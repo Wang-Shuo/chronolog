@@ -4,20 +4,20 @@ date: '2026-10-06'
 description: 'OpenHands · 2026-10-06 · Voice and Audio: feat(chat): add optional voice
   dictation to the chat input by @VascoSch92 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1184
+  lag_days: 3011
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 174ad90d36330b83bbf53da3d6a141a33d53e863f8b32d0afdb12fb286f9031d
+machine_hash: f4cbe62bbeb9e1013478830bf5740f61034196729c99743c1ad6e10540669672
 product: openhands
 product_name: OpenHands
 record:
@@ -42,9 +42,10 @@ record:
   title: 'feat(chat): add optional voice dictation to the chat input'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-05-packages|Packages]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-05-voice-runtime-install-errors-name-why-the-download-from-nuget-org-failed-not-onl|Voice
-  runtime install errors name why the download from nuget.org failed, not only…]]'
+- '[[Changes/HeyGen/2026-10-05-consistent-regenerations-redo-a-line-as-often-as-you-like-and-it-s-still-the-sam|Consistent
+  regenerations: Redo a line as often as you like and it''s still the same voice]]'
+- '[[Changes/HeyGen/2026-10-05-a-great-script-can-fall-flat-when-the-voice-doesn-t-sound-like-it-means-it-eleve|A
+  great script can fall flat when the voice doesn''t sound like it means it]]'
 - '[[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio
   uploads in ChatGPT]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed|openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed]]'
@@ -90,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

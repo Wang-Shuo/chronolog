@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10d87b2b998f23c2c393f4fba43d77da8f6d463d71bc7f4474bb848c4c1c472b
+machine_hash: 05a21448d88d746a93318aba6e32a4161dba126f393455ae904187fdd098b5d7
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,12 @@ record:
     generative…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1
-  Pro: Clearer, more capable answers for complex work]]'
 - '[[Changes/Codex CLI/2025-11-19-default-model-for-api-users-is-now-gpt-5-1-codex|Default
   model for API users is now gpt-5.1-codex]]'
 - '[[Changes/Codex CLI/2025-11-19-5-model-support-changes-in-rust-v0-59-0|5 Model
   Support changes in rust-v0.59.0]]'
+- '[[Changes/Notion/2025-11-19-gemini-3-pro-is-now-available-in-notion|Gemini 3 Pro
+  is live]]'
 source_release: '[[Releases/Ollama/ollama-2025-11-19-v0-13-0-github-263513243-ba692e80|ollama-2025-11-19-v0-13-0-github-263513243-ba692e80]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-5-model-support-changes-in-rust-v0-59-0|5 Model Support changes in rust-v0.59.0]]
+- Earlier: 2025-11-19 · Notion · [[Changes/Notion/2025-11-19-gemini-3-pro-is-now-available-in-notion|Gemini 3 Pro is live]]
 - Later: 2025-11-20 · Codex CLI · [[Changes/Codex CLI/2025-11-20-stop-model-migration-screen-after-first-time-6954-aibrahim-oai|stop model migration screen after first time]]
 <!-- chronolog:end -->
 

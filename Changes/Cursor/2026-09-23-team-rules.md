@@ -5,19 +5,20 @@ description: 'Cursor · 2026-09-23 · Collaboration: Add rules for your codebase
   as which client external calls must go through or which tables are never queried
   from a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1218
+  lag_days: 2812
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0c5420b97913c65423a127b8558fa322e69433774d0b974a4e5a2241ef7aed71
+machine_hash: 69d3142c9e8ae9fb5d665c85904098e5070bebef1591f52f3038cc1208464906
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +45,12 @@ record:
   title: Team rules
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-4-collaboration-changes-in-v0-11-4|4 Collaboration
-  changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-9-collaboration-changes-in-rust-v0-156-0|9 Collaboration
   changes in rust-v0.156.0]]'
 - '[[Changes/OpenHands/2026-09-22-test-strengthen-shared-utility-behavior-by-aivong-openhands-in-https-github-com|test:
   strengthen shared utility behavior]]'
+- '[[Changes/Synthesia/2026-09-22-share-the-base-person-for-an-avatar-with-teammates-or-your-whole-workspace-so-th|Share
+  customizable avatars with your team]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -87,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-test-strengthen-shared-utility-behavior-by-aivong-openhands-in-https-github-com|test: strengthen shared utility behavior]]
+- Earlier: 2026-09-22 · Synthesia · [[Changes/Synthesia/2026-09-22-share-the-base-person-for-an-avatar-with-teammates-or-your-whole-workspace-so-th|Share customizable avatars with your team]]
 - Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-16-collaboration-changes-in-v2026-9-6|16 Collaboration changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

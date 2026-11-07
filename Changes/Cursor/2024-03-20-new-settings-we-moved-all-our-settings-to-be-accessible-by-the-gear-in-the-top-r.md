@@ -4,20 +4,20 @@ date: '2024-03-20'
 description: 'Cursor · 2024-03-20 · Interface Experience: New Settings: We moved all
   our settings to be accessible by the gear in the top right. No more "More" tab!'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 436
+  lag_days: 1802
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d9114a8335a136eb53d280ba096aa1b4a6ce5f77dc64aea53973566260d8e2cf
+machine_hash: 049b2b5b1c7c351ad5f6655ff544e2ab2b126f10ab05855b2cb91dd646296801
 product: cursor
 product_name: Cursor
 record:
@@ -47,9 +47,9 @@ record:
     the top right'
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-02-20-exclusive-to-gemini-advanced-edit-and-run-python-code|Exclusive
-  to Gemini Advanced: Edit and run Python code]]'
-- '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]'
+- '[[Changes/Descript/2024-03-12-we-ve-made-backend-changes-to-how-exports-and-publishes-are-processed-these-chan|Descript
+  makes backend changes to how Exports and Publishes are processed]]'
+- '[[Changes/Descript/2024-03-12-color-rendering-issues|Color rendering issues]]'
 - "[[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|\U0001F504
   Sidebar UI Update]]"
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

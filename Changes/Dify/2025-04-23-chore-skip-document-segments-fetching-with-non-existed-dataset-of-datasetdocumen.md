@@ -4,20 +4,20 @@ date: '2025-04-23'
 description: 'Dify · 2025-04-23 · Files and Data: chore: skip document segments fetching
   with non-existed dataset of DatasetDocument in add_document_to_index_task task by…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 699
+  lag_days: 2044
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a7f6adda302867d2b396146a51e21c633a41e70381059b464258c65b9e70ce87
+machine_hash: d085ac82a53cbf367ea12c03b8c46f49da5653281eb39da75cbc07461973e9f3
 product: dify
 product_name: Dify
 record:
@@ -45,11 +45,11 @@ record:
   title: 'chore: skip document segments fetching with non-existed dataset of DatasetDocument…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-04-01-4-files-and-data-changes-in-v0-6-0|4 Files and
-  Data changes in v0.6.0]]'
 - '[[Changes/Open WebUI/2025-04-05-2-files-and-data-changes-in-v0-6-1|2 Files and
   Data changes in v0.6.1]]'
 - '[[Changes/ElevenLabs/2025-04-07-knowledge-base|Knowledge Base]]'
+- '[[Changes/Descript/2025-04-08-a-new-look-for-scenes-stable-frame|A new look for
+  Scenes—Stable frame]]'
 source_release: '[[Releases/Dify/dify-2025-04-23-1-3-0-github-214141766-8d4f18a3|dify-2025-04-23-1-3-0-github-214141766-8d4f18a3]]'
 source_type: github_releases
 theme: file-data
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-04-07 · ElevenLabs · [[Changes/ElevenLabs/2025-04-07-knowledge-base|Knowledge Base]]
+- Earlier: 2025-04-08 · Descript · [[Changes/Descript/2025-04-08-a-new-look-for-scenes-stable-frame|A new look for Scenes—Stable frame]]
 - Later: 2025-04-28 · Dify · [[Changes/Dify/2025-04-28-3-files-and-data-changes-in-1-3-1|3 Files and Data changes in 1.3.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

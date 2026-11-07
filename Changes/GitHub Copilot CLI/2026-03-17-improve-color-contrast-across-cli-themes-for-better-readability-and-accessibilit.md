@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4eb7896e1bdca0bbde7ed7963d1ec5378b590a6980d286709d876dd61780a715
+machine_hash: 83a08f779c8494f60ee8e3e4eb8748b2e7d3734e41e38f6030d6c091406e0b0d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-desktop-synchronize-internationalization-translations|Desktop Synchronize internationalization translations]]
-- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-accessibility-and-localization-changes-in-1-14-0|2 Accessibility and Localization changes in 1.14.0]]
+- Later: 2026-03-19 · Notion · [[Changes/Notion/2026-03-19-notion-academy-videos-and-certification-programs-are-now-live-in-6-new-languages|Notion Academy videos and certification programs are now live in 6 new languages…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

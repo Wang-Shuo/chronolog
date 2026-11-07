@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3e940fd9f1de0817fca0825a30dfe7ebe0bc8d801aa678e40fff73abb4480e8
+machine_hash: a6b85ea43ffa835c6036198ae7355a8d27e18732b46bd2e17aa8919c9eeff90d
 product: ollama
 product_name: Ollama
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in v0.12.1
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice
-  Updates]]'
+- '[[Changes/Notion/2025-09-18-the-best-ai-models-built-in|The best AI models, built
+  in]]'
 - '[[Changes/Ollama/2025-09-18-6-model-support-changes-in-v0-12-0|6 Model Support
   changes in v0.12.0]]'
 - '[[Changes/Cline/2025-09-19-add-code-supernova-stealth-model-by-saoudrizwan-in-https-github-com-cline-cline|Add

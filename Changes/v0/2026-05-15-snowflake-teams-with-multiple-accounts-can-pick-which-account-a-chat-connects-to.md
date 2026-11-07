@@ -4,19 +4,20 @@ date: '2026-05-15'
 description: 'v0 · 2026-05-15 · Collaboration: Snowflake teams with multiple accounts
   can pick which account a chat connects to, from the chat itself.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1087
+  lag_days: 2681
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e4ffc07665dec7b3dceaa2fa94c6dafe0a7eb9ba21a090a6b86f18d1b1d9570
+machine_hash: c4f9519901d2ed65c6d506b70932883043a75a03dd2de2c9c3f29a80587239bb
 product: v0
 product_name: v0
 record:
@@ -42,12 +43,12 @@ record:
   title: Snowflake teams with multiple accounts can pick which account a chat connects…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration
-  changes in rust-v0.129.0]]'
 - '[[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core
   Fixed HTTP API auth responses to match the previous wire format for empty…]]'
 - '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
   now available in Microsoft Teams]]'
+- '[[Changes/Descript/2026-05-14-the-descript-telethon-kicks-off-today-may-14-at-10-00-am-pt-https-www-youtube-co|The
+  Descript Telethon kicks off today, May 14 at 10:00 AM…]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: v0_changelog
 theme: collaboration
@@ -84,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]]
+- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-the-descript-telethon-kicks-off-today-may-14-at-10-00-am-pt-https-www-youtube-co|The Descript Telethon kicks off today, May 14 at 10:00 AM…]]
 - Later: 2026-05-16 · Windsurf · [[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation sharing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

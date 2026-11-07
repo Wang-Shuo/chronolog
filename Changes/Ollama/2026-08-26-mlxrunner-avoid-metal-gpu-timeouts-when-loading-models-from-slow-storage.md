@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0da53d1af0d3efa0ccc4bb24b7fbdc9026cfb9ee805457436c31e5c67e3dbb1f
+machine_hash: cd3b0372a123f09d6923ebdea8db5fefbf5abdcb9afb942325ff4e30dec1b0b7
 product: ollama
 product_name: Ollama
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-10-model-support-changes-in-rust-v0-150-0|10 Model Support changes in rust-v0.150.0]]
-- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model Support changes in v1.0.81]]
+- Later: 2026-08-26 · Z.ai API · [[Changes/Z.ai API/2026-08-26-native-visual-capabilities-enable-the-model-to-observe-interfaces-rendering-resu|Native visual capabilities enable the model to observe interfaces, rendering…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

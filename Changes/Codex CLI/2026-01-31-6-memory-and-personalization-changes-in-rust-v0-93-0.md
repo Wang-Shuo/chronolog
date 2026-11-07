@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c9e6386111ca78eaf7deacfeb4e5be2c8a514659e7cd591931242e9adccbf97
+machine_hash: 4b8eb51c172469b731b3fa9f9d7b7292d76596f012fc42d94a8bf25b45fb43fe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 6 Memory and Personalization changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-27-9718-feat-tui-personality-dylan-hurd-oai|♯9718 feat(tui)
-  /personality @dylan-hurd-oai]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-improve-relevance-and-personalization-by-connecting-user-identities-across-data|Improve
+  relevance and personalization by connecting user identities across data…]]'
 - '[[Changes/OpenCode/2026-01-28-2-memory-and-personalization-changes-in-v1-1-37|2
   Memory and Personalization changes in v1.1.37]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-better-handle-large-results-from-grep-and-glob-tools-to-avoid-memory-issues|Better

@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-11-24 · Search and Browsing: 3 changes in v0.6
   — \U0001F50D Azure AI Search is now supported as a web search provider, enabling
   integration with…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 977
+  lag_days: 2006
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ab104014a6675cbf6372cdf6e21c019cfbc4d509b86b8b238f75a4f4c080567
+machine_hash: 0218016da044b7bce5703876421498c7792a67ebabe8531e0e3f7e0f09a76212
 product: open-webui
 product_name: Open WebUI
 record:
@@ -121,7 +121,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.37
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

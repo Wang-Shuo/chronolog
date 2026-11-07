@@ -4,20 +4,20 @@ date: '2023-10-12'
 description: 'Dify · 2023-10-12 · Files and Data: 2 changes in v0.3.27 — feat: add
   document of authorization by @JzoNgKVO in https://github.com/langgenius/dify/pull/1311'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 140
+  lag_days: 1485
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0566c6f0e295cd30951d194302f29091de9dec2ed30a374e2cb7e670f4b16afc
+machine_hash: fe1756e441cc885711abd22ccd8c8dfc14cd1f19b45acdca17db3e16b82a2e24
 product: dify
 product_name: Dify
 record:
@@ -82,13 +82,13 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.27
 ## Nearby in Files and Data
 
 - Earlier: 2023-10-11 · Dify · [[Changes/Dify/2023-10-11-document-segmentapi-add-get-update-delete-operate-by-charli117-in-https-github-c|document segmentApi Add get&update&delete operate]]
-- Later: 2023-12-08 · Dify · [[Changes/Dify/2023-12-08-feat-remove-documents-limit-by-zxhlyh-in-https-github-com-langgenius-dify-pull-1|feat: remove documents limit]]
+- Later: 2023-10-31 · Descript · [[Changes/Descript/2023-10-31-expand-canvas|Expand Canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

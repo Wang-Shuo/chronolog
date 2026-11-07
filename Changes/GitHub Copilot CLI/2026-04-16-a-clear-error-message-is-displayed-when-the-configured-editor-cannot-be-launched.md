@@ -4,20 +4,19 @@ date: '2026-04-16'
 description: 'GitHub Copilot CLI · 2026-04-16 · Editor Experience: A clear error message
   is displayed when the configured editor cannot be launched'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1129
+  lag_days: 2713
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81a5cd2a2f0f16ccdc81f7a33828e3dd0336e1a815838a4d90c44234f6a01418
+machine_hash: 153260a468ba69247a97dd69b719634f39b224976109ddd0b2ed90b6745770cb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +41,11 @@ record:
   title: A clear error message is displayed when the configured editor cannot be launched
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-added-realtime-and-app-server-apis-for-output-modality-transcript-completion-eve|Added
-  realtime and app-server APIs for output modality, transcript completion…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-15-show-a-clear-message-when-copilot-pro-trial-is-paused-instead-of-a-generic-polic|Show
   a clear message when Copilot Pro trial is paused instead of a generic policy error]]'
 - '[[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript
   view footer now shows  (dump to scrollback) and v (open in editor)…]]'
+- '[[Changes/Descript/2026-04-16-underlord-https-help-descript-com-hc-en-us-articles-36803785502221-underlord-bet|Underlord…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-16-v1-0-28-github-309609147-270e3f24|github-copilot-cli-2026-04-16-v1-0-28-github-309609147-270e3f24]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript view footer now shows  (dump to scrollback) and v (open in editor)…]]
+- Earlier: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-underlord-https-help-descript-com-hc-en-us-articles-36803785502221-underlord-bet|Underlord…]]
 - Later: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-hermes-and-github-copilot-cli-in-ollama-launch-added-both-integrations-which-can|Hermes and GitHub Copilot CLI in ollama launch. Added both integrations…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

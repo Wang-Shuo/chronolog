@@ -4,20 +4,20 @@ date: '2026-10-22'
 description: 'GitHub Copilot CLI · 2026-10-22 · Safety and Privacy: 3 changes in 1.0.103
   — ACP sessions now honor saved sandbox settings and --sandbox/--no-sandbox flags…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1285
+  lag_days: 2277
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 554748ad6d7fb4c6f3fe2508e24b304a32987f5e523a80dbeb947ca1939a08fc
+machine_hash: c47aabe6c5b01007f2da8122d01622c7f300b753b6eafc60d738dc843b8d73c4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.103
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

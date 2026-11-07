@@ -4,20 +4,19 @@ date: '2025-11-26'
 description: 'Gemini CLI · 2025-11-26 · Editor Experience: Restore keyboard mode when
   exiting the editor by @scidomino in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 988
+  lag_days: 2572
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e5d508719d0ea61ec4ccdeab2791764f3800a43ec143a8ac234707ab6b447f31
+machine_hash: d66f9406e2865cfae4725b2d9fa88f3ff978274ece8db0246518136ace10d723
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,8 +40,7 @@ record:
   title: Restore keyboard mode when exiting the editor
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience
-  changes in 2.1]]'
+- '[[Changes/Descript/2025-11-21-editor|Editor]]'
 - '[[Changes/Windsurf/2025-11-21-tab-completion|Tab Completion]]'
 - '[[Changes/Dify/2025-11-26-introduced-a-broad-set-of-workflow-editor-improvements-including-ui-refinement-s|Introduced
   a broad set of workflow-editor improvements, including UI refinement…]]'
@@ -86,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

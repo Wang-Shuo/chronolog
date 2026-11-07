@@ -4,19 +4,20 @@ date: '2023-03-23'
 description: 'Cursor · 2023-03-23 · Developer Workflow: Terminal no longer interferes
   with chat'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 5
+  lag_days: 1654
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 29c700ba7520226c5a8b7833783acb087e70f43b8f2ccac7c703c1a2f9d8c2f7
+machine_hash: d9156498e0730462ecd6267e3caf3a054ba7062f5646c57dd0f24ebb3976d83e
 product: cursor
 product_name: Cursor
 record:
@@ -39,6 +40,10 @@ record:
   title: Terminal no longer interferes with chat
   type: change
 related_changes:
+- '[[Changes/Notion/2022-08-25-drag-a-value-from-one-cell-to-fill-other-cells|Drag
+  a value from one cell to fill other cells]]'
+- '[[Changes/Notion/2022-10-12-every-few-months-our-engineers-participate-in-a-week-long-bug-bash-to-keep-your|Every
+  few months, our engineers participate in a week-long “bug bash” to keep…]]'
 - '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25|cursor-2023-03-23-0-1-5-https-cursor-com-changelog-0-1-5-b6aefe25]]'
 source_type: cursor_changelog
@@ -76,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

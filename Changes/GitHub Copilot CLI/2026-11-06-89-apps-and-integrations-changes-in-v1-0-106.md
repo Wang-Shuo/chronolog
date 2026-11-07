@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-11-06 · Apps and Integrations: 89 chan
   in 1.0.106 — Add COPILOT_SESSION_CWD for launching and expanding LSP and local MCP
   server…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1324
+  lag_days: 2884
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0a3409399efc7bfb0eef46dfcac43defa4ca340fc2faf653fc791959772f2a8
+machine_hash: f4e972ce56f5d580458c515a7a627635b467281617fde2ef400b34e7f8cd45df
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -319,12 +319,12 @@ record:
   title: 89 Apps and Integrations changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-05-5-apps-and-integrations-changes-in-v2026-11-1|5 Apps
-  and Integrations changes in v2026.11.1]]'
-- '[[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps
-  and Integrations changes in v1.36.0]]'
 - '[[Changes/Codex CLI/2026-11-06-12-apps-and-integrations-changes-in-rust-v0-167-0|12
   Apps and Integrations changes in rust-v0.167.0]]'
+- '[[Changes/Descript/2026-11-06-search-for-what-s-in-the-shot-b035ff|Search for what''s
+  in the shot]]'
+- '[[Changes/Descript/2026-11-06-claude-code-and-codex-can-connect-to-the-descript-mcp-now-if-it-failed-before-re|Claude
+  Code and Codex can connect to the Descript MCP now]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -550,14 +550,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-12-apps-and-integrations-changes-in-rust-v0-167-0|12 Apps and Integrations changes in rust-v0.167.0]]
+- Earlier: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-claude-code-and-codex-can-connect-to-the-descript-mcp-now-if-it-failed-before-re|Claude Code and Codex can connect to the Descript MCP now]]
 - Later: 2026-11-06 · OpenCode · [[Changes/OpenCode/2026-11-06-shared-mcp-connections|Shared MCP Connections]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

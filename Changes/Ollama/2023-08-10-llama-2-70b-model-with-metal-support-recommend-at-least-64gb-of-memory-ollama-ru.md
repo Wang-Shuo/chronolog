@@ -4,20 +4,20 @@ date: '2023-08-10'
 description: 'Ollama · 2023-08-10 · Reliability and Performance: Llama 2 **70B model
   with Metal support** (Recommend at least 64GB of memory) `ollama run llama2:70b`'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 238
+  lag_days: 1725
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 695e5e70e153b0c0012289e5051a9589b1514417d8061d70341c3e82f18fb2ed
+machine_hash: cef698df2648c673d7a71585b032c3268fe267119809c9074960f2dc617e2472
 product: ollama
 product_name: Ollama
 record:
@@ -54,12 +54,12 @@ record:
   title: Llama 2 **70B model with Metal support** (Recommend at least 64GB of memory)…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes
-  a check in the chat that slows the chat down in certain cases]]'
 - '[[Changes/Ollama/2023-07-26-performance-improvements-from-enabling-accelerate-https-developer-apple-com-docu|Performance
   improvements from enabling…]]'
 - '[[Changes/Ollama/2023-08-02-2-reliability-and-performance-changes-in-v0-0-13|2
   Reliability and Performance changes in v0.0.13]]'
+- '[[Changes/Notion/2023-08-08-recently-visited-pages-now-load-10-faster-on-ios|Recently
+  visited pages now load 10% faster on iOS]]'
 source_release: '[[Releases/Ollama/ollama-2023-08-10-v0-0-14-github-115991991-1d94f37b|ollama-2023-08-10-v0-0-14-github-115991991-1d94f37b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-08-02 · Ollama · [[Changes/Ollama/2023-08-02-2-reliability-and-performance-changes-in-v0-0-13|2 Reliability and Performance changes in v0.0.13]]
+- Earlier: 2023-08-08 · Notion · [[Changes/Notion/2023-08-08-recently-visited-pages-now-load-10-faster-on-ios|Recently visited pages now load 10% faster on iOS]]
 - Later: 2023-08-18 · Ollama · [[Changes/Ollama/2023-08-18-ollama-will-now-parse-data-from-ggml-format-models-and-use-them-to-make-sure-you|Ollama will now parse data from ggml format models and use them to make sure…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

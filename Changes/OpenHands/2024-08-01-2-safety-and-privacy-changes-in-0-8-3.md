@@ -4,20 +4,20 @@ date: '2024-08-01'
 description: 'OpenHands · 2024-08-01 · Safety and Privacy: 2 changes in 0.8.3 — (docs)
   Update custom sandbox guide: added nikolaik image consideration by @tobitege in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 473
+  lag_days: 1465
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7e5290976fc2b7df8b8ed9b84cc6c55f55f55a406f8d682b88b94084033bffde
+machine_hash: ccf8383b20c4177618604d3d4d51c6205612d54ef02d48704da8080469cfdb7c
 product: openhands
 product_name: OpenHands
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

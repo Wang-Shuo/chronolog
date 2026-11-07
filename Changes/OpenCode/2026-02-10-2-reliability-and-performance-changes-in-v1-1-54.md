@@ -4,20 +4,20 @@ date: '2026-02-10'
 description: 'OpenCode · 2026-02-10 · Reliability and Performance: 2 changes in v1.1.54
   — Core Parallelize skill downloads for faster loading in TUI'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1153
+  lag_days: 2640
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b2360d22ce543657041329e157520b21c3b44a2f06ec2e568a41ea5df3f070f
+machine_hash: c7ba6c164ca35ce97ded71c0a9e0466099d279659170f3904c8310cb7ea51868
 product: opencode
 product_name: OpenCode
 record:
@@ -42,9 +42,9 @@ record:
   title: 2 Reliability and Performance changes in v1.1.54
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
 - '[[Changes/ElevenLabs/2026-02-09-text-to-speech|Text to Speech]]'
+- '[[Changes/Descript/2026-02-10-we-ve-also-updated-our-lip-sync-model-for-translated-videos-it-s-hella-good-now|Descript
+  updates our lip sync model for translated videos]]'
 - '[[Changes/OpenCode/2026-02-10-core-memory-leak-fixed-in-platform-fetch-for-events|Core
   Memory leak fixed in platform fetch for events]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-10-v1-1-54-df764791|opencode-2026-02-10-v1-1-54-df764791]]'
@@ -99,7 +99,7 @@ Source: https://opencode.ai/changelog/v1.1.54
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

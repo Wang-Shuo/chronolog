@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e7f30be0ac6e53d08090ce3457ee2817cc6384fc90db58684f0a5d5221a85037
+machine_hash: acff9968a65372f4fb08fa93a3af9057eddc54371a41d66a51b91856e97927b8
 product: opencode
 product_name: OpenCode
 record:
@@ -41,10 +41,10 @@ record:
   title: Surface failed subagent tool calls with a resumable task_id
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-12-agent-mode-changes-in-rust-v0-149-0|12 Agent
-  Mode changes in rust-v0.149.0]]'
 - '[[Changes/Google Antigravity/2026-08-20-3-agent-mode-changes-in-hub-v2-9-1-remote-control-faster|3
   Agent Mode changes in HUB v2.9.1 — Remote Control, faster…]]'
+- '[[Changes/Kimi Code/2026-08-20-2-agent-mode-changes-in-kimi-code-0-38-0|2 Agent
+  Mode changes in Kimi Code 0.38.0]]'
 - '[[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode
   changes in v2.1.239]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-21-v1-18-20-9ff3d03e|opencode-2026-08-21-v1-18-20-9ff3d03e]]'

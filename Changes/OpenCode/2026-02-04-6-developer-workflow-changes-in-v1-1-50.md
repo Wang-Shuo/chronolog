@@ -4,19 +4,20 @@ date: '2026-02-04'
 description: 'OpenCode · 2026-02-04 · Developer Workflow: 6 changes in v1.1.50 — Core
   Add shell.env hook for manipulating environment in tools and shell'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1054
+  lag_days: 2703
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c6edd36427171c06400ef0b7c9b2659dfef5884467da9237f775834fcd5716c
+machine_hash: 4327bff9ce80a809f5f4b0b485a42f3b0a8c0cbd02a4d1e1179ad212c155cc87
 product: opencode
 product_name: OpenCode
 record:
@@ -109,7 +110,7 @@ Source: https://opencode.ai/changelog/v1.1.50
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

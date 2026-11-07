@@ -1,9 +1,9 @@
 ---
-created: '2022-12-15'
+created: '2018-07-09'
 date: '2026-11-06'
 description: Where ChronoLog's data comes from, how official release notes become
   reviewed Change Cards, what is grouped or skipped, and how to report a problem.
-machine_hash: 9d3cf837630a62e107f859f5a7b4a41ef6cdffc472b35392706efc50da32c457
+machine_hash: 7de2056d7b68ed28e4fd27bc225e8dd6aa50e22faa85c3fdc1141537fa386156
 modified: '2026-11-06'
 publication: active
 tags:
@@ -14,7 +14,7 @@ title: About the data
 # About the data
 
 <!-- chronolog:begin region="intro" -->
-ChronoLog tracks announced changes in 29 products: Aider, ChatGPT, Claude, Claude Code, Cline, Codex CLI, Cursor, DeepSeek API, Dify, ElevenLabs, Gamma, Gemini, Gemini CLI, GitHub Copilot CLI, Google Antigravity, Granola, Lovable, Manus, Midjourney, Ollama, Open WebUI, OpenClaw, OpenCode, OpenHands, Replit, Runway, Suno, Windsurf and v0. It reads official release notes only, turns each release into dated Change Cards and groups them by theme. Every record is reviewed before it is published.
+ChronoLog tracks announced changes in 37 products: Aider, ChatGPT, Claude, Claude Code, Cline, Codex CLI, Cursor, DeepSeek API, Descript, Dify, ElevenLabs, Gamma, Gemini, Gemini CLI, GitHub Copilot CLI, Google Antigravity, Granola, HeyGen, Kimi Code, Lovable, Manus, Microsoft 365 Copilot, Midjourney, Notion, Ollama, Open WebUI, OpenClaw, OpenCode, OpenHands, Qoder, Replit, Runway, Suno, Synthesia, Windsurf, Z.ai API and v0. It reads official release notes only, turns each release into dated Change Cards and groups them by theme. Every record is reviewed before it is published.
 <!-- chronolog:end -->
 
 ## Sources and coverage
@@ -67,6 +67,12 @@ ChronoLog tracks announced changes in 29 products: Aider, ChatGPT, Claude, Claud
 - Last successful fetch: 2026-11-06T13:13:00Z.
 - Known gaps: The official DeepSeek API change log, including model availability, API behavior and pricing. Web and mobile changes appear only when explicitly included in the API announcement; this is not a complete consumer-app history. Benchmark tables and code examples are excluded.
 
+### Descript
+- Official source: [Descript changelog](https://feedback.descript.com/changelog)
+- Archived releases: 534, dated 2018-07-07 → 2026-11-06
+- Last successful fetch: 2026-11-07T03:46:29Z.
+- Known gaps: Published entries across all three official Canny update types (new, improved and fixed), including AI editing, transcription and the wider video/audio editor. Each type archive is traversed to its terminal page and overlaps are deduplicated. Posts with an empty or media-only body retain their official title only; media contents are not transcribed. Drafts and deleted entries are excluded.
+
 ### Dify
 - Official source: [Dify GitHub releases](https://github.com/langgenius/dify/releases)
 - Archived releases: 154, dated 2023-05-15 → 2026-11-04
@@ -115,6 +121,18 @@ ChronoLog tracks announced changes in 29 products: Aider, ChatGPT, Claude, Claud
 - Last successful fetch: 2026-11-07T02:10:29Z.
 - Known gaps: Dated announcement summaries on the official updates index, including launch and company announcements listed there. Full blog article text and unlisted maintenance changes are outside this source's scope.
 
+### HeyGen
+- Official source: [HeyGen release notes](https://heygen.noticeable.news/)
+- Archived releases: 47, dated 2025-11-29 → 2026-10-28
+- Last successful fetch: 2026-11-07T03:37:41Z.
+- Known gaps: All dated public updates in the official HeyGen Noticeable archive, including video, avatar, voice and API updates. Publication timestamps are checked against each linked article; company or plan announcements may appear alongside features.
+
+### Kimi Code
+- Official source: [Kimi Code GitHub releases](https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/changelog.md)
+- Archived releases: 91, dated 2026-05-26 → 2026-11-06
+- Last successful fetch: 2026-11-07T03:37:49Z.
+- Known gaps: Dated stable versions in the official English Kimi Code changelog, covering CLI and Web UI changes listed there. Unreleased sections are excluded. The Kimi consumer app and model API have separate histories; the earliest entry here is not their launch date.
+
 ### Lovable
 - Official source: [Lovable changelog](https://docs.lovable.dev/changelog)
 - Archived releases: 156, dated 2024-12-03 → 2026-11-04
@@ -127,11 +145,23 @@ ChronoLog tracks announced changes in 29 products: Aider, ChatGPT, Claude, Claud
 - Last successful fetch: 2026-11-07T02:13:16Z.
 - Known gaps: All updates exposed by the official public Updates page's notification feed. Entries use the feed's publication timestamp; entries without a public blog permalink link to the Updates index. Private account notifications are outside coverage.
 
+### Microsoft 365 Copilot
+- Official source: [Microsoft 365 Copilot release notes](https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes)
+- Archived releases: 21, dated 2026-01-13 → 2026-11-04
+- Last successful fetch: 2026-11-07T03:37:50Z.
+- Known gaps: The official Microsoft Learn all-features tab for Microsoft 365 Copilot, currently covering 2026. App-scoped feature titles and their first change summaries are retained; platform tabs duplicate the same releases and are excluded, as are nested setup instructions and impact boilerplate. Dates label release batches; availability rolls out gradually. This does not cover the separate consumer Copilot app.
+
 ### Midjourney
 - Official source: [Midjourney release notes](https://updates.midjourney.com/)
 - Archived releases: 96, dated 2024-03-07 → 2026-10-08
 - Last successful fetch: 2026-11-07T02:10:18Z.
 - Known gaps: Posts listed in the official updates sitemap, including alpha tests and community announcements. Dates are article publication dates, not sitemap modification dates or dates mentioned in titles; older Discord-only announcements are outside coverage.
+
+### Notion
+- Official source: [Notion release notes](https://www.notion.com/releases)
+- Archived releases: 154, dated 2020-01-09 → 2026-10-19
+- Last successful fetch: 2026-11-07T03:38:04Z.
+- Known gaps: Every dated release in the official paginated Notion archive, including Notion AI, agents and the wider workspace product. This is not an AI-only history. Explicit coming-soon blocks remain in source records but are excluded from shipped-change cards; video-player controls and error messages are removed.
 
 ### Ollama
 - Official source: [Ollama GitHub releases](https://github.com/ollama/ollama/releases)
@@ -163,6 +193,12 @@ ChronoLog tracks announced changes in 29 products: Aider, ChatGPT, Claude, Claud
 - Last successful fetch: 2026-11-06T10:46:32Z.
 - Known gaps: Stable versioned releases of the OpenHands application available from its current repository. SDK releases, preview builds and temporary PR evidence uploads are excluded; endpoint coverage does not establish the product's launch date.
 
+### Qoder
+- Official source: [Qoder changelog](https://changelog.qoder.com/app)
+- Archived releases: 26, dated 2026-08-27 → 2026-11-06
+- Last successful fetch: 2026-11-07T03:37:49Z.
+- Known gaps: The current unified Qoder app changelog, beginning with the earliest dated version on the official page. Qoder IDE, CLI and the older QoderWork changelogs are separate surfaces and are not combined or counted twice.
+
 ### Replit
 - Official source: [Replit release notes](https://docs.replit.com/updates)
 - Archived releases: 99, dated 2024-12-13 → 2026-10-30
@@ -181,11 +217,23 @@ ChronoLog tracks announced changes in 29 products: Aider, ChatGPT, Claude, Claud
 - Last successful fetch: 2026-11-07T02:10:01Z.
 - Known gaps: All dated entries currently published on the official release-notes index, including mobile, Studio and model announcements. Earlier changes absent from this endpoint are outside coverage.
 
+### Synthesia
+- Official source: [Synthesia release notes](https://www.synthesia.io/updates)
+- Archived releases: 202, dated 2020-10-13 → 2026-10-27
+- Last successful fetch: 2026-11-07T03:37:48Z.
+- Known gaps: Dated summaries across every page of the official product-update index. Separate featured hero announcements without publication dates and full linked article bodies are excluded. This is the currently available dated index, not a lifetime release history.
+
 ### Windsurf
 - Official source: [Windsurf changelog](https://docs.devin.ai/desktop/changelog)
 - Archived releases: 121, dated 2025-04-02 → 2026-10-30
 - Last successful fetch: 2026-11-06T10:43:34Z.
 - Known gaps: Windsurf's official changelog now continues as Devin Desktop. Only the stable desktop changelog is tracked, from the earliest entry still on the page; Next previews, Windsurf plugins and Devin Cloud have separate histories.
+
+### Z.ai API
+- Official source: [Z.ai API release notes](https://docs.z.ai/release-notes/new-released)
+- Archived releases: 8, dated 2025-09-30 → 2026-08-26
+- Last successful fetch: 2026-11-07T03:38:05Z.
+- Known gaps: All dated model announcements currently listed in the official Z.ai New Released notes. This is a model/API announcement history, not a complete consumer-chat or platform history. Performance statements are upstream claims, not independently verified benchmark results.
 
 ### v0
 - Official source: [v0 changelog](https://v0.app/changelog)
@@ -211,7 +259,7 @@ ChronoLog tracks announced changes in 29 products: Aider, ChatGPT, Claude, Claud
 
 ## Review status
 <!-- chronolog:begin region="status" -->
-29 products · 3,993 archived releases · 15,809 tracked changes · 29 themes. Pending theme review: 1,448. Silence alerts: 2. Every generated batch is reviewed in a pull request before it is published.
+37 products · 5,076 archived releases · 18,201 tracked changes · 29 themes. Pending theme review: 2,229. Silence alerts: 1. Every generated batch is reviewed in a pull request before it is published.
 <!-- chronolog:end -->
 
 ## Glossary

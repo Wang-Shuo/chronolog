@@ -4,20 +4,20 @@ date: '2026-11-04'
 description: 'Dify · 2026-11-04 · Pricing Model: 3 changes in v1.19.0 - Trace Your
   Workflows, Layer by Layer — **Clearer feedback:** field errors and persistent notices…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1420
+  lag_days: 3038
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f053a11037ff97e9a6ea275e314f768dfa175c90f2975f5cee9cbffe8e523e1
+machine_hash: d43a1a20ebdfa68a4e8677982fd799fca7f07cdcd5453bea848500aa8c48b7c8
 product: dify
 product_name: Dify
 record:
@@ -115,7 +115,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

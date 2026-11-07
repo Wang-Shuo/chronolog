@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'Lovable · 2026-06-18 · Pricing Model: Lovable now uses one credit balance
   for building your app, hosting and running it with Lovable Cloud, and AI features…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1281
+  lag_days: 2899
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 18c64cd46a5c4a63503d810f6a7d4e6117fc6275febb066977f42127c0cbf8cc
+machine_hash: 5ba798376945f09cf14b1c38df3b6b687a673ac960db1b852eb3c96f557fd008
 product: lovable
 product_name: Lovable
 record:
@@ -56,8 +56,8 @@ record:
   title: One credit balance and clearer usage insights
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified
-  model picker pricing view for select enterprise customers]]'
+- '[[Changes/Descript/2026-06-11-the-customer-obsessed-telethon|The Customer-Obsessed
+  Telethon]]'
 - '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
   screen redesign]]'
 - '[[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

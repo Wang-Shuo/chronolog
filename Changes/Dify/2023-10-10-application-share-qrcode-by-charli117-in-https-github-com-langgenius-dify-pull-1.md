@@ -4,19 +4,20 @@ date: '2023-10-10'
 description: 'Dify · 2023-10-10 · Collaboration: Application share qrcode by @charli117
   in https://github.com/langgenius/dify/pull/1277'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 139
+  lag_days: 1733
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 519bbfee9f335d32cfd288a9d3b3ad08860425a86dbf46293ea4ab2a875364d1
+machine_hash: 09e46886984586a1af0489178b98663a876a2096932ce71ec9ee3ad317b89f97
 product: dify
 product_name: Dify
 record:
@@ -41,9 +42,9 @@ record:
   title: Application share qrcode
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
-- '[[Changes/Gemini/2023-07-13-share-your-bard-conversations-with-others|Share your
-  Bard conversations with others]]'
+- '[[Changes/Descript/2023-08-10-descript-for-web-beta|Descript for web (beta)]]'
+- '[[Changes/Synthesia/2023-09-13-all-enterprise-accounts-can-now-invite-guests-to-synthesia-for-seamless-collabor|Introducing
+  Guest Roles]]'
 - '[[Changes/Gemini/2023-09-19-build-off-of-conversations-shared-with-you|Build off
   of conversations shared with you]]'
 source_release: '[[Releases/Dify/dify-2023-10-10-0-3-25-github-124361579-f33ff236|dify-2023-10-10-0-3-25-github-124361579-f33ff236]]'
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

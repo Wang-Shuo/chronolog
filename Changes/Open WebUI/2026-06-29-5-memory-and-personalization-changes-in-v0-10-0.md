@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec4946d417f71e630e8bdd1bdb4d98a07430ac26fbf4c56dfcc5271d56e23da9
+machine_hash: e4119fd964993c79d76bf7b3726437df36f36b490fe5b4eddba92f5f2ead2bb1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -70,12 +70,12 @@ record:
   title: 5 Memory and Personalization changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-3-memory-and-personalization-changes-in-rust-v0-141-0|3
-  Memory and Personalization changes in rust-v0.141.0]]'
 - '[[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou|Delete
   memory files in the UI, or prompt your automation to delete outdated memories…]]'
 - '[[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved
   memory: the agent is now reminded to compact its MEMORY.md index…]]'
+- '[[Changes/Kimi Code/2026-06-24-read-large-text-files-in-bounded-memory-and-read-tail-lines-without-scanning-who|Read
+  large text files in bounded memory and read tail lines without scanning whole files]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
 source_type: github_releases
 theme: memory
@@ -134,7 +134,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved memory: the agent is now reminded to compact its MEMORY.md index…]]
+- Earlier: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-read-large-text-files-in-bounded-memory-and-read-tail-lines-without-scanning-who|Read large text files in bounded memory and read tail lines without scanning whole files]]
 - Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-26-memory-and-personalization-changes-in-v2026-6-11|26 Memory and Personalization changes in v2026.6.11]]
 <!-- chronolog:end -->
 

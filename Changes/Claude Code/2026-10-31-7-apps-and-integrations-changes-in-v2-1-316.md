@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-31 · Apps and Integrations: 7 changes in v
   — Added pooled group budgets to the Claude apps gateway: one monthly budget that
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1318
+  lag_days: 2878
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5df8fe9075e1960927aa73a2ec6243076886e045320e1fd8447dbd08f67904b
+machine_hash: d57427cbce3387b447139660e64ff5f2a9ae72215200edfe37ecdf9737d376c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -67,12 +67,12 @@ record:
   title: 7 Apps and Integrations changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-publish-interactive-artifacts|Publish Interactive
-  Artifacts]]'
 - '[[Changes/OpenCode/2026-10-30-managed-policy-integration-use-covers-integrations-only|Managed
   policy: integration.use covers integrations only]]'
 - '[[Changes/OpenCode/2026-10-30-tui-plugins-require-opentui-0-8|TUI plugins require
   OpenTUI 0.8]]'
+- '[[Changes/Qoder/2026-10-30-3-apps-and-integrations-changes-in-qoder-0-5-1|3 Apps
+  and Integrations changes in Qoder 0.5.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -122,14 +122,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-tui-plugins-require-opentui-0-8|TUI plugins require OpenTUI 0.8]]
+- Earlier: 2026-10-30 · Qoder · [[Changes/Qoder/2026-10-30-3-apps-and-integrations-changes-in-qoder-0-5-1|3 Apps and Integrations changes in Qoder 0.5.1]]
 - Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-channel-integrations-asynchronous-channels-such-as-slack-telegram-intercom-gmail|Channel integrations: Asynchronous channels such as Slack, Telegram, Intercom…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

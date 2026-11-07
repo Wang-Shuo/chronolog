@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-23 · Search and Browsing: Improved `/deep-
   reliability on long research briefs by removing unused required fields from the
   scope…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1280
+  lag_days: 2309
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e4368513abf24d49a73c644481f6a0758792b6189d1af6bbbba2727cc98eae24
+machine_hash: 6df6bd890126cd316f4fcab673f6c9358e4d6cda0bdee23f585a382cc2978fd7
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-2-search-and-browsing-changes-in-rust-v0-156-0|2 Search and Browsing changes in rust-v0.156.0]]
-- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-3-search-and-browsing-changes-in-v2026-9-6|3 Search and Browsing changes in v2026.9.6]]
+- Later: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-see-email-attachments-as-pills-in-copilot-search-results-windows-web-microsoft-3|See email attachments as pills in Copilot search results Windows…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

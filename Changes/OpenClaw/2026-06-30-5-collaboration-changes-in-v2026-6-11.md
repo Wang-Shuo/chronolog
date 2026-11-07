@@ -4,19 +4,20 @@ date: '2026-06-30'
 description: 'OpenClaw · 2026-06-30 · Collaboration: 5 changes in v2026.6.11 — When
   people switch between Telegram and another OpenClaw client in a shared direct…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1133
+  lag_days: 2727
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58c4c309060d2a15201a55ae9a853bd76bb76507224cd7ec197682e4405322f6
+machine_hash: 35e1a4537bd99c9ad71860e8d5a058e5b25656861803b638b1126d6ce785b243
 product: openclaw
 product_name: OpenClaw
 record:
@@ -125,13 +126,13 @@ Source: https://docs.openclaw.ai/releases/2026.6.11
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration changes in v1.0.66]]
-- Later: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last owner cannot leave a shared folder]]
+- Later: 2026-07-01 · Notion · [[Changes/Notion/2026-07-01-your-agents-shouldn-t-be-stuck-in-one-off-chats-now-you-can-bring-multiple-agent|Your agents shouldn’t be stuck in one-off chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d08b187b74ab1ebcf319bd95685f98da9673970e4e1c042e1ef06132b214caec
+machine_hash: 3fd2c9e6e8056306e1dee1ec0cf54d8c06f78fa2cbdcb48d4f232213820487e4
 product: replit
 product_name: Replit
 record:
@@ -51,12 +51,12 @@ record:
   title: Connect custom APIs to Agent
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-17-2-agent-mode-changes-in-v1-20-0|2 Agent Mode changes
-  in v1.20.0]]'
 - '[[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode
   changes in v2.1.277]]'
 - '[[Changes/Google Antigravity/2026-09-18-3-agent-mode-changes-in-hub-v2-15-0-custom-agent-controls|3
   Agent Mode changes in HUB v2.15.0 — Custom agent controls…]]'
+- '[[Changes/Qoder/2026-09-18-response-annotations-enable-this-feature-in-settings-experimental-features-to-se|Response
+  annotations: Enable this feature in Settings-Experimental Features…]]'
 source_release: '[[Releases/Replit/replit-2026-09-18-2026-09-18-bb95ac6d|replit-2026-09-18-2026-09-18-bb95ac6d]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-18 · Google Antigravity · [[Changes/Google Antigravity/2026-09-18-3-agent-mode-changes-in-hub-v2-15-0-custom-agent-controls|3 Agent Mode changes in HUB v2.15.0 — Custom agent controls…]]
+- Earlier: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-response-annotations-enable-this-feature-in-settings-experimental-features-to-se|Response annotations: Enable this feature in Settings-Experimental Features…]]
 - Later: 2026-09-19 · Claude Code · [[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added an Auto mode server row to /status showing whether this session's auto…]]
 <!-- chronolog:end -->
 

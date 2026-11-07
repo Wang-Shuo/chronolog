@@ -4,19 +4,20 @@ date: '2026-07-02'
 description: 'Claude Code · 2026-07-02 · Developer Workflow: `claude agents` session
   rows now show pull-request links as bare `#N` without the redundant "PR" label'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1202
+  lag_days: 2851
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0ca017f171464c23ace5818cd3f6b72060e6d2cfd0dfd5e9987a2c147412e44
+machine_hash: 581d818f8a797a30089c355b9bfd940b0836498fb7e8b58aa0183d8a7bd67c01
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +52,8 @@ record:
   title: '`claude agents` session rows now show pull-request links as bare `#N` without…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6
-  Developer Workflow changes in v1.0.68]]'
+- '[[Changes/Kimi Code/2026-07-01-show-file-path-completions-when-typing-in-shell-mode|Show
+  file path completions when typing / in shell mode (!)]]'
 - '[[Changes/Open WebUI/2026-07-01-5-developer-workflow-changes-in-v0-10-2|5 Developer
   Workflow changes in v0.10.2]]'
 - '[[Changes/OpenCode/2026-07-01-desktop-streamline-wsl-server-setup-with-clearer-distro-checks-and-install-flows|Desktop
@@ -87,13 +88,13 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-desktop-streamline-wsl-server-setup-with-clearer-distro-checks-and-install-flows|Desktop Streamline WSL server setup with clearer distro checks and install flows]]
-- Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed /review pr back to a fast single-pass review]]
+- Later: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-show-draft-pull-requests-with-a-distinct-draft-status-instead-of-displaying-them|Show draft pull requests with a distinct draft status instead of displaying them as open]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

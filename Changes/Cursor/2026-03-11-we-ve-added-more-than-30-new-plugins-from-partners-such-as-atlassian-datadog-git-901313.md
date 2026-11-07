@@ -5,20 +5,20 @@ description: 'Cursor · 2026-03-11 · Apps and Integrations: We''ve added more t
   30 new plugins from partners such as Atlassian, Datadog, GitLab, Glean, Hugging
   Face…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1084
+  lag_days: 2644
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b852f9b07b3047a4a8a0352b97007c08934121e732dcc33c85f08565b8584f0b
+machine_hash: 058a0f9ff4dcd21bd4a088d0ea84ee7a8beab7b58d34ff7a419328ccc6879fb3
 product: cursor
 product_name: Cursor
 record:
@@ -54,10 +54,10 @@ record:
   title: New Plugins on the Cursor Marketplace
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-3-apps-and-integrations-changes-in-v2-1-72|3 Apps
-  and Integrations changes in v2.1.72]]'
-- '[[Changes/Codex CLI/2026-03-10-11-apps-and-integrations-changes-in-rust-v0-113-0|11
-  Apps and Integrations changes in rust-v0.113.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-connect-copilot-to-amazon-s3-document-repositories-web-microsoft-365-copilot-ext|Connect
+  Copilot to Amazon S3 document repositories…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-explainable-ai-with-deep-and-inline-citations-for-connectors-microsoft-365-copil|Explainable
+  AI with deep and inline citations for connectors (Microsoft 365 Copilot Chat)]]'
 - '[[Changes/Codex CLI/2026-03-11-8-apps-and-integrations-changes-in-rust-v0-114-0|8
   Apps and Integrations changes in rust-v0.114.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3|cursor-2026-03-11-new-plugins-on-the-cursor-marketplace-https-cursor-com-changelog-f5d077c3]]'
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

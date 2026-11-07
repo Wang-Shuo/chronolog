@@ -5,19 +5,20 @@ description: 'Open WebUI · 2026-03-08 · Developer Workflow: 17 changes in v0.8
   ▶️ **Open Terminal notebook cell execution.** Users can now run Jupyter Notebook
   code…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1086
+  lag_days: 2735
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1e64c92f7184d62f747fcbccc980dcdc8ca6a30419b75b39a6dbb3af4309d08
+machine_hash: 2d329ec281dced2ad0dbe1979b02c6a8cb9b937bc1791cfd8f265eb74a075203
 product: open-webui
 product_name: Open WebUI
 record:
@@ -207,7 +208,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.9
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

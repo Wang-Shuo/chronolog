@@ -4,20 +4,20 @@ date: '2026-04-14'
 description: 'Claude Code · 2026-04-14 · Interface Experience: 2 changes in v2.1.108
   — `/undo` is now an alias for `/rewind`'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1191
+  lag_days: 2557
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6019fb283a3621cfd937b4f8860014e32dba1a8bdd1f38fc66135d5b062f529
+machine_hash: 35d4e32ee325355a1989b3c8d7ad29ca87a5e7de706e7e2fb7f67de90a0812b9
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.108
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,19 @@ description: 'Midjourney · 2024-08-16 · Editor Experience: This combines refra
   repaint / vary region / pan / zoom into a single unified interface. We think this
   makes…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 521
+  lag_days: 2105
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 39375060f50e9113c689ec48e5f9b0d5737529031223a2ab40e7d0e162d205f2
+machine_hash: 6aeed2825ca899a10aaa91842e0e5e38ec923dcf0b0473b5310b965f56a0facc
 product: midjourney
 product_name: Midjourney
 record:
@@ -49,10 +48,9 @@ record:
   title: We're releasing a new web editor today!
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-10-diff-now-shows-diffs-of-all-changes-resulting-from-your-request-including-lint-a|/diff
-  now shows diffs of all changes resulting from your request, including lint…]]'
-- '[[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New
-  /code message command request a code edit while in ask mode]]'
+- '[[Changes/Descript/2024-08-14-edit-for-clarity-now-more-or-less-intense|Edit for
+  clarity now more (or less) intense]]'
+- '[[Changes/Descript/2024-08-14-import-from-zoom|Import from Zoom]]'
 - "[[Changes/Open WebUI/2024-08-14-deprecated-frontend-functions-removed-frontend-functions-that-were-migrated-to-b|\U0001F5D1️
   Deprecated Frontend Functions]]"
 source_release: '[[Releases/Midjourney/midjourney-2024-08-16-https-updates-midjourney-com-image-editor-86125a58|midjourney-2024-08-16-https-updates-midjourney-com-image-editor-86125a58]]'
@@ -88,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

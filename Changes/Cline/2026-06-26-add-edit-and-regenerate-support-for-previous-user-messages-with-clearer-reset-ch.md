@@ -4,20 +4,19 @@ date: '2026-06-26'
 description: 'Cline · 2026-06-26 · Editor Experience: Add edit-and-regenerate support
   for previous user messages, with clearer Reset Chat and Reset Code actions.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1200
+  lag_days: 2784
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3e627f4fdf9032b7fabe328c8d361b1bd5c329ed8ebe747da27874fd479afa8e
+machine_hash: 1b36ebf555ff62db2c92a2d4d449dedd7bf914ea2527c80f7d2e23cbace46de8
 product: cline
 product_name: Cline
 record:
@@ -89,13 +88,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-25 · OpenCode · [[Changes/OpenCode/2026-06-25-2-editor-experience-changes-in-v1-17-11|2 Editor Experience changes in v1.17.11]]
-- Later: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-the-editor-no-longer-shows-a-false-start-error-when-a-preview-dev-server-or-inst|The editor no longer shows a false start error when a preview, dev server…]]
+- Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-preserve-full-tool-output-logs-when-previews-are-truncated-and-link-background-t|Preserve full tool output logs when previews are truncated and link background task…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

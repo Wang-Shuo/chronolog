@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'Codex CLI · 2026-06-18 · Context Window: 2 changes in 0.141.0 — Realtime
   clients can explicitly append speech, control how Codex responses enter conversations…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1141
+  lag_days: 2465
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce819363772f8d3b79d63c2c74fbf6cac6cbc7aa9e34c54d664dbe1464aa69ae
+machine_hash: d99cad8aafb06071a303d04779d28d77a7d89c912333ade21c0f5e3b23ddd38e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Context Window changes in rust-v0.141.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-honor-max-output-tokens-for-byok-responses-providers|Honor
-  max_output_tokens for BYOK Responses providers]]'
-- '[[Changes/Codex CLI/2026-06-15-7-context-window-changes-in-rust-v0-140-0|7 Context
-  Window changes in rust-v0.140.0]]'
-- '[[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama
-  will now return an error if a single message is larger than the current…]]'
+- '[[Changes/Kimi Code/2026-06-16-remove-redundant-llm-request-logging-context-plumbing|Remove
+  redundant LLM request logging context plumbing]]'
+- '[[Changes/Z.ai API/2026-06-16-supports-1m-lossless-context-significantly-improving-long-horizon-task-capabilit|Supports
+  1M lossless context, significantly improving long-horizon task capabilities…]]'
+- '[[Changes/Z.ai API/2026-06-16-significantly-improves-the-real-world-developer-experience-with-more-reliable-pr|Significantly
+  improves the real-world developer experience, with more reliable…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: context-window
@@ -89,14 +89,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.141.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-15 · Ollama · [[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama will now return an error if a single message is larger than the current…]]
+- Earlier: 2026-06-16 · Z.ai API · [[Changes/Z.ai API/2026-06-16-significantly-improves-the-real-world-developer-experience-with-more-reliable-pr|Significantly improves the real-world developer experience, with more reliable…]]
 - Later: 2026-06-22 · ChatGPT · [[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large pastes are now handled as attachments for more plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

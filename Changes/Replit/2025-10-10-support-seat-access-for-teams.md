@@ -4,19 +4,20 @@ date: '2025-10-10'
 description: 'Replit · 2025-10-10 · Collaboration: Add Replit Support as a Guest account
   that doesn’t count toward billing. Grant scoped access to specific Apps when you…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 870
+  lag_days: 2464
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 152200fb8af9b0f890bfe0406811120501d9bfba9b6123cd7bc69049677332bd
+machine_hash: 5c746cc642d38667e95e1e2b1a14af0eede84928689e4afe84e832a397a2117f
 product: replit
 product_name: Replit
 record:
@@ -86,13 +87,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-07-significantly-reduced-token-consumption-round-trips-per-problem-and-time-to-resu|Significantly reduced token consumption, round trips per problem, and time to result]]
-- Later: 2025-10-17 · Midjourney · [[Changes/Midjourney/2025-10-17-for-the-next-three-weekends-we-re-renting-a-big-catamaran-sailboat-to-take-midjo|Midjourney sailboat trips]]
+- Later: 2025-10-14 · Descript · [[Changes/Descript/2025-10-14-join-ceo-laura-and-the-team-for-a-live-demonstration-of-descript-s-generative-vi|Join CEO Laura and the team for a live demonstration of Descript's generative video…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

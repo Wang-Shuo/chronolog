@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 83ab5a5c78389395be79c84570d10b73ddff3392b0ec04603cd38de32da1f45c
+machine_hash: 68ec10deaa8705f92433ffa815cf49353a518b098e5ee28d3ecdff0bbfa97b31
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v2.1.162
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-new-reasoning-after-tool-calls-appears-at-the-bottom-of-the-timeline-instead-of|New
-  reasoning after tool calls appears at the bottom of the timeline instead…]]'
-- '[[Changes/Open WebUI/2026-06-01-12-model-support-changes-in-v0-9-6|12 Model Support
-  changes in v0.9.6]]'
-- '[[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed
-  CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]'
+- '[[Changes/Kimi Code/2026-06-02-4-model-support-changes-in-kimi-code-0-8-0|4 Model
+  Support changes in Kimi Code 0.8.0]]'
+- '[[Changes/Kimi Code/2026-06-02-2-model-support-changes-in-kimi-code-0-7-0|2 Model
+  Support changes in Kimi Code 0.7.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-use-microsoft-365-copilot-in-model-driven-apps-work-iq-web-microsoft-copilot-app|Use
+  Microsoft 365 Copilot in model‑driven apps (Work IQ) Web (Microsoft Copilot app)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.162
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]
+- Earlier: 2026-06-02 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-02-use-microsoft-365-copilot-in-model-driven-apps-work-iq-web-microsoft-copilot-app|Use Microsoft 365 Copilot in model‑driven apps (Work IQ) Web (Microsoft Copilot app)]]
 - Later: 2026-06-03 · Cline · [[Changes/Cline/2026-06-03-add-minimax-m3-model-support|Add MiniMax M3 model support]]
 <!-- chronolog:end -->
 

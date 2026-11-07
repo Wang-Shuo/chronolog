@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 0c36bb3b8814a4277f9d69288997f93077aef4a04321b52a8b382fe35e1368c6
+machine_hash: ba89ed6f95cf9dfb8f2f36e582fe804cab3fa54aae9af612aa6b46df7a1732c3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-29 · Cursor · [[Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana|Cursor for iOS is now available in public beta on all paid plans]]
-- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-client-user-agent-forwarded-to-model-backends-the-browser-s-user-agent-is-now-pa|🪪 Client User-Agent forwarded to model backends. The browser's User-Agent is now…]]
+- Later: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-add-kimi-code-custom-headers-for-custom-outbound-llm-request-headers-and-send-th|Add KIMI_CODE_CUSTOM_HEADERS for custom outbound LLM request headers, and send…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

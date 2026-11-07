@@ -4,20 +4,20 @@ date: '2026-05-10'
 description: "Open WebUI · 2026-05-10 · Image Generation: 2 changes in v0.9.5 — \U0001F50C
   **Channel streaming and tool support.** Mentioning a model in a Channel now streams…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 791
+  lag_days: 1049
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc57e4cc0605a2f5c2cafa52230fd4299dd33cb1b2d50b4df02e359be2da6b8b
+machine_hash: 79ab7f1190bd28df520ded0caa22243dcc118f02242f9214d2be0c1c1d9d8155
 product: open-webui
 product_name: Open WebUI
 record:
@@ -95,13 +95,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.5
 ## Nearby in Image Generation
 
 - Earlier: 2026-05-07 · Ollama · [[Changes/Ollama/2026-05-07-cleaner-image-generation-layout-in-the-mlx-runner|Cleaner image generation layout in the MLX runner]]
-- Later: 2026-05-15 · Gamma · [[Changes/Gamma/2026-05-15-brainstorm-generate-and-edit-images-in-chat|Brainstorm, generate, and edit images in chat]]
+- Later: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-gpt-image-2-in-image-generation|GPT Image 2 in image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

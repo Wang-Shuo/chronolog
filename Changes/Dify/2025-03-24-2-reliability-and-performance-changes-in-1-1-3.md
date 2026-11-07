@@ -5,20 +5,20 @@ description: 'Dify · 2025-03-24 · Reliability and Performance: 2 changes in v1
   — **ESLint Cache Enabled**: Code quality meets speed as ESLint cache support is
   enabled…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 830
+  lag_days: 2317
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3fc49f614957d8ef8403e8b19d2be84a8efb527d295047ca3b4942ec60dd8a34
+machine_hash: 81306de68d62abcac0bb2b1722226ebbca0745e644d2ba019af2e3644c54dc23
 product: dify
 product_name: Dify
 record:
@@ -90,13 +90,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.1.3
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]]
-- Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-3-reliability-and-performance-changes-in-v0-6-0|3 Reliability and Performance changes in v0.6.0]]
+- Later: 2025-03-25 · Descript · [[Changes/Descript/2025-03-25-smart-transitions-and-wordless-media|Smart transitions, and Wordless media]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

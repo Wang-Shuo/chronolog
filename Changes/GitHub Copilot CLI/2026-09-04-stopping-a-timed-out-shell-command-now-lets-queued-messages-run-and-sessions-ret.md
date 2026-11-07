@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e975adc0c83f404e2947c5849f2cbd5c6b158086ef66f175fcf460abeab5fdd1
+machine_hash: f23fe1a850916515d663760d14c69df8b886e0fda64fbf86a57aa8bc570af267
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     return…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-4-agent-mode-changes-in-rust-v0-153-0|4 Agent Mode
-  changes in rust-v0.153.0]]'
 - '[[Changes/OpenClaw/2026-09-03-14-agent-mode-changes-in-v2026-9-1|14 Agent Mode
   changes in v2026.9.1]]'
+- '[[Changes/Qoder/2026-09-03-artifact-preview-in-a-separate-window-open-agent-generated-artifacts-in-a-standa|Artifact
+  preview in a separate window]]'
 - '[[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode
   changes in v2.1.261]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode changes in v2.1.261]]
-- Later: 2026-09-04 · Replit · [[Changes/Replit/2026-09-04-understand-app-usage-with-project-analytics|Understand app usage with Project Analytics]]
+- Later: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-video-agent-essential-mode|Video Agent Essential Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

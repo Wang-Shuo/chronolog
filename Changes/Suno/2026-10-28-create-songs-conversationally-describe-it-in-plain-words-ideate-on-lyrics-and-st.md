@@ -5,20 +5,20 @@ description: 'Suno · 2026-10-28 · Music Generation: Create songs conversationa
   Describe it in plain words, ideate on lyrics and style with your AI, Suno makes
   the song'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1040
+  lag_days: 2506
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a76b9aae76b2403f906572e32a39e3a7953ad02fb02cfd66438bdb977d525df6
+machine_hash: deef9163a87ebc308f9ba71fa695692d786987b1e997640026682386479cb408
 product: suno
 product_name: Suno
 record:
@@ -45,10 +45,10 @@ record:
   title: Create songs conversationally
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-background-image-video-and-music-generation-can-complete-independently-of-the-re|Background
-  image, video, and music generation can complete independently…]]'
 - '[[Changes/Suno/2026-10-15-shareable-workspaces-share-a-library-of-songs-that-you-can-share-across-a-team-o|Shareable
   Workspaces Share a library of songs that you can share across a team]]'
+- '[[Changes/Synthesia/2026-10-21-preview-three-creative-directions-in-syren-before-generating-a-video-so-you-can|Choose
+  a creative direction with Moodboards]]'
 - '[[Changes/Suno/2026-10-23-iphone-duo-support-new-phone-same-suno-the-app-is-now-built-to-fit-the-iphone-du|Updates
   for Suno on iOS]]'
 source_release: '[[Releases/Suno/suno-2026-10-28-e-suno-mcp-beta-860ffd96|suno-2026-10-28-e-suno-mcp-beta-860ffd96]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

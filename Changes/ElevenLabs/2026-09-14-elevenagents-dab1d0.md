@@ -4,20 +4,20 @@ date: '2026-09-14'
 description: 'ElevenLabs · 2026-09-14 · Voice and Audio: Real-time server events add
   `queue_status`. Its required `queue_status_event.status` accepts `waiting`, `admitted`…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1162
+  lag_days: 2989
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e942aec9f136af21009b3beb9ddca782fa473de210d717cfd0bc065cebc2a187
+machine_hash: e7949645a08c0f75a8477d0a200afe512616913e2fd717330e4343057e04a195
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -54,8 +54,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-8-voice-and-audio-changes-in-v2026-9-4|8 Voice and
-  Audio changes in v2026.9.4]]'
+- '[[Changes/Qoder/2026-09-12-real-time-voice-improved-connection-stability-reducing-the-likelihood-of-unexpec|Real-time
+  voice: Improved connection stability, reducing the likelihood…]]'
 - '[[Changes/ElevenLabs/2026-09-14-packages|Packages]]'
 - '[[Changes/ElevenLabs/2026-09-14-elevenagents-bdb11f|ElevenAgents]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-14-2026-09-14-583c2a71|elevenlabs-2026-09-14-2026-09-14-583c2a71]]'
@@ -100,14 +100,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-8-voice-and-audio-changes-in-v2026-9-4|8 Voice and Audio changes in v2026.9.4]]
-- Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice and Audio changes in rust-v0.155.0]]
+- Earlier: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-real-time-voice-improved-connection-stability-reducing-the-likelihood-of-unexpec|Real-time voice: Improved connection stability, reducing the likelihood…]]
+- Later: 2026-09-16 · Synthesia · [[Changes/Synthesia/2026-09-16-create-up-to-20-seconds-of-b-roll-with-natively-synced-audio-and-drop-polished-c|Generate B-roll with Flux 3 from Black Forest Labs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

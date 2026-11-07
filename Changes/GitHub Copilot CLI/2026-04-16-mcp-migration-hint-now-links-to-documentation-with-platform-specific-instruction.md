@@ -4,20 +4,20 @@ date: '2026-04-16'
 description: 'GitHub Copilot CLI · 2026-04-16 · Apps and Integrations: MCP migration
   hint now links to documentation with platform-specific instructions instead of embedding…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1120
+  lag_days: 2680
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ebc68232499c2ffbfd43fe124452ce05de4b1cba94a15fbe0374f214dc78969
+machine_hash: 37f1f3efae4acb24e6ce029fc8b10de36496e7c2ac232804fe5163fae16d3f5b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,9 +42,10 @@ record:
   title: MCP migration hint now links to documentation with platform-specific instructions…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-04-15-additional-changes|Additional Changes]]'
 - '[[Changes/Claude Code/2026-04-16-2-apps-and-integrations-changes-in-v2-1-111|2
   Apps and Integrations changes in v2.1.111]]'
+- '[[Changes/Descript/2026-04-16-the-api-also-supports-model-context-protocol-mcp-connections-so-you-can-take-act|The
+  API also supports Model Context Protocol (MCP) connections so you can take…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-2-apps-and-integrations-changes-in-v1-0-30|2
   Apps and Integrations changes in v1.0.30]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-16-v1-0-28-github-309609147-270e3f24|github-copilot-cli-2026-04-16-v1-0-28-github-309609147-270e3f24]]'
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

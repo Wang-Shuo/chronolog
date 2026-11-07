@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5dfa9883ab23443d67bdaf1c3f545fa3d697a7471d2b1dbd488eede4b27fa759
+machine_hash: 7c975d059671d80910fc14ca6842d1f0fc9b65afdd50ef5d64057fa4491b9a30
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
     desktop app
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent
-  mode is tracked per session, so it no longer carries over when you create…]]'
+- '[[Changes/Kimi Code/2026-06-16-prevent-session-shutdown-from-resuming-the-agent-when-stopping-background-tasks|Prevent
+  session shutdown from resuming the agent when stopping background tasks]]'
 - '[[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved
   the subagent panel]]'
 - '[[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local

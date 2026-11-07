@@ -4,20 +4,19 @@ date: '2023-08-22'
 description: 'Cursor · 2023-08-22 · Editor Experience: You can now reply to Cmd-K
   outputs, making it much easier to have the model revise its work.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 161
+  lag_days: 1745
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 74c47a3b7ede140e0ff4fbb4504ec94e146fdb6458478cde1e9aa31e5b28af6c
+machine_hash: e4beffa31db4dedf539bde6e03e7b3e748a0a8aa9a73c94e376dfc0f14b8cb08
 product: cursor
 product_name: Cursor
 record:
@@ -95,13 +94,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-08-22 · Aider · [[Changes/Aider/2023-08-22-only-git-commit-dirty-files-that-gpt-tries-to-edit-https-aider-chat-docs-faq-htm|Only git commit dirty files that GPT tries…]]
-- Later: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K will no longer output backticks if you do @file]]
+- Later: 2023-08-22 · Descript · [[Changes/Descript/2023-08-22-other-tweaks-fixes|Other tweaks & fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

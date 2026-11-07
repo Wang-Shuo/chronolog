@@ -4,20 +4,20 @@ date: '2024-01-02'
 description: 'Dify · 2024-01-02 · Automation and Scheduling: Add data clean schedule
   by @JohnJyong in https://github.com/langgenius/dify/pull/1859'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1567
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9826353ccc87117d129672b9d1860f6ed14994242ab8a850b60831991c88d789
+machine_hash: ea990472c46cfef56e4a819376ecbcf6436d9537b1aff02f1dddb9358d270509
 product: dify
 product_name: Dify
 record:
@@ -41,6 +41,12 @@ record:
   theme_resolution: manual-semantic-rule-v1
   title: Add data clean schedule
   type: change
+related_changes:
+- '[[Changes/Notion/2023-05-31-notifications-to-stay-in-the-loop|Notifications to
+  stay in the loop]]'
+- '[[Changes/Notion/2023-09-22-automate-workflows-in-a-database|Automate workflows
+  in a database]]'
+- '[[Changes/Notion/2023-11-14-stay-in-the-loop-on-projects|Stay in the loop on projects]]'
 source_release: '[[Releases/Dify/dify-2024-01-02-0-4-0-github-135559615-949bf14a|dify-2024-01-02-0-4-0-github-135559615-949bf14a]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -74,13 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
+- Earlier: 2023-11-14 · Notion · [[Changes/Notion/2023-11-14-stay-in-the-loop-on-projects|Stay in the loop on projects]]
 - Later: 2024-01-04 · Dify · [[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter schedule timedelta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

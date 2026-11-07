@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be1a5f3addc3e6b481bc1bbd5d055930a7b8678be4051756708dc4ffbb358f94
+machine_hash: 5037f85683e3e3f6d5899ba9643c1bf94a40f1823383cc613d6c38bad877e821
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#26821 [codex] Exclude external tool output from memories @rka-oai'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-01-2-memory-and-personalization-changes-in-v0-9-6|2
-  Memory and Personalization changes in v0.9.6]]'
+- '[[Changes/HeyGen/2026-06-02-personal-settings-contains-settings-that-apply-only-to-the-individual-user-inclu|Personal
+  Settings contains settings that apply only to the individual user…]]'
 - '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory
   that stays more up to date]]'
 - '[[Changes/v0/2026-06-08-team-plan-members-can-set-custom-instructions|Team plan

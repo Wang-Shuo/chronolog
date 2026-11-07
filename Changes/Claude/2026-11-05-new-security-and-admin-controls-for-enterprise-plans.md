@@ -4,20 +4,20 @@ date: '2026-11-05'
 description: 'Claude · 2026-11-05 · Enterprise and Administration: Claude Enterprise
   has new security and admin features, including a security center, inference hooks…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1280
+  lag_days: 2487
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bc4965af52dc01de8e56fba2790858496ceebb58f54d9c8b26186f3971c7d7fc
+machine_hash: 876b46fcf0cbe3c0bff33cbfc69be3bc0128fb22388ded9b9c12f9a507128c72
 product: claude
 product_name: Claude
 record:
@@ -92,12 +92,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-workspace-controls-enabling-or-disabling-provider-models-requires-an-owner-or-ad|Workspace controls: enabling or disabling provider models requires an owner…]]
+- Later: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-enterprise-approval-controls-enterprise-policies-can-restrict-full-access-and-au|Enterprise approval controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

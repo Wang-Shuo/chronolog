@@ -4,20 +4,20 @@ date: '2026-07-08'
 description: 'Lovable · 2026-07-08 · Enterprise and Administration: Workspace admins
   and owners on Business plans can now use [Workspace…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1160
+  lag_days: 2367
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 79e199b4a34be3a0f67d775b430d935673b059ed77caee010d607638891a23c3
+machine_hash: ac645177dd48958e3137a46e91b874b70e7467183deb7b3f95989868fffa640a
 product: lovable
 product_name: Lovable
 record:
@@ -62,12 +62,11 @@ record:
   title: Workspace insights now on Business plans
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-3-enterprise-and-administration-changes-in-1-9-0|3
-  Enterprise and Administration changes in 1.9.0]]'
-- '[[Changes/Lovable/2026-07-07-restrict-workspace-access-by-sso-group|Restrict workspace
-  access by SSO group]]'
-- '[[Changes/OpenHands/2026-07-07-feat-enterprise-auth-super-admin-management-endpoint-grant-revoke-list-by-jpshac|feat(enterprise/auth):
-  super-admin management endpoint (grant/revoke/list)]]'
+- '[[Changes/HeyGen/2026-07-08-heygen-has-moved-to-a-monthly-release-cadence-for-enterprise-explore-key-upcomin|HeyGen
+  has moved to a monthly release cadence for enterprise]]'
+- '[[Changes/HeyGen/2026-07-08-a-enterprise-plan-features|A) Enterprise plan features]]'
+- '[[Changes/HeyGen/2026-07-08-5-enterprise-and-administration-changes-in-july-2026-enterprise-releases|5
+  Enterprise and Administration changes in July 2026 Enterprise Releases]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-08-2026-07-08-6cd655f7|lovable-2026-07-08-2026-07-08-6cd655f7]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -103,14 +102,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-07 · OpenHands · [[Changes/OpenHands/2026-07-07-feat-enterprise-auth-super-admin-management-endpoint-grant-revoke-list-by-jpshac|feat(enterprise/auth): super-admin management endpoint (grant/revoke/list)]]
+- Earlier: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-5-enterprise-and-administration-changes-in-july-2026-enterprise-releases|5 Enterprise and Administration changes in July 2026 Enterprise Releases]]
 - Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business and Enterprise customers already have access to Sites]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

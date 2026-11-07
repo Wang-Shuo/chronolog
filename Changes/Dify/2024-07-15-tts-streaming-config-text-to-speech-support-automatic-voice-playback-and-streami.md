@@ -4,20 +4,20 @@ date: '2024-07-15'
 description: 'Dify · 2024-07-15 · Voice and Audio: **TTS Streaming Config**: Text-to-Speech
   support automatic voice playback and streaming by @ic-xu in #5492.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 371
+  lag_days: 2198
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 336d90e7b78a9cb964afaf0c7490746bac7b60a88d64e3aff2f31cd86d52b1df
+machine_hash: 41fc3bb313b50b3e1429dc4eddb7142ecceaff4d019f82da05cfccec23921178
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,11 @@ record:
   title: '**TTS Streaming Config**'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-06-17-3-voice-and-audio-changes-in-v0-3-5|3 Voice and
-  Audio changes in v0.3.5]]'
 - '[[Changes/Open WebUI/2024-06-27-2-voice-and-audio-changes-in-v0-3-6|2 Voice and
   Audio changes in v0.3.6]]'
 - '[[Changes/Suno/2024-06-28-audio-input-is-now-available-to-everyone-including-those-with-free-accounts|Audio
   Input is now available to everyone, including those with free accounts!]]'
+- '[[Changes/Descript/2024-07-02-regenerate-is-out-of-beta|Regenerate is out of Beta]]'
 source_release: '[[Releases/Dify/dify-2024-07-15-0-6-14-github-165452649-ca4802e7|dify-2024-07-15-0-6-14-github-165452649-ca4802e7]]'
 source_type: github_releases
 theme: voice
@@ -83,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-06-28 · Suno · [[Changes/Suno/2024-06-28-audio-input-is-now-available-to-everyone-including-those-with-free-accounts|Audio Input is now available to everyone, including those with free accounts!]]
-- Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|🗣 ElevenLabs Voice Adaptations]]
+- Earlier: 2024-07-02 · Descript · [[Changes/Descript/2024-07-02-regenerate-is-out-of-beta|Regenerate is out of Beta]]
+- Later: 2024-07-16 · Descript · [[Changes/Descript/2024-07-16-translation-w-dubbing-is-now-in-beta|Translation w/ dubbing is now in Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

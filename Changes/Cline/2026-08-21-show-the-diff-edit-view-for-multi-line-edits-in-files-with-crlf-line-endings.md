@@ -4,20 +4,19 @@ date: '2026-08-21'
 description: 'Cline · 2026-08-21 · Editor Experience: Show the diff edit view for
   multi-line edits in files with CRLF line endings.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1256
+  lag_days: 2840
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 692ef0ba8389cabbd6e3e464fe87f06738cbaf076504611db5953c795b146e64
+machine_hash: a9645820e9e8e45765cf6f5cd0e38ffbc59619d05fe6105d446680c74ee69db8
 product: cline
 product_name: Cline
 record:
@@ -43,8 +42,8 @@ record:
   title: Show the diff edit view for multi-line edits in files with CRLF line endings
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-20-hovering-over-a-file-s-comment-count-pill-now-previews-all-comments-on-that-file|Hovering
-  over a file''s comment count pill now previews all comments on that file…]]'
+- '[[Changes/Kimi Code/2026-08-20-edit-and-write-now-require-reading-an-existing-file-before-modifying-it|Edit
+  and Write now require reading an existing file before modifying it]]'
 - '[[Changes/Runway/2026-08-20-agents-can-now-list-workflows-in-your-workspace-open-one-in-the-web-app-editor-t|Workflow
   Support in Runway MCP]]'
 - '[[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-05-01'
 description: 'GitHub Copilot CLI · 2026-05-01 · Interface Experience: 3 changes in
   1.0.40 — Resume session picker no longer shows duplicate entries for the same Mission…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1208
+  lag_days: 2574
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3acfa8fa18cca40af02ef14ca8f601a5206fb62111aa41a2c07b1a9b7f662da7
+machine_hash: eccaa08d5e088edaf6884baf4800b0f47f381248841928aa5aafed60aa9a54f9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.40
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

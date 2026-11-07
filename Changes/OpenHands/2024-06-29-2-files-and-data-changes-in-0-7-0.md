@@ -4,20 +4,20 @@ date: '2024-06-29'
 description: 'OpenHands · 2024-06-29 · Files and Data: 2 changes in 0.7.0 — Document,
   rename Agent* exceptions to LLM* by @enyst in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 401
+  lag_days: 1746
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e34a4461f0a32a5a182e6be9001fa9835e395197a841971050a9bb74fa0a85f
+machine_hash: a0b0f40717e2b2708c03e0351bcca60b08d0be576a4d7e345a2db3229fdb91c6
 product: openhands
 product_name: OpenHands
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

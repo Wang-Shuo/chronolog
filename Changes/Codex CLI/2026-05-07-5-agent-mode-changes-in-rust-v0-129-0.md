@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 59d01c5568210cf3afbaa3170e633cd007a062900afa6c2b1fa062f629fa53fe
+machine_hash: b17936967a11067136b238c49dea5cdb8442e620740d30cca119375c9b94ea96
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 5 Agent Mode changes in rust-v0.129.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-06-add-rubber-duck-agent-for-gpt-sessions-powered-by-claude-available-in-experiment|Add
-  rubber-duck agent for GPT sessions, powered by Claude (available in /experimental)]]'
+- '[[Changes/Notion/2026-05-06-custom-agents-now-have-a-dedicated-place-in-your-library-use-the-custom-agent-di|Custom
+  Agents now have a dedicated place in your Library]]'
 - '[[Changes/Windsurf/2026-05-06-improved-reliability-of-devin-local-agent|Improved
   reliability of Devin Local agent]]'
 - '[[Changes/Windsurf/2026-05-06-agent-command-center|Agent Command Center]]'

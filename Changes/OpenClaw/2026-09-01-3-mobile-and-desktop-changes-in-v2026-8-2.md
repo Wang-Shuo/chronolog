@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-01 · Mobile and Desktop: 3 changes in v2026.8
   Installation and first-run setup now do a better job of preserving the system and
   model…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1267
+  lag_days: 2851
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44612e4e2fb4fc9ba268186747a6024f003c53d8010094d12fbf638de218b7df
+machine_hash: d3977c5ea0d125143353cb5ce9b802dc0418f1fee80c990da52fc8c015937a90
 product: openclaw
 product_name: OpenClaw
 record:
@@ -62,10 +62,10 @@ record:
   title: 3 Mobile and Desktop changes in v2026.8.2
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-code-interpreter-starts-on-windows-the-built-in-code-interpreter-now-serves-its|\U0001F40D
-  Code interpreter starts on Windows. The built-in code interpreter now serves…]]"
 - '[[Changes/OpenClaw/2026-08-31-installation-and-onboarding-a-clearer-path-from-download-to-a-first-useful-conve|Installation
   and Onboarding - A clearer path from download to a first useful…]]'
+- '[[Changes/Qoder/2026-08-31-improved-the-reliability-of-installation-and-updates-on-windows|Improved
+  the reliability of installation and updates on Windows]]'
 - '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
   --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-01-v2026-8-2-cca64187|openclaw-2026-09-01-v2026-8-2-cca64187]]'
@@ -124,7 +124,7 @@ Source: https://docs.openclaw.ai/releases/2026.8.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

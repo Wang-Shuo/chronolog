@@ -4,20 +4,21 @@ date: '2026-08-26'
 description: 'Codex CLI · 2026-08-26 · Account and Access: 2 changes in 0.150.0 —
   Improved credential redaction in app-server diagnostics, including provider, authentication…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1245
+  lag_days: 2220
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86598993a986f0bd94f8f8c8b3141efd72775b76c55dd0fe30530763e90c360f
+machine_hash: beaf5b604569aca338b45c2d0f53622a048bf62eb21a09f1daed2156e03faf12
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

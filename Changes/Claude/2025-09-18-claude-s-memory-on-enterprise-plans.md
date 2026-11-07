@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7ecb1e63b4fbe47a1a7307b1f03db44f7c2b9317e1731417c07f59b07540d71d
+machine_hash: 2e6c75892452eb328af52941c411c246211b9bbc5a5cbaef743944cfca843c7c
 product: claude
 product_name: Claude
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-09-15 · ChatGPT · [[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization settings are now in Settings]]
-- Later: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
+- Later: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-personalize-your-agent-s-instructions-and-memory|Personalize your Agent’s instructions and memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

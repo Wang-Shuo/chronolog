@@ -4,20 +4,20 @@ date: '2024-06-04'
 description: 'Aider · 2024-06-04 · Voice and Audio: Detect supported audio sample
   rates for `/voice`.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 330
+  lag_days: 2157
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c891159bc36642e43b1bd0e3a2f8dda6800c2b74186f16f16d39eefbffac026
+machine_hash: 8fc4685e2a292f920325bb16756f5a8dc5d7508cea2c2a59b079433b90ceda7b
 product: aider
 product_name: Aider
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-06-03 · Open WebUI · [[Changes/Open WebUI/2024-06-03-local-tts-voice-selection-fixed-the-issue-where-the-selected-local-text-to-speec|🔊 Local TTS Voice Selection]]
-- Later: 2024-06-10 · Open WebUI · [[Changes/Open WebUI/2024-06-10-3-voice-and-audio-changes-in-v0-3-0|3 Voice and Audio changes in v0.3.0]]
+- Later: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-sound-good|Sound Good]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-05-28'
 description: 'Claude Code · 2026-05-28 · Editor Experience: `/remote-control` autocomplete
   now shows "Disconnect Remote Control" when Remote Control is already active'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1171
+  lag_days: 2755
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38e21e838ec708f7d7b3b329466bbcd0e18e5a9be8ea6f7c1cc2aeaeac1fc75d
+machine_hash: 27e75d9df1e4cbfc8296c6c9b2fc18b2b9fb0d0100c332aae971b617a411663b
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +42,12 @@ record:
     Remote…'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-22-layout-controls-in-the-visual-editor|Layout controls
-  in the Visual Editor]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-automatically-prune-old-process-log-files-from-copilot-logs-at-startup-to-preven|Automatically
   prune old process log files from ~/.copilot/logs/ at startup…]]'
 - '[[Changes/Cline/2026-05-25-update-diff-and-protobufjs-dependencies|Update diff
   and protobufjs dependencies]]'
+- '[[Changes/Kimi Code/2026-05-26-avoid-overly-small-local-completion-caps-that-can-truncate-reasoning-before-summ|Avoid
+  overly small local completion caps that can truncate reasoning before…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-25 · Cline · [[Changes/Cline/2026-05-25-update-diff-and-protobufjs-dependencies|Update diff and protobufjs dependencies]]
+- Earlier: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-avoid-overly-small-local-completion-caps-that-can-truncate-reasoning-before-summ|Avoid overly small local completion caps that can truncate reasoning before…]]
 - Later: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-slash-command-completion-now-preserves-existing-draft-text-for-commands-that-acc|Slash-command completion now preserves existing draft text for commands that accept…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

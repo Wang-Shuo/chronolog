@@ -3,20 +3,20 @@ card_id: chatgpt-2024-12-13-1956f5
 date: '2024-12-13'
 description: 'ChatGPT · 2024-12-13 · Files and Data: Advanced data analysis'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 568
+  lag_days: 1913
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f1461440471da114078db7fac46c582763f0b1ba02c810a262f844aff23b21e
+machine_hash: ab174ee9ba2011aa59e886028a5d1c74cb5eef16dc5f91bce9e02723e80ab83d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-hi-all-today-we-re-launching-a-research-preview-of-a-new-worldbuilding-tool-patc|Hi all! Today we’re launching a research preview of a new worldbuilding tool: Patchwork]]
-- Later: 2025-01-07 · Dify · [[Changes/Dify/2025-01-07-3-files-and-data-changes-in-0-15-0|3 Files and Data changes in 0.15.0]]
+- Later: 2024-12-13 · Descript · [[Changes/Descript/2024-12-13-we-ve-added-a-new-layer-type-in-the-elements-panel-called-placeholder-https-help|Descript adds a new layer type in the Elements panel called…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

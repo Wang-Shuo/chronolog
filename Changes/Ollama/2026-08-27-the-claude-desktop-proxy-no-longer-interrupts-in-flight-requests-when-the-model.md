@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 726809e7930126350734e9e646196dee5a51e31c4ff2aad546c80ee7e31f5c1c
+machine_hash: eec4013a7b359b4973ae8a04ad552d2808afb4bb1fa767157f70520ccd967c7e
 product: ollama
 product_name: Ollama
 record:
@@ -45,8 +45,8 @@ record:
     model…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-26-mlxrunner-avoid-metal-gpu-timeouts-when-loading-models-from-slow-storage|mlxrunner:
-  avoid Metal GPU timeouts when loading models from slow storage]]'
+- '[[Changes/Z.ai API/2026-08-26-native-visual-capabilities-enable-the-model-to-observe-interfaces-rendering-resu|Native
+  visual capabilities enable the model to observe interfaces, rendering…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model
   Support changes in v1.0.81]]'
 - '[[Changes/Midjourney/2026-08-27-today-we-re-gonna-start-letting-everyone-test-our-first-v8-2-image-edit-model|Today

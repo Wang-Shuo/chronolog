@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4c65b3262c1ca00615b593c9c272214993ca9a7a0e3e7b8922b81535dddd2b53
+machine_hash: 402be87cd86b07737aa5f3690096eba9ddc41f9321c86935a55d981268cd18c8
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,8 +43,8 @@ record:
   title: ElevenCreative Studio
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude
-  Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]'
+- '[[Changes/Kimi Code/2026-07-03-2-model-support-changes-in-kimi-code-0-22-2|2 Model
+  Support changes in Kimi Code 0.22.2]]'
 - '[[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|GPT-5.5
   Instant Mini in ChatGPT]]'
 - '[[Changes/ElevenLabs/2026-07-06-elevencreative-studio|ElevenCreative Studio]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|GPT-5.5 Instant Mini in ChatGPT]]
-- Later: 2026-07-06 · Ollama · [[Changes/Ollama/2026-07-06-hardened-gguf-model-creation|Hardened GGUF model creation]]
+- Later: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-3-model-support-changes-in-kimi-code-0-23-0|3 Model Support changes in Kimi Code 0.23.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

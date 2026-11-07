@@ -4,20 +4,20 @@ date: '2023-11-30'
 description: 'Ollama · 2023-11-30 · Context Window: Set the context size to 16K: `/set
   parameter num_ctx 16384`'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 210
+  lag_days: 1534
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0af9b6985e559d4499848fce7ee9d55ddad768692be81af28670ad5f668a0dad
+machine_hash: 05b4568af5e0706b4d3e3fb41ed82c514eb56e009dfdf88fe2c7a64d9eb3777e
 product: ollama
 product_name: Ollama
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-better-context-chat-in-particular-followups-are-now-smarter|Better context chat: in particular, followups are now smarter!]]
-- Later: 2024-01-08 · Ollama · [[Changes/Ollama/2024-01-08-increasing-context-size-with-num-ctx-will-now-work-up-to-a-model-s-supported-con|Increasing context size with num_ctx will now work…]]
+- Later: 2023-12-20 · Notion · [[Changes/Notion/2023-12-20-properties-now-with-descriptions|Properties, now with descriptions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

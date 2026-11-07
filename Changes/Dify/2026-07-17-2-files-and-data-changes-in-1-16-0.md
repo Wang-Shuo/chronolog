@@ -4,20 +4,20 @@ date: '2026-07-17'
 description: 'Dify · 2026-07-17 · Files and Data: 2 changes in v1.16.0 — docs(component):
   document focus-visible guidance by @lyzno1 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1149
+  lag_days: 2494
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6afdb933a930dfe048bdc2e3a99dd38d2414b385002f330d1c6e426539152ab
+machine_hash: 66de364916721eb5a6cc795aee213d48f5c6a04e5edda098cab02b84cb954be7
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Files and Data changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-13-files-and-data-changes-in-v2026-7-1|13 Files and
-  Data changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude
   in Chrome: hardened file-upload path validation]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-create-brand-kits-from-your-brand-guidelines-web-microsoft-365-copilot-app|Create
+  brand kits from your brand guidelines Web (Microsoft 365 Copilot App)]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add
   canvas support in the CLI for extension-driven interactions]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
@@ -106,7 +106,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-08-03'
 description: 'OpenHands · 2026-08-03 · Automation and Scheduling: feat: drive the
   automation UI from the interface manifest by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 944
+  lag_days: 2511
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 003a2e591489ed6a064551afe2cd3e71ea919f3a69902e94fb8cc4fcec1e6e6f
+machine_hash: d18399bda0efd5bd4afe265facf4e5521c587b6cb79a475169cd9aa22b574b0d
 product: openhands
 product_name: OpenHands
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-07-30 · OpenHands · [[Changes/OpenHands/2026-07-30-chore-bump-agent-server-1-39-1-automation-1-5-0-typescript-client-1-36-1-by-hiep|chore: bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1]]
-- Later: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-3-automation-and-scheduling-changes-in-v1-10-0|3 Automation and Scheduling changes in v1.10.0]]
+- Later: 2026-08-04 · Kimi Code · [[Changes/Kimi Code/2026-08-04-rename-two-loop-control-keys-max-retries-per-step-max-attempts-per-step-and-max|Rename two loop_control keys]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'OpenHands · 2026-10-20 · Mobile and Desktop: 2 changes in v1.29.
   ci(desktop-macos): surface the unquarantine workaround on the release by @VascoSch92
   in…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1316
+  lag_days: 2900
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7de480d8ad3e544a0bc931e5f704dbc3b7ca0e8b0dfbc557de275bbc1c0dcfc0
+machine_hash: 99fc9572283885ad52c00201fc9e30a0d2e6c69146678ae9ffdce9c71acd608e
 product: openhands
 product_name: OpenHands
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.29.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

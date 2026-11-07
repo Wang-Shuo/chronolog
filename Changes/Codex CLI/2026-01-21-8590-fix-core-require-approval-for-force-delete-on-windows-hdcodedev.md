@@ -4,20 +4,20 @@ date: '2026-01-21'
 description: 'Codex CLI · 2026-01-21 · Mobile and Desktop: #8590 fix(core): require
   approval for force delete on Windows @hdcodedev'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1044
+  lag_days: 2628
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39bb62ec72d317544ed59d0cf9939f498eded40737b0786eb8e6cac52f64180b
+machine_hash: 9d2067e25a8e6fa3a03e2a2772a817452f22b9b46aab80b29e634dc2cc7e1618
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: '#8590 fix(core): require approval for force delete on Windows @hdcodedev'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-01-20-improved-layout-for-mobile-and-tablets-with-long-prompts|Improved
-  layout for mobile and tablets with long prompts]]'
+- '[[Changes/Notion/2026-01-20-ai-notes-on-mobile|AI Notes on mobile]]'
 - '[[Changes/OpenCode/2026-01-20-13-mobile-and-desktop-changes-in-v1-1-27|13 Mobile
   and Desktop changes in v1.1.27]]'
 - '[[Changes/OpenCode/2026-01-20-30-mobile-and-desktop-changes-in-v1-1-28|30 Mobile
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

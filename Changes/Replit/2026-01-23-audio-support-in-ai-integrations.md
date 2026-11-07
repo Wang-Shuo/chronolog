@@ -4,20 +4,20 @@ date: '2026-01-23'
 description: 'Replit · 2026-01-23 · Voice and Audio: AI integrations now supports
   audio capabilities with four new models:'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 928
+  lag_days: 2755
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9e5365e6a761473e984ad2d98c977a313610c035a6e040fa66a892fa2f0afc77
+machine_hash: d085691c6f06d0bd5d589ff232168146295962503006681e1c8fbba15df33b44
 product: replit
 product_name: Replit
 record:
@@ -64,10 +64,11 @@ record:
   title: Audio support in AI integrations
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-19-audio-generation|Audio Generation]]'
 - '[[Changes/ElevenLabs/2026-01-19-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice
   Updates]]'
+- '[[Changes/HeyGen/2026-01-20-voice-delivery-controls-access-voice-director-voice-mirroring-and-enhance-voice|Voice
+  delivery controls]]'
 source_release: '[[Releases/Replit/replit-2026-01-23-2026-01-23-0f161827|replit-2026-01-23-2026-01-23-0f161827]]'
 source_type: replit_changelog
 theme: voice
@@ -103,14 +104,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice Updates]]
+- Earlier: 2026-01-20 · HeyGen · [[Changes/HeyGen/2026-01-20-voice-delivery-controls-access-voice-director-voice-mirroring-and-enhance-voice|Voice delivery controls]]
 - Later: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-desktop-add-state-to-pause-existing-audio-for-demo-menus-and-add-support-for-aud|Desktop Add state to pause existing audio for demo menus and add support for audio…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

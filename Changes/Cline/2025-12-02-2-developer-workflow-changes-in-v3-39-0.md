@@ -4,19 +4,20 @@ date: '2025-12-02'
 description: 'Cline · 2025-12-02 · Developer Workflow: 2 changes in v3.39.0 — Add
   shell option for cmd.exe to prevent double quote escaping by @dltechy in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 990
+  lag_days: 2639
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0585c32593e0186efe7bda76719b43eea48760e7905af4b3464630e1a01bba0c
+machine_hash: bee0ceeb333c714d21843942f0bc30295fd0d7d2b1709d27c5a64b133300629a
 product: cline
 product_name: Cline
 record:
@@ -92,7 +93,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.39.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

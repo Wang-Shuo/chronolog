@@ -4,20 +4,20 @@ date: '2026-05-07'
 description: 'Claude Code · 2026-05-07 · Interface Experience: Improved focus mode
   behavior'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1214
+  lag_days: 2580
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6baa9e37ad8f4bf74e1b2a6fbc5441b092ee468450d7568de879eb24f3e749ab
+machine_hash: dda4016293acfc8c9f05f67fbe564c0e2319cde18c816d4ec41b5cac9ff70dbb
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Improved focus mode behavior
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-2-interface-experience-changes-in-v2-1-132|2 Interface
-  Experience changes in v2.1.132]]'
 - '[[Changes/Claude Code/2026-05-06-3-interface-experience-changes-in-v2-1-129|3 Interface
   Experience changes in v2.1.129]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-06-2-interface-experience-changes-in-v1-0-43|2
   Interface Experience changes in v1.0.43]]'
+- '[[Changes/Notion/2026-05-06-get-started-from-the-sidebar-library-agents|Get started
+  from the sidebar: Library → Agents]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-2-interface-experience-changes-in-v1-0-43|2 Interface Experience changes in v1.0.43]]
+- Earlier: 2026-05-06 · Notion · [[Changes/Notion/2026-05-06-get-started-from-the-sidebar-library-agents|Get started from the sidebar: Library → Agents]]
 - Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-20065-feat-tui-redesign-session-picker-fcoury-oai|♯20065 feat(tui): redesign session picker @fcoury-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-05-28'
 description: 'Claude · 2026-05-28 · Apps and Integrations: We added connector permissions
   to extend the existing custom roles framework and allow administrators to control…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1162
+  lag_days: 2722
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e2b1ae1295461447a6121ab0e71482488f81c9caf230984d2437dc8ebb85cecb
+machine_hash: 220346639c575304431be81a211b591ba92a5e12762886effbec1dbce156ed5d
 product: claude
 product_name: Claude
 record:
@@ -47,10 +47,10 @@ record:
   title: Enterprise plans can manage connector access with custom roles
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4
-  Apps and Integrations changes in v2.1.152]]'
 - '[[Changes/Gemini CLI/2026-05-27-docs-extensions-clarify-env-var-sanitization-policy-for-mcp-and-ext-by-galz10-in|docs(extensions):
   clarify env var sanitization policy for MCP and ext…]]'
+- '[[Changes/Kimi Code/2026-05-27-2-apps-and-integrations-changes-in-kimi-code-0-4-0|2
+  Apps and Integrations changes in Kimi Code 0.4.0]]'
 - '[[Changes/OpenCode/2026-05-27-3-apps-and-integrations-changes-in-v1-15-11|3 Apps
   and Integrations changes in v1.15.11]]'
 source_release: '[[Releases/Claude/claude-2026-05-28-2026-05-28-4c96572a|claude-2026-05-28-2026-05-28-4c96572a]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

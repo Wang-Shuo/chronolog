@@ -4,20 +4,20 @@ date: '2025-05-15'
 description: 'Cursor · 2025-05-15 · Pricing Model: We’ve heard your feedback and are
   rolling out a unified pricing model to make it less confusing. Here’s how it works:'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 882
+  lag_days: 2500
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: d041818579f67467cec68a3c69c7818ecfaccc3dd3b32bcb090beb56750454a6
+machine_hash: 0e2dfd48c1719185bca89f1ddc2bd0407783849c8130b29f461d2706e8895c1b
 product: cursor
 product_name: Cursor
 record:
@@ -56,11 +56,11 @@ record:
   title: Simpler, unified pricing
   type: change
 related_changes:
-- '[[Changes/Manus/2025-05-11-one-free-daily-task-for-all-users-300-credits|One free
-  daily task for all users (300 credits)]]'
 - '[[Changes/Manus/2025-05-11-a-one-time-bonus-of-1-000-credits-for-all-users|A one-time
   bonus of 1,000 credits for all users]]'
 - '[[Changes/ElevenLabs/2025-05-12-billing|Billing]]'
+- '[[Changes/Notion/2025-05-13-new-plans-with-all-in-one-ai-pricing|New plans with
+  all-in-one AI pricing]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -104,14 +104,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-05-12 · ElevenLabs · [[Changes/ElevenLabs/2025-05-12-billing|Billing]]
+- Earlier: 2025-05-13 · Notion · [[Changes/Notion/2025-05-13-new-plans-with-all-in-one-ai-pricing|New plans with all-in-one AI pricing]]
 - Later: 2025-05-19 · ElevenLabs · [[Changes/ElevenLabs/2025-05-19-billing|Billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

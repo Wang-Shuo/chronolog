@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68c3655f5adefed45eeac7c0ae654cf18c2f3faf66133dc5fc8ceb808990ee55
+machine_hash: 2e614a8a4a9555942307bd9f99625b89a63a3ae34b594befef3a585fd074e300
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -39,8 +39,8 @@ record:
   title: '#13617 Update models.json @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added
-  GPT-5.4 models for ChatGPT subscription users]]'
+- '[[Changes/Notion/2026-03-06-gpt-5-4-is-now-available-in-notion-s-model-picker-this-is-openai-s-latest-and-mo|GPT-5.4
+  is now in Notion]]'
 - '[[Changes/OpenCode/2026-03-06-add-gpt-5-4-to-codex-allowed-models-list|Add GPT-5.4
   to Codex allowed models list]]'
 - '[[Changes/OpenCode/2026-03-07-desktop-model-sticks-to-session-after-being-changed|Desktop

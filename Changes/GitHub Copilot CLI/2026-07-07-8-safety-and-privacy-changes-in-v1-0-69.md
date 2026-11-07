@@ -4,20 +4,20 @@ date: '2026-07-07'
 description: 'GitHub Copilot CLI · 2026-07-07 · Safety and Privacy: 8 changes in 1.0.69
   — Label built-in file edits with a (sandbox policy) badge instead of (sandboxed)…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1178
+  lag_days: 2170
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bdc9bd738e1e5fe223bbb55529456e27b2ebd2edbf0e6894bbebcd27339a4b40
+machine_hash: 4b36bb101c2970bf864bda11752cc4e8e0a86cf92943bc3ea447bbee088d99a4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -122,13 +122,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-added-a-grey-badge-to-the-footer-when-in-manual-permission-mode-making-the-activ|Added a grey ⏸ badge to the footer when in manual permission mode, making the active…]]
-- Later: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-5-safety-and-privacy-changes-in-grouped-tool-approvals-richer-mcp|5 Safety and Privacy changes in Grouped tool approvals, richer MCP…]]
+- Later: 2026-07-07 · Kimi Code · [[Changes/Kimi Code/2026-07-07-2-safety-and-privacy-changes-in-kimi-code-0-23-1|2 Safety and Privacy changes in Kimi Code 0.23.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

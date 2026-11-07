@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 517bdb0243bf2497e59f51862de27db462e774d3df98281f709bb5b903e1eb7f
+machine_hash: 1f2ad02e03c087d428679db59392140dc0888a460a9c721bbbb500fec5da3902
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Model Support changes in v0.26.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-27-2-model-support-changes-in-rust-v0-92-0|2 Model
-  Support changes in rust-v0.92.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-copilot-chat-model-selector-now-offers-gpt-5-2-android-windows-ios-mac-web-micro|Copilot
+  Chat model selector now offers GPT-5.2 Android, Windows, iOS, Mac…]]'
 - '[[Changes/Ollama/2026-01-27-new-ollama-launch-clawdbot-command-for-launching-clawdbot-using-ollama-models|New
   ollama launch clawdbot command for launching Clawdbot using Ollama models]]'
 - '[[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes

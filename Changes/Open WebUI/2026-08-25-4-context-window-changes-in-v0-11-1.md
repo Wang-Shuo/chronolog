@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-08-25 · Context Window: 4 changes in v0.11.1 �
   **Replies not carried into the next turn.** With providers that skip parts of the
   streaming…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1209
+  lag_days: 2533
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21d97b0bf8e517bc7d3ff1a682f4c080f7b016136d9fd2d083b26177b0af3241
+machine_hash: 0ccecaf396a89ce197d8b68d9a21add49ad7c81b6fac76d1979f39237aa57cfc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -62,11 +62,12 @@ record:
   title: 4 Context Window changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-21-start-with-conversations|Start with Conversations]]'
 - '[[Changes/Dify/2026-08-25-8-context-window-changes-in-1-17-0|8 Context Window changes
   in 1.17.0]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR
   Agent Issue Fix (19239): Update /clear command docs to include context reset]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-outlook-emails-in-copilot-notebooks-windows-web-microsoft-365-copilot|Outlook
+  Emails in Copilot Notebooks Windows, Web (Microsoft 365 Copilot)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'
 source_type: github_releases
 theme: context-window
@@ -124,14 +125,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR Agent Issue Fix (19239): Update /clear command docs to include context reset]]
+- Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-outlook-emails-in-copilot-notebooks-windows-web-microsoft-365-copilot|Outlook Emails in Copilot Notebooks Windows, Web (Microsoft 365 Copilot)]]
 - Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed Sonnet 5's default auto-compact window to its full 1M context, so sessions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

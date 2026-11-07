@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62a9f299aa9bf0f0256da94ce7cfeacd50466980b023fe843c80bb802c33cdb9
+machine_hash: d4ee6503c96f2c3c1eb2cb79b9a215d858eec195d3a6f3ef1d6c65102331c2f1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Agent Mode changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-26-added-drag-and-drop-support-for-files-or-screenshots-directly-onto-the-agent-pan|Added
-  drag-and-drop support for files or screenshots directly onto the Agent panel]]'
+- '[[Changes/Kimi Code/2026-10-26-stop-showing-a-failed-swarm-for-agentswarm-calls-rejected-before-any-subagent-st|Stop
+  showing a failed swarm for AgentSwarm calls rejected before any subagent…]]'
 - '[[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The
   status bar no longer disappears after you switch from Agent mode to IDE mode]]'
 - '[[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode

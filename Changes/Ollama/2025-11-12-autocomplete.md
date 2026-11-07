@@ -3,20 +3,19 @@ card_id: ollama-2025-11-12-5fa005
 date: '2025-11-12'
 description: 'Ollama · 2025-11-12 · Editor Experience: Autocomplete'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 974
+  lag_days: 2558
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16c34180ca83df77dcf5c850f9d01309007691a16dfb4f5cef0c0d5d2a660a06
+machine_hash: 56b3d72188ef4c9019999d4248904ac093c78f09de6da49958f7273f5969a57b
 product: ollama
 product_name: Ollama
 record:
@@ -78,13 +77,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-11-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-12-3-editor-experience-changes-in-v0-0-355|3 Editor Experience changes in v0.0.355]]
-- Later: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-refactor-web-reuse-the-same-edit-custom-collection-modal-component-and-fix-the-p|refactor(web): reuse the same edit-custom-collection-modal component, and fix…]]
+- Later: 2025-11-13 · Descript · [[Changes/Descript/2025-11-13-editor|Editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

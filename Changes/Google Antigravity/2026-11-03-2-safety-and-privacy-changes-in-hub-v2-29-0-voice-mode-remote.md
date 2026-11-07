@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-11-03 · Safety and Privacy: 2 changes 
   v2.29.0 — Voice mode, remote agents, redesigned Automations, and Jupyter notebook
   viewer…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1297
+  lag_days: 2289
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cc1d739772bc022a147982d45fa39c3b03a5da9b1a451ee6266d9e827a291f86
+machine_hash: a7fc88f96fd412d5006c47fb71944f4763286ecd9895126cea898e296256a04d
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -103,7 +103,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.29.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

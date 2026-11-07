@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-08-14 · Mobile and Desktop: **\U0001F933 Hapti
   on Support Devices**: Android devices now support haptic feedback for an immersive
   tactile…"
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 519
+  lag_days: 2103
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cdc9285c16d2a825923e075eaa8d8d9dbaa5a4c24784e848ba64c5f119af5ffd
+machine_hash: 3fe997e26edb5ee8551397c9d7b5b0cca7aee3eb6df8d8cb124f55be5cbf0b8c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,12 @@ record:
   title: "**\U0001F933 Haptic Feedback on Support Devices**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|\U0001F504
-  Font Change for Windows]]"
-- '[[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider
-  is better at offering to add files to the chat on Windows]]'
 - '[[Changes/Ollama/2024-07-30-ollama-on-windows-will-now-show-better-error-messages-if-required-files-are-miss|Ollama
   on Windows will now show better error messages if required files are missing]]'
+- '[[Changes/Descript/2024-07-31-file-upload-speed-boost-on-web|File upload speed
+  boost on Web]]'
+- '[[Changes/Descript/2024-08-14-flatten-tracks-on-web-and-desktop-preview|Flatten
+  Tracks on Web and Desktop preview]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-14-v0-3-13-github-170247356-9f5f681e|open-webui-2024-08-14-v0-3-13-github-170247356-9f5f681e]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-07-30 · Ollama · [[Changes/Ollama/2024-07-30-ollama-on-windows-will-now-show-better-error-messages-if-required-files-are-miss|Ollama on Windows will now show better error messages if required files are missing]]
+- Earlier: 2024-08-14 · Descript · [[Changes/Descript/2024-08-14-flatten-tracks-on-web-and-desktop-preview|Flatten Tracks on Web and Desktop preview]]
 - Later: 2024-08-26 · Gemini · [[Changes/Gemini/2024-08-26-contextual-and-convenient-help-from-gemini|Contextual and convenient help from Gemini]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

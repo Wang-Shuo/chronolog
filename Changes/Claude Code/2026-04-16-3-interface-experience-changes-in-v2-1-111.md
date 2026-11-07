@@ -4,20 +4,20 @@ date: '2026-04-16'
 description: 'Claude Code · 2026-04-16 · Interface Experience: 3 changes in v2.1.111
   — `/effort` now opens an interactive slider when called without arguments, with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1193
+  lag_days: 2559
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69342a36fd9bc39e0ad558f76c7903dfe65e828e1c59463470ea9640286b52ad
+machine_hash: 5ade464ba4e3031ed7b00dc0e65269e1d26674ecc6a384e0903e9e7b6ca8db40
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,13 +98,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-status-bar-shows-files-and-issues-hints-while-typing-and-help-hint-when-the-slas|Status bar shows @files and ♯issues hints while typing, and /help hint…]]
-- Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-2-interface-experience-changes-in-v1-0-28|2 Interface Experience changes in v1.0.28]]
+- Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-drive-media-in-the-media-sidebar|Drive media in the media sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

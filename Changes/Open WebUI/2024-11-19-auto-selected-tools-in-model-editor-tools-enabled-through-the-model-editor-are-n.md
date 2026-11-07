@@ -5,20 +5,19 @@ description: "Open WebUI · 2024-11-19 · Editor Experience: **\U0001F527 Auto-S
   Tools in Model Editor**: Tools enabled through the model editor are now automatically
   selected…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 616
+  lag_days: 2200
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 36b8245ecf381e380646c4aea8bbe4c4e50d7aefe591fe3dea746f903d61fed4
+machine_hash: 9ef603ea53de33bff74fde6d353a22fb3413544e7a8beb4576368929591164b6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,10 +58,9 @@ record:
   title: "**\U0001F527 Auto-Selected Tools in Model Editor**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-05-chore-update-type-definition-to-resolve-lint-error-in-base-usage-at-text-editor|chore:
-  update type definition to resolve lint error in Base usage at text-editor.tsx]]'
 - '[[Changes/Midjourney/2024-11-07-we-re-doing-a-community-contest-for-images-made-with-the-new-editor-please-share|Editor
   Showcase]]'
+- '[[Changes/Descript/2024-11-19-editor-updates|Editor updates]]'
 - '[[Changes/Gemini/2024-11-19-priority-access-with-gemini-advanced-ask-gemini-to-remember-the-things-you-care|Priority
   access with Gemini Advanced]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f|open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f]]'
@@ -112,7 +110,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-06-30 · Automation and Scheduling: /pr
   now starts a self-paced loop that fixes one thing per run and paces itself around
   CI to…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 910
+  lag_days: 2477
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 011af0cdc5f62e61d93b32184a4c61aa910ef35a6a0645d237f341ac6c260e9c
+machine_hash: 89e8e89ecd463f9e1877ebb33dd3645935e8f168f157bb4242ef8f3cd7183d6c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,10 +49,10 @@ record:
     itself…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-handle-wakeup-misfires-with-a-graceful-message-when-no-self-paced-schedule-is-ac|Handle
-  wakeup misfires with a graceful message when no self-paced schedule is active]]'
 - '[[Changes/Dify/2026-06-25-2-automation-and-scheduling-changes-in-1-15-0|2 Automation
   and Scheduling changes in 1.15.0]]'
+- '[[Changes/Kimi Code/2026-06-26-add-a-hint-to-the-per-turn-step-limit-error-pointing-users-to-the-loop-control-m|Add
+  a hint to the per-turn step limit error pointing users…]]'
 - '[[Changes/Open WebUI/2026-06-29-6-automation-and-scheduling-changes-in-v0-10-0|6
   Automation and Scheduling changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

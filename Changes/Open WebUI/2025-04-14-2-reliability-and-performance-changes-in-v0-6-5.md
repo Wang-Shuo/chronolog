@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-14 · Reliability and Performance: 2 changes
   v0.6.5 — \U0001F4CB **Copy Formatted Response Mode**: You can now enable “Copy Formatted”
   in…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 851
+  lag_days: 2338
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9feebbd4d6659205d4b9b657d2b9f81b6db4a962e91d557631d5eb7f9d53efc
+machine_hash: 293de8f097a4571b3bea1c2df0913e212155d4fd42baef708ae8eeb9175e2d7f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -91,13 +91,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.5
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-reindex-knowledge-files-on-demand-admins-can-now-trigger-reindexing-of-all-knowl|🔁 Reindex Knowledge Files on Demand]]
-- Later: 2025-04-17 · Ollama · [[Changes/Ollama/2025-04-17-2-reliability-and-performance-changes-in-v0-6-6|2 Reliability and Performance changes in v0.6.6]]
+- Later: 2025-04-15 · Notion · [[Changes/Notion/2025-04-15-write-beautiful-emails-faster|Write beautiful emails, faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

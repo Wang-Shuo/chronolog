@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1304729128bedc39512c4dbba67b54465e5c76fd8e0f447d6959743ef45bd688
+machine_hash: aea9e8f30737c8a1fd32bbfcee0ae0c31fdeb0b3c5884b880c1623165928264f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,10 +53,10 @@ record:
   title: GPT-5.2 Instant Update
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-07-ollama-launch-will-now-download-missing-models-instead-of-erroring|ollama
-  launch will now download missing models instead of erroring]]'
 - '[[Changes/ElevenLabs/2026-02-09-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-02-09-python-sdk|Python SDK]]'
+- '[[Changes/Notion/2026-02-09-claude-opus-4-6-is-the-strongest-model-anthropic-has-shipped-it-takes-complicate|Claude
+  Opus 4.6, now in Notion]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b|chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-python-sdk|Python SDK]]
-- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-docs-document-gemini-cli-home-environment-variable-by-adamfweidman-in-https-gith|docs: document GEMINI_CLI_HOME environment variable]]
+- Earlier: 2026-02-09 · Notion · [[Changes/Notion/2026-02-09-claude-opus-4-6-is-the-strongest-model-anthropic-has-shipped-it-takes-complicate|Claude Opus 4.6, now in Notion]]
+- Later: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-use-kling-models-for-higher-resolution-avatars-that-move-more-naturally|Use Kling models for higher resolution avatars that move more naturally]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

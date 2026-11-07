@@ -5,20 +5,19 @@ description: 'Cursor · 2023-12-16 · Editor Experience: UPDATE (0.20.1-0.20.2):
   added TLDRs to make it easier to sort through the bugs flagged by the AI review
   and fixed a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 277
+  lag_days: 1861
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e8e24c360fcad4f872a8ca30f44bc051cbf16b1bdd6318031757426674bb562
+machine_hash: 427e740492f02462f2a4e82fc4d0b0f0dbd87b9827b6e321f23135829f063c99
 product: cursor
 product_name: Cursor
 record:
@@ -47,8 +46,8 @@ record:
     the bugs…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter
-  Followups]]'
+- '[[Changes/Descript/2023-12-06-sometimes-you-need-a-few-sometimes-you-need-a-few-tries-before-sometimes-you-nee|New
+  AI Action: Remove Retakes]]'
 - '[[Changes/Dify/2023-12-08-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):
   bump word-wrap from 1.2.3 to 1.2.5 in /web]]'
 - '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++
@@ -85,13 +84,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-12-14 · Cursor · [[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++ Improvements]]
-- Later: 2023-12-29 · Cursor · [[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple Command-K, Copilot++ UI]]
+- Later: 2023-12-20 · Notion · [[Changes/Notion/2023-12-20-upgrades-to-web-publishing|Upgrades to web publishing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

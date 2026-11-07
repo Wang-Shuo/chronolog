@@ -4,19 +4,20 @@ date: '2025-03-23'
 description: 'Cursor · 2025-03-23 · Collaboration: Improved indexing performance for
   teams sharing codebases'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 669
+  lag_days: 2263
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 499c05615d38d56e1d4972c08fa7eaa6fa993bd1932e29d0204ebd9bf5b47931
+machine_hash: 54ae2aec05576750e1bb879a5d76c356cb981c0fd2acec43c6d47fa600e8ff92
 product: cursor
 product_name: Cursor
 record:
@@ -99,13 +100,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-03-21 · Lovable · [[Changes/Lovable/2025-03-21-we-heard-the-issues-you-ve-shared-with-us-and-we-re-working-hard-to-fix-them-all|We heard the issues you've shared with us and we're working hard to fix them all]]
-- Later: 2025-03-30 · Midjourney · [[Changes/Midjourney/2025-03-30-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v7-with-you-soon|Thank you so much for your help!]]
+- Later: 2025-03-26 · Notion · [[Changes/Notion/2025-03-26-make-better-forms-using-conditional-logic|Make better Forms using conditional logic]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

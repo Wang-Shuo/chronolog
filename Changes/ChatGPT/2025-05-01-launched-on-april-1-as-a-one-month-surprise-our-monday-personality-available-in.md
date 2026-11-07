@@ -4,20 +4,20 @@ date: '2025-05-01'
 description: 'ChatGPT · 2025-05-01 · Voice and Audio: Launched on April 1 as a one-month
   surprise, our “Monday” personality (available in both voice and text) has now been…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 661
+  lag_days: 2488
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 22d2e8ec1fb47bf762134accab3a3983920584ba76c292ff30e4202a9d9483e5
+machine_hash: 0840f1198a71d19a4c5d450fd265546ce6f5fe3495e71030573645bd916e589e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,7 +57,8 @@ record:
   title: Sunsetting Monday GPT
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-04-21-speech-to-text-e79d25|Speech to Text]]'
+- '[[Changes/Descript/2025-04-22-transcription-provider-selection|Transcription provider
+  selection]]'
 - '[[Changes/Midjourney/2025-04-23-a-new-prompt-bar-for-v7|A new prompt bar for V7]]'
 - '[[Changes/ElevenLabs/2025-04-28-audio-generation-tts-s2s-sfx-voice-design|Audio
   Generation (TTS, S2S, SFX, Voice Design)]]'
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

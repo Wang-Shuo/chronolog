@@ -5,20 +5,20 @@ description: 'Windsurf · 2026-07-29 · Mobile and Desktop: The Codemaps icon is
   in the activity bar in Agent Command Center mode, and opens Codemaps in an editor
   tab.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1233
+  lag_days: 2817
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: db3090ad663c55cb8f4b427ccec9c7f02ffc77eb4c0587959da42c28d155b9e8
+machine_hash: 4f7de9944136f5e4d8ba01f4b3a166bcbd4ad2bb2fdcae3d7bf117da50ea5b19
 product: windsurf
 product_name: Windsurf
 record:
@@ -58,12 +58,12 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-2-mobile-and-desktop-changes-in-rust-v0-146-0|2
-  Mobile and Desktop changes in rust-v0.146.0]]'
 - '[[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger
   screen]]'
 - '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor
   for iPad is now available on all paid plans]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-list-email-attachments-in-microsoft-365-copilot-android-windows-ios-mac-web-micr|List
+  email attachments in Microsoft 365 Copilot Android, Windows, iOS, Mac…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-29-v3-6-22-af7c57e7|windsurf-2026-07-29-v3-6-22-af7c57e7]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -100,14 +100,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor for iPad is now available on all paid plans]]
+- Earlier: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-list-email-attachments-in-microsoft-365-copilot-android-windows-ios-mac-web-micr|List email attachments in Microsoft 365 Copilot Android, Windows, iOS, Mac…]]
 - Later: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-10-26'
 description: 'Gamma · 2026-10-26 · Pricing Model: Check your balance more easily from
   your home screen and Billing settings, with clearer credit information and an…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1411
+  lag_days: 3029
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: cec2003175d8f8d89744a272ad282566ec5bda8cea526c9af835d11002ab7396
+machine_hash: e8df7e601eb19ff2553f8a2d2497fd1037ff1355e6914b2c5068a9f20440629f
 product: gamma
 product_name: Gamma
 record:
@@ -44,10 +44,10 @@ record:
   title: Clearer credit balances
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete
-  usage reporting no longer shows partial status or phantom unattributed…]]'
 - '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
   payments in Vietnam]]'
+- '[[Changes/Synthesia/2026-10-21-set-a-monthly-credit-limit-for-every-user-on-your-enterprise-plan-so-spend-stays|Set
+  per-user limits with Credit controls]]'
 - '[[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2
   Pricing Model changes in ElevenLabs updates — 2026-10-26]]'
 source_release: '[[Releases/Gamma/gamma-2026-10-26-6adfa60dfb9f73d63d1f52fd-593d6949|gamma-2026-10-26-6adfa60dfb9f73d63d1f52fd-593d6949]]'
@@ -81,13 +81,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2 Pricing Model changes in ElevenLabs updates — 2026-10-26]]
-- Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-core-preserve-literal-0-and-arguments-text-in-custom-command-input|Core Preserve literal $0 and $ARGUMENTS text in custom command input]]
+- Later: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-usage-based-billing-windows-linux-mac-web-microsoft-365-copilot-ext|Work IQ APIs: Usage-based billing Windows, Linux, Mac…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

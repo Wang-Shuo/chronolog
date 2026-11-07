@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-06-01 · Multimodal Input: \U0001F4FA **YouTube
   link transcripts.** Pasting a \"youtu.be\" short link into a chat now loads the
   video transcript…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 986
+  lag_days: 2754
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5fa4fa88ab640feddc680975ef73848513618ebfab4eb5eb7bd322ddd4f7b33
+machine_hash: ac3d2f12f1cfda037c03ebb0f0e6bce4901da2293526afdab5d3bb583b62d4b8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +50,8 @@ record:
     link into a chat…"
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-05-19-gemini-omni-is-your-creative-partner-for-video-creation|Gemini
-  Omni is your creative partner for video creation]]'
+- '[[Changes/HeyGen/2026-05-19-if-you-re-building-avatar-agents-localization-workflows-ai-video-tools-virtual-p|If
+  you''re building avatar agents, localization workflows, AI video tools, virtual…]]'
 - '[[Changes/Runway/2026-05-21-get-the-video-you-need-from-the-video-you-already-have-edit-a-frame-the-way-you|Aleph
   2.0 & Edit Studio]]'
 - '[[Changes/ElevenLabs/2026-05-25-music-5f1ccf|Music]]'
@@ -104,13 +104,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-music-5f1ccf|Music]]
-- Later: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-gemma-4-12b-https-ollama-com-library-gemma4-12b-high-performance-multimodal-inte|Gemma 4 12B((source link)]]
+- Later: 2026-06-02 · HeyGen · [[Changes/HeyGen/2026-06-02-3-multimodal-input-changes-in-june-2026-enterprise-releases|3 Multimodal Input changes in June 2026 Enterprise Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

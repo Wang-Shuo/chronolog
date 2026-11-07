@@ -4,20 +4,20 @@ date: '2026-01-20'
 description: 'OpenCode · 2026-01-20 · Apps and Integrations: Core Ensure truncation
   handling applies to MCP servers'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1034
+  lag_days: 2594
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 124aa993ded5f8049373aed4f39c03ee9746ad20733949e14e78670830ce08af
+machine_hash: 3d3355e6890da5110b029a04b8f73b867ad6d0c830eb700437cfd2d89c2e9fb8
 product: opencode
 product_name: OpenCode
 record:
@@ -41,12 +41,11 @@ record:
   title: Core Ensure truncation handling applies to MCP servers
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-19-extensions-add-use-github-token-to-example|Extensions
-  Add use_github_token to example]]'
 - '[[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps
   and Integrations changes in v2.1.14]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-20-enable-all-github-mcp-tools-flag-now-enables-read-write-github-mcp-tools|--enable-all-github-mcp-tools
   flag now enables read-write GitHub MCP tools]]'
+- '[[Changes/Notion/2026-01-20-do-more-with-notion-jira|Do more with Notion & Jira]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-20-v1-1-27-d4cdcad9|opencode-2026-01-20-v1-1-27-d4cdcad9]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -78,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-20-enable-all-github-mcp-tools-flag-now-enables-read-write-github-mcp-tools|--enable-all-github-mcp-tools flag now enables read-write GitHub MCP tools]]
+- Earlier: 2026-01-20 · Notion · [[Changes/Notion/2026-01-20-do-more-with-notion-jira|Do more with Notion & Jira]]
 - Later: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-preserve-tool-input-from-running-state-for-mcp-tool-results|Preserve tool input from running state for MCP tool results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

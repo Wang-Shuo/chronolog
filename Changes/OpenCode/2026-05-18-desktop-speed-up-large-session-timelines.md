@@ -4,20 +4,20 @@ date: '2026-05-18'
 description: 'OpenCode · 2026-05-18 · Reliability and Performance: Desktop Speed up
   large session timelines'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1250
+  lag_days: 2737
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a3484f2c0db99d163e149b04ea6dfc1b4fa364e8097036bd7c0730d6a8e4399
+machine_hash: 2686ff6008e8bc10367e0b49031c8fad17674bce8ff287894cdc1ca493037270
 product: opencode
 product_name: OpenCode
 record:
@@ -40,10 +40,10 @@ record:
   title: Desktop Speed up large session timelines
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention
-  file search performance]]'
 - '[[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2
   Reliability and Performance changes in v0.30.0]]'
+- '[[Changes/HeyGen/2026-05-18-face-hands-posture-gaze-energy-the-same-script-can-become-a-polished-business-up|Face,
+  hands, posture, gaze, energy]]'
 - '[[Changes/Lovable/2026-05-18-speed-tab-the-standalone-speed-tab-has-been-removed-speed-and-lighthouse-checks|Speed
   tab. The standalone Speed tab has been removed]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-18-v1-15-5-b07958f1|opencode-2026-05-18-v1-15-5-b07958f1]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

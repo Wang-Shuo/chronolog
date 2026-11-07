@@ -4,19 +4,20 @@ date: '2024-04-21'
 description: "Open WebUI · 2024-04-21 · Collaboration: **\U0001F517 Share Link Copy
   Button**: Fixed bug where the copy button wasn't copying links in Safari."
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 333
+  lag_days: 1927
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae7b03e0e5899b04e6ad6853a13be04b5787ead905a07b7aeada679f3b22760d
+machine_hash: 784e9200a0f1286ee570058d9fccc567a253c9e8620afdf50497f7d48c1039b4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

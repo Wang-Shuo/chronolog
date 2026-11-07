@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9687a87da471d2e90e4ca029e45e824a738b75adbe5e3ba13bc947feaa31926c
+machine_hash: 95fe56adbe5d40fdef2e2c7bfe77439601c9d2e0777472e12ca9e7680fe5dfba
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#23069 multiagent: trim model-visible description, cap to 5 models @sayan-oai'
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-05-19-3-5-flash-delivers-frontier-level-intelligence-for-your-daily-life|3.5
-  Flash delivers frontier-level intelligence for your daily life]]'
-- '[[Changes/Gemini/2026-05-19-gemini-responses-are-now-even-richer-more-dynamic-and-interactive|Gemini
-  responses are now even richer, more dynamic, and interactive]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-19-2-model-support-changes-in-v1-0-49|2 Model
-  Support changes in v1.0.49]]'
+- '[[Changes/HeyGen/2026-05-19-avatar-v-is-now-accessible-through-the-heygen-api-bringing-production-grade-avat|Avatar
+  V is now accessible through the HeyGen API, bringing production-grade avatar…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-openai-s-gpt-5-5-thinking-available-in-copilot-chat-android-windows-ios-mac-web|OpenAI''s
+  GPT 5.5 Thinking available in Copilot Chat Android, Windows, iOS, Mac…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-openai-s-gpt-5-5-instant-available-in-copilot-chat-android-windows-ios-mac-web-m|OpenAI''s
+  GPT‑5.5 Instant available in Copilot Chat Android, Windows, iOS, Mac…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-2-model-support-changes-in-v1-0-49|2 Model Support changes in v1.0.49]]
+- Earlier: 2026-05-19 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-19-openai-s-gpt-5-5-instant-available-in-copilot-chat-android-windows-ios-mac-web-m|OpenAI's GPT‑5.5 Instant available in Copilot Chat Android, Windows, iOS, Mac…]]
 - Later: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-shell-tool-calls-succeed-even-when-the-model-omits-the-description-parameter|Shell tool calls succeed even when the model omits the description parameter]]
 <!-- chronolog:end -->
 

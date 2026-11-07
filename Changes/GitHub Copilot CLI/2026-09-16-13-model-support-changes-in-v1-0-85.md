@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b910ba6e5e18c710620cd742a8d43e8cc425fcfad67a064a99d86c7ce74d3633
+machine_hash: f300fb8b0755429db18a1554be50791bcce40f36585fc20a08028dcd32261971
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -76,12 +76,12 @@ record:
   title: 13 Model Support changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-14-core-restored-acp-session-model-effort-mode-and-reasoning-chunk-boundaries-when|Core
-  Restored ACP session model, effort, mode, and reasoning chunk boundaries…]]'
 - '[[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed
   /bug and /feedback reports to include only model-behavior params…]]'
 - '[[Changes/Lovable/2026-09-15-removed-workspace-level-ai-model-training-setting|Removed:
   workspace-level AI model training setting]]'
+- '[[Changes/Notion/2026-09-15-browse-every-model-and-see-which-is-best-for-the-job|Browse
+  every model, and see which is best for the job]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: model-support
@@ -152,7 +152,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-15 · Lovable · [[Changes/Lovable/2026-09-15-removed-workspace-level-ai-model-training-setting|Removed: workspace-level AI model training setting]]
+- Earlier: 2026-09-15 · Notion · [[Changes/Notion/2026-09-15-browse-every-model-and-see-which-is-best-for-the-job|Browse every model, and see which is best for the job]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-feat-add-gpt-6-astra-model-support-by-neubig-in-https-github-com-openhands-openh|feat: add GPT-6 Astra model support]]
 <!-- chronolog:end -->
 

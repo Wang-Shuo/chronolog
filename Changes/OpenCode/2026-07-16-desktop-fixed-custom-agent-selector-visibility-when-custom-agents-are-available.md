@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: dbd3caa92907318dd169f7f81d10022c4d04700b9cbfb20987ae5497b361481e
+machine_hash: 85d19a327eca2294652159912452b9d0f67b9bbab015748a5dc20d4b4fee561e
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
   title: Desktop Fixed custom agent selector visibility when custom agents are available
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-15-let-ai-assistants-use-your-published-app|Let AI assistants
-  use your published app]]'
-- '[[Changes/OpenCode/2026-07-15-core-stopped-subagents-from-launching-nested-subagents-by-default-with-a-configu|Core
-  Stopped subagents from launching nested subagents by default…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent
-  Mode changes in v1.0.71]]'
+- '[[Changes/Kimi Code/2026-07-16-expand-the-coder-subagent-tool-set-to-include-background-tasks-todo-lists-plan-m|Expand
+  the coder subagent tool set to include background tasks, todo lists, plan…]]'
+- '[[Changes/Kimi Code/2026-07-16-web-keep-session-activity-indicators-in-sync-with-agent-work-and-prevent-duplica|web:
+  Keep session activity indicators in sync with agent work and prevent duplicate…]]'
+- '[[Changes/Notion/2026-07-16-your-agent-just-got-new-calendar-tools-to-show-and-manage-your-schedule-join-cal|Your
+  agent just got new calendar tools to show and manage your schedule]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-16-v1-18-3-44d1809b|opencode-2026-07-16-v1-18-3-44d1809b]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent Mode changes in v1.0.71]]
+- Earlier: 2026-07-16 · Notion · [[Changes/Notion/2026-07-16-your-agent-just-got-new-calendar-tools-to-show-and-manage-your-schedule-join-cal|Your agent just got new calendar tools to show and manage your schedule]]
 - Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-7-agent-mode-changes-in-v2-1-212|7 Agent Mode changes in v2.1.212]]
 <!-- chronolog:end -->
 

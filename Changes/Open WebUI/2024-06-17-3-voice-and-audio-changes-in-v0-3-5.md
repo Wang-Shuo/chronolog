@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-06-17 · Voice and Audio: 3 changes in v0.3.5 �
   Enhanced Voice Call**: Text-to-speech (TTS) callback now operates in real-time for
   each…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 343
+  lag_days: 2170
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5a34f2a82971ccf76814087d8c32cbb070d3a18219de0f1d7fd55e72e73ceb6
+machine_hash: eb06c4fbc6f105ba78bf9c6ab5816c58a0b7e0380a6ee73b469c7d4ac57caff4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,10 +51,8 @@ record:
   title: 3 Voice and Audio changes in v0.3.5
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-03-local-tts-voice-selection-fixed-the-issue-where-the-selected-local-text-to-speec|\U0001F50A
-  Local TTS Voice Selection]]"
-- '[[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect
-  supported audio sample rates for /voice]]'
+- '[[Changes/Descript/2024-06-04-sound-good|Sound Good]]'
+- '[[Changes/Descript/2024-06-04-layer|Layer]]'
 - '[[Changes/Open WebUI/2024-06-10-3-voice-and-audio-changes-in-v0-3-0|3 Voice and
   Audio changes in v0.3.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-17-v0-3-5-github-160767704-89fd917e|open-webui-2024-06-17-v0-3-5-github-160767704-89fd917e]]'
@@ -103,7 +101,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

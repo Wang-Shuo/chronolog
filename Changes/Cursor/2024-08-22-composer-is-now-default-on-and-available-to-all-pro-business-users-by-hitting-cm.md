@@ -5,19 +5,20 @@ description: 'Cursor · 2024-08-22 · Collaboration: Composer is now default-on 
   available to all Pro/Business users by hitting cmd+I. We''ve added Composer Projects
   (beta)…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 456
+  lag_days: 2050
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0e8049b5157008d83deffca833a0b38e826b689329faf79e70c6cf72e72d018
+machine_hash: f99d18caf97bfc491bf901fd074b5d86709bd1679304b4d8cd5577e8beb4fffd
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +49,10 @@ record:
     cmd+I
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-19-frontend-update-url-for-share-opendevin-trajectory-visualization-by-xingyaoww-in|frontend:
-  update url for share opendevin trajectory visualization]]'
-- '[[Changes/Dify/2024-07-23-feat-add-email-support-for-pro-and-team-by-crazywoola-in-https-github-com-langge|Feat/add
-  email support for pro and team]]'
 - '[[Changes/OpenHands/2024-07-27-2-collaboration-changes-in-0-8-2|2 Collaboration
   changes in 0.8.2]]'
+- '[[Changes/Notion/2024-07-29-import-from-asana|Import from Asana]]'
+- '[[Changes/Notion/2024-08-13-create-a-chart-in-seconds|Create a chart in seconds]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -84,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-2-collaboration-changes-in-0-8-2|2 Collaboration changes in 0.8.2]]
+- Earlier: 2024-08-13 · Notion · [[Changes/Notion/2024-08-13-create-a-chart-in-seconds|Create a chart in seconds]]
 - Later: 2024-09-10 · Gamma · [[Changes/Gamma/2024-09-10-we-added-a-new-way-to-share-your-gamma-creations-you-can-now-download-any-of-you|We added a new way to share your Gamma creations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

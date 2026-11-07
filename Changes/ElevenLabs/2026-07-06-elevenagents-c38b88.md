@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 677e50e74f21106fcb185987a11d6b800f9df087f49c45767a1fbaa534a63b34
+machine_hash: 2d1bce3fdccc216d7d2f8b23e6f1a8ff898fd10c3d06df9c0608a5c4a22e1a18
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -51,7 +51,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Replit/2026-07-03-sell-in-your-app-with-whop|Sell in your app with Whop]]'
+- '[[Changes/Kimi Code/2026-07-04-wait-for-background-subagents-to-finish-and-respond-to-their-results-before-exit|Wait
+  for background subagents to finish and respond to their results before exiting…]]'
 - '[[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode
   changes in v2.1.202]]'
 - '[[Changes/ElevenLabs/2026-07-06-cli|CLI]]'
@@ -99,7 +100,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode changes in v2.1.202]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0|9 Agent Mode changes in 1.9.0]]
+- Later: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-web-replace-the-swarm-footer-with-a-single-inline-tool-card-that-shows-live-suba|web: Replace the swarm footer with a single inline tool card that shows live…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

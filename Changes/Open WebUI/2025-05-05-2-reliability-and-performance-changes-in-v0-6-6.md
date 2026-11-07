@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-05-05 · Reliability and Performance: 2 changes
   v0.6.6 — \U0001F528 **CUDA Docker Images Updated to 12.8**: Upgraded CUDA image
   support for faster…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 872
+  lag_days: 2359
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: efe48d2f4007fcca987ec0900f8565a1647878a04573e764c6e8f0a3d0b8fbce
+machine_hash: 21d616a4d3b25b4b9f7fec48be361253abc1264deece42a66fe0d98be93e4636
 product: open-webui
 product_name: Open WebUI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-02-04'
 description: 'Gamma · 2025-02-04 · Presentation Creation: Now you can export exactly
   what you need—whether it’s a single card or a specific range—by switching the Export…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 237
+  lag_days: 1306
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ed9dff1b71c3fe769610729f3f88d5f107a87d1b70fb707cb97adabffd1e9da
+machine_hash: 58f5c70f30c0ff6fcac75b04e8703d0a54b6d4eead6f3db34a3f1349ea1e8adc
 product: gamma
 product_name: Gamma
 record:
@@ -45,8 +45,7 @@ record:
   title: Export Single Cards to PDF, PPT, and PNG
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-08-08-don-t-want-to-recreate-your-company-s-slide-or-brand-template-in-gamma-now-you-d|Don’t
-  want to recreate your company’s slide or brand template in Gamma?]]'
+- '[[Changes/Descript/2024-09-10-ken-burns-animation|Ken Burns animation]]'
 - '[[Changes/Gamma/2024-09-17-this-makes-it-easy-to-instantly-transform-your-entire-gamma-for-example-translat|This
   makes it easy to instantly transform your entire gamma - for example, translate…]]'
 - '[[Changes/Gamma/2025-01-23-we-re-thrilled-to-introduce-a-new-feature-in-gamma-that-lets-you-scale-your-cont|Scale
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-03-09'
 description: 'ElevenLabs · 2026-03-09 · Editor Experience: [Get project](https://elevenlabs.io/docs/api-reference/studio/get-project),
   [Add…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1091
+  lag_days: 2675
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1074ffc7de81b1618657a7093d0444318ef71b84bc4eefe509958f5727ae2de1
+machine_hash: 8c716627764e962143072a4024a11d8b921a4396e0d3711a4d0db128741f9b63
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -101,13 +100,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-open-terminal-html-editing-users-can-now-edit-html-source-files-in-open-terminal|✏️ Open Terminal HTML editing. Users can now edit HTML source files in Open…]]
-- Later: 2026-03-09 · v0 · [[Changes/v0/2026-03-09-improved-the-custom-design-system-editor-interface|Improved the Custom Design System editor interface]]
+- Later: 2026-03-09 · Notion · [[Changes/Notion/2026-03-09-notion-ai-can-now-generate-and-edit-images-right-on-your-page-create-cover-image|Generate images with Notion AI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

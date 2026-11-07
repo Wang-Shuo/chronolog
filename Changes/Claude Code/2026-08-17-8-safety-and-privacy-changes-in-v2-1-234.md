@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-17 · Safety and Privacy: 8 changes in v2.1
   — Security: remote file reads, session restore, CLAUDE.md includes, workflow scripts
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 2211
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ba7f2a213be51a4b4c37a936850f4599bdb8cf06fa45f012dab32afd753d210
+machine_hash: d502d79b41d487facfc0770a342ba2af0b7ac092a654efe424db6bb3540ec5f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -68,8 +68,8 @@ record:
   title: 8 Safety and Privacy changes in v2.1.234
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-13-fix-the-claude-code-provider-being-unusable-for-agentic-work-it-now-runs-its-own|Fix
-  the Claude Code provider being unusable for agentic work]]'
+- '[[Changes/Kimi Code/2026-08-13-show-project-mcp-launch-targets-in-the-workspace-trust-prompt-default-to-declini|Show
+  project MCP launch targets in the workspace trust prompt, default to declining…]]'
 - '[[Changes/Claude Code/2026-08-14-3-safety-and-privacy-changes-in-v2-1-233|3 Safety
   and Privacy changes in v2.1.233]]'
 - '[[Changes/Cline/2026-08-14-reclaim-idle-plugin-sandbox-processes-instead-of-leaving-them-running-for-the-li|Reclaim
@@ -133,7 +133,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'ChatGPT · 2023-05-12 · Context Window: For more information on o
   process, please check out the article here.In addition to the beta panel, users
   can…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 8
+  lag_days: 1332
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b043f092540d6942c91cc17303c5d561ab847672946e8af6a984b4fada7e2404
+machine_hash: a8af76454b24f99e1d9b97fe14457d9c2d6f22e1cbcc4e2e621db0f15b0012d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,6 +50,10 @@ record:
     here
   type: change
 related_changes:
+- '[[Changes/Notion/2022-11-17-add-additional-properties-to-synced-databases|Add additional
+  properties to Synced Databases]]'
+- '[[Changes/Descript/2023-03-21-you-can-now-also-include-or-remove-layers-or-clips-from-the-script-from-the-cont|Also
+  include or remove layers or clips from the script from the context menu…]]'
 - '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window
   changes in 0.2.9]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7]]'
@@ -89,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

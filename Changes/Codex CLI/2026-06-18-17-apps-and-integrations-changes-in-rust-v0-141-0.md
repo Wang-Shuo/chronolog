@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'Codex CLI · 2026-06-18 · Apps and Integrations: 17 changes in 0.141.0
   — Hook trust bypass now persists through `codex exec` thread start and resume, while…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1183
+  lag_days: 2743
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4eafde56ce10e890189ec12020d40757d3b8e729848b00f1ed7534a074c2ad9f
+machine_hash: 02d9a76f2e431e8cfda449c95d0ee464dde2908508f08d9c69cded63a998133e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -153,13 +153,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.141.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-4-apps-and-integrations-changes-in-v1-17-8|4 Apps and Integrations changes in v1.17.8]]
-- Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app's AI activity]]
+- Later: 2026-06-18 · Kimi Code · [[Changes/Kimi Code/2026-06-18-add-reload-suggestion-in-plugin-change-hints|Add /reload suggestion in plugin-change hints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

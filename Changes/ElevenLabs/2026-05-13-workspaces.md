@@ -4,20 +4,19 @@ date: '2026-05-13'
 description: 'ElevenLabs · 2026-05-13 · Editor Experience: Service account API key
   create and edit schemas'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1156
+  lag_days: 2740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ac198e664122c992142ad70dab68f2e11ade6310bb728152adc6e40ba6ea8ee3
+machine_hash: bdc08e8963ec214dd7c589c7c9c707e4a3ef3e7a185d21f9ad9269495d4ed5cc
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -125,13 +124,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved PR tabs by adding clearer review states, better reviewer/thread visibility…]]
-- Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-autocomplete-configured-mentions-in-prompts|Core Autocomplete configured @mentions in prompts]]
+- Later: 2026-05-13 · Notion · [[Changes/Notion/2026-05-13-manage-all-connections-from-one-tab|Manage all connections from one tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

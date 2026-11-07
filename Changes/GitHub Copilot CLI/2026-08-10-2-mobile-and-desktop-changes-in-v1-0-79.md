@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-08-10 · Mobile and Desktop: 2 changes 
   — The `/app` command now opens the current session in the GitHub Copilot desktop
   app…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1245
+  lag_days: 2829
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 928c8d1ef1824923b031345e8d1a1e3071ef8110d92db9fd19618d0ab8c70e5c
+machine_hash: 0c82ac98983c1180215aad00948066e38c64d36a1a185e4557bdf87a3e180126
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.79
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

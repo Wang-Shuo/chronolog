@@ -4,20 +4,20 @@ date: '2025-05-16'
 description: 'Manus · 2025-05-16 · Image Generation: Manus doesn’t just generate images.
   It understands your intent, plans a solution, and knows how to effectively use image…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 432
+  lag_days: 690
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 37fdb1c25d446f280ace2ebbafa5c5bb2cce1f35a410122dfcbf590310a72558
+machine_hash: c58b48c4d2e73535bdab0c01511ccd0fd4d5f89f07e67157756f349c82bd4b86
 product: manus
 product_name: Manus
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-openai-image-generation-issues-resolved-resolved-broken-image-output-when-using|🖌️ OpenAI Image Generation Issues Resolved]]
-- Later: 2025-05-20 · Gemini · [[Changes/Gemini/2025-05-20-image-generation-just-got-an-upgrade|Image generation just got an upgrade]]
+- Later: 2025-05-20 · Descript · [[Changes/Descript/2025-05-20-improved-image-generation|Improved image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

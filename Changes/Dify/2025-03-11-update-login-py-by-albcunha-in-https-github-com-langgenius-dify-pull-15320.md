@@ -4,20 +4,21 @@ date: '2025-03-11'
 description: 'Dify · 2025-03-11 · Account and Access: Update login.py by @albcunha
   in https://github.com/langgenius/dify/pull/15320'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 712
+  lag_days: 1687
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e36695068947e9f22fd21827e410f71ba5dfe34d839d8007649d36de226273f4
+machine_hash: 83386ac48766833be3ea4899abef390d835f087702c42bfbe2d699da7cda27ca
 product: dify
 product_name: Dify
 record:
@@ -83,13 +84,13 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-03-05 · Open WebUI · [[Changes/Open WebUI/2025-03-05-2-account-and-access-changes-in-v0-5-19|2 Account and Access changes in v0.5.19]]
-- Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-2-account-and-access-changes-in-v0-80-0|2 Account and Access changes in v0.80.0]]
+- Later: 2025-03-26 · Notion · [[Changes/Notion/2025-03-26-sign-in-quickly-and-securely|Sign in quickly and securely 💨]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

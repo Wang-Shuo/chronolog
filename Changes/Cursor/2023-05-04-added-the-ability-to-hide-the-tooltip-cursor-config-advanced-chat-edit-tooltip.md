@@ -4,20 +4,20 @@ date: '2023-05-04'
 description: 'Cursor · 2023-05-04 · Interface Experience: Added the ability to hide
   the tooltip (Cursor config > Advanced > Chat/Edit Tooltip)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 115
+  lag_days: 1481
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 575d100f3ca3d5a399d682fbe3b9009d8b9fb179bb3e3616519822866f0ad211
+machine_hash: 1d2385399396ed5e14bdc586fdb0941b11612db372a29159c05bc5248f611428
 product: cursor
 product_name: Cursor
 record:
@@ -45,9 +45,10 @@ record:
     Tooltip)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes
-  autoupdate to notify you when there''s a new version]]'
-- '[[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]]'
+- '[[Changes/Synthesia/2023-04-04-cool-updates-for-the-studio-library-one-stop-shop-for-all-assets-easy-template-p|STUDIO
+  Library update]]'
+- '[[Changes/Descript/2023-04-17-duplicate-to-now-copies-over-the-layout-and-all-overlapping-layers-from-the-orig|Duplicate
+  to…: Now copies over the layout and all overlapping layers…]]'
 - '[[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|Turn
   off chat history and export your data from the ChatGPT settings]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c|cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c]]'
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

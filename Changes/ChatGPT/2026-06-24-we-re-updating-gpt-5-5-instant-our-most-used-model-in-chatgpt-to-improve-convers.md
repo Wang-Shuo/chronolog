@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 644fb5062cacc91c18d4edda99c0e7becda50098292a4d97811e7787daa7b641
+machine_hash: e4f1e903f746b1b758aabdbdb78585f6e04412bd8ac1865f77e764b4ffa5d9f8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -82,8 +82,9 @@ record:
   title: GPT-5.5 Instant Update
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-22-music|Music]]'
 - '[[Changes/ElevenLabs/2026-06-22-dubbing|Dubbing]]'
+- '[[Changes/Kimi Code/2026-06-22-detect-the-real-image-format-from-file-contents-when-reading-media-so-a-mismatch|Detect
+  the real image format from file contents when reading media, so a mismatched…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-7-model-support-changes-in-v1-0-64|7 Model
   Support changes in v1.0.64]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e|chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e]]'

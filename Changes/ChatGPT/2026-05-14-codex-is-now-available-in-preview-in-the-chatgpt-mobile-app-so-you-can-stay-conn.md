@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 66f6c534ec1a90dce1d45999f50b40cd2cdebdf87758907b4628616081bebd88
+machine_hash: f28f634c6b661fa9d44f9981266bea614ac346554714a5dc09ec907b0326d7c1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -123,7 +123,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback can now include recent sessions (last 24 hours or 7 days) for issues…]]
-- Later: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-session-resume-works-correctly-after-a-crash-that-left-partial-data-in-the-sessi|Session resume works correctly after a crash that left partial data in the session log]]
+- Later: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-2-projects-and-workspaces-changes-in-kimi-code-0-2-0|2 Projects and Workspaces changes in Kimi Code 0.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

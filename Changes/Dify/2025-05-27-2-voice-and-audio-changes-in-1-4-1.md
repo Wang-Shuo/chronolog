@@ -5,20 +5,20 @@ description: 'Dify · 2025-05-27 · Voice and Audio: 2 changes in v1.4.1 — **W
   Element Enhancements**: Added support for both `<video>` and `<audio>` elements
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 687
+  lag_days: 2514
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2036d389dea33d1992a21124073151c8db71c914935fa870d569134956fb7aac
+machine_hash: d85e94b96c1bfc97236ed277d28fc8d0eb9b10b79f988ce6a24592f123227d3a
 product: dify
 product_name: Dify
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.4.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

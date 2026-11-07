@@ -5,20 +5,21 @@ description: 'Claude Code · 2026-09-01 · Account and Access: 2 changes in v2.1
   — Improved MCP connection and OAuth debug/error logs so credentials carried in a
   server''s…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1251
+  lag_days: 2226
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0bc132a0e981ddfd9b47af6e508b316253d1999d40f9d9823b0fc2be5bb7732
+machine_hash: 4130d50e758a572aa1bc13c59d6014b78643f93899840b1095f3de91c2ee793b
 product: claude-code
 product_name: Claude Code
 record:
@@ -101,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

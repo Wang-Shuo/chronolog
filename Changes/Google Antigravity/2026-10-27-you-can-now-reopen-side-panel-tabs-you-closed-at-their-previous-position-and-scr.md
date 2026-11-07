@@ -4,20 +4,20 @@ date: '2026-10-27'
 description: 'Google Antigravity · 2026-10-27 · Mobile and Desktop: You can now reopen
   side panel tabs you closed, at their previous position and scroll point, with…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1323
+  lag_days: 2907
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c77c7c340a540615cc4978db5719e84fce047ae35dfa7ef93033d21c3478cc65
+machine_hash: f856f7218f0ea2aa9b18eb0f2e6f0afb8c2a5caf1b2069a70c1380ffcb95cbc7
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-27 · ChatGPT · [[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You can learn more about how ChatGPT uses connected apps here]]
-- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-future-macos-updates-wait-for-the-serving-gateway-to-exit-and-release-its-databa|Future macOS updates wait for the serving Gateway to exit and release its databases…]]
+- Later: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-new-copilot-notebooks-design-in-the-microsoft-copilot-app-ios-ios-microsoft-365|New Copilot Notebooks design in the Microsoft Copilot App (iOS)…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2024-09-17'
 description: 'Cursor · 2024-09-17 · Editor Experience: UPDATE (0.41.1–0.41.3): Improves
   onboarding UX, fixes a bug with composer cancellation, fixes the Apply button not…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 553
+  lag_days: 2137
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39da216b7636e7291b18e7496a15ae3e2cc3b4a869538b9b95d8b466a2fd9077
+machine_hash: ba7108a619b74939c73ddb41e2f9c7ad46f927fc4bda322f542d973904a500a1
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +44,9 @@ record:
   title: 'UPDATE (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-04-missing-chat-completion-response-headers-ensured-proper-return-of-proxied-respon|\U0001F504
-  Missing Chat Completion Response Headers]]"
-- '[[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude''s
-  changes now appear in your file''s Timeline, allowing you to easily view…]]'
+- '[[Changes/Descript/2024-09-10-editor-updates|Editor updates]]'
+- '[[Changes/Descript/2024-09-10-edit-for-clarity-w-ai-speech|Edit for clarity w/
+  AI speech]]'
 - '[[Changes/Dify/2024-09-12-editor-can-also-create-api-key-by-cuckootan-in-https-github-com-langgenius-dify|editor
   can also create api key]]'
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'
@@ -90,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-06-22'
 description: 'Ollama · 2024-06-22 · Reliability and Performance: 3 changes in v0.1.46
   — Increased model loading speed with `ollama run`, especially if running an…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 555
+  lag_days: 2042
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2515f5c4d7b499f7bc30eefad9661cf20da016056adbe7d5e6c9eba6a21fddd
+machine_hash: e24550825fbf8e3c2a249d9d0255685778fdb583cc117a28f0cf8839fe9122ac
 product: ollama
 product_name: Ollama
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Reliability and Performance changes in v0.1.46
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-06-07-ollama-pull-is-now-faster-if-it-detects-a-model-is-already-downloaded|ollama
-  pull is now faster if it detects a model is already downloaded]]'
 - "[[Changes/Open WebUI/2024-06-12-frontend-responsiveness-resolved-the-problem-where-the-frontend-would-stop-respo|\U0001F5A5️
   Frontend Responsiveness]]"
 - '[[Changes/Dify/2024-06-14-2-reliability-and-performance-changes-in-0-6-11|2 Reliability
   and Performance changes in 0.6.11]]'
+- '[[Changes/Notion/2024-06-18-plus-a-few-more-of-your-top-requests|Plus a few more
+  of your top requests.]]'
 source_release: '[[Releases/Ollama/ollama-2024-06-22-v0-1-46-github-161754529-9a99a823|ollama-2024-06-22-v0-1-46-github-161754529-9a99a823]]'
 source_type: github_releases
 theme: reliability-performance
@@ -86,14 +86,14 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.46
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-2-reliability-and-performance-changes-in-0-6-11|2 Reliability and Performance changes in 0.6.11]]
+- Earlier: 2024-06-18 · Notion · [[Changes/Notion/2024-06-18-plus-a-few-more-of-your-top-requests|Plus a few more of your top requests.]]
 - Later: 2024-07-02 · Ollama · [[Changes/Ollama/2024-07-02-5-reliability-and-performance-changes-in-v0-2-0|5 Reliability and Performance changes in v0.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

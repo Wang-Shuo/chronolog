@@ -3,19 +3,20 @@ card_id: chatgpt-2025-08-11-196b01
 date: '2025-08-11'
 description: 'ChatGPT · 2025-08-11 · Collaboration: Pro: Microsoft Teams and GitHub'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 810
+  lag_days: 2404
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 980afefe165ce230342e10b055b1ccd156769cceeb9a45e3feed17db003bb6fa
+machine_hash: d56e632272c9c839a1ed0d2a19ca819905a72d1a1708dc365a2bf6e3e0415d11
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

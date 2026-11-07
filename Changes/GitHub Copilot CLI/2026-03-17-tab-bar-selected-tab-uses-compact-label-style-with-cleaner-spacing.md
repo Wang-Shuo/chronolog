@@ -4,20 +4,19 @@ date: '2026-03-17'
 description: 'GitHub Copilot CLI · 2026-03-17 · Editor Experience: Tab bar selected
   tab uses compact [label] style with cleaner spacing'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1099
+  lag_days: 2683
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b0cf9abb64c822bc3ba2afc3f9dea0e8158f5086a1859defeadd26d06c66d83
+machine_hash: 02eedbe86ce2e1a52a27a6109d104def7ceff08602be272ac314f067a610083c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +40,7 @@ record:
   title: Tab bar selected tab uses compact [label] style with cleaner spacing
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode
-  Improved plan preview tab titles to use the plan''s heading instead…]]'
+- '[[Changes/Descript/2026-03-17-create-a-scene|Create a scene]]'
 - '[[Changes/Dify/2026-03-17-8-editor-experience-changes-in-1-13-1|8 Editor Experience
   changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-feat-core-improve-file-autocomplete-to-prioritize-filenames-by-sehoon38-in-https|feat(core):
@@ -88,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

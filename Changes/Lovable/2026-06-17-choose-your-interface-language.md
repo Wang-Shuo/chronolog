@@ -4,20 +4,21 @@ date: '2026-06-17'
 description: 'Lovable · 2026-06-17 · Account and Access: You can now choose the language
   Lovable uses in *Settings → Your account → Language*. Your choice is saved to your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2150
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6bb74cfc0e1bd627c1f8e356dd5c5271a37dcbd84ff9c4340c0547c1c24916b5
+machine_hash: a8d5ef7b5b9edd6ebc00748954b9258d537e6f23ac2aefe8f4a3dd7fd82b5561
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +50,12 @@ record:
   title: Choose your interface language
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-5-account-and-access-changes-in-rust-v0-140-0|5
-  Account and Access changes in rust-v0.140.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-16-2-account-and-access-changes-in-v1-0-63|2
-  Account and Access changes in v1.0.63]]'
 - '[[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved
   the MCP OAuth browser page to match Claude Code''s visual style…]]'
+- '[[Changes/Kimi Code/2026-06-17-prevent-the-web-login-dialog-from-closing-when-clicking-the-backdrop|Prevent
+  the web login dialog from closing when clicking the backdrop]]'
+- '[[Changes/Kimi Code/2026-06-17-show-the-underlying-connection-error-when-oauth-token-refresh-fails-after-intern|Show
+  the underlying connection error when OAuth token refresh fails after internal…]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-17-2026-06-17-95ed7bc8|lovable-2026-06-17-2026-06-17-95ed7bc8]]'
 source_type: lovable_changelog
 theme: account-access
@@ -86,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved the MCP OAuth browser page to match Claude Code's visual style…]]
+- Earlier: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-show-the-underlying-connection-error-when-oauth-token-refresh-fails-after-intern|Show the underlying connection error when OAuth token refresh fails after internal…]]
 - Later: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-2-account-and-access-changes-in-v1-17-8|2 Account and Access changes in v1.17.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

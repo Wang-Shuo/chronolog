@@ -4,20 +4,20 @@ date: '2024-06-04'
 description: 'Open WebUI · 2024-06-04 · Files and Data: **❓ Quick Access to Documentation**:
   You can now easily access Open WebUI documents via a question mark button…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 376
+  lag_days: 1721
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f0abf55e2cf68ee9b8a27f36da7963bbf363b0acb3038dfa3b74ec949377522
+machine_hash: 10fb40e50ff31165f5259fbf9541c2179753f770932f63db5ae0ab31eab3b24f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,9 @@ record:
   title: '**❓ Quick Access to Documentation**'
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-05-21-exclusive-to-gemini-advanced-data-analysis|Exclusive
-  to Gemini Advanced: Data Analysis]]'
-- '[[Changes/Dify/2024-05-27-rag-document-segmentation-configurable-max-segmentation-tokens-length-for-rag-do|RAG
-  Document Segmentation]]'
+- '[[Changes/Descript/2024-06-04-the-new-blank-slate|The New Blank Slate]]'
+- '[[Changes/Descript/2024-06-04-new-timeline-and-canvas-tools|New Timeline and Canvas
+  tools]]'
 - '[[Changes/Dify/2024-06-04-3-files-and-data-changes-in-0-6-10|3 Files and Data changes
   in 0.6.10]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-04-v0-2-4-github-158723630-a8af45db|open-webui-2024-06-04-v0-2-4-github-158723630-a8af45db]]'
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: 'Dify · 2026-07-28 · Developer Workflow: 4 changes in v1.16.1 - B
   and Security Enhancements — Used `flush()` instead of `commit()` in dataset service
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1228
+  lag_days: 2877
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d018a33f671e79932c28494055b11b6aaa65807a12942f72f018a449a35d18e
+machine_hash: a2f63cde5db5e6a98b7500e8192757031ba8723bae55252f105cd5111fdd28ba
 product: dify
 product_name: Dify
 record:
@@ -116,7 +117,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

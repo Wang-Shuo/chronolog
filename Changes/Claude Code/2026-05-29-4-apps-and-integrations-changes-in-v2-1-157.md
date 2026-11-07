@@ -4,20 +4,20 @@ date: '2026-05-29'
 description: 'Claude Code · 2026-05-29 · Apps and Integrations: 4 changes in v2.1.157
   — Plugins in `.claude/skills` directories are now automatically loaded, no marketplace…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1163
+  lag_days: 2723
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31fe02e1c4acc44cea52c002b5598cb27b0a2d053480294e138b7e79a8f53d93
+machine_hash: a601636aca190aa090ec9d5c55c7b59ee4f58ba655e967fd0747b851d58f7ae1
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Apps and Integrations changes in v2.1.157
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-10-apps-and-integrations-changes-in-v1-0-55|10
-  Apps and Integrations changes in v1.0.55]]'
+- '[[Changes/Kimi Code/2026-05-28-2-apps-and-integrations-changes-in-kimi-code-0-5-0|2
+  Apps and Integrations changes in Kimi Code 0.5.0]]'
 - '[[Changes/Lovable/2026-05-28-app-connectors-algolia-linkedin-and-microsoft-sharepoint|App
   connectors: Algolia, LinkedIn, and Microsoft SharePoint]]'
 - '[[Changes/OpenCode/2026-05-28-acp-integrations-can-now-send-prompts-slash-commands-and-usage-updates-through-a|ACP
@@ -104,7 +104,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

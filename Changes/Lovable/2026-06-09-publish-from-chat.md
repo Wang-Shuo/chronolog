@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 972011cb6185315ecba4dbe1cf5d4feebc54209c5fe5aef3d060254b41c87515
+machine_hash: e935fd38097b0269e7fcec88019dc9318c2efe3cc89f41356ce58e09d02fa446
 product: lovable
 product_name: Lovable
 record:
@@ -54,12 +54,12 @@ record:
   title: Publish from chat
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-08-2-agent-mode-changes-in-changelog-update|2 Agent Mode changes
-  in Changelog update]]'
 - '[[Changes/Codex CLI/2026-06-09-5-agent-mode-changes-in-rust-v0-139-0|5 Agent Mode
   changes in rust-v0.139.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-3-agent-mode-changes-in-v1-0-61|3 Agent
   Mode changes in v1.0.61]]'
+- '[[Changes/Kimi Code/2026-06-09-2-agent-mode-changes-in-kimi-code-0-12-0|2 Agent
+  Mode changes in Kimi Code 0.12.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-09-2026-06-09-9ed8ab97|lovable-2026-06-09-2026-06-09-9ed8ab97]]'
 source_type: lovable_changelog
 theme: agent-mode
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-3-agent-mode-changes-in-v1-0-61|3 Agent Mode changes in v1.0.61]]
+- Earlier: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-2-agent-mode-changes-in-kimi-code-0-12-0|2 Agent Mode changes in Kimi Code 0.12.0]]
 - Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents can now spawn their own sub-agents (up to 5 levels deep)]]
 <!-- chronolog:end -->
 

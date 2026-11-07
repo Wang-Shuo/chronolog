@@ -4,20 +4,19 @@ date: '2024-12-11'
 description: 'Midjourney · 2024-12-11 · Editor Experience: As you play, you’ll probably
   see other people’s cursors moving around. Try creating stuff together! You can make…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 638
+  lag_days: 2222
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e6422b998c669943e43bb88fa607a31b98a30a408543129163ed3bd8ee15a67a
+machine_hash: 1a3a1cbc42732056de2dfc5c8ffec97071a6eaa2b2f82c2398d671cbc3252418
 product: midjourney
 product_name: Midjourney
 record:
@@ -48,12 +47,11 @@ record:
   title: Creating with Others
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-26-editor-returns-and-prefill-the-file-content-into-the-prompt-so-you-can-use-edito|/editor
-  returns and prefill the file content into the prompt, so you can use…]]'
 - '[[Changes/Open WebUI/2024-12-01-2-editor-experience-changes-in-v0-4-7|2 Editor
   Experience changes in v0.4.7]]'
 - '[[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience
   changes in v0.67.0]]'
+- '[[Changes/Descript/2024-12-10-editor-updates|Editor updates]]'
 source_release: '[[Releases/Midjourney/midjourney-2024-12-11-https-updates-midjourney-com-patchwork-user-guide-1dbd383a|midjourney-2024-12-11-https-updates-midjourney-com-patchwork-user-guide-1dbd383a]]'
 source_type: midjourney_changelog
 theme: editor-experience
@@ -83,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-12-06 · Aider · [[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience changes in v0.67.0]]
+- Earlier: 2024-12-10 · Descript · [[Changes/Descript/2024-12-10-editor-updates|Editor updates]]
 - Later: 2024-12-13 · Replit · [[Changes/Replit/2024-12-13-assistant-features|Assistant Features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

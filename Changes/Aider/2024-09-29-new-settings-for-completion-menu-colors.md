@@ -4,20 +4,20 @@ date: '2024-09-29'
 description: 'Aider · 2024-09-29 · Interface Experience: New settings for completion
   menu colors.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 629
+  lag_days: 1995
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 42f4071da64bb5c402cee4c914a411ebc6f72675514153ec5a8b5162f0610459
+machine_hash: efc0eb0c32195fbf81a6aa9725fb382df844dd3d31fdd6eb5dff21469caf62da
 product: aider
 product_name: Aider
 record:
@@ -52,10 +52,10 @@ record:
   title: New settings for completion menu colors
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-24-enhanced-latex-rendering-improved-rendering-for-latex-content-enhancing-clarity|\U0001F4CA
-  Enhanced LaTeX Rendering]]"
-- '[[Changes/Suno/2024-09-24-2-right-click-or-go-into-the-more-actions-menu|2 - Right
-  click or go into the More Actions menu]]'
+- '[[Changes/Descript/2024-09-25-using-remove-ignored-text-in-edit-for-clarity-will-now-close-the-underlord-sideb|Using
+  Remove ignored text in Edit for clarity will now close the Underlord sidebar]]'
+- '[[Changes/Notion/2024-09-25-helps-with-questions-about-notion|Helps with questions
+  about Notion]]'
 - "[[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|\U0001F527
   KaTeX Rendering Improvement]]"
 source_release: '[[Releases/Aider/aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f|aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f]]'
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-09-25 · Open WebUI · [[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|🔧 KaTeX Rendering Improvement]]
-- Later: 2024-10-24 · Open WebUI · [[Changes/Open WebUI/2024-10-24-3-interface-experience-changes-in-v0-3-33|3 Interface Experience changes in v0.3.33]]
+- Later: 2024-10-08 · Descript · [[Changes/Descript/2024-10-08-help-center-overhaul|Help center overhaul]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-01-04'
 description: 'Dify · 2024-01-04 · Reliability and Performance: 2 changes in v0.4.3
   — Optimize performance & fix few bugs.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 385
+  lag_days: 1872
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c924b9d93d5a0302d35d192e9137e9adc546cb3eeb4d89cf47904a063dc70a7
+machine_hash: 8342e7d10c301036c8692b0d62e3d43a2170a243a4c6bc2c37d542b9aed2b366
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Reliability and Performance changes in 0.4.3
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-11-30-improved-progress-bar-when-running-ollama-pull-with-a-simpler-design-that-displa|Improved
-  progress bar when running ollama pull with a simpler design that displays…]]'
 - '[[Changes/Ollama/2023-12-14-this-release-adds-support-mixtral-and-other-models-based-on-its-mixture-of-exper|Ollama
   adds support Mixtral and other models based on its Mixture of Experts (MoE)…]]'
+- '[[Changes/Notion/2023-12-20-pages-load-15-20-faster|Pages load 15-20% faster]]'
 - '[[Changes/Ollama/2024-01-03-improved-performance-when-sending-follow-up-messages-in-ollama-run-or-via-the-ap|Improved
   performance when sending follow up messages in ollama run or via the API]]'
 source_release: '[[Releases/Dify/dify-2024-01-04-0-4-3-github-135822451-ebe2cf30|dify-2024-01-04-0-4-3-github-135822451-ebe2cf30]]'
@@ -89,7 +88,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.4.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

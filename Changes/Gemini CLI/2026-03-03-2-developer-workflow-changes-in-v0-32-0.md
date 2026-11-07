@@ -4,19 +4,20 @@ date: '2026-03-03'
 description: 'Gemini CLI · 2026-03-03 · Developer Workflow: 2 changes in Release v0.32.0
   — feat(cli): implement interactive shell autocompletion by @mrpmohiburrahman in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1081
+  lag_days: 2730
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d1a81f8f419b3d4111f0e3a591f141af80bb97f9809eca51692edb467d6ff8b6
+machine_hash: ef0a1144ec18c311af83b37b33caac214bdd84c5e3c758f2776e35e1c2ac3965
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -93,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.32.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

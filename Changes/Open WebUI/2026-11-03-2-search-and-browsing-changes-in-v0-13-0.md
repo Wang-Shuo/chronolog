@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-11-03 · Search and Browsing: 2 changes in v0.1
   — \U0001F33F **Git in the side panel.** When the selected terminal's folder is a
   Git repository, a…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1321
+  lag_days: 2350
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2508f405db4fefc981d7de3339f350aeb9971c9bfcd537c9cc55c17a60898b95
+machine_hash: e905933880b5b2384bdfce9da9e60978ff4af5515c607c04ee121e43522f9eab
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,8 +53,8 @@ record:
   title: 2 Search and Browsing changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-2-search-and-browsing-changes-in-v2-2-1|2 Search
-  and Browsing changes in v2.2.1]]'
+- '[[Changes/Qoder/2026-10-30-device-connections-use-a-pairing-code-to-connect-to-other-qoder-devices-on-your|Device
+  connections: Use a pairing code to connect to other Qoder devices…]]'
 - '[[Changes/Google Antigravity/2026-11-03-typing-in-the-built-in-browser-s-address-bar-now-suggests-matching-pages-from-yo|Typing
   in the built-in browser''s address bar now suggests matching pages…]]'
 - '[[Changes/Ollama/2026-11-03-cloud-web-search-responses-on-api-chat-are-now-decoded-correctly-including-compr|Cloud
@@ -115,7 +115,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.13.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

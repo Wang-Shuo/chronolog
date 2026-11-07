@@ -4,20 +4,20 @@ date: '2026-10-10'
 description: 'OpenClaw · 2026-10-10 · Image Generation: Image generation with OAuth
   can retry using a supported OpenAI chat model in agents.defaults.model if the account…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 944
+  lag_days: 1202
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d04ad5885af4b445730fabd16543e6fd0ecfe90faa5bd74c013e3a5a7c55c144
+machine_hash: 3bc971cf0bb32223a4e4c1f4a745025bacd9f388d0ee7cdc35409bcaada6c8f8
 product: openclaw
 product_name: OpenClaw
 record:
@@ -130,7 +130,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

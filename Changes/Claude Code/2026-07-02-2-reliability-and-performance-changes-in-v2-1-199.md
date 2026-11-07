@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-07-02 · Reliability and Performance: 2 change
   v2.1.199 — Transient server rate-limit errors (429s unrelated to your usage limit)
   are now…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1295
+  lag_days: 2782
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 423726e847487fb257defa4665cb365370b86db33f7fac5316a3d8c70f33eb02
+machine_hash: 90fa5da00e24f0ee3f9a048d037a30ed0c18e60a1eec9cfdb16eb5ce1ecc71f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Reliability and Performance changes in v2.1.199
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-4-reliability-and-performance-changes-in-v2026-6-11|4
-  Reliability and Performance changes in v2026.6.11]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated
+  survey insights with Copilot Highlights Web (Viva Glint)]]'
 - "[[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Runway/2026-07-01-nano-banana-2-lite-is-now-available-in-runway-create-images-at-warp-speed-withou|Nano
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.199
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

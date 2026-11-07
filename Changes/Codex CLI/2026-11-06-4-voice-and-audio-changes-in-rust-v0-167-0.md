@@ -4,20 +4,20 @@ date: '2026-11-06'
 description: 'Codex CLI · 2026-11-06 · Voice and Audio: 4 changes in 0.167.0 — #58430
   Add audio file references with explicit runtime rejection @hung-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1215
+  lag_days: 3042
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89f7a5334b33aed1d9bd26c38c7ca76785c76d5f409798c9824c7cda32dbd365
+machine_hash: 10008b331565dc10a9c01e5ffd623ddcd433e5132aa1361521b3f9c32203a04a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,13 +101,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-7-voice-and-audio-changes-in-v2026-11-1|7 Voice and Audio changes in v2026.11.1]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-4-voice-and-audio-changes-in-v1-0-106|4 Voice and Audio changes in v1.0.106]]
+- Later: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-2-voice-and-audio-changes-in-release-roundup-november-6-2026|2 Voice and Audio changes in Release roundup—November 6, 2026]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-07-28'
 description: 'Dify · 2026-07-28 · Files and Data: 3 changes in v1.16.1 - Bug Fixes
   and Security Enhancements — Added more observability traces to knowledge/RAG document…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1160
+  lag_days: 2505
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49018316d289cd1d24632a73803a4becbc2735009c16da5ce9bec065206486e6
+machine_hash: 7bcc45daf37136223961680e05b7322bd87bccd7746ec7cc577755e52124a491
 product: dify
 product_name: Dify
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Files and Data changes in 1.16.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167
-  Document the Windows exec yield time range @copyberry]]'
+- '[[Changes/Kimi Code/2026-07-22-web-show-transparent-images-over-a-checkerboard-canvas|web:
+  Show transparent images over a checkerboard canvas]]'
 - '[[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re
   starting to roll out a new health experience in ChatGPT]]'
 - '[[Changes/Open WebUI/2026-07-27-9-files-and-data-changes-in-v0-11-0|9 Files and
@@ -110,7 +110,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

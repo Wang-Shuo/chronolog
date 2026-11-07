@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Codex CLI · 2026-03-26 · Mobile and Desktop: 3 changes in 0.117.0 —
   #15207 add specific tool guidance for Windows destructive commands @iceweasel-oai'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1108
+  lag_days: 2692
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 76f9de5f8680020303784a8ceb32475212a73a689e879d44505e5cdae42b7044
+machine_hash: f767b6fd92f28371778b32018ea057b8dec9c0670631c720ead67f8b8c787ece
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.117.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

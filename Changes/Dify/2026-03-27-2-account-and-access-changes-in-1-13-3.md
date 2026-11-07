@@ -4,20 +4,21 @@ date: '2026-03-27'
 description: 'Dify · 2026-03-27 · Account and Access: 2 changes in v1.13.3 — test:
   migrate oauth server service tests to testcontainers by @Desel72 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1093
+  lag_days: 2068
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0815e8a0c1fc63c90bc89e1e0bdc704db1b63d3634d3d0de244ba7ec750ce9fe
+machine_hash: 7253967202dc9ed5887b5a748074109465687dc903af5568d278b2155eca5f68
 product: dify
 product_name: Dify
 record:
@@ -100,7 +101,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

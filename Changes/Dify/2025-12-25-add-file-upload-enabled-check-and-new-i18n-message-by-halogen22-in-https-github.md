@@ -4,20 +4,20 @@ date: '2025-12-25'
 description: 'Dify · 2025-12-25 · Files and Data: Add file upload enabled check and
   new i18n message by @halogen22 in https://github.com/langgenius/dify/pull/28946'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 945
+  lag_days: 2290
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ffcb9bce923efd3f2183d1e6bce762c7383bbbcdb63df3ffc4de00e5dc8f1cdd
+machine_hash: 25b07d64edd3c60cb1224a7648c60031dc937f42d29236a556e66e64d5a27cdb
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,11 @@ record:
   title: Add file upload enabled check and new i18n message
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-15-knowledge-base|Knowledge Base]]'
 - '[[Changes/ElevenLabs/2025-12-15-new-endpoints|New Endpoints]]'
 - '[[Changes/Open WebUI/2025-12-21-6-files-and-data-changes-in-v0-6-42|6 Files and
   Data changes in v0.6.42]]'
+- '[[Changes/Z.ai API/2025-12-22-the-update-brings-open-source-sota-performance-on-major-coding-and-reasoning-ben|The
+  update brings open-source SOTA performance on major coding and reasoning…]]'
 source_release: '[[Releases/Dify/dify-2025-12-25-1-11-2-github-272776889-1d40e2fa|dify-2025-12-25-1-11-2-github-272776889-1d40e2fa]]'
 source_type: github_releases
 theme: file-data
@@ -88,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-6-files-and-data-changes-in-v0-6-42|6 Files and Data changes in v0.6.42]]
+- Earlier: 2025-12-22 · Z.ai API · [[Changes/Z.ai API/2025-12-22-the-update-brings-open-source-sota-performance-on-major-coding-and-reasoning-ben|The update brings open-source SOTA performance on major coding and reasoning…]]
 - Later: 2026-01-09 · Cline · [[Changes/Cline/2026-01-09-revert-8341-due-to-regressions-in-diff-view-document-truncation-see-8423-8429|Revert ♯8341 due to regressions in diff view/document truncation (see ♯8423, ♯8429)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

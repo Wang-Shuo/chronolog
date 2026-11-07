@@ -4,20 +4,20 @@ date: '2026-10-05'
 description: 'GitHub Copilot CLI · 2026-10-05 · Interface Experience: Add a pre-conversation
   Ctrl+E environment picker to switch between local and cloud runs'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1365
+  lag_days: 2731
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c374efd15041185f211220fb4051a961f8c1b68be090e51ba71cb4fa89d78b7
+machine_hash: 97a08371b5f8888d4fd03b8fd9ea17950a9d786e42eda41231bbe2537798979c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,9 @@ record:
     and cloud runs
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-10-02-prompt-bar-pills|PROMPT BAR & PILLS]]'
 - '[[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]'
+- '[[Changes/Synthesia/2026-10-02-a-new-progress-tracker-keeps-long-running-tasks-visible-across-refreshes-and-nav|Track
+  long-running tasks with Progress Tracker]]'
 - '[[Changes/OpenClaw/2026-10-03-session-assignment-moving-the-pointer-over-assign-to-and-then-pressing-enter-now|Session
   assignment]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
@@ -96,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

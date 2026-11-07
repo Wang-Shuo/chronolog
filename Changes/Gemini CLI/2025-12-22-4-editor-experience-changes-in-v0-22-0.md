@@ -4,20 +4,19 @@ date: '2025-12-22'
 description: 'Gemini CLI · 2025-12-22 · Editor Experience: 4 changes in Release v0.22.0
   — feat: ensure codebase investigator uses preview model when main agent does by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1014
+  lag_days: 2598
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3cc66fb69b2d62d9048e78918fa2ceb92e8adce502a6b05c234ac58b0dbc441
+machine_hash: f284c692ac8867ea5a22e63fa55dc2e514da186182b2c87563d3d259b5038c95
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -103,7 +102,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.22.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

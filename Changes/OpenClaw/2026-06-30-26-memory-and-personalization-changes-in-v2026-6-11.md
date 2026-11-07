@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c504dcf9f841a438709eba4f0875528254a851e78433bc20c82466cad8fb5afd
+machine_hash: 09ea9f0142e4b0819d00649e206e3c3da2db7376b3fc75bc6ce25756c87541e3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -150,10 +150,10 @@ record:
   title: 26 Memory and Personalization changes in v2026.6.11
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou|Delete
-  memory files in the UI, or prompt your automation to delete outdated memories…]]'
 - '[[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved
   memory: the agent is now reminded to compact its MEMORY.md index…]]'
+- '[[Changes/Kimi Code/2026-06-24-read-large-text-files-in-bounded-memory-and-read-tail-lines-without-scanning-who|Read
+  large text files in bounded memory and read tail lines without scanning whole files]]'
 - '[[Changes/Open WebUI/2026-06-29-5-memory-and-personalization-changes-in-v0-10-0|5
   Memory and Personalization changes in v0.10.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-06-30-v2026-6-11-23cb95a9|openclaw-2026-06-30-v2026-6-11-23cb95a9]]'

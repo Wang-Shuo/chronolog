@@ -4,20 +4,20 @@ date: '2026-10-14'
 description: 'Claude Code · 2026-10-14 · Interface Experience: Changed exit to force-kill
   background commands still running 1.5 seconds after being asked to stop; in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1374
+  lag_days: 2740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90645d358d4d218483565651d16f0290bfd657a43692f3bce59c0d521972f0ad
+machine_hash: 0fa2dc57d74011ea2dcc34a9c3672fbf2f5dd64ebf0bc8d22fb1905e158d1655
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
     after being…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat:
-  add compact section navigation on tablets]]'
-- '[[Changes/Google Antigravity/2026-10-13-this-release-fixes-the-license-picker-shown-during-onboarding-which-could-grow-t|This
-  release fixes the license picker shown during onboarding, which could grow…]]'
+- '[[Changes/HeyGen/2026-10-13-pinned-folders-on-every-device|Pinned folders on every
+  device]]'
+- '[[Changes/HeyGen/2026-10-13-mode-picker-in-avatar-shots|Mode picker in Avatar Shots]]'
 - '[[Changes/Lovable/2026-10-13-search-for-individual-settings|Search for individual
   settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
@@ -98,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

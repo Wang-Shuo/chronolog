@@ -4,19 +4,20 @@ date: '2026-04-08'
 description: 'Cursor · 2026-04-08 · Collaboration: Redesigned Bugbot settings, and
   split personal and team settings into clearer sections.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1050
+  lag_days: 2644
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9203c30037034eb7961defe9474612c50f20072e63f4c6876f323612f15eb015
+machine_hash: bfb193484709b9d9f5463769a4d3db2905f9e29a4e0571a48f79d3ce60a5f8af
 product: cursor
 product_name: Cursor
 record:
@@ -42,12 +43,12 @@ record:
     sections
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-test-workflow-reorganize-specs-into-tests-and-align-with-shared-test-infrastruct|test(workflow):
-  reorganize specs into tests and align with shared test infrastructure]]'
-- '[[Changes/Codex CLI/2026-03-31-4-collaboration-changes-in-rust-v0-118-0|4 Collaboration
-  changes in rust-v0.118.0]]'
-- '[[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes
-  in 3.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-07-share-onedrive-files-with-a-copilot-generated-summary-in-windows-windows-onedriv|Share
+  OneDrive files with a Copilot-generated summary in Windows Windows (OneDrive)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-07-microsoft-365-copilot-chat-available-in-teams-chats-channels-and-meetings-window|Microsoft
+  365 Copilot Chat available in Teams chats, channels, and meetings…]]'
+- '[[Changes/Notion/2026-04-07-you-can-now-share-your-notion-ai-chats-as-a-read-only-link-share-a-helpful-respo|Share
+  Notion AI chats as a link]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -80,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes in 3.0]]
+- Earlier: 2026-04-07 · Notion · [[Changes/Notion/2026-04-07-you-can-now-share-your-notion-ai-chats-as-a-read-only-link-share-a-helpful-respo|Share Notion AI chats as a link]]
 - Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-default-enable-narration-for-the-team-by-gundermanc-in-https-github-com-google-g|Default enable narration for the team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

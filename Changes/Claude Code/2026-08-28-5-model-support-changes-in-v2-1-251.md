@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2130713e7d3c9ee98bebc5c2d49b9fb21c562ed03fe7ca82dda0b468b0c7bc65
+machine_hash: 589928058a0ac4b9acdfb5f6138b7a67b868d7557e11cd4312cad555d3e7ba54
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: 5 Model Support changes in v2.1.251
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-08-27-today-we-re-gonna-start-letting-everyone-test-our-first-v8-2-image-edit-model|Today
-  we’re gonna start letting everyone test our first V8.2 image edit model!]]'
-- '[[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The
-  Claude Desktop proxy no longer interrupts in-flight requests when the model…]]'
 - '[[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support
   changes in v1.16.0]]'
+- '[[Changes/Qoder/2026-08-27-added-original-and-discounted-usage-multipliers-to-the-model-menu|Added
+  original and discounted usage multipliers to the model menu]]'
+- '[[Changes/Qoder/2026-08-27-frontier-models-smart-routing-qoder-brings-together-leading-models-without-locki|Frontier
+  models, smart routing]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
 theme: model-support
@@ -109,7 +109,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support changes in v1.16.0]]
+- Earlier: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-frontier-models-smart-routing-qoder-brings-together-leading-models-without-locki|Frontier models, smart routing]]
 - Later: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core Bedrock reasoning responses no longer get cached into unreplayable empty messages]]
 <!-- chronolog:end -->
 

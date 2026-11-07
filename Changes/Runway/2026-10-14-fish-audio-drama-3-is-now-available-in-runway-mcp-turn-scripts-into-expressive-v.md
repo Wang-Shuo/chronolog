@@ -4,20 +4,20 @@ date: '2026-10-14'
 description: 'Runway · 2026-10-14 · Voice and Audio: Fish Audio Drama 3 is now available
   in Runway MCP. Turn scripts into expressive voiceovers with seven voices and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1192
+  lag_days: 3019
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4b8b1ca3d51d279becd3183b07856bf0f029becc33e62016a1ac6b758746c3b3
+machine_hash: fd16b0c277a785fa970c08cb0816349167df2cf5a07a9b3bf72278bf9b30e47e
 product: runway
 product_name: Runway
 record:
@@ -54,8 +54,8 @@ record:
   title: Fish Audio Drama 3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude
-  Tag Added support for Slack voice clips in Claude in Slack]]'
+- '[[Changes/HeyGen/2026-10-14-design-a-voice-from-a-picture|Design a voice from a
+  picture]]'
 - "[[Changes/Open WebUI/2026-10-14-voice-on-android-chrome-voice-calls-and-dictation-on-android-chrome-no-longer-go|\U0001F4F1
   Voice on Android Chrome. Voice calls and dictation on Android Chrome no longer…]]"
 - '[[Changes/Open WebUI/2026-10-14-10-voice-and-audio-changes-in-v0-12-1|10 Voice
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

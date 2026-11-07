@@ -4,20 +4,20 @@ date: '2025-06-03'
 description: 'Manus · 2025-06-03 · Multimodal Input: Manus transforms your prompts
   into complete stories—structured, sequenced, and ready to watch. With a single prompt…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 623
+  lag_days: 2391
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 88e1e9374682310635fc77e59852a5174ff3083acdc8023669b1e923026ef1fe
+machine_hash: f9adbde1aa13db15b49d0efda6fccaea1681dc69a0af9f5d2da5bcf6fdb106ee
 product: manus
 product_name: Manus
 record:
@@ -49,10 +49,9 @@ record:
   title: Introducing Manus video generation
   type: change
 related_changes:
-- '[[Changes/Dify/2025-05-15-feat-api-add-image-multimodal-support-for-llmnode-by-quantumghost-in-https-githu|feat(api):
-  Add image multimodal support for LLMNode]]'
 - '[[Changes/Runway/2025-05-16-gen-4-image-is-now-available-via-the-runway-api-allowing-anyone-to-integrate-its|Gen-4
   Image in Runway API]]'
+- '[[Changes/Descript/2025-05-20-ai-video-maker-updates|AI video maker updates]]'
 - '[[Changes/Ollama/2025-05-21-support-for-alibaba-s-qwen-3-and-qwen-2-architectures-in-ollama-s-new-multimodal|Support
   for Alibaba''s Qwen 3 and Qwen 2 architectures in Ollama''s new multimodal…]]'
 source_release: '[[Releases/Manus/manus-2025-06-03-4fbcddmmy8fw4r4xhzuznf-8744d935|manus-2025-06-03-4fbcddmmy8fw4r4xhzuznf-8744d935]]'
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

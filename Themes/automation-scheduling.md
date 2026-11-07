@@ -1,10 +1,9 @@
 ---
-created: '2024-01-02'
+created: '2019-09-18'
 date: '2026-11-06'
 description: Cross-product timeline of Automation and Scheduling changes in ChatGPT,
-  Claude, Claude Code, Cline, Codex CLI, Cursor, Dify, ElevenLabs, Gamma, Gemini,
-  Gemini…
-machine_hash: 83b32afb4a7c9a50043a5d7e94052c33c0793782a6cf2d1fcd6a7ec06a94ed96
+  Claude, Claude Code, Cline, Codex CLI, Cursor, Descript, Dify, ElevenLabs, Gamma…
+machine_hash: 6b3c30f1694b36978f266a30d4de3c04e4687d5d11e92c9b5a72e30713970d63
 modified: '2026-11-06'
 products_involved:
 - ChatGPT
@@ -13,6 +12,7 @@ products_involved:
 - Cline
 - Codex CLI
 - Cursor
+- Descript
 - Dify
 - ElevenLabs
 - Gamma
@@ -21,16 +21,22 @@ products_involved:
 - GitHub Copilot CLI
 - Google Antigravity
 - Granola
+- HeyGen
+- Kimi Code
 - Lovable
 - Manus
+- Microsoft 365 Copilot
 - Midjourney
+- Notion
 - Ollama
 - Open WebUI
 - OpenClaw
 - OpenCode
 - OpenHands
+- Qoder
 - Replit
 - Suno
+- Z.ai API
 publication: active
 status: official
 tags:
@@ -43,7 +49,7 @@ title: Automation and Scheduling
 <!-- chronolog:begin region="header" -->
 # Automation and Scheduling
 
-242 tracked changes across ChatGPT, Claude, Claude Code, Cline, Codex CLI, Cursor, Dify, ElevenLabs, Gamma, Gemini, Gemini CLI, GitHub Copilot CLI, Google Antigravity, Granola, Lovable, Manus, Midjourney, Ollama, Open WebUI, OpenClaw, OpenCode, OpenHands, Replit and Suno · 2024-01-02 → 2026-11-06 · OpenClaw averages 18.4 cards per release, ElevenLabs 8.1, Codex CLI 8.0, Open WebUI 7.6, Gemini CLI 7.5, Dify 7.2, Claude Code 7.0, GitHub Copilot CLI 6.3, OpenCode 6.0, Google Antigravity 5.0, Replit 4.9, Cursor 4.0, Lovable 3.9, OpenHands 3.8, Cline 3.0, Ollama 3.0, Midjourney 2.7, Suno 2.1, Gamma 1.8, ChatGPT 1.7, Gemini 1.5, Claude 1.3, Manus 1.2, Granola 1.0
+289 tracked changes across ChatGPT, Claude, Claude Code, Cline, Codex CLI, Cursor, Descript, Dify, ElevenLabs, Gamma, Gemini, Gemini CLI, GitHub Copilot CLI, Google Antigravity, Granola, HeyGen, Kimi Code, Lovable, Manus, Microsoft 365 Copilot, Midjourney, Notion, Ollama, Open WebUI, OpenClaw, OpenCode, OpenHands, Qoder, Replit, Suno and Z.ai API · 2019-09-18 → 2026-11-06 · OpenClaw averages 18.4 cards per release, Microsoft 365 Copilot 11.2, ElevenLabs 8.1, Codex CLI 8.0, Open WebUI 7.6, Gemini CLI 7.5, Dify 7.2, Claude Code 7.0, GitHub Copilot CLI 6.3, OpenCode 6.0, HeyGen 5.3, Google Antigravity 5.0, Replit 4.9, Kimi Code 4.5, Qoder 4.2, Cursor 4.0, Lovable 3.9, OpenHands 3.8, Notion 3.6, Cline 3.0, Ollama 3.0, Descript 2.9, Midjourney 2.7, Suno 2.1, Z.ai API 2.1, Gamma 1.8, ChatGPT 1.7, Gemini 1.5, Claude 1.3, Manus 1.2, Granola 1.0
 <!-- chronolog:end -->
 
 ## Research summary
@@ -55,20 +61,20 @@ Explore the dated evidence below.
 <!-- chronolog:begin region="moments" -->
 Selected automatically from launches and standalone announcements.
 
-| Quarter | ChatGPT | Claude | Claude Code | Cline | Codex CLI | Cursor | Dify | ElevenLabs | Gamma | Gemini | Gemini CLI | GitHub Copilot CLI | Google Antigravity | Granola | Lovable | Manus | Midjourney | Ollama | Open WebUI | OpenClaw | OpenCode | OpenHands | Replit | Suno |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **First in archive** | <time datetime="2025-01-14">2025-01-14</time> [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6\|Scheduled tasks in ChatGPT]] | <time datetime="2026-02-25">2026-02-25</time> [[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork\|Scheduled tasks in Cowork]] | <time datetime="2026-03-07">2026-03-07</time> [[Changes/Claude Code/2026-03-07-added-cron-scheduling-tools-for-recurring-prompts-within-a-session\|Added cron scheduling tools for recurring prompts within a session]] | <time datetime="2025-01-06">2025-01-06</time> [[Changes/Cline/2025-01-06-there-is-now-a-see-new-changes-button-when-cline-completes-a-task-giving-you-an\|There is now a ‘See new changes’ button when Cline completes a task, giving you…]] | <time datetime="2025-08-26">2025-08-26</time> [[Changes/Codex CLI/2025-08-26-2692-do-not-schedule-frames-for-tui-draw-events-in-backtrack\|♯2692 do not schedule frames for Tui::Draw events in backtrack]] | <time datetime="2026-03-05">2026-03-05</time> [[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more\|Create automations at cursor.com/automations, or start from a template]] | <time datetime="2024-01-02">2024-01-02</time> [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18\|Add data clean schedule]] | <time datetime="2025-09-01">2025-09-01</time> [[Changes/ElevenLabs/2025-09-01-python-sdk\|Python SDK]] | <time datetime="2025-08-29">2025-08-29</time> [[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations\|Ready to get started?]] | <time datetime="2024-08-28">2024-08-28</time> [[Changes/Gemini/2024-08-28-gemini-advanced-and-gemini-for-google-workspace-add-on-priority-access-introduci\|Gemini Advanced and Gemini for Google Workspace add-on priority access]] | <time datetime="2025-07-01">2025-07-01</time> [[Changes/Gemini CLI/2025-07-01-refactor-use-for-of-loop-instead-of-traditional-for-loop-by-noritaka1166-in-http\|refactor: use for...of loop instead of traditional for loop]] | <time datetime="2026-05-28">2026-05-28</time> [[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries\|Schedule manager hint bar text no longer wraps over dialog borders when entries are added]] | <time datetime="2026-08-07">2026-08-07</time> [[Changes/Google Antigravity/2026-08-07-conversations-started-by-background-automations-no-longer-disappear-from-the-sid\|Conversations started by background automations no longer disappear from the sidebar list]] | <time datetime="2025-07-28">2025-07-28</time> [[Changes/Granola/2025-07-28-granola-is-now-connected-with-zapier-so-you-can-connect-your-notes-to-over-8-000\|Your meeting notes, now connected with 8,000+ apps]] | <time datetime="2026-04-02">2026-04-02</time> [[Changes/Lovable/2026-04-02-project-comments\|Project comments]] | <time datetime="2025-06-13">2025-06-13</time> [[Changes/Manus/2025-06-13-let-manus-handle-routine-and-repetitive-work-reclaim-your-time-and-elevate-your\|Introducing Manus Scheduled Task]] | <time datetime="2024-03-13">2024-03-13</time> [[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f\|Hey @everyone @here we need to halt our free-gpu rewards for image-ranking until…]] | <time datetime="2026-03-17">2026-03-17</time> [[Changes/Ollama/2026-03-17-scripts-automation-kick-off-automated-tasks-with-ollama-and-claude-code\|Scripts/automation: Kick off automated tasks with Ollama and claude code]] | <time datetime="2024-06-02">2024-06-02</time> [[Changes/Open WebUI/2024-06-02-pipelines-support-open-webui-now-includes-a-plugin-framework-for-enhanced-custom\|🔧 Pipelines Support]] | <time datetime="2026-06-30">2026-06-30</time> [[Changes/OpenClaw/2026-06-30-15-automation-and-scheduling-changes-in-v2026-6-11\|15 Automation and Scheduling changes in v2026.6.11]] | <time datetime="2026-01-19">2026-01-19</time> [[Changes/OpenCode/2026-01-19-core-add-scheduler-and-cleanup-module\|Core Add scheduler and cleanup module]] | <time datetime="2024-09-04">2024-09-04</time> [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai\|Better syntax error loop detection]] | <time datetime="2026-01-09">2026-01-09</time> [[Changes/Replit/2026-01-09-automation-preview-for-agent-users\|Automation preview for Agent users]] | <time datetime="2026-01-27">2026-01-27</time> [[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and\|Sounds is a new Create mode that lets you create individual one-shot samples…]] |
-| 2026 Q4 | · | · | · | · | · | <time datetime="2026-10-20">2026-10-20</time> [[Changes/Cursor/2026-10-20-channels\|Channels]] | · | · | · | · | · | · | <time datetime="2026-10-15">2026-10-15</time> [[Changes/Google Antigravity/2026-10-15-redesigned-side-panel-compact-and-model-choice-for-automations\|Redesigned side panel, /compact, and model choice for automations]]<br><time datetime="2026-10-07">2026-10-07</time> [[Changes/Google Antigravity/2026-10-07-advanced-search-automations-and-grouped-agent-actions\|Advanced Search, Automations, and grouped agent actions]] | · | <time datetime="2026-10-13">2026-10-13</time> [[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud\|Supported PostgreSQL extensions on Lovable Cloud]] | · | · | · | · | · | · | · | <time datetime="2026-10-09">2026-10-09</time> [[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads\|Create and manage TikTok Ads]] | · |
-| 2026 Q3 | <time datetime="2026-08-25">2026-08-25</time> [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c\|Share scheduled tasks]] | · | · | · | · | · | · | · | · | · | · | · | · | · | <time datetime="2026-09-17">2026-09-17</time> [[Changes/Lovable/2026-09-17-automate-your-workspace-with-the-lovable-api\|Automate your workspace with the Lovable API]] | <time datetime="2026-09-28">2026-09-28</time> [[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi\|Introducing Manus 2.0]] | · | · | · | <time datetime="2026-07-13">2026-07-13</time> [[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with\|Channel setup warnings are now available as structured Doctor lint findings…]] | · | · | <time datetime="2026-08-21">2026-08-21</time> [[Changes/Replit/2026-08-21-automate-recurring-work-with-routines\|Automate recurring work with Routines]] | · |
-| 2026 Q2 | · | · | · | · | · | <time datetime="2026-06-18">2026-06-18</time> [[Changes/Cursor/2026-06-18-computer-use-tool-for-automations\|Computer use tool for automations]]<br><time datetime="2026-05-20">2026-05-20</time> [[Changes/Cursor/2026-05-20-no-repo-automations\|No-repo automations]] | · | <time datetime="2026-05-25">2026-05-25</time> [[Changes/ElevenLabs/2026-05-25-music\|Music]] | · | · | · | · | · | · | <time datetime="2026-04-02">2026-04-02</time> [[Changes/Lovable/2026-04-02-project-comments\|Project comments]] | · | · | · | · | archive begins <time datetime="2026-06-30">2026-06-30</time> | · | · | <time datetime="2026-05-22">2026-05-22</time> [[Changes/Replit/2026-05-22-cleaner-task-settings-dropdown\|Cleaner task settings dropdown]] | · |
-| 2026 Q1 | · | <time datetime="2026-02-25">2026-02-25</time> [[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork\|Scheduled tasks in Cowork]] | <time datetime="2026-03-07">2026-03-07</time> [[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g\|Added /loop command to run a prompt or slash command on a recurring interval…]] | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · | <span class="not-archived">not archived</span> | · | · | <time datetime="2026-01-23">2026-01-23</time> [[Changes/Replit/2026-01-23-web-search-in-agent-automations\|Web search in Agent automations]]<br><time datetime="2026-01-09">2026-01-09</time> [[Changes/Replit/2026-01-09-automation-preview-for-agent-users\|Automation preview for Agent users]] | · |
-| 2025 Q4 | · | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | · | · | · | · | · | · | · | · | · | archive begins <time datetime="2025-11-18">2025-11-18</time> | · | · | · | · | · | · | <span class="not-archived">not archived</span> | archive begins <time datetime="2025-12-19">2025-12-19</time> | · | · | · |
-| 2025 Q3 | · | archive begins <time datetime="2025-08-01">2025-08-01</time> | <span class="not-archived">not archived</span> | · | · | · | · | <time datetime="2025-09-01">2025-09-01</time> [[Changes/ElevenLabs/2025-09-01-python-sdk\|Python SDK]] | <time datetime="2025-09-16">2025-09-16</time> [[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta\|Gamma API: Automate your creative workflow (Beta)]]<br><time datetime="2025-08-29">2025-08-29</time> [[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations\|Ready to get started?]] | · | · | archive begins <time datetime="2025-09-26">2025-09-26</time> | <span class="not-archived">not archived</span> | · | · | · | · | · | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | · | · |
-| 2025 Q2 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | archive begins <time datetime="2025-06-30">2025-06-30</time> | · | · | · | · | <time datetime="2025-06-19">2025-06-19</time> [[Changes/Gemini/2025-06-19-plan-ahead-with-scheduled-actions\|Plan ahead with scheduled actions]] | archive begins <time datetime="2025-06-28">2025-06-28</time> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | · | <time datetime="2025-06-13">2025-06-13</time> [[Changes/Manus/2025-06-13-let-manus-handle-routine-and-repetitive-work-reclaim-your-time-and-elevate-your\|Introducing Manus Scheduled Task]] | · | · | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | · | · |
-| 2024 Q4 → 2025 Q1 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | · | · | archive begins <time datetime="2024-10-13">2024-10-13</time> | · | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | archive begins <time datetime="2024-12-03">2024-12-03</time> | <span class="not-archived">not archived</span> | · | · | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | archive begins <time datetime="2024-12-13">2024-12-13</time> | · |
-| 2024 Q3 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | archive begins <time datetime="2024-07-28">2024-07-28</time> | <span class="not-archived">not archived</span> | · | · | <span class="not-archived">not archived</span> | · | <time datetime="2024-08-28">2024-08-28</time> [[Changes/Gemini/2024-08-28-gemini-advanced-and-gemini-for-google-workspace-add-on-priority-access-introduci\|Gemini Advanced and Gemini for Google Workspace add-on priority access]] | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | · | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | · |
+| Quarter | ChatGPT | Claude | Claude Code | Cline | Codex CLI | Cursor | Descript | Dify | ElevenLabs | Gamma | Gemini | Gemini CLI | GitHub Copilot CLI | Google Antigravity | Granola | HeyGen | Kimi Code | Lovable | Manus | Microsoft 365 Copilot | Midjourney | Notion | Ollama | Open WebUI | OpenClaw | OpenCode | OpenHands | Qoder | Replit | Suno | Z.ai API |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **First in archive** | <time datetime="2025-01-14">2025-01-14</time> [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6\|Scheduled tasks in ChatGPT]] | <time datetime="2026-02-25">2026-02-25</time> [[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork\|Scheduled tasks in Cowork]] | <time datetime="2026-03-07">2026-03-07</time> [[Changes/Claude Code/2026-03-07-added-cron-scheduling-tools-for-recurring-prompts-within-a-session\|Added cron scheduling tools for recurring prompts within a session]] | <time datetime="2025-01-06">2025-01-06</time> [[Changes/Cline/2025-01-06-there-is-now-a-see-new-changes-button-when-cline-completes-a-task-giving-you-an\|There is now a ‘See new changes’ button when Cline completes a task, giving you…]] | <time datetime="2025-08-26">2025-08-26</time> [[Changes/Codex CLI/2025-08-26-2692-do-not-schedule-frames-for-tui-draw-events-in-backtrack\|♯2692 do not schedule frames for Tui::Draw events in backtrack]] | <time datetime="2026-03-05">2026-03-05</time> [[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more\|Create automations at cursor.com/automations, or start from a template]] | <time datetime="2019-09-18">2019-09-18</time> [[Changes/Descript/2019-09-18-change-gain-with-volume-automation\|Change gain, with volume automation]] | <time datetime="2024-01-02">2024-01-02</time> [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18\|Add data clean schedule]] | <time datetime="2025-09-01">2025-09-01</time> [[Changes/ElevenLabs/2025-09-01-python-sdk\|Python SDK]] | <time datetime="2025-08-29">2025-08-29</time> [[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations\|Ready to get started?]] | <time datetime="2024-08-28">2024-08-28</time> [[Changes/Gemini/2024-08-28-gemini-advanced-and-gemini-for-google-workspace-add-on-priority-access-introduci\|Gemini Advanced and Gemini for Google Workspace add-on priority access]] | <time datetime="2025-07-01">2025-07-01</time> [[Changes/Gemini CLI/2025-07-01-refactor-use-for-of-loop-instead-of-traditional-for-loop-by-noritaka1166-in-http\|refactor: use for...of loop instead of traditional for loop]] | <time datetime="2026-05-28">2026-05-28</time> [[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries\|Schedule manager hint bar text no longer wraps over dialog borders when entries are added]] | <time datetime="2026-08-07">2026-08-07</time> [[Changes/Google Antigravity/2026-08-07-conversations-started-by-background-automations-no-longer-disappear-from-the-sid\|Conversations started by background automations no longer disappear from the sidebar list]] | <time datetime="2025-07-28">2025-07-28</time> [[Changes/Granola/2025-07-28-granola-is-now-connected-with-zapier-so-you-can-connect-your-notes-to-over-8-000\|Your meeting notes, now connected with 8,000+ apps]] | <time datetime="2025-11-30">2025-11-30</time> [[Changes/HeyGen/2025-11-30-more-natural-movements\|More natural movements]] | <time datetime="2026-05-28">2026-05-28</time> [[Changes/Kimi Code/2026-05-28-2-automation-and-scheduling-changes-in-kimi-code-0-5-0\|2 Automation and Scheduling changes in Kimi Code 0.5.0]] | <time datetime="2026-04-02">2026-04-02</time> [[Changes/Lovable/2026-04-02-project-comments\|Project comments]] | <time datetime="2025-06-13">2025-06-13</time> [[Changes/Manus/2025-06-13-let-manus-handle-routine-and-repetitive-work-reclaim-your-time-and-elevate-your\|Introducing Manus Scheduled Task]] | <time datetime="2026-04-07">2026-04-07</time> [[Changes/Microsoft 365 Copilot/2026-04-07-edit-scheduled-prompts-for-copilot-windows-mac-web-microsoft-365-copilot-chat\|Edit scheduled prompts for Copilot Windows, Mac, Web (Microsoft 365 Copilot chat)]] | <time datetime="2024-03-13">2024-03-13</time> [[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f\|Hey @everyone @here we need to halt our free-gpu rewards for image-ranking until…]] | <time datetime="2020-11-19">2020-11-19</time> [[Changes/Notion/2020-11-19-automate-user-and-group-provisioning-with-notion-s-scim-api\|Automate user and group provisioning with Notion's SCIM API 🔁]] | <time datetime="2026-03-17">2026-03-17</time> [[Changes/Ollama/2026-03-17-scripts-automation-kick-off-automated-tasks-with-ollama-and-claude-code\|Scripts/automation: Kick off automated tasks with Ollama and claude code]] | <time datetime="2024-06-02">2024-06-02</time> [[Changes/Open WebUI/2024-06-02-pipelines-support-open-webui-now-includes-a-plugin-framework-for-enhanced-custom\|🔧 Pipelines Support]] | <time datetime="2026-06-30">2026-06-30</time> [[Changes/OpenClaw/2026-06-30-15-automation-and-scheduling-changes-in-v2026-6-11\|15 Automation and Scheduling changes in v2026.6.11]] | <time datetime="2026-01-19">2026-01-19</time> [[Changes/OpenCode/2026-01-19-core-add-scheduler-and-cleanup-module\|Core Add scheduler and cleanup module]] | <time datetime="2024-09-04">2024-09-04</time> [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai\|Better syntax error loop detection]] | <time datetime="2026-08-27">2026-08-27</time> [[Changes/Qoder/2026-08-27-act-proactive-qoder-does-more-than-respond-to-instructions-it-proactively-brings\|Act Proactive: Qoder does more than respond to instructions]] | <time datetime="2026-01-09">2026-01-09</time> [[Changes/Replit/2026-01-09-automation-preview-for-agent-users\|Automation preview for Agent users]] | <time datetime="2026-01-27">2026-01-27</time> [[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and\|Sounds is a new Create mode that lets you create individual one-shot samples…]] | <time datetime="2026-04-07">2026-04-07</time> [[Changes/Z.ai API/2026-04-07-designed-for-long-horizon-tasks-glm-5-1-can-work-independently-for-up-to-8-hours\|Designed for long-horizon tasks, GLM-5.1 can work independently for up to 8 hours…]] |
+| 2026 Q4 | · | · | · | · | · | <time datetime="2026-10-20">2026-10-20</time> [[Changes/Cursor/2026-10-20-channels\|Channels]] | · | · | · | · | · | · | · | <time datetime="2026-10-15">2026-10-15</time> [[Changes/Google Antigravity/2026-10-15-redesigned-side-panel-compact-and-model-choice-for-automations\|Redesigned side panel, /compact, and model choice for automations]]<br><time datetime="2026-10-07">2026-10-07</time> [[Changes/Google Antigravity/2026-10-07-advanced-search-automations-and-grouped-agent-actions\|Advanced Search, Automations, and grouped agent actions]] | · | · | · | <time datetime="2026-10-13">2026-10-13</time> [[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud\|Supported PostgreSQL extensions on Lovable Cloud]] | · | · | · | · | · | · | · | · | · | · | <time datetime="2026-10-09">2026-10-09</time> [[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads\|Create and manage TikTok Ads]] | · | · |
+| 2026 Q3 | <time datetime="2026-08-25">2026-08-25</time> [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c\|Share scheduled tasks]] | · | · | · | · | · | <time datetime="2026-09-17">2026-09-17</time> [[Changes/Descript/2026-09-17-how-to-find-it-231db5\|How to find it]]<br><time datetime="2026-08-05">2026-08-05</time> [[Changes/Descript/2026-08-05-schedule-a-room\|Schedule a Room]] | · | · | · | · | · | · | · | · | · | · | <time datetime="2026-09-17">2026-09-17</time> [[Changes/Lovable/2026-09-17-automate-your-workspace-with-the-lovable-api\|Automate your workspace with the Lovable API]] | <time datetime="2026-09-28">2026-09-28</time> [[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi\|Introducing Manus 2.0]] | <time datetime="2026-08-25">2026-08-25</time> [[Changes/Microsoft 365 Copilot/2026-08-25-scheduling-with-copilot-chat-in-classic-outlook-for-windows-windows-outlook\|Scheduling with Copilot chat in classic Outlook for Windows Windows (Outlook)]] | · | · | · | · | <time datetime="2026-07-13">2026-07-13</time> [[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with\|Channel setup warnings are now available as structured Doctor lint findings…]] | · | · | archive begins <time datetime="2026-08-27">2026-08-27</time> | <time datetime="2026-08-21">2026-08-21</time> [[Changes/Replit/2026-08-21-automate-recurring-work-with-routines\|Automate recurring work with Routines]] | · | · |
+| 2026 Q2 | · | · | · | · | · | <time datetime="2026-06-18">2026-06-18</time> [[Changes/Cursor/2026-06-18-computer-use-tool-for-automations\|Computer use tool for automations]]<br><time datetime="2026-05-20">2026-05-20</time> [[Changes/Cursor/2026-05-20-no-repo-automations\|No-repo automations]] | · | · | <time datetime="2026-05-25">2026-05-25</time> [[Changes/ElevenLabs/2026-05-25-music\|Music]] | · | · | · | · | · | · | · | <time datetime="2026-05-28">2026-05-28</time> [[Changes/Kimi Code/2026-05-28-you-can-now-ask-the-agent-to-remind-you-at-a-specific-time-run-a-task-on-a-recur\|Ask the agent to remind you at a specific time, run a task on a recurring cron…]] | · | · | <time datetime="2026-04-07">2026-04-07</time> [[Changes/Microsoft 365 Copilot/2026-04-07-edit-scheduled-prompts-for-copilot-windows-mac-web-microsoft-365-copilot-chat\|Edit scheduled prompts for Copilot Windows, Mac, Web (Microsoft 365 Copilot chat)]] | · | · | · | · | archive begins <time datetime="2026-06-30">2026-06-30</time> | · | · | <span class="not-archived">not archived</span> | <time datetime="2026-05-22">2026-05-22</time> [[Changes/Replit/2026-05-22-cleaner-task-settings-dropdown\|Cleaner task settings dropdown]] | · | · |
+| 2026 Q1 | · | <time datetime="2026-02-25">2026-02-25</time> [[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork\|Scheduled tasks in Cowork]] | <time datetime="2026-03-07">2026-03-07</time> [[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g\|Added /loop command to run a prompt or slash command on a recurring interval…]] | · | · | · | · | · | · | · | · | · | · | · | · | · | <span class="not-archived">not archived</span> | · | · | archive begins <time datetime="2026-01-13">2026-01-13</time> | · | · | · | · | <span class="not-archived">not archived</span> | · | · | <span class="not-archived">not archived</span> | · | · | · |
+| 2025 Q4 | · | · | archive begins <time datetime="2025-12-19">2025-12-19</time> | · | · | · | · | · | · | · | · | · | · | archive begins <time datetime="2025-11-18">2025-11-18</time> | · | <time datetime="2025-11-30">2025-11-30</time> [[Changes/HeyGen/2025-11-30-more-natural-movements\|More natural movements]] | <span class="not-archived">not archived</span> | · | · | <span class="not-archived">not archived</span> | · | · | · | · | <span class="not-archived">not archived</span> | archive begins <time datetime="2025-12-19">2025-12-19</time> | · | <span class="not-archived">not archived</span> | · | · | · |
+| 2025 Q3 | · | archive begins <time datetime="2025-08-01">2025-08-01</time> | <span class="not-archived">not archived</span> | · | · | · | · | · | <time datetime="2025-09-01">2025-09-01</time> [[Changes/ElevenLabs/2025-09-01-python-sdk\|Python SDK]] | <time datetime="2025-09-16">2025-09-16</time> [[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta\|Gamma API: Automate your creative workflow (Beta)]]<br><time datetime="2025-08-29">2025-08-29</time> [[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations\|Ready to get started?]] | · | · | archive begins <time datetime="2025-09-26">2025-09-26</time> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | · | <span class="not-archived">not archived</span> | · | <time datetime="2025-09-18">2025-09-18</time> [[Changes/Notion/2025-09-18-notion-ai-will-write-your-formulas\|Notion AI will write your formulas]] | · | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | · | · | archive begins <time datetime="2025-09-30">2025-09-30</time> |
+| 2025 Q2 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | archive begins <time datetime="2025-06-30">2025-06-30</time> | · | · | · | · | · | <time datetime="2025-06-19">2025-06-19</time> [[Changes/Gemini/2025-06-19-plan-ahead-with-scheduled-actions\|Plan ahead with scheduled actions]] | archive begins <time datetime="2025-06-28">2025-06-28</time> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <time datetime="2025-06-13">2025-06-13</time> [[Changes/Manus/2025-06-13-let-manus-handle-routine-and-repetitive-work-reclaim-your-time-and-elevate-your\|Introducing Manus Scheduled Task]] | <span class="not-archived">not archived</span> | · | <time datetime="2025-04-15">2025-04-15</time> [[Changes/Notion/2025-04-15-schedule-meetings-instantly\|Schedule meetings instantly]] | · | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | · | · | <span class="not-archived">not archived</span> |
+| 2024 Q4 → 2025 Q1 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | · | · | · | archive begins <time datetime="2024-10-13">2024-10-13</time> | · | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | archive begins <time datetime="2024-12-03">2024-12-03</time> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | · | · | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | archive begins <time datetime="2024-12-13">2024-12-13</time> | · | <span class="not-archived">not archived</span> |
+| 2024 Q3 | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | archive begins <time datetime="2024-07-28">2024-07-28</time> | <span class="not-archived">not archived</span> | · | · | · | <span class="not-archived">not archived</span> | · | <time datetime="2024-08-28">2024-08-28</time> [[Changes/Gemini/2024-08-28-gemini-advanced-and-gemini-for-google-workspace-add-on-priority-access-introduci\|Gemini Advanced and Gemini for Google Workspace add-on priority access]] | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | · | · | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> |
 
-First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude 2025-08-01 · Claude Code 2025-12-19 · Cline 2024-07-28 · Codex CLI 2025-06-30 · Cursor 2023-03-14 · Dify 2023-05-15 · ElevenLabs 2024-10-13 · Gamma 2024-02-14 · Gemini 2023-04-10 · Gemini CLI 2025-06-28 · GitHub Copilot CLI 2025-09-26 · Google Antigravity 2025-11-18 · Granola 2024-05-22 · Lovable 2024-12-03 · Manus 2025-05-11 · Midjourney 2024-03-07 · Ollama 2023-07-08 · Open WebUI 2024-02-23 · OpenClaw 2026-06-30 · OpenCode 2025-12-19 · OpenHands 2024-06-04 · Replit 2024-12-13 · Suno 2023-12-23.
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: ChatGPT 2022-12-15 · Claude 2025-08-01 · Claude Code 2025-12-19 · Cline 2024-07-28 · Codex CLI 2025-06-30 · Cursor 2023-03-14 · Descript 2018-07-07 · Dify 2023-05-15 · ElevenLabs 2024-10-13 · Gamma 2024-02-14 · Gemini 2023-04-10 · Gemini CLI 2025-06-28 · GitHub Copilot CLI 2025-09-26 · Google Antigravity 2025-11-18 · Granola 2024-05-22 · HeyGen 2025-11-29 · Kimi Code 2026-05-26 · Lovable 2024-12-03 · Manus 2025-05-11 · Microsoft 365 Copilot 2026-01-13 · Midjourney 2024-03-07 · Notion 2020-01-09 · Ollama 2023-07-08 · Open WebUI 2024-02-23 · OpenClaw 2026-06-30 · OpenCode 2025-12-19 · OpenHands 2024-06-04 · Qoder 2026-08-27 · Replit 2024-12-13 · Suno 2023-12-23 · Z.ai API 2025-09-30.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->
@@ -95,52 +101,64 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 <label><input type="radio" name="timeline-product" id="tl-only-4"> Cline</label>
 <label><input type="radio" name="timeline-product" id="tl-only-5"> Codex CLI</label>
 <label><input type="radio" name="timeline-product" id="tl-only-6"> Cursor</label>
-<label><input type="radio" name="timeline-product" id="tl-only-7"> Dify</label>
-<label><input type="radio" name="timeline-product" id="tl-only-8"> ElevenLabs</label>
-<label><input type="radio" name="timeline-product" id="tl-only-9"> Gamma</label>
-<label><input type="radio" name="timeline-product" id="tl-only-10"> Gemini</label>
-<label><input type="radio" name="timeline-product" id="tl-only-11"> Gemini CLI</label>
-<label><input type="radio" name="timeline-product" id="tl-only-12"> GitHub Copilot CLI</label>
-<label><input type="radio" name="timeline-product" id="tl-only-13"> Google Antigravity</label>
-<label><input type="radio" name="timeline-product" id="tl-only-14"> Granola</label>
-<label><input type="radio" name="timeline-product" id="tl-only-15"> Lovable</label>
-<label><input type="radio" name="timeline-product" id="tl-only-16"> Manus</label>
-<label><input type="radio" name="timeline-product" id="tl-only-17"> Midjourney</label>
-<label><input type="radio" name="timeline-product" id="tl-only-18"> Ollama</label>
-<label><input type="radio" name="timeline-product" id="tl-only-19"> Open WebUI</label>
-<label><input type="radio" name="timeline-product" id="tl-only-20"> OpenClaw</label>
-<label><input type="radio" name="timeline-product" id="tl-only-21"> OpenCode</label>
-<label><input type="radio" name="timeline-product" id="tl-only-22"> OpenHands</label>
-<label><input type="radio" name="timeline-product" id="tl-only-23"> Replit</label>
-<label><input type="radio" name="timeline-product" id="tl-only-24"> Suno</label>
+<label><input type="radio" name="timeline-product" id="tl-only-7"> Descript</label>
+<label><input type="radio" name="timeline-product" id="tl-only-8"> Dify</label>
+<label><input type="radio" name="timeline-product" id="tl-only-9"> ElevenLabs</label>
+<label><input type="radio" name="timeline-product" id="tl-only-10"> Gamma</label>
+<label><input type="radio" name="timeline-product" id="tl-only-11"> Gemini</label>
+<label><input type="radio" name="timeline-product" id="tl-only-12"> Gemini CLI</label>
+<label><input type="radio" name="timeline-product" id="tl-only-13"> GitHub Copilot CLI</label>
+<label><input type="radio" name="timeline-product" id="tl-only-14"> Google Antigravity</label>
+<label><input type="radio" name="timeline-product" id="tl-only-15"> Granola</label>
+<label><input type="radio" name="timeline-product" id="tl-only-16"> HeyGen</label>
+<label><input type="radio" name="timeline-product" id="tl-only-17"> Kimi Code</label>
+<label><input type="radio" name="timeline-product" id="tl-only-18"> Lovable</label>
+<label><input type="radio" name="timeline-product" id="tl-only-19"> Manus</label>
+<label><input type="radio" name="timeline-product" id="tl-only-20"> Microsoft 365 Copilot</label>
+<label><input type="radio" name="timeline-product" id="tl-only-21"> Midjourney</label>
+<label><input type="radio" name="timeline-product" id="tl-only-22"> Notion</label>
+<label><input type="radio" name="timeline-product" id="tl-only-23"> Ollama</label>
+<label><input type="radio" name="timeline-product" id="tl-only-24"> Open WebUI</label>
+<label><input type="radio" name="timeline-product" id="tl-only-25"> OpenClaw</label>
+<label><input type="radio" name="timeline-product" id="tl-only-26"> OpenCode</label>
+<label><input type="radio" name="timeline-product" id="tl-only-27"> OpenHands</label>
+<label><input type="radio" name="timeline-product" id="tl-only-28"> Qoder</label>
+<label><input type="radio" name="timeline-product" id="tl-only-29"> Replit</label>
+<label><input type="radio" name="timeline-product" id="tl-only-30"> Suno</label>
+<label><input type="radio" name="timeline-product" id="tl-only-31"> Z.ai API</label>
 </fieldset>
 
 <details class="disclosure">
-<summary>2026 · 180 entries (ChatGPT 8 · Claude 1 · Claude Code 17 · Cline 1 · Codex CLI 10 · Cursor 15 · Dify 10 · ElevenLabs 1 · Gemini CLI 13 · GitHub Copilot CLI 10 · Google Antigravity 7 · Lovable 3 · Manus 1 · Ollama 1 · Open WebUI 17 · OpenClaw 21 · OpenCode 6 · OpenHands 31 · Replit 5 · Suno 2)</summary>
+<summary>2026 · 204 entries (ChatGPT 8 · Claude 1 · Claude Code 17 · Cline 1 · Codex CLI 10 · Cursor 15 · Descript 3 · Dify 10 · ElevenLabs 1 · Gemini CLI 13 · GitHub Copilot CLI 10 · Google Antigravity 7 · Kimi Code 11 · Lovable 3 · Manus 1 · Microsoft 365 Copilot 3 · Notion 3 · Ollama 1 · Open WebUI 17 · OpenClaw 21 · OpenCode 6 · OpenHands 31 · Qoder 3 · Replit 5 · Suno 2 · Z.ai API 1)</summary>
 
 **2026-10**
 
 - 2026-10-20 · <span class="tl-product tl-p6">**Cursor**</span> · [[Changes/Cursor/2026-10-20-channels|Channels]] · Launch
-- 2026-10-15 · <span class="tl-product tl-p13">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-10-15-you-can-now-pick-flash-lite-flash-or-pro-for-an-automation-when-you-create-or-ed|Pick Flash Lite, Flash, or Pro for an automation when you create or edit it]] · Change
-- 2026-10-15 · <span class="tl-product tl-p13">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-10-15-redesigned-side-panel-compact-and-model-choice-for-automations|Redesigned side panel, /compact, and model choice for automations]] · Launch
-- 2026-10-13 · <span class="tl-product tl-p15">**Lovable**</span> · [[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud|Supported PostgreSQL extensions on Lovable Cloud]] · Launch
-- 2026-10-09 · <span class="tl-product tl-p23">**Replit**</span> · [[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads|Create and manage TikTok Ads]] · Launch
-- 2026-10-07 · <span class="tl-product tl-p13">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-10-07-advanced-search-automations-and-grouped-agent-actions|Advanced Search, Automations, and grouped agent actions]] · Launch
+- 2026-10-15 · <span class="tl-product tl-p14">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-10-15-you-can-now-pick-flash-lite-flash-or-pro-for-an-automation-when-you-create-or-ed|Pick Flash Lite, Flash, or Pro for an automation when you create or edit it]] · Change
+- 2026-10-15 · <span class="tl-product tl-p14">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-10-15-redesigned-side-panel-compact-and-model-choice-for-automations|Redesigned side panel, /compact, and model choice for automations]] · Launch
+- 2026-10-13 · <span class="tl-product tl-p18">**Lovable**</span> · [[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud|Supported PostgreSQL extensions on Lovable Cloud]] · Launch
+- 2026-10-09 · <span class="tl-product tl-p29">**Replit**</span> · [[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads|Create and manage TikTok Ads]] · Launch
+- 2026-10-07 · <span class="tl-product tl-p14">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-10-07-advanced-search-automations-and-grouped-agent-actions|Advanced Search, Automations, and grouped agent actions]] · Launch
 
 **2026-09**
 
-- 2026-09-28 · <span class="tl-product tl-p16">**Manus**</span> · [[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi|Introducing Manus 2.0]] · Launch
-- 2026-09-17 · <span class="tl-product tl-p15">**Lovable**</span> · [[Changes/Lovable/2026-09-17-automate-your-workspace-with-the-lovable-api|Automate your workspace with the Lovable API]] · Launch
+- 2026-09-28 · <span class="tl-product tl-p19">**Manus**</span> · [[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi|Introducing Manus 2.0]] · Launch
+- 2026-09-17 · <span class="tl-product tl-p7">**Descript**</span> · [[Changes/Descript/2026-09-17-how-to-find-it-231db5|How to find it]] · Launch
+- 2026-09-17 · <span class="tl-product tl-p7">**Descript**</span> · [[Changes/Descript/2026-09-17-record-in-a-scheduled-room-without-the-host|Record in a scheduled Room without the host]] · Launch
+- 2026-09-17 · <span class="tl-product tl-p18">**Lovable**</span> · [[Changes/Lovable/2026-09-17-automate-your-workspace-with-the-lovable-api|Automate your workspace with the Lovable API]] · Launch
 
 **2026-08**
 
 - 2026-08-25 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Share scheduled tasks]] · Launch
 - 2026-08-25 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Scheduled tasks for Free users]] · Launch
-- 2026-08-21 · <span class="tl-product tl-p23">**Replit**</span> · [[Changes/Replit/2026-08-21-automate-recurring-work-with-routines|Automate recurring work with Routines]] · Launch
+- 2026-08-25 · <span class="tl-product tl-p20">**Microsoft 365 Copilot**</span> · [[Changes/Microsoft 365 Copilot/2026-08-25-scheduling-with-copilot-chat-in-classic-outlook-for-windows-windows-outlook|Scheduling with Copilot chat in classic Outlook for Windows Windows (Outlook)]] · Launch
+- 2026-08-25 · <span class="tl-product tl-p20">**Microsoft 365 Copilot**</span> · [[Changes/Microsoft 365 Copilot/2026-08-25-use-python-when-editing-with-copilot-in-excel-windows-mac-web-excel|Use Python when Editing with Copilot in Excel Windows, Mac, Web (Excel)]] · Launch
+- 2026-08-21 · <span class="tl-product tl-p29">**Replit**</span> · [[Changes/Replit/2026-08-21-automate-recurring-work-with-routines|Automate recurring work with Routines]] · Launch
+- 2026-08-05 · <span class="tl-product tl-p7">**Descript**</span> · [[Changes/Descript/2026-08-05-schedule-a-room|Schedule a Room]] · Launch
 
 **2026-07**
 
-- 2026-07-13 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel setup warnings are now available as structured Doctor lint findings…]] · Launch
+- 2026-07-13 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel setup warnings are now available as structured Doctor lint findings…]] · Launch
 
 **2026-06**
 
@@ -151,8 +169,9 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 
 **2026-05**
 
-- 2026-05-25 · <span class="tl-product tl-p8">**ElevenLabs**</span> · [[Changes/ElevenLabs/2026-05-25-music|Music]] · Launch
-- 2026-05-22 · <span class="tl-product tl-p23">**Replit**</span> · [[Changes/Replit/2026-05-22-cleaner-task-settings-dropdown|Cleaner task settings dropdown]] · Launch
+- 2026-05-28 · <span class="tl-product tl-p17">**Kimi Code**</span> · [[Changes/Kimi Code/2026-05-28-you-can-now-ask-the-agent-to-remind-you-at-a-specific-time-run-a-task-on-a-recur|Ask the agent to remind you at a specific time, run a task on a recurring cron…]] · Change
+- 2026-05-25 · <span class="tl-product tl-p9">**ElevenLabs**</span> · [[Changes/ElevenLabs/2026-05-25-music|Music]] · Launch
+- 2026-05-22 · <span class="tl-product tl-p29">**Replit**</span> · [[Changes/Replit/2026-05-22-cleaner-task-settings-dropdown|Cleaner task settings dropdown]] · Launch
 - 2026-05-20 · <span class="tl-product tl-p6">**Cursor**</span> · [[Changes/Cursor/2026-05-20-no-repo-automations|No-repo automations]] · Launch
 - 2026-05-20 · <span class="tl-product tl-p6">**Cursor**</span> · [[Changes/Cursor/2026-05-20-a-lot-of-engineering-work-spans-more-than-one-codebase-you-can-now-attach-multip|Multi-repo automations]] · Launch
 - 2026-05-20 · <span class="tl-product tl-p6">**Cursor**</span> · [[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|Automations in the Agents Window]] · Launch
@@ -160,7 +179,8 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 
 **2026-04**
 
-- 2026-04-02 · <span class="tl-product tl-p15">**Lovable**</span> · [[Changes/Lovable/2026-04-02-project-comments|Project comments]] · Launch
+- 2026-04-07 · <span class="tl-product tl-p20">**Microsoft 365 Copilot**</span> · [[Changes/Microsoft 365 Copilot/2026-04-07-edit-scheduled-prompts-for-copilot-windows-mac-web-microsoft-365-copilot-chat|Edit scheduled prompts for Copilot Windows, Mac, Web (Microsoft 365 Copilot chat)]] · Launch
+- 2026-04-02 · <span class="tl-product tl-p18">**Lovable**</span> · [[Changes/Lovable/2026-04-02-project-comments|Project comments]] · Launch
 
 **2026-03**
 
@@ -172,356 +192,472 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 
 **2026-01**
 
-- 2026-01-23 · <span class="tl-product tl-p23">**Replit**</span> · [[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent automations]] · Launch
-- 2026-01-09 · <span class="tl-product tl-p23">**Replit**</span> · [[Changes/Replit/2026-01-09-automation-preview-for-agent-users|Automation preview for Agent users]] · Launch
+- 2026-01-23 · <span class="tl-product tl-p29">**Replit**</span> · [[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent automations]] · Launch
+- 2026-01-09 · <span class="tl-product tl-p29">**Replit**</span> · [[Changes/Replit/2026-01-09-automation-preview-for-agent-users|Automation preview for Agent users]] · Launch
 
 <details class="disclosure">
-<summary>Fixes, digests and other changes · 153 (ChatGPT 6 · Claude Code 16 · Cline 1 · Codex CLI 10 · Cursor 6 · Dify 10 · Gemini CLI 13 · GitHub Copilot CLI 10 · Google Antigravity 4 · Ollama 1 · Open WebUI 17 · OpenClaw 20 · OpenCode 6 · OpenHands 31 · Suno 2)</summary>
+<summary>Fixes, digests and other changes · 170 (ChatGPT 6 · Claude Code 16 · Cline 1 · Codex CLI 10 · Cursor 6 · Dify 10 · Gemini CLI 13 · GitHub Copilot CLI 10 · Google Antigravity 4 · Kimi Code 10 · Notion 3 · Ollama 1 · Open WebUI 17 · OpenClaw 20 · OpenCode 6 · OpenHands 31 · Qoder 3 · Suno 2 · Z.ai API 1)</summary>
 
 **2026-11**
 
-- 2026-11-06 · <span class="tl-product tl-p12">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-11-06-in-the-every-schedule-manager-x-now-removes-the-highlighted-schedule-even-after|In the /every schedule manager, x now removes the highlighted schedule even after…]] · Change
-- 2026-11-05 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-11-05-keeps-the-windows-scheduled-task-available-during-update-recovery-until-the-gate|Keeps the Windows scheduled task available during update recovery until the Gateway…]] · Change
-- 2026-11-05 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-11-05-11-automation-and-scheduling-changes-in-v1-36-0|11 Automation and Scheduling changes in v1.36.0]] · Digest
-- 2026-11-04 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2026-11-04-3-automation-and-scheduling-changes-in-1-19-0|3 Automation and Scheduling changes in 1.19.0]] · Digest
-- 2026-11-03 · <span class="tl-product tl-p13">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-11-03-2-automation-and-scheduling-changes-in-hub-v2-29-0-voice-mode-remote|2 Automation and Scheduling changes in HUB v2.29.0 — Voice mode, remote…]] · Digest
-- 2026-11-03 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-11-03-2-automation-and-scheduling-changes-in-v0-13-0|2 Automation and Scheduling changes in v0.13.0]] · Digest
-- 2026-11-03 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-11-03-4-automation-and-scheduling-changes-in-v2026-10-10|4 Automation and Scheduling changes in v2026.10.10]] · Digest
-- 2026-11-03 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-11-03-6-automation-and-scheduling-changes-in-v1-35-0|6 Automation and Scheduling changes in v1.35.0]] · Digest
+- 2026-11-06 · <span class="tl-product tl-p13">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-11-06-in-the-every-schedule-manager-x-now-removes-the-highlighted-schedule-even-after|In the /every schedule manager, x now removes the highlighted schedule even after…]] · Change
+- 2026-11-05 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-11-05-keeps-the-windows-scheduled-task-available-during-update-recovery-until-the-gate|Keeps the Windows scheduled task available during update recovery until the Gateway…]] · Change
+- 2026-11-05 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-11-05-11-automation-and-scheduling-changes-in-v1-36-0|11 Automation and Scheduling changes in v1.36.0]] · Digest
+- 2026-11-05 · <span class="tl-product tl-p28">**Qoder**</span> · [[Changes/Qoder/2026-11-05-cross-device-automations-use-the-slash-menu-in-a-connected-device-conversation-t|Cross-device automations: Use the slash menu in a connected-device conversation…]] · Change
+- 2026-11-04 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2026-11-04-3-automation-and-scheduling-changes-in-1-19-0|3 Automation and Scheduling changes in 1.19.0]] · Digest
+- 2026-11-03 · <span class="tl-product tl-p14">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-11-03-2-automation-and-scheduling-changes-in-hub-v2-29-0-voice-mode-remote|2 Automation and Scheduling changes in HUB v2.29.0 — Voice mode, remote…]] · Digest
+- 2026-11-03 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-11-03-2-automation-and-scheduling-changes-in-v0-13-0|2 Automation and Scheduling changes in v0.13.0]] · Digest
+- 2026-11-03 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-11-03-4-automation-and-scheduling-changes-in-v2026-10-10|4 Automation and Scheduling changes in v2026.10.10]] · Digest
+- 2026-11-03 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-11-03-6-automation-and-scheduling-changes-in-v1-35-0|6 Automation and Scheduling changes in v1.35.0]] · Digest
 
 **2026-10**
 
 - 2026-10-31 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2 Automation and Scheduling changes in v2.1.316]] · Digest
-- 2026-10-30 · <span class="tl-product tl-p21">**OpenCode**</span> · [[Changes/OpenCode/2026-10-30-2-automation-and-scheduling-changes-in-v2-2-3|2 Automation and Scheduling changes in v2.2.3]] · Digest
-- 2026-10-30 · <span class="tl-product tl-p21">**OpenCode**</span> · [[Changes/OpenCode/2026-10-30-core-made-enabled-schedules-run-under-opencode-serve-and-coordinated-multiple-se|Core Made enabled schedules run under opencode serve and coordinated multiple server…]] · Change
-- 2026-10-29 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2 Automation and Scheduling changes in v0.12.5]] · Digest
-- 2026-10-29 · <span class="tl-product tl-p21">**OpenCode**</span> · [[Changes/OpenCode/2026-10-29-sdk-add-client-experimental-schedule-create-list-get-pause-resume-delete-for-man|SDK Add…]] · Change
-- 2026-10-29 · <span class="tl-product tl-p21">**OpenCode**</span> · [[Changes/OpenCode/2026-10-29-sdk-added-if-and-until-inputs-for-client-experimental-schedule-create-plus-sched|SDK Added if and until inputs for client.experimental.schedule.create , plus…]] · Change
+- 2026-10-30 · <span class="tl-product tl-p26">**OpenCode**</span> · [[Changes/OpenCode/2026-10-30-2-automation-and-scheduling-changes-in-v2-2-3|2 Automation and Scheduling changes in v2.2.3]] · Digest
+- 2026-10-30 · <span class="tl-product tl-p26">**OpenCode**</span> · [[Changes/OpenCode/2026-10-30-core-made-enabled-schedules-run-under-opencode-serve-and-coordinated-multiple-se|Core Made enabled schedules run under opencode serve and coordinated multiple server…]] · Change
+- 2026-10-29 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2 Automation and Scheduling changes in v0.12.5]] · Digest
+- 2026-10-29 · <span class="tl-product tl-p26">**OpenCode**</span> · [[Changes/OpenCode/2026-10-29-sdk-add-client-experimental-schedule-create-list-get-pause-resume-delete-for-man|SDK Add…]] · Change
+- 2026-10-29 · <span class="tl-product tl-p26">**OpenCode**</span> · [[Changes/OpenCode/2026-10-29-sdk-added-if-and-until-inputs-for-client-experimental-schedule-create-plus-sched|SDK Added if and until inputs for client.experimental.schedule.create , plus…]] · Change
 - 2026-10-27 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-10-27-icloud-users-can-now-connect-mail-and-calendar-to-chatgpt-to-find-emails-catch-u|iCloud users can now connect Mail and Calendar to ChatGPT to find emails, catch up…]] · Change
-- 2026-10-27 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-10-27-refactor-core-cli-emit-tool-call-groups-from-the-scheduler-and-drop-the-ui-looka|refactor(core,cli): emit tool call groups from the scheduler and drop the UI lookahead]] · Change
-- 2026-10-27 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-27-4-automation-and-scheduling-changes-in-v2026-10-8|4 Automation and Scheduling changes in v2026.10.8]] · Digest
-- 2026-10-27 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6 Automation and Scheduling changes in v1.34.0]] · Digest
-- 2026-10-23 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2026-10-23-2-automation-and-scheduling-changes-in-1-18-0|2 Automation and Scheduling changes in 1.18.0]] · Digest
-- 2026-10-23 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-10-23-3-automation-and-scheduling-changes-in-v1-32-0|3 Automation and Scheduling changes in v1.32.0]] · Digest
-- 2026-10-23 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-10-23-2-automation-and-scheduling-changes-in-v1-33-0|2 Automation and Scheduling changes in v1.33.0]] · Digest
-- 2026-10-22 · <span class="tl-product tl-p13">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-10-22-the-conversations-palette-cmd-p-on-macos-ctrl-p-on-windows-and-linux-now-include|The Conversations palette (Cmd+P on macOS, Ctrl+P on Windows and Linux) now includes…]] · Change
-- 2026-10-22 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-22-5-automation-and-scheduling-changes-in-v2026-10-6|5 Automation and Scheduling changes in v2026.10.6]] · Digest
-- 2026-10-22 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-10-22-refactor-automations-express-the-activity-track-height-in-css-by-enyst-in-https|refactor(automations): express the activity track height in CSS]] · Change
-- 2026-10-22 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-10-22-feat-automations-hide-the-github-token-secret-field-on-self-hosted-instances-whe|feat(automations): hide the GitHub token secret field on self-hosted instances…]] · Change
-- 2026-10-22 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-10-22-feat-automations-reflect-the-built-in-integration-s-connection-state-in-the-setu|feat(automations): reflect the built-in integration's connection state in the setup…]] · Change
-- 2026-10-20 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-10-20-feat-home-dismiss-recommended-automations-rail-from-home-and-application-setting|feat(home): dismiss recommended automations rail from Home and Application settings]] · Change
-- 2026-10-19 · <span class="tl-product tl-p12">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-10-19-reasoning-only-max-token-responses-no-longer-loop-indefinitely-and-now-end-with|Reasoning-only max-token responses no longer loop indefinitely and now end…]] · Change
-- 2026-10-19 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-10-19-3-automation-and-scheduling-changes-in-v1-28-0|3 Automation and Scheduling changes in v1.28.0]] · Digest
-- 2026-10-16 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-16-standalone-plugin-hooks-configured-tool-rules-and-automations-from-enabled-stand|Standalone plugin hooks]] · Change
-- 2026-10-14 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰ Automation run results. An automation run is now recorded as successful only…]] · Change
-- 2026-10-14 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-10-14-recurring-automations-run-once-automations-set-with-the-daily-weekly-or-monthly|📅 Recurring automations run once. Automations set with the Daily, Weekly…]] · Change
-- 2026-10-13 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-13-windows-service-accounts-updates-recognize-different-task-scheduler-names-for-th|Windows service accounts]] · Change
-- 2026-10-12 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-12-manually-started-jobs-an-accepted-automation-can-keep-using-its-allowed-tools-af|Manually started jobs]] · Change
-- 2026-10-12 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-10-12-4-automation-and-scheduling-changes-in-v1-27-0|4 Automation and Scheduling changes in v1.27.0]] · Digest
-- 2026-10-10 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-10-10-10-automation-and-scheduling-changes-in-v0-12-0|10 Automation and Scheduling changes in v0.12.0]] · Digest
-- 2026-10-10 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-10-10-automation-and-scheduling-changes-in-v2026-10-1|10 Automation and Scheduling changes in v2026.10.1]] · Digest
+- 2026-10-27 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-10-27-refactor-core-cli-emit-tool-call-groups-from-the-scheduler-and-drop-the-ui-looka|refactor(core,cli): emit tool call groups from the scheduler and drop the UI lookahead]] · Change
+- 2026-10-27 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-27-4-automation-and-scheduling-changes-in-v2026-10-8|4 Automation and Scheduling changes in v2026.10.8]] · Digest
+- 2026-10-27 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6 Automation and Scheduling changes in v1.34.0]] · Digest
+- 2026-10-23 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2026-10-23-2-automation-and-scheduling-changes-in-1-18-0|2 Automation and Scheduling changes in 1.18.0]] · Digest
+- 2026-10-23 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-10-23-3-automation-and-scheduling-changes-in-v1-32-0|3 Automation and Scheduling changes in v1.32.0]] · Digest
+- 2026-10-23 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-10-23-2-automation-and-scheduling-changes-in-v1-33-0|2 Automation and Scheduling changes in v1.33.0]] · Digest
+- 2026-10-22 · <span class="tl-product tl-p14">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-10-22-the-conversations-palette-cmd-p-on-macos-ctrl-p-on-windows-and-linux-now-include|The Conversations palette (Cmd+P on macOS, Ctrl+P on Windows and Linux) now includes…]] · Change
+- 2026-10-22 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-22-5-automation-and-scheduling-changes-in-v2026-10-6|5 Automation and Scheduling changes in v2026.10.6]] · Digest
+- 2026-10-22 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-10-22-refactor-automations-express-the-activity-track-height-in-css-by-enyst-in-https|refactor(automations): express the activity track height in CSS]] · Change
+- 2026-10-22 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-10-22-feat-automations-hide-the-github-token-secret-field-on-self-hosted-instances-whe|feat(automations): hide the GitHub token secret field on self-hosted instances…]] · Change
+- 2026-10-22 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-10-22-feat-automations-reflect-the-built-in-integration-s-connection-state-in-the-setu|feat(automations): reflect the built-in integration's connection state in the setup…]] · Change
+- 2026-10-20 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-10-20-feat-home-dismiss-recommended-automations-rail-from-home-and-application-setting|feat(home): dismiss recommended automations rail from Home and Application settings]] · Change
+- 2026-10-19 · <span class="tl-product tl-p13">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-10-19-reasoning-only-max-token-responses-no-longer-loop-indefinitely-and-now-end-with|Reasoning-only max-token responses no longer loop indefinitely and now end…]] · Change
+- 2026-10-19 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-10-19-3-automation-and-scheduling-changes-in-v1-28-0|3 Automation and Scheduling changes in v1.28.0]] · Digest
+- 2026-10-16 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-16-standalone-plugin-hooks-configured-tool-rules-and-automations-from-enabled-stand|Standalone plugin hooks]] · Change
+- 2026-10-14 · <span class="tl-product tl-p17">**Kimi Code**</span> · [[Changes/Kimi Code/2026-10-14-cron-tasks-from-the-source-session-no-longer-fire-inside-a-forked-session|Cron tasks from the source session no longer fire inside a forked session]] · Change
+- 2026-10-14 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰ Automation run results. An automation run is now recorded as successful only…]] · Change
+- 2026-10-14 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-10-14-recurring-automations-run-once-automations-set-with-the-daily-weekly-or-monthly|📅 Recurring automations run once. Automations set with the Daily, Weekly…]] · Change
+- 2026-10-13 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-13-windows-service-accounts-updates-recognize-different-task-scheduler-names-for-th|Windows service accounts]] · Change
+- 2026-10-12 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-12-manually-started-jobs-an-accepted-automation-can-keep-using-its-allowed-tools-af|Manually started jobs]] · Change
+- 2026-10-12 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-10-12-4-automation-and-scheduling-changes-in-v1-27-0|4 Automation and Scheduling changes in v1.27.0]] · Digest
+- 2026-10-10 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-10-10-10-automation-and-scheduling-changes-in-v0-12-0|10 Automation and Scheduling changes in v0.12.0]] · Digest
+- 2026-10-10 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-10-10-automation-and-scheduling-changes-in-v2026-10-1|10 Automation and Scheduling changes in v2026.10.1]] · Digest
 - 2026-10-08 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed Ctrl+C at the idle prompt of an attached background session to leave…]] · Change
-- 2026-10-08 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-08-2-automation-and-scheduling-changes-in-v2026-9-9|2 Automation and Scheduling changes in v2026.9.9]] · Digest
-- 2026-10-08 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2 Automation and Scheduling changes in v1.26.0]] · Digest
-- 2026-10-07 · <span class="tl-product tl-p13">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-10-07-scheduled-tasks-are-now-called-automations-you-can-run-a-scheduled-automation-ri|Scheduled Tasks are now called Automations]] · Change
-- 2026-10-06 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5 Automation and Scheduling changes in v1.25.0]] · Digest
+- 2026-10-08 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-10-08-2-automation-and-scheduling-changes-in-v2026-9-9|2 Automation and Scheduling changes in v2026.9.9]] · Digest
+- 2026-10-08 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2 Automation and Scheduling changes in v1.26.0]] · Digest
+- 2026-10-07 · <span class="tl-product tl-p14">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-10-07-scheduled-tasks-are-now-called-automations-you-can-run-a-scheduled-automation-ri|Scheduled Tasks are now called Automations]] · Change
+- 2026-10-06 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5 Automation and Scheduling changes in v1.25.0]] · Digest
 - 2026-10-05 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed background sessions whose scheduled task is gone]] · Change
 
 **2026-09**
 
-- 2026-09-30 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-30-11-automation-and-scheduling-changes-in-v2026-9-7|11 Automation and Scheduling changes in v2026.9.7]] · Digest
+- 2026-09-30 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-30-11-automation-and-scheduling-changes-in-v2026-9-7|11 Automation and Scheduling changes in v2026.9.7]] · Digest
 - 2026-09-29 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site owners can also create recurring cloud schedules from Automations]] · Change
-- 2026-09-25 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3 Automation and Scheduling changes in v1.24.0]] · Digest
+- 2026-09-25 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3 Automation and Scheduling changes in v1.24.0]] · Digest
 - 2026-09-23 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-09-23-claude-tag-changed-the-routine-list-claude-gives-when-asked-in-a-slack-thread-to|Claude Tag Changed the routine list Claude gives when asked in a Slack thread…]] · Change
-- 2026-09-23 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-23-9-automation-and-scheduling-changes-in-v2026-9-6|9 Automation and Scheduling changes in v2026.9.6]] · Digest
-- 2026-09-23 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore: consume SDK 1.49.5 and Automation 1.15.0]] · Change
+- 2026-09-23 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-23-9-automation-and-scheduling-changes-in-v2026-9-6|9 Automation and Scheduling changes in v2026.9.6]] · Digest
+- 2026-09-23 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore: consume SDK 1.49.5 and Automation 1.15.0]] · Change
+- 2026-09-23 · <span class="tl-product tl-p28">**Qoder**</span> · [[Changes/Qoder/2026-09-23-cloud-automations-create-scheduled-tasks-through-conversation-or-manual-configur|Cloud automations: Create scheduled tasks through conversation or manual…]] · Change
 - 2026-09-22 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2026-09-22-45849-preserve-the-app-server-shutdown-signal-future-across-loop-iterations-jger|♯45849 Preserve the app-server shutdown signal future across loop iterations @jgershen-oai]] · Change
-- 2026-09-22 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-09-22-chore-consume-sdk-1-49-4-and-automation-1-14-0-by-hieptl-in-https-github-com-ope|chore: consume SDK 1.49.4 and Automation 1.14.0]] · Change
-- 2026-09-22 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-09-22-2-automation-and-scheduling-changes-in-v1-21-0|2 Automation and Scheduling changes in v1.21.0]] · Digest
-- 2026-09-21 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-09-21-4-automation-and-scheduling-changes-in-v0-11-4|4 Automation and Scheduling changes in v0.11.4]] · Digest
-- 2026-09-19 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-19-14-automation-and-scheduling-changes-in-v2026-9-5|14 Automation and Scheduling changes in v2026.9.5]] · Digest
-- 2026-09-17 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-09-17-feat-automations-select-saved-agent-profiles-by-neubig-in-https-github-com-openh|feat(automations): select saved agent profiles]] · Change
-- 2026-09-16 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4 Automation and Scheduling changes in v1.19.0]] · Digest
-- 2026-09-11 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7 Automation and Scheduling changes in v2026.9.4]] · Digest
-- 2026-09-11 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3 Automation and Scheduling changes in v1.18.0]] · Digest
-- 2026-09-10 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation and Scheduling changes in 1.17.1]] · Digest
-- 2026-09-09 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9 Automation and Scheduling changes in v1.17.0]] · Digest
-- 2026-09-08 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-08-7-automation-and-scheduling-changes-in-v2026-9-3|7 Automation and Scheduling changes in v2026.9.3]] · Digest
-- 2026-09-05 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-05-8-automation-and-scheduling-changes-in-v2026-9-2|8 Automation and Scheduling changes in v2026.9.2]] · Digest
-- 2026-09-03 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-03-13-automation-and-scheduling-changes-in-v2026-9-1|13 Automation and Scheduling changes in v2026.9.1]] · Digest
+- 2026-09-22 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-09-22-chore-consume-sdk-1-49-4-and-automation-1-14-0-by-hieptl-in-https-github-com-ope|chore: consume SDK 1.49.4 and Automation 1.14.0]] · Change
+- 2026-09-22 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-09-22-2-automation-and-scheduling-changes-in-v1-21-0|2 Automation and Scheduling changes in v1.21.0]] · Digest
+- 2026-09-21 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-09-21-4-automation-and-scheduling-changes-in-v0-11-4|4 Automation and Scheduling changes in v0.11.4]] · Digest
+- 2026-09-19 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-19-14-automation-and-scheduling-changes-in-v2026-9-5|14 Automation and Scheduling changes in v2026.9.5]] · Digest
+- 2026-09-17 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-09-17-feat-automations-select-saved-agent-profiles-by-neubig-in-https-github-com-openh|feat(automations): select saved agent profiles]] · Change
+- 2026-09-16 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4 Automation and Scheduling changes in v1.19.0]] · Digest
+- 2026-09-14 · <span class="tl-product tl-p17">**Kimi Code**</span> · [[Changes/Kimi Code/2026-09-14-add-the-loop-control-compaction-max-attempts-config-option-to-set-the-maximum-to|Add the loop_control.compaction_max_attempts config option to set the maximum…]] · Change
+- 2026-09-11 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7 Automation and Scheduling changes in v2026.9.4]] · Digest
+- 2026-09-11 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3 Automation and Scheduling changes in v1.18.0]] · Digest
+- 2026-09-10 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation and Scheduling changes in 1.17.1]] · Digest
+- 2026-09-09 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9 Automation and Scheduling changes in v1.17.0]] · Digest
+- 2026-09-08 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-08-7-automation-and-scheduling-changes-in-v2026-9-3|7 Automation and Scheduling changes in v2026.9.3]] · Digest
+- 2026-09-05 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-05-8-automation-and-scheduling-changes-in-v2026-9-2|8 Automation and Scheduling changes in v2026.9.2]] · Digest
+- 2026-09-03 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-03-13-automation-and-scheduling-changes-in-v2026-9-1|13 Automation and Scheduling changes in v2026.9.1]] · Digest
 - 2026-09-01 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2026-09-01-41457-source-proactive-multi-agent-instructions-from-the-model-catalog-copyberry|♯41457 Source proactive multi-agent instructions from the model catalog @copyberry]] · Change
-- 2026-09-01 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-01-2-automation-and-scheduling-changes-in-v2026-8-2|2 Automation and Scheduling changes in v2026.8.2]] · Digest
+- 2026-09-01 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-09-01-2-automation-and-scheduling-changes-in-v2026-8-2|2 Automation and Scheduling changes in v2026.8.2]] · Digest
 
 **2026-08**
 
-- 2026-08-31 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-08-31-3-automation-and-scheduling-changes-in-v0-11-2|3 Automation and Scheduling changes in v0.11.2]] · Digest
-- 2026-08-31 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-08-31-automations-and-scheduling-scheduled-work-comes-together-under-one-name-across-t|Automations and Scheduling - Scheduled work comes together under one name across…]] · Change
+- 2026-08-31 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-08-31-3-automation-and-scheduling-changes-in-v0-11-2|3 Automation and Scheduling changes in v0.11.2]] · Digest
+- 2026-08-31 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-08-31-automations-and-scheduling-scheduled-work-comes-together-under-one-name-across-t|Automations and Scheduling - Scheduled work comes together under one name across…]] · Change
 - 2026-08-27 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed /loop: self-paced dynamic mode and the no-prompt autonomous default…]] · Change
-- 2026-08-27 · <span class="tl-product tl-p12">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-08-27-use-x-to-remove-scheduled-every-and-after-prompts-in-schedule-manager|Use x to remove scheduled /every and /after prompts in Schedule Manager]] · Change
-- 2026-08-27 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-08-27-2-automation-and-scheduling-changes-in-v1-16-0|2 Automation and Scheduling changes in v1.16.0]] · Digest
+- 2026-08-27 · <span class="tl-product tl-p13">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-08-27-use-x-to-remove-scheduled-every-and-after-prompts-in-schedule-manager|Use x to remove scheduled /every and /after prompts in Schedule Manager]] · Change
+- 2026-08-27 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-08-27-2-automation-and-scheduling-changes-in-v1-16-0|2 Automation and Scheduling changes in v1.16.0]] · Digest
+- 2026-08-27 · <span class="tl-product tl-p28">**Qoder**</span> · [[Changes/Qoder/2026-08-27-act-proactive-qoder-does-more-than-respond-to-instructions-it-proactively-brings|Act Proactive: Qoder does more than respond to instructions]] · Change
 - 2026-08-26 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry|♯40436 Add a managed gate for in-app local automation @copyberry]] · Change
 - 2026-08-25 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes…]] · Change
-- 2026-08-25 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2026-08-25-feat-workflow-support-human-input-in-loop-and-iteration-by-laipz8200-in-https-gi|feat(workflow): support human input in loop and iteration]] · Change
-- 2026-08-25 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-08-25-11-automation-and-scheduling-changes-in-v0-11-1|11 Automation and Scheduling changes in v0.11.1]] · Digest
-- 2026-08-21 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-08-21-4-automation-and-scheduling-changes-in-v1-15-0|4 Automation and Scheduling changes in v1.15.0]] · Digest
-- 2026-08-17 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-08-17-feat-automations-add-a-git-sync-page-by-vascosch92-in-https-github-com-openhands|feat(automations): add a Git Sync page]] · Change
+- 2026-08-25 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2026-08-25-feat-workflow-support-human-input-in-loop-and-iteration-by-laipz8200-in-https-gi|feat(workflow): support human input in loop and iteration]] · Change
+- 2026-08-25 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-08-25-11-automation-and-scheduling-changes-in-v0-11-1|11 Automation and Scheduling changes in v0.11.1]] · Digest
+- 2026-08-21 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-08-21-4-automation-and-scheduling-changes-in-v1-15-0|4 Automation and Scheduling changes in v1.15.0]] · Digest
+- 2026-08-17 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-08-17-feat-automations-add-a-git-sync-page-by-vascosch92-in-https-github-com-openhands|feat(automations): add a Git Sync page]] · Change
 - 2026-08-14 · <span class="tl-product tl-p4">**Cline**</span> · [[Changes/Cline/2026-08-14-stop-two-cline-installations-on-different-builds-from-shutting-each-other-s-hub|Stop two Cline installations on different builds from shutting each other's Hub…]] · Change
 - 2026-08-13 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted and clipboard images are read without blocking the event loop]] · Change
-- 2026-08-13 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-08-13-chore-bump-sdk-deps-software-agent-sdk-1-42-1-automation-1-7-1-typescript-client|chore: bump SDK deps…]] · Change
-- 2026-08-13 · <span class="tl-product tl-p24">**Suno**</span> · [[Changes/Suno/2026-08-13-automation-change-your-effect-parameters-over-time-to-breathe-life-into-your-fin|Automation: Change your effect parameters over time to breathe life into your final mix]] · Change
-- 2026-08-11 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-08-11-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]] · Change
+- 2026-08-13 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-08-13-chore-bump-sdk-deps-software-agent-sdk-1-42-1-automation-1-7-1-typescript-client|chore: bump SDK deps…]] · Change
+- 2026-08-13 · <span class="tl-product tl-p30">**Suno**</span> · [[Changes/Suno/2026-08-13-automation-change-your-effect-parameters-over-time-to-breathe-life-into-your-fin|Automation: Change your effect parameters over time to breathe life into your final mix]] · Change
+- 2026-08-11 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-08-11-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]] · Change
 - 2026-08-07 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2026-08-07-36228-support-enterprise-automation-account-plans-copyberry|♯36228 Support Enterprise automation account plans @copyberry]] · Change
-- 2026-08-07 · <span class="tl-product tl-p13">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-08-07-conversations-started-by-background-automations-no-longer-disappear-from-the-sid|Conversations started by background automations no longer disappear from the sidebar list]] · Change
-- 2026-08-07 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-08-07-2-automation-and-scheduling-changes-in-v1-11-0|2 Automation and Scheduling changes in v1.11.0]] · Digest
-- 2026-08-05 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-08-05-3-automation-and-scheduling-changes-in-v1-10-0|3 Automation and Scheduling changes in v1.10.0]] · Digest
-- 2026-08-03 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-08-03-feat-drive-the-automation-ui-from-the-interface-manifest-by-hieptl-in-https-gith|feat: drive the automation UI from the interface manifest]] · Change
+- 2026-08-07 · <span class="tl-product tl-p14">**Google Antigravity**</span> · [[Changes/Google Antigravity/2026-08-07-conversations-started-by-background-automations-no-longer-disappear-from-the-sid|Conversations started by background automations no longer disappear from the sidebar list]] · Change
+- 2026-08-07 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-08-07-2-automation-and-scheduling-changes-in-v1-11-0|2 Automation and Scheduling changes in v1.11.0]] · Digest
+- 2026-08-05 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-08-05-3-automation-and-scheduling-changes-in-v1-10-0|3 Automation and Scheduling changes in v1.10.0]] · Digest
+- 2026-08-04 · <span class="tl-product tl-p17">**Kimi Code**</span> · [[Changes/Kimi Code/2026-08-04-rename-two-loop-control-keys-max-retries-per-step-max-attempts-per-step-and-max|Rename two loop_control keys]] · Change
+- 2026-08-03 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-08-03-feat-drive-the-automation-ui-from-the-interface-manifest-by-hieptl-in-https-gith|feat: drive the automation UI from the interface manifest]] · Change
 
 **2026-07**
 
-- 2026-07-30 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-07-30-chore-bump-agent-server-1-39-1-automation-1-5-0-typescript-client-1-36-1-by-hiep|chore: bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1]] · Change
-- 2026-07-29 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-07-29-chore-bump-software-agent-sdk-to-1-38-0-and-automation-to-1-4-1-by-hieptl-in-htt|chore: bump software-agent-sdk to 1.38.0 and automation to 1.4.1]] · Change
-- 2026-07-27 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-07-27-9-automation-and-scheduling-changes-in-v0-11-0|9 Automation and Scheduling changes in v0.11.0]] · Digest
-- 2026-07-22 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]] · Change
-- 2026-07-17 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation and Scheduling changes in 1.16.0]] · Digest
-- 2026-07-13 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-07-13-79-automation-and-scheduling-changes-in-v2026-7-1|79 Automation and Scheduling changes in v2026.7.1]] · Digest
+- 2026-07-30 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-07-30-chore-bump-agent-server-1-39-1-automation-1-5-0-typescript-client-1-36-1-by-hiep|chore: bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1]] · Change
+- 2026-07-29 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-07-29-chore-bump-software-agent-sdk-to-1-38-0-and-automation-to-1-4-1-by-hieptl-in-htt|chore: bump software-agent-sdk to 1.38.0 and automation to 1.4.1]] · Change
+- 2026-07-27 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-07-27-9-automation-and-scheduling-changes-in-v0-11-0|9 Automation and Scheduling changes in v0.11.0]] · Digest
+- 2026-07-24 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2026-07-24-notion-workers-run-custom-code-on-notion-s-infrastructure-to-sync-data-power-too|Notion Workers run custom code on Notion's infrastructure to sync data, power tools…]] · Change
+- 2026-07-22 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]] · Change
+- 2026-07-22 · <span class="tl-product tl-p17">**Kimi Code**</span> · [[Changes/Kimi Code/2026-07-22-remove-references-to-the-non-existent-kimi-resume-command-from-the-scheduled-tas|Remove references to the non-existent kimi resume command from the scheduled-task…]] · Change
+- 2026-07-17 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation and Scheduling changes in 1.16.0]] · Digest
+- 2026-07-16 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2026-07-16-what-s-on-my-schedule-today|What’s on my schedule today?]] · Change
+- 2026-07-13 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-07-13-79-automation-and-scheduling-changes-in-v2026-7-1|79 Automation and Scheduling changes in v2026.7.1]] · Digest
+- 2026-07-12 · <span class="tl-product tl-p17">**Kimi Code**</span> · [[Changes/Kimi Code/2026-07-12-keep-kimi-p-runs-alive-after-a-turn-ends-while-a-goal-is-still-active-or-a-cron|Keep kimi -p runs alive after a turn ends while a goal is still active or a cron…]] · Change
 - 2026-07-09 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work can also keep projects moving through Scheduled Tasks that run once, repeat…]] · Change
 - 2026-07-08 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508 Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]] · Change
-- 2026-07-06 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2026-07-06-2-automation-and-scheduling-changes-in-1-9-0|2 Automation and Scheduling changes in 1.9.0]] · Digest
-- 2026-07-01 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|🤖 Models with null capabilities. Chatting with a model whose capabilities…]] · Change
+- 2026-07-06 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2026-07-06-2-automation-and-scheduling-changes-in-1-9-0|2 Automation and Scheduling changes in 1.9.0]] · Digest
+- 2026-07-01 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|🤖 Models with null capabilities. Chatting with a model whose capabilities…]] · Change
 
 **2026-06**
 
-- 2026-06-30 · <span class="tl-product tl-p12">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr auto now starts a self-paced loop that fixes one thing per run and paces itself…]] · Change
-- 2026-06-30 · <span class="tl-product tl-p20">**OpenClaw**</span> · [[Changes/OpenClaw/2026-06-30-15-automation-and-scheduling-changes-in-v2026-6-11|15 Automation and Scheduling changes in v2026.6.11]] · Digest
-- 2026-06-29 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-06-29-6-automation-and-scheduling-changes-in-v0-10-0|6 Automation and Scheduling changes in v0.10.0]] · Digest
-- 2026-06-25 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2026-06-25-2-automation-and-scheduling-changes-in-1-15-0|2 Automation and Scheduling changes in 1.15.0]] · Digest
-- 2026-06-24 · <span class="tl-product tl-p12">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-24-handle-wakeup-misfires-with-a-graceful-message-when-no-self-paced-schedule-is-ac|Handle wakeup misfires with a graceful message when no self-paced schedule is active]] · Change
-- 2026-06-23 · <span class="tl-product tl-p12">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-23-add-loop-alias-for-the-every-command|Add /loop alias for the /every command]] · Change
+- 2026-06-30 · <span class="tl-product tl-p13">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr auto now starts a self-paced loop that fixes one thing per run and paces itself…]] · Change
+- 2026-06-30 · <span class="tl-product tl-p25">**OpenClaw**</span> · [[Changes/OpenClaw/2026-06-30-15-automation-and-scheduling-changes-in-v2026-6-11|15 Automation and Scheduling changes in v2026.6.11]] · Digest
+- 2026-06-29 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-06-29-6-automation-and-scheduling-changes-in-v0-10-0|6 Automation and Scheduling changes in v0.10.0]] · Digest
+- 2026-06-26 · <span class="tl-product tl-p17">**Kimi Code**</span> · [[Changes/Kimi Code/2026-06-26-add-a-hint-to-the-per-turn-step-limit-error-pointing-users-to-the-loop-control-m|Add a hint to the per-turn step limit error pointing users…]] · Change
+- 2026-06-25 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2026-06-25-2-automation-and-scheduling-changes-in-1-15-0|2 Automation and Scheduling changes in 1.15.0]] · Digest
+- 2026-06-24 · <span class="tl-product tl-p13">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-24-handle-wakeup-misfires-with-a-graceful-message-when-no-self-paced-schedule-is-ac|Handle wakeup misfires with a graceful message when no self-paced schedule is active]] · Change
+- 2026-06-23 · <span class="tl-product tl-p13">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-23-add-loop-alias-for-the-every-command|Add /loop alias for the /every command]] · Change
 - 2026-06-22 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2026-06-22-26496-make-auto-review-on-request-prompt-more-proactive-maja-openai|♯26496 Make auto-review on-request prompt more proactive @maja-openai]] · Change
 - 2026-06-18 · <span class="tl-product tl-p6">**Cursor**</span> · [[Changes/Cursor/2026-06-18-cursor-automations-save-you-time-by-automating-repetitive-tasks-with-always-on-a|Cursor Automations save you time by automating repetitive tasks with always-on agents]] · Change
 - 2026-06-18 · <span class="tl-product tl-p6">**Cursor**</span> · [[Changes/Cursor/2026-06-18-2-automation-and-scheduling-changes-in-06-18-26|2 Automation and Scheduling changes in 06.18.26]] · Digest
 - 2026-06-17 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-06-17-users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af|Users can schedule work for specific times or broader windows, such as morning…]] · Change
 - 2026-06-17 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]] · Change
-- 2026-06-13 · <span class="tl-product tl-p12">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-13-every-and-after-can-now-schedule-slash-commands-e-g-every-1d-chronicle-standup|/every and /after can now schedule slash commands (e.g. /every 1d /chronicle standup)]] · Change
+- 2026-06-17 · <span class="tl-product tl-p17">**Kimi Code**</span> · [[Changes/Kimi Code/2026-06-17-restore-the-turn-counter-from-persisted-loop-events-on-resume-so-post-resume-tur|Restore the turn counter from persisted loop events on resume so post-resume turns…]] · Change
+- 2026-06-15 · <span class="tl-product tl-p17">**Kimi Code**</span> · [[Changes/Kimi Code/2026-06-15-do-not-carry-obsolete-legacy-loop-background-plan-yolo-or-unknown-experimental-f|Do not carry obsolete legacy loop, background, plan, yolo, or unknown experimental…]] · Change
+- 2026-06-13 · <span class="tl-product tl-p13">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-13-every-and-after-can-now-schedule-slash-commands-e-g-every-1d-chronicle-standup|/every and /after can now schedule slash commands (e.g. /every 1d /chronicle standup)]] · Change
 - 2026-06-10 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-06-10-stopped-promoting-loop-in-remote-sessions-where-pending-loops-don-t-keep-the-con|Stopped promoting /loop in remote sessions, where pending loops don't keep…]] · Change
 - 2026-06-09 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2026-06-09-plugin-marketplace-automation-is-more-informative-and-responsive-codex-plugin-ma|Plugin marketplace automation is more informative and responsive]] · Change
-- 2026-06-09 · <span class="tl-product tl-p12">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-09-use-natural-language-with-every-and-after-to-schedule-tasks-using-cron-expressio|Use natural language with /every and /after to schedule tasks using cron…]] · Change
+- 2026-06-09 · <span class="tl-product tl-p13">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-09-use-natural-language-with-every-and-after-to-schedule-tasks-using-cron-expressio|Use natural language with /every and /after to schedule tasks using cron…]] · Change
 - 2026-06-08 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows now opens immediately even while a turn is in progress]] · Change
 - 2026-06-04 · <span class="tl-product tl-p6">**Cursor**</span> · [[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable wait() on local runs]] · Change
-- 2026-06-02 · <span class="tl-product tl-p12">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental schedule prompts with /every and /after]] · Change
-- 2026-06-01 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-06-01-bulk-enable-or-disable-automations-automations-can-now-be-enabled-or-disabled-in|🔘 Bulk enable or disable automations. Automations can now be enabled or disabled…]] · Change
+- 2026-06-02 · <span class="tl-product tl-p13">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental schedule prompts with /every and /after]] · Change
+- 2026-06-02 · <span class="tl-product tl-p17">**Kimi Code**</span> · [[Changes/Kimi Code/2026-06-02-render-scheduled-reminders-distinctly-in-the-tui-expose-cron-fired-events-to-sdk|Render scheduled reminders distinctly in the TUI, expose cron fired events to SDK…]] · Change
+- 2026-06-01 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-06-01-bulk-enable-or-disable-automations-automations-can-now-be-enabled-or-disabled-in|🔘 Bulk enable or disable automations. Automations can now be enabled or disabled…]] · Change
 
 **2026-05**
 
-- 2026-05-28 · <span class="tl-product tl-p12">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule manager hint bar text no longer wraps over dialog borders when entries are added]] · Change
+- 2026-05-28 · <span class="tl-product tl-p13">**GitHub Copilot CLI**</span> · [[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule manager hint bar text no longer wraps over dialog borders when entries are added]] · Change
+- 2026-05-28 · <span class="tl-product tl-p17">**Kimi Code**</span> · [[Changes/Kimi Code/2026-05-28-2-automation-and-scheduling-changes-in-kimi-code-0-5-0|2 Automation and Scheduling changes in Kimi Code 0.5.0]] · Digest
 - 2026-05-20 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2026-05-20-codex-exec-resume-now-accepts-output-schema-so-resumed-automations-can-keep-sess|codex exec resume now accepts --output-schema, so resumed automations can keep…]] · Change
-- 2026-05-12 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2026-05-12-human-input-exposed-selected-action-values-for-human-in-the-loop-flows-thanks-bl|Human input — exposed selected action values for Human-in-the-loop flows]] · Change
-- 2026-05-09 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-05-09-2-automation-and-scheduling-changes-in-v0-9-3|2 Automation and Scheduling changes in v0.9.3]] · Digest
+- 2026-05-12 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2026-05-12-human-input-exposed-selected-action-values-for-human-in-the-loop-flows-thanks-bl|Human input — exposed selected action values for Human-in-the-loop flows]] · Change
+- 2026-05-09 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-05-09-2-automation-and-scheduling-changes-in-v0-9-3|2 Automation and Scheduling changes in v0.9.3]] · Digest
 - 2026-05-01 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-05-01-claude-code-skill-activated-opentelemetry-event-now-fires-for-user-typed-slash-c|claude_code.skill_activated OpenTelemetry event now fires for user-typed slash…]] · Change
 
 **2026-04**
 
-- 2026-04-29 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2026-04-29-3-automation-and-scheduling-changes-in-1-14-0|3 Automation and Scheduling changes in 1.14.0]] · Digest
-- 2026-04-24 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-04-24-automation-model-detection-the-create-automation-tool-now-correctly-detects-the|🧩 Automation model detection. The create_automation tool now correctly detects…]] · Change
-- 2026-04-23 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-04-23-feat-cli-extract-quotacontext-and-resolve-infinite-render-loop-by-adib234-in-htt|feat(cli): extract QuotaContext and resolve infinite render loop]] · Change
-- 2026-04-21 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-04-21-8-automation-and-scheduling-changes-in-v0-9-0|8 Automation and Scheduling changes in v0.9.0]] · Digest
+- 2026-04-29 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2026-04-29-3-automation-and-scheduling-changes-in-1-14-0|3 Automation and Scheduling changes in 1.14.0]] · Digest
+- 2026-04-24 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-04-24-automation-model-detection-the-create-automation-tool-now-correctly-detects-the|🧩 Automation model detection. The create_automation tool now correctly detects…]] · Change
+- 2026-04-23 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-04-23-feat-cli-extract-quotacontext-and-resolve-infinite-render-loop-by-adib234-in-htt|feat(cli): extract QuotaContext and resolve infinite render loop]] · Change
+- 2026-04-21 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-04-21-8-automation-and-scheduling-changes-in-v0-9-0|8 Automation and Scheduling changes in v0.9.0]] · Digest
 - 2026-04-17 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-04-17-improved-loop-pressing-esc-now-cancels-pending-wakeups-and-wakeups-display-as-cl|Improved /loop: pressing Esc now cancels pending wakeups, and wakeups display…]] · Change
 - 2026-04-15 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-04-15-resume-continue-now-resurrects-unexpired-scheduled-tasks|--resume/--continue now resurrects unexpired scheduled tasks]] · Change
 - 2026-04-13 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-04-13-proactive-is-now-an-alias-for-loop|/proactive is now an alias for /loop]] · Change
+- 2026-04-07 · <span class="tl-product tl-p31">**Z.ai API**</span> · [[Changes/Z.ai API/2026-04-07-designed-for-long-horizon-tasks-glm-5-1-can-work-independently-for-up-to-8-hours|Designed for long-horizon tasks, GLM-5.1 can work independently for up to 8 hours…]] · Change
 - 2026-04-02 · <span class="tl-product tl-p6">**Cursor**</span> · [[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced the browser automation tool surface and tightened the subagent to use…]] · Change
-- 2026-04-01 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-04-01-test-core-migrate-hook-tests-to-scheduler-by-abhipatel12-in-https-github-com-goo|test(core): migrate hook tests to scheduler]] · Change
+- 2026-04-01 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-04-01-test-core-migrate-hook-tests-to-scheduler-by-abhipatel12-in-https-github-com-goo|test(core): migrate hook tests to scheduler]] · Change
 
 **2026-03**
 
 - 2026-03-26 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-03-26-added-timestamp-markers-in-transcripts-when-scheduled-tasks-loop-croncreate-fire|Added timestamp markers in transcripts when scheduled tasks (/loop, CronCreate) fire]] · Change
 - 2026-03-26 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2026-03-26-2-automation-and-scheduling-changes-in-rust-v0-117-0|2 Automation and Scheduling changes in rust-v0.117.0]] · Digest
-- 2026-03-24 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-03-24-2-automation-and-scheduling-changes-in-v0-35-0|2 Automation and Scheduling changes in v0.35.0]] · Digest
+- 2026-03-24 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-03-24-2-automation-and-scheduling-changes-in-v0-35-0|2 Automation and Scheduling changes in v0.35.0]] · Digest
 - 2026-03-17 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-03-17-show-a-notice-when-apikeyhelper-takes-longer-than-10s-preventing-it-from-blockin|Show a notice when apiKeyHelper takes longer than 10s, preventing it from blocking…]] · Change
-- 2026-03-17 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2026-03-17-ci-add-weekly-schedule-for-pip-and-uv-ecosystems-by-asukaminato0721-in-https-git|ci: Add weekly schedule for pip and uv ecosystems]] · Change
-- 2026-03-17 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-03-17-2-automation-and-scheduling-changes-in-v0-34-0|2 Automation and Scheduling changes in v0.34.0]] · Digest
-- 2026-03-17 · <span class="tl-product tl-p18">**Ollama**</span> · [[Changes/Ollama/2026-03-17-scripts-automation-kick-off-automated-tasks-with-ollama-and-claude-code|Scripts/automation: Kick off automated tasks with Ollama and claude code]] · Change
+- 2026-03-17 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2026-03-17-ci-add-weekly-schedule-for-pip-and-uv-ecosystems-by-asukaminato0721-in-https-git|ci: Add weekly schedule for pip and uv ecosystems]] · Change
+- 2026-03-17 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-03-17-2-automation-and-scheduling-changes-in-v0-34-0|2 Automation and Scheduling changes in v0.34.0]] · Digest
+- 2026-03-17 · <span class="tl-product tl-p23">**Ollama**</span> · [[Changes/Ollama/2026-03-17-scripts-automation-kick-off-automated-tasks-with-ollama-and-claude-code|Scripts/automation: Kick off automated tasks with Ollama and claude code]] · Change
 - 2026-03-10 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-03-10-added-claude-code-disable-cron-environment-variable-to-immediately-stop-schedule|Added CLAUDE_CODE_DISABLE_CRON environment variable to immediately stop scheduled…]] · Change
 - 2026-03-10 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2026-03-10-2-automation-and-scheduling-changes-in-rust-v0-113-0|2 Automation and Scheduling changes in rust-v0.113.0]] · Digest
-- 2026-03-08 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-03-08-artifacts-reactive-loop-fix-fixed-an-infinite-reactive-loop-in-chat-when-artifac|♾️ Artifacts reactive loop fix. Fixed an infinite reactive loop in chat…]] · Change
+- 2026-03-08 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-03-08-artifacts-reactive-loop-fix-fixed-an-infinite-reactive-loop-in-chat-when-artifac|♾️ Artifacts reactive loop fix. Fixed an infinite reactive loop in chat…]] · Change
 - 2026-03-07 · <span class="tl-product tl-p3">**Claude Code**</span> · [[Changes/Claude Code/2026-03-07-added-cron-scheduling-tools-for-recurring-prompts-within-a-session|Added cron scheduling tools for recurring prompts within a session]] · Change
 - 2026-03-05 · <span class="tl-product tl-p6">**Cursor**</span> · [[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|Create automations at cursor.com/automations, or start from a template]] · Change
 - 2026-03-05 · <span class="tl-product tl-p6">**Cursor**</span> · [[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on-fb3c5d|Cursor now supports automations for building always-on agents that run based…]] · Change
 
 **2026-02**
 
-- 2026-02-27 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-02-27-migrate-core-render-util-to-use-xterm-js-as-part-of-the-rendering-loop-by-jacob3|Migrate core render util to use xterm.js as part of the rendering loop]] · Change
-- 2026-02-12 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|🔧 Async pipeline operations. Pipeline operations now run asynchronously instead…]] · Change
-- 2026-02-10 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-02-10-feat-core-add-setting-to-disable-loop-detection-by-sandytao520-in-https-github-c|feat(core): add setting to disable loop detection]] · Change
-- 2026-02-10 · <span class="tl-product tl-p21">**OpenCode**</span> · [[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core SessionPrompt.shell() now triggers loop if messages are queued]] · Change
-- 2026-02-04 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3 Automation and Scheduling changes in v0.27.0]] · Digest
+- 2026-02-27 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-02-27-migrate-core-render-util-to-use-xterm-js-as-part-of-the-rendering-loop-by-jacob3|Migrate core render util to use xterm.js as part of the rendering loop]] · Change
+- 2026-02-24 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2026-02-24-first-they-re-completely-autonomous-no-manual-prompting-just-give-them-a-job-set|First, they’re completely autonomous (no manual prompting)]] · Change
+- 2026-02-12 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|🔧 Async pipeline operations. Pipeline operations now run asynchronously instead…]] · Change
+- 2026-02-10 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-02-10-feat-core-add-setting-to-disable-loop-detection-by-sandytao520-in-https-github-c|feat(core): add setting to disable loop detection]] · Change
+- 2026-02-10 · <span class="tl-product tl-p26">**OpenCode**</span> · [[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core SessionPrompt.shell() now triggers loop if messages are queued]] · Change
+- 2026-02-04 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3 Automation and Scheduling changes in v0.27.0]] · Digest
 
 **2026-01**
 
-- 2026-01-28 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-01-28-12-automation-and-scheduling-changes-in-v0-26-0|12 Automation and Scheduling changes in v0.26.0]] · Digest
-- 2026-01-27 · <span class="tl-product tl-p24">**Suno**</span> · [[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and|Sounds is a new Create mode that lets you create individual one-shot samples…]] · Change
-- 2026-01-21 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-01-21-2-automation-and-scheduling-changes-in-v0-25-0|2 Automation and Scheduling changes in v0.25.0]] · Digest
-- 2026-01-19 · <span class="tl-product tl-p21">**OpenCode**</span> · [[Changes/OpenCode/2026-01-19-core-add-scheduler-and-cleanup-module|Core Add scheduler and cleanup module]] · Change
-- 2026-01-13 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2026-01-13-chore-deps-bump-scheduler-from-0-26-0-to-0-27-0-in-web-by-dependabot-bot-in-http|chore(deps): bump scheduler from 0.26.0 to 0.27.0 in /web…]] · Change
-- 2026-01-07 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-01-07-chore-core-remove-legacy-fallback-flags-and-migrate-loop-detection-by-adamfweidm|chore(core): remove legacy fallback flags and migrate loop detection]] · Change
+- 2026-01-28 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-01-28-12-automation-and-scheduling-changes-in-v0-26-0|12 Automation and Scheduling changes in v0.26.0]] · Digest
+- 2026-01-27 · <span class="tl-product tl-p30">**Suno**</span> · [[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and|Sounds is a new Create mode that lets you create individual one-shot samples…]] · Change
+- 2026-01-21 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-01-21-2-automation-and-scheduling-changes-in-v0-25-0|2 Automation and Scheduling changes in v0.25.0]] · Digest
+- 2026-01-19 · <span class="tl-product tl-p26">**OpenCode**</span> · [[Changes/OpenCode/2026-01-19-core-add-scheduler-and-cleanup-module|Core Add scheduler and cleanup module]] · Change
+- 2026-01-13 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2026-01-13-chore-deps-bump-scheduler-from-0-26-0-to-0-27-0-in-web-by-dependabot-bot-in-http|chore(deps): bump scheduler from 0.26.0 to 0.27.0 in /web…]] · Change
+- 2026-01-07 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2026-01-07-chore-core-remove-legacy-fallback-flags-and-migrate-loop-detection-by-adamfweidm|chore(core): remove legacy fallback flags and migrate loop detection]] · Change
 
 </details>
 
 </details>
 
 <details class="disclosure">
-<summary>2025 · 48 entries (ChatGPT 2 · Cline 2 · Codex CLI 3 · Dify 7 · ElevenLabs 3 · Gamma 2 · Gemini 1 · Gemini CLI 16 · Granola 1 · Manus 1 · Midjourney 1 · Open WebUI 8 · OpenHands 1)</summary>
+<summary>2025 · 55 entries (ChatGPT 2 · Cline 2 · Codex CLI 3 · Dify 7 · ElevenLabs 3 · Gamma 2 · Gemini 1 · Gemini CLI 16 · Granola 1 · HeyGen 1 · Manus 1 · Midjourney 1 · Notion 6 · Open WebUI 8 · OpenHands 1)</summary>
+
+**2025-11**
+
+- 2025-11-30 · <span class="tl-product tl-p16">**HeyGen**</span> · [[Changes/HeyGen/2025-11-30-more-natural-movements|More natural movements]] · Launch
 
 **2025-09**
 
-- 2025-09-16 · <span class="tl-product tl-p9">**Gamma**</span> · [[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta|Gamma API: Automate your creative workflow (Beta)]] · Launch
-- 2025-09-01 · <span class="tl-product tl-p8">**ElevenLabs**</span> · [[Changes/ElevenLabs/2025-09-01-python-sdk|Python SDK]] · Launch
-- 2025-09-01 · <span class="tl-product tl-p8">**ElevenLabs**</span> · [[Changes/ElevenLabs/2025-09-01-javascript-sdk|JavaScript SDK]] · Launch
-- 2025-09-01 · <span class="tl-product tl-p8">**ElevenLabs**</span> · [[Changes/ElevenLabs/2025-09-01-sound-effects|Sound Effects]] · Launch
+- 2025-09-18 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2025-09-18-notion-ai-will-write-your-formulas|Notion AI will write your formulas]] · Launch
+- 2025-09-16 · <span class="tl-product tl-p10">**Gamma**</span> · [[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta|Gamma API: Automate your creative workflow (Beta)]] · Launch
+- 2025-09-01 · <span class="tl-product tl-p9">**ElevenLabs**</span> · [[Changes/ElevenLabs/2025-09-01-python-sdk|Python SDK]] · Launch
+- 2025-09-01 · <span class="tl-product tl-p9">**ElevenLabs**</span> · [[Changes/ElevenLabs/2025-09-01-javascript-sdk|JavaScript SDK]] · Launch
+- 2025-09-01 · <span class="tl-product tl-p9">**ElevenLabs**</span> · [[Changes/ElevenLabs/2025-09-01-sound-effects|Sound Effects]] · Launch
 
 **2025-08**
 
-- 2025-08-29 · <span class="tl-product tl-p9">**Gamma**</span> · [[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations|Ready to get started?]] · Launch
+- 2025-08-29 · <span class="tl-product tl-p10">**Gamma**</span> · [[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations|Ready to get started?]] · Launch
+- 2025-08-19 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2025-08-19-create-and-manage-tasks-right-in-notion-calendar|Create and manage tasks right in Notion Calendar]] · Launch
 
 **2025-06**
 
-- 2025-06-19 · <span class="tl-product tl-p10">**Gemini**</span> · [[Changes/Gemini/2025-06-19-plan-ahead-with-scheduled-actions|Plan ahead with scheduled actions]] · Launch
-- 2025-06-13 · <span class="tl-product tl-p16">**Manus**</span> · [[Changes/Manus/2025-06-13-let-manus-handle-routine-and-repetitive-work-reclaim-your-time-and-elevate-your|Introducing Manus Scheduled Task]] · Launch
+- 2025-06-19 · <span class="tl-product tl-p11">**Gemini**</span> · [[Changes/Gemini/2025-06-19-plan-ahead-with-scheduled-actions|Plan ahead with scheduled actions]] · Launch
+- 2025-06-13 · <span class="tl-product tl-p19">**Manus**</span> · [[Changes/Manus/2025-06-13-let-manus-handle-routine-and-repetitive-work-reclaim-your-time-and-elevate-your|Introducing Manus Scheduled Task]] · Launch
+
+**2025-04**
+
+- 2025-04-15 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2025-04-15-schedule-meetings-instantly|Schedule meetings instantly]] · Launch
+
+**2025-02**
+
+- 2025-02-18 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2025-02-18-do-more-with-recurring-tasks|Do more with recurring tasks]] · Launch
+- 2025-02-18 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2025-02-18-more-improvements-to-start-the-year|More improvements to start the year!]] · Launch
+- 2025-02-18 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2025-02-18-more-reasons-to-replace-your-scheduling-app|More reasons to replace your scheduling app]] · Launch
 
 <details class="disclosure">
 <summary>Fixes, digests and other changes · 41 (ChatGPT 2 · Cline 2 · Codex CLI 3 · Dify 7 · Gemini CLI 16 · Granola 1 · Midjourney 1 · Open WebUI 8 · OpenHands 1)</summary>
 
 **2025-12**
 
-- 2025-12-21 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2025-12-21-external-reranker-operations-were-optimized-to-prevent-event-loop-blocking-by-of|⚡ External reranker operations were optimized to prevent event loop blocking…]] · Change
+- 2025-12-21 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2025-12-21-external-reranker-operations-were-optimized-to-prevent-event-loop-blocking-by-of|⚡ External reranker operations were optimized to prevent event loop blocking…]] · Change
 - 2025-12-18 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2025-12-18-7961-refactor-tui-event-loop-to-enable-dropping-recreating-crossterm-event-strea|♯7961 refactor TUI event loop to enable dropping + recreating crossterm event stream]] · Change
 - 2025-12-17 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]] · Change
-- 2025-12-11 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2025-12-11-admin-api-keys-skip-csrf-automation-now-flows-smoother-than-espresso|Admin API Keys skip CSRF — automation now flows smoother than espresso]] · Change
+- 2025-12-11 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2025-12-11-admin-api-keys-skip-csrf-automation-now-flows-smoother-than-espresso|Admin API Keys skip CSRF — automation now flows smoother than espresso]] · Change
 
 **2025-11**
 
-- 2025-11-13 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2025-11-13-2-automation-and-scheduling-changes-in-1-10-0|2 Automation and Scheduling changes in 1.10.0]] · Digest
-- 2025-11-07 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-11-07-feat-prevent-self-imports-and-fix-build-loop-by-mattkorwel-in-https-github-com-g|feat: Prevent self-imports and fix build loop]] · Change
-- 2025-11-04 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-11-04-revert-nightly-schedule-by-skeshive-in-https-github-com-google-gemini-gemini-cli|revert nightly schedule]] · Change
+- 2025-11-13 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2025-11-13-2-automation-and-scheduling-changes-in-1-10-0|2 Automation and Scheduling changes in 1.10.0]] · Digest
+- 2025-11-07 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-11-07-feat-prevent-self-imports-and-fix-build-loop-by-mattkorwel-in-https-github-com-g|feat: Prevent self-imports and fix build loop]] · Change
+- 2025-11-04 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-11-04-revert-nightly-schedule-by-skeshive-in-https-github-com-google-gemini-gemini-cli|revert nightly schedule]] · Change
 
 **2025-10**
 
 - 2025-10-30 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2025-10-30-chore-decompose-submission-loop-in-https-github-com-openai-codex-pull-5854|chore: decompose submission loop in (source link)]] · Change
-- 2025-10-29 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-10-29-2-automation-and-scheduling-changes-in-v0-11-0|2 Automation and Scheduling changes in v0.11.0]] · Digest
-- 2025-10-15 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-10-15-cleanup-useselectionlist-and-fix-infinite-loop-in-debug-mode-issues-by-jacob314|Cleanup useSelectionList and fix infinite loop in debug mode issues]] · Change
+- 2025-10-29 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-10-29-2-automation-and-scheduling-changes-in-v0-11-0|2 Automation and Scheduling changes in v0.11.0]] · Digest
+- 2025-10-15 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-10-15-cleanup-useselectionlist-and-fix-infinite-loop-in-debug-mode-issues-by-jacob314|Cleanup useSelectionList and fix infinite loop in debug mode issues]] · Change
 
 **2025-09**
 
-- 2025-09-24 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-09-24-3-automation-and-scheduling-changes-in-v0-6-0|3 Automation and Scheduling changes in v0.6.0]] · Digest
-- 2025-09-22 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2025-09-22-5-automation-and-scheduling-changes-in-1-9-0|5 Automation and Scheduling changes in 1.9.0]] · Digest
+- 2025-09-24 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-09-24-3-automation-and-scheduling-changes-in-v0-6-0|3 Automation and Scheduling changes in v0.6.0]] · Digest
+- 2025-09-22 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2025-09-22-5-automation-and-scheduling-changes-in-1-9-0|5 Automation and Scheduling changes in 1.9.0]] · Digest
 
 **2025-08**
 
-- 2025-08-27 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2025-08-27-loop-exit-conditions-fixed-loop-exit-condition-to-accept-variables-from-nodes-in|Loop Exit Conditions]] · Change
+- 2025-08-27 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2025-08-27-loop-exit-conditions-fixed-loop-exit-condition-to-accept-variables-from-nodes-in|Loop Exit Conditions]] · Change
 - 2025-08-26 · <span class="tl-product tl-p5">**Codex CLI**</span> · [[Changes/Codex CLI/2025-08-26-2692-do-not-schedule-frames-for-tui-draw-events-in-backtrack|♯2692 do not schedule frames for Tui::Draw events in backtrack]] · Change
-- 2025-08-14 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-08-14-8-automation-and-scheduling-changes-in-v0-1-21|8 Automation and Scheduling changes in v0.1.21]] · Digest
-- 2025-08-12 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-08-12-2-automation-and-scheduling-changes-in-v0-1-19|2 Automation and Scheduling changes in v0.1.19]] · Digest
-- 2025-08-09 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2025-08-09-customizable-floating-quick-actions-with-tool-support-take-full-control-of-your|✍️ Customizable Floating Quick Actions with Tool Support]] · Change
-- 2025-08-06 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-08-06-6-automation-and-scheduling-changes-in-v0-1-18|6 Automation and Scheduling changes in v0.1.18]] · Digest
-- 2025-08-05 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-08-05-6-automation-and-scheduling-changes-in-v0-1-17|6 Automation and Scheduling changes in v0.1.17]] · Digest
-- 2025-08-02 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-08-02-5-automation-and-scheduling-changes-in-v0-1-16|5 Automation and Scheduling changes in v0.1.16]] · Digest
+- 2025-08-14 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-08-14-8-automation-and-scheduling-changes-in-v0-1-21|8 Automation and Scheduling changes in v0.1.21]] · Digest
+- 2025-08-12 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-08-12-2-automation-and-scheduling-changes-in-v0-1-19|2 Automation and Scheduling changes in v0.1.19]] · Digest
+- 2025-08-09 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2025-08-09-customizable-floating-quick-actions-with-tool-support-take-full-control-of-your|✍️ Customizable Floating Quick Actions with Tool Support]] · Change
+- 2025-08-06 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-08-06-6-automation-and-scheduling-changes-in-v0-1-18|6 Automation and Scheduling changes in v0.1.18]] · Digest
+- 2025-08-05 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-08-05-6-automation-and-scheduling-changes-in-v0-1-17|6 Automation and Scheduling changes in v0.1.17]] · Digest
+- 2025-08-02 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-08-02-5-automation-and-scheduling-changes-in-v0-1-16|5 Automation and Scheduling changes in v0.1.16]] · Digest
 
 **2025-07**
 
-- 2025-07-30 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-07-30-4-automation-and-scheduling-changes-in-v0-1-15|4 Automation and Scheduling changes in v0.1.15]] · Digest
-- 2025-07-28 · <span class="tl-product tl-p14">**Granola**</span> · [[Changes/Granola/2025-07-28-granola-is-now-connected-with-zapier-so-you-can-connect-your-notes-to-over-8-000|Your meeting notes, now connected with 8,000+ apps]] · Change
-- 2025-07-25 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-07-25-4-automation-and-scheduling-changes-in-v0-1-14|4 Automation and Scheduling changes in v0.1.14]] · Digest
-- 2025-07-25 · <span class="tl-product tl-p17">**Midjourney**</span> · [[Changes/Midjourney/2025-07-25-to-make-a-looping-video-use-loop-in-the-prompt|To make a looping video, use --loop in the prompt]] · Change
+- 2025-07-30 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-07-30-4-automation-and-scheduling-changes-in-v0-1-15|4 Automation and Scheduling changes in v0.1.15]] · Digest
+- 2025-07-28 · <span class="tl-product tl-p15">**Granola**</span> · [[Changes/Granola/2025-07-28-granola-is-now-connected-with-zapier-so-you-can-connect-your-notes-to-over-8-000|Your meeting notes, now connected with 8,000+ apps]] · Change
+- 2025-07-25 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-07-25-4-automation-and-scheduling-changes-in-v0-1-14|4 Automation and Scheduling changes in v0.1.14]] · Digest
+- 2025-07-25 · <span class="tl-product tl-p21">**Midjourney**</span> · [[Changes/Midjourney/2025-07-25-to-make-a-looping-video-use-loop-in-the-prompt|To make a looping video, use --loop in the prompt]] · Change
 - 2025-07-22 · <span class="tl-product tl-p4">**Cline**</span> · [[Changes/Cline/2025-07-22-automate-announcement-display-for-major-minor-releases-by-kvyb-in-https-github-c|automate announcement display for major.minor releases]] · Change
-- 2025-07-19 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-07-19-2-automation-and-scheduling-changes-in-v0-1-13|2 Automation and Scheduling changes in v0.1.13]] · Digest
-- 2025-07-14 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2025-07-14-2-automation-and-scheduling-changes-in-v0-6-16|2 Automation and Scheduling changes in v0.6.16]] · Digest
-- 2025-07-11 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-07-11-feat-handle-inline-content-modification-in-tool-scheduler-by-adamfweidman-in-htt|feat: Handle inline content modification in tool scheduler]] · Change
-- 2025-07-02 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-07-02-feat-core-add-infinite-loop-protection-to-client-by-allenhutchison-in-https-gith|feat(core): Add infinite loop protection to client]] · Change
-- 2025-07-01 · <span class="tl-product tl-p11">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-07-01-refactor-use-for-of-loop-instead-of-traditional-for-loop-by-noritaka1166-in-http|refactor: use for...of loop instead of traditional for loop]] · Change
+- 2025-07-19 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-07-19-2-automation-and-scheduling-changes-in-v0-1-13|2 Automation and Scheduling changes in v0.1.13]] · Digest
+- 2025-07-14 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2025-07-14-2-automation-and-scheduling-changes-in-v0-6-16|2 Automation and Scheduling changes in v0.6.16]] · Digest
+- 2025-07-11 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-07-11-feat-handle-inline-content-modification-in-tool-scheduler-by-adamfweidman-in-htt|feat: Handle inline content modification in tool scheduler]] · Change
+- 2025-07-02 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-07-02-feat-core-add-infinite-loop-protection-to-client-by-allenhutchison-in-https-gith|feat(core): Add infinite loop protection to client]] · Change
+- 2025-07-01 · <span class="tl-product tl-p12">**Gemini CLI**</span> · [[Changes/Gemini CLI/2025-07-01-refactor-use-for-of-loop-instead-of-traditional-for-loop-by-noritaka1166-in-http|refactor: use for...of loop instead of traditional for loop]] · Change
 
 **2025-06**
 
-- 2025-06-16 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2025-06-16-direct-tool-server-input-accepts-empty-strings-you-can-now-submit-direct-tool-se|⚙️ Direct Tool Server Input Accepts Empty Strings]] · Change
+- 2025-06-16 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2025-06-16-direct-tool-server-input-accepts-empty-strings-you-can-now-submit-direct-tool-se|⚙️ Direct Tool Server Input Accepts Empty Strings]] · Change
 
 **2025-05**
 
-- 2025-05-15 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2025-05-15-refactor-workflow-revamp-logging-module-for-loop-iteration-nodes-by-auxpd-in-htt|refactor(workflow): revamp logging module for loop & iteration nodes]] · Change
-- 2025-05-07 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2025-05-07-made-proactive-conversation-starters-for-cloud-resolver-configurable-on-a-per-us|Made proactive conversation starters for Cloud Resolver configurable on a per-user basis]] · Change
-- 2025-05-05 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2025-05-05-more-robust-action-module-execution-multiple-actions-in-a-module-now-trigger-as|🛠️ More Robust Action Module Execution]] · Change
+- 2025-05-15 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2025-05-15-refactor-workflow-revamp-logging-module-for-loop-iteration-nodes-by-auxpd-in-htt|refactor(workflow): revamp logging module for loop & iteration nodes]] · Change
+- 2025-05-07 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2025-05-07-made-proactive-conversation-starters-for-cloud-resolver-configurable-on-a-per-us|Made proactive conversation starters for Cloud Resolver configurable on a per-user basis]] · Change
+- 2025-05-05 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2025-05-05-more-robust-action-module-execution-multiple-actions-in-a-module-now-trigger-as|🛠️ More Robust Action Module Execution]] · Change
 
 **2025-04**
 
-- 2025-04-13 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2025-04-13-elixir-code-highlighting-support-elixir-syntax-is-now-beautifully-rendered-in-co|🧠 Elixir Code Highlighting Support]] · Change
-- 2025-04-09 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2025-04-09-5-automation-and-scheduling-changes-in-1-2-0|5 Automation and Scheduling changes in 1.2.0]] · Digest
+- 2025-04-13 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2025-04-13-elixir-code-highlighting-support-elixir-syntax-is-now-beautifully-rendered-in-co|🧠 Elixir Code Highlighting Support]] · Change
+- 2025-04-09 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2025-04-09-5-automation-and-scheduling-changes-in-1-2-0|5 Automation and Scheduling changes in 1.2.0]] · Digest
 
 **2025-03**
 
-- 2025-03-11 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2025-03-11-feature-newnew-workflow-loop-node-by-woo0ood-in-https-github-com-langgenius-dify|Feature/newnew workflow loop node]] · Change
+- 2025-03-11 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2025-03-11-feature-newnew-workflow-loop-node-by-woo0ood-in-https-github-com-langgenius-dify|Feature/newnew workflow loop node]] · Change
 
 **2025-02**
 
-- 2025-02-14 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2025-02-14-2-automation-and-scheduling-changes-in-v0-5-12|2 Automation and Scheduling changes in v0.5.12]] · Digest
+- 2025-02-14 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2025-02-14-2-automation-and-scheduling-changes-in-v0-5-12|2 Automation and Scheduling changes in v0.5.12]] · Digest
 
 **2025-01**
 
 - 2025-01-14 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]] · Change
 - 2025-01-06 · <span class="tl-product tl-p4">**Cline**</span> · [[Changes/Cline/2025-01-06-there-is-now-a-see-new-changes-button-when-cline-completes-a-task-giving-you-an|There is now a ‘See new changes’ button when Cline completes a task, giving you…]] · Change
-- 2025-01-05 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2025-01-05-action-functions-restored-corrected-an-issue-preventing-action-functions-from-wo|🛠️ Action Functions Restored]] · Change
+- 2025-01-05 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2025-01-05-action-functions-restored-corrected-an-issue-preventing-action-functions-from-wo|🛠️ Action Functions Restored]] · Change
 
 </details>
 
 </details>
 
 <details class="disclosure">
-<summary>2024 · 14 entries (Dify 8 · Gemini 1 · Midjourney 1 · Open WebUI 3 · OpenHands 1)</summary>
+<summary>2024 · 20 entries (Dify 8 · Gemini 1 · Midjourney 1 · Notion 6 · Open WebUI 3 · OpenHands 1)</summary>
+
+**2024-12**
+
+- 2024-12-05 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2024-12-05-automate-1-000-workflows-with-webhook-actions|Automate 1,000+ workflows with webhook actions]] · Launch
+
+**2024-10**
+
+- 2024-10-24 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2024-10-24-automate-more-actions-with-formulas|Automate more actions with formulas]] · Launch
+- 2024-10-24 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2024-10-24-automations-can-now-send-emails|Automations can now send emails]] · Launch
 
 **2024-08**
 
-- 2024-08-28 · <span class="tl-product tl-p10">**Gemini**</span> · [[Changes/Gemini/2024-08-28-gemini-advanced-and-gemini-for-google-workspace-add-on-priority-access-introduci|Gemini Advanced and Gemini for Google Workspace add-on priority access]] · Launch
+- 2024-08-28 · <span class="tl-product tl-p11">**Gemini**</span> · [[Changes/Gemini/2024-08-28-gemini-advanced-and-gemini-for-google-workspace-add-on-priority-access-introduci|Gemini Advanced and Gemini for Google Workspace add-on priority access]] · Launch
+- 2024-08-13 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2024-08-13-smarter-more-flexible-automations|Smarter, more flexible automations]] · Launch
+
+**2024-04**
+
+- 2024-04-30 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2024-04-30-automate-notifications-for-projects|Automate notifications for projects]] · Launch
+
+**2024-02**
+
+- 2024-02-26 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2024-02-26-automate-with-database-buttons|Automate with database buttons]] · Launch
 
 **2024-01**
 
-- 2024-01-19 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As per the planned schedule, these deprecated envs are being removed]] · Policy
+- 2024-01-19 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As per the planned schedule, these deprecated envs are being removed]] · Policy
 
 <details class="disclosure">
 <summary>Fixes, digests and other changes · 12 (Dify 7 · Midjourney 1 · Open WebUI 3 · OpenHands 1)</summary>
 
 **2024-12**
 
-- 2024-12-25 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2024-12-25-structured-output-for-ollama-pass-structured-data-output-directly-to-ollama-unlo|✅ Structured Output for Ollama]] · Change
-- 2024-12-03 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2024-12-03-update-the-scheduler-of-update-tidb-serverless-status-task-to-1-10min-by-johnjyo|update the scheduler of update_tidb_serverless_status_task to 1/10min]] · Change
+- 2024-12-25 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2024-12-25-structured-output-for-ollama-pass-structured-data-output-directly-to-ollama-unlo|✅ Structured Output for Ollama]] · Change
+- 2024-12-03 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2024-12-03-update-the-scheduler-of-update-tidb-serverless-status-task-to-1-10min-by-johnjyo|update the scheduler of update_tidb_serverless_status_task to 1/10min]] · Change
 
 **2024-09**
 
-- 2024-09-19 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2024-09-19-enhanced-automatic1111-settings-users-can-now-configure-cfg-scale-sampler-and-sc|🔧 Enhanced AUTOMATIC1111 Settings]] · Change
-- 2024-09-04 · <span class="tl-product tl-p22">**OpenHands**</span> · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]] · Change
+- 2024-09-19 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2024-09-19-enhanced-automatic1111-settings-users-can-now-configure-cfg-scale-sampler-and-sc|🔧 Enhanced AUTOMATIC1111 Settings]] · Change
+- 2024-09-04 · <span class="tl-product tl-p27">**OpenHands**</span> · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]] · Change
 
 **2024-08**
 
-- 2024-08-14 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2024-08-14-docs-remove-all-meeting-schedule-links-by-guchenhe-in-https-github-com-langgeniu|Docs/remove all meeting schedule links]] · Change
+- 2024-08-14 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2024-08-14-docs-remove-all-meeting-schedule-links-by-guchenhe-in-https-github-com-langgeniu|Docs/remove all meeting schedule links]] · Change
 
 **2024-07**
 
-- 2024-07-23 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2024-07-23-update-celery-beat-scheduler-time-to-env-by-johnjyong-in-https-github-com-langge|update celery beat scheduler time to env]] · Change
-- 2024-07-15 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2024-07-15-refactor-api-switch-to-dify-config-with-pydantic-in-controllers-and-schedule-by|refactor(api): switch to dify_config with Pydantic in controllers and schedule]] · Change
+- 2024-07-23 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2024-07-23-update-celery-beat-scheduler-time-to-env-by-johnjyong-in-https-github-com-langge|update celery beat scheduler time to env]] · Change
+- 2024-07-15 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2024-07-15-refactor-api-switch-to-dify-config-with-pydantic-in-controllers-and-schedule-by|refactor(api): switch to dify_config with Pydantic in controllers and schedule]] · Change
 
 **2024-06**
 
-- 2024-06-02 · <span class="tl-product tl-p19">**Open WebUI**</span> · [[Changes/Open WebUI/2024-06-02-pipelines-support-open-webui-now-includes-a-plugin-framework-for-enhanced-custom|🔧 Pipelines Support]] · Change
+- 2024-06-02 · <span class="tl-product tl-p24">**Open WebUI**</span> · [[Changes/Open WebUI/2024-06-02-pipelines-support-open-webui-now-includes-a-plugin-framework-for-enhanced-custom|🔧 Pipelines Support]] · Change
 
 **2024-04**
 
-- 2024-04-08 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2024-04-08-targeting-automation-and-batch-processing-this-is-ideal-for-translation-data-ana|Targeting Automation and Batch Processing]] · Change
+- 2024-04-08 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2024-04-08-targeting-automation-and-batch-processing-this-is-ideal-for-translation-data-ana|Targeting Automation and Batch Processing]] · Change
 
 **2024-03**
 
-- 2024-03-13 · <span class="tl-product tl-p17">**Midjourney**</span> · [[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey @everyone @here we need to halt our free-gpu rewards for image-ranking until…]] · Change
+- 2024-03-13 · <span class="tl-product tl-p21">**Midjourney**</span> · [[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey @everyone @here we need to halt our free-gpu rewards for image-ranking until…]] · Change
 
 **2024-01**
 
-- 2024-01-04 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter schedule timedelta]] · Change
-- 2024-01-02 · <span class="tl-product tl-p7">**Dify**</span> · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]] · Change
+- 2024-01-04 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter schedule timedelta]] · Change
+- 2024-01-02 · <span class="tl-product tl-p8">**Dify**</span> · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]] · Change
 
 </details>
+
+</details>
+
+<details class="disclosure" open>
+<summary>2023 · 4 entries (Notion 4)</summary>
+
+**2023-11**
+
+- 2023-11-14 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2023-11-14-stay-in-the-loop-on-projects|Stay in the loop on projects]] · Launch
+
+**2023-09**
+
+- 2023-09-22 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2023-09-22-automate-workflows-in-a-database|Automate workflows in a database]] · Launch
+
+**2023-05**
+
+- 2023-05-31 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2023-05-31-notifications-to-stay-in-the-loop|Notifications to stay in the loop]] · Launch
+
+**2023-03**
+
+- 2023-03-23 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2023-03-23-automate-manual-tasks-with-buttons|Automate manual tasks with buttons]] · Launch
+
+</details>
+
+<details class="disclosure" open>
+<summary>2022 · 1 entry (Notion 1)</summary>
+
+**2022-03**
+
+- 2022-03-03 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2022-03-03-the-api-is-out-of-beta|The API is out of beta]] · Launch
+
+</details>
+
+<details class="disclosure" open>
+<summary>2021 · 2 entries (Notion 2)</summary>
+
+**2021-09**
+
+- 2021-09-08 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2021-09-08-exciting-news-we-re-acquiring-automate-io|Exciting news! We're acquiring Automate.io!]] · Launch
+
+**2021-05**
+
+- 2021-05-13 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2021-05-13-automate-io-integration|Automate.io integration]] · Launch
+
+</details>
+
+<details class="disclosure" open>
+<summary>2020 · 1 entry (Notion 1)</summary>
+
+**2020-11**
+
+- 2020-11-19 · <span class="tl-product tl-p22">**Notion**</span> · [[Changes/Notion/2020-11-19-automate-user-and-group-provisioning-with-notion-s-scim-api|Automate user and group provisioning with Notion's SCIM API 🔁]] · Launch
+
+</details>
+
+<details class="disclosure" open>
+<summary>2019 · 2 entries (Descript 2)</summary>
+
+**2019-10**
+
+- 2019-10-14 · <span class="tl-product tl-p7">**Descript**</span> · [[Changes/Descript/2019-10-14-video-and-volume-automation-ui-improvements-and-bug-fixes|Video and volume automation UI improvements and bug fixes]] · Change
+
+**2019-09**
+
+- 2019-09-18 · <span class="tl-product tl-p7">**Descript**</span> · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]] · Change
 
 </details>
 

@@ -4,20 +4,20 @@ date: '2026-04-15'
 description: 'Codex CLI · 2026-04-15 · Safety and Privacy: 10 changes in 0.121.0 —
   Expanded MCP/plugin support with MCP Apps tool calls, namespaced MCP registration…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1095
+  lag_days: 2087
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 74a8a4572b114ea90a74620dc52b03861f61f1f8a85f86dc6bde84eaf4912b14
+machine_hash: 560cb8380df63726794f1dd86630af59f8e0ca9e45deda10297ad19bc9752138
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,12 +61,12 @@ record:
   title: 10 Safety and Privacy changes in rust-v0.121.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-14-2-safety-and-privacy-changes-in-v2-1-108|2 Safety
-  and Privacy changes in v2.1.108]]'
 - '[[Changes/Gemini CLI/2026-04-14-3-safety-and-privacy-changes-in-v0-38-0|3 Safety
   and Privacy changes in v0.38.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-14-permission-prompt-notification-hook-only-fires-when-a-prompt-is-actually-shown-t|Permission
   prompt notification hook only fires when a prompt is actually shown to the user]]'
+- '[[Changes/Notion/2026-04-14-new-database-permission-can-create-pages|New database
+  permission: “Can create pages”]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-15-rust-v0-121-0-github-309557036-bb698f03|codex-cli-2026-04-15-rust-v0-121-0-github-309557036-bb698f03]]'
 source_type: github_releases
 theme: safety-privacy
@@ -126,14 +126,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.121.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-14-permission-prompt-notification-hook-only-fires-when-a-prompt-is-actually-shown-t|Permission prompt notification hook only fires when a prompt is actually shown to the user]]
+- Earlier: 2026-04-14 · Notion · [[Changes/Notion/2026-04-14-new-database-permission-can-create-pages|New database permission: “Can create pages”]]
 - Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-added-less-permission-prompts-skill-scans-transcripts-for-common-read-only-bash|Added /less-permission-prompts skill]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

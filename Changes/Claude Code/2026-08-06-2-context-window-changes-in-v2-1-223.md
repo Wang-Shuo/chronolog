@@ -4,20 +4,20 @@ date: '2026-08-06'
 description: 'Claude Code · 2026-08-06 · Context Window: 2 changes in v2.1.223 — Changed
   `CLAUDE_CODE_DISABLE_1M_CONTEXT` to hold every Claude model with a native 1M window…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1190
+  lag_days: 2514
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cda04c7984a738ec3217dcede8ede043e734d1f6db3dd7b160d4379c44cd23f1
+machine_hash: 385c8c623be95a5dab3104b87f00629e49f8b5cb716e5c13e9318f958953dadf
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Context Window changes in v2.1.223
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical-1bd022|If
-  you paste more than 10k characters into the composer, ChatGPT will automatically…]]'
 - '[[Changes/Claude Code/2026-08-04-improved-stats-panel-to-count-cache-tokens-in-its-token-totals-with-a-breakdown|Improved
   Stats panel to count cache tokens in its token totals, with a breakdown…]]'
+- '[[Changes/Kimi Code/2026-08-04-add-a-token-counting-config-section-when-a-provider-doesn-t-report-token-usage-s|Add
+  a token_counting config section]]'
 - '[[Changes/Cline/2026-08-05-recover-from-running-out-of-context-instead-of-failing-with-a-raw-provider-error|Recover
   from running out of context instead of failing with a raw provider error]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

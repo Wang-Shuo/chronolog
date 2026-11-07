@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-10-13 · Multimodal Input: Muse Wonder. Meta user
   select Muse Wonder with text and image input and max thinking. Spark 1.3 Standard
   also…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1120
+  lag_days: 2888
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: edeb50aa3ebdd1d9eec7536dc685a2951431bab2fad2a777684964dc15bb9a27
+machine_hash: 82fdbd851276ae9ff9fc90cf270065fd9bf4d4c0eb47edfb65e29ec24dd423bb
 product: openclaw
 product_name: OpenClaw
 record:
@@ -49,11 +49,11 @@ record:
     and max thinking
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-10-video-previews-new-video-previews-can-download-media-before-play|Video
-  previews: New video previews can download media before Play]]'
-- '[[Changes/ElevenLabs/2026-10-12-music|Music]]'
-- '[[Changes/Ollama/2026-10-12-added-support-for-multimodal-embeddings-through-llama-server|Added
-  support for multimodal embeddings through llama-server]]'
+- '[[Changes/HeyGen/2026-10-13-smaller-improvements|Smaller improvements]]'
+- '[[Changes/HeyGen/2026-10-13-create-templates-through-the-api|Create templates through
+  the API]]'
+- '[[Changes/HeyGen/2026-10-13-here-s-what-s-new-in-heygen-this-month-admins-can-now-set-usage-limits-for-each|Here''s
+  what''s new in HeyGen this month]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-13-v2026-10-3-54cedb60|openclaw-2026-10-13-v2026-10-3-54cedb60]]'
 source_type: openclaw_changelog
 theme: multimodal
@@ -92,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-added-support-for-multimodal-embeddings-through-llama-server|Added support for multimodal embeddings through llama-server]]
+- Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-here-s-what-s-new-in-heygen-this-month-admins-can-now-set-usage-limits-for-each|Here's what's new in HeyGen this month]]
 - Later: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-video-to-music|Video to Music]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

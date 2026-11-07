@@ -4,20 +4,20 @@ date: '2025-09-22'
 description: 'ChatGPT · 2025-09-22 · Image Generation: More messages, larger file
   uploads, and expanded image generation'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 561
+  lag_days: 819
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 249e6a5fcca4a6f9f3e71003e2234755b28b7524ec4432747ac7f85ae4c0dcf8
+machine_hash: 917fafc13bac99b27a83c6f281492b0f4f1b5e1a911ef93da48e1ec398f9020d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +43,8 @@ record:
   title: More messages, larger file uploads, and expanded image generation
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-08-26-reimagine-your-photos-with-a-prompt|Reimagine your
-  photos with a prompt]]'
+- '[[Changes/Descript/2025-08-29-new-in-image-generation-nano-banana|New in image
+  generation—Nano Banana]]'
 - "[[Changes/Open WebUI/2025-09-09-azure-openai-image-generation-is-now-supported-with-configurations-for-images-op|\U0001F3A8
   Azure OpenAI image generation is now supported, with configurations…]]"
 - '[[Changes/Open WebUI/2025-09-17-models-can-now-be-configured-with-default-features-web-search-image-generation-a|⚙️
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-models-can-now-be-configured-with-default-features-web-search-image-generation-a|⚙️ Models can now be configured with default features (Web Search, Image Generation)…]]
-- Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-image-generation-model-selection-was-centralized-to-enable-dynamic-model-overrid|🎨 Image generation model selection was centralized to enable dynamic model override…]]
+- Later: 2025-09-24 · Descript · [[Changes/Descript/2025-09-24-image-generation-models|Image generation models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

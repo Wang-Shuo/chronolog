@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d5393e62e38ce1d0636d51e40f9b438be02f3c2bfda574b14e6c2d3f779e4913
+machine_hash: 28dfb0ce778d2125d567c148bd695d6024738f1a2d551963364e2083360b06df
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,12 +73,12 @@ record:
   title: Releasing GPT-4.1 in ChatGPT for all paid users
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-05-10-clear-alerts-for-private-task-models-when-interacting-with-private-task-models-t|\U0001F6A8
-  Clear Alerts for Private Task Models]]"
 - '[[Changes/Cline/2025-05-12-update-gemini-in-openrouter-cline-providers-to-use-implicit-caching|Update
   Gemini in OpenRouter/Cline providers to use implicit caching]]'
 - '[[Changes/OpenHands/2025-05-12-enabled-prompt-caching-for-claude-3-7-sonnet-model-through-openrouter-by-polly20|Enabled
   prompt caching for claude-3.7-sonnet model through OpenRouter]]'
+- '[[Changes/Notion/2025-05-13-chat-directly-with-the-latest-ai-models|Chat directly
+  with the latest AI models]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa|chatgpt-2025-05-14-releasing-gpt-4-1-in-chatgpt-for-all-paid-users-ab6fd3aa]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-enabled-prompt-caching-for-claude-3-7-sonnet-model-through-openrouter-by-polly20|Enabled prompt caching for claude-3.7-sonnet model through OpenRouter]]
+- Earlier: 2025-05-13 · Notion · [[Changes/Notion/2025-05-13-chat-directly-with-the-latest-ai-models|Chat directly with the latest AI models]]
 - Later: 2025-05-14 · ChatGPT · [[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users]]
 <!-- chronolog:end -->
 

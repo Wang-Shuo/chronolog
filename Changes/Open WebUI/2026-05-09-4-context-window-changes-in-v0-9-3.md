@@ -4,20 +4,20 @@ date: '2026-05-09'
 description: "Open WebUI · 2026-05-09 · Context Window: 4 changes in v0.9.3 — \U0001F465
   **User group prompt variable.** System and template prompts now support the \"{{USER_GROUPS}}\"…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1101
+  lag_days: 2425
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5e5798c293e25c9c024c25575572a9670cd31f1a8b1739bab4701684075977f
+machine_hash: e397e8f3771dd8273759323650086f4c6f1e46092650cc1a220c423c412748cf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -122,7 +122,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

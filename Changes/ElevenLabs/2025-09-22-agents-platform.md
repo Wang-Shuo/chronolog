@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 314f99540964a132518650b68e64f92210d00106ef71135be30d7b90f020bcdb
+machine_hash: 610a55617fe3d1abf71a1359d47ef67a3c55ab26e539398e228f254aa0cac616
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -56,10 +56,10 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-17-feat-core-only-summarize-long-tool-output-for-shell-command-by-sandytao520-in-ht|feat(core):
-  Only summarize long tool output for shell command]]'
-- '[[Changes/Codex CLI/2025-09-18-2-agent-mode-changes-in-rust-v0-39-0|2 Agent Mode
-  changes in rust-v0.39.0]]'
+- '[[Changes/Notion/2025-09-18-anything-you-can-do-in-notion-your-agent-can-do-across-dozens-of-pages-at-once|Anything
+  you can do in Notion, your Agent can do (across dozens of pages at once)]]'
+- '[[Changes/Notion/2025-09-18-notion-3-0-is-here-we-ve-rebuilt-notion-ai-from-the-ground-up-as-agents|Notion
+  3.0 is here! We’ve rebuilt Notion AI from the ground up as Agents]]'
 - '[[Changes/Replit/2025-09-19-autonomy-level-control-for-agent|Autonomy level control
   for Agent]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-09-22-2025-09-22-3e42db14|elevenlabs-2025-09-22-2025-09-22-3e42db14]]'

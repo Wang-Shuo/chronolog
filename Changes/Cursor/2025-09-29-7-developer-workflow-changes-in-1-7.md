@@ -4,19 +4,20 @@ date: '2025-09-29'
 description: 'Cursor · 2025-09-29 · Developer Workflow: 7 changes in Browser Controls,
   Plan Mode, and Hooks — Code pasted from files and the terminal is now explicitly…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 926
+  lag_days: 2575
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d7c37b28e02bf520977e9f872841542e5327add0cb5efc3edb2520f6b4f511c6
+machine_hash: ccc262b6d4dc56683f2c515101fc194ab2018fef94a1a437de5d3b62a392747e
 product: cursor
 product_name: Cursor
 record:
@@ -126,7 +127,7 @@ Source: https://cursor.com/changelog/1-7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

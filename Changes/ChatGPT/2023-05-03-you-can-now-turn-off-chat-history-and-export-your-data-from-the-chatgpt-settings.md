@@ -4,20 +4,20 @@ date: '2023-05-03'
 description: 'ChatGPT · 2023-05-03 · Interface Experience: You can now turn off chat
   history and export your data from the ChatGPT settings. Conversations that are started…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 114
+  lag_days: 1480
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6bbfb6251aa02467e9394e48721c1b1304c436ca73509376ce117da8f33402d3
+machine_hash: b9595596c4f603531e4fab82a9d1670acb16d4a96e3d54db55b9381f0ef14a4c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,11 +55,12 @@ record:
   title: Turn off chat history and export your data from the ChatGPT settings
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-23-3-interface-experience-changes-in-0-1-5|3 Interface
-  Experience changes in 0.1.5]]'
-- '[[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes
-  autoupdate to notify you when there''s a new version]]'
-- '[[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]]'
+- '[[Changes/Descript/2023-04-03-search-highlights-you-can-now-search-for-highlights-even-without-entering-a-sear|Search
+  highlights: You can now search for highlights even without entering…]]'
+- '[[Changes/Synthesia/2023-04-04-cool-updates-for-the-studio-library-one-stop-shop-for-all-assets-easy-template-p|STUDIO
+  Library update]]'
+- '[[Changes/Descript/2023-04-17-duplicate-to-now-copies-over-the-layout-and-all-overlapping-layers-from-the-orig|Duplicate
+  to…: Now copies over the layout and all overlapping layers…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-03-updates-to-chatgpt-0d776ee3|chatgpt-2023-05-03-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -88,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-cleaned-up-chat-styling|Cleaned up chat styling]]
+- Earlier: 2023-04-17 · Descript · [[Changes/Descript/2023-04-17-duplicate-to-now-copies-over-the-layout-and-all-overlapping-layers-from-the-orig|Duplicate to…: Now copies over the layout and all overlapping layers…]]
 - Later: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-added-the-ability-to-hide-the-tooltip-cursor-config-advanced-chat-edit-tooltip|Added the ability to hide the tooltip (Cursor config  Advanced  Chat/Edit Tooltip)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

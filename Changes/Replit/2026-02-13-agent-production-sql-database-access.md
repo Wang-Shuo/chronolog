@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 59545bc73d99b37041b929fa023d75b72d2f880a682dd04da9717d33afce1969
+machine_hash: 5bc3d78ddd40657c08e86ba905f2f38e9e6b516d55ab036c66de0b93b2b3ce37
 product: replit
 product_name: Replit
 record:
@@ -47,12 +47,12 @@ record:
   title: Agent production SQL database access
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running
-  Agents in Research Preview]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents
   return complete responses]]'
 - '[[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support
   Claude agent SDK-style structured outputs in the OpenCode SDK]]'
+- '[[Changes/HeyGen/2026-02-13-describe-the-video-you-want-in-natural-language-video-agent-handles-the-rest-scr|Describe
+  the video you want in natural language]]'
 source_release: '[[Releases/Replit/replit-2026-02-13-2026-02-13-6a679506|replit-2026-02-13-2026-02-13-6a679506]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support Claude agent SDK-style structured outputs in the OpenCode SDK]]
+- Earlier: 2026-02-13 · HeyGen · [[Changes/HeyGen/2026-02-13-describe-the-video-you-want-in-natural-language-video-agent-handles-the-rest-scr|Describe the video you want in natural language]]
 - Later: 2026-02-16 · ElevenLabs · [[Changes/ElevenLabs/2026-02-16-widget-packages|Widget Packages]]
 <!-- chronolog:end -->
 

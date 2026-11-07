@@ -4,20 +4,20 @@ date: '2026-09-03'
 description: 'Codex CLI · 2026-09-03 · Context Window: 6 changes in 0.153.0 — Adds
   the disabled-by-default `features.context_management.experimental_mode` configuration…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1218
+  lag_days: 2542
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e209c3bc71fb7f69b5163578f9202611ca0216b71a36354081dc2fd6a3a0a029
+machine_hash: 592dffb57e9107a831dddfa4397b5d4e7948016abc7eb20287613d9ee3536a68
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -123,7 +123,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.153.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

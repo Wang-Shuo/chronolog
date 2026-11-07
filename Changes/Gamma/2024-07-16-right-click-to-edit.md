@@ -4,20 +4,19 @@ date: '2024-07-16'
 description: 'Gamma · 2024-07-16 · Editor Experience: You can now access editing in
   present mode by right-clicking.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 490
+  lag_days: 2074
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 818a6ce978fbaf502300804bb6c0770486900a6aec6a8f44fb68ac31851e851a
+machine_hash: 756a41365052c71b82240575b9beea56af73b83d026ff379ec2462827da45d11
 product: gamma
 product_name: Gamma
 record:
@@ -43,10 +42,9 @@ record:
   title: Right-click to edit
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience
-  changes in 0.6.12]]'
 - '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
   changes in 0.7.0]]'
+- '[[Changes/Descript/2024-07-02-editor-updates|Editor updates]]'
 - '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer
   (beta)]]'
 source_release: '[[Releases/Gamma/gamma-2024-07-16-6695b52506341d26ee59eab7-321dfb31|gamma-2024-07-16-6695b52506341d26ee59eab7-321dfb31]]'
@@ -84,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

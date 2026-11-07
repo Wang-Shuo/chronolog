@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b1547c4d6a1b476194c46247bf07d4e2916e6e5fbdbbd08d4f803e742f1de85e
+machine_hash: 0a456e00a21c7b14f0eacfea8b500299dd85f9d3e32f2c2b0eb370657f1c2879
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: Allow selecting Cline free models on the ClinePass provider, organized…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-6-model-support-changes-in-v1-0-69|6 Model
-  Support changes in v1.0.69]]'
 - '[[Changes/Lovable/2026-07-07-nano-banana-2-lite-image-model-for-ai-features-in-your-app|Nano
   Banana 2 Lite image model for AI features in your app]]'
 - '[[Changes/Codex CLI/2026-07-08-14-model-support-changes-in-rust-v0-143-0|14 Model
   Support changes in rust-v0.143.0]]'
+- '[[Changes/Kimi Code/2026-07-08-2-model-support-changes-in-kimi-code-0-23-2|2 Model
+  Support changes in Kimi Code 0.23.2]]'
 source_release: '[[Releases/Cline/cline-2026-07-09-v4-0-7-github-351278875-29c28c0c|cline-2026-07-09-v4-0-7-github-351278875-29c28c0c]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-14-model-support-changes-in-rust-v0-143-0|14 Model Support changes in rust-v0.143.0]]
+- Earlier: 2026-07-08 · Kimi Code · [[Changes/Kimi Code/2026-07-08-2-model-support-changes-in-kimi-code-0-23-2|2 Model Support changes in Kimi Code 0.23.2]]
 - Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-8-model-support-changes-in-rust-v0-144-0|8 Model Support changes in rust-v0.144.0]]
 <!-- chronolog:end -->
 

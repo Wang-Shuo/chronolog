@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-05-28 · Developer Workflow: `/simplify` now r
   a cleanup-only review (reuse, simplification, efficiency, altitude) and applies
   the fixes…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1167
+  lag_days: 2816
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa27142274bbe17c37f19ff02a08b6411b2e045ec1c45a431e8addc5916a7beb
+machine_hash: 77e51dd548862d7ecacbd0120d04f5178dd1dffe98eb1ce10347a45d6741ead0
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +45,10 @@ record:
   title: '`/simplify` now runs a cleanup-only review…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added
-  /reload-skills command to re-scan skill directories without restarting the session]]'
 - '[[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core):
   expose RAG snippets to local log file for debugging]]'
+- '[[Changes/Kimi Code/2026-05-27-3-developer-workflow-changes-in-kimi-code-0-4-0|3
+  Developer Workflow changes in Kimi Code 0.4.0]]'
 - '[[Changes/OpenCode/2026-05-27-3-developer-workflow-changes-in-v1-15-11|3 Developer
   Workflow changes in v1.15.11]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-03-12'
 description: 'OpenCode · 2026-03-12 · Editor Experience: Desktop Skip editor reconcile
   during IME composition'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1094
+  lag_days: 2678
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dbe1f236e6877cc2b0381eab7e83d9c560fabb9eae1701218227c4452e5f60e2
+machine_hash: 061d73d2e1c7ea3906e11d34538cfc7c06796f64a1fc22733d18b612734205d3
 product: opencode
 product_name: OpenCode
 record:
@@ -40,10 +39,10 @@ record:
   title: Desktop Skip editor reconcile during IME composition
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-09-improved-the-custom-design-system-editor-interface|Improved
-  the Custom Design System editor interface]]'
-- '[[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode:
-  Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-expanded-ai-skill-inferencing-for-e3-and-e5-users-windows-web-microsoft-365-copi|Expanded
+  AI skill inferencing for E3 and E5 users Windows…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-edit-images-in-powerpoint-with-designer-editor-windows-web-mac-powerpoint|Edit
+  images in PowerPoint with Designer Editor Windows, Web, Mac (PowerPoint)]]'
 - '[[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document
   node limitation for shift+tab]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-12-v1-2-25-4fca2d35|opencode-2026-03-12-v1-2-25-4fca2d35]]'
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

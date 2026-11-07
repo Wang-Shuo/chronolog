@@ -4,20 +4,20 @@ date: '2026-04-23'
 description: 'Codex CLI · 2026-04-23 · Files and Data: #18423 chore: document intentional
   await-holding cases @bolinfest'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1064
+  lag_days: 2409
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d459fc1d39952d8480e6d3565f30cd72ebe3c18ad506d0c0a8bacf8d8df8f8c4
+machine_hash: 730e955f798cea74b69882e7de1b6efdf417d5952a91bba3298caeab6f9df60b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: '#18423 chore: document intentional await-holding cases @bolinfest'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor
-  can now respond by creating interactive canvases]]'
+- '[[Changes/Descript/2026-04-16-locked-layers-https-help-descript-com-hc-en-us-articles-17461277756941-lock-laye|Locked…]]'
 - '[[Changes/ElevenLabs/2026-04-20-text-to-dialogue|Text to Dialogue]]'
 - '[[Changes/Open WebUI/2026-04-21-3-files-and-data-changes-in-v0-9-0|3 Files and
   Data changes in v0.9.0]]'
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

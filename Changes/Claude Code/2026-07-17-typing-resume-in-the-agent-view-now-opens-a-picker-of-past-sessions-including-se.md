@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-07-17 · Interface Experience: Typing `/resume
   the agent view now opens a picker of past sessions — including sessions deleted
   from the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1285
+  lag_days: 2651
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e6a3f662542f293b6c7ec823460e0aba82c0e7d24cca408d76291af94f2bfbb2
+machine_hash: a28dda843e1c6115395c50a15f1f80f3f2328dd00e405e46303a97fa211a1613
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,8 @@ record:
   title: Typing `/resume` in the agent view now opens a picker of past sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved
-  terminal layout and rendering performance]]'
+- '[[Changes/Kimi Code/2026-07-15-kimi-p-now-stays-alive-by-default-while-background-tasks-are-pending-with-no-eff|kimi
+  -p now stays alive by default while background tasks are pending, with no…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5
   Interface Experience changes in v1.0.71]]'
 - '[[Changes/OpenCode/2026-07-16-added-an-up-arrow-shortcut-to-close-the-subagent-picker-when-the-first-item-is-s|Added
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

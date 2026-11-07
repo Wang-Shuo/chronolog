@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-06-30 · Presentation Creation: Word, PowerPoint,
   Excel document reads and writes now use the intended .docx , .pptx , or .xlsx path
   instead…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 748
+  lag_days: 1817
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc67ed8ad4287648698fef4d713481ee2dd8ba7082f8aad8c6d95ac1fc20a2a4
+machine_hash: 3c57403a687e2c328accf09bebc4de96099cd2ffac30dfe751f0d6a9046076e6
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,12 +47,12 @@ record:
     .docx…
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-05-29-export-fixes-across-the-board|Export fixes across the
-  board]]'
-- '[[Changes/Gamma/2026-06-12-export-quality-keeps-getting-better|Export quality keeps
-  getting better]]'
 - '[[Changes/Gamma/2026-06-12-svg-images-in-exports-finally-work-everywhere|SVG images
   in exports finally work everywhere]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-use-copilot-to-get-a-detailed-and-contextual-explanation-for-shapes-and-images-w|Use
+  Copilot to get a detailed and contextual explanation for shapes and images…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-edit-with-copilot-for-powerpoint-uses-enterprise-assets-hosted-on-multiple-share|Edit
+  with Copilot for PowerPoint uses enterprise assets hosted on multiple…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-06-30-v2026-6-11-23cb95a9|openclaw-2026-06-30-v2026-6-11-23cb95a9]]'
 source_type: openclaw_changelog
 theme: presentation-creation
@@ -103,14 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Presentation Creation
 
-- Earlier: 2026-06-12 · Gamma · [[Changes/Gamma/2026-06-12-svg-images-in-exports-finally-work-everywhere|SVG images in exports finally work everywhere]]
-- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-2-presentation-creation-changes-in-v2026-7-1|2 Presentation Creation changes in v2026.7.1]]
+- Earlier: 2026-06-16 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-16-edit-with-copilot-for-powerpoint-uses-enterprise-assets-hosted-on-multiple-share|Edit with Copilot for PowerPoint uses enterprise assets hosted on multiple…]]
+- Later: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-mai-image-2-efficient-is-now-available-in-copilot-in-powerpoint-windows-mac-web|MAI‑Image‑2‑Efficient is now available in Copilot in PowerPoint Windows, Mac…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

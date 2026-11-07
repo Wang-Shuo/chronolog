@@ -4,20 +4,20 @@ date: '2026-02-10'
 description: 'OpenCode · 2026-02-10 · Interface Experience: 4 changes in v1.1.54 —
   Core Correct prefix selection for amazon-bedrock provider in getSmallModel'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1128
+  lag_days: 2494
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f60899ac778123df44d15ec45e19a1f7204f1644bbbcd8c35884a19b36955de2
+machine_hash: bb454d3f804e3910072bfd24438ed7768ce0f7dddcecd857ed0f90d04523ed74
 product: opencode
 product_name: OpenCode
 record:
@@ -46,8 +46,7 @@ record:
   title: 4 Interface Experience changes in v1.1.54
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved
-  terminal rendering performance]]'
+- '[[Changes/Descript/2026-02-10-re-size-your-sidebar|Re-size your sidebar]]'
 - '[[Changes/Gemini CLI/2026-02-10-2-interface-experience-changes-in-v0-28-0|2 Interface
   Experience changes in v0.28.0]]'
 - '[[Changes/OpenCode/2026-02-10-desktop-don-t-close-sidebar-on-session-change|Desktop
@@ -108,7 +107,7 @@ Source: https://opencode.ai/changelog/v1.1.54
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

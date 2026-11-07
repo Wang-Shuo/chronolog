@@ -4,20 +4,20 @@ date: '2026-03-24'
 description: 'Gemini CLI · 2026-03-24 · Safety and Privacy: 5 changes in Release v0.35.0
   — feat(core): integrate SandboxManager to sandbox all process-spawning tools by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1073
+  lag_days: 2065
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 33f8054b6a8864118588b33a3a2d23894d3bb75c6844edfc87053b1f6d95991b
+machine_hash: 79b468876b152e03923b3141dcfd56a2d353aecde923ede00922349bc6bb1519
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.35.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

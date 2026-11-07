@@ -5,19 +5,20 @@ description: 'Dify · 2025-12-11 · Developer Workflow: 2 changes in v1.11.0 - Y
   knowledge base just went from mono to full HD — > Please use the following command
   instead…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 999
+  lag_days: 2648
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9242e13f4a4c776ffdb73d67981c4521aeb23ec2149848841770d86039925d1b
+machine_hash: 300bf1ae93eb139af54d395ab48d2b7c26ed85bcc9643ec80a5bd30bce0a13ba
 product: dify
 product_name: Dify
 record:
@@ -101,7 +102,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

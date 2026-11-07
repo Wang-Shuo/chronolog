@@ -4,20 +4,20 @@ date: '2026-09-24'
 description: 'Cline · 2026-09-24 · Search and Browsing: On Windows, @-mention search
   results now show the right file names. Nested files such as a subfolder''s README…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1281
+  lag_days: 2310
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d7733c45f1f4d5e50d8287f9733bd4f948849e0869d06c971af3811d247e3d3
+machine_hash: 5d4ebd8aa8fc0f4de24190784d08526c28406855f18ccb489ddd5e043c63f4fe
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: On Windows, @-mention search results now show the right file names
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-2-search-and-browsing-changes-in-rust-v0-156-0|2
-  Search and Browsing changes in rust-v0.156.0]]'
 - '[[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved
   /deep-research reliability on long research briefs by removing unused…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-see-email-attachments-as-pills-in-copilot-search-results-windows-web-microsoft-3|See
+  email attachments as pills in Copilot search results Windows…]]'
 - '[[Changes/OpenClaw/2026-09-23-3-search-and-browsing-changes-in-v2026-9-6|3 Search
   and Browsing changes in v2026.9.6]]'
 source_release: '[[Releases/Cline/cline-2026-09-24-v4-1-21-github-395862160-2e42664e|cline-2026-09-24-v4-1-21-github-395862160-2e42664e]]'
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

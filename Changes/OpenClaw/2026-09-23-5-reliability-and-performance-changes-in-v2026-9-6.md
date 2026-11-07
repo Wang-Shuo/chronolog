@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'OpenClaw · 2026-09-23 · Reliability and Performance: 5 changes in v2026.9.6
   — OpenClaw 2026.9.6 brings clearer managed-update outcomes, recovery for unfinished…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1378
+  lag_days: 2865
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72ea8f2dbee0ccab3971ca0cb7731a27d3d3b43f0bd9594cce1b1c9b67cb022a
+machine_hash: 81c7b28bb5214bdf726a2ba82acec78b75272d6094c4c0ef2055742caf675efe
 product: openclaw
 product_name: OpenClaw
 record:
@@ -68,9 +68,9 @@ record:
   title: 5 Reliability and Performance changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-22-discovering-skills-and-other-customizations-is-now-dramatically-faster-on-large|Discovering
-  skills and other customizations is now dramatically faster on large…]]'
 - '[[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]'
+- '[[Changes/Kimi Code/2026-09-23-reduce-the-cli-s-startup-time-and-memory-usage|Reduce
+  the CLI''s startup time and memory usage]]'
 - '[[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2
   Reliability and Performance changes in v0.34.4]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-23-v2026-9-6-3f12c824|openclaw-2026-09-23-v2026-9-6-3f12c824]]'
@@ -140,7 +140,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

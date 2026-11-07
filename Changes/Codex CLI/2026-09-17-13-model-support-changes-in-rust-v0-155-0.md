@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f53bc29c385d7f798dc988276f0ad3d9761b4ee4c9c45f637f3ea0077c4b6df2
+machine_hash: ddb112993b1012c3bb5c52682173f271fb6c4640b49db3bfbd7754045da993b0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -144,7 +144,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.155.0
 ## Nearby in Model Support
 
 - Earlier: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-13-model-support-changes-in-v4-1-19|13 Model Support changes in v4.1.19]]
-- Later: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-expanded-reasoning-text-in-the-compact-timeline-is-no-longer-dimmed-so-it-is-as|Expanded reasoning text in the compact timeline is no longer dimmed, so it…]]
+- Later: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-a-better-center-active-speaker|A better center active speaker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

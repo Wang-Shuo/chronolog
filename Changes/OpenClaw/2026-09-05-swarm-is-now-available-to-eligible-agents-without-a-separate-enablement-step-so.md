@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9d2bd3a42b685af7a7e6e4c5327c65bc15d3494bcb84614c87b7238afef74826
+machine_hash: d735951dc3e98f78635d1fa51d4f10f48c51468a7d833988b101b6b27fb480d8
 product: openclaw
 product_name: OpenClaw
 record:
@@ -52,8 +52,8 @@ record:
   title: Swarm is now available to eligible agents without a separate enablement step…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret|Stopping
-  a timed-out shell command now lets queued messages run and sessions return…]]'
+- '[[Changes/Kimi Code/2026-09-04-2-agent-mode-changes-in-kimi-code-0-41-0|2 Agent
+  Mode changes in Kimi Code 0.41.0]]'
 - '[[Changes/Replit/2026-09-04-understand-app-usage-with-project-analytics|Understand
   app usage with Project Analytics]]'
 - '[[Changes/Runway/2026-09-04-team-is-a-new-self-serve-plan-for-small-teams-that-create-together-in-runway-eve|Introducing

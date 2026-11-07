@@ -4,20 +4,20 @@ date: '2023-08-15'
 description: 'Dify · 2023-08-15 · Safety and Privacy: fix: frontend permission check
   by @MatriQ in https://github.com/langgenius/dify/pull/784'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 121
+  lag_days: 1113
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: d7a681c18bb897ed6e3642a798ca05b2acd58ce832c7b43a9b25ceb9f5f5b1ac
+machine_hash: 3940134f105e2e7e7cd32651622ea86ed9e2ab7d0b85eeda9ef5a857a8661a30
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,7 @@ record:
   title: 'fix: frontend permission check'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-  mode for opting out of storing any kind of data on our servers]]'
+- '[[Changes/Notion/2023-04-27-mention-groups|mention groups]]'
 - '[[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor
   is now based on version 1.79.2 of VSCodium, which comes with security updates…]]'
 - '[[Changes/Aider/2023-07-24-encourage-gpt-to-use-language-like-add-files-to-the-chat-to-ask-users-for-permis|Encourage
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

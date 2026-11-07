@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 90991d73e4b8e3b571dcca990501a4a52e619136f177d74e6c240254cd4b20ae
+machine_hash: 86ad65e43a73f8d175ec3f583fd29bde844e99a07fb75a159654a82784129281
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -84,9 +84,10 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-03-agent|Agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-06-2-agent-mode-changes-in-v1-0-19|2 Agent
   Mode changes in v1.0.19]]'
+- '[[Changes/HeyGen/2026-04-06-open-video-agent-type-your-prompt-and-generate-seedance-footage-will-automatical|Open
+  Video Agent, type your prompt, and generate]]'
 - '[[Changes/ElevenLabs/2026-04-07-new-endpoints|New Endpoints]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-07-2026-04-07-1ced55b5|elevenlabs-2026-04-07-2026-04-07-1ced55b5]]'
 source_type: elevenlabs_changelog
@@ -160,7 +161,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-2-agent-mode-changes-in-v1-0-19|2 Agent Mode changes in v1.0.19]]
+- Earlier: 2026-04-06 · HeyGen · [[Changes/HeyGen/2026-04-06-open-video-agent-type-your-prompt-and-generate-seedance-footage-will-automatical|Open Video Agent, type your prompt, and generate]]
 - Later: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-spinner-no-longer-appears-stuck-when-a-long-running-async-shell-command-is-activ|Spinner no longer appears stuck when a long-running async shell command is active]]
 <!-- chronolog:end -->
 

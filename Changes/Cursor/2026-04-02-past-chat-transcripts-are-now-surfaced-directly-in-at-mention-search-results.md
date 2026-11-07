@@ -4,20 +4,20 @@ date: '2026-04-02'
 description: 'Cursor · 2026-04-02 · Search and Browsing: Past chat transcripts are
   now surfaced directly in at-mention search results.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1106
+  lag_days: 2135
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b6ea138d1ce19c08674d3452c19cf5639fa765ac52468cf2f9af9d9c791cdd8
+machine_hash: 4a749046175c26e3671ae992550d2e2b193e8a450c77469a95a5e5476445ef5a
 product: cursor
 product_name: Cursor
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep and glob search results return promptly when a timeout is reached]]
-- Later: 2026-04-08 · ChatGPT · [[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|Outlook shared mailboxes and calendars in ChatGPT]]
+- Later: 2026-04-07 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-07-code-interpreter-now-works-on-files-found-via-chat-search-microsoft-365-copilot|Code interpreter now works on files found via Chat search…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-03-10'
 description: 'Codex CLI · 2026-03-10 · Image Generation: Image generation now saves
   output files into the current working directory. (#13607)'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 730
+  lag_days: 988
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 33903f33dfb10f48c9492d33f7ccb59033ab2ff01c9f95b015c967835c62212b
+machine_hash: b9bf9d420244e7a2f5d7fb736da7c61e8b8a533bef30ee03f3e54a518cd1f28d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Image generation now saves output files into the current working directory
   type: change
 related_changes:
-- '[[Changes/Runway/2026-02-27-the-most-advanced-and-consistent-image-generation-and-editing-model-now-availabl|Nano
-  Banana 2]]'
+- '[[Changes/Descript/2026-03-02-new-in-image-generation-nano-banana-2|New in image
+  generation—Nano Banana 2]]'
 - '[[Changes/Codex CLI/2026-03-05-expanded-image-workflow-support-for-clients-including-client-side-handling-of-im|Expanded
   image workflow support for clients, including client-side handling…]]'
 - "[[Changes/Open WebUI/2026-03-08-image-generation-in-temporary-chats-generated-images-now-display-correctly-in-te|\U0001F58C️
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

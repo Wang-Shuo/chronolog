@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e37bdf4bc48e5a52d65ea3ec0383d8c4d4a70214d4932b121425fbc4cfa188c4
+machine_hash: 47dbd1fd0f65c2927581f27442b75338a73ccd815d79842b5acec614ab0f9f74
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-new-schemas|New Schemas]]
-- Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-agent-mode-changes-in-v2-1-20|2 Agent Mode changes in v2.1.20]]
+- Later: 2026-01-26 · HeyGen · [[Changes/HeyGen/2026-01-26-the-new-and-improved-video-agent|The new and improved Video Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

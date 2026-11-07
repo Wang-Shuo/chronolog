@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14580766c791c1b1aedd1cba1f11f17628ce7ab2579991a9eb3f28aeb383ceaa
+machine_hash: 5c27d3d8ba3e65dd8d9ae452cca2dee08dd702be2f29374b3a1e36d44d06323d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.24
 ## Nearby in Model Support
 
 - Earlier: 2024-09-23 · Ollama · [[Changes/Ollama/2024-09-23-2-model-support-changes-in-v0-3-12|2 Model Support changes in v0.3.12]]
-- Later: 2024-09-26 · Open WebUI · [[Changes/Open WebUI/2024-09-26-o1-max-completion-tokens-issue-resolved-compatibility-issues-with-openai-s-o1-mo|🔧 O1 Max Completion Tokens Issue]]
+- Later: 2024-09-25 · Notion · [[Changes/Notion/2024-09-25-chat-about-anything|Chat about anything]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

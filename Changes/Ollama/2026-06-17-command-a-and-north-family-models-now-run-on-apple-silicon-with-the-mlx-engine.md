@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f19c6c387b83f15dd4bd93aeb7631e0d2176b87b2bbca34abb5bbcf1c141fe9b
+machine_hash: ef37cde3a12df973d7cf366f662d8cc8dd71037463da4a532b81d67a92714306
 product: ollama
 product_name: Ollama
 record:
@@ -42,11 +42,12 @@ record:
   title: Command A and North family models now run on Apple Silicon with the MLX engine
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-4-model-support-changes-in-rust-v0-140-0|4 Model
-  Support changes in rust-v0.140.0]]'
-- '[[Changes/ElevenLabs/2026-06-15-introducing-music-v2|Introducing Music v2]]'
+- '[[Changes/Kimi Code/2026-06-15-2-model-support-changes-in-kimi-code-0-15-0|2 Model
+  Support changes in Kimi Code 0.15.0]]'
 - '[[Changes/Midjourney/2026-06-16-use-preview-to-test-new-features|Use --preview
   to test new features]]'
+- '[[Changes/Kimi Code/2026-06-17-group-the-default-model-dropdown-in-web-settings-by-provider|Group
+  the default model dropdown in web settings by provider]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-17-v0-30-10-github-340587039-e18d776f|ollama-2026-06-17-v0-30-10-github-340587039-e18d776f]]'
 source_type: github_releases
 theme: model-support
@@ -75,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-16 · Midjourney · [[Changes/Midjourney/2026-06-16-use-preview-to-test-new-features|Use --preview to test new features]]
+- Earlier: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-group-the-default-model-dropdown-in-web-settings-by-provider|Group the default model dropdown in web settings by provider]]
 - Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]]
 <!-- chronolog:end -->
 

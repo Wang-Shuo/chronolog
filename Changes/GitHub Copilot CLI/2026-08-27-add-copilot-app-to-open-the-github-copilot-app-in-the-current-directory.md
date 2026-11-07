@@ -4,20 +4,19 @@ date: '2026-08-27'
 description: 'GitHub Copilot CLI · 2026-08-27 · Editor Experience: Add `copilot app`
   to open the GitHub Copilot app in the current directory'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1262
+  lag_days: 2846
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3be120d10e7ea2dbb51b67a581b249fac92dbb5522ab2cbaf3857aca136e3de0
+machine_hash: 82d9ef5d6dbc739fa666f3e31d8144767e1ca7a77f42c25a8c9897c52a0b1456
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +42,8 @@ record:
   title: Add `copilot app` to open the GitHub Copilot app in the current directory
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-4-editor-experience-changes-in-1-17-0|4 Editor Experience
-  changes in 1.17.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-unified-web-and-work-chat-experience-with-dedicated-work-iq-button-windows-web-m|Unified
+  web and work chat experience with dedicated Work IQ button Windows…]]'
 - '[[Changes/Open WebUI/2026-08-25-12-editor-experience-changes-in-v0-11-1|12 Editor
   Experience changes in v0.11.1]]'
 - '[[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn
@@ -93,13 +92,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-27 · Cursor · [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn it into a real repo, whenever you want]]
-- Later: 2026-08-27 · Midjourney · [[Changes/Midjourney/2026-08-27-click-edit-in-the-lower-right-in-the-lightbox|Click ‘edit’ in the lower right in the lightbox]]
+- Later: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-web-add-a-flat-by-workspace-tab-to-the-mobile-session-list|web: Add a flat/by-workspace tab to the mobile session list]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

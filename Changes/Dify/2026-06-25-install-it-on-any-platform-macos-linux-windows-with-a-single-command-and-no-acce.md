@@ -4,20 +4,20 @@ date: '2026-06-25'
 description: 'Dify · 2026-06-25 · Mobile and Desktop: Install it on any platform (macOS,
   Linux, Windows) with a single command and no access token — binaries are published…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1199
+  lag_days: 2783
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24b780dbfb5d02fc18d320e592bd488114ef70a66ab107ba6060f0195bbf4f6d
+machine_hash: e15b747d9045e2373b1b9411ca3df03b579c262eb211b209d69c5df9cf746287
 product: dify
 product_name: Dify
 record:
@@ -45,7 +45,8 @@ record:
     and no…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]'
+- '[[Changes/Kimi Code/2026-06-24-reorganize-the-web-app-s-components-into-area-subdirectories-chat-settings-dialo|Reorganize
+  the web app''s components into area subdirectories…]]'
 - '[[Changes/OpenCode/2026-06-24-15-mobile-and-desktop-changes-in-v1-17-10|15 Mobile
   and Desktop changes in v1.17.10]]'
 - '[[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709
@@ -102,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

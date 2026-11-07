@@ -4,20 +4,20 @@ date: '2026-09-10'
 description: 'Lovable · 2026-09-10 · Pricing Model: You can now [share your Lovable
   invite link](https://docs.lovable.dev/introduction/dashboard-overview.md#share-lovable)…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1365
+  lag_days: 2983
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: b13890d33294e17b8c33cb50bd473d8fd8172e49d38ac00a4895dfb3065746de
+machine_hash: 920f20d8557e596548479a2de90ee3394251711c474c8e8ada1625442b6321a1
 product: lovable
 product_name: Lovable
 record:
@@ -57,8 +57,8 @@ record:
   title: Share your Lovable invite link from your phone
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month):
-  Up to 15 hours with GPT-Live-1]]'
+- '[[Changes/Synthesia/2026-09-09-get-a-clear-breakdown-of-credit-usage-with-a-new-billing-api-endpoint-so-you-can|Track
+  credit usage with the Billing API]]'
 - '[[Changes/Claude Code/2026-09-10-2-pricing-model-changes-in-v2-1-268|2 Pricing
   Model changes in v2.1.268]]'
 - '[[Changes/Dify/2026-09-10-4-pricing-model-changes-in-1-17-1|4 Pricing Model changes
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

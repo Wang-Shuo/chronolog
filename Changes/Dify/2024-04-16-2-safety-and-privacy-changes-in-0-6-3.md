@@ -4,20 +4,20 @@ date: '2024-04-16'
 description: 'Dify · 2024-04-16 · Safety and Privacy: 2 changes in v0.6.3 — chore:
   add sandbox permission tooltip by @Yeuoly in https://github.com/langgenius/dify/pull/3477'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 366
+  lag_days: 1358
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0deb81ae103a66435b4dbd628f33b5de6a3ff66011241832a11fc13e027cd84
+machine_hash: 54278ce7c958001160630e4afa46f3b35380b25ecc1e076394c643d27f97cec1
 product: dify
 product_name: Dify
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

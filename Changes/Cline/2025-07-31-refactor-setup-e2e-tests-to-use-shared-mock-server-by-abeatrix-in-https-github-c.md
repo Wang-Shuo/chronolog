@@ -4,19 +4,20 @@ date: '2025-07-31'
 description: 'Cline · 2025-07-31 · Collaboration: refactor: setup e2e tests to use
   shared mock server by @abeatrix in https://github.com/cline/cline/pull/5245'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 799
+  lag_days: 2393
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1367274d8cb4aaad07b9ea96b6d7cef201ad96ab3ec459aedf9b22bd2ec1b87a
+machine_hash: 437eb70659f6ea6cf12022fd1e1c442519c77ed49d95477857d984b95775a36d
 product: cline
 product_name: Cline
 record:
@@ -42,8 +43,8 @@ record:
   title: 'refactor: setup e2e tests to use shared mock server'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-14-4-collaboration-changes-in-v0-6-16|4 Collaboration
-  changes in v0.6.16]]'
+- '[[Changes/Descript/2025-07-17-set-default-layout-packs-ensure-every-new-project-starts-with-your-team-s-prefer|Set
+  default layout packs - Ensure every new project starts with your team''s…]]'
 - "[[Changes/Open WebUI/2025-07-19-user-group-add-remove-endpoints-effortlessly-add-or-remove-users-from-groups-wit|\U0001F465
   User Group Add/Remove Endpoints]]"
 - '[[Changes/Cline/2025-07-22-move-duplicated-code-for-loading-the-protobuf-descriptor-set-into-a-shared-util|Move
@@ -83,13 +84,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-move-duplicated-code-for-loading-the-protobuf-descriptor-set-into-a-shared-util|Move duplicated code for loading the protobuf descriptor set into a shared util file]]
-- Later: 2025-08-01 · Claude · [[Changes/Claude/2025-08-01-project-sharing|Project Sharing]]
+- Later: 2025-07-31 · Descript · [[Changes/Descript/2025-07-31-quick-share-multi-track-support|Quick Share & multi-track support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

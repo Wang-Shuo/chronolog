@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ab735d82f61ecb2982350c2e5a1b4c21ee75884de49cae0d7f88a11fcd0c9f7f
+machine_hash: e10e9960fe4f04eaee5b13629d792eb67f5fb856a2c498ae029098b098e4c214
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,11 @@ record:
   title: '#9459 feat(personality) introduce model_personality config @dylan-hurd-oai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|Improved
-  memory for finding details from past chats (Plus & Pro)]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-16-inject-repo-memories-in-the-prompt-and-add-memory-storage-tool-to-remember-facts|Inject
   repo memories in the prompt and add memory storage tool to remember facts…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-3-memory-and-personalization-changes-in-v0-0-385|3
   Memory and Personalization changes in v0.0.385]]'
+- '[[Changes/Notion/2026-01-20-new-models-same-memory|New models, same memory]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'
 source_type: github_releases
 theme: memory
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-3-memory-and-personalization-changes-in-v0-0-385|3 Memory and Personalization changes in v0.0.385]]
+- Earlier: 2026-01-20 · Notion · [[Changes/Notion/2026-01-20-new-models-same-memory|New models, same memory]]
 - Later: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-feat-a2a-introduce-memory-command-for-a2a-server-by-cocosheng-g-in-https-github|feat(a2a): Introduce /memory command for a2a server]]
 <!-- chronolog:end -->
 

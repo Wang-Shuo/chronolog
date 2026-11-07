@@ -4,20 +4,20 @@ date: '2026-01-13'
 description: 'OpenCode · 2026-01-13 · Safety and Privacy: 2 changes in v1.1.16 — Core
   Respect agent task permission for nested sub-agents'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1003
+  lag_days: 1995
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63fe0c306ff136977d94858c5651fda9c43ac8b37a50d656335f7b64b9488396
+machine_hash: fc55e723bbb8aaecbbccec41b84d017e9caf05dc4a32cc612b4e1262d22bd847
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Safety and Privacy changes in v1.1.16
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-5-safety-and-privacy-changes-in-1-11-3|5 Safety and Privacy
-  changes in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-provide-inline-feedback-when-rejecting-tool-permission-requests-so-agents-don-t|Provide
   inline feedback when rejecting tool permission requests so agents don''t have…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-simplified-servicenow-tickets-setup-with-per-table-acl-rules-web-microsoft-365-c|Simplified
+  ServiceNow tickets setup with per-table ACL rules…]]'
 - '[[Changes/OpenCode/2026-01-13-terminal-add-fullscreen-view-to-permission-prompt|Terminal
   Add fullscreen view to permission prompt]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-13-v1-1-16-6a736e6f|opencode-2026-01-13-v1-1-16-6a736e6f]]'
@@ -93,7 +93,7 @@ Source: https://opencode.ai/changelog/v1.1.16
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

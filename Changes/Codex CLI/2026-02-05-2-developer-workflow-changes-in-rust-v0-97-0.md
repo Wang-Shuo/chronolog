@@ -4,19 +4,20 @@ date: '2026-02-05'
 description: 'Codex CLI · 2026-02-05 · Developer Workflow: 2 changes in 0.97.0 — Added
   a new `/debug-config` slash command in the TUI to inspect effective configuration…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1055
+  lag_days: 2704
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58bdc82af879dea6c3d5ed7edaa0e9529cc4a64c7b7505a2bd009472523b06e7
+machine_hash: 43a04a812089dc9b0ddd63220e6fd9ef56a056658c4d803a3c9f763c1e353a36
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.97.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

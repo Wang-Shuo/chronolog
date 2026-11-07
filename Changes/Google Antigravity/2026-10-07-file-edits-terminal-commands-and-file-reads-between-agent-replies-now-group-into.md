@@ -4,20 +4,19 @@ date: '2026-10-07'
 description: 'Google Antigravity · 2026-10-07 · Editor Experience: File edits, terminal
   commands, and file reads between agent replies now group into a single collapsible…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1303
+  lag_days: 2887
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5c784496c68b6628a6e5295a0956e728f3a5051c18e8cba5964b3a41f4a6d863
+machine_hash: a517225517f361c4f9a7c91fa0fc1982f4c8a6bcc00918036b7bf2c590ccbf5b
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -103,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

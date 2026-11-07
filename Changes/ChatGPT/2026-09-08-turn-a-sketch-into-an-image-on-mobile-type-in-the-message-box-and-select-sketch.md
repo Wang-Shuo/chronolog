@@ -4,20 +4,20 @@ date: '2026-09-08'
 description: 'ChatGPT · 2026-09-08 · Mobile and Desktop: Turn a sketch into an image.
   On mobile, type @ in the message box and select Sketch. Draw your idea, then describe…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1274
+  lag_days: 2858
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: adb831b7da249538fd1d5aced61ac1f1c1f17e6bf48d209725a67c9a269beb83
+machine_hash: f63392da2bf5188d063676f22b55b12a90cc22ec5b4f5b75b5226739c30dbbe9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: Turn a sketch into an image
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-10-mobile-and-desktop-changes-in-v2026-9-1|10 Mobile
-  and Desktop changes in v2026.9.1]]'
 - '[[Changes/OpenCode/2026-09-04-desktop-increase-the-open-in-app-icon-size-for-better-visibility|Desktop
   Increase the open-in app icon size for better visibility]]'
 - '[[Changes/OpenClaw/2026-09-05-10-mobile-and-desktop-changes-in-v2026-9-2|10 Mobile
   and Desktop changes in v2026.9.2]]'
+- '[[Changes/Qoder/2026-09-05-installer-better-process-detection-and-install-recovery-on-windows|Installer:
+  Better process detection and install recovery on Windows]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-10-mobile-and-desktop-changes-in-v2026-9-2|10 Mobile and Desktop changes in v2026.9.2]]
+- Earlier: 2026-09-05 · Qoder · [[Changes/Qoder/2026-09-05-installer-better-process-detection-and-install-recovery-on-windows|Installer: Better process detection and install recovery on Windows]]
 - Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-10-mobile-and-desktop-changes-in-v2026-9-3|10 Mobile and Desktop changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

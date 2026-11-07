@@ -4,20 +4,20 @@ date: '2025-01-15'
 description: 'ChatGPT · 2025-01-15 · Files and Data: Edit a full model response in
   Canvas'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 601
+  lag_days: 1946
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 306f254857632322820403989c28aaca33a1057b2cc49ad5cdd422658827759d
+machine_hash: 8a3eb9b381dd42b26fbbb1386b529a3783b3e008cd963c5770d8eabff6b5faf1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,9 +53,9 @@ record:
   title: Edit a full model response in Canvas
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-12-11-hi-all-today-we-re-launching-a-research-preview-of-a-new-worldbuilding-tool-patc|Hi
-  all! Today we’re launching a research preview of a new worldbuilding tool: Patchwork]]'
 - '[[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]'
+- '[[Changes/Descript/2024-12-13-we-ve-added-a-new-layer-type-in-the-elements-panel-called-placeholder-https-help|Descript
+  adds a new layer type in the Elements panel called…]]'
 - '[[Changes/Dify/2025-01-07-3-files-and-data-changes-in-0-15-0|3 Files and Data changes
   in 0.15.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82|chatgpt-2025-01-15-import-from-chat-into-canvas-e328bc82]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

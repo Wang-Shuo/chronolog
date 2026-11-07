@@ -4,20 +4,19 @@ date: '2026-06-16'
 description: 'Windsurf · 2026-06-16 · Editor Experience: Enabled the `Cmd+.` mode-toggle
   shortcut from the empty editor welcome panel.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1190
+  lag_days: 2774
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 21ff643e6f852aedb1a16f7182649250d10d048a0238bea4fd8cb320138d1003
+machine_hash: 82a03f14728abd96e16ac963f219166e278c304a89b6d1fb0df3abc828365ecb
 product: windsurf
 product_name: Windsurf
 record:
@@ -54,10 +53,10 @@ record:
   title: Agent and Editor modes
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-16-4-editor-experience-changes-in-v1-0-63|4
-  Editor Experience changes in v1.0.63]]'
 - '[[Changes/Lovable/2026-06-16-see-when-you-have-unpublished-changes|See when you
   have unpublished changes]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-modern-unified-and-updated-look-and-feel-in-microsoft-edge-web-microsoft-365-cop|Modern,
+  unified, and updated look and feel in Microsoft Edge…]]'
 - '[[Changes/Windsurf/2026-06-16-removed-the-explain-sparkle-button-from-the-editor-breadcrumbs|Removed
   the Explain sparkle button from the editor breadcrumbs]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-16-v3-2-16-684ac1d4|windsurf-2026-06-16-v3-2-16-684ac1d4]]'
@@ -92,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-see-when-you-have-unpublished-changes|See when you have unpublished changes]]
+- Earlier: 2026-06-16 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-16-modern-unified-and-updated-look-and-feel-in-microsoft-edge-web-microsoft-365-cop|Modern, unified, and updated look and feel in Microsoft Edge…]]
 - Later: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-desktop-added-a-home-tab-toggle-so-you-can-quickly-switch-between-home-and-your|Desktop Added a Home tab toggle so you can quickly switch between Home and your last tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

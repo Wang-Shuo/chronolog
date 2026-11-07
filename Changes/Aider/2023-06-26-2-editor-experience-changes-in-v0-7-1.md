@@ -5,20 +5,19 @@ description: 'Aider · 2023-06-26 · Editor Experience: 2 changes in v0.7.1 — 
   `--message` to give GPT that one instruction and then exit after it replies and
   any edits…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 104
+  lag_days: 1688
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: afa3297b2ef1387c09f57ba855ed5ac400061476dbe696c9894ae2a28aab1377
+machine_hash: ec7794aa9fd8b96eeee11d9abd27230f262dd081fa26fd74fd5aadc937d2c29e
 product: aider
 product_name: Aider
 record:
@@ -91,7 +90,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.7.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

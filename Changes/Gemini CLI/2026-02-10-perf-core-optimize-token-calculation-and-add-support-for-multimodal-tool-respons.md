@@ -4,20 +4,20 @@ date: '2026-02-10'
 description: 'Gemini CLI · 2026-02-10 · Multimodal Input: perf(core): optimize token
   calculation and add support for multimodal tool responses by @abhipatel12 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 875
+  lag_days: 2643
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0714a520279a896863259b2325fc57200050128eb15507ccf6f0c5d66064f382
+machine_hash: 830d50b81f313efc61283ee6ea1da0d8c478b68e47cda1e8cd446b716c97395a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,12 @@ record:
     responses'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-12-21-2-multimodal-input-changes-in-v0-6-42|2 Multimodal
-  Input changes in v0.6.42]]'
 - '[[Changes/Dify/2026-02-03-3-multimodal-input-changes-in-1-12-0|3 Multimodal Input
   changes in 1.12.0]]'
 - '[[Changes/Ollama/2026-02-03-glm-ocr-https-ollama-com-library-glm-ocr-glm-ocr-is-a-multimodal-ocr-model-for-c|GLM-OCR((source
   link) GLM-OCR is a multimodal OCR model…]]'
+- '[[Changes/Descript/2026-02-10-2-multimodal-input-changes-in-release-roundup-february-10th-2026|2
+  Multimodal Input changes in Release roundup—February 10th, 2026]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186|gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186]]'
 source_type: github_releases
 theme: multimodal
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-02-03 · Ollama · [[Changes/Ollama/2026-02-03-glm-ocr-https-ollama-com-library-glm-ocr-glm-ocr-is-a-multimodal-ocr-model-for-c|GLM-OCR((source link) GLM-OCR is a multimodal OCR model…]]
+- Earlier: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-2-multimodal-input-changes-in-release-roundup-february-10th-2026|2 Multimodal Input changes in Release roundup—February 10th, 2026]]
 - Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-11336-always-expose-view-image-and-return-unsupported-image-input-error-aibrahim|♯11336 Always expose view_image and return unsupported image-input error @aibrahim-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

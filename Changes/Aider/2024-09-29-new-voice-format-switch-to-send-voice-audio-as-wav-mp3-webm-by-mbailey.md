@@ -4,20 +4,20 @@ date: '2024-09-29'
 description: 'Aider · 2024-09-29 · Voice and Audio: New `--voice-format` switch to
   send voice audio as wav/mp3/webm, by @mbailey.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 447
+  lag_days: 2274
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c9cbdac1e32705288b67840398b169028f9c4e91074d0ebf159a47c4b7ec3d56
+machine_hash: b8d7ac9992213cd909d4503e38389e4be76df07e3593a1634455f1507d5cdc29
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: New `--voice-format` switch to send voice audio as wav/mp3/webm, by @mbailey
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-19-customizable-playback-speed-playback-speed-control-is-now-available-in-call-mode|\U0001F39A️
-  Customizable Playback Speed]]"
 - "[[Changes/Open WebUI/2024-09-24-enhanced-audio-support-now-includes-support-for-audio-x-m4a-files-broadening-com|\U0001F3B5
   Enhanced Audio Support]]"
 - "[[Changes/Open WebUI/2024-09-25-call-url-parameter-fix-corrected-functionality-for-call-url-search-parameter-ens|\U0001F4DE
   'Call' URL Parameter Fix]]"
+- '[[Changes/Synthesia/2024-09-26-record-your-screen-in-one-take-then-turn-it-into-a-polished-synthesia-video-with|Try
+  our new AI Screen Recorder]]'
 source_release: '[[Releases/Aider/aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f|aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f]]'
 source_type: github_releases
 theme: voice
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-09-25 · Open WebUI · [[Changes/Open WebUI/2024-09-25-call-url-parameter-fix-corrected-functionality-for-call-url-search-parameter-ens|📞 'Call' URL Parameter Fix]]
+- Earlier: 2024-09-26 · Synthesia · [[Changes/Synthesia/2024-09-26-record-your-screen-in-one-take-then-turn-it-into-a-polished-synthesia-video-with|Try our new AI Screen Recorder]]
 - Later: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-2-voice-and-audio-changes-in-v0-3-31|2 Voice and Audio changes in v0.3.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

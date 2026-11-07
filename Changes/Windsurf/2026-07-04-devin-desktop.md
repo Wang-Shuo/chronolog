@@ -4,20 +4,20 @@ date: '2026-07-04'
 description: 'Windsurf · 2026-07-04 · Mobile and Desktop: Added "New session in space"
   to the session kebab menu.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1208
+  lag_days: 2792
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bf6c8e6cb6b0cecd603a50dbf0402049f8e5e59d3061474d46a70fccc4396d43
+machine_hash: 4ca0536cbad3b46e8dc2be622cadb04399019c6ca8d4e5184a1780e261e5e897
 product: windsurf
 product_name: Windsurf
 record:
@@ -61,10 +61,10 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Granola/2026-07-01-now-android-users-can-take-notes-anywhere-leave-the-laptop-behind-and-take-notes|Granola
-  for Android is here!]]'
 - '[[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile
   and Desktop changes in v1.17.13]]'
+- '[[Changes/Kimi Code/2026-07-03-keep-automatic-background-updates-from-flashing-a-console-window-on-windows|Keep
+  automatic background updates from flashing a console window on Windows]]'
 - '[[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit
   Desktop App]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-04-v3-4-22-cbfcfc79|windsurf-2026-07-04-v3-4-22-cbfcfc79]]'
@@ -110,13 +110,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit Desktop App]]
-- Later: 2026-07-06 · Lovable · [[Changes/Lovable/2026-07-06-lovable-desktop-app-is-now-on-windows|Lovable Desktop app is now on Windows]]
+- Later: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-3-mobile-and-desktop-changes-in-kimi-code-0-23-0|3 Mobile and Desktop changes in Kimi Code 0.23.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

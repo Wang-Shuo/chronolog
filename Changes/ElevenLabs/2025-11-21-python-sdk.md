@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3aa68eeeec163a8047d03975427d4f6f7bc04439a2932bb50031929e2eb3c7fe
+machine_hash: c78b7051379d23524c35006b55107a048e396452ec5bfcb811f2cad939c8a5b1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -52,12 +52,12 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-20-3-model-support-changes-in-v0-17-0|3 Model Support
-  changes in v0.17.0]]'
 - '[[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|More
   images in answers]]'
 - '[[Changes/Codex CLI/2025-11-21-chore-drop-model-max-output-tokens-by-jif-oai-in-https-github-com-openai-codex-p|chore:
   drop model_max_output_tokens]]'
+- '[[Changes/Descript/2025-11-21-gemini-3-now-available-in-underlord|Gemini 3 now
+  available in Underlord]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-11-21-2025-11-21-d3d6b6ca|elevenlabs-2025-11-21-2025-11-21-d3d6b6ca]]'
 source_type: elevenlabs_changelog
 theme: model-support
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-21 · Codex CLI · [[Changes/Codex CLI/2025-11-21-chore-drop-model-max-output-tokens-by-jif-oai-in-https-github-com-openai-codex-p|chore: drop model_max_output_tokens]]
+- Earlier: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-gemini-3-now-available-in-underlord|Gemini 3 now available in Underlord]]
 - Later: 2025-11-21 · Replit · [[Changes/Replit/2025-11-21-design-mode-create-stunning-websites-in-under-2-minutes|Design Mode: Create stunning websites in under 2 minutes]]
 <!-- chronolog:end -->
 
